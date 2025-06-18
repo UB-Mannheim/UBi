@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Wer ist Jörg Mechnich und welche Position bekleidet er?",
+    "answer": "Jörg Mechnich ist der stellvertretende Leiter der Abteilung Digitale Bibliotheksdienste an der Universität Mannheim. In dieser Funktion ist er verantwortlich für verschiedene Aufgaben, die die digitale Infrastruktur und Dienstleistungen der Bibliothek betreffen. Dazu gehören unter anderem Projekte, Softwareentwicklung, Serveradministration und die Durchführung von Kursen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/joerg-mechnich/"
+  },
+  {
+    "question": "Wie lauten die Kontaktinformationen von Jörg Mechnich?",
+    "answer": "Die Kontaktinformationen von Jörg Mechnich sind wie folgt: Er ist erreichbar unter der Adresse Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 281, 68161 Mannheim. Telefonisch kann er unter +49 621 181-2965 kontaktiert werden. Zudem ist seine E-Mail-Adresse joerg.mechnich@uni-mannheim.de. Seine ORCID-ID lautet 0000-0002-6406-4906, die unter https://orcid.org/0000-0002-6406-4906 einsehbar ist.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/joerg-mechnich/"
+  },
+  {
+    "question": "Welche Aufgaben hat Jörg Mechnich in seiner Position?",
+    "answer": "In seiner Position als stellvertretender Leiter der Abteilung Digitale Bibliotheksdienste hat Jörg Mechnich verschiedene Aufgaben. Dazu gehören die Leitung und Durchführung von Projekten, die Softwareentwicklung zur Verbesserung der digitalen Dienste, die Serveradministration zur Sicherstellung der technischen Infrastruktur sowie die Durchführung von Kursen, die den Nutzern der Bibliothek helfen, die digitalen Angebote besser zu nutzen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/joerg-mechnich/"
+  },
+  {
+    "question": "Wo kann ich Informationen zu den Öffnungszeiten der Bibliothek finden?",
+    "answer": "Informationen zu den Öffnungszeiten der Universitätsbibliothek Mannheim können auf der entsprechenden Webseite abgerufen werden. Diese enthält die aktuellen Zeiten, zu denen die Bibliothek für die Nutzer geöffnet ist, sowie eventuelle Änderungen oder besondere Öffnungszeiten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/oeffnungszeiten/"
+  },
+  {
+    "question": "Wie finde ich freie Sitzplätze in der Bibliothek?",
+    "answer": "Um freie Sitzplätze in der Universitätsbibliothek Mannheim zu finden, können Nutzer die spezielle Webseite besuchen, die Informationen über die Verfügbarkeit von Sitzplätzen anzeigt. Diese Seite hilft dabei, einen geeigneten Platz zum Arbeiten oder Studieren zu finden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/standorte/freie-sitzplaetze/"
+  },
+  {
+    "question": "Wo kann ich Auskunft und Beratung in der Bibliothek erhalten?",
+    "answer": "Für Auskunft und Beratung stehen den Nutzern der Universitätsbibliothek Mannheim verschiedene Möglichkeiten zur Verfügung. Informationen dazu sind auf der Webseite der Bibliothek zu finden, wo auch die Kontaktdaten und die verfügbaren Beratungsangebote aufgeführt sind.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/auskunft-und-beratung/"
+  },
+  {
+    "question": "Wann kann ich den Chat-Service der Bibliothek nutzen?",
+    "answer": "Der Chat-Service der Universitätsbibliothek Mannheim ist von Montag bis Freitag zwischen 10 und 18 Uhr verfügbar. Dieser Service ermöglicht es den Nutzern, direkt mit Bibliothekspersonal zu kommunizieren und Fragen zu stellen oder Unterstützung zu erhalten.",
+    "source": "Quelle: https://www2.bib.uni-mannheim.de/mibew/index.php/chat?locale=de"
+  }
+]

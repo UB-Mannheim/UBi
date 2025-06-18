@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Was ist MADATA und welche Funktionen bietet es für Forscherinnen und Forscher der Universität Mannheim?",
+    "answer": "MADATA ist der Forschungsdatenserver der Universität Mannheim, der es Forschenden ermöglicht, ihre Daten sicher abzulegen und nach Bedarf zugänglich zu machen. Alle Einträge in MADATA sind über DOI eindeutig zitierbar und werden in weiteren Forschungsdaten-Verzeichnissen wie datacite.org und da-ra.de nachgewiesen. Die Nutzung von MADATA ist individuell geregelt, wobei Eintragungen nur für Forschende der Universität Mannheim möglich sind. Zudem werden MADATA-Beiträge auf FAIRness (Findability, Accessibility, Interoperability and Reproducibility) geprüft, bevor einem Datensatz ein DOI zugewiesen wird. Diese Prüfung erfolgt in der Regel innerhalb von 5 Arbeitstagen. Bei Bedarf kann auch eine schnellere Zuweisung des DOIs angefragt werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/"
+  },
+  {
+    "question": "Wer sind die Ansprechpartner im Forschungsdatenzentrum (FDZ) der Universität Mannheim?",
+    "answer": "Das Team des Forschungsdatenzentrums (FDZ) der Universität Mannheim besteht aus mehreren Mitgliedern: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova und Larissa Will. Für Anfragen können die Forschenden die E-Mail-Adresse forschungsdaten@uni-mannheim.de nutzen oder die Adresse der Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim, kontaktieren.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/"
+  }
+]

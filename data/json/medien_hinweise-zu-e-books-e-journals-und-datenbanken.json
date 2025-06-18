@@ -1,0 +1,30 @@
+[
+  {
+    "question": "Welche E-Medien bietet die Universitätsbibliothek Mannheim an?",
+    "answer": "Die Universitätsbibliothek Mannheim hat ein umfangreiches Angebot an fachlichen E-Books, E-Journals und Datenbanken (E-Medien) ausgewählt und lizenziert. Alle E-Medien sind im Katalog Primo zu finden. Zudem können die Datenbanken über das Datenbank-Informationssystem (DBIS) und die E-Journals über die Elektronische Zeitschriftenbibliothek (EZB) aufgerufen werden. Fachlich relevante E-Medien sind auch auf den Webseiten zur fachlichen Recherche verlinkt. \n\nQuelle: https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/"
+  },
+  {
+    "question": "Wie können Studierende und Mitarbeiter der Universität Mannheim auf E-Medien zugreifen?",
+    "answer": "Studierende und Mitarbeiter der Universität Mannheim können auf die E-Medien sowohl auf dem Campus der Universität an PCs und im WLAN eduroam als auch außerhalb des Campus über den VPN-Client zugreifen. Bei der Anmeldung am VPN-Client muss die Gruppe „WebVPN“ ausgewählt werden, da der Zugriff über „WebVPN-Split“ nicht auf lizenzierte elektronische Medien zugreift. Alternativ können sie auch über Shibboleth auf die E-Medien zugreifen, wobei diese Funktion nicht für alle Medien verfügbar ist. Einige digitale Medien sind jedoch nur auf dem Campus nutzbar. \n\nQuelle: https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/"
+  },
+  {
+    "question": "Wie kann das wissenschaftliche Personal der Universität Mannheim einen Fernzugriff auf beck-online einrichten?",
+    "answer": "Wissenschaftliches Personal der Universität Mannheim kann einen persönlichen Account mit Fernzugriff auf beck-online beantragen, indem es einen entsprechenden Antrag ausfüllt. Dieser Antrag ist als PDF verfügbar. Studierende der Universität Mannheim haben ebenfalls die Möglichkeit, die Datenbank beck-online von außerhalb des Campus zu nutzen. \n\nQuelle: https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/beck-online_Remote_Antrag-2024.pdf"
+  },
+  {
+    "question": "Was ist erforderlich, um den Fernzugriff auf beck-online einzurichten?",
+    "answer": "Um den Fernzugriff auf beck-online einzurichten, müssen Sie sich zunächst auf dem Campus der Universität Mannheim befinden. Dort registrieren Sie sich kostenlos bei beck-online mit Ihrer universitären E-Mail-Adresse und aktivieren die Zwei-Faktor-Authentifizierung in Ihrem Account. Dazu benötigen Sie eine Authentifizierungs-App auf Ihrem PC/Mac oder Smartphone. Eine detaillierte Anleitung zur Einrichtung finden Sie auf der Website von beck-online. \n\nQuelle: https://rsw.beck.de/beck-online-service/services/studenten/studenten-2fa"
+  },
+  {
+    "question": "Wie funktioniert der Zugriff auf beck-online von außerhalb des Campus?",
+    "answer": "Wenn Sie sich außerhalb des Campus bei beck-online einloggen, müssen Sie nach der Eingabe von Benutzernamen und Passwort zusätzlich einen Sicherheitscode eingeben, der von Ihrer Authentifizierungs-App generiert wird. Bei Zugriffsproblemen können Sie sich an die E-Medien-Abteilung der Universitätsbibliothek wenden. Studierende kooperierender Einrichtungen und Privatpersonen mit Bibliotheksausweis haben nur an den PCs der Universitätsbibliothek Zugriff auf die meisten lizenzierten E-Medien, da die Lizenzverträge einen Zugriff von außerhalb nicht erlauben. \n\nQuelle: https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/"
+  },
+  {
+    "question": "Was sind die Nutzungsbedingungen für die E-Medien der Universitätsbibliothek Mannheim?",
+    "answer": "Die Nutzungsbedingungen für die E-Medien der Universitätsbibliothek Mannheim besagen, dass persönliche Zugangsdaten nicht an Dritte weitergegeben werden dürfen. Lizenzierte Inhalte dürfen nur für persönliche oder Forschungszwecke gespeichert und ausgedruckt werden. Die Nutzung unterliegt dem Urheberrecht, und der technische Schutzmechanismus der Verlage darf nicht umgangen werden. Systematischer Download von lizenzierten Inhalten ist nur im Rahmen des Urheberrechts und mit den vorgesehenen Funktionalitäten des Anbieters zulässig. Inhalte dürfen nicht an Dritte weitergegeben oder in Systeme Dritter eingespeist werden. Bei Fragen oder Problemen steht das Team E-Medien zur Verfügung. \n\nQuelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/"
+  },
+  {
+    "question": "Was sollten Sie tun, wenn Sie keinen Zugriff auf die E-Medien der Universitätsbibliothek Mannheim haben?",
+    "answer": "Wenn Sie keinen Zugriff auf die E-Medien der Universitätsbibliothek Mannheim haben, sollten Sie zunächst überprüfen, ob Sie der Universität Mannheim angehören und sich im Netz der Universität befinden (VPN oder eduroam). Wenn Sie nicht zur Universität gehören, können Sie die lizenzierten E-Medien nur an den PCs in der Universitätsbibliothek nutzen. Versuchen Sie auch, einen anderen Browser zu verwenden oder ein privates Fenster zu öffnen. Überprüfen Sie Ihre Datenschutzeinstellungen, da Tracking-Schutz verhindern kann, dass Sie als Angehörige*r der Universität erkannt werden. \n\nQuelle: https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/"
+  }
+]

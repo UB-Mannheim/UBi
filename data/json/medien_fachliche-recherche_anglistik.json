@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Welche Ressourcen bietet die Universität Mannheim für das Fach Anglistik an?",
+    "answer": "Die Universität Mannheim bietet eine Vielzahl von Ressourcen für das Fach Anglistik an, darunter Literatur, Datenbanken und verschiedene Sucheinstiege. Studierende können Kurse besuchen, um mehr über die Recherche in ihrem Fachgebiet zu erfahren, und individuelle Beratungen in Anspruch nehmen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/"
+  },
+  {
+    "question": "Wo finde ich Datenbanken zur Anglistik?",
+    "answer": "Datenbanken zur Anglistik und anderen Fachgebieten sind über das Datenbank-Informationssystem (DBIS) zugänglich. Hier finden Sie auch spezielle Fachinformationsdienste wie den FID Allgemeine und Vergleichende Literaturwissenschaft sowie den FID Linguistik. Weitere relevante Datenbanken sind für die Fachgebiete Allgemeines, Allgemeine und vergleichende Sprach- und Literaturwissenschaft sowie Medien- und Kommunikationswissenschaften verfügbar.",
+    "source": "Quelle: https://dbis.ur.de/UBMAN/browse/subjects/5/?availability-filter-free=on&availability-filter-local=on"
+  },
+  {
+    "question": "Wie kann ich E-Journals für das Fach Anglistik finden?",
+    "answer": "E-Journals für das Fach Anglistik sind in der Elektronischen Zeitschriftenbibliothek (EZB) und im Katalog Primo der Universität Mannheim zu finden. Diese Plattformen bieten Zugang zu einer Vielzahl von elektronischen Zeitschriften, die für die Forschung und das Studium in der Anglistik relevant sind.",
+    "source": "Quelle: http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=H"
+  },
+  {
+    "question": "Welche E-Books stehen für das Fach Anglistik zur Verfügung?",
+    "answer": "Die Universitätsbibliothek Mannheim bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließlich Anglistik. Diese E-Books können im Katalog Primo recherchiert werden und sind über das Netzwerk der Universität zugänglich. Zu den ausgewählten E-Book-Paketen gehören unter anderem Arden Shakespeare, Cambridge Companions Online und Oxford Bibliographies.",
+    "source": "Quelle: https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB"
+  },
+  {
+    "question": "Welche fachlichen Internetquellen sind für die Anglistik relevant?",
+    "answer": "Für die Anglistik sind verschiedene fachliche Internetquellen von Bedeutung, darunter Digital Humanities Plattformen wie Clarin-D und DARIAH-DE sowie KI-Ressourcen für Literaturrecherche und Textverstehen. Zudem gibt es zahlreiche Blogs und Podcasts, die sich mit Linguistik und Literatur beschäftigen, wie etwa Language Log und Literary Hub.",
+    "source": "Quelle: http://clarin-d.de/"
+  },
+  {
+    "question": "Wo kann ich Literatur zum Fach Anglistik vor Ort finden?",
+    "answer": "Im Bibliotheksbereich A3 der Universität Mannheim finden Sie Literatur zum Fach Anglistik, die vor Ort genutzt werden kann. Die Medien sind frei zugänglich und nach Themengebieten aufgestellt. Ausleihen sind jedoch nur für wissenschaftliches Personal der Universität möglich. Studierende können im Ausleihzentrum Schloss Westflügel weitere Literatur ausleihen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/standorte/bb-a3/"
+  },
+  {
+    "question": "Welche Forschungs­einrichtungen sind in der Nähe der Universität Mannheim relevant?",
+    "answer": "In der Nähe der Universität Mannheim gibt es mehrere Forschungs­einrichtungen, die für die Anglistik von Bedeutung sind, darunter die Bibliothek des DAI Heidelberg, das Leibniz-Institut für Deutsche Sprache und das Mannheim Eye LAB. Diese Einrichtungen bieten spezielle Ressourcen und Unterstützung für die Forschung in der Anglistik.",
+    "source": "Quelle: https://dai-heidelberg.de/de/unsere-angebote/bibliothek/"
+  },
+  {
+    "question": "Welche Kurse und Tutorials bietet die Universität Mannheim für die Anglistik an?",
+    "answer": "Die Universitätsbibliothek Mannheim bietet regelmäßig Schulungen zur Recherche in der Anglistik an. Darüber hinaus können Studierende jederzeit online Tutorials absolvieren. Es gibt spezielle Kurse, die sich auf Study Skills konzentrieren, sowie Tutorials zur MLA International Bibliography, die für Literatur, Linguistik und Kulturwissenschaften relevant ist.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/"
+  },
+  {
+    "question": "Wie unterstützt die Universitätsbibliothek Mannheim beim wissenschaftlichen Arbeiten?",
+    "answer": "Die Universitätsbibliothek Mannheim bietet zahlreiche Ratgeber und Schulungsangebote zum wissenschaftlichen Arbeiten an. Dazu gehören Schreibberatungen und Informationen zu Literaturverwaltungsprogrammen. Studierende können im Bibliotheksbereich A3 und in der Lehrbuchsammlung relevante Materialien finden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/standorte/bb-a3/"
+  },
+  {
+    "question": "Wer ist der Fachreferent für Anglistik an der Universität Mannheim?",
+    "answer": "Dr. Rudolf Nink, M.A. ist der Fachreferent für Anglistik an der Universität Mannheim. Er ist zuständig für die Literaturauswahl und -erschließung in den Fächern Anglistik, Amerikanistik, Germanistik und weiteren. Zudem bietet er fachliche Beratung bei Recherchefragen und führt Schulungen im Fachbereich durch.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/"
+  }
+]

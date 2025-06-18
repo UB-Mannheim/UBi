@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Wo kann ich verschiedene Finanzdaten finden?",
+    "answer": "Es gibt mehrere Datenbanken, die unterschiedliche Finanzdaten bereitstellen. Zum Beispiel können Analystenprognosen über I/B/E/S abgerufen werden, während Informationen zu Mutual Funds über CRSP und die Mutual Fund Holdings-Datenbank verfügbar sind. Für Buchhaltungsdaten sind Orbis und COMPUSTAT nützlich. Die Datenbanken sind auf verschiedene Themen spezialisiert, darunter Banken, M&A, und Unternehmensinformationen. Eine Übersicht über die verfügbaren Datenquellen ist in der Tabelle im Abschnitt 'Where to find which data' zu finden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/corporate-and-financial-databases/"
+  },
+  {
+    "question": "Was sind die Wharton Research Data Services (WRDS)?",
+    "answer": "Die Wharton Research Data Services (WRDS) sind eine webbasierte Schnittstelle, die Zugang zu einer Vielzahl von Finanzdatenbanken bietet. WRDS ermöglicht es Nutzern, auf verschiedene Datenquellen zuzugreifen, die für die Forschung und Analyse im Finanzbereich nützlich sind. Um Zugang zu erhalten, müssen sich Benutzer registrieren. Weitere Informationen über WRDS und den Zugang sind auf der WRDS-Website verfügbar.",
+    "source": "Quelle: https://dbis.ur.de/UBMAN/resources/8646"
+  },
+  {
+    "question": "Was enthält das Aktienführer-Datenarchiv?",
+    "answer": "Das Aktienführer-Datenarchiv ist eine wichtige Quelle für historische Daten über den deutschen Finanzmarkt und Unternehmen. Es umfasst standardisierte Berichte von deutschen und ausländischen Unternehmen, die an einer deutschen Börse gehandelt wurden, und bietet Informationen über Hauptsitze, Management, Betriebsabläufe, Investitionen, Aktionärsstruktur und Gewinn- und Verlustrechnungen. Die Daten sind von 1956 bis 2016 verfügbar, und die Berichte sind als digitalisierte Volltexte von 1870 bis 2016 zugänglich. Der Zugang ist kostenlos innerhalb des IP-Bereichs der Universität Mannheim.",
+    "source": "Quelle: https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php"
+  },
+  {
+    "question": "Was ist die Bank Focus-Datenbank?",
+    "answer": "Bank Focus ist eine umfassende Datenbank, die Informationen über Banken weltweit bereitstellt. Sie kombiniert Inhalte von Bureau van Dijk und Moody's Investor Service und enthält detaillierte Informationen über 44.000 Banken, darunter 29.000 US-Banken und 15.000 Nicht-US-Banken. Die Datenbank bietet standardisierte Berichte und Kennzahlen, die regelmäßig aktualisiert werden, um die neuesten Rechnungslegungs- und regulatorischen Offenlegungen widerzuspiegeln. Der Zugang erfolgt über die Bureau van Dijk-Oberfläche oder über WRDS, wobei eine Registrierung erforderlich ist.",
+    "source": "Quelle: https://bankfocus.bvdinfo.com/ip"
+  },
+  {
+    "question": "Was bietet die COMPUSTAT Execucomp-Datenbank?",
+    "answer": "Die COMPUSTAT Execucomp-Datenbank von Standard & Poor's bietet Daten zur Vergütung von Führungskräften, die direkt aus den jährlichen Proxy-Erklärungen der Unternehmen gesammelt werden. Die Daten umfassen detaillierte Informationen zu Gehalt, Boni, Optionen, Aktienvergaben, nicht-bilanziellen Anreizplänen, Renten und anderen Vergütungselementen. Der Zugang zu diesen Daten erfolgt über WRDS, wo auch weitere Informationen und Dokumentationen zur Verfügung stehen.",
+    "source": "Quelle: https://wrds-www.wharton.upenn.edu/login/"
+  },
+  {
+    "question": "Was ist COMPUSTAT Global?",
+    "answer": "COMPUSTAT Global ist eine Datenbank, die umfassende Finanz- und Marktdaten für börsennotierte Unternehmen in über 80 Ländern bereitstellt. Sie deckt mehr als 90 % der weltweiten Marktkapitalisierung ab und bietet Hunderte von Datenpunkten, Kennzahlen und bis zu 12 Jahre jährliche Historie. Die Daten sind so gestaltet, dass sie die unterschiedlichen tatsächlichen Berichterstattungspraktiken weltweit widerspiegeln und gleichzeitig eine minimale Normalisierung ermöglichen. Der Zugang erfolgt über WRDS, wo auch Dokumentationen zur Verfügung stehen.",
+    "source": "Quelle: https://wrds-www.wharton.upenn.edu/login/"
+  },
+  {
+    "question": "Was enthält die COMPUSTAT North America-Datenbank?",
+    "answer": "Die COMPUSTAT North America-Datenbank bietet grundlegende und Marktdaten zu mehr als 30.000 aktiven und inaktiven börsennotierten Unternehmen in den USA und Kanada. Sie umfasst über 300 jährliche und 100 vierteljährliche Datenpunkte, darunter Gewinn- und Verlustrechnungen, Bilanzen und Kapitalflussrechnungen. Die Datenbank enthält auch Informationen zu Indizes, Branchensegmenten, Banken, Marktpreisen, Dividenden und Gewinnen. Der Zugang erfolgt über WRDS, wo auch weitere Informationen zur Verfügung stehen.",
+    "source": "Quelle: https://wrds-www.wharton.upenn.edu/login/"
+  },
+  {
+    "question": "Was bietet die CRSP-Datenbank?",
+    "answer": "Die CRSP-Datenbank (Center for Research in Security Prices) enthält die umfassendste Sammlung von Sicherheitskursen, Renditen und Volumendaten für die NYSE, AMEX und Nasdaq-Börsen. Sie bietet auch zusätzliche Dateien für Aktienindizes, Beta- und kapitalbasierte Portfolios sowie Daten zu Staatsanleihen und risikofreien Zinssätzen. Die Universität Mannheim hat derzeit ein Abonnement für die CRSP-Aktien- und Indizes-Datenbank. Der Zugang erfolgt über WRDS, wo auch detaillierte Datenbeschreibungen zur Verfügung stehen.",
+    "source": "Quelle: https://wrds-www.wharton.upenn.edu/login/"
+  },
+  {
+    "question": "Was ist D&B Hoovers?",
+    "answer": "D&B Hoovers ist eine Datenbank, die mehr als 220 Millionen Geschäftsinformationen aus 30.000 Quellen in 190 Ländern kombiniert. Sie bietet klassische Unternehmensdaten wie Adressen, Sektoren, Mitarbeiterzahlen und Risikoklassen, die mit Daten aus Online-Quellen und Signalinformationen angereichert sind. Die Daten werden täglich aktualisiert. Der Zugang zu D&B Hoovers erfolgt über die bereitgestellte URL.",
+    "source": "Quelle: https://dbis.ur.de/UBMAN/resources/105992"
+  },
+  {
+    "question": "Was bietet die I/B/E/S-Datenbank?",
+    "answer": "Die Institutional Brokers Estimates System (I/B/E/S) bietet Konsens- und Detailprognosen von Sicherheitsanalysten, einschließlich Gewinn pro Aktie, Umsatz, Cashflow, langfristige Wachstumsprognosen und Aktienempfehlungen. Diese Daten sind für die Analyse von Unternehmensprognosen und Markttrends nützlich. Der Zugang erfolgt über WRDS, wo auch weitere Informationen zur Verfügung stehen.",
+    "source": "Quelle: https://wrds-www.wharton.upenn.edu/login/"
+  },
+  {
+    "question": "Was enthält die Institutional (13f) Holdings-Datenbank?",
+    "answer": "Die Thomson/Refinitiv Institutional Holdings (13F) Datenbank bietet Informationen über die Bestände und Transaktionen von institutionellen Anlegern, die Form 13F bei der SEC einreichen. Diese Datenbank enthält Eigentumsinformationen von institutionellen Managern mit einem verwalteten Vermögen von 100 Millionen Dollar oder mehr. Der Zugang erfolgt über WRDS, wo auch weitere Informationen zur Verfügung stehen.",
+    "source": "Quelle: https://wrds-www.wharton.upenn.edu/login/"
+  },
+  {
+    "question": "Was ist LSEG Workspace?",
+    "answer": "LSEG Workspace ist eine umfassende Quelle für Unternehmens- und Marktdaten. Die Plattform bietet eine Vielzahl von Finanzindikatoren, Informationen zu Aktienmärkten, Anleihen, Geld- und Devisenmärkten sowie zu wichtigen Rohstoffen. Die meisten Daten sind für einen bequemen Download verfügbar. Der Zugang erfolgt über die ILIAS-Gruppe der Universität Mannheim, und es gibt spezielle Schulungsressourcen und Tutorials für die Nutzung der Plattform.",
+    "source": "Quelle: https://www.lseg.com/en/training/learning-centre/"
+  },
+  {
+    "question": "Was bietet die Mutual Fund Holdings-Datenbank?",
+    "answer": "Die Thomson/Refinitiv Mutual Fund Holdings-Datenbank bietet Informationen über die Wertpapierbestände aller registrierten Mutual Funds, die ihre Bestände bei der SEC melden, sowie über 3.000 globale Fonds. Die gemeldeten Wertpapiere umfassen alle NYSE/AMEX/NASDAQ, Toronto und Montreal Aktien. Der Zugang erfolgt über WRDS, wo auch weitere Informationen zur Verfügung stehen.",
+    "source": "Quelle: https://wrds-www.wharton.upenn.edu/login/"
+  },
+  {
+    "question": "Was enthält die Orbis-Datenbank?",
+    "answer": "Orbis enthält Informationen über mehr als 275 Millionen Unternehmen weltweit, mit einem Schwerpunkt auf Informationen über private Unternehmen. Die Datenbank kombiniert Informationen aus regulatorischen und anderen Quellen und liefert Unternehmensinformationen mit Mehrwert. Orbis kann verwendet werden, um einzelne Unternehmen oder Gruppen von Unternehmen zu recherchieren und zu analysieren. Der Zugang erfolgt über die Bureau van Dijk-Oberfläche, und es gibt erweiterte Zugangsoptionen für Professoren und akademisches Personal der Universität Mannheim.",
+    "source": "Quelle: http://dbis.uni-regensburg.de/warpto.php?bib_id=ubman&color=8&titel_id=12630&url=https%3A%2F%2Forbis4.bvdinfo.com%2Fip"
+  },
+  {
+    "question": "Was bietet die SDC Worldwide M&A-Datenbank?",
+    "answer": "Die SDC Worldwide M&A-Datenbank bietet Daten zu weltweiten Fusionen, Übernahmen und Allianzen sowie zu Aktienrückkäufen. Die Datenbank umfasst etwa 672.000 globale M&A-Transaktionen seit 1985, wobei Daten für die USA seit 1979 verfügbar sind. Der Zugang erfolgt über WRDS, wo auch weitere Informationen zur Verfügung stehen.",
+    "source": "Quelle: https://wrds-www.wharton.upenn.edu/login/"
+  },
+  {
+    "question": "Was ist S&P Capital IQ Pro?",
+    "answer": "S&P Capital IQ Pro ist eine Datenbank, die Finanzdaten, Nachrichten und Analysen für mehr als 6.500 öffentliche und über 50.000 private Unternehmen aus verschiedenen Branchen bereitstellt, darunter Banken, Versicherungen und Finanzdienstleistungen. Der Zugang zur Datenbank ist auf Mitglieder der Universität Mannheim beschränkt und erfordert eine persönliche Registrierung mit der E-Mail-Adresse der Universität Mannheim.",
+    "source": "Quelle: https://platform.spgi.spglobal.com/"
+  },
+  {
+    "question": "Was enthält die Zephyr-Datenbank?",
+    "answer": "Zephyr ist eine umfassende Datenbank für Deal-Informationen, die M&A-Forschung unterstützt. Sie enthält Informationen zu M&A, IPOs, Private Equity und Venture Capital-Deals sowie Gerüchte. Zephyr hat Informationen zu 1,6 Millionen Deals und Gerüchten, wobei jährlich über 100.000 neue hinzugefügt werden. Der Zugang erfolgt über die Bureau van Dijk-Oberfläche.",
+    "source": "Quelle: https://zephyr.bvdinfo.com/ip"
+  },
+  {
+    "question": "Wo finde ich weitere Informationen zu Finanzdatenbanken?",
+    "answer": "Zusätzliche Informationen zu Finanzdatenbanken können in der Ilias-Gruppe 'Finance Databases' der Universität Mannheim gefunden werden. Diese Gruppe bietet Informationen und Koordination für den Zugang zu verschiedenen Datenbanken. Außerdem sind Öffnungszeiten, freie Sitzplätze und Beratungsangebote der Bibliothek auf den entsprechenden Webseiten verfügbar.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/oeffnungszeiten/"
+  }
+]

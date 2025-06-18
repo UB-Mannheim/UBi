@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Wer ist Katharina Selzer und welche Position bekleidet sie?",
+    "answer": "Katharina Selzer ist die Leiterin der Abteilung Verwaltung, Haushalt und Technik an der Universität Mannheim. In dieser Funktion ist sie verantwortlich für die administrativen und technischen Belange der Universitätsbibliothek. Ihre Aufgaben umfassen die Organisation und Verwaltung der Ressourcen sowie die technische Unterstützung der Bibliotheksdienste.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/katharina-selzer/"
+  },
+  {
+    "question": "Wie kann man Katharina Selzer kontaktieren?",
+    "answer": "Katharina Selzer kann über verschiedene Kontaktmöglichkeiten erreicht werden. Ihre Adresse lautet: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 276, 68161 Mannheim. Telefonisch ist sie unter der Nummer +49 621 181-2943 erreichbar. Zudem kann sie per E-Mail unter katharina.selzer@uni-mannheim.de kontaktiert werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/katharina-selzer/"
+  },
+  {
+    "question": "Wo findet man die Öffnungszeiten der Universitätsbibliothek Mannheim?",
+    "answer": "Die Öffnungszeiten der Universitätsbibliothek Mannheim sind auf der offiziellen Webseite der Bibliothek zu finden. Dort werden die aktuellen Zeiten angegeben, zu denen die Bibliothek für die Öffentlichkeit zugänglich ist.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/oeffnungszeiten/"
+  },
+  {
+    "question": "Wie kann man Informationen über freie Sitzplätze in der Universitätsbibliothek Mannheim erhalten?",
+    "answer": "Informationen über freie Sitzplätze in der Universitätsbibliothek Mannheim sind ebenfalls auf der Webseite der Bibliothek verfügbar. Diese Seite zeigt in Echtzeit an, wie viele Sitzplätze aktuell verfügbar sind, was den Besuchern hilft, ihren Aufenthalt besser zu planen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/standorte/freie-sitzplaetze/"
+  },
+  {
+    "question": "Wo kann man Auskunft und Beratung in der Universitätsbibliothek Mannheim erhalten?",
+    "answer": "Die Universitätsbibliothek Mannheim bietet Auskunft und Beratung über ihre Webseite an. Dort finden Nutzer Informationen zu verschiedenen Themen, die ihnen bei der Nutzung der Bibliotheksdienste helfen können. Die Bibliothek stellt sicher, dass die Nutzer die benötigte Unterstützung erhalten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/auskunft-und-beratung/"
+  },
+  {
+    "question": "Wann ist der Chat-Service der Universitätsbibliothek Mannheim verfügbar?",
+    "answer": "Der Chat-Service der Universitätsbibliothek Mannheim ist von Montag bis Freitag zwischen 10 und 18 Uhr verfügbar. Dieser Service ermöglicht es den Nutzern, direkt mit Bibliothekspersonal zu kommunizieren und schnell Antworten auf ihre Fragen zu erhalten.",
+    "source": "Quelle: https://www2.bib.uni-mannheim.de/mibew/index.php/chat?locale=de"
+  }
+]

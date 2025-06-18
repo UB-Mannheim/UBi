@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Wo können alle Publikationen von Beschäftigten der Universitätsbibliothek gefunden werden?",
+    "answer": "Alle Publikationen von Beschäftigten der Universitätsbibliothek sind auf dem Publikationsserver MADOC verfügbar. Dieser Server bietet eine zentrale Anlaufstelle für die Veröffentlichung und den Zugriff auf wissenschaftliche Arbeiten und andere Publikationen, die von den Mitarbeitern der Bibliothek erstellt wurden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/publikationen/"
+  },
+  {
+    "question": "Welche Publikationen wurden im Jahr 2025 veröffentlicht?",
+    "answer": "Im Jahr 2025 wurden mehrere bedeutende Publikationen veröffentlicht, darunter: 1. 'Optimierung eines E-Learning-Angebots durch Studierenden-Interviews und KI-Tools' von Leonie Bröcher et al., veröffentlicht im 'Neuen Handbuch Hochschullehre'. 2. 'Perplexity-inspired metasearch-based alternatives to FAIR GPT' von Thomas Schmidt et al., präsentiert auf den E-Science-Tagen 2025. 3. 'MBI-KG: A knowledge graph of structured and linked economic research data' von Renat Shigapov et al., veröffentlicht in 'Data in Brief'. 4. 'Institutional data science services at FDZ UB Mannheim' von Renat Shigapov et al., ebenfalls auf den E-Science-Tagen 2025. 5. 'eScriptorium meets LLMs' von Larissa Will et al., präsentiert auf der DHd 2025.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/69704"
+  },
+  {
+    "question": "Was behandelt die Publikation 'In wenigen Schritten zur Zweitveröffentlichung' aus dem Jahr 2024?",
+    "answer": "Die Publikation 'In wenigen Schritten zur Zweitveröffentlichung' von Sarah Dellmann et al. bietet einen Leitfaden für Mitarbeiter:innen in Publikationsservices. Sie beschreibt die Schritte und Verfahren, die notwendig sind, um wissenschaftliche Arbeiten erfolgreich als Zweitveröffentlichungen zugänglich zu machen. Dies ist besonders relevant im Kontext von Open Access und der Förderung von wissenschaftlicher Transparenz und Zugänglichkeit.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/66637/1/open-access.network-Leitfaden%20In%20wenigen%20Schritten%20zur%20Zweitver%C3%B6ffentlichung_20240208.pdf"
+  },
+  {
+    "question": "Welche Themen wurden in den Publikationen des Jahres 2023 behandelt?",
+    "answer": "Die Publikationen des Jahres 2023 decken eine Vielzahl von Themen ab, darunter die Entwicklung von E-Learning-Konzepten während der Pandemie, die automatische Texterkennung von Handschriften und historischen Drucken, sowie die Förderung von reproduzierbarer Forschung und Open Science. Ein Beispiel ist der Artikel 'Die Pandemie als Motivator' von Kerstin Großardt und Willi Gondzik, der die Entwicklung eines E-Learning-Konzepts für Schülerkurse beschreibt. Ein weiteres Beispiel ist die Veröffentlichung 'Eleven strategies for making reproducible research and open science training the norm at research institutions', die Strategien zur Förderung von reproduzierbarer Forschung behandelt.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/64212/1/o-bib_2023-1.pdf"
+  },
+  {
+    "question": "Was ist das Ziel der Publikation 'BERD@NFDI für unstrukturierte Daten in den Wirtschafts- und Sozialwissenschaften' aus dem Jahr 2022?",
+    "answer": "Die Publikation 'BERD@NFDI für unstrukturierte Daten in den Wirtschafts- und Sozialwissenschaften' von Sabine Gehrlein et al. zielt darauf ab, eine Forschungsinfrastruktur für unstrukturierte Daten in den Sozialwissenschaften zu schaffen. Sie beschreibt, wie diese Infrastruktur dazu beitragen kann, die Nutzung und den Austausch von Forschungsdaten zu verbessern und die Zusammenarbeit zwischen verschiedenen Forschungsdisziplinen zu fördern.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/62228"
+  },
+  {
+    "question": "Welche Entwicklungen wurden in der Publikation 'Wissenschaftliche Bibliotheken in Baden-Württemberg' aus dem Jahr 2021 thematisiert?",
+    "answer": "In der Publikation 'Wissenschaftliche Bibliotheken in Baden-Württemberg: aktive Gestalter der Informationsinfrastruktur für Forschung, Studium und Lehre, Perspektive 2030' von Marianne Dörr et al. werden die Rolle und die Herausforderungen wissenschaftlicher Bibliotheken in Baden-Württemberg thematisiert. Die Autoren diskutieren, wie Bibliotheken als aktive Gestalter der Informationsinfrastruktur fungieren und welche Perspektiven sie für die Zukunft haben, insbesondere im Hinblick auf die Unterstützung von Forschung und Lehre.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/58955/1/WB%202030.%20Bibliotheken%20f%C3%BCr%20Forschung%2C%20Studium%20und%20Lehre.pdf"
+  },
+  {
+    "question": "Was behandelt die Publikation 'Alte Drucke in neuem Gewand' aus dem Jahr 2015?",
+    "answer": "Die Publikation 'Alte Drucke in neuem Gewand' von Christian Hänger et al. beschreibt den erfolgreichen Einsatz der freien Digitalisierungsplattform Goobi an der Universitätsbibliothek Mannheim. Sie zeigt auf, wie historische Drucke digitalisiert und für die Forschung zugänglich gemacht werden können, und hebt die Bedeutung der Digitalisierung für die Erhaltung und den Zugang zu historischen Dokumenten hervor.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/39340"
+  }
+]

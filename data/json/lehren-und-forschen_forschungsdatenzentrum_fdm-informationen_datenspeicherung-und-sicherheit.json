@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Welche Dienste und Tipps gibt es für die Datenspeicherung während eines Forschungsprojekts an der Universität Mannheim?",
+    "answer": "Für die Datenspeicherung während eines Forschungsprojekts an der Universität Mannheim stehen verschiedene Dienste zur Verfügung. Der Fileservice bietet 10 GB Speicherplatz auf universitätseigenen Servern, inklusive Virenschutz und regelmäßigen Backups. Microsoft 365 ermöglicht den Zugang zu OneDrive, das 1 TB Speicherplatz bietet und Funktionen wie Versionstracking und die Möglichkeit zum Teilen von Daten mit externen Projektbeteiligten umfasst. Zudem gibt es den Speicherdienst bwSync&Share, der 50 GB Speicherplatz bereitstellt, mit der Option auf Erweiterung. Dieser Dienst ermöglicht ebenfalls das Teilen von Daten mit externen Beteiligten. Das Team von UNIT bietet Beratung zu weiteren Speicher- und Rechenkapazitäten für Forschungsprojekte an. Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenspeicherung-und-sicherheit/"
+  },
+  {
+    "question": "Welche IT-Sicherheitsmaßnahmen sollten bei der Datenspeicherung beachtet werden?",
+    "answer": "Bei der Datenspeicherung sollten verschiedene IT-Sicherheitsmaßnahmen beachtet werden, um vertrauliche Daten zu schützen. Dazu gehört die Verschlüsselung sensibler Daten, um unberechtigtem Zugriff vorzubeugen. Der Speicher sollte über ein automatisches Backup verfügen, und Zugriffsberechtigungen sollten auf das notwendige Minimum beschränkt werden. Zudem ist es wichtig, dass der Virenschutz auf allen Endgeräten stets aktuell ist. Für personenbezogene Daten sollte ein Löschkonzept implementiert werden. Weitere Informationen und individuelle Beratung zu IT-Sicherheitsmaßnahmen sind auf der Webseite der Stabsstelle Informationssicherheit verfügbar. Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenspeicherung-und-sicherheit/"
+  }
+]

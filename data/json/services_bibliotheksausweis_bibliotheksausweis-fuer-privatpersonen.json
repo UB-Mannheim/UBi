@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Wer kann einen Bibliotheksausweis für Privatpersonen beantragen?",
+    "answer": "Personen, die in der Metropolregion Rhein-Neckar oder in Baden-Württemberg wohnen, arbeiten oder studieren, können einen Bibliotheksausweis in Form einer UB-Chipkarte beantragen. Die Beantragung erfolgt online und kostet einmalig 25 Euro. Mit dieser Karte können verschiedene Dienstleistungen der Universitätsbibliothek genutzt werden, wie das Ausleihen von Medien, Drucken, Kopieren, Scannen und die Nutzung lizenzierter elektronischer Medien an den PCs der Bibliothek, jedoch nicht im Fernzugriff.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/"
+  },
+  {
+    "question": "Wie erfolgt die Anmeldung für den Bibliotheksausweis?",
+    "answer": "Die Anmeldung für den Bibliotheksausweis erfolgt durch das Ausfüllen und Speichern eines Anmeldeformulars, in dem die Benutzergruppe 'Privatperson' ausgewählt werden muss. Nach der elektronischen Übermittlung der Anmeldung an das InfoCenter erhalten die Antragsteller innerhalb von zwei Werktagen eine E-Mail mit Informationen zur Abholung der UB-Chipkarte und Zugangsdaten. Bei der Abholung ist ein gültiger Personalausweis oder Reisepass mit Meldebescheinigung erforderlich, und die einmalige Gebühr von 25 Euro muss beglichen werden. Für Mitglieder von Absolventum Mannheim entfällt die Gebühr.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/"
+  },
+  {
+    "question": "Was ist zu tun, wenn die UB-Chipkarte verloren geht oder defekt ist?",
+    "answer": "Im Falle eines Verlusts oder Defekts der UB-Chipkarte sollte man sich an die Infotheke im InfoCenter wenden. Dort kann eine neue Karte beantragt und die verlorene Karte gesperrt werden. Für die Ausstellung einer Ersatzkarte wird eine Gebühr von 15 Euro erhoben. Die neue UB-Chipkarte kann montags bis freitags während der Beratungszeiten der Infotheke abgeholt werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/"
+  },
+  {
+    "question": "Wie werden Benachrichtigungen an die Nutzer gesendet?",
+    "answer": "Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an die E-Mail-Adresse gesendet, die im Anmeldeformular angegeben wurde. Adressänderungen müssen persönlich an der Infotheke im InfoCenter vorgenommen werden, wobei ein Personalausweis oder alternativ ein Reisepass mit Meldebescheinigung vorgelegt werden muss.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/"
+  },
+  {
+    "question": "Wie kann man das InfoCenter der Universitätsbibliothek Mannheim kontaktieren?",
+    "answer": "Das InfoCenter der Universitätsbibliothek Mannheim kann telefonisch unter +49 621 181-2948 oder per E-Mail an info.ub@uni-mannheim.de kontaktiert werden. Die Adresse lautet Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim. Weitere Informationen, wie Öffnungszeiten und Beratungsangebote, sind auf der Website der Bibliothek verfügbar.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/"
+  }
+]

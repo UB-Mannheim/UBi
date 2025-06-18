@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Was ist Shibboleth und wie können Studierende und Mitarbeiter der Universität Mannheim davon profitieren?",
+    "answer": "Shibboleth ist ein Authentifizierungsverfahren, das es Studierenden und Mitarbeiterinnen und Mitarbeitern der Universität Mannheim ermöglicht, von außerhalb des Campus auf lizenzierte elektronische Angebote zuzugreifen, ohne ein VPN nutzen zu müssen. Der Zugang erfolgt über ein institutionelles Login, bei dem die Universität Mannheim aus einer Liste ausgewählt wird. Nach der Auswahl können sich die Nutzer über eine Anmeldemaske mit ihrer Uni-ID einloggen. Dies erleichtert den Zugriff auf digitale Medien, die von verschiedenen Anbietern bereitgestellt werden, wie beispielsweise der Cambridge University Press. Es ist jedoch zu beachten, dass nicht alle Anbieter Shibboleth unterstützen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/"
+  },
+  {
+    "question": "Welche Informationen sind in der Übersicht der Anbieter enthalten?",
+    "answer": "Die Übersicht der Anbieter enthält verschiedene nützliche Informationen für die Nutzer der Universitätsbibliothek Mannheim. Dazu gehören die Öffnungszeiten der Bibliothek, Informationen über freie Sitzplätze, sowie Auskunfts- und Beratungsangebote. Zudem wird ein Chat-Service angeboten, der von Montag bis Freitag zwischen 10 und 18 Uhr verfügbar ist, um direkte Unterstützung zu bieten. Diese Informationen sind wichtig, um den Studierenden und Mitarbeitern den Zugang zu den Bibliotheksressourcen zu erleichtern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/oeffnungszeiten/"
+  }
+]

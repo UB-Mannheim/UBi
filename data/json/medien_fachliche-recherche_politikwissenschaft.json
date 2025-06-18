@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Welche Ressourcen bietet die Universitätsbibliothek für das Fach Politikwissenschaft an?",
+    "answer": "Die Universitätsbibliothek bietet eine Vielzahl von Ressourcen für das Fach Politikwissenschaft an, darunter Literatur, Datenbanken und weitere Sucheinstiege. Studierende und Forschende können an Kursen teilnehmen, die sich mit der Recherche in diesem Fachgebiet und dem wissenschaftlichen Arbeiten befassen. Zudem wird individuelle Beratung angeboten, um spezifische Fragen zu klären.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/politikwissenschaft/"
+  },
+  {
+    "question": "Welche Datenbanken sind für die Politikwissenschaft besonders relevant?",
+    "answer": "Für die Politikwissenschaft sind mehrere wichtige Datenbanken verfügbar, die im Datenbank-Informationssystem (DBIS) aufgeführt sind. Dazu gehören unter anderem Web of Science/Social Sciences Citation Index, Worldwide Political Science Abstracts, POLLUX, und WISO. Diese Datenbanken bieten Zugang zu Fachzeitschriften, E-Books, Zeitungsartikeln und statistischen Daten, die für die Forschung in der Politikwissenschaft von Bedeutung sind.",
+    "source": "Quelle: https://dbis.ur.de/UBMAN/browse/subjects/33/"
+  },
+  {
+    "question": "Wie kann man E-Journals im Bereich Politikwissenschaft finden?",
+    "answer": "E-Journals sind in der Elektronischen Zeitschriftenbibliothek (EZB) verzeichnet. Um spezifische E-Journals zu finden, empfiehlt es sich, den Katalog Primo zu nutzen und die erweiterte Suchmaske zu verwenden, um die Suche auf die Materialart 'Zeitschriften' einzugrenzen. Dies ermöglicht eine gezielte Recherche nach relevanten Fachzeitschriften im Bereich Politikwissenschaft.",
+    "source": "Quelle: http://ezb.uni-regensburg.de"
+  },
+  {
+    "question": "Welche E-Book-Angebote stehen für die Politikwissenschaft zur Verfügung?",
+    "answer": "Die Universitätsbibliothek hat ein umfangreiches E-Book-Angebot an Fachpublikationen lizenziert, darunter Pakete von Verlagen wie Nomos, Oxford, Palgrave und Springer. Diese E-Books sind über den Katalog Primo auffindbar, und bei der Recherche können Nutzer die Treffermenge mithilfe der Facetten 'Bücher' und 'Online-Ressourcen' auf 'E-Books' eingrenzen. Zudem gibt es Informationen zur Nutzung von E-Books und Datenbanken auf der Webseite der Bibliothek.",
+    "source": "Quelle: http://www.nomos-elibrary.de/?qms=1&qac=&slocal=0&q=&qtt=&qa=&qIdent=&qReihe=&qjv=&qjb=&qs%5B%5D=20000&qs%5B%5D=60000&extSearch=1"
+  },
+  {
+    "question": "Welche Forschungsdatenbanken sind für die Politikwissenschaft relevant?",
+    "answer": "Für die Politikwissenschaft gibt es mehrere relevante Forschungsdatenbanken, darunter Google Dataset Research, PolData, ICPSR, und das GENESIS-Online Informationssystem des Statistischen Bundesamts. Diese Datenbanken bieten Zugang zu einer Vielzahl von Datensätzen, die für die Forschung in der Politikwissenschaft von Bedeutung sind. Die Universitätsbibliothek unterstützt Wissenschaftler beim Forschungsdatenmanagement und bietet Möglichkeiten zur Archivierung von Forschungsdaten.",
+    "source": "Quelle: https://datasetsearch.research.google.com/"
+  },
+  {
+    "question": "Wo kann man Literatur zur Politikwissenschaft vor Ort finden?",
+    "answer": "Im Bibliotheksbereich A5 der Universitätsbibliothek Mannheim finden Nutzer Literatur zur Politikwissenschaft, die vor Ort genutzt werden kann. Die Medien sind frei zugänglich und systematisch nach Themengebieten aufgestellt. Ausleihen sind jedoch nur für wissenschaftliches Personal der Universität möglich. Zudem gibt es im Ausleihzentrum Schloss Westflügel weitere Literatur, die mit einer ecUM oder UB-Chipkarte ausgeliehen werden kann.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/standorte/bb-a5/"
+  },
+  {
+    "question": "Welche Forschungs- und Bildungseinrichtungen sind in Mannheim für die Politikwissenschaft relevant?",
+    "answer": "In Mannheim gibt es mehrere relevante Forschungs- und Bildungseinrichtungen für die Politikwissenschaft, darunter der Fachbereich Politikwissenschaft der Universität Mannheim, das Mannheimer Zentrum für Europäische Sozialforschung (MZES), das GESIS – Leibniz-Institut für Sozialwissenschaften und die Forschungsgruppen Wahlen e.V. Diese Institutionen bieten vielfältige Möglichkeiten für Forschung und Zusammenarbeit im Bereich der Politikwissenschaft.",
+    "source": "Quelle: https://www.sowi.uni-mannheim.de/forschung/politikwissenschaft/"
+  },
+  {
+    "question": "Wie werden wissenschaftliche Zeitschriften im Bereich Politikwissenschaft bewertet?",
+    "answer": "Wissenschaftliche Zeitschriften im Bereich Politikwissenschaft werden häufig anhand des Impact Factors bewertet, der angibt, wie oft Artikel einer Zeitschrift in anderen Fachzeitschriften zitiert werden. Relevante Rankings sind das SCImago Journal Ranking und das Google Scholar Ranking. Informationen zu Impact Faktoren sind in der Datenbank Web of Science/Social Sciences Citation Index und in Journal Citation Reports zu finden.",
+    "source": "Quelle: https://www.scimagojr.com/journalrank.php?category=3320"
+  },
+  {
+    "question": "Welche Schulungsangebote bietet die Universitätsbibliothek für die Politikwissenschaft an?",
+    "answer": "Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Politikwissenschaft an. Diese Schulungen sind darauf ausgelegt, Studierenden und Forschenden die notwendigen Fähigkeiten zur effektiven Informationssuche zu vermitteln. Zudem stehen Online-Tutorials zur Verfügung, die jederzeit absolviert werden können. Individuelle Beratungen sind ebenfalls möglich, um spezifische Fragen zu klären.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/"
+  },
+  {
+    "question": "Welche Unterstützung bietet die Universitätsbibliothek beim wissenschaftlichen Arbeiten?",
+    "answer": "Die Universitätsbibliothek unterstützt Studierende und Forschende beim wissenschaftlichen Arbeiten durch eine Vielzahl von Ressourcen, darunter Literatur zu Einführungen in die Politikwissenschaft, wissenschaftliches Arbeiten und Methoden des Faches. Zudem werden Schulungs- und Beratungsangebote bereitgestellt, wie Schreibberatung und Unterstützung bei Literaturverwaltungsprogrammen, um die Qualität der wissenschaftlichen Arbeiten zu verbessern.",
+    "source": "Quelle: https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=sub,contains,Polit*%20Einf%C3%BChrung,AND&query=lsr30,contains,MB%201000,AND&tab=default_tab&search_scope=MAN_ALMA&sortby=date&vid=MAN_UB&lang=de_DE&mode=advanced&offset=0"
+  },
+  {
+    "question": "Wer ist der Ansprechpartner für Politikwissenschaft an der Universitätsbibliothek Mannheim?",
+    "answer": "Der Ansprechpartner für Politikwissenschaft an der Universitätsbibliothek Mannheim ist Dr. Hendrik Platte. Er ist Fachreferent für Politikwissenschaft, Soziologie und Psychologie und bietet Unterstützung bei Literaturauswahl, Recherchefragen und Schulungen im Fachbereich an. Kontaktinformationen sind auf der Webseite der Bibliothek verfügbar, einschließlich seiner E-Mail-Adresse und Telefonnummer.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/"
+  }
+]

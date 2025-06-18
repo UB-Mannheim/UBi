@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Was ist Zotero und auf welchen Betriebssystemen kann es verwendet werden?",
+    "answer": "Zotero ist eine Open-Source-Software zur Literaturverwaltung, die kostenlos genutzt werden kann. Sie ist kompatibel mit den Betriebssystemen Windows, macOS und Linux, was sie zu einer flexiblen Lösung für Nutzer macht, die ihre Literatur effizient verwalten möchten.\n\nQuelle: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zotero/"
+  },
+  {
+    "question": "Welche Funktionen bietet Zotero für die Literaturverwaltung?",
+    "answer": "Zotero bietet eine Vielzahl von Funktionen zur Unterstützung der Literaturverwaltung. Dazu gehören das Speichern bibliographischer Daten während der Internetrecherche, das Sammeln und Ordnen von Literaturnachweisen mit Tags und Anmerkungen, das Speichern und Durchsuchen von Volltexten sowie die Möglichkeit, Zitationen in Microsoft Word und LibreOffice einzufügen und automatisch Literaturverzeichnisse zu erstellen. Zudem können Nutzer Zitationsstile auswählen oder anpassen, GoogleDocs integrieren und RSS-Feeds abonnieren. Optional können Nutzer ein Online-Benutzerkonto anlegen, um von verschiedenen Geräten auf ihre Daten zuzugreifen, diese zu synchronisieren und kollaborativ in Gruppen zu arbeiten.\n\nQuelle: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zotero/"
+  },
+  {
+    "question": "Wie kann man Zotero herunterladen und installieren?",
+    "answer": "Um Zotero herunterzuladen und zu installieren, besuchen Sie die offizielle Download-Seite von Zotero. Dort finden Sie die notwendigen Dateien für die Installation auf Ihrem Betriebssystem. Die Installation ist in der Regel einfach und benutzerfreundlich gestaltet, sodass auch weniger erfahrene Nutzer problemlos damit umgehen können.\n\nQuelle: https://www.zotero.org/download/"
+  },
+  {
+    "question": "Wo kann ich aktuelle Kurse und Beratungen zu Zotero finden?",
+    "answer": "Aktuelle Kurstermine zu Zotero sind auf der Events-Seite der Universitätsbibliothek Mannheim zu finden. Bei Bedarf können auch zusätzliche Kurse nach Vereinbarung angeboten werden. Es ist ratsam, regelmäßig die Webseite zu besuchen, um über neue Angebote informiert zu bleiben.\n\nQuelle: https://www.bib.uni-mannheim.de/ihre-ub/aktuelles/events/"
+  },
+  {
+    "question": "Welche Aufzeichnungen zu Zotero sind verfügbar?",
+    "answer": "Es gibt mehrere Aufzeichnungen zu Zotero, darunter eine Präsentation zur Literaturverwaltung mit Zotero in deutscher Sprache sowie eine englische Version. Diese Materialien sind als Videos und Präsentationen verfügbar und können von der entsprechenden Cloud-Seite der Universitätsbibliothek Mannheim heruntergeladen werden. Zudem können Nutzer bei Fragen einen Beratungs­termin vereinbaren oder ihre Fragen per E-Mail senden.\n\nQuelle: https://cloud.bib.uni-mannheim.de/s/aWFdsESpmsqCsik"
+  },
+  {
+    "question": "Welche speziellen Anleitungen zu Zotero gibt es?",
+    "answer": "Es gibt mehrere spezifische Anleitungen zu Zotero, die sich an verschiedene Zielgruppen richten. Dazu gehören Präsentationen zur Literaturverwaltung für Psychologen und Juristen sowie Anleitungen zur Synchronisation von Dateianhängen über WebDAV. Diese Materialien sind als PDFs verfügbar und bieten detaillierte Informationen und Übungen zur effektiven Nutzung von Zotero in verschiedenen Fachbereichen.\n\nQuelle: https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung-mit-Zotero.pdf"
+  },
+  {
+    "question": "Wie kann ich Zitationsstile in Zotero nutzen?",
+    "answer": "Zotero bietet eine Sammlung von Zitationsstilen, die Nutzer auswählen und anpassen können. Diese Stile sind in einem PDF-Dokument zusammengefasst, das heruntergeladen werden kann. Die Möglichkeit, Zitationsstile zu ändern, ermöglicht es Nutzern, ihre Literaturverzeichnisse und Zitationen an die spezifischen Anforderungen ihrer akademischen Disziplinen anzupassen.\n\nQuelle: https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Zitationsstile_fuer_Zotero.pdf"
+  },
+  {
+    "question": "Wo finde ich die Zotero-Dokumentation und Tutorials?",
+    "answer": "Die Zotero-Dokumentation ist auf der offiziellen Zotero-Website verfügbar. Dort finden Nutzer Tipps zur Nutzung der Software, Informationen zur Installation und Tutorials zur Citation Style Language (CSL). Diese Ressourcen sind hilfreich für neue Nutzer, die sich mit den Funktionen von Zotero vertraut machen möchten.\n\nQuelle: https://www.zotero.org/support//start"
+  },
+  {
+    "question": "Wie kann ich das Team der Literaturverwaltung kontaktieren?",
+    "answer": "Das Team der Literaturverwaltung an der Universität Mannheim kann über verschiedene Kanäle kontaktiert werden. Die Adresse lautet: Universität Mannheim, Universitätsbibliothek, Schloss, Schneckenhof West, 68161 Mannheim. Zudem können Nutzer per E-Mail an litverw.ub@uni-mannheim.de Kontakt aufnehmen. Weitere Informationen zu Öffnungszeiten, freien Sitzplätzen und Beratungsangeboten sind ebenfalls auf der Webseite der Universitätsbibliothek zu finden.\n\nQuelle: https://www.bib.uni-mannheim.de/literatur­verwaltungs­programme"
+  }
+]

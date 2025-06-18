@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Was ist MAObjects und welche Funktionen bietet es?",
+    "answer": "MAObjects ist eine Plattform, die von der Universitätsbibliothek Mannheim bereitgestellt wird, um Forschenden die Erstellung und Präsentation digitaler Objektsammlungen und virtueller Ausstellungen zu ermöglichen. Über das Content-Management-System können digitale Objekte wie Bilder, Texte sowie Video- und Audio-Dateien hochgeladen, importiert oder eingebettet werden. Die Objekte werden mit standardisierten Metadaten beschrieben, was die Durchsuchbarkeit der Sammlungen sicherstellt. Zudem wird ein Theme im Corporate Identity der Universität Mannheim für die ansprechende Präsentation der Objekte bereitgestellt. Die Daten können über eine API zur weiteren Verwendung im Sinne einer offenen und reproduzierbaren Wissenschaft angeboten werden. Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/"
+  },
+  {
+    "question": "Welchen Service bietet das Forschungsdatenzentrum (FDZ) für Forschende an?",
+    "answer": "Das Forschungsdatenzentrum (FDZ) der Universität Mannheim übernimmt das Hosting für digitale Sammlungen und unterstützt Forschende der Universität bei der Einrichtung ihrer digitalen Sammlungen. Dies umfasst technische und organisatorische Hilfestellungen, um den Forschenden die Nutzung der Plattform zu erleichtern und die Erstellung ihrer Sammlungen zu fördern. Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/"
+  },
+  {
+    "question": "Welche Software wird für die Erstellung digitaler Sammlungen verwendet und welche Vorteile bietet sie?",
+    "answer": "Für die technische Umsetzung der digitalen Sammlungen wird das freie, quelloffene Content-Management-System OMEKA genutzt. OMEKA konzentriert sich im Vergleich zu traditioneller institutioneller Repository-Software auf die Anzeige der einzelnen Objekte und verwendet dabei standardisierte Metadaten, wie beispielsweise unqualifiziertes Dublin Core. Dies ermöglicht eine benutzerfreundliche und effektive Präsentation der digitalen Inhalte. Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/"
+  },
+  {
+    "question": "Welche digitalen Sammlungen sind derzeit verfügbar?",
+    "answer": "Derzeit sind mehrere digitale Sammlungen verfügbar, darunter 'Lohn der Wahrheit?: August von Kotzebue und seine Ermordung vor 200 Jahren', die in Zusammenarbeit mit der Universitätsbibliothek Mannheim erstellt wurde. Eine weitere Sammlung ist die 'Nikephoros Bibliography of Sport in Antiquity', die in Kooperation mit Prof. Dr. Christian Mann vom Lehrstuhl für Alte Geschichte entstanden ist. Zudem gibt es die Sammlung 'Cynisca: Documenting Women and Girls in Ancient Greek Sports', die in Zusammenarbeit mit Melanie Meaker, ebenfalls vom Lehrstuhl für Alte Geschichte, erstellt wurde. Diese Sammlungen bieten Einblicke in verschiedene historische Themen und Forschungsbereiche. Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/"
+  },
+  {
+    "question": "Wie kann man das Forschungsdatenzentrum (FDZ) kontaktieren?",
+    "answer": "Das Forschungsdatenzentrum (FDZ) kann über verschiedene Kontaktmöglichkeiten erreicht werden. Die Adresse lautet: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim. Zudem steht eine E-Mail-Adresse zur Verfügung: forschungsdaten@uni-mannheim.de. Weitere Informationen sind auf der Webseite des FDZ zu finden: www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum. Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/"
+  }
+]

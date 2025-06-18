@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Wer kann einen Bibliotheksausweis für Angehörige kooperierender Einrichtungen beantragen?",
+    "answer": "Angehörige von Einrichtungen, die mit der Universität Mannheim einen Kooperationsvertrag zur Bibliotheksnutzung abgeschlossen haben, können online kostenlos die elektronische Chipkarte ecUM als Bibliotheksausweis beantragen. Dazu gehören unter anderem Absolventum Mannheim, Alanus Hochschule, Duale Hochschule Baden-Württemberg Mannheim, GESIS Mannheim und viele weitere Institutionen. Mit der ecUM können verschiedene Dienstleistungen der Universitätsbibliothek genutzt werden, wie das Ausleihen von Medien, Drucken, Kopieren und Scannen sowie die Nutzung lizenzierter elektronischer Medien an den PCs der Bibliothek.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/"
+  },
+  {
+    "question": "Wie erfolgt die Anmeldung für den Bibliotheksausweis?",
+    "answer": "Um sich für den Bibliotheksausweis anzumelden, müssen Sie das Anmeldeformular ausfüllen, speichern, ausdrucken und unterschreiben. Dieses Formular senden Sie zusammen mit einem Scan Ihres Personalausweises oder Reisepasses per E-Mail an den Support der Universitäts-IT. Studierende müssen zusätzlich einen Scan ihres aktuellen Studierendenausweises beifügen. Mitarbeiter einer kooperierenden Einrichtung müssen ihre Zugehörigkeit durch einen Stempel auf dem Anmeldeformular bestätigen. Nach erfolgreicher Anmeldung erhalten Sie Ihre Zugangsdaten per E-Mail und können ein Foto für Ihre ecUM im Studierendenportal hochladen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/"
+  },
+  {
+    "question": "Was muss ich tun, wenn ich meine ecUM verloren habe oder sie defekt ist?",
+    "answer": "Im Falle eines Verlusts oder Defekts Ihrer ecUM können Sie eine Ersatzkarte über das Studierendenportal beantragen. Dazu melden Sie sich mit Ihrer Uni-ID und Ihrem Passwort an und finden unter 'Meine Funktionen' den Button 'Neue ecUM beantragen'. Beachten Sie, dass für die Ausstellung einer Ersatzkarte eine Gebühr von 15 Euro anfällt.",
+    "source": "Quelle: https://portal2.uni-mannheim.de/portal2/"
+  },
+  {
+    "question": "Wie werden Benachrichtigungen bezüglich meines Bibliotheksausweises versendet?",
+    "answer": "Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an Ihre universitäre E-Mail-Adresse geschickt. Es ist wichtig, dass Sie Ihre E-Mail-Adresse regelmäßig überprüfen, um keine wichtigen Informationen zu verpassen. Adressänderungen müssen persönlich an der Infotheke im InfoCenter vorgenommen werden, wobei ein Personalausweis oder Reisepass mit Meldebescheinigung vorgelegt werden muss.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/"
+  },
+  {
+    "question": "Wie kann ich das InfoCenter der Universitätsbibliothek Mannheim kontaktieren?",
+    "answer": "Das InfoCenter der Universitätsbibliothek Mannheim kann telefonisch unter +49 621 181-2948 oder per E-Mail an info.ub@uni-mannheim.de erreicht werden. Die Adresse lautet Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim. Weitere Informationen, wie Öffnungszeiten und freie Sitzplätze, sind auf der Website der Bibliothek verfügbar.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Was ist das Forschungsdatenzentrum (FDZ) der Universität Mannheim?",
+    "answer": "Das Forschungsdatenzentrum (FDZ) ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Fragen rund um das Thema Forschungsdatenmanagement. Es bietet Unterstützung und Beratung für Forschende, die mit Forschungsdaten arbeiten, und stellt verschiedene Services zur Verfügung, um den Umgang mit Daten zu optimieren.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Welche Services bietet das Forschungsdatenzentrum an?",
+    "answer": "Das FDZ bietet eine Vielzahl von Services im Bereich Forschungsdatenmanagement an, darunter FDM-Beratung, Erstellung von Datenmanagementplänen, OCR (Optical Character Recognition), Knowledge Graphs und MADATA. Diese Services sind darauf ausgelegt, Forschenden zu helfen, ihre Daten effizient zu verwalten und zu nutzen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Wo finde ich Informationen zum Forschungsdatenmanagement?",
+    "answer": "Das FDZ stellt weiterführende Informationen und Angebote zum Forschungsdatenmanagement bereit. Diese Informationen sind darauf ausgelegt, Forschenden zu helfen, die besten Praktiken im Umgang mit Forschungsdaten zu verstehen und anzuwenden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Was umfasst das Datenangebot des FDZ?",
+    "answer": "Das Datenangebot des FDZ umfasst sowohl selbst gehostete Datenangebote als auch lizenzierte Daten, die Forschenden zur Verfügung stehen. Diese Daten können für verschiedene Forschungsprojekte und Analysen genutzt werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Welche Research Skills kann ich im FDZ erlernen?",
+    "answer": "Im FDZ können Forschende praktische Tipps zu Themen wie effizientem Forschungsdatenmanagement, Datenanalyse, FAIR-Datenpublikation, Open Science und Datenschutz erhalten. Diese Skills sind entscheidend für die erfolgreiche Durchführung von Forschungsprojekten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Welche Projekte unterstützt das FDZ?",
+    "answer": "Das FDZ bietet einen Überblick über verschiedene Projekte, die im Bereich Forschungsdaten unterstützt werden. Diese Projekte zielen darauf ab, die Nutzung und Verwaltung von Forschungsdaten zu verbessern und innovative Ansätze im Forschungsdatenmanagement zu fördern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Was ist das German Internet Panel (GIP)?",
+    "answer": "Das German Internet Panel (GIP) ist eine langfristige Studie an der Universität Mannheim, die individuelle Einstellungen und Präferenzen der Bevölkerung untersucht. Diese Studie ist Teil der Forschungsaktivitäten des FDZ und trägt zur Analyse von Internetnutzung und -verhalten bei.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Wer leitet das Forschungsdatenzentrum und welche Aufgaben hat sie?",
+    "answer": "Dr. Irene Schumm ist die Leiterin des Forschungsdatenzentrums. Ihre Aufgaben umfassen die Betreuung und Koordination des Projekts BERD@NFDI sowie die Beratung und Durchführung von Schulungen im Bereich Forschungsdatenmanagement. Sie ist eine zentrale Ansprechperson für alle Belange rund um das Thema Forschungsdaten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/"
+  },
+  {
+    "question": "Wer ist Dr. Phil Kolbe und welche Rolle hat er im FDZ?",
+    "answer": "Dr. Phil Kolbe ist Referent für Forschungsdatenmanagement im Bereich Sozialwissenschaften am FDZ. Er unterstützt Forschende bei der Verwaltung und Nutzung von Forschungsdaten und bietet Beratung und Schulungen an, um die Datenkompetenz zu fördern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Welche Aufgaben hat Dr. David Philip Morgan im FDZ?",
+    "answer": "Dr. David Philip Morgan ist Open Science Officer und Referent für Forschungsdatenmanagement im Bereich Sozialwissenschaften. Er unterstützt Forschende bei der Umsetzung von Open Science-Prinzipien und der Anwendung von Forschungsdatenmanagement-Methoden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Was sind die Aufgaben von Thomas Schmidt im FDZ?",
+    "answer": "Thomas Schmidt ist Referent für Forschungsdatenmanagement mit dem Schwerpunkt Data Literacy und arbeitet im Management ExpLAB. Er bietet Unterstützung und Schulungen im Bereich Datenkompetenz und hilft Forschenden, ihre Daten effektiv zu nutzen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Welche Rolle spielt Dr. Renat Shigapov im FDZ?",
+    "answer": "Dr. Renat Shigapov ist Referent für Data Science und Koordinator der NFDI AG „Knowledge Graphs“. Er unterstützt Forschende bei der Anwendung von Data-Science-Methoden und fördert die Weiterentwicklung des technischen Forschungsdatenmanagements.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-renat-shigapov/"
+  },
+  {
+    "question": "Was sind die Aufgaben von Christos Sidiropoulos im FDZ?",
+    "answer": "Christos Sidiropoulos ist Referent für Forschungsdatenmanagement mit dem Schwerpunkt Data Literacy und Fachreferent für Mathematik. Er arbeitet an der technischen Unterstützung und Weiterentwicklung von Content-Management-Systemen und bietet Beratung im Bereich Forschungsdatenmanagement an.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/christos-sidiropoulos/"
+  },
+  {
+    "question": "Welche Rolle hat Vasilka Stoilova im FDZ?",
+    "answer": "Vasilka Stoilova ist Legal Counsel für das Projekt BERD@NFDI und das FDZ. Sie ist verantwortlich für rechtliche Fragen und unterstützt das FDZ in rechtlichen Belangen im Zusammenhang mit Forschungsdaten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Was sind die Aufgaben von Larissa Will im FDZ?",
+    "answer": "Larissa Will ist Referentin für Forschungsdatenmanagement und Digitalisierung im Bereich Digital Humanities. Sie bietet Unterstützung und Beratung für Forschende, die sich mit digitalen Methoden und Datenmanagement im Humanities-Bereich beschäftigen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  },
+  {
+    "question": "Wie kann ich das Forschungsdatenzentrum kontaktieren?",
+    "answer": "Das Forschungsdatenzentrum kann über die Adresse Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim, oder per E-Mail unter forschungsdaten@uni-mannheim.de kontaktiert werden. Weitere Informationen sind auf der Webseite des FDZ verfügbar.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/"
+  }
+]

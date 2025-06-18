@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Was sind die Hauptziele des Projekts InFoLiS II?",
+    "answer": "InFoLiS II verfolgt drei wesentliche Ziele: Erstens die Ausweitung auf andere Disziplinen und Sprachen, indem das InfoLink-Verfahren auf eine Vielzahl von Publikationen und Forschungsdaten aus den Sozial- und Wirtschaftswissenschaften sowie verwandten Fächern angewandt wird. Zweitens die Entwicklung einer Infrastruktur basierend auf Linked Data, die es ermöglicht, Verknüpfungen zwischen Publikationen und Forschungsdaten in bestehende Systeme einzubinden. Drittens die Verbesserung der Nachnutzbarkeit der Links durch die Entwicklung einer Ontologie, die die unterschiedlichen Granularitäten und Beziehungen zwischen Publikationen und Forschungsdaten berücksichtigt. Diese Ziele sollen durch Kooperationen mit nationalen und internationalen Forschungsinstitutionen, Repositorienbetreibern und Verlagen erreicht werden. Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis-ii/"
+  },
+  {
+    "question": "Wie wird InFoLiS II die Ausweitung auf andere Disziplinen und Sprachen umsetzen?",
+    "answer": "InFoLiS II wird den Fokus auf andere Disziplinen und Sprachen ausweiten, indem das InfoLink-Verfahren auf eine Vielzahl von Publikationen und Forschungsdaten aus den Sozial- und Wirtschaftswissenschaften sowie verwandten Fächern angewandt wird. Dies umfasst Dokumente in deutscher und englischer Sprache. Um die Datenbasis massiv zu erweitern, wird in Kooperation mit nationalen und internationalen Forschungs­einrichtungen, Repositorienbetreibern und Verlagen gearbeitet. Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis-ii/"
+  },
+  {
+    "question": "Welche Infrastruktur wird für InFoLiS II entwickelt?",
+    "answer": "Für InFoLiS II wird eine Infrastruktur basierend auf Linked Data entwickelt, die es ermöglicht, die im Vorgängerprojekt entwickelten Verfahren zur Verknüpfung von Publikationen und Forschungsdaten in eine flexible und dauerhaft tragfähige Struktur einzubetten. Alle Schritte von InfoLink werden als eigenständige Web-Services implementiert, und es werden Workflows eingerichtet, um das System regelmäßig und automatisiert mit aktuellen Daten anzureichern. Zudem wird Software entwickelt, um die erkannten Verknüpfungen in bestehende Recherche­systeme zu integrieren. Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis-ii/"
+  },
+  {
+    "question": "Wie wird die Nachnutzbarkeit der Links in InFoLiS II verbessert?",
+    "answer": "Die Nachnutzbarkeit der Links wird in InFoLiS II durch die Entwicklung einer Ontologie verbessert, die die unterschiedlichen Granularitäten und Beziehungen zwischen Publikationen und Forschungsdaten berücksichtigt. Diese Ontologie wird unter Einbeziehung des DDI-RDF Discovery Vokabulars der Data Documentation Initiative entwickelt. Die Verbesserungen in der Recherche und der allgemeinen Nachnutzbarkeit der Links werden ebenfalls untersucht, um sicherzustellen, dass die archivierten und zugänglich gemachten Forschungsdaten effektiv genutzt werden können. Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis-ii/"
+  }
+]

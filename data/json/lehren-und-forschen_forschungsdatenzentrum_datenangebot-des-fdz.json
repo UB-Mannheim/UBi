@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Was bietet das Forschungsdatenzentrum (FDZ) der Universität Mannheim an?",
+    "answer": "Das Forschungsdatenzentrum (FDZ) der Universität Mannheim bietet Zugang zu lizenzierten Datenbanken und -quellen sowie zu verschiedenen selbst erstellten Datenquellen. Es produziert Daten durch die Konversion gedruckter Quellen in elektronische, maschinenlesbare Formate und stellt spezialisierte Datensätze aus den Wirtschafts- und Sozialwissenschaften zur Verfügung. Der Schwerpunkt liegt auf der Bereitstellung von Wirtschaftsdaten, insbesondere Unternehmensdaten, und umfasst auch Datensätze von Forschungsprojekten der Universität, die langfristig für Forschende zugänglich gemacht werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/"
+  },
+  {
+    "question": "Was enthält das Aktienführer-Datenarchiv?",
+    "answer": "Das Aktienführer-Datenarchiv enthält jahresweise Profile von mehreren tausend deutschen, börsennotierten Aktiengesellschaften. Diese Profile beinhalten wichtige Kennzahlen wie Unternehmenssitz, Tätigkeitsfeld, Mitarbeiterzahl, Beteiligungen, Aktionäre, Bilanzen sowie die Gewinn- und Verlustrechnung. Die Daten basieren auf den Publikationen 'Hoppenstedt Aktienführer' und 'Saling’s Börsenpapiere'. Die Nutzung der Datenbank ist für wissenschaftliche Zwecke und Lehre freigegeben, wobei der Zugang für Institutionen über die Infrastruktur der Nationallizenzen und für Einzelpersonen direkt über das FDZ erfolgt.",
+    "source": "Quelle: https://zdb-katalog.de/title.xhtml?idn=018545750"
+  },
+  {
+    "question": "Was umfasst die Konkursdatenbank der Universität Mannheim?",
+    "answer": "Die Konkursdatenbank umfasst alle Konkursverfahren, die im Deutschen Kaiserreich in den 15 größten Städten durchgeführt wurden, insgesamt 55.197 Konkurse im Zeitraum von 1879 bis 1914. Sie bietet detaillierte Angaben zu Schuldnern und Konkursverwaltern und die Datensätze wurden aus der digitalen Gesamtausgabe des Deutschen Reichsanzeigers und Preußischen Staatsanzeigers generiert. Die Datenbank ist unter der Creative Commons Attribution 4.0 International Public License für jedermann nutzbar, solange die Quelle genannt wird.",
+    "source": "Quelle: https://digi.bib.uni-mannheim.de/periodika/konkursdatenbank/"
+  },
+  {
+    "question": "Welche Informationen bietet der Deutsche Reichsanzeiger und Preußische Staatsanzeiger?",
+    "answer": "Der Deutsche Reichsanzeiger und Preußische Staatsanzeiger enthält amtliche Mitteilungen, Veröffentlichungen des zentralen Handelsregisters und eine Börsen-Beilage aus den Jahren 1819 bis 1945. Die Universität Mannheim hat diese Zeitung im Rahmen eines DFG-Projekts digitalisiert, wobei eine Volltextsuche durch die Bearbeitung der Scans mit OCR ermöglicht wurde. Die digitalisierten Bestände sind frei nutzbar.",
+    "source": "Quelle: https://zdb-katalog.de/title.xhtml?idn=011201584"
+  },
+  {
+    "question": "Was beinhalten die Deutschen Statistischen Jahrbücher?",
+    "answer": "Die Deutschen Statistischen Jahrbücher enthalten Daten zu den Themen Wirtschaft, Bevölkerung, Soziales und Gesundheit von 1880 bis 1990. Diese Jahrbücher sind digitalisiert und frei nutzbar, was sie zu einer wertvollen Quelle für statistische Informationen über Deutschland in diesem Zeitraum macht.",
+    "source": "Quelle: https://creativecommons.org/publicdomain/mark/1.0/deed.de"
+  },
+  {
+    "question": "Was sind die Amtlichen Gemeindeverzeichnisse und was bieten sie?",
+    "answer": "Die Amtlichen Gemeindeverzeichnisse sind eine Sammlung historischer Volkszählungen und Bevölkerungs­erhebungen auf Gemeindeebene aus dem Deutschen Reich, der BRD und der DDR, die zwischen 1880 und 1976 digitalisiert wurden. Die Universität Mannheim hat diese Verzeichnisse im Rahmen eines Forschungsprojekts bearbeitet, sodass eine Volltextsuche durch OCR möglich ist.",
+    "source": "Quelle: https://digi.bib.uni-mannheim.de/gemeindeverzeichnisse/"
+  },
+  {
+    "question": "Was ist LinguaPix und welche Daten enthält es?",
+    "answer": "LinguaPix ist eine Datenbank für Bildbenennungsstandards, die im Rahmen einer von der Fritz Thyssen Stiftung finanzierten Crowdsourcing-Megastudie entwickelt wurde. Die Datenbank enthält 1.620 Farbfotografien von Gegenständen aus 43 semantischen Kategorien, die von Sprechern verschiedener Sprachen benannt und bewertet wurden. Sie bietet Informationen zu linguistischen Standards wie Sprechbeginn, Begriffsübereinstimmung, visuelle Komplexität und Emotionalität. Die Bilder dürfen nur für nicht-kommerzielle Zwecke in Forschung, Studium und Lehre verwendet werden.",
+    "source": "Quelle: https://link.springer.com/article/10.3758/s13428-021-01651-0"
+  },
+  {
+    "question": "Was enthält der Maschinenbauindustrie (MBI) Knowledge Graph?",
+    "answer": "Der Maschinenbauindustrie (MBI) Knowledge Graph enthält strukturierte Daten aus dem Buch 'Die Maschinen-Industrie im Deutschen Reich', das 1937 von Herbert Patschan verfasst wurde. Die Daten umfassen Basisinformationen zu deutschen Unternehmen der Maschinenbauindustrie und wurden an der Universität Mannheim gescannt, mittels OCR verarbeitet und semantisch angereichert. Der Graph bietet verschiedene Zugangs- und Abfragemöglichkeiten über eine API und SPARQL.",
+    "source": "Quelle: https://doi.org/10.7801/467"
+  },
+  {
+    "question": "Was ist der 'Wer Leitet' (WL) Knowledge Graph?",
+    "answer": "Der 'Wer Leitet' (WL) Knowledge Graph enthält strukturierte Daten aus den Büchern 'Wer Leitet?', die Informationen über Personen bieten, die in den Jahren 1940 bis 1941 verschiedene Unternehmen in Deutschland leiteten. Die Daten wurden an der Universität Mannheim gescannt, mittels OCR verarbeitet und semantisch angereichert. Der Graph bietet Zugriff über eine API und SPARQL.",
+    "source": "Quelle: https://wl.kgi.uni-mannheim.de"
+  },
+  {
+    "question": "Was bietet der Handbuch der Deutschen Aktiengesellschaften (HbAG) Knowledge Graph?",
+    "answer": "Der Handbuch der Deutschen Aktiengesellschaften (HbAG) Knowledge Graph enthält strukturierte Daten aus den seit 1896 erschienenen HbAG-Büchern. Diese Daten beinhalten grundlegende Informationen zu deutschen Unternehmen, einschließlich Firmennamen, Branchenzugehörigkeit und Hauptsitzstandorten. Die Daten wurden gescannt, mittels OCR verarbeitet und semantisch angereichert, und der Graph bietet verschiedene Zugangs- und Abfragemöglichkeiten.",
+    "source": "Quelle: https://hbag.kgi.uni-mannheim.de"
+  },
+  {
+    "question": "Wie kann man das Forschungsdatenzentrum (FDZ) kontaktieren?",
+    "answer": "Das Forschungsdatenzentrum (FDZ) der Universität Mannheim kann über die folgende Adresse kontaktiert werden: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim. Zudem ist eine Kontaktaufnahme per E-Mail unter forschungsdaten@uni-mannheim.de möglich. Weitere Informationen sind auf der Webseite des FDZ verfügbar.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/"
+  }
+]

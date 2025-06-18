@@ -1,0 +1,142 @@
+[
+  {
+    "question": "Was sind die Ziele der Projekte der Universitätsbibliothek Mannheim?",
+    "answer": "Die Projekte der Universitätsbibliothek Mannheim zielen darauf ab, die Services für Studium, Forschung und Lehre zu verbessern. Dies geschieht durch die Einwerbung von DFG-Projektmitteln sowie durch eigene Mittel, um beispielsweise den Ausbau der digitalen Forschungsbibliothek voranzutreiben. Die Projekte sollen dazu beitragen, die Qualität und den Zugang zu Informationen und Ressourcen für die Nutzer zu erhöhen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/"
+  },
+  {
+    "question": "Was beinhaltet das Projekt zur Nutzung historischer Daten?",
+    "answer": "Das Projekt zur Nutzung historischer Daten, das in Zusammenarbeit mit dem Leibniz-Institut für Finanzmarktforschung (SAFE) durchgeführt wird, hat eine Laufzeit von 2025 und soll voraussichtlich 18 Jahre dauern. Ziel ist es, deutsche Finanzdaten zu erfassen und zu digitalisieren, um eine neue Datengrundlage zu schaffen, die ein besseres Verständnis vergangener, gegenwärtiger und zukünftiger ökonomischer und gesellschaftlicher Herausforderungen ermöglicht.",
+    "source": "Quelle: https://safe-frankfurt.de/de/forschung/forschungsprojekte/details/showproject/finance-and-business-research-from-a-long-term-perspective-utilizing-historical-german-financial-market-and-corporate-data-gerhisfin.html"
+  },
+  {
+    "question": "Was ist das Ziel des Projekts zur Entwicklung von Werkzeugen mit Kitodo.Presentation?",
+    "answer": "Das DFG-Projekt zur Entwicklung von Werkzeugen mit Kitodo.Presentation zielt darauf ab, das Präsentationsmodul der quelloffenen Digitalisierungssoftware zu erweitern. Dies soll die rechtsichere Präsentation von multimedialen Objekten ermöglichen, insbesondere von solchen, die urheberrechtlich geschützt sind. Projektpartner sind die Sächsische Landesbibliothek und die Staats- und Universitätsbibliothek Hamburg.",
+    "source": "Quelle: https://gepris.dfg.de/gepris/projekt/554768123?language=de"
+  },
+  {
+    "question": "Was ist das Ziel des Projekts TransforMA?",
+    "answer": "Das Projekt TransforMA, an dem das Forschungsdatenzentrum beteiligt ist, fokussiert sich auf die Technologie und die Wissenssuche. Insbesondere wird Expertise im Bereich Künstliche Intelligenz und Forschungsdatenmanagement eingebracht. Ziel ist es, Datenbanken und Chatbots zu erstellen, um den Zugang zu Wissen und Technologien an der Hochschule Mannheim und der Universität Mannheim zu erleichtern.",
+    "source": "Quelle: https://www.uni-mannheim.de/transforma/"
+  },
+  {
+    "question": "Was beinhaltet das Projekt MaDaLi²?",
+    "answer": "Im Projekt MaDaLi² wird ein e-Learning-Kurs zur Data Literacy für Studierende entwickelt. Dieser Kurs ermöglicht es den Studierenden, in ihrem eigenen Tempo wichtige Grundlagen im Umgang mit Forschungsdaten zu erlernen und zu festigen, einschließlich der Fähigkeiten, Daten angemessen zu erkunden, zu verstehen und zu kommunizieren.",
+    "source": "Quelle: https://www.uni-mannheim.de/universitaet/lehre/lehrprojekte/data-literacy/"
+  },
+  {
+    "question": "Was ist das Ziel des Projekts KGI4NFDI?",
+    "answer": "Das Projekt KGI4NFDI hat das Ziel, eine zentrale Infrastruktur für Knowledge Graphen zu entwickeln, um die Interoperabilität zu verbessern und die Ziele der Nationalen Forschungsdateninfrastruktur (NFDI) zu unterstützen. Es bietet Registrierungs- und Zugangsdienste an, fördert standardisierte Praktiken und FAIR-Datenprinzipien und ergänzt diese durch Dokumentations- und Beratungsdienste.",
+    "source": "Quelle: https://base4nfdi.de/projects/kgi4nfdi"
+  },
+  {
+    "question": "Was ist ENGAGE.EU und welche Rolle spielt die Universitätsbibliothek Mannheim?",
+    "answer": "ENGAGE.EU ist eine Allianz führender europäischer Universitäten, die darauf abzielt, Bürger*innen mit den Kompetenzen auszustatten, die sie zur Bewältigung gesellschaftlicher Herausforderungen benötigen. Die Universitätsbibliothek Mannheim bringt ihre Expertise im Forschungsdatenmanagement in die Allianz ein und ist Teil einer Experten­gruppe zu diesem Thema.",
+    "source": "Quelle: https://www.uni-mannheim.de/engageeu/"
+  },
+  {
+    "question": "Was ist das Ziel des Projekts zur Erfassung von NS-Raubgut?",
+    "answer": "Das Projekt zur Erfassung von NS-Raubgut hat die Laufzeit von 2024 bis 2026 und zielt darauf ab, Kulturgut, das während der NS-Zeit unrechtmäßig entzogen wurde, aus den Beständen der Universitätsbibliothek Mannheim zu erfassen, sichtbar zu machen und, wenn möglich, zu restituieren. Dies geschieht im Kontext der Aufarbeitung der NS-Vergangenheit und der Rückgabe von geraubtem Eigentum.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/"
+  },
+  {
+    "question": "Was ist das Ziel des BERD-NFDI Projekts?",
+    "answer": "Das BERD-NFDI Projekt zielt darauf ab, transparente, offene und innovative Standards und Werkzeuge für das Management unstrukturierter Daten zu entwickeln und diese mit strukturierten Daten in den Bereichen Wirtschaft und verwandten Forschungsfeldern zu verbinden. Es wird ein Konsortium von Partnern aus den Wirtschaftswissenschaften und der Infrastruktur gebildet, um zur Nationalen Forschungsdateninfrastruktur (NFDI) beizutragen.",
+    "source": "Quelle: https://www.berd-nfdi.de/"
+  },
+  {
+    "question": "Was war das Ziel des OCR-D Projekts zur Integration von Kitodo?",
+    "answer": "Das OCR-D Projekt zur Integration von Kitodo hatte das Ziel, OCR-D in Kitodo zu integrieren, um eine produktive Massendigitalisierung zu ermöglichen. Dadurch sollte OCR-D für den verteilten Betrieb auf einem Web-Server nutzbar gemacht werden, und Volltexte sollten im DFG-Viewer dargestellt werden. Projektpartner waren die SLUB Dresden und die Universitätsbibliothek Braunschweig.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/ocr-d-kitodo/"
+  },
+  {
+    "question": "Was war das Ziel des OCR-D Projekts zur Verbesserung der Erkennungsraten?",
+    "answer": "Das Ziel des OCR-D Projekts zur Verbesserung der Erkennungsraten war es, Einrichtungen wie Bibliotheken zu ermöglichen, die Module des OCR-D-Workflows einfach nachzutrainieren, um bessere Erkennungsraten für spezifische Werke zu erreichen. Dies sollte die Qualität der Texterkennung in Bibliotheken verbessern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/ocr-d-modelltraining/"
+  },
+  {
+    "question": "Was war das Ziel des Projekts Deutscher Reichsanzeiger?",
+    "answer": "Das Projekt Deutscher Reichsanzeiger hatte das Ziel, Artikel zu erfassen, fehlende Seiten zu digitalisieren und die Volltexterschließung der Zeitung zu verbessern. Dies sollte zur besseren Zugänglichkeit und Nutzung historischer Zeitungsinhalte beitragen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/deutscher-reichsanzeiger/"
+  },
+  {
+    "question": "Was war das Ziel des BERD-BW Projekts?",
+    "answer": "Das BERD-BW Projekt hatte das Ziel, ein Kompetenzzentrum für Datenverfügbarkeit, Datenaustausch und Datenanalyse in den Wirtschaftswissenschaften aufzubauen. Es war ein Gemeinschaftsprojekt von Partnern an der Universität Mannheim und dem Zentrum für Europäische Wirtschaftsforschung (ZEW) und wurde durch das Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg gefördert.",
+    "source": "Quelle: https://www.berd-bw.de/"
+  },
+  {
+    "question": "Was war das Ziel des OCR-BW Projekts?",
+    "answer": "Das OCR-BW Projekt unterstützte Archive, Bibliotheken und andere Institutionen in Baden-Württemberg bei der Anwendung von automatischer Texterkennungs- und Transkriptionssoftware. Ziel war es, die Digitalisierung und den Zugang zu historischen Dokumenten zu verbessern.",
+    "source": "Quelle: https://ocr-bw.bib.uni-mannheim.de/"
+  },
+  {
+    "question": "Was war das Ziel der Bibliothekskooperation Mannheim?",
+    "answer": "Die Bibliothekskooperation Mannheim hatte das Ziel, die Zusammenarbeit zwischen der Universitätsbibliothek Mannheim, der Bibliothek der Hochschule Mannheim und der Bibliothek der DHBW in Mannheim zu fördern. Dies beinhaltete die Gestaltung neuer Lernräume, die Erweiterung des Schulungsangebots und die Vereinfachung des Zugangs zu den Services für die Nutzer.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/bibliothekskooperation-mannheim/"
+  },
+  {
+    "question": "Was war das Ziel des Projekts zur Erschließung des Nachlasses von Desbillons?",
+    "answer": "Das Projekt zur Erschließung des Nachlasses von Desbillons hatte das Ziel, den handschriftlichen Nachlass des französischen Jesuitenpaters und Universalgelehrten François-Joseph Terrasse Desbillons zu erschließen. Dies sollte zur besseren Zugänglichkeit und Erforschung seiner Werke beitragen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/erschliessung-des-nachlasses-von-desbillons/"
+  },
+  {
+    "question": "Was war das Ziel des Projekts zur Optimierung von OCR-Verfahren?",
+    "answer": "Das Projekt zur Optimierung von OCR-Verfahren fokussierte sich auf die Weiterentwicklung von Verfahren der Optical Character Recognition (OCR) und insbesondere auf die freie Texterkennungs-Software Tesseract. Ziel war es, die Effizienz und Genauigkeit der Texterkennung zu verbessern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/optimierter-einsatz-von-ocr-verfahren/"
+  },
+  {
+    "question": "Was war das Ziel des Aktienführer-Datenarchiv II Projekts?",
+    "answer": "Das Ziel des Aktienführer-Datenarchiv II Projekts war die Digitalisierung aller noch nicht gescannten Print-Bände der Aktienführer bis 1975. Dies beinhaltete die Erschließung der Inhaltsverzeichnisse und die Erfassung mittels automatischer Texterkennung (OCR), um eine leistungsfähige Dateninfrastruktur für die Forschung bereitzustellen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/aktienfuehrer-datenarchiv-ii/"
+  },
+  {
+    "question": "Was war das Ziel des Projekts zur Digitalisierung historischer Volkszählungen?",
+    "answer": "Das Projekt zur Digitalisierung historischer Volkszählungen hatte das Ziel, ausgewählte historische Gemeindeverzeichnisse des Deutschen Reichs, der Bundesrepublik Deutschland und der DDR zu digitalisieren. Dies sollte zur besseren Zugänglichkeit und Nutzung dieser historischen Daten beitragen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-historischer-volkszaehlungen-und-bevoelkerungserhebungen-auf-gemeindeebene/"
+  },
+  {
+    "question": "Was war das Ziel der Linked Open Citation Database (LOC-DB)?",
+    "answer": "Das Ziel der Linked Open Citation Database (LOC-DB) war die Entwicklung von Werkzeugen und Prozessen auf Basis der Linked-Data-Technologie, um Bibliotheken an einer offenen, verteilten Infrastruktur zur Erschließung von Zitationen zu beteiligen. Dies sollte die Sichtbarkeit und Zugänglichkeit von wissenschaftlichen Arbeiten verbessern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/linked-open-citation-database/"
+  },
+  {
+    "question": "Was war das Ziel des Projekts zur Digitalisierung der juristischen Texte der Sammlung Desbillons?",
+    "answer": "Das Projekt zur Digitalisierung der juristischen Texte der Sammlung Desbillons hatte das Ziel, wichtige Werke des vorrevolutionären Französischen Rechts zu digitalisieren und im Volltext zur Verfügung zu stellen. Dies sollte die Forschung und den Zugang zu diesen historischen Rechtsdokumenten erleichtern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-der-juristischen-texte-der-sammlung-desbillons/"
+  },
+  {
+    "question": "Was war das Ziel des InFoLiS II Projekts?",
+    "answer": "Das Ziel des InFoLiS II Projekts war die Entwicklung heuristischer Verfahren zur Extraktion von Referenzen auf Forschungsdaten aus wissenschaftlichen Publikationen der Sozialwissenschaften. Diese sollten in den Katalog der Universitätsbibliothek Mannheim und den Datenbestandskatalog der GESIS integriert werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis-ii/"
+  },
+  {
+    "question": "Was war das Ziel des InFoLiS Projekts?",
+    "answer": "Das InFoLiS Projekt hatte das Ziel, Metadaten von Forschungsdaten mit bibliothekarischen Titeldaten zu verknüpfen, um diese in den Recherche­systemen der Fachinformationszentren und Universitätsbibliotheken auffindbar zu machen. Dies sollte die Sichtbarkeit und Zugänglichkeit von Forschungsdaten erhöhen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis/"
+  },
+  {
+    "question": "Was war das Ziel des Projekts zur Digitalisierung der Reiseberichte der Sammlung Desbillons?",
+    "answer": "Das Ziel des Projekts zur Digitalisierung der Reiseberichte der Sammlung Desbillons war die Digitalisierung von rund 800 Reisebeschreibungen und ethnographischen Beschreibungen. Dies sollte zur besseren Zugänglichkeit und Erforschung dieser historischen Dokumente beitragen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-der-reiseberichte-der-sammlung-desbillons/"
+  },
+  {
+    "question": "Was war das Ziel des Aktienführer-Datenarchiv Projekts?",
+    "answer": "Das Ziel des Aktienführer-Datenarchiv Projekts war die Digitalisierung der gedruckten Bände des Hoppenstedt-Aktienführers von 1979 bis 1999. Die Daten wurden sowohl als Image-Digitalisate als auch maschinenlesbar präsentiert, um eine leistungsfähige Dateninfrastruktur für die Forschung bereitzustellen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/aktienfuehrer-datenarchiv/"
+  },
+  {
+    "question": "Was war das Ziel des Projekts Collaborative Tagging?",
+    "answer": "Das Collaborative Tagging Projekt hatte das Ziel, einen neuen Service für Hochschulbibliotheken zu entwickeln, der es Nutzern ermöglicht, Inhalte durch Tags zu kategorisieren und zu organisieren. Dies sollte die Benutzerfreundlichkeit und die Auffindbarkeit von Informationen in Bibliotheken verbessern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/collaborative-tagging/"
+  },
+  {
+    "question": "Was war das Ziel des Projekts zur Verbesserung der Fachrecherche?",
+    "answer": "Das Projekt zur Verbesserung der Fachrecherche hatte das Ziel, Methoden des Semantic Webs zu nutzen, um die Recherche in großen Volltextsammlungen zu optimieren. Dies sollte die Effizienz und Genauigkeit der Suchergebnisse in Bibliotheken erhöhen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verbesserung-der-fachrecherche/"
+  },
+  {
+    "question": "Was war das Ziel des Weblogs-Projekts für Hochschulbibliotheken?",
+    "answer": "Das Weblogs-Projekt hatte das Ziel, eine stärkere Ausrichtung der Bibliotheksorganisation auf die Bedürfnisse der Nutzer zu erreichen und ein Steuerungsinstrument zur Optimierung der Kundenzufriedenheit zu entwickeln. Der Weblog diente als interaktives Portal für Anfragen, Beschwerden oder Wünsche der Nutzer.",
+    "source": "Quelle: https://blog.bib.uni-mannheim.de/Aktuelles/"
+  }
+]

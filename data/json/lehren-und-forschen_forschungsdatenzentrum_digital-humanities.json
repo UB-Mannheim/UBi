@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Was sind digitale Editionen und welche Vorteile bieten sie für die geisteswissenschaftliche Forschung?",
+    "answer": "Digitale Editionen übertragen die Praxis der kritischen Texterschließung ins Digitale und erweitern dadurch die Zugänglichkeit, Durchsuchbarkeit und Analysierbarkeit von Quellen. Sie ermöglichen verschiedene Perspektiven und Interaktivität in der Darstellung. Zudem können quantitative Untersuchungen auf großen Quellenkorpora neue Erkenntnisse liefern, die die hermeneutische Untersuchung individueller Quellen ergänzen. Visualisierungen helfen, Beziehungen in den Daten sichtbar zu machen. Auch die kritische Reflexion digitaler Methoden und deren Vermittlung ist ein wichtiger Bestandteil der digital orientierten Geisteswissenschaften. \n\nQuelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/"
+  },
+  {
+    "question": "Welche Ressourcen bietet die Plattform Programming Historian für digitale Geisteswissenschaften?",
+    "answer": "Programming Historian ist eine Plattform, die peer-reviewed Tutorials zu digitalen Methoden und Tools in den Geisteswissenschaften anbietet. Die Tutorials sind in verschiedenen Schwierigkeitsgraden von Einsteiger bis Experte verfügbar. Zu den spezifischen Angeboten gehören ein Grundlagenkurs zu TEI/XML, Informationen und Anregungen zu Textauszeichnung, Topic Modelling und Visualisierung, sowie ein Tutorial Finder, der in verschiedenen Quellen nach frei verfügbaren Kursen sucht. \n\nQuelle: https://programminghistorian.org/"
+  },
+  {
+    "question": "Welche Einstiegstools stehen für die digitale Textanalyse zur Verfügung?",
+    "answer": "Für die digitale Textanalyse stehen verschiedene Einstiegstools zur Verfügung. Voyant ermöglicht die Untersuchung von Eingabetexten oder Korpora mit quantitativen Textanalysemethoden und Textvisualisierungen. Der DARIAH-DE-Geobrowser eignet sich für Geovisualisierungen, während TAPOR3 eine kuratierte Sammlung von Tools für die Textanalyse bietet. Diese Tools unterstützen Forscher dabei, ihre Daten effektiv zu analysieren und zu visualisieren. \n\nQuelle: https://voyant-tools.org/"
+  },
+  {
+    "question": "Welche Literatur wird für die Einführung in die Digital Humanities empfohlen?",
+    "answer": "Für eine Einführung in die Digital Humanities werden mehrere Werke empfohlen. Dazu gehören 'Digital Humanities: eine Einführung' von Jannidis, Kohle und Rehbein, sowie 'Digital Humanities: Grundlagen und Technologien für die Praxis' von Kurz. Weitere relevante Titel sind 'Quantitative Ansätze in den Literatur- und Geisteswissenschaften' von Bernhart et al. und 'Critical digital humanities: the search for a methodology' von Dobson. Diese Literatur bietet sowohl theoretische als auch praktische Einblicke in die Digital Humanities. \n\nQuelle: https://doi.org/10.1007/978-3-658-11213-4"
+  },
+  {
+    "question": "Was ist TextGrid und welche Funktionen bietet es für die geisteswissenschaftliche Forschung?",
+    "answer": "TextGrid ist eine virtuelle Forschungsumgebung, die verschiedene Werkzeuge bereitstellt, um den gesamten Forschungsprozess in den Geisteswissenschaften zu unterstützen. Es bietet ein Langzeitarchiv für geisteswissenschaftliche Forschungsdaten, das als TextGrid Repository bekannt ist. Dieses Repository enthält eine digitale Bibliothek mit zahlreichen XML/TEI-erschlossenen Texten in deutscher Sprache, die seit dem Anfang des Buchdrucks verfügbar sind. TextGrid ermöglicht es Forschern, ihre Daten nachhaltig zu speichern und zu verwalten. \n\nQuelle: https://textgrid.de/en/web/guest/home"
+  },
+  {
+    "question": "Welche Rolle spielen Repositorien in der digitalen Forschung?",
+    "answer": "Repositorien spielen eine entscheidende Rolle in der digitalen Forschung, da sie Forschungsdaten nachhaltig zugänglich machen und als Quellengrundlage sowie Publikationsplattform dienen. Sie ermöglichen es Forschern, ihre Daten zu speichern, zu teilen und zu veröffentlichen, was die Sichtbarkeit und den Einfluss ihrer Arbeiten erhöht. Fachspezifische Repositorien für die Geisteswissenschaften sind auf Plattformen wie Re3Data und NFDI4Culture verzeichnet, die eine kuratierte Liste von Repositorien anbieten. \n\nQuelle: https://www.re3data.org/search?subjects%5B%5D=11%20Humanities"
+  },
+  {
+    "question": "Welche Initiativen gibt es für offene Publikationsinfrastrukturen in den Digital Humanities?",
+    "answer": "In den Digital Humanities gibt es zahlreiche Initiativen, die sich für offene Publikationsinfrastrukturen einsetzen. Dazu gehört die Zeitschrift für digitale Geisteswissenschaften (ZfDG), die als Diamond Open Access Journal fungiert. Weitere relevante Publikationen sind Digital Humanities Quarterly, Digital Studies / Le champ numérique und die Open Library of Humanities, die verschiedene thematische Schwerpunkte abdecken. Diese Initiativen fördern den Zugang zu wissenschaftlichen Arbeiten und unterstützen die Verbreitung von Forschungsergebnissen. \n\nQuelle: https://zfdg.de/"
+  },
+  {
+    "question": "Welche übergreifenden Strukturen und Akteure gibt es im Bereich der Digital Humanities?",
+    "answer": "Im Bereich der Digital Humanities gibt es verschiedene übergreifende Strukturen und Akteure, die Informationen bereitstellen und den Austausch fördern. Dazu gehören der Verband für Digital Humanities im deutschsprachigen Raum, die Alliance of Digital Humanities Organisations und die NFDI-Konsortien für die Geisteswissenschaften. Diese Organisationen bieten spezifische Informationsangebote und Unterstützung für Forscher, darunter offene Sprechstunden und Helpdesks. CLARIAH-DE bündelt zudem Angebote einer digitalen Forschungsinfrastruktur für die Geisteswissenschaften. \n\nQuelle: https://dig-hum.de/"
+  },
+  {
+    "question": "Welche Unterstützung bietet die Universitätsbibliothek für Digital Humanities-Projekte?",
+    "answer": "Die Universitätsbibliothek bietet vielfältige Services und individuelle Unterstützung für Digital Humanities-Projekte an. Dazu gehören die Erstellung von Korpora, die Text- und Spracherkennung sowie das Management von Forschungsdaten während des gesamten Forschungszyklus. Diese Unterstützung zielt darauf ab, Forschern zu helfen, ihre Projekte erfolgreich umzusetzen und die Möglichkeiten digitaler Methoden in den Geisteswissenschaften zu nutzen. \n\nQuelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/"
+  }
+]

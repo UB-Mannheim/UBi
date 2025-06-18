@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Welche Ressourcen bietet die Universität Mannheim für die Fächer Mathematik und Informatik an?",
+    "answer": "Die Universität Mannheim bietet eine Vielzahl von Ressourcen für die Fächer Mathematik und Informatik an, darunter Literatur, Datenbanken und weitere Einstiegsmöglichkeiten zur Recherche. Studierende können Kurse besuchen, um mehr über die Recherche in ihrem Fachgebiet zu erfahren oder individuelle Beratungen in Anspruch nehmen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/mathematik-und-informatik/"
+  },
+  {
+    "question": "Welche Datenbanken sind für die Mathematik und Informatik verfügbar?",
+    "answer": "Für die Mathematik stehen unter anderem MathSciNet und Zentralblatt MATH zur Verfügung. Im Bereich Informatik sind die ACM Digital Library, IEEE Xplore, DBLP und SpringerLink wichtige Datenbanken. Weitere Datenbanken können über das Datenbank-Informationssystem (DBIS) gefunden werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=179"
+  },
+  {
+    "question": "Wo kann man E-Journals für Mathematik und Informatik finden?",
+    "answer": "E-Journals für Mathematik und Informatik sind in der Elektronischen Zeitschriftenbibliothek (EZB) sowie im Katalog Primo der Universität Mannheim verfügbar. Diese Plattformen bieten Zugang zu einer Vielzahl von Fachzeitschriften in beiden Disziplinen.",
+    "source": "Quelle: http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=3&lang=de¬ation=SA-SP"
+  },
+  {
+    "question": "Welche E-Book-Pakete sind für Mathematik und Informatik verfügbar?",
+    "answer": "Die Universität Mannheim bietet verschiedene E-Book-Pakete an, darunter die Lecture Notes of Computer Science, Technik & Informatik, und Mathematics and Statistics. Diese E-Books sind auch im Katalog Primo verfügbar, wo Studierende sie recherchieren können.",
+    "source": "Quelle: https://link.springer.com/bookseries/558"
+  },
+  {
+    "question": "Wo findet man Forschungsdaten für Mathematik und Informatik?",
+    "answer": "Forschungsdaten können über Plattformen wie CKAN und Web Data Commons gefunden werden. Diese Seiten bieten Zugang zu einer Vielzahl von Forschungsdaten, die für wissenschaftliche Arbeiten in Mathematik und Informatik nützlich sind.",
+    "source": "Quelle: http://ckan.org/"
+  },
+  {
+    "question": "Welche fachlichen Internetquellen sind für Mathematik und Informatik nützlich?",
+    "answer": "Nützliche fachliche Internetquellen umfassen Wolfram Alpha, die Virtuelle Fachbibliothek Mathematik, MathGuide und das Mathematics Genealogy Project. Diese Ressourcen bieten wertvolle Informationen und Werkzeuge für die Recherche in Mathematik und Informatik.",
+    "source": "Quelle: https://www.wolframalpha.com/"
+  },
+  {
+    "question": "Wo kann man Literatur zu Mathematik und Informatik vor Ort finden?",
+    "answer": "Im Bibliotheksbereich A5 der Universität Mannheim finden Studierende Literatur zu Mathematik und Informatik, die vor Ort genutzt werden kann. Diese Medien sind frei zugänglich, jedoch ist das Ausleihen nur für wissenschaftliches Personal der Universität möglich. Weitere Literatur kann im Ausleihzentrum Schloss Westflügel ausgeliehen werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/standorte/bb-a5/"
+  },
+  {
+    "question": "Welche Forschungs­einrichtungen sind in Mannheim aktiv?",
+    "answer": "In Mannheim sind die Fakultät für Wirtschaftsinformatik und Wirtschaftsmathematik sowie die Probability & Statistics Group Heidelberg-Mannheim aktiv. Diese Einrichtungen bieten Möglichkeiten für Forschung und Zusammenarbeit in den Bereichen Mathematik und Informatik.",
+    "source": "Quelle: https://www.wim.uni-mannheim.de/"
+  },
+  {
+    "question": "Welche Kurse und Tutorials werden für Studierende in Mathematik und Informatik angeboten?",
+    "answer": "Die Universität Mannheim bietet regelmäßig Kurse für Studierende im Master Wirtschafts­informatik und Mannheim Master in Data Science an. Darüber hinaus gibt es unregelmäßige Schulungen im Bereich Mathematik sowie allgemeine Kurse und Online-Tutorials, die jederzeit absolviert werden können.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/"
+  },
+  {
+    "question": "Welche Ratgeber zum wissenschaftlichen Arbeiten sind in der UB verfügbar?",
+    "answer": "In der Universitätsbibliothek (UB) sind zahlreiche Ratgeber zum wissenschaftlichen Arbeiten verfügbar, darunter Titel wie 'Anfertigung wissenschaftlicher Arbeiten' von Brink und 'Writing Mathematical Papers in English' von Trzeciak. Diese Ratgeber bieten wertvolle Informationen und Unterstützung für Studierende.",
+    "source": "Quelle: https://primo.bib.uni-mannheim.de/"
+  },
+  {
+    "question": "Wer ist der Ansprechpartner für Forschungsdatenmanagement in Mathematik?",
+    "answer": "Christos Sidiropoulos ist der Ansprechpartner für Forschungsdatenmanagement und Fachreferent für Mathematik an der Universität Mannheim. Er bietet Beratung und Schulungen im Bereich Forschungsdatenmanagement an und ist für die Literaturauswahl und -erschließung im Fach Mathematik zuständig.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/christos-sidiropoulos/"
+  },
+  {
+    "question": "Wer ist der Fachreferent für Informatik an der Universität Mannheim?",
+    "answer": "Dr. Philipp Zumstein ist der Fachreferent für Informatik an der Universität Mannheim. Er leitet die Abteilung Publikationsservices und Forschungsunterstützung und bietet Beratung bei Recherchefragen sowie Schulungen im Fachbereich Informatik an.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-philipp-zumstein/"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "question": "Welche Unterstützung bietet das Forschungsdatenzentrum bei Förderanträgen?",
+    "answer": "Das Forschungsdatenzentrum bietet eine Überprüfung der datenwissenschaftlichen Teile in Förderanträgen an. Dies hilft Antragstellern, sicherzustellen, dass ihre Anträge den erforderlichen Standards und Anforderungen im Bereich der Datenwissenschaft entsprechen und somit die Chancen auf eine erfolgreiche Förderung erhöhen. \n\nQuelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/"
+  },
+  {
+    "question": "Was umfasst die Data Science Pipeline im Forschungsdatenzentrum?",
+    "answer": "Die Data Science Pipeline im Forschungsdatenzentrum umfasst mehrere Schritte, die für die Bearbeitung von Forschungsfragen aus datenwissenschaftlicher Sicht notwendig sind. Dazu gehören die Analyse der Forschungsfragen, Unterstützung beim Abrufen von Daten aus verschiedenen Quellen (wie APIs, Web Scraping, Datenbanken und Dateien), die Bereinigung und Aufbereitung der Daten mit Programmiersprachen wie Python und R, explorative Datenanalysen, die Modellierung von Daten durch das Training neuronaler Netze, Datenvisualisierung und Storytelling sowie Beratung zur Veröffentlichung eines Datenpapiers in einem Datenjournal. Zudem wird Unterstützung beim FAIRes Teilen und Archivieren von Daten, Modellen und Visualisierungen in Datenrepositories angeboten. \n\nQuelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/"
+  },
+  {
+    "question": "Welche Dienstleistungen werden im Bereich Codes und Algorithmen angeboten?",
+    "answer": "Im Bereich Codes und Algorithmen bietet das Forschungsdatenzentrum Unterstützung beim Schreiben von reproduzierbarem Open-Source-Code in Python und R an. Zudem wird Hilfe bei der Code-Organisation und Dokumentation auf GitHub bereitgestellt, und es erfolgt eine Überprüfung des Software-Repositories. Darüber hinaus wird das FAIRe Teilen und Archivieren von Software in Datenrepositories unterstützt, sowie Beratung zur Veröffentlichung eines Software-Artikels in einer Software-Zeitschrift. \n\nQuelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/"
+  },
+  {
+    "question": "Welche Infrastruktur-Dienstleistungen bietet das Forschungsdatenzentrum für Data Science an?",
+    "answer": "Das Forschungsdatenzentrum bietet Beratung zu verschiedenen Aspekten der Infrastruktur für Data Science an. Dazu gehören Empfehlungen zu Rechenressourcen und High Performance Computing (HPC), sowie Informationen über kostenlose Cloud-Infrastrukturen und -Programme wie Kaggle, Google Colab, Google Cloud for Education und TPU Research Cloud. Außerdem wird Beratung zum Einsatz von Deep-Learning-Modellen in der Produktion angeboten, um sicherzustellen, dass diese Modelle effizient und effektiv implementiert werden. \n\nQuelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/"
+  },
+  {
+    "question": "Was sind die Angebote im Bereich Low-Code- und No-Code-Data Science?",
+    "answer": "Im Bereich Low-Code- und No-Code-Data Science bietet das Forschungsdatenzentrum Beratung zu verschiedenen Low-Code-Bibliotheken wie PyCaret, H20 AutoML, Auto-ViML, TPOT und AutoKeras an. Zudem werden No-Code-Tools wie Google Cloud Auto ML, ML KIT, Runway AI, Lobe, CreateML, RapidMiner und DataRobot behandelt. Darüber hinaus wird Unterstützung bei der Recherche mit Chatbots, einschließlich ChatGPT und seinen Alternativen, angeboten, um die Nutzung dieser Technologien zu erleichtern. \n\nQuelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/"
+  },
+  {
+    "question": "Wie unterstützt das Forschungsdatenzentrum die Vernetzung im Bereich Data Science?",
+    "answer": "Das Forschungsdatenzentrum unterstützt die Vernetzung im Bereich Data Science durch Hilfe bei der Suche nach Kooperationspartnern und bei der Organisation von Data-Science-Treffen. Diese Maßnahmen fördern den Austausch und die Zusammenarbeit zwischen Forschern und Praktikern im Bereich Data Science. Zudem ist das Mannheim Center for Data Science eine wichtige Anlaufstelle für solche Vernetzungsaktivitäten. \n\nQuelle: https://www.uni-mannheim.de/datascience"
+  },
+  {
+    "question": "Wie kann man das Forschungsdatenzentrum kontaktieren?",
+    "answer": "Das Forschungsdatenzentrum kann über verschiedene Kontaktmöglichkeiten erreicht werden. Die Adresse lautet: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim. Zudem kann eine E-Mail an forschungsdaten@uni-mannheim.de gesendet werden. Weitere Informationen sind auf der Webseite des Forschungsdatenzentrums zu finden: www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum. \n\nQuelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/"
+  }
+]

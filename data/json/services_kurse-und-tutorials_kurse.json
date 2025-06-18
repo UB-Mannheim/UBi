@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Welche Themen werden in den Kursen der Universitätsbibliothek angeboten?",
+    "answer": "Die Themen im Kursangebot der Universitätsbibliothek reichen von der Datenbankrecherche über die Literaturverwaltung bis hin zum Forschungsdatenmanagement. Diese Kurse sind darauf ausgelegt, den Studierenden die notwendigen Fähigkeiten und Kenntnisse zu vermitteln, um effektiv mit wissenschaftlichen Informationen umzugehen und diese zu verwalten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/"
+  },
+  {
+    "question": "Wie können sich Studierende für die Kurse der Universitätsbibliothek anmelden?",
+    "answer": "Studierende können sich im Studierendenportal der Universität Mannheim für die Kurse der Universitätsbibliothek anmelden. Darüber hinaus besteht die Möglichkeit, weitere Kurstermine oder Einzelberatungen anzufordern, indem man direkt bei der Bibliothek nachfragt.",
+    "source": "Quelle: https://portal2.uni-mannheim.de/portal2/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&_flowExecutionKey=e1s1"
+  },
+  {
+    "question": "Wo finden die meisten Präsenzkurse der Universitätsbibliothek statt?",
+    "answer": "Die meisten Präsenzkurse der Universitätsbibliothek finden im Schulungsraum M 218 im Bibliotheksbereich Schloss Ehrenhof statt. Dieser Raum ist speziell für Schulungen und Kurse eingerichtet, um den Studierenden eine optimale Lernumgebung zu bieten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schulungsraum-m-218/"
+  },
+  {
+    "question": "Was benötigen Teilnehmer für die Online-Kurse der Universitätsbibliothek?",
+    "answer": "Für die Teilnahme an den Online-Kursen der Universitätsbibliothek benötigen die Teilnehmer lediglich einen PC oder ein mobiles Endgerät mit Internetzugang sowie ein Headset, Kopfhörer oder Lautsprecher. Nach der Anmeldung erhalten die Teilnehmer eine E-Mail mit dem Link zum virtuellen Schulungsraum der Bibliothek.",
+    "source": "Quelle: https://portal2.uni-mannheim.de/portal2/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&_flowExecutionKey=e1s1"
+  },
+  {
+    "question": "Wie lauten die Kontaktinformationen der Universitätsbibliothek Mannheim?",
+    "answer": "Die Kontaktinformationen der Universitätsbibliothek Mannheim sind wie folgt: Die Adresse lautet Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim. Die E-Mail-Adresse für Anfragen ist informationskompetenz.ub@uni-mannheim.de. Weitere Informationen sind auf der Webseite www.bib.uni-mannheim.de verfügbar. Die Bibliothek bietet auch verschiedene Online-Dienste wie Auskunft und Beratung sowie einen Chat-Service von Montag bis Freitag zwischen 10 und 18 Uhr an.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de"
+  }
+]

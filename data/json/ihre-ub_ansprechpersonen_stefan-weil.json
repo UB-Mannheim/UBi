@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Wer ist Stefan Weil und welche Positionen bekleidet er?",
+    "answer": "Stefan Weil ist der Leiter der Abteilung Digitale Bibliotheksdienste an der Universität Mannheim und fungiert zudem als stellvertretender Fachreferent für Mathematik und Informatik. In dieser Rolle ist er verantwortlich für die Leitung von Projekten, die fachliche Beratung bei Recherchefragen sowie die Durchführung von Schulungen im Fachbereich.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/stefan-weil/"
+  },
+  {
+    "question": "Welche Publikationen hat Stefan Weil im Jahr 2024 veröffentlicht?",
+    "answer": "Im Jahr 2024 hat Stefan Weil mehrere Publikationen veröffentlicht, darunter: 1) 'Reichsanzeiger-GT: an OCR ground truth dataset based on the historical newspaper “Deutscher Reichsanzeiger und Preußischer Staatsanzeiger” (1819–1945)', veröffentlicht in 'Data in Brief', 54, 1–7. 2) 'Abschlussbericht zu DFG-Projekt „Integration von Kitodo und OCR-D zur produktiven Massendigitalisierung“'. 3) 'Fünf Jahre DFG-Projekt Deutscher Reichsanzeiger – was haben wir gelernt?' auf der BiblioCon 2024 in Hamburg. 4) 'Abschlussbericht zu DFG-Projekt „Workflow für werk­spezifisches Training auf Basis generischer Modelle mit OCR-D sowie Ground-Truth-Aufwertung“'. 5) 'Abschlussbericht zu DFG-Projekt „Strukturdatenerfassung, ergänzende Digitalisierung und OCR-Erschließung des Deutschen Reichsanzeigers und Preußischen Staatsanzeigers (1871–1945)'.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/66969/1/1-s2.0-S2352340924002439-main.pdf"
+  },
+  {
+    "question": "Welche Themen wurden in den Publikationen von Stefan Weil im Jahr 2023 behandelt?",
+    "answer": "Im Jahr 2023 hat Stefan Weil mehrere Themen in seinen Publikationen behandelt, darunter die Integration von Kitodo und OCR-D zur produktiven Massendigitalisierung, die Präsentation von OCR On-Demand für DFG-Viewer und Kitodo sowie die Einführung in die Transkription von Handschriften und Drucken mit eScriptorium. Diese Themen wurden auf verschiedenen Konferenzen wie dem Kitodo Praxistreffen und der BiblioCon 2023 präsentiert.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/66904/1/Kitodo_Praxistreffen_2023_Weil_OCR-D.pdf"
+  },
+  {
+    "question": "Was sind die Hauptinhalte der Publikationen von Stefan Weil im Jahr 2022?",
+    "answer": "Im Jahr 2022 konzentrierte sich Stefan Weil in seinen Publikationen auf die Themen DFG-Viewer und Kitodo sowie die Erstellung von Ground Truth zur Verbesserung von OCR-Modellen. Diese Themen wurden auf dem Kitodo Praxistreffen in Braunschweig behandelt, wo er Präsentationen zu diesen wichtigen Aspekten der digitalen Bibliotheksdienste hielt.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/65505/1/Kitodo_Praxistreffen_2022_Weil_OCR.pdf"
+  },
+  {
+    "question": "Welche Forschungsprojekte und Themen wurden in den Publikationen von Stefan Weil im Jahr 2020 behandelt?",
+    "answer": "Im Jahr 2020 behandelte Stefan Weil in seinen Publikationen Themen wie die Digitalisierung historischer Forschungsdaten für die Wirtschaftswissenschaften und die Texterkennung von historischen Drucken mit OCR-D und Tesseract. Diese Arbeiten wurden im Rahmen von Konferenzen und Workshops präsentiert, die sich mit der Digitalisierung und der Nutzung von OCR-Technologien in Bibliotheken beschäftigten.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/54442/1/598-4-88226-1-10-20200325.pdf"
+  },
+  {
+    "question": "Welche Themen wurden in den Publikationen von Stefan Weil im Jahr 2019 behandelt?",
+    "answer": "Im Jahr 2019 veröffentlichte Stefan Weil mehrere Arbeiten, die sich mit der Optimierung von OCR-Verfahren, der Entwicklung neuer Frakturmuster für Tesseract und der Bereitstellung von Forschungsdaten aus Digitalisaten beschäftigten. Diese Themen wurden auf verschiedenen Konferenzen und Workshops präsentiert, die sich mit der Digitalisierung und der Nutzung von OCR-Technologien in der Forschung befassten.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/52213/1/2019-09-19.pdf"
+  },
+  {
+    "question": "Was sind die Hauptinhalte der Publikationen von Stefan Weil im Jahr 2018?",
+    "answer": "Im Jahr 2018 veröffentlichte Stefan Weil eine Arbeit über die Online-Verfügbarkeit von Zeitungen, die als wertvolle Ressource für historisch Interessierte dient und die Bibliotheks-IT vorantreibt. Diese Publikation wurde auf dem 107. Deutschen Bibliothekartag in Berlin präsentiert.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/46507"
+  },
+  {
+    "question": "Welche Themen wurden in den Publikationen von Stefan Weil im Jahr 2017 behandelt?",
+    "answer": "Im Jahr 2017 behandelten die Publikationen von Stefan Weil die Entwicklung des Webauftritts der Universitätsbibliothek Mannheim sowie den Aufbau einer digitalen Forschungsbibliothek. Diese Arbeiten wurden im Rahmen einer Festschrift zum 50-jährigen Bestehen der Universitätsbibliothek Mannheim veröffentlicht.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/42798/1/Webseite_Festschrift_50_Jahre_UB_Mannheim.pdf"
+  },
+  {
+    "question": "Welche Themen wurden in den Publikationen von Stefan Weil im Jahr 2015 behandelt?",
+    "answer": "Im Jahr 2015 veröffentlichte Stefan Weil Arbeiten über den Einsatz der Digitalisierungsplattform Goobi an der Universitätsbibliothek Mannheim sowie über elektronische Arbeitsplätze für Bibliotheken mit der Softwarelösung PalMA. Diese Themen wurden auf dem Deutschen Bibliothekartag und in Fachzeitschriften behandelt.",
+    "source": "Quelle: https://madoc.bib.uni-mannheim.de/39340/1/Goobi_an_der_UB_Mannheim_aus_b.i.t._3-2015.pdf"
+  }
+]

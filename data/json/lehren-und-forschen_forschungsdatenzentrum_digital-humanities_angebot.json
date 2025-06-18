@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Welche Unterstützung bietet das Forschungsdatenzentrum der Universität Mannheim?",
+    "answer": "Das Forschungsdatenzentrum der Universität Mannheim bietet Unterstützung in der Arbeit mit verschiedenen Daten, die während des Forschungsprozesses verwendet und erzeugt werden. Dies umfasst sowohl qualitative als auch quantitative Methoden und schließt Texte, Bilder, Software, Modelle, Interviews und Tabellen ein. Das Zentrum ist offen für Anregungen und steht für individuelle Unterstützung zur Verfügung.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/angebot/"
+  },
+  {
+    "question": "Welche digitalen Quellen stellt die Universitätsbibliothek Mannheim zur Verfügung?",
+    "answer": "Die Universitätsbibliothek Mannheim bietet eine Vielzahl von Digitalisaten ihrer Bestände im Volltext an, darunter historische Zeitungen wie den Deutschen Reichsanzeiger und deutsche Gemeindeverzeichnisse. Zudem verwaltet die Bibliothek Datenbanken wie Linguapix, die Bildbenennungsstandards für die psycholinguistische Forschung bereitstellt, sowie Nikephoros, eine bibliografische Datenbank zu Sport in der Antike. Individuelle Unterstützung bei der Datensammlung aus externen Quellen wird ebenfalls angeboten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/angebot/"
+  },
+  {
+    "question": "Was umfasst die Expertise der Universitätsbibliothek Mannheim im Bereich der Texterkennung?",
+    "answer": "Die Universitätsbibliothek Mannheim verfügt über langjährige Expertise in der automatisierten Texterkennung (OCR). Auf der OCR-Website des Forschungsdatenzentrums finden Nutzer Informationen zu verschiedenen Tools, Anleitungen zu OCR-Software und bestehende Kooperationsprojekte. Das Forschungsdatenzentrum unterstützt auch bei der Erstellung digitalisierter Texte für Forschungsprojekte, einschließlich Nachtraining spezialisierter Modelle und Datenstrukturierung. Einführungen und Tutorials für verschiedene Texterkennungsprogramme sind ebenfalls verfügbar.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/#c342156"
+  },
+  {
+    "question": "Wie unterstützt das Forschungsdatenzentrum das Forschungsdatenmanagement?",
+    "answer": "Das Forschungsdatenzentrum unterstützt und berät während des gesamten Forschungsprozesses im Datenmanagement, einschließlich des Sammelns, Bereinigen, Aufbereitens, Visualisierens und Teilens von Daten. Es bietet auch Hilfe beim Lizensieren von Daten, bei Fragen zum Urheberrecht und in der Erstellung von Datenmanagementplänen, insbesondere bei Drittmittelanträgen mit datenwissenschaftlichen Anteilen. Zudem wird die Plattform MAObjects zur Präsentation digitaler Objektsammlungen und virtueller Ausstellungen angeboten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/"
+  },
+  {
+    "question": "Welche Möglichkeiten zur Weiterbildung bietet die Universitätsbibliothek Mannheim?",
+    "answer": "Die Universitätsbibliothek Mannheim bietet eine Kursreihe namens Research Skills an, in der Teilnehmer ihre Datenkompetenzen schärfen können. Zudem gibt es Veranstaltungen des Mannheim Center for Data Science, die Möglichkeiten zum Austausch und zur Vernetzung mit anderen Forschenden an der Universität bieten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/"
+  }
+]

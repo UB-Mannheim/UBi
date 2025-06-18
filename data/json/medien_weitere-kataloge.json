@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Welche Möglichkeiten gibt es, um in den Beständen anderer Bibliotheken zu recherchieren?",
+    "answer": "Es gibt verschiedene Möglichkeiten, um in den Beständen anderer Bibliotheken zu recherchieren. Dazu gehören die Nutzung von Suchportalen, die sowohl deutschlandweit als auch international verfügbar sind. Diese Portale ermöglichen es, auf eine Vielzahl von Katalogen und Beständen zuzugreifen, um die benötigten Informationen oder Materialien zu finden. Eine umfassende Recherche kann durch die Kombination mehrerer Kataloge und Suchmaschinen erfolgen, um die besten Ergebnisse zu erzielen.\n\nQuelle: https://www.bib.uni-mannheim.de/medien/weitere-kataloge/"
+  },
+  {
+    "question": "Was bietet der Karlsruher Virtuelle Katalog (KVK)?",
+    "answer": "Der Karlsruher Virtuelle Katalog (KVK) ist ein umfassendes Recherchetool, das den Nachweis von mehr als 500 Millionen Büchern in Bibliotheks- und Buchhandelskatalogen weltweit ermöglicht. Er dient als zentrale Anlaufstelle für die Suche nach Literatur und anderen Medien und erleichtert den Zugang zu einer Vielzahl von Beständen aus unterschiedlichen Institutionen.\n\nQuelle: https://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0"
+  },
+  {
+    "question": "Welche Bestände sind im Südwestdeutschen Bibliotheksverbund (SWB) enthalten?",
+    "answer": "Der Südwestdeutsche Bibliotheksverbund (SWB) enthält die Bestände der wissenschaftlichen Bibliotheken in Baden-Württemberg, im Saarland und in Sachsen. Dieser Verbundkatalog ermöglicht es Nutzern, auf die Ressourcen dieser Bibliotheken zuzugreifen und die Verfügbarkeit von Medien zu überprüfen. Er ist besonders nützlich für die Recherche in regionalen wissenschaftlichen Beständen.\n\nQuelle: http://swb.bsz-bw.de/DB=2.1/?COOKIE=U998,Pbszgast,I17,B0728+,SY,NRecherche-DB,D2.1,E81f88e28-0,A,H,R193.197.31.15,FY"
+  },
+  {
+    "question": "Was ist die Elektronische Zeitschriftenbibliothek (EZB) und was bietet sie?",
+    "answer": "Die Elektronische Zeitschriftenbibliothek (EZB) bietet Zugang zu wissenschaftlichen E-Journals. Sie ermöglicht den Zugriff auf frei zugängliche Artikel sowie auf Artikel, die lizenzrechtlich auf Bibliotheken mit Abonnement beschränkt sind. Die EZB ist ein wichtiges Werkzeug für Forscher und Studierende, die nach wissenschaftlichen Artikeln suchen, und bietet eine benutzerfreundliche Oberfläche zur Recherche.\n\nQuelle: https://ezb.uni-regensburg.de/fl.phtml?frames=&bibid=UBMAN&colors=7&KT=%25&Notations=all"
+  },
+  {
+    "question": "Was kann man im Katalog der Universität Mannheim finden?",
+    "answer": "Im Katalog der Universität Mannheim, auch bekannt als Primo, können Nutzer die Bestände der Universitätsbibliothek Mannheim recherchieren. Dieser Online-Katalog bietet Zugang zu einer Vielzahl von Medien, darunter Bücher, Zeitschriften und andere wissenschaftliche Ressourcen. Zusätzlich gibt es weitere spezialisierte Kataloge, wie den MADOC, der Publikationen und die Universitätsbibliographie der Universität Mannheim umfasst.\n\nQuelle: https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB"
+  },
+  {
+    "question": "Welche Kataloge sind für andere Mannheimer Einrichtungen verfügbar?",
+    "answer": "Für andere Mannheimer Einrichtungen stehen verschiedene Kataloge zur Verfügung, darunter der Katalog des Instituts für deutsche Sprache (IDS) und der Katalog der Stadtbibliothek Mannheim. Diese Kataloge ermöglichen es Nutzern, die Bestände dieser spezifischen Einrichtungen zu durchsuchen und Informationen über verfügbare Medien zu erhalten.\n\nQuelle: https://ids-mannheim.bsz-bw.de/"
+  },
+  {
+    "question": "Was bietet die Universitätsbibliothek Heidelberg in ihren Katalogen an?",
+    "answer": "Die Universitätsbibliothek Heidelberg bietet in ihren Katalogen Zugang zu einer Vielzahl von Medien und Beständen. Dazu gehören sowohl gedruckte als auch elektronische Materialien, die für die Forschung und das Studium genutzt werden können. Der Regionalkatalog Mannheim ist ebenfalls Teil dieses Angebots und ermöglicht eine gezielte Suche nach regionalen Beständen.\n\nQuelle: http://www.ub.uni-heidelberg.de/helios/kataloge/Welcome.html"
+  },
+  {
+    "question": "Was sind überregionale Kataloge und welche sind die wichtigsten?",
+    "answer": "Überregionale Kataloge sind Plattformen, die den Zugriff auf Bestände von Bibliotheken und anderen Einrichtungen über regionale Grenzen hinweg ermöglichen. Zu den wichtigsten überregionalen Katalogen gehören der Karlsruher Virtuelle Katalog (KVK), die Bielefeld Academic Search Engine (BASE), die Deutsche Nationalbibliothek (DNB), Europeana und die Deutsche Digitale Bibliothek. Diese Kataloge bieten eine breite Palette an Medien und Informationen aus verschiedenen Quellen und sind für die wissenschaftliche Recherche von großer Bedeutung.\n\nQuelle: https://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0"
+  },
+  {
+    "question": "Wie kann man Informationen über Bibliotheken mit ihren Kurzbezeichnungen finden?",
+    "answer": "In einigen Katalogen, wie dem Karlsruher Virtuellen Katalog, werden Bibliotheken nur mit ihren Kurzbezeichnungen, dem Sigel, angegeben. Um den vollständigen Namen und die Anschrift einer Bibliothek zu finden, kann man das Sigelverzeichnis nutzen, das online verfügbar ist. Dies erleichtert die Identifikation und den Zugang zu den jeweiligen Bibliotheken und ihren Beständen.\n\nQuelle: https://sigel.staatsbibliothek-berlin.de/suche"
+  }
+]

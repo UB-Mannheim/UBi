@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Was ist Data Literacy und warum ist sie wichtig?",
+    "answer": "Data Literacy bezeichnet die Fähigkeit, Daten zu sammeln, zu analysieren, kritisch zu bewerten und sinnvoll zu interpretieren. In einer zunehmend digitalisierten Welt ist diese Kompetenz entscheidend, um fundierte Entscheidungen in verschiedenen Bereichen wie Wissenschaft, Wirtschaft und im täglichen Leben zu treffen. Sie gilt als Schlüsselkompetenz des 21. Jahrhunderts und ermöglicht es Individuen, die Bedeutung und den Kontext von Daten zu verstehen und sie effektiv zu nutzen.",
+    "source": "Quelle: https://www.stifterverband.org/charta-data-literacy"
+  },
+  {
+    "question": "Was bietet der E-Learning-Kurs MaDaLi² an der Universität Mannheim?",
+    "answer": "Der E-Learning-Kurs MaDaLi² an der Universität Mannheim ist ein Grundlagenkurs, der Studierenden die Möglichkeit bietet, praxisorientierte Datenkompetenz zu erwerben. Der Kurs besteht aus acht Modulen und erfordert keine Vorkenntnisse. Er zielt darauf ab, den Teilnehmern umfassende Kenntnisse im Umgang mit Daten zu vermitteln, um sie auf die Herausforderungen der digitalen Welt vorzubereiten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/madali2-mannheim-data-literacy/"
+  },
+  {
+    "question": "Wie kann man am MaDaLi²-Kurs teilnehmen?",
+    "answer": "Interessierte können am MaDaLi²-Kurs teilnehmen, indem sie dem ILIAS-Kurs beitreten. Der Kurs ist so gestaltet, dass er für alle zugänglich ist, und bietet eine strukturierte Weiterbildung im Bereich Datenkompetenz. Der Zugang erfolgt über die Plattform ILIAS der Universität Mannheim.",
+    "source": "Quelle: https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&ref_id=1558732"
+  },
+  {
+    "question": "Wo finde ich weitere Informationen über das Kooperationsprojekt zur Datenkompetenz?",
+    "answer": "Weitere Informationen über das Kooperationsprojekt zur Datenkompetenz an der Universität Mannheim sind auf der offiziellen Website des Projekts verfügbar. Diese Seite bietet umfassende Details zu den Lehrangeboten und den Zielen des Projekts, das darauf abzielt, die Datenkompetenz von Studierenden zu fördern.",
+    "source": "Quelle: https://www.uni-mannheim.de/universitaet/lehre/lehrprojekte/data-literacy/"
+  }
+]

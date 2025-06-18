@@ -1,0 +1,7 @@
+[
+  {
+    "question": "Warum ist die Organisation und Dokumentation von Forschungsdaten wichtig?",
+    "answer": "Die Organisation und Dokumentation von Forschungsdaten ist entscheidend, um sicherzustellen, dass die Ergebnisse einer Forschung auch nachträglich leicht reproduzierbar sind. Dies beinhaltet die sorgfältige Dokumentation der Daten mit Metadaten, wie beispielsweise in Form von ReadMe-Dateien oder Codebooks, sowie die Kommentierung des Codes. Es ist wichtig, dabei fachspezifische Standards zu berücksichtigen, um die Nachvollziehbarkeit und Verständlichkeit der Daten zu gewährleisten. Darüber hinaus sollten Konventionen für die Benennung und Struktur von Ordnern und Dateien sowie für die Versionierung und das Backup der Daten festgelegt werden, um eine effiziente Datenverwaltung zu ermöglichen. Diese Praktiken tragen dazu bei, die Qualität und Integrität der Forschungsdaten zu sichern und die Zusammenarbeit zwischen Forschenden zu erleichtern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenorganisation-und-dokumentation/"
+  }
+]

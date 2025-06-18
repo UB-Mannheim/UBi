@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Wer ist die Leiterin der Abteilung Forschungsdatenzentrum und welche Aufgaben hat sie?",
+    "answer": "Die Leiterin der Abteilung Forschungsdatenzentrum ist Dr. Irene Schumm. Ihre Aufgaben umfassen die Betreuung und Koordination des Projekts BERD@NFDI sowie die Beratung und Durchführung von Schulungen im Bereich Forschungsdatenmanagement. Sie ist eine zentrale Ansprechperson für alle Fragen rund um das Thema Forschungsdaten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/"
+  },
+  {
+    "question": "Wer ist Dr. Phil Kolbe und welche Rolle spielt er im Forschungsdatenmanagement?",
+    "answer": "Dr. Phil Kolbe ist Referent für Forschungsdatenmanagement im Bereich Sozialwissenschaften an der Universität Mannheim. Er ist zuständig für die Unterstützung von Forschenden in der Handhabung und Verwaltung von Forschungsdaten und bietet entsprechende Beratungen an.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/"
+  },
+  {
+    "question": "Welche Aufgaben hat Dr. David Philip Morgan im Forschungsdatenmanagement?",
+    "answer": "Dr. David Philip Morgan ist Open Science Officer und Referent für Forschungsdatenmanagement im Bereich Sozialwissenschaften. Er unterstützt Forschende bei der Anwendung von Open Science-Praktiken und Forschungsdatenmanagement, um die Transparenz und Nachvollziehbarkeit von Forschungsprozessen zu fördern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/"
+  },
+  {
+    "question": "Was sind die Aufgaben von Thomas Schmidt, M.A. im Bereich Forschungsdatenmanagement?",
+    "answer": "Thomas Schmidt, M.A. ist Referent für Forschungsdatenmanagement mit einem Fokus auf Data Literacy. Zu seinen Aufgaben gehören die Unterstützung von Forschenden in der Datenkompetenz, die Durchführung von Schulungen sowie die Entwicklung von Inhalten und Software für das Forschungsdatenmanagement.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/"
+  },
+  {
+    "question": "Welche Rolle spielt Dr. Renat Shigapov im Forschungsdatenzentrum?",
+    "answer": "Dr. Renat Shigapov ist Referent für Data Science und Data Scientist im Forschungsdatenzentrum. Er koordiniert die NFDI AG „Knowledge Graphs“ und unterstützt Forschende bei der Anwendung von Data-Science-Methoden sowie beim FAIRen Forschungsdatenmanagement. Zudem vermittelt er Informations- und Datenkompetenz.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-renat-shigapov/"
+  },
+  {
+    "question": "Was sind die Aufgaben von Christos Sidiropoulos, M.Ed. im Forschungsdatenmanagement?",
+    "answer": "Christos Sidiropoulos, M.Ed. ist Referent für Forschungsdatenmanagement mit einem Schwerpunkt auf Data Literacy und Fachreferent für Mathematik. Er arbeitet im Data-Literacy-Projekt MaDaLi², bietet technischen Support und Schulungen im Bereich Forschungsdatenmanagement an und ist verantwortlich für die Literaturauswahl im Fach Mathematik.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/christos-sidiropoulos/"
+  },
+  {
+    "question": "Welche Aufgaben hat Larissa Will, M.A. im Bereich Forschungsdatenmanagement?",
+    "answer": "Larissa Will, M.A. ist Referentin für Forschungsdatenmanagement und Digitalisierung mit einem Fokus auf Digital Humanities. Sie unterstützt Forschende bei der Digitalisierung und dem Management von Forschungsdaten und bietet Beratungen und Schulungen an.",
+    "source": "Quelle: https://orcid.org/0009-0004-6220-8939"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Was ist der Zweck des Anschaffungs­vorschlags der Universitätsbibliothek Mannheim?",
+    "answer": "Der Anschaffungs­vorschlag dient dazu, dass Nutzer der Universitätsbibliothek Mannheim ihre Wünsche für neue Medien oder Titel einreichen können. Um den Vorschlag zu bearbeiten, sind Angaben in den Pflichtfeldern erforderlich, die sicherstellen, dass die Bibliothek die Anfragen effizient und zielgerichtet bearbeiten kann. Zudem wird auf die Bedeutung des Datenschutzes hingewiesen, um die Nutzer über den Umgang mit ihren Daten zu informieren.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/"
+  },
+  {
+    "question": "Welche Informationen sind für den Anschaffungs­vorschlag erforderlich?",
+    "answer": "Für den Anschaffungs­vorschlag sind Angaben zum Titel des gewünschten Mediums sowie persönliche Informationen des Antragstellers erforderlich. Diese Informationen sind notwendig, um den Vorschlag zu bearbeiten und sicherzustellen, dass die Bibliothek die Anfragen nachvollziehen kann.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/"
+  },
+  {
+    "question": "Wo finde ich Informationen zum Datenschutz der Universitätsbibliothek Mannheim?",
+    "answer": "Informationen zum Datenschutz der Universitätsbibliothek Mannheim sind auf der Webseite der Universität verfügbar. Diese Informationen klären die Nutzer über den Umgang mit ihren persönlichen Daten auf, die im Rahmen des Anschaffungs­vorschlags erhoben werden. Es ist wichtig, dass Nutzer sich dieser Informationen bewusst sind, bevor sie ihre Daten eingeben.",
+    "source": "Quelle: https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/"
+  },
+  {
+    "question": "Welche weiteren Dienstleistungen bietet die Universitätsbibliothek Mannheim an?",
+    "answer": "Die Universitätsbibliothek Mannheim bietet verschiedene Dienstleistungen an, darunter Informationen zu Öffnungszeiten, die Verfügbarkeit freier Sitzplätze und Auskunft sowie Beratung. Diese Dienstleistungen sind darauf ausgelegt, den Nutzern eine optimale Nutzung der Bibliothek zu ermöglichen und ihre Fragen zu beantworten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/oeffnungszeiten/"
+  }
+]

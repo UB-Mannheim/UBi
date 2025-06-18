@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Was sind die Hauptziele des InFoLiS-Projekts?",
+    "answer": "Das InFoLiS-Projekt hat fünf Hauptziele, die sich auf die Verbesserung der Verknüpfung von Forschungsdaten und Publikationen konzentrieren. Es zielt darauf ab, die Metadaten der Forschungsdaten mit bibliothekarischen Titeldaten zu verknüpfen, um die Recherche für Wissenschaftlerinnen und Wissenschaftler in den empirisch ausgerichteten Sozialwissenschaften zu erleichtern. Dies ist besonders wichtig, da die Ressourcen oft unverbunden nebeneinander stehen und die Daten in den Publikationen nicht standardisiert zitiert sind. Durch die Umsetzung dieser Ziele soll die wissenschaftliche Informationsversorgung im digitalen Zeitalter verbessert werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis/"
+  },
+  {
+    "question": "Welche Institutionen sind am InFoLiS-Projekt beteiligt?",
+    "answer": "Das InFoLiS-Projekt wird in Zusammenarbeit mit mehreren Institutionen durchgeführt. Die Hauptpartner sind der Lehrstuhl für Künstliche Intelligenz der Universität Mannheim und das GESIS – Leibniz-Institut für Sozialwissenschaften. Diese Partnerschaft ermöglicht es, Fachwissen aus verschiedenen Bereichen zu kombinieren, um die Ziele des Projekts effektiv zu erreichen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis/"
+  },
+  {
+    "question": "Wie trägt das InFoLiS-Projekt zur Verbesserung der wissenschaftlichen Informationsversorgung bei?",
+    "answer": "Das InFoLiS-Projekt trägt zur Verbesserung der wissenschaftlichen Informationsversorgung bei, indem es die Vernetzung von digitalen Informationssystemen und ihren Ressourcen fördert. Durch die Verknüpfung von Metadaten der Forschungsdaten mit bibliothekarischen Titeldaten wird es Wissenschaftlerinnen und Wissenschaftlern erleichtert, relevante Forschungsdaten in den Publikationen zu finden. Dies ist besonders wichtig in den empirisch ausgerichteten Sozialwissenschaften, wo die Suche nach unstandardisierten Zitaten in Volltexten eine Herausforderung darstellt. Die Implementierung dieser Lösungen in den Recherche-Systemen der Fachinformationszentren und Universitätsbibliotheken ist ein zentraler Aspekt des Projekts.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis/"
+  },
+  {
+    "question": "Welche Veröffentlichungen sind aus dem InFoLiS-Projekt hervorgegangen?",
+    "answer": "Das InFoLiS-Projekt hat mehrere bedeutende Veröffentlichungen hervorgebracht, die sich mit verschiedenen Aspekten der Integration von Forschungsdaten und Publikationen befassen. Dazu gehören Beiträge in Fachzeitschriften und Konferenzberichten, wie beispielsweise 'Linked Data als Infrastruktur zur Integration von Forschungsdaten und Publikationen' und 'Data Enrichment in Discovery Systems using Linked Data'. Diese Arbeiten tragen zur wissenschaftlichen Diskussion über die Verknüpfung von Daten und deren Nutzung in Bibliotheken und Informationssystemen bei.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis/"
+  }
+]

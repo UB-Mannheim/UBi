@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Was ist ein Datenmanagementplan (DMP) und wozu dient er?",
+    "answer": "Ein Datenmanagementplan (DMP) beschreibt den Umgang mit Forschungsdaten vor Projektbeginn und stellt die Nachvollziehbarkeit der Daten während und nach dem Projekt sicher. DMPs werden oft in formalisierter Form bei der Antragstellung oder während der Projektlaufzeit verlangt, beispielsweise bei Horizon Europe und ERC Grants. Auch die DFG verlangt Informationen zum Datenmanagement, obwohl es sich dabei nicht explizit um ein DMP handelt. Forschende an der Universität Mannheim können ein DMP mit MADataPlan erstellen, einem DMP-Tool, das bei der Erstellung, Verwaltung und Speicherung von DMPs unterstützt. Vorlagen für DMPs sind auch von verschiedenen Institutionen wie der DFG, dem ERC und Horizon Europe verfügbar.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/"
+  },
+  {
+    "question": "Wie unterscheiden sich die DMP-Anforderungen der verschiedenen Förderinstitutionen in Deutschland?",
+    "answer": "Die Anforderungen an ein DMP variieren je nach Förderinstitution in Deutschland. Die Deutsche Forschungs-gemeinschaft (DFG) verlangt Informationen zum Datenmanagement, jedoch nicht explizit in Form eines DMPs. Das Bundesministerium für Bildung und Forschung (BMBF) hat keine allgemeinen Anforderungen, während die Volkswagen Stiftung ein DMP als Voraussetzung für die Forschungsförderung verlangt. Andere Stiftungen wie die Baden-Württemberg Stiftung, Fritz Thyssen Stiftung und Hans Böckler Stiftung haben keine DMP-Anforderungen. Die DFG bietet eine inoffizielle DMP-Vorlage über MADataPlan an, während die Volkswagen Stiftung eine offizielle Vorlage bereitstellt.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/"
+  },
+  {
+    "question": "Welche DMP-Anforderungen gelten für europäische Förderinstitutionen?",
+    "answer": "Für europäische Förderinstitutionen wie den European Research Council (ERC) und Horizon Europe müssen Antragstellende nach den ersten sechs Monaten des Förderzeitraums ein DMP vorlegen und diesen kontinuierlich aktualisieren, wenn sich wesentliche Änderungen ergeben. Beide Institutionen stellen Vorlagen für DMPs zur Verfügung, die über MADataPlan zugänglich sind. Im Gegensatz dazu hat die European Science Foundation keine DMP-Anforderungen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/"
+  },
+  {
+    "question": "Welche Standards sollten bei der Erstellung eines DMPs berücksichtigt werden?",
+    "answer": "Bei der Erstellung eines DMPs sollten die Standards für das Datenmanagement im jeweiligen Forschungsbereich berücksichtigt werden, wie beispielsweise in den Geisteswissenschaften, Sozialwissenschaften und Wirtschaftswissenschaften. Es gibt spezifische Dokumente und Vorlagen, die Forschenden Hinweise geben können, was in ihren DMP aufgenommen werden sollte. Dazu gehören der standardisierte Datenmanagementplan für die Bildungsforschung, Leitfäden für effektive Datenmanagementpläne und spezifische DMP-Vorlagen aus verschiedenen Projekten und Netzwerken.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/"
+  },
+  {
+    "question": "Wo können Beispiele für erfolgreiche DMPs gefunden werden?",
+    "answer": "Beispiele für erfolgreiche DMPs können auf der Website des Digital Curation Center (DCC) eingesehen werden. Diese Beispiele bieten Forschenden eine Vorstellung davon, wonach Gutachter suchen könnten, und können als Inspiration für die eigene DMP-Erstellung dienen. Zudem sind weitere Ressourcen und Leitfäden verfügbar, die bei der Erstellung eines DMPs helfen können.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/"
+  },
+  {
+    "question": "Wie kann man Kontakt zum Forschungsdatenzentrum (FDZ) der Universität Mannheim aufnehmen?",
+    "answer": "Das Forschungsdatenzentrum (FDZ) der Universität Mannheim kann über die folgende Adresse kontaktiert werden: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim. Die E-Mail-Adresse lautet forschungsdaten@uni-mannheim.de. Weitere Informationen sind auf der Website des FDZ verfügbar.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/"
+  }
+]

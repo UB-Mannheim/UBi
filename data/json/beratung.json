@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Wie kann ich persönliche Beratung von der Universitätsbibliothek erhalten?",
+    "answer": "Die Universitätsbibliothek bietet individuelle Beratung für Studierende an, die Unterstützung bei der Recherche in ihrem Fach, beim wissenschaftlichen Schreiben und Publizieren sowie beim Umgang mit Forschungsdaten benötigen. Vor Ort stehen die Mitarbeiterinnen und Mitarbeiter an den Infotheken von montags bis freitags zwischen 8 und 18 Uhr zur Verfügung. Zusätzlich kann das Team der UB wochentags von 10 bis 18 Uhr über den Chat kontaktiert werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/beratung/"
+  },
+  {
+    "question": "Was ist das InfoCenter der Universitätsbibliothek?",
+    "answer": "Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek für Auskunft und Beratung. Hier können Studierende und andere Nutzer Informationen und Unterstützung zu verschiedenen Themen rund um die Bibliotheksdienste erhalten.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/beratung/"
+  },
+  {
+    "question": "Wie kann die Schreibberatung der Universitätsbibliothek helfen?",
+    "answer": "Die Schreibberatung der Universitätsbibliothek unterstützt Studierende der Universität Mannheim in allen Studiengängen dabei, ihre wissenschaftlichen Arbeiten besser zu planen, entspannter zu schreiben und Feedback zu ihren Texten zu erhalten. Dies kann besonders hilfreich sein, um die Qualität der wissenschaftlichen Arbeiten zu verbessern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/beratung/"
+  },
+  {
+    "question": "Welche Unterstützung bietet die Universitätsbibliothek bei der Literaturverwaltung?",
+    "answer": "Das Team der Universitätsbibliothek bietet Unterstützung bei der Nutzung von Zotero, einem beliebten Literaturverwaltungsprogramm. Dies umfasst Hilfestellungen zur effektiven Verwaltung und Organisation von Literaturquellen, was für das wissenschaftliche Arbeiten von großer Bedeutung ist.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/beratung/"
+  },
+  {
+    "question": "Wie kann ich fachliche Recherche in der Universitätsbibliothek durchführen?",
+    "answer": "Die Fachreferentinnen und Fachreferenten der Universitätsbibliothek stehen bereit, um Fragen zu Literatur, Datenbanken und weiteren Sucheinstiegen für spezifische Fachrichtungen zu beantworten. Dies hilft den Studierenden, gezielt und effizient die benötigten Informationen zu finden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/beratung/"
+  },
+  {
+    "question": "Welche Unterstützung bietet die Universitätsbibliothek beim Publizieren und Open Access?",
+    "answer": "Die Universitätsbibliothek berät Studierende und Forschende zu den Themen Publizieren und Open Access. Sie bietet verschiedene Services an, die den Publikationsprozess unterstützen und Informationen zu den Möglichkeiten des offenen Zugangs zu wissenschaftlichen Arbeiten bereitstellen.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/beratung/"
+  },
+  {
+    "question": "Wie unterstützt die Universitätsbibliothek bei Fragen zu Forschungsdaten?",
+    "answer": "Die Universitätsbibliothek bietet Unterstützung bei Fragen rund um das Thema Forschungsdaten. Dies kann die Beratung zu Datenspeicherung, -management und -veröffentlichung umfassen, um sicherzustellen, dass Forschungsdaten effektiv genutzt und geteilt werden können.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/beratung/"
+  }
+]

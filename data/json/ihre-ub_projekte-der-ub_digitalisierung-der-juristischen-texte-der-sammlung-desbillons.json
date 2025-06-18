@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Was ist das Ziel des Projekts zur Digitalisierung der juristischen Texte der Sammlung Desbillons?",
+    "answer": "Das Ziel des Projekts ist die Digitalisierung von 800 rechts­historischen Titeln der Sammlung Desbillons, die alle Gebiete des Ancien Droit behandeln. Diese Titel stellen eine repräsentative Sammlung dar und sind wichtige Quellen für die französische Rechtsgeschichte des 17. und 18. Jahrhunderts. Die Digitalisierung erfolgt mit finanzieller Unterstützung der Deutschen Forschungsgemeinschaft (DFG) und umfasst alle Prozesse vom Speichern der Scans über die Erstellung der Metadaten bis zur Publikation der Digitalisate im Internet. Für die Bearbeitung des Digitalisierungsworkflows wird die Software Kitodo eingesetzt, während die Bildvorlagen im Volltext mit den Software­systemen ABBYY, Ocropy und Tesseract erschlossen werden.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-der-juristischen-texte-der-sammlung-desbillons/"
+  },
+  {
+    "question": "Welche Förderinstitution unterstützt das Projekt zur Digitalisierung der Sammlung Desbillons?",
+    "answer": "Das Projekt zur Digitalisierung der juristischen Texte der Sammlung Desbillons wird von der Deutschen Forschungsgemeinschaft (DFG) gefördert. Diese Institution unterstützt Forschungsprojekte in Deutschland, um die wissenschaftliche Infrastruktur zu verbessern und den Zugang zu wissenschaftlichen Informationen zu erleichtern.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-der-juristischen-texte-der-sammlung-desbillons/"
+  },
+  {
+    "question": "Welche Software wird für die Digitalisierung der Sammlung Desbillons verwendet?",
+    "answer": "Für die Digitalisierung der Sammlung Desbillons wird die Software Kitodo eingesetzt, die den gesamten Digitalisierungsworkflow abbildet. Darüber hinaus werden zur Erschließung der Bildvorlagen im Volltext die Software­systeme ABBYY, Ocropy und Tesseract verwendet. Diese Tools ermöglichen eine effiziente Verarbeitung und Bereitstellung der digitalisierten Inhalte.",
+    "source": "Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-der-juristischen-texte-der-sammlung-desbillons/"
+  }
+]
