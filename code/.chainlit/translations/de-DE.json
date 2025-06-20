@@ -1,0 +1,214 @@
+{
+    "common": {
+        "actions": {
+            "cancel": "Abbrechen",
+            "confirm": "Bestätigen",
+            "continue": "Weiter",
+            "goBack": "Zurück",
+            "reset": "Zurücksetzen",
+            "submit": "Senden"
+        },
+        "status": {
+            "loading": "Wird geladen...",
+            "error": {
+                "default": "Ein Fehler ist aufgetreten",
+                "serverConnection": "Der Server konnte nicht erreicht werden"
+            }
+        }
+    },
+    "auth": {
+        "login": {
+            "title": "Anmelden, um auf die App zuzugreifen",
+            "form": {
+                "email": {
+                    "label": "E-Mail-Adresse",
+                    "required": "E-Mail ist ein Pflichtfeld"
+                },
+                "password": {
+                    "label": "Passwort",
+                    "required": "Passwort ist ein Pflichtfeld"
+                },
+                "actions": {
+                    "signin": "Anmelden"
+                },
+                "alternativeText": {
+                    "or": "ODER"
+                }
+            },
+            "errors": {
+                "default": "Anmeldung nicht möglich",
+                "signin": "Versuchen Sie, sich mit einem anderen Konto anzumelden",
+                "oauthSignin": "Versuchen Sie, sich mit einem anderen Konto anzumelden",
+                "redirectUriMismatch": "Die Weiterleitungs-URI stimmt nicht mit der OAuth-App-Konfiguration überein",
+                "oauthCallback": "Versuchen Sie, sich mit einem anderen Konto anzumelden",
+                "oauthCreateAccount": "Versuchen Sie, sich mit einem anderen Konto anzumelden",
+                "emailCreateAccount": "Versuchen Sie, sich mit einem anderen Konto anzumelden",
+                "callback": "Versuchen Sie, sich mit einem anderen Konto anzumelden",
+                "oauthAccountNotLinked": "Um Ihre Identität zu bestätigen, melden Sie sich mit demselben Konto an, das Sie ursprünglich verwendet haben",
+                "emailSignin": "Die E-Mail konnte nicht gesendet werden",
+                "emailVerify": "Bitte bestätigen Sie Ihre E-Mail, eine neue E-Mail wurde gesendet",
+                "credentialsSignin": "Anmeldung fehlgeschlagen. Überprüfen Sie die von Ihnen angegebenen Daten auf ihre Richtigkeit",
+                "sessionRequired": "Bitte melden Sie sich an, um auf diese Seite zuzugreifen"
+            }
+        },
+        "provider": {
+            "continue": "Weiter mit {{provider}}"
+        }
+    },
+    "chat": {
+        "input": {
+            "placeholder": "Geben Sie hier Ihre Nachricht ein...",
+            "actions": {
+                "send": "Nachricht senden",
+                "stop": "Aufgabe beenden",
+                "attachFiles": "Dateien anhängen"
+            }
+        },
+        "speech": {
+            "start": "Aufnahme starten",
+            "stop": "Aufnahme beenden",
+            "connecting": "Verbinden"
+        },
+        "fileUpload": {
+            "dragDrop": "Dateien hier per Drag & Drop ablegen",
+            "browse": "Dateien durchsuchen",
+            "sizeLimit": "Limit:",
+            "errors": {
+                "failed": "Hochladen fehlgeschlagen",
+                "cancelled": "Hochladen von abgebrochen"
+            }
+        },
+        "messages": {
+            "status": {
+                "using": "Verwendet",
+                "used": "Benutzt"
+            },
+            "actions": {
+                "copy": {
+                    "button": "In die Zwischenablage kopieren",
+                    "success": "Kopiert!"
+                }
+            },
+            "feedback": {
+                "positive": "Hilfreich",
+                "negative": "Nicht hilfreich",
+                "edit": "Feedback bearbeiten",
+                "dialog": {
+                    "title": "Einen Kommentar hinzufügen",
+                    "submit": "Feedback senden"
+                },
+                "status": {
+                    "updating": "Wird aktualisiert",
+                    "updated": "Feedback aktualisiert"
+                }
+            }
+        },
+        "history": {
+            "title": "Letzte Eingaben",
+            "empty": "So leer...",
+            "show": "Verlauf anzeigen"
+        },
+        "settings": {
+            "title": "Einstellungsfenster"
+        },
+        "watermark": "Erstellt mit"
+    },
+    "threadHistory": {
+        "sidebar": {
+            "title": "Vergangene Chats",
+            "filters": {
+                "search": "Suchen",
+                "placeholder": "Unterhaltungen durchsuchen..."
+            },
+            "timeframes": {
+                "today": "Heute",
+                "yesterday": "Gestern",
+                "previous7days": "Letzte 7 Tage",
+                "previous30days": "Letzte 30 Tage"
+            },
+            "empty": "Keine Threads gefunden",
+            "actions": {
+                "close": "Seitenleiste schließen",
+                "open": "Seitenleiste öffnen"
+            }
+        },
+        "thread": {
+            "untitled": "Unbenannte Unterhaltung",
+            "menu": {
+                "rename": "Umbenennen",
+                "delete": "Löschen"
+            },
+            "actions": {
+                "delete": {
+                    "title": "Löschung bestätigen",
+                    "description": "Dadurch werden der Thread sowie seine Nachrichten und Elemente gelöscht. Diese Aktion kann nicht rückgängig gemacht werden",
+                    "success": "Chat gelöscht",
+                    "inProgress": "Chat wird gelöscht"
+                },
+                "rename": {
+                    "title": "Thread umbenennen",
+                    "description": "Geben Sie einen neuen Namen für diesen Thread ein",
+                    "form": {
+                        "name": {
+                            "label": "Name",
+                            "placeholder": "Neuen Namen eingeben"
+                        }
+                    },
+                    "success": "Thread umbenannt!",
+                    "inProgress": "Thread wird umbenannt"
+                }
+            }
+        }
+    },
+    "navigation": {
+        "header": {
+            "chat": "Chat",
+            "readme": "Readme",
+            "theme": {
+                "light": "Helles Thema",
+                "dark": "Dunkles Thema",
+                "system": "System folgen"
+            }
+        },
+        "newChat": {
+            "button": "Neuer Chat",
+            "dialog": {
+                "title": "Neuen Chat erstellen",
+                "description": "Dadurch wird Ihr aktueller Chatverlauf gelöscht. Sind Sie sicher, dass Sie fortfahren möchten?",
+                "tooltip": "Neuer Chat"
+            }
+        },
+        "user": {
+            "menu": {
+                "settings": "Einstellungen",
+                "settingsKey": "S",
+                "apiKeys": "API-Schlüssel",
+                "logout": "Abmelden"
+            }
+        }
+    },
+    "apiKeys": {
+        "title": "Erforderliche API-Schlüssel",
+        "description": "Um diese App zu verwenden, sind die folgenden API-Schlüssel erforderlich. Die Schlüssel werden im lokalen Speicher Ihres Geräts gespeichert.",
+        "success": {
+            "saved": "Erfolgreich gespeichert"
+        }
+    },
+    "alerts": {
+        "info": "Info",
+        "note": "Hinweis",
+        "tip": "Tipp",
+        "important": "Wichtig",
+        "warning": "Warnung",
+        "caution": "Vorsicht",
+        "debug": "Debug",
+        "example": "Beispiel",
+        "success": "Erfolg",
+        "help": "Hilfe",
+        "idea": "Idee",
+        "pending": "Ausstehend",
+        "security": "Sicherheit",
+        "beta": "Beta",
+        "best-practice": "Beste Vorgehensweise"
+    }
+}

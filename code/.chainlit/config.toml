@@ -48,7 +48,7 @@ show_feedback = true
 # Name of the assistant.
 name = "AIMA"
 
-# default_theme = "dark"
+# default_theme = "system"
 
 # layout = "wide"
 
