@@ -14,7 +14,10 @@ def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
 
 async def create_rag_chain():
-    embedding_model = OpenAIEmbeddings(model="text-embedding-ada-002", openai_api_key=os.getenv("OPENAI_API_KEY"))
+    embedding_model = OpenAIEmbeddings(
+        model="text-embedding-ada-002",
+        openai_api_key=os.getenv("OPENAI_API_KEY")
+    )
     model_name = "openai_ada"
     persist_path = PERSIST_DIR / f"{model_name}_c{CHUNK_SIZE}_o{CHUNK_OVERLAP}_ub"
 
@@ -33,7 +36,14 @@ async def create_rag_chain():
             all_docs.extend(UnstructuredMarkdownLoader(str(file)).load())
 
         chunks = RecursiveCharacterTextSplitter(chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP).split_documents(all_docs)
-        vectorstore = Chroma.from_documents(chunks, embedding=embedding_model, persist_directory=str(persist_path))
+        vectorstore = Chroma.from_documents(
+            chunks,
+            embedding=embedding_model,
+            persist_directory=str(persist_path),
+            client_settings=chromadb.config.Settings(
+                anonymized_telemetry=False
+            )
+        )
 
     retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 4})
     prompt = hub.pull("rlm/rag-prompt")
