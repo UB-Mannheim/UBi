@@ -1,6 +1,6 @@
 aiosqlite==0.21.0
 beautifulsoup4==4.13.4
-chainlit==2.0.1
+chainlit==2.4.0
 fastapi==0.115.9
 feedparser==6.0.11
 langchain==0.3.25
@@ -11,4 +11,3 @@ langchain_openai==0.3.23
 Requests==2.32.4
 tqdm==4.66.5
 chromadb==1.0.12
-
