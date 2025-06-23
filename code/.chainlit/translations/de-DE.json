@@ -165,9 +165,9 @@
             "chat": "Chat",
             "readme": "Nutzungsbedingungen",
             "theme": {
-                "light": "Helles Thema",
-                "dark": "Dunkles Thema",
-                "system": "System folgen"
+                "light": "Hell",
+                "dark": "Dunkel",
+                "system": "System"
             }
         },
         "newChat": {

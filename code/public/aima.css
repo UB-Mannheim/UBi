@@ -1,0 +1,110 @@
+/* Streamlit watermark */
+.watermark {
+    display: none !important;
+}
+
+
+/* Light theme */
+:root {
+    --primary: 209 100% 18% !important;
+    --primary-foreground: 0 0% 100% !important;
+    
+    --background: 0 0% 100%;
+    --foreground: 209 100% 18%;
+    
+    --card: 0 0% 100%;
+    --card-foreground: 209 100% 18%;
+    
+    --secondary: 0 0% 100%;
+    --secondary-foreground: 209 100% 18%;
+    
+    --muted: 0 0% 100%;
+    --muted-foreground: 209 100% 18%;
+    
+    --accent: 0 0% 100%;
+    --accent-foreground: 209 100% 18%;
+    
+    --destructive: 0 20% 60%;
+    --destructive-foreground: 0 0% 100%;
+    
+    --border: 209 100% 90%;
+    --input: 209 100% 90%;
+    --ring: 209 100% 18% !important;
+    
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 209 100% 18%;
+    --sidebar-border: 209 100% 90%;
+    --sidebar-accent: 0 0% 100%;
+    --sidebar-accent-foreground: 209 100% 18%;
+}
+
+/* Dark theme */
+.dark{
+    --background: 0 0% 13%;
+    --foreground: 0 0% 93%;
+
+    --primary: 32 0% 60% !important;
+    --primary-foreground: 0 0% 100%;
+
+    --card: 0 0% 18%;
+    --card-foreground: 210 40% 98%;
+    --popover: 0 0% 18%;
+    --popover-foreground: 210 40% 98%;
+    
+    --secondary: 0 0% 19%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 0 1% 26%;
+    --muted-foreground: 0 0% 71%;
+    
+    --accent: 0 0% 26%;
+    --accent-foreground: 210 40% 98%;
+    
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    
+    --border: 0 1% 26%;
+    --input: 0 1% 26%;
+    --ring: 241 12% 100% !important;
+
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 241 12% 52% !important;
+    
+    --sidebar-background: 0 0% 9%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 0 0% 13%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%
+}
+
+/* Chat Submit Button */
+#chat-submit {
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 50% !important;
+    padding: 0 !important;
+}
+
+html:not(.dark) #chat-submit:disabled {
+    background-color: #9fa7b0 !important;
+    color: #ffffff !important;
+    opacity: 1 !important;
+}
+
+.dark #chat-submit:disabled {
+    background-color: #44494f !important;
+    color: #ffffff !important;
+    opacity: 1 !important;
+}
+
+/* Links */
+a {
+    text-decoration-line: underline !important;
+    text-decoration-thickness: 2px !important;
+    text-decoration-style: solid !important;
+}
