@@ -6,8 +6,8 @@
 
 - [x] 🔎 **RAG Pipeline** – Retrieval-Augmented Generation using markdown sources scraped from the library website 
 - [x] 📚 **Document Loader** – Loads and chunks library documents in markdown enriched with metadata
-- [x]  💬 **LLM Integration** – Uses OpenAI models
-- [x]  🧠 **Embeddings** – Uses OpenAI embedding models
+- [x] 💬 **LLM Integration** – Uses OpenAI models
+- [x] 🧠 **Embeddings** – Uses OpenAI embedding models
 - [x] 💾 **Chroma Vectorstore** – Local document storage and similarity search
 - [x] 📰 **RSS Integration** – Fetches live updates from the UB Mannheim blog
 - [x] 📝 **Feedback Storage** – Logs user questions, answers, and ratings
@@ -67,6 +67,8 @@ Open http://localhost:8000 in a browser.
 ```env
 OPENAI_API_KEY=sk-...
 ```
+
+Optionally, set the exposed TCP port using the environment variable `PORT` (default: 8000). 
 
 ### 2. Build and run
 

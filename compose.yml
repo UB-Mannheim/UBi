@@ -1,14 +1,12 @@
 services:
-  aima:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    container_name: aima_app
+  app:
+    image: localhost/aima:latest
+    build: .
     volumes:
       - ./code:/app
       - ./data:/data
     ports:
-      - "8000:8000"
+      - ${PORT:-8000}:8000
     environment:
       - PYTHONUNBUFFERED=1
       - OPENAI_API_KEY=${OPENAI_API_KEY}

@@ -6,7 +6,6 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 WORKDIR /app
 
 COPY ./code /app
-COPY ./data /data
 
 RUN pip install --upgrade pip && \
     pip install -r requirements.txt
