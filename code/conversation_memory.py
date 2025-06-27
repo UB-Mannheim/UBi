@@ -132,8 +132,10 @@ class SessionMemory:
         
         # Filter by role if needed
         if not include_system:
-            turns = [turn for turn in turns 
-                    if turn.role != MessageRole.SYSTEM]
+            turns = [
+                turn for turn in turns 
+                if turn.role != MessageRole.SYSTEM
+            ]
         
         # Apply turn limit
         if max_turns:
@@ -164,10 +166,12 @@ class SessionMemory:
         return {
             "session_id": session_id,
             "total_turns": len(turns),
-            "user_turns": len([t for t in turns 
-                             if t.role == MessageRole.USER]),
-            "assistant_turns": len([t for t in turns 
-                                  if t.role == MessageRole.ASSISTANT]),
+            "user_turns": len(
+                [t for t in turns if t.role == MessageRole.USER]
+            ),
+            "assistant_turns": len(
+                [t for t in turns if t.role == MessageRole.ASSISTANT]
+            ),
             "start_time": turns[0].timestamp if turns else None,
             "last_activity": turns[-1].timestamp if turns else None,
             "context": context.to_dict() if context else None,
@@ -232,3 +236,18 @@ class SessionMemory:
 
 # Global session memory instance
 session_memory = SessionMemory() 
+
+
+def create_conversation_context(session_id: str) -> str:
+    """Create conversation context from recent turns"""
+    recent_turns = session_memory.get_context_window(session_id)
+    
+    if not recent_turns:
+        return ""
+    
+    context_lines = []
+    for turn in recent_turns:
+        role = "Nutzer" if turn.role == MessageRole.USER else "Assistent"
+        context_lines.append(f"{role}: {turn.content}")
+    
+    return "\n".join(context_lines) 
