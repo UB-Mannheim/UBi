@@ -103,7 +103,7 @@ async def on_message(message: cl.Message):
             
             # Add to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
-            session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
+            session_memory.add_turn(session_id, MessageRole.ASSISTANT, response+f" Data:{data}")
             await save_interaction(session_id, user_input, response)
         except Exception as e:
             error_response = f"❌ Fehler beim Abrufen der Sitzplatzdaten: {str(e)}"
