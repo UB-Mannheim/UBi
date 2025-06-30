@@ -58,6 +58,33 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
+// Hides a div if a button starting with "✅" exists.
+function monitorAndHideDiv() {
+    const TARGET_DIV_SELECTOR = '.flex.flex-col.mx-auto.w-full.p-4.pt-0';
+
+    const checkAndToggleVisibility = () => {
+        const buttonExists = Array.from(document.querySelectorAll('button'))
+                                  .some(btn => btn.textContent.trim().startsWith("✅"));
+        
+        const targetDiv = document.querySelector(TARGET_DIV_SELECTOR);
+        if (!targetDiv) return;
+        console.log('buttonExists', buttonExists);
+        targetDiv.classList.toggle('hidden', buttonExists);
+    };
+
+    const observer = new MutationObserver(checkAndToggleVisibility);
+    observer.observe(document.body, {
+        childList: true,
+        subtree: true,
+        characterData: true
+    });
+
+    // Initial check on load
+    checkAndToggleVisibility();
+}
+
+monitorAndHideDiv();
+
 // Global functions to be called from Chainlit
 window.setTermsCookie = setTermsCookie;
 window.checkTermsAccepted = checkTermsAccepted;

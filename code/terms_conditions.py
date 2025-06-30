@@ -55,6 +55,7 @@ async def on_decline_terms(action):
         content="❌ Ohne Akzeptanz der Nutzungsbedingungen kann der "
                 "Service nicht genutzt werden."
     ).send()
+    await action.remove()
 
 
 def check_terms_accepted():
