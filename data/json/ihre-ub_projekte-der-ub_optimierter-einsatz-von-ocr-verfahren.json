@@ -1,6 +1,0 @@
-[
-  {
-    "question": "Was ist Tesseract und welche Rolle spielt es im OCR-D-Workflow?",
-    "answer": "Tesseract ist eine freie Software zur optischen Zeichenerkennung (OCR), die sich durch eine über 30-jährige kontinuierliche Weiterentwicklung auszeichnet. Im Rahmen des OCR-D Koordinierungsprojekts, das sich mit der Weiterentwicklung von OCR-Verfahren beschäftigt, wird Tesseract als zentrale Komponente für die Texterkennung eingesetzt. Das Projekt zielt darauf ab, Tesseract um Schnittstellen zu erweitern, die eine Integration in einen umfassenden OCR-Workflow ermöglichen, sowie die Stabilität, Performance und praktische Anwendbarkeit der Software zu verbessern. Tesseract unterstützt seit Ende 2016 auch die Texterkennung mittels künstlicher neuronaler Netze (LSTM), was es technologisch auf dem neuesten Stand hält. Quelle: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/optimierter-einsatz-von-ocr-verfahren/"
-  }
-]
