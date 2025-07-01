@@ -59,7 +59,7 @@ def make_plotly_figure(areas):
     )
 
     fig.update_layout(
-        title="📚 Freie Sitzplätze – UB Mannheim",
+        title="📊 Sitzplatz-Auslastung in der UB Mannheim",
         title_font_size=24,
         plot_bgcolor="white",
         paper_bgcolor="white",
