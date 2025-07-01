@@ -12,6 +12,7 @@ from language_detection import detect_language_and_get_name
 from rss_reader import get_rss_items
 from custom_data_layer import CustomDataLayer
 from free_seats import get_occupancy_data, make_plotly_figure
+from terms_conditions import ask_terms_acceptance, check_terms_accepted
 # from website_search import search_ub_website
 
 
@@ -52,9 +53,16 @@ async def on_chat_start():
     session_id = cl.user_session.get("id") or "unknown"
     cl.user_session.set("session_id", session_id)
     
-    # Create and store the RAG chain in the user session
-    rag_chain = await create_rag_chain()
-    cl.user_session.set("rag_chain", rag_chain)
+    # Check if terms are accepted using the imported function
+    terms_accepted = check_terms_accepted()
+    
+    if terms_accepted:
+        # Terms already accepted, load RAG chain and show interface
+        rag_chain = await create_rag_chain()
+        cl.user_session.set("rag_chain", rag_chain)
+    else:
+        # Terms not accepted, ask for acceptance
+        await ask_terms_acceptance()
 
     # Clear any existing session memory for this user
     session_memory.clear_session(session_id)
@@ -65,7 +73,19 @@ async def on_chat_start():
 async def on_message(message: cl.Message):
     user_input = message.content.strip()
     session_id = cl.user_session.get("session_id") or "unknown"
+    
+    terms_accepted = check_terms_accepted()
+
+    if not terms_accepted:
+        await ask_terms_acceptance()
+        return
+    
     rag_chain = cl.user_session.get("rag_chain")
+    
+    # If RAG chain is not loaded, load it now
+    if not rag_chain:
+        rag_chain = await create_rag_chain()
+        cl.user_session.set("rag_chain", rag_chain)
 
     # RSS feed
     news_keywords = ["news", "neues", "neuigkeiten", "aktuelles", "nachrichten"]
