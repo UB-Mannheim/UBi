@@ -5,14 +5,11 @@ async def ask_terms_acceptance():
     """Ask user to accept terms and conditions with AskUser Action"""
     
     terms_content = """
-    **Nutzungsbedingungen für AIMA - UB Mannheim Assistant**
-    
-    Durch die Nutzung dieses Assistenten stimmen Sie zu:
-    - Ihre Fragen werden zur Verbesserung des Services gespeichert
-    - Der Service wird "wie besehen" bereitgestellt
-    - Sie verwenden den Service in Übereinstimmung mit den 
-      Richtlinien der UB Mannheim
-    
+    **Einverständniserklärung zu den Nutzungsbedingungen des KI-Chatbots der UB Mannheim**
+    Sie bestätigen:
+    * Sie werden keine personenbezogenen Daten eingeben.
+    * Ihre Eingaben dürfen zur Verbesserung des Services anonymisiert ausgewertet werden.
+    * Sie verpflichten Ihnen, die Nutzungsbedingungen einzuhalten.
     Stimmen Sie den Nutzungsbedingungen zu?
     """
     
