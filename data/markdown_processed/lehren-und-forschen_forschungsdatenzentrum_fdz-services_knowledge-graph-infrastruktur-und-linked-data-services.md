@@ -1,49 +1,45 @@
-```yaml
+---
 title: Knowledge Graph Infrastruktur und Linked Data Services
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/
-tags: [Knowledge Graph, Linked Data, FAIR, Wissenschaft, Datenwissenschaft]
+category: Projekte
+tags: [Knowledge Graph, Linked Data, FAIR, Metadaten, Wissensgraph, Universität Mannheim, Forschungsdatenzentrum, OpenRefine, INCEpTION, Wikidata, Scholia]
 language: de
-```
+---
 
 # Knowledge Graph Infrastruktur und Linked Data Services
 
-Die **Mannheim Knowledge Graph Infrastruktur** ist ein Dienst, der Wissenschaftlerinnen und Wissenschaftlern der Universität Mannheim beim Erstellen, Erweitern und Hosten von Wissensgraphen unterstützt. Die Metadaten und Daten in diesen Graphen sind **FAIR** (auffindbar, zugänglich, interoperabel und wiederverwendbar), was die Nutzung für datenwissenschaftliche Anwendungen erleichtert. Bei Fragen zur Erstellung und zum Hosting eines Knowledge Graphen mit Ihren Metadaten und/oder Daten stehen wir Ihnen gerne zur Verfügung.
+Die Mannheim Knowledge Graph Infrastruktur ist ein Dienst zum Erstellen, Erweitern und Hosten von Wissensgraphen. Der Service richtet sich an Wissenschaftlerinnen und Wissenschaftler der Universität Mannheim. Metadaten und Daten in Wissensgraphen sind FAIR, das heißt auffindbar, zugänglich, interoperabel und wiederverwendbar. Maschinell verwertbare Daten in Wissensgraphen ermöglichen datenwissenschaftliche Anwendungen.
+
+Kontaktieren Sie uns, und wir helfen Ihnen bei der Erstellung und dem Hosting eines Knowledge Graphen mit Ihren Metadaten und/oder Daten in der [Knowledge Graph Infrastruktur der Universität Mannheim](https://kgi.uni-mannheim.de).
 
 ## Mannheim Linked Data Services
 
-### Beratung zu Standards und Ontologien
+### Beratung zu Standards, Terminologien, kontrollierten Vokabularien und Ontologien für Ihre Metadaten
 
-Wir bieten Unterstützung bei der Auswahl von Standards, Terminologien, kontrollierten Vokabularien und Ontologien für Ihre Metadaten. Nützliche Ressourcen sind:
-
-- [FAIRSharing](https://fairsharing.org/)
-- [BARTOC registry](https://bartoc.org/registries)
-- [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov)
+- Standards bei [FAIRSharing](https://fairsharing.org/)
+- BARTOC Registry: [https://bartoc.org/registries](https://bartoc.org/registries)
+- Linked Open Vocabularies: [https://lov.linkeddata.es/dataset/lov](https://lov.linkeddata.es/dataset/lov)
 
 ### Verlinkungsdienst
 
-Nutzen Sie unseren Verlinkungsdienst, um Ihre Metadaten und Daten mit Entitäten in öffentlichen Datenbanken und Wissensgraphen zu verknüpfen. Wir unterstützen Sie dabei:
+- Verknüpfen Sie Ihre Metadaten und Daten mit Entitäten in öffentlichen Datenbanken und Wissensgraphen mithilfe der Verknüpfung benannter Entitäten und [OpenRefine](https://openrefine.org).
+- Unterstützung bei der Erstellung eines annotierten Korpus zur Erkennung und Verknüpfung benannter Entitäten mit der Open-Source-Software [INCEpTION](https://inception-project.github.io).
+- Training von Deep-Learning-Modellen für die Erkennung und Verknüpfung benannter Entitäten.
 
-- Mit [OpenRefine](https://openrefine.org) zur Verknüpfung benannter Entitäten.
-- Bei der Erstellung eines annotierten Korpus zur Erkennung und Verknüpfung benannter Entitäten mithilfe der Open-Source-Software [INCEpTION](https://inception-project.github.io).
-- Im Training von Deep-Learning-Modellen für die Erkennung und Verknüpfung benannter Entitäten.
+### Hochladen Ihrer Metadaten und/oder Daten in den allgemeinen offenen Wikidata-Wissensgraphen
 
-### Hochladen von Metadaten in Wikidata
+Beispiel: Der [YP-Korpus](https://www.wikidata.org/wiki/Q119844794)
 
-Sie können Ihre Metadaten und/oder Daten in den allgemeinen offenen [Wikidata-Wissensgraphen](https://www.wikidata.org/wiki/Q119844794) hochladen. Ein Beispiel hierfür ist der [YP-Korpus](https://www.wikidata.org/wiki/Q119844794).
+### Verbesserung Ihres Forscherprofils bei Wikidata und Scholia
 
-### Verbesserung Ihres Forscherprofils
-
-Wir helfen Ihnen, Ihr Forscherprofil bei [Wikidata](https://www.wikidata.org/wiki/Q17744291) und [Scholia](https://scholia.toolforge.org/author/Q17744291) zu verbessern. Ein Beispiel ist das Profil von [Christian Bizer](https://www.wikidata.org/wiki/Q17744291).
+Beispiel: Profil von Christian Bizer bei [Wikidata](https://www.wikidata.org/wiki/Q17744291) und [Scholia](https://scholia.toolforge.org/author/Q17744291)
 
 ## Kontakt
 
 ### Forschungsdatenzentrum (FDZ)
 
-Das Team besteht aus: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova und Larissa Will.
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
 
-**Kontaktinformationen:**
-
-- **Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- **E-Mail:** [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
-- **Web:** [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](http://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum)
-```
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+- E-Mail: forschungsdaten@uni-mannheim.de

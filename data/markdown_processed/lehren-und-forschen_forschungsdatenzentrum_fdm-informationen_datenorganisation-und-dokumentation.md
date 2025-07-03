@@ -1,22 +1,17 @@
-```yaml
+---
 title: Datenorganisation und -dokumentation
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenorganisation-und-dokumentation/
-tags: [Datenorganisation, Dokumentation, Forschungsdaten]
+category: Projekte
+tags: [Forschungsdaten, Datenorganisation, Metadaten, Dokumentation, Reproduzierbarkeit, Versionierung, Backup]
 language: de
-```
+---
 
 # Datenorganisation und -dokumentation
 
-Die Organisation und Dokumentation von Forschungsdaten ist entscheidend für die Reproduzierbarkeit von Forschungsergebnissen. Es wird empfohlen, die Daten von Anfang an so zu strukturieren, dass sie auch später leicht nachvollzogen werden können. 
+Generell empfiehlt es sich, die Daten schon von Anfang an so zu organisieren, dass Forschungsergebnisse auch im Nachgang noch möglichst leicht reproduzierbar sind. Dies umfasst insbesondere die **Dokumentation der Daten mit Metadaten**, zum Beispiel in Form von ReadMe-Dateien, Codebooks etc., sowie die Dokumentation des Codes mit Kommentierungen. Hierbei sollten stets fachspezifische Standards berücksichtigt werden.
 
-## Wichtige Aspekte der Datenorganisation
+Es ist ratsam, Konventionen für die Benennung und Struktur von Ordnern und Dateien sowie für die Versionierung und das Backup festzulegen.
 
-Ein zentraler Punkt ist die **Dokumentation der Daten mit Metadaten**. Dies kann durch verschiedene Formate wie ReadMe-Dateien oder Codebooks erfolgen. Zudem sollte der verwendete Code gut kommentiert sein, um die Nachvollziehbarkeit zu gewährleisten. 
+## Weiterführendes Material
 
-Es ist wichtig, fach­spezifische Standards zu berücksichtigen, um die Qualität und Konsistenz der Dokumentation sicherzustellen. 
-
-## Konventionen für Benennung und Struktur
-
-Zusätzlich sollten klare Konventionen für die Benennung und Struktur von Ordnern und Dateien festgelegt werden. Dies umfasst auch Richtlinien zur Versionierung und zum Backup der Daten. 
-
-Für einen visuellen Überblick über Forschungsdaten und ihre Metadaten, schauen Sie sich das [Überblicksvideo von der RWTH Aachen](https://www.youtube.com/watch?v=1eCMRhbi60U) an.
+- Überblicksvideo zu Forschungsdaten und ihre Metadaten von der RWTH Aachen: [YouTube-Link](https://www.youtube.com/watch?v=1eCMRhbi60U)

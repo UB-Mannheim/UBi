@@ -1,41 +1,39 @@
-```yaml
 ---
-title: "Kurse und Tutorials der Universitätsbibliothek Mannheim"
-source_url: "https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/"
-tags: ["Kurse", "Tutorials", "Informationskompetenz", "Wissenschaft"]
-language: "de"
+title: Kurse und Tutorials der Universitätsbibliothek Mannheim
+source_url: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/
+category: Services
+tags: [Informationskompetenz, Weiterbildung, Recherche, wissenschaftliches Arbeiten, Datenkompetenz, Führungen, Tutorials, Schulen, Fake News]
+language: de
 ---
-```
 
 # Kurse und Tutorials der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet eine Vielzahl von Weiterbildungsmöglichkeiten im Bereich Informationskompetenz an. Hier finden Sie Führungen, Kurse zur fachlichen Recherche, wissenschaftlichem Arbeiten und Online-Tutorials.
+Die Universitätsbibliothek Mannheim bietet vielfältige Weiterbildungsangebote im Bereich Informationskompetenz an. Dazu gehören Führungen, Kurse zur fachlichen Recherche und zum wissenschaftlichen Arbeiten sowie Online-Tutorials.
 
-## Kursangebot
+## Kurse
 
-Die Themen unserer Kurse reichen von der Recherche in Fachdatenbanken über Literaturverwaltung bis hin zu Forschungsdaten. Diese Kurse richten sich an Studierende, Beschäftigte der Universität und alle Interessierten.
+Die Kurse decken Themen von der Recherche in Fachdatenbanken über Literaturverwaltung bis hin zu Forschungsdaten ab. Sie richten sich an Studierende, Beschäftigte der Universität und alle Interessierten. Weitere Informationen finden Sie auf der [Kurse-Seite](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/).
 
 ## Study Skills
 
-In der Reihe "Study Skills" erhalten Sie nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben. Diese Kurse sind darauf ausgelegt, Ihre Fähigkeiten im akademischen Arbeiten zu verbessern.
+In der Kursreihe "Study Skills" erhalten Sie hilfreiche Tipps zum wissenschaftlichen Recherchieren und Schreiben. Details sind auf der [Study Skills-Seite](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/) verfügbar.
 
 ## MaDaLi² – Mannheim Data Literacy
 
-Das Programm MaDaLi² fördert die Datenkompetenz für Studierende aller Fachbereiche. Hier lernen Sie, wie Sie Daten effektiv nutzen und analysieren können.
+Das Programm MaDaLi² vermittelt Datenkompetenz für Studierende aller Fachbereiche. Mehr dazu auf der [MaDaLi²-Seite](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/madali2-mannheim-data-literacy/).
 
 ## Führungen
 
-Zu Beginn jedes Semesters bietet die Universitätsbibliothek Führungen an, um Ihnen die Räumlichkeiten und Angebote näherzubringen. Diese Führungen sind eine hervorragende Gelegenheit, sich mit der Bibliothek vertraut zu machen.
+Zu Beginn jedes Semesters bietet die Universitätsbibliothek Führungen an, um die Bibliothek kennenzulernen. Informationen finden Sie auf der [Führungen-Seite](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fuehrungen/).
 
-## Online-Tutorials
+## Tutorials
 
-Erweitern Sie Ihre Recherche- und Informationskompetenz mit unseren Online-Tutorials. Diese Tutorials helfen Ihnen, die Angebote Ihrer Universitätsbibliothek besser zu nutzen.
+Online-Tutorials helfen dabei, Recherche- und Informationskompetenz zu erweitern und die Angebote der UB besser zu nutzen. Die Tutorials sind auf dem [YouTube-Kanal der UB Mannheim](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw) verfügbar.
 
 ## Angebote für Schulen
 
-Die Universitätsbibliothek bietet spezielle Programme für Lehrkräfte und Schülergruppen an. Diese Einführung in die Literaturrecherche richtet sich insbesondere an die gymnasiale Oberstufe.
+Lehrkräfte und Schülergruppen der gymnasialen Oberstufe können die UB kennenlernen und erhalten eine Einführung in die Literaturrecherche. Details finden Sie auf der [Angebote für Schulen-Seite](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/).
 
 ## Fake News in der Wissenschaft
 
-In der heutigen Zeit ist es wichtig, sich mit dem Thema Fake News auseinanderzusetzen. Diese können in Form von manipulierten Forschungsergebnissen, gefälschten Studien oder irreführenden Dateninterpretationen auftreten. Unsere Kurse helfen Ihnen, diese Herausforderungen zu erkennen und zu bewältigen.
-```
+Das Thema Fake News wird im Kontext von manipulierten Forschungsergebnissen, gefälschten Studien oder irreführenden Dateninterpretationen behandelt. Weitere Informationen gibt es auf der [Fake News in der Wissenschaft-Seite](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fake-news-in-der-wissenschaft/).

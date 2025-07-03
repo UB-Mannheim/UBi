@@ -1,26 +1,27 @@
-```yaml
-title: Dabei sein - Universitätsbibliothek Mannheim
+---
+title: Dabei sein
 source_url: https://www.bib.uni-mannheim.de/dabei-sein/
-tags: [Universitätsbibliothek, Veranstaltungen, Ausbildung, Projekte]
+category: Projekte
+tags: [Ausstellungen, Kurse, Veranstaltungen, Stellenangebote, Ausbildung, Projekte, Universitätsbibliothek Mannheim]
 language: de
-```
+---
 
-# Dabei sein - Universitätsbibliothek Mannheim
+# Dabei sein
 
-Die Universitätsbibliothek Mannheim lädt Sie ein, an einer Vielzahl von Aktivitäten teilzunehmen. Besuchen Sie unsere Ausstellungen, Kurse und Veranstaltungen, knüpfen Sie an Projekte der UB an oder bewerben Sie sich auf unsere Stellenangebote und Ausbildungsplätze.
+Die Universitätsbibliothek Mannheim lädt Sie ein: Besuchen Sie unsere [Ausstellungen, Kurse und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), knüpfen Sie an [Projekte der UB](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/) an oder bewerben Sie sich auf unsere [Stellenangebote und Ausbildungsplätze](https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/).
 
 ## Stellenangebote und Ausbildung
 
-Unterstützen Sie die Universitätsbibliothek bei ihren vielfältigen und interessanten Aufgaben. Hier finden Sie aktuelle **[Stellenangebote](https://www.bib.uni-mannheim.de/dabei-sein/#stellenangebote)** und Informationen zur Ausbildung.
+Unterstützen Sie die UB bei ihren vielfältigen und interessanten Aufgaben. Informationen zu aktuellen [Stellenangeboten und Ausbildungsmöglichkeiten](https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/) finden Sie hier.
 
-## Projekte der UB
+## Projekte der Universitätsbibliothek
 
-Die Universitätsbibliothek führt eigene Projekte durch, kooperiert mit Partnern und wirbt Drittmittel für die Projektförderung ein. Entdecken Sie alle **[Projekte der UB](https://www.bib.uni-mannheim.de/dabei-sein/#projekte)** auf einen Blick.
+Die UB führt eigene Projekte durch, kooperiert mit Partnern und wirbt Drittmittel für die Projektförderung ein. Eine Übersicht aller [Projekte der UB](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/) steht Ihnen zur Verfügung.
 
 ## Ausstellungen und Veranstaltungen
 
-Alle Interessierten sind herzlich eingeladen, unser Programm zu entdecken. Informieren Sie sich über unsere **[Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/dabei-sein/#ausstellungen)** und nehmen Sie teil.
+Alle Interessierten sind herzlich eingeladen, das vielfältige Programm der [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/) zu entdecken.
 
 ## Kurse und Tutorials
 
-Wir bieten eine Vielzahl von **[Kursen und Tutorials](https://www.bib.uni-mannheim.de/dabei-sein/#kurse)** an, darunter die Kursreihe Study Skills, Führungen und spezielle Angebote für Schulen. Nutzen Sie die Gelegenheit, Ihre Fähigkeiten zu erweitern und Neues zu lernen.
+Das Angebot umfasst alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials sowie spezielle Angebote für Schulen. Details zu [Kursen und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/) finden Sie hier.

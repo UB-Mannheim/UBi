@@ -1,25 +1,21 @@
-```yaml
-title: Anschaffungs­vorschlag
+---
+title: Anschaffungsvorschlag
 source_url: https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/
-tags: [Anschaffungs­vorschlag, Bibliothek, Datenschutz]
+category: Medien
+tags: [Anschaffungsvorschlag, Medienbestellung, Universitätsbibliothek Mannheim, Datenschutz]
 language: de
-```
+---
 
-# Anschaffungs­vorschlag
+# Anschaffungsvorschlag
 
-Um Ihren Anschaffungs­vorschlag zu bearbeiten, sind die Angaben in den Pflichtfeldern erforderlich. 
-
-## Datenschutzinformationen
-
-Bitte beachten Sie die Informationen zum Datenschutz, die Sie [hier](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) finden können. 
+Ihre Angaben in den Pflichtfeldern sind erforderlich, um Ihren Anschaffungsvorschlag zu bearbeiten. Bitte lesen Sie die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/).
 
 ## Angaben zum Titel
 
-Bitte geben Sie die erforderlichen Informationen zu dem Titel an, den Sie vorschlagen möchten.
+Bitte geben Sie die relevanten Informationen zum gewünschten Titel an.
 
 ## Angaben zu Ihrer Person
 
-Füllen Sie die notwendigen Informationen zu Ihrer Person aus.
+Bitte füllen Sie die erforderlichen Felder mit Ihren persönlichen Daten aus.
 
-Ich bestätige, dass mir die Informationen zum Datenschutz [zur Verfügung gestellt wurden](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/).
-```
+Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) wurden mir zur Verfügung gestellt.

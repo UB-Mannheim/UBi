@@ -1,23 +1,23 @@
-```yaml
+---
 title: Gehostete Open-Access-Bücher
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/gehostete-open-access-buecher/
-tags: [Open Access, Bücher, Forschung]
+category: Projekte
+tags: [Open Access, gehostete Bücher, Publizieren, Mannheim Conference Series, Handbuch Quantitative Methoden, Sexueller Missbrauch]
 language: de
-```
+---
 
 # Gehostete Open-Access-Bücher
 
-Die [Gehosteten Open-Access-Bücher](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/gehostete-open-access-buecher/) bieten eine wertvolle Ressource für Forscher und Studierende. Hier sind einige der verfügbaren Titel:
+Die Universitätsbibliothek Mannheim bietet eine Plattform für gehostete Open-Access-Bücher an. Diese Sammlung umfasst verschiedene wissenschaftliche Werke, die frei zugänglich sind.
 
 ## Handbuch Quantitative Methoden
 
-Das **Handbuch Quantitative Methoden** ist ein umfassendes Werk, das verschiedene quantitative Forschungsansätze und -methoden behandelt. Es dient als Leitfaden für Studierende und Fachleute, die sich mit quantitativen Analysen beschäftigen.
+Das [Handbuch Quantitative Methoden](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/handbuch-quantitative-methoden/) ist ein umfassendes Werk, das sich mit quantitativen Forschungsmethoden beschäftigt.
 
 ## Sexueller Missbrauch im Bistum Speyer seit 1946
 
-Das Buch **Sexueller Missbrauch im Bistum Speyer seit 1946** untersucht die Vorfälle und deren Auswirkungen auf die Gemeinschaft. Es bietet eine detaillierte Analyse der Ereignisse und deren gesellschaftlichen Kontext.
+Die Publikation [Sexueller Missbrauch im Bistum Speyer seit 1946](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/sexueller-missbrauch-im-bistum-speyer-seit-1946/) behandelt die Thematik des sexuellen Missbrauchs im Bistum Speyer seit dem Jahr 1946.
 
 ## MaConf – Mannheim Conference Series
 
-Die **MaConf – Mannheim Conference Series** ist eine Sammlung von Konferenzbeiträgen, die verschiedene Themen der Forschung abdecken. Diese Reihe fördert den Austausch von Ideen und Erkenntnissen innerhalb der wissenschaftlichen Gemeinschaft.
-```
+Die [MaConf – Mannheim Conference Series](https://majournals.bib.uni-mannheim.de/index.php/maconf/index) ist eine Reihe von wissenschaftlichen Konferenzpublikationen, die von der Universitätsbibliothek Mannheim gehostet werden.

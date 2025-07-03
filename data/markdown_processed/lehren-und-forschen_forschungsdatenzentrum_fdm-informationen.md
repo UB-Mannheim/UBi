@@ -1,17 +1,16 @@
-```yaml
+---
 title: Informationen zum Forschungsdatenmanagement
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/
-tags: [Forschungsdaten, Datenmanagement, Universität Mannheim]
+category: Projekte
+tags: [Forschungsdatenmanagement, Datenmanagementplan, Datensicherheit, Datenarchivierung, Digital Humanities, Universität Mannheim]
 language: de
-```
+---
 
 # Informationen zum Forschungsdatenmanagement
 
-Das Forschungsdatenmanagement (FDM) ist ein zentraler Aspekt der wissenschaftlichen Arbeit. Innerhalb und außerhalb der Universität Mannheim gibt es verschiedene Anlaufstellen, die Unterstützung und Informationen zu Forschungsdaten anbieten.
+Innerhalb und außerhalb der Universität gibt es weitere Anlaufstellen rund um Forschungsdaten.
 
 ## Weiterführende Informationen und Angebote
-
-Hier sind einige wichtige Ressourcen, die Ihnen helfen, Forschungsdaten rechtlich und ethisch sicher zu nutzen:
 
 - [Daten rechtlich und ethisch sicher nutzen](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/daten-rechtlich-und-ethisch-sicher-nutzen-und-teilen/)
 - [Datenmanagementplan](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/)
@@ -23,19 +22,8 @@ Hier sind einige wichtige Ressourcen, die Ihnen helfen, Forschungsdaten rechtlic
 
 ## Forschungsdatenzentrum (FDZ)
 
-Das Team des Forschungsdatenzentrums besteht aus:
+Das Team des Forschungsdatenzentrums besteht aus Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova und Larissa Will.
 
-- Irene Schumm
-- Phil Kolbe
-- David Morgan
-- Thomas Schmidt
-- Renat Shigapov
-- Christos Sidiropoulos
-- Vasilka Stoilova
-- Larissa Will
-
-### Kontaktinformationen
-
-- **Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- **E-Mail:** [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
-- **Webseite:** [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum)
+- **Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim  
+- **Web:** [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
+- **E-Mail:** forschungsdaten@uni-mannheim.de

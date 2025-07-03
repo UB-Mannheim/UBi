@@ -1,25 +1,26 @@
-```yaml
+---
 title: Datenarchivierung und -publikation
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenarchivierung-und-publikation/
-tags: [Forschungsdaten, Datenarchivierung, MADATA]
+category: Projekte
+tags: [Forschungsdaten, Datenarchivierung, Datenpublikation, MADATA, FAIR, DOI, Forschungsdatenserver, Universität Mannheim]
 language: de
-```
+---
 
 # Datenarchivierung und -publikation
 
-MADATA ist der Forschungsdatenserver der Universität Mannheim. Er ermöglicht Forscherinnen und Forschern, ihre Daten sicher abzulegen und nach Bedarf zugänglich zu machen. MADATA hilft dabei, Ihre Daten **FAIR** (Findable, Accessible, Interoperable, Re-Usable) zu gestalten.
+## MADATA – Forschungsdatenserver der Universität Mannheim
 
-## Vorteile von MADATA
+[MADATA](https://madata.bib.uni-mannheim.de/) ist der Forschungsdatenserver der Universität Mannheim. Er ermöglicht Forschenden, ihre Daten sicher abzulegen und bei Bedarf zugänglich zu machen. MADATA unterstützt dabei, Daten nach den FAIR-Prinzipien (Findable, Accessible, Interoperable, Re-Usable) bereitzustellen.
 
-- **Vielfältige Datenspeicherung**: Speicherung aller Arten von elektronischen Daten und Beschreibung der Daten mit strukturierten, maschinenlesbaren Metadaten.
-- **Langfristige Datensicherung**: Sicherung der Daten für mindestens 10 Jahre auf Servern des Rechenzentrums, gemäß den Vorgaben von Forschungsförderern.
-- **Flexible Zugänglichkeit**: Auswahl bei der Zugänglichkeit der Daten: auf Anfrage, universitätsweit oder weltweit.
-- **Persistente Adressierbarkeit**: Vergabe eines [Digital Object Identifier (DOI)](https://www.doi.org/) für Sichtbarkeit und Zitierbarkeit.
-- **Erhöhte Sichtbarkeit**: Nachweis in nationalen und internationalen Forschungsdaten-Verzeichnissen wie [re3data.org](https://www.re3data.org/).
+### Vorteile von MADATA
 
-## Weitere Forschungsdatenrepositorien
+- Speicherung aller Arten elektronischer Daten mit strukturierten, maschinenlesbaren Metadaten
+- Langfristige Sicherung der Daten für mindestens 10 Jahre auf Servern des Rechenzentrums, entsprechend den Vorgaben von Forschungsförderern
+- Flexible Zugänglichkeit: Daten können auf Anfrage, universitätsweit oder weltweit zugänglich gemacht werden
+- Persistente Adressierbarkeit und Zitierbarkeit durch Vergabe eines [Digital Object Identifier (DOI)](https://www.doi.org/)
+- Erhöhte Sichtbarkeit durch Nachweis in nationalen und internationalen Forschungsdaten-Verzeichnissen wie [re3data.org](https://www.re3data.org/)
+
+## Weitere fach­spezifische oder generische Forschungsdatenrepositorien
 
 - [Zenodo](https://zenodo.org/)
 - [Datenservices der GESIS](https://www.gesis.org/datenservices/daten-teilen)
-
-Diese Ressourcen bieten zusätzliche Möglichkeiten zur Archivierung und Publikation von Forschungsdaten.

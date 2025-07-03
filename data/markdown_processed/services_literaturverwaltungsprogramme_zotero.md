@@ -1,68 +1,74 @@
-```yaml
-title: Zotero - Literaturverwaltung
+---
+title: Zotero - Literaturverwaltungsprogramm
 source_url: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zotero/
-tags: [Literaturverwaltung, Zotero, Open-Source]
+category: Services
+tags: [Zotero, Literaturverwaltung, Open-Source, Microsoft Word, LibreOffice, GoogleDocs, WebDAV, Zitationsstile, Synchronisation, Universität Mannheim]
 language: de
-```
+---
 
-# Zotero - Open-Source Literaturverwaltung
+# Zotero – Literaturverwaltungsprogramm
 
-Zotero ist eine kostenlose Open-Source-Software zur Literaturverwaltung, die für Windows, macOS und Linux verfügbar ist. Sie ermöglicht es Nutzern, bibliographische Daten während der Internetrecherche zu speichern und zu organisieren.
+Zotero ist eine Open-Source-Software zur Literaturverwaltung, die Sie kostenlos unter Windows, macOS oder Linux nutzen können.
 
 ## Funktionen von Zotero
 
-- **Daten speichern**: Bibliographische Daten während der Internetrecherche speichern.
-- **Literatur organisieren**: Literaturnachweise sammeln, ordnen, mit Tags versehen und annotieren.
-- **Volltexte speichern**: Volltexte speichern und durchsuchen.
-- **Zitationen einfügen**: Mit Plugins für Microsoft Word und LibreOffice Zitationen in den Text einfügen und Literaturverzeichnisse automatisch erstellen.
-- **Zitationsstil anpassen**: Zitationsstil auswählen oder anpassen.
-- **Integration in Google Docs**: Nahtlose Integration in Google Docs.
-- **RSS-Feeds abonnieren**: RSS-Feeds abonnieren für aktuelle Literatur.
+- Bibliographische Daten während der Internetrecherche speichern
+- Literaturnachweise sammeln, ordnen, mit Tags versehen und annotieren
+- Volltexte speichern und durchsuchen
+- Zitationen in Microsoft Word und LibreOffice einfügen und Literaturverzeichnisse automatisch erstellen (über Plugins)
+- Zitationsstil auswählen oder anpassen
+- Integration in Google Docs
+- RSS-Feeds abonnieren
 
-Optional können Sie ein Benutzerkonto anlegen, um:
+Optional können Sie ein Online-Benutzerkonto anlegen, um:
 
-- Von jedem PC online auf Ihre Daten zuzugreifen.
-- Daten zwischen verschiedenen Geräten zu synchronisieren.
-- Kollaborativ in Gruppen zu arbeiten.
+- von beliebigen PCs online auf Ihre Daten zuzugreifen
+- Daten zwischen verschiedenen Geräten zu synchronisieren
+- kollaborativ in Gruppen zu arbeiten
 
 ## Download und Installation
 
-Zotero kann [hier heruntergeladen](https://www.zotero.org/download/) werden.
+Zotero können Sie direkt von der offiziellen Website herunterladen: [Zotero installieren](https://www.zotero.org/download/)
 
 ## Kurse und Beratung
 
-### Aktuelle Kurstermine
+Aktuelle Kurstermine finden Sie auf der [Events-Seite der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/aktuelles/events/). Bei Bedarf bietet die UB nach Vereinbarung auch zusätzliche Kurse an.
 
-Die aktuellen Kurse sind auf der [Events-Seite der UB](https://www.bib.uni-mannheim.de/ihre-ub/aktuelles/events/) zu finden. Bei Bedarf bieten wir nach Vereinbarung gerne zusätzliche Kurse an.
-
-### Aufzeichnungen
+## Aufzeichnungen
 
 - [Literaturverwaltung mit Zotero (Video, Präsentation – Deutsch)](https://cloud.bib.uni-mannheim.de/s/aWFdsESpmsqCsik)
-- [Reference Management with Zotero (Video, Presentation, Worksheet – English)](https://cloud.bib.uni-mannheim.de/s/na5n3GdCT8Qtf3A)
+- [Reference Management with Zotero (Video, Präsentation, Worksheet – Englisch)](https://cloud.bib.uni-mannheim.de/s/na5n3GdCT8Qtf3A)
 
-**Kontakt**: Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an [litverw.ub@uni-mannheim.de](mailto:litverw.ub@uni-mannheim.de).
+Für Beratungstermine oder Fragen kontaktieren Sie bitte: litverw.ub@uni-mannheim.de
 
-## Anleitungen
+## Anleitungen und Materialien
 
-### Literaturverwaltung mit Zotero
+### Allgemeine Literaturverwaltung mit Zotero
 
-- [Präsentation zum Kurs Literaturverwaltung mit Zotero (PDF)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung-mit-Zotero.pdf)
+- [Präsentation zum Kurs Literaturverwaltung mit Zotero (PDF, 1820 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung-mit-Zotero.pdf)
 
-### Spezielle Anleitungen für Fachrichtungen
+### Spezielle Kurse
 
-- [Für Psychologinnen und Psychologen (PDF)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung_mit_Zotero_fuer_Psychologinnen_und_Psychologen.pdf) mit [Hands-on Übungen (PDF)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Hands-on_UEbungen_zu_Zotero_-_Psychologie.pdf).
-- [Für Juristinnen und Juristen (PDF)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung_mit_Zotero_fuer_Juristinnen_und_Juristen.pdf).
+- [Literaturverwaltung mit Zotero für Psychologinnen und Psychologen (PDF, 1520 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung_mit_Zotero_fuer_Psychologinnen_und_Psychologen.pdf)  
+  Dazugehörige [Hands-on Übungen (PDF, 410 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Hands-on_UEbungen_zu_Zotero_-_Psychologie.pdf)
+
+- [Literaturverwaltung mit Zotero für Juristinnen und Juristen (PDF, 1610 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung_mit_Zotero_fuer_Juristinnen_und_Juristen.pdf)
 
 ### Weitere Anleitungen
 
-- [Dateianhänge in Zotero über WebDAV synchronisieren (PDF)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Anleitung-WebDAV-Zotero.pdf).
-- [Zitationsstile für Zotero (PDF)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Zitationsstile_fuer_Zotero.pdf).
-- [Zotero-Dokumentation](https://www.zotero.org/support//start) mit einem [Tutorial zur Citation Style Language CSL](https://youtu.be/jxxSyviCPMs).
+- [Dateianhänge in Zotero über WebDAV synchronisieren (PDF, 360 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Anleitung-WebDAV-Zotero.pdf)  
+  Anleitung zur Synchronisation mit bwSync&Share
 
-## Kontakt
+- [Zitationsstile für Zotero (PDF, 412 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Zitationsstile_fuer_Zotero.pdf)
 
-### Team Literaturverwaltung
+### Offizielle Zotero-Dokumentation
 
-- **Adresse**: Universität Mannheim, Universitätsbibliothek, Schloss, Schneckenhof West, 68161 Mannheim
-- **E-Mail**: [litverw.ub@uni-mannheim.de](mailto:litverw.ub@uni-mannheim.de)
-- **Web**: [www.bib.uni-mannheim.de/literaturverwaltungsprogramme](http://www.bib.uni-mannheim.de/literaturverwaltungsprogramme)
+- [Zotero Support und Tipps](https://www.zotero.org/support//start)
+- [Erste Schritte mit Zotero](https://www.zotero.org/support/quick_start_guide)
+- [Tutorial zur Citation Style Language (CSL) auf YouTube](https://youtu.be/jxxSyviCPMs)
+
+## Kontakt Team Literaturverwaltung
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss, Schneckenhof West, 68161 Mannheim  
+- Web: [Literaturverwaltungsprogramme der UB Mannheim](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)  
+- E-Mail: litverw.ub@uni-mannheim.de

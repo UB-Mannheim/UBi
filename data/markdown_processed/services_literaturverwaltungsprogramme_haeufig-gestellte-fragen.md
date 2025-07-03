@@ -1,37 +1,52 @@
-```yaml
-title: Häufig gestellte Fragen zur Literaturverwaltung
+---
+title: Häufig gestellte Fragen zu Literaturverwaltungsprogrammen
 source_url: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/haeufig-gestellte-fragen/
-tags: [Literaturverwaltung, Zotero, Harvard-Zitationsstil]
+category: Services
+tags: [Literaturverwaltungsprogramme, Zotero, RefWorks, OpenURL, Harvard-Zitationsstil, Bibliographische Daten]
 language: de
-```
+---
 
-# Häufig gestellte Fragen zur Literaturverwaltung
+# Häufig gestellte Fragen zu Literaturverwaltungsprogrammen
 
 ## Allgemeines
 
 ### OpenURL Server/Base URL der UB Mannheim
-Die OpenURL Server/Base URL der Universitätsbibliothek Mannheim, die Sie in Ihrem Literaturverwaltungsprogramm eintragen können, lautet: [OpenURL der UB Mannheim](https://primo.bib.uni-mannheim.de/primo-explore/openurl?vid=MAN_UB&institution=MAN).
 
-### Wechsel von RefWorks zu einem anderen Literaturverwaltungsprogramm
-Beim Wechsel von RefWorks zu einem anderen Literaturverwaltungsprogramm ist es technisch nicht möglich, angehängte Dateien oder die Verzeichnisstruktur automatisiert zu übernehmen. Dies muss manuell nachgetragen werden.
+Die OpenURL Server/Base URL der UB Mannheim, die in Literaturverwaltungsprogrammen eingetragen werden kann, lautet:  
+[https://primo.bib.uni-mannheim.de/primo-explore/openurl?vid=MAN_UB&institution=MAN](https://primo.bib.uni-mannheim.de/primo-explore/openurl?vid=MAN_UB&institution=MAN)
+
+### Wechsel von RefWorks zu anderen Literaturverwaltungsprogrammen
+
+Ein automatisierter Import von angehängten Dateien oder der Verzeichnisstruktur beim Wechsel von RefWorks zu einem anderen Programm ist technisch nicht möglich und muss manuell nachgetragen werden.
 
 ### Offizieller Harvard-Zitationsstil
-Der Harvard-Zitationsstil bezieht sich auf eine Referenzierung der Literatur im Text vom Typ „Autor (Jahr)“. Es gibt viele Varianten, jedoch ist keine als offiziell anzusehen. Weitere Informationen finden Sie hier: [Harvard-Zitationsstil](https://www.zotero.org/support/kb/harvard_style).
+
+Der Begriff „Harvard-Zitationsstil“ bezeichnet eine Literaturreferenzierung im Text vom Typ „Autor (Jahr)“. Es existieren viele Varianten, jedoch keine offiziell anerkannte Version. Weitere Informationen finden Sie unter:  
+[https://www.zotero.org/support/kb/harvard_style](https://www.zotero.org/support/kb/harvard_style)
 
 ## Zotero
 
-### Extraktion bibliographischer Daten aus PDFs
-Sie können bibliographische Daten auch aus einzelnen PDFs extrahieren. Eine detaillierte Anleitung finden Sie hier: [PDF-Metadaten abrufen](https://www.zotero.org/support/retrieve_pdf_metadata).
+### Extrahieren bibliographischer Daten aus PDFs
 
-### Vornamen oder Initialen in (Kurz-)Zitationen
-Wenn einige (Kurz-)Zitationen im Text Vornamen oder Initialen enthalten, liegt das meist an inkonsistent eingegebenen Autorennamen. Weitere Informationen dazu finden Sie hier: [Namensdisambiguierung](https://www.zotero.org/support/kb/given_name_disambiguation).
+Eine Anleitung zum Extrahieren bibliographischer Daten aus einzelnen PDFs finden Sie hier:  
+[https://www.zotero.org/support/retrieve_pdf_metadata](https://www.zotero.org/support/retrieve_pdf_metadata)
 
-### Anpassung der Sprache in Zotero
-Die Sprache der in Zotero generierten Zitationen und Bibliographien passt sich standardmäßig der Sprache des Firefox-Browsers oder des Betriebssystems an. Um die Spracheinstellungen anzupassen, nutzen Sie die Anleitung hier: [Sprachunterstützung in Zotero](https://www.zotero.org/support/supported_languages#citations_and_bibliographies).
+### Vornamen oder Initialien in Kurz-Zitationen im Text
 
-### Übertragung der Bibliothek auf einen anderen Computer
-Um Ihre Bibliothek in Zotero auf einen anderen Computer zu übertragen, finden Sie eine Anleitung hier: [Bibliothek übertragen](https://www.zotero.org/support/kb/transferring_a_library).
+Das Auftreten von Vornamen oder Initialien in Kurz-Zitationen liegt meist an inkonsistent eingegebenen Autorennamen. Weitere Informationen zur Vermeidung finden Sie unter:  
+[https://www.zotero.org/support/kb/given_name_disambiguation](https://www.zotero.org/support/kb/given_name_disambiguation)
 
-### Bereinigung fehlerhafter Einträge
-Fehlerhafte Einträge können bereinigt werden, indem Sie zunächst ein Backup Ihrer Daten erstellen. Anschließend können Sie ein Batch-Editing durchführen. Eine Anleitung dazu finden Sie hier: [Batch-Editing in Zotero](https://www.zotero.org/support/dev/client_coding/javascript_api#examplebatch_editing).
-```
+### Sprache der Zitationen und Bibliographien anpassen
+
+Zotero passt die Sprache der Bedienoberfläche sowie der Zitationen und Bibliographien standardmäßig an die Sprache des Firefox-Browsers oder Betriebssystems an. Um die Sprache der Zitationen und Bibliographien unabhängig von der Bedienoberfläche zu ändern, nutzen Sie die Anleitung unter:  
+[https://www.zotero.org/support/supported_languages#citations_and_bibliographies](https://www.zotero.org/support/supported_languages#citations_and_bibliographies)
+
+### Übertragen der Zotero-Bibliothek auf einen anderen Computer
+
+Eine Anleitung zum Übertragen der Zotero-Bibliothek auf einen anderen Computer finden Sie hier:  
+[https://www.zotero.org/support/kb/transferring_a_library](https://www.zotero.org/support/kb/transferring_a_library)
+
+### Bereinigen fehlerhafter Einträge
+
+Vor der Bereinigung fehlerhafter Einträge sollten Sie ein Backup Ihrer Daten erstellen. Anschließend kann ein Batch-Editing durchgeführt werden. Eine Anleitung dazu finden Sie unter:  
+[https://www.zotero.org/support/dev/client_coding/javascript_api#examplebatch_editing](https://www.zotero.org/support/dev/client_coding/javascript_api#examplebatch_editing)

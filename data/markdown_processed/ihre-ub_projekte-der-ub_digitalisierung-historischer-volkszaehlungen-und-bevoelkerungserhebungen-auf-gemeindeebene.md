@@ -1,26 +1,21 @@
-```yaml
-title: Digitalisierung historischer Volkszählungen und Bevölkerungs­erhebungen auf Gemeindeebene
+---
+title: Digitalisierung historischer Volkszählungen und Bevölkerungserhebungen auf Gemeindeebene
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-historischer-volkszaehlungen-und-bevoelkerungserhebungen-auf-gemeindeebene/
-tags: [Digitalisierung, Volkszählungen, Bevölkerungsforschung]
+category: Projekte
+tags: [Digitalisierung, Volkszählungen, Bevölkerungserhebungen, Gemeindeebene, OCR, historische Gemeindeverzeichnisse, Fritz-Thyssen-Stiftung, Forschungsprojekt]
 language: de
-```
+---
 
-# Digitalisierung historischer Volkszählungen
+# Digitalisierung historischer Volkszählungen und Bevölkerungserhebungen auf Gemeindeebene
 
 ## Projektübersicht
 
-Das Projekt zur **Digitalisierung historischer Volkszählungen und Bevölkerungs­erhebungen auf Gemeindeebene** wird von der [Fritz-Thyssen-Stiftung](https://www.fritz-thyssen-stiftung.de/) gefördert und läuft von 2017 bis 2018. Ziel ist es, die Bevölkerungsentwicklung in verschiedenen Regionen zu erfassen, da diese als Indikator für die Wirtschaftskraft gilt. 
+Das Projekt wird gefördert von der Fritz-Thyssen-Stiftung und lief von 2017 bis 2018. Ziel ist die Digitalisierung ausgewählter historischer Gemeindeverzeichnisse des Deutschen Reichs, der Bundesrepublik Deutschland und der DDR. Die digitalisierten Werke sind über die [Digitalisierte Werke](https://digi.bib.uni-mannheim.de/gemeindeverzeichnisse/) abrufbar.
 
-## Bedeutung der Bevölkerungsentwicklung
+## Hintergrund und Bedeutung
 
-In der aktuellen Forschung wird die Bevölkerungszunahme häufig mit Wirtschafts­wachstum und die Bevölkerungsabnahme mit einer schrumpfenden wirtschaftlichen Entwicklung assoziiert. Daher ist die Analyse historischer Daten von großer Bedeutung.
+In der aktuellen Forschung gilt die Bevölkerungsentwicklung in einer Region als Indikator für die Wirtschaftskraft. Eine Bevölkerungszunahme wird mit Wirtschaftswachstum assoziiert, während Bevölkerungsabnahme auf eine schrumpfende wirtschaftliche Entwicklung hinweist.
 
-## Digitalisierung und Datenverarbeitung
+## Methodik
 
-In Zusammenarbeit mit Prof. Dr. Sebastian Siegloch werden ausgewählte historische Gemeindeverzeichnisse des Deutschen Reichs, der Bundesrepublik Deutschland und der DDR digitalisiert. 
-
-- **OCR-Software**: Diese wird eingesetzt, um aus Bilddateien Volltexte zu generieren.
-- **Qualitätssicherung**: Die generierten Texte durchlaufen ein Qualitätssicherungsverfahren.
-- **Datenharmonisierung**: Im letzten Schritt werden die bereitgestellten Daten mit Hilfe eines Statistikprogrammes eingelesen und harmonisiert.
-
-Für weitere Informationen und digitalisierte Werke besuchen Sie die [digitale Bibliothek](https://digi.bib.uni-mannheim.de/gemeindeverzeichnisse/).
+In Kooperation mit Prof. Dr. Sebastian Siegloch werden die historischen Gemeindeverzeichnisse mittels OCR-Software aus Bilddateien in Volltexte umgewandelt. Diese Volltexte durchlaufen ein Qualitätssicherungsverfahren. Abschließend werden die bereitgestellten Daten mit Hilfe eines Statistikprogramms eingelesen und harmonisiert.

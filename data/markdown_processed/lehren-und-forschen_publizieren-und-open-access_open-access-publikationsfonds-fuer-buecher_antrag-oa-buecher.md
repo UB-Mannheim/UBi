@@ -1,28 +1,25 @@
-```yaml
+---
 title: Antrag auf Übernahme von Open-Access-Publikationskosten für Bücher
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/antrag-oa-buecher/
-tags: [Open Access, Publikationskosten, Bücher]
+category: Services
+tags: [Open Access, Publikationskosten, Bücher, Fördervoraussetzungen, Universitätsbibliothek Mannheim]
 language: de
-```
+---
 
 # Antrag auf Übernahme von Open-Access-Publikationskosten für Bücher
 
-Bitte informieren Sie sich vor dem Absenden des Antrags über die [Fördervoraussetzungen](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/).
+Bitte informieren Sie sich vor dem Absenden des Antrags auf der Website des [Open-Access-Publikationsfonds für Bücher](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/) über die Fördervoraussetzungen.
 
-## Wichtige Hinweise
+Es geht hier um die Förderung von ganzen Büchern in Open Access. Wenn Sie stattdessen einen Artikel in einer Open-Access-Zeitschrift veröffentlichen möchten, nutzen Sie bitte das Formular für [Open-Access-Zeitschriftenartikel](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/).
 
-Dieser Antrag bezieht sich ausschließlich auf die Veröffentlichung ganzer Bücher im Open Access. Falls Sie einen Artikel in einer Open-Access-Zeitschrift veröffentlichen möchten, nutzen Sie bitte das [Formular für Open-Access-Zeitschriftenartikel](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/).
+## Persönliche Angaben
 
-## Antragstellung
+*(Hier erfolgt die Eingabe der persönlichen Daten des Antragstellers.)*
 
-### Persönliche Angaben
+## Angaben zum Buch
 
-Bitte geben Sie hier Ihre persönlichen Informationen an.
+*(Hier werden die relevanten Informationen zum Buch eingetragen.)*
 
-### Angaben zum Buch
+## Weitere Punkte
 
-Hier sind die relevanten Informationen zu Ihrem Buch einzutragen.
-
-### Weitere Punkte
-
-Bitte beachten Sie auch die weiteren Punkte, die für die Antragstellung wichtig sind.
+*(Zusätzliche Angaben und Informationen zum Antrag.)*

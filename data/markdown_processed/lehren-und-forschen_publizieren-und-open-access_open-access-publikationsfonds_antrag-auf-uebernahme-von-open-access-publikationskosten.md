@@ -1,18 +1,19 @@
-```yaml
-title: Antrag auf Übernahme von Open-Access-Publikationskosten
+---
+title: Antrag auf Übernahme von Open-Access-Publikationskosten für Zeitschriftenartikel
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/
-tags: [Open Access, Publikationskosten, Antrag]
+category: Services
+tags: [Open Access, Publikationskosten, Fördervoraussetzungen, Zeitschriftenartikel, Universitätsbibliothek Mannheim]
 language: de
-```
+---
 
-# Antrag auf Übernahme von Open-Access-Publikationskosten
+# Antrag auf Übernahme von Open-Access-Publikationskosten für Zeitschriftenartikel
 
-Bevor Sie den Antrag auf Übernahme von Open-Access-Publikationskosten für Zeitschriftenartikel einreichen, informieren Sie sich bitte über die [Fördervoraussetzungen](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) auf der Website des Open-Access-Publikationsfonds.
+Bitte informieren Sie sich vor dem Absenden des Antrags auf der Website des [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) über die Fördervoraussetzungen.
 
 ## Persönliche Angaben
 
-Bitte geben Sie hier Ihre persönlichen Informationen an.
+*(Hier werden persönliche Daten eingetragen.)*
 
 ## Angaben zum Artikel
 
-Hier sind die Informationen zu dem Artikel, für den Sie die Kostenübernahme beantragen möchten, erforderlich.
+*(Hier werden die Informationen zum Zeitschriftenartikel eingetragen.)*

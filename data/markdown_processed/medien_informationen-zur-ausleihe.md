@@ -1,75 +1,97 @@
-```yaml
+---
 title: Informationen zur Ausleihe
 source_url: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/
-tags: [Bibliothek, Ausleihe, Universität Mannheim]
+category: Benutzung
+tags: [Ausleihe, Selbstverbucher, Rückgabe, Fernleihe, Lehrbuchsammlung, Bibliotheksausweis, Leihfristen, Mahnungen, Verlust, Beschädigung]
 language: de
-```
+---
 
 # Informationen zur Ausleihe
 
-Im Ausleihzentrum Schloss Westflügel können Sie Medien über Selbstverbucher ausleihen und diese über die Rückgabeanlage zurückgeben. Ihre ecUM oder UB-Chipkarte dient als Bibliotheksausweis. Weitere Informationen zum [Bibliotheksausweis](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/) finden Sie hier.
+Im Ausleihzentrum Schloss Westflügel leihen Sie Medien über Selbstverbucher aus und geben sie über die Rückgabeanlage wieder zurück. Die [ecUM](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/) oder UB-Chipkarte ist Ihr Bibliotheksausweis.
+
+Im Ausleihzentrum finden Sie auch die Lehrbuchsammlung für Studierende. Titel aus dem geschlossenen Magazin bestellen Sie über den Katalog [Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB), diese werden ins Ausleihzentrum geliefert.
+
+---
 
 ## Bestellen und Ausleihen
 
-Die Standortangabe im Katalog [Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) zeigt Ihnen, wo sich die Literatur befindet und ob sie verfügbar ist.
+Die Standortangabe im Katalog Primo zeigt Ihnen, in welchem Bibliotheksbereich sich die Literatur befindet und ob sie verfügbar ist.
 
-### Selbstausleihe und Rückgabe
+### Selbstausleihe und Rückgabe im Ausleihzentrum
 
-Im Ausleihzentrum entleihen Sie Bücher über die Selbstverbucher und geben sie über die Rückgabeanlage im Foyer zurück. Rückgaben per Post erfolgen auf eigenes Risiko an die Universitätsbibliothek Mannheim. Bei verspäteter Rückgabe können Mahngebühren anfallen. Die Lehrbuchsammlung ist ausschließlich für Studierende der Universitäten Mannheim, Heidelberg und kooperierender Einrichtungen zugänglich.
+Im Ausleihzentrum holen Sie Ihre Bücher aus dem Regal und entleihen sie über die Selbstverbucher.  
+Die Rückgabe erfolgt über die Rückgabeanlage im Foyer. Rückgaben per Post erfolgen auf eigenes Risiko an:  
+Universitätsbibliothek Mannheim, Ausleihe, Schloss Schneckenhof, 68131 Mannheim. Bei verspätetem Eintreffen können Mahngebühren entstehen.  
+Die Bücher der Lehrbuchsammlung sind den Studierenden der Universitäten Mannheim, Heidelberg und kooperierender Einrichtungen vorbehalten.
 
 ### Bestellen aus dem geschlossenen Magazin
 
-Loggen Sie sich in Ihr Konto im Katalog Primo ein, um Medien zu bestellen. Sie erhalten eine E-Mail, sobald diese nach 1 bis 2 Werktagen im Ausleihzentrum bereitliegen. Die Medien sind 5 Werktage im Abholraum verfügbar.
+Loggen Sie sich im Katalog Primo in Ihr Konto ein und bestellen Sie Ihre Medien. Sie erhalten eine E-Mail, sobald diese nach 1 bis 2 Werktagen im Ausleihzentrum eingetroffen sind. Die Medien liegen 5 Werktage im Abholraum bereit.
 
 ### Vormerken verliehener Medien
 
-Bereits verliehene Medien können vorgemerkt werden. Sie erhalten eine E-Mail, wenn diese im Ausleihzentrum eingetroffen sind. Auch diese Medien liegen 5 Werktage im Abholraum bereit.
+Bereits verliehene Medien können Sie vormerken. Sie erhalten eine E-Mail, sobald diese im Ausleihzentrum eingetroffen sind. Die Medien liegen 5 Werktage im Abholraum bereit.
 
 ### Fernleihen
 
-Fernleihen stehen während der gesamten Leihfrist zur Abholung bereit. Ihre bestellten Bücher und Aufsatzkopien erhalten Sie an der Theke im Ausleihzentrum. Bücher aus der Fernleihe geben Sie ebenfalls an der Theke zurück.
+Sie erhalten eine E-Mail, sobald Ihre Fernleihen im Ausleihzentrum eingetroffen sind. Fernleihen stehen während der kompletten Leihfrist zum Abholen bereit. Ihre bestellten Bücher und Aufsatzkopien erhalten Sie dort an der Theke. Bücher aus der Fernleihe geben Sie auch an der Theke zurück.
 
-## Nutzung an den Sonderleseplätzen
+### Nutzung an den Sonderleseplätzen
 
-An den [Sonderleseplätzen im InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) stellen wir nicht ausleihbare Bestände aus dem geschlossenen Magazin oder der Fernleihe bereit. Dazu gehören alte Drucke vor 1850, Bücher älter als 100 Jahre, Zeitungen und Loseblattsammlungen. Sie erhalten eine E-Mail, sobald die bestellten Medien eingetroffen sind, die 14 Tage für Sie bereitliegen.
+An den Sonderleseplätzen im [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) stellen wir nicht ausleihbaren Bestand aus dem geschlossenen Magazin oder der Fernleihe für Sie bereit. Dazu gehören alte Drucke vor 1850, Bücher, die älter als 100 Jahre sind, Zeitungen und Loseblattsammlungen.  
+Sie erhalten eine E-Mail, sobald die bestellten Medien eingetroffen sind. Die Medien liegen 14 Tage für Sie bereit. Benötigen Sie die Medien länger, wenden Sie sich bitte an das Personal im InfoCenter.
 
-## Ausleihe mobiler Geräte
+### Ausleihe mobiler Geräte
 
-Mitglieder der Universität Mannheim können im [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) Notebooks ausleihen. Weitere Informationen zur [Ausleihe mobiler Geräte](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/) finden Sie hier.
+Mitglieder der Universität Mannheim können im [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) mit ihrer ecUM Notebooks ausleihen.  
+Weitere Informationen zur [Ausleihe mobiler Geräte](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/).
 
-## Ausleihe in Fachbibliotheken
+### Ausleihe in Fachbibliotheken
 
-Die Bibliotheksbereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof sind Präsenzbibliotheken. Lehrende, hauptamtliche Beschäftigte und Promotionsstudierende der Universität können auch hier ausleihen. Informationen zu Medien, die nicht am Standort sind, finden Sie [hier](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/).
+Die Bibliotheksbereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof sind Präsenzbibliotheken. Lehrende, hauptamtliche Beschäftigte und Promotionsstudierende der Universität können auch hier ausleihen. Entliehene Bücher können zurückgefordert werden.  
+Bei fehlendem Buch am Standort siehe: [Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)
+
+---
 
 ## Ausleihfristen
 
-Die Leihfrist im Ausleihzentrum beträgt in der Regel 28 Tage. Bei Rückgabe am Automaten erhalten Sie automatisch eine Rückgabequittung per E-Mail. Um Mahngebühren zu vermeiden, geben Sie Bücher am Fälligkeits­tag bis spätestens 21 Uhr zurück. Stark nachgefragte Medien können für 14 Tage ausgeliehen werden.
+Die Leihfrist im Ausleihzentrum Schloss Westflügel beträgt in der Regel 28 Tage. Bei Rückgabe am Automaten erhalten Sie automatisch eine Rückgabequittung per E-Mail. Um Mahngebühren zu vermeiden, geben Sie Bücher am Fälligkeitstag bis spätestens 21 Uhr zurück. Bitte prüfen Sie nach der Rückgabe Ihr Bibliothekskonto, um Unstimmigkeiten zu vermeiden.  
+Stark nachgefragte Medien können Sie für 14 Tage ausleihen – etwa Exemplare, die bereits vorgemerkt sind.
 
 ### Verlängerungen
 
-In Ihrem Bibliothekskonto können Sie die Leihfrist um jeweils 28 Tage verlängern, bis die maximale Leihfrist erreicht ist (84 Tage für Studierende und Privatpersonen, 168 Tage für Beschäftigte). Bei bereits vorgemerkten Medien und Fernleihen ist eine Verlängerung nicht möglich.
+In Ihrem Bibliothekskonto können Sie die Leihfrist jederzeit um jeweils 28 Tage verlängern, bis die maximale Leihfrist erreicht ist (84 Tage für Studierende und Privatpersonen, 168 Tage für Beschäftigte).  
+Bei bereits vorgemerkten Medien und Fernleihen ist eine Verlängerung nicht möglich.
 
 ### Mahnungen
 
-Wenn Sie ein Medium nicht fristgerecht zurückgeben, erhalten Sie eine gebührenpflichtige Mahnung an Ihre im Bibliothekssystem hinterlegte E-Mail-Adresse. Die dritte Mahnung wird per Post versendet. Mahngebühren werden gemäß der [Bibliotheksgebührenordnung](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/) erhoben.
+Wenn Sie das Medium nicht fristgerecht zurückgeben, erhalten Sie eine gebührenpflichtige Mahnung an Ihre im Bibliothekssystem hinterlegte E-Mail-Adresse. Angehörige der Universität Mannheim und kooperierender Einrichtungen werden über ihre universitäre E-Mail-Adresse benachrichtigt. Die dritte gebührenpflichtige Mahnung wird per Post an die von Ihnen angegebene Anschrift versendet.  
+Sie können die von uns verwendeten Kontaktdaten in Ihrem Bibliothekskonto einsehen.  
+Mahngebühren erheben wir entsprechend der [Bibliotheksgebührenordnung](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/) und der [Entleih- und Gebührenordnung für mobile Endgeräte](https://www.bib.uni-mannheim.de/media/Universitaet/Dokumente/Entleih-undGebuehrenordnungMobileEndgeraete.pdf) (PDF, 346 KB).  
+Ihr Bibliothekskonto wird für weitere Ausleihen gesperrt, wenn es mit Gebühren in Höhe von 10,00 Euro belastet ist (50,00 Euro bei hauptamtlichem wissenschaftlichem Personal).
 
 ### Verlust und Beschädigung
 
-Bei Verlust oder Beschädigung eines Mediums sind Sie zum Ersatz des Schadens verpflichtet. Melden Sie sich bitte im betreffenden Bibliotheksbereich und füllen Sie eine [Verlustmeldung](https://www.bib.uni-mannheim.de/media/Universitaet/Dokumente/verlustmeldung.pdf) aus.
+Wer ein Medium verliert oder beschädigt, z. B. Unterstreichungen vornimmt, ist zum Ersatz des Schadens verpflichtet.  
+Bei Verlust oder Beschädigung melden Sie sich bitte im betreffenden Bibliotheksbereich und füllen Sie eine [Verlustmeldung (PDF, 143 kB)](https://www.bib.uni-mannheim.de/media/Universitaet/Dokumente/verlustmeldung.pdf) aus.  
+Bei bereits vorhandenen Schäden melden Sie sich bitte unverzüglich, damit diese Ihnen nicht zur Last gelegt werden.
+
+---
 
 ## Verbindliche Grundlagen für die Ausleihe
 
-Die Ausleihe unterliegt den folgenden Regelungen:
+* [Benutzungsordnung der Universitätsbibliothek Mannheim (PDF, 8,08 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Benutzungsordnung.pdf)  
+* [Entleihordnung für die Bibliotheksbereiche A3, A5, BWL und Schloss Ehrenhof (PDF, 325 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Entleihordnung.pdf)  
+* [Entleih- und Gebührenordnung für mobile Endgeräte (PDF, 346 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Entleih-undGebuehrenordnungMobileEndgeraete.pdf)  
+* [Bibliotheksgebührenordnung (PDF, 880 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Bibliotheksgebuehrenordnung_ab_2024.pdf)
 
-- [Benutzungsordnung der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Benutzungsordnung.pdf)
-- [Entleihordnung für die Bibliotheksbereiche A3, A5, BWL und Schloss Ehrenhof](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Entleihordnung.pdf)
-- [Entleih- und Gebührenordnung für mobile Endgeräte](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Entleih-undGebuehrenordnungMobileEndgeraete.pdf)
-- [Bibliotheksgebührenordnung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Bibliotheksgebuehrenordnung_ab_2024.pdf)
+---
 
 ## Kontakt
 
 ### Ausleihzentrum Schloss Westflügel
 
-- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Westflügel, 68161 Mannheim
-- **Telefon:** +49 621 181-2949
-- **E-Mail:** [ausleihe.ub@uni-mannheim.de](mailto:ausleihe.ub@uni-mannheim.de)
+* Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Westflügel, 68161 Mannheim  
+* Telefon: +49 621 181-2949  
+* E-Mail: [ausleihe.ub@uni-mannheim.de](mailto:ausleihe.ub@uni-mannheim.de)

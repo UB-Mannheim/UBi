@@ -1,30 +1,28 @@
-```yaml
+---
 title: OCR-D: Integration von Kitodo und OCR-D zur produktiven Massendigitalisierung
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/ocr-d-kitodo/
-tags: [OCR-D, Kitodo, Massendigitalisierung, DFG]
+category: Projekte
+tags: [OCR-D, Kitodo, Massendigitalisierung, Workflow-Management, Universitätsbibliothek Mannheim, DFG, SLUB Dresden, Universitätsbibliothek Braunschweig]
 language: de
-```
+---
 
 # OCR-D: Integration von Kitodo und OCR-D zur produktiven Massendigitalisierung
 
-**Kontakt:** [Stefan Weil](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/stefan-weil/)  
-**Förderung:** Deutsche Forschungsgemeinschaft (DFG)  
-**Laufzeit:** 2021–2023  
-**Projektpartner:** [SLUB Dresden](https://www.slub-dresden.de/), [Universitätsbibliothek Braunschweig](https://www.tu-braunschweig.de/ub)  
-**Abschlussbericht:** [Integration von Kitodo und OCR-D zur produktiven Massendigitalisierung](https://madoc.bib.uni-mannheim.de/68582/)
+Die Deutsche Forschungsgemeinschaft (DFG) fördert seit 2015 im Rahmen des Koordinierungsprojekts [OCR-D](https://ocr-d.de/de/) verschiedene Projekte zur Entwicklung eines Verfahrens zur Massenvolltextdigitalisierung von Drucken des 16. bis 19. Jahrhunderts im deutschen Sprachraum. In der aktuellen dritten Förderphase arbeitet die Universitätsbibliothek Mannheim daran, den OCR-D-Workflow in [Kitodo](https://www.kitodo.org/) zur produktiven Massendigitalisierung zu integrieren.
 
-## Projektbeschreibung
+Mit Kitodo steht seit mehreren Jahren eine lizenzfreie Software zur Unterstützung der Massendigitalisierung und des Workflow-Managements von Digitalisierungsprojekten zur Verfügung. Die UB Mannheim setzt Kitodo seit 2014 ein und ist in die Weiterentwicklung der Software eingebunden.
 
-Die DFG fördert im Rahmen des Koordinierungsprojekts [OCR-D](https://ocr-d.de/de/) seit 2015 verschiedene Projekte zur Entwicklung eines Verfahrens zur Massenvolltextdigitalisierung von Druckwerken, die im deutschen Sprachraum zwischen dem 16. und 19. Jahrhundert erschienen sind. In der aktuellen dritten Förderphase arbeitet die Universitätsbibliothek Mannheim an der Integration des OCR-D-Workflows in [Kitodo](https://www.kitodo.org/) zur produktiven Massendigitalisierung.
+# Projektpartner und Ziele
 
-## Kitodo und OCR-D
+In Zusammenarbeit mit der [SLUB Dresden](https://www.slub-dresden.de/) und der [Universitätsbibliothek Braunschweig](https://www.tu-braunschweig.de/ub) beteiligt sich die Universitätsbibliothek Mannheim an dem Vorhaben, OCR-D und Kitodo wechselseitig zu integrieren. OCR-D soll für den verteilten Betrieb auf einem Web-Server nutzbar gemacht werden. Volltexte können dann im DFG-Viewer dargestellt und „on demand“ bereitgestellt werden.
 
-Kitodo ist eine lizenzfreie Software, die seit mehreren Jahren zur Unterstützung der Massendigitalisierung und des Workflow-Managements von Digitalisierungsprojekten eingesetzt wird. Die Universitätsbibliothek Mannheim nutzt Kitodo seit 2014 und ist aktiv an der Weiterentwicklung der Software beteiligt.
+Ein weiteres Ziel ist die Optimierung und Automatisierung des OCR-D-Workflows. Dazu sollen unter anderem Community-Workshops durchgeführt und ein prototypischer Aufbau für einen allgemein verfügbaren OCR-Dienst innerhalb der Kitodo-Community erstellt werden.
 
-In Zusammenarbeit mit der SLUB Dresden und der Universitätsbibliothek Braunschweig zielt das Projekt darauf ab, OCR-D und Kitodo wechselseitig zu integrieren. OCR-D soll für den verteilten Betrieb auf einem Web-Server nutzbar gemacht werden, sodass Volltexte im DFG-Viewer dargestellt und „on demand“ bereitgestellt werden können.
+# Kontakt und weitere Informationen
 
-## Ziele und Optimierung
-
-Ein weiteres Ziel des Projekts ist die Optimierung und Automatisierung des OCR-D-Workflows. Dazu sind Community-Workshops geplant, um den Austausch zu fördern und einen prototypischen Aufbau für einen allgemein verfügbaren OCR-Dienst innerhalb der Kitodo-Community zu erstellen.
-
-Für weitere Informationen besuchen Sie die [Projektseite der DFG](https://gepris.dfg.de/gepris/projekt/460478737).
+- **Kontakt:** [Stefan Weil](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/stefan-weil/)
+- **Förderung:** Deutsche Forschungsgemeinschaft (DFG)
+- **Laufzeit:** 2021–2023
+- **Projektpartner:** SLUB Dresden, Universitätsbibliothek Braunschweig
+- **Abschlussbericht:** [Integration von Kitodo und OCR-D zur produktiven Massendigitalisierung](https://madoc.bib.uni-mannheim.de/68582/)
+- **Projektseite DFG:** [DFG-Projektseite](https://gepris.dfg.de/gepris/projekt/460478737)

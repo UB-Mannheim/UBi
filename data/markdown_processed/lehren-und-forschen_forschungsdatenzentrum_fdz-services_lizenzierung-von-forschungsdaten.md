@@ -1,14 +1,15 @@
-```yaml
+---
 title: Lizenzierung von Forschungsdaten
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/
-tags: [Forschungsdaten, Lizenzierung, Datennutzung]
+category: Services
+tags: [Forschungsdaten, Lizenzierung, Datennutzungsverträge, Unterstützung, Verhandlung]
 language: de
-```
+---
 
 # Lizenzierung von Forschungsdaten
 
-Wenn Sie Forschungsdaten anderer Anbieter nutzen möchten, unterstützen wir Sie bei der Verhandlung und dem Abschluss von Datennutzungsverträgen. 
+## Unterstützung bei der Nutzung von Forschungsdaten anderer Anbieter
 
-## Unterstützung bei Datennutzungsverträgen
+Wenn Sie Forschungsdaten von anderen Anbietern nutzen möchten, unterstützt Sie die Universitätsbibliothek Mannheim bei der Verhandlung und beim Abschluss von Datennutzungsverträgen.
 
-Nehmen Sie Kontakt zu uns auf, um mehr über den Prozess zu erfahren. Weitere Informationen finden Sie auch auf unserer [Bestellservice-Seite](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/).
+Nehmen Sie [Kontakt zu uns auf](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/) oder informieren Sie sich über den Ablauf des Prozesses im [Bestellservice](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/).

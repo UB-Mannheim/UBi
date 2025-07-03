@@ -1,51 +1,48 @@
-```yaml
-title: Arbeitsplätze in der Bibliothek
+---
+title: Arbeitsplätze an der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/services/arbeitsplaetze/
-tags: [Bibliothek, Arbeitsplätze, Ausstattung, Gruppenarbeit, Schulungsräume]
+category: Services
+tags: [Arbeitsplätze, Gruppenarbeitsplätze, Einzelarbeitsplätze, technische Ausstattung, WLAN, PC-Arbeitsplätze, Kopierer, Scanner, PalMA-Team-Monitore, SMART Boards, Notebooks, Sonderleseplätze, Schließfächer]
 language: de
-```
+---
 
-# Arbeitsplätze in der Bibliothek
+# Arbeitsplätze an der Universitätsbibliothek Mannheim
 
-In den Bibliotheksbereichen der Universität Mannheim stehen Ihnen mehr als 2.000 Gruppen- und Einzelarbeitsplätze zur Verfügung. Die technische Ausstattung unterstützt Sie beim Arbeiten und Lernen. 
+In den Bibliotheksbereichen der Universitätsbibliothek Mannheim stehen mehr als 2.000 Gruppen- und Einzelarbeitsplätze zur Verfügung. Die technische Ausstattung unterstützt Sie beim Arbeiten und Lernen. Die aktuelle Belegung der Bibliotheksbereiche können Sie unter [Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzplaetze/) einsehen.
 
-## Aktuelle Belegung
+## Technische Ausstattung der Arbeitsplätze
 
-Um die aktuelle Belegung der Bibliotheksbereiche zu sehen, besuchen Sie die Seite [Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzplaetze/).
+An allen Arbeitsplätzen können Sie mit Ihrer Uni-ID das WLAN [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/) nutzen. Eduroam steht auch Studierenden anderer Hochschulen zur Verfügung. 
 
-## Ausstattung der Arbeitsplätze
+Mehr als 200 PC-Arbeitsplätze sind mit aktueller Software ausgestattet, darunter das MS-Office-Paket sowie LibreOffice. Rechercheergebnisse und Downloads aus Volltextdatenbanken können bearbeitet und auf einem USB-Stick gespeichert werden. Für multimediale Angebote können Sie Ihre Kopfhörer verwenden.
 
-An allen Arbeitsplätzen können Sie mit Ihrer Uni-ID das WLAN [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/) nutzen, das auch für Studierende anderer Hochschulen verfügbar ist. 
+In allen Bibliotheksbereichen stehen Monitore bereit, mit denen Sie Ihren Laptop via HDMI verbinden können. Kopierer und Scanner finden Sie in allen Bereichen, weitere Informationen unter [Drucken, Kopieren und Scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/).
 
-Es stehen mehr als 200 PC-Arbeitsplätze mit aktueller Software, einschließlich MS-Office und LibreOffice, zur Verfügung. Rechercheergebnisse und Downloads aus Volltextdatenbanken können bearbeitet und auf USB-Sticks gespeichert werden. 
+In den Gruppenarbeitsbereichen sind PalMA-Team-Monitore, Flipcharts und teilweise SMART Boards mit Beamerfunktion vorhanden. Zwei interaktive SMART Boards befinden sich im [Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/). Notebooks können nach Vorbestellung über den Katalog Primo für Universitätsangehörige im InfoCenter ausgeliehen werden. Details zur Ausleihe mobiler Geräte finden Sie [hier](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/).
 
-Multimediale Angebote können mit Kopfhörern genutzt werden. In allen Bibliotheksbereichen sind Monitore vorhanden, die eine Verbindung Ihres Laptops via HDMI ermöglichen. Kopierer und Scanner sind ebenfalls in allen Bereichen verfügbar. 
+## Gruppenarbeitsbereiche
 
-In den Gruppenarbeitsbereichen finden Sie PalMA-Team-Monitore, Flipcharts und teilweise SMART Boards mit Beamerfunktion. Zwei interaktive SMART Boards stehen im [Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/). Notebooks können nach Vorbestellung über den Katalog [Primo](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/) im InfoCenter ausgeliehen werden.
+Die Universitätsbibliothek bietet verschiedene Gruppenarbeitsbereiche an:
 
-## Gruppenarbeit
-
-Die Bibliothek bietet verschiedene Bereiche für Gruppenarbeit:
-
-- [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): 4 Räume im 1. OG
-- [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/): Offener Bereich im EG und UG
-- [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/): 6 Räume im 3. OG West
-- [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/): 5 Räume im 2. OG und offener Gruppenarbeitsbereich EG
-- [Learning Center im Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. OG West
-- [ExpLAB im Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/): Offener Bereich im EG
+- [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): 4 Räume im 1. Obergeschoss
+- [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/): Offener Bereich im Erdgeschoss und Untergeschoss
+- [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/): 6 Räume im 3. Obergeschoss West
+- [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/): 5 Räume im 2. Obergeschoss und offener Gruppenarbeitsbereich im Erdgeschoss
+- [Learning Center Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. Obergeschoss West
+- [ExpLAB Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/): Offener Bereich im Erdgeschoss
 
 ## Schulungsräume
 
-Die Bibliothek bietet auch Schulungsräume an:
+Folgende Schulungsräume stehen zur Verfügung:
 
-- [Raum M 218 im Schloss Ehrenhof](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schulungsraum-m-218/)
-- [Learning Center im Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/), 1. OG
-- [ExpLAB im Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/), EG
+- [Schloss Ehrenhof, Raum M 218](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schulungsraum-m-218/)
+- [Schloss Schneckenhof – Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/), 1. Obergeschoss
+- [Schloss Schneckenhof – ExpLAB](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/), Erdgeschoss
 
 ## Sonderleseplätze
 
-Für Medien, die nicht nach Hause ausgeliehen werden können, stehen Sonderleseplätze im [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) zur Verfügung. Für alte Drucke gibt es spezielle Leseplätze. Mikroformen-Scanner sind für das Lesen und Drucken von Mikrofilmen und Mikrofiches bereitgestellt.
+Für Medien, die nicht ausgeliehen werden können, stehen Sonderleseplätze im [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) zur Verfügung. Für Alte Drucke gibt es Leseplätze mit besonderer Ausstattung. Zum Lesen und Drucken von Mikrofilmen und Mikrofiches sind Mikroformen-Scanner vorhanden.
 
 ## Schließfächer
 
-In den Bibliotheksbereichen stehen Ihnen [Schließfächer](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schliessfaecher/) zur Verfügung, die Sie mit Ihrer ecUM oder UB-Chipkarte nutzen können.
+In den Bibliotheksbereichen können Sie Schließfächer nutzen, die mit Ihrer ecUM- oder UB-Chipkarte verschlossen werden können. Weitere Informationen finden Sie unter [Schließfächer](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schliessfaecher/).

@@ -1,33 +1,44 @@
-```yaml
+---
 title: Verfolgungsbedingt entzogenes Kulturgut im Bestand der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/
-tags: [Kulturgut, Provenienzforschung, NS-Raubgut]
+category: Projekte
+tags: [NS-Raubgut, Provenienzforschung, Kulturgut, Universitätsbibliothek Mannheim, Restitution, Looted Cultural Assets, Lost Art]
 language: de
-```
+---
 
-# Verfolgungsbedingt entzogenes Kulturgut in der Universitätsbibliothek Mannheim
+# Verfolgungsbedingt entzogenes Kulturgut im Bestand der Universitätsbibliothek Mannheim
 
-Die [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/) untersucht ihre historischen Buchbestände auf Verdachtsfälle von NS-Raubgut. Ziel ist es, diese zu erfassen, sichtbar zu machen und, sofern möglich, zu restituieren.
+Die Universitätsbibliothek Mannheim untersucht ihre historischen Buchbestände auf Verdachtsfälle von NS-Raubgut, um diese zu erfassen, sichtbar zu machen und sofern möglich zu restituieren.
 
-## Projektinformationen
+## Projektförderung und Zielsetzung
 
-- **Förderbereich:** NS-Raubgut
-- **Förderung:** Deutsches Zentrum für Kulturgutverluste
-- **Laufzeit:** 2024–2026
+Das Projekt wird im Förderbereich „NS-Raubgut“ vom Deutschen Zentrum für Kulturgutverluste für die Laufzeit 2024–2026 gefördert. Es ist eines von insgesamt 18 geförderten Forschungsprojekten.
 
-Das Projekt erhält Mittel vom Deutschen Zentrum für Kulturgutverluste und ist eines von insgesamt 18 geförderten Forschungsprojekten. Es zielt darauf ab, Raubgut in den Beständen der Universitätsbibliothek zu identifizieren und dessen Provenienz zu klären. Nach Möglichkeit soll das Raubgut an die rechtmäßigen Eigentümer*innen oder deren Nachkommen zurückgegeben werden.
+Ziel des Projektes ist es, Raubgut in den Beständen der Universitätsbibliothek zu identifizieren und die Provenienz zu klären. Anschließend soll das Raubgut nach Möglichkeit an die rechtmäßigen Eigentümer*innen bzw. ihre Nachkommen oder Rechtsnachfolger*innen zurückgegeben werden.
 
 ## Vorgehensweise
 
-Zur Identifizierung von Raubgut werden die Eingangsjournale der Wissenschaftlichen Stadtbibliothek überprüft, in denen die Erwerbungen dokumentiert sind. Bei Unstimmigkeiten, wie auffälligen Erwerbungsorten, wird jedes Buch auf Hinweise zu Vorbesitzer*innen untersucht. Dies können Ex Libris-Aufkleber, Stempel, Widmungen, Signaturen oder Namenseinträge sein. Die Rechercheergebnisse werden in den Datenbanken [Looted Cultural Assets](https://www.lostart.de/) und [Lost Art](https://www.lostart.de/) dokumentiert.
+Zur Identifikation werden die Eingangsjournale der Wissenschaftlichen Stadtbibliothek geprüft, in denen die Erwerbungen inventarisiert wurden. Bei Unstimmigkeiten, wie auffälligen Erwerbungsorten, wird das einzelne Buch auf Hinweise zu Vorbesitzer*innen untersucht. Mögliche Hinweise sind Ex Libris-Aufkleber, Stempel, Widmungen, Signaturen oder Namenseinträge.
+
+Die Rechercheergebnisse werden in den Datenbanken [Looted Cultural Assets](https://www.lootedart.com/) und [Lost Art](https://www.lostart.de/) dokumentiert.
+
+## Weiterführende Informationen
+
+- [Pressemitteilung](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/pressemitteilung/)
+- [Kooperationspartner](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/partner/)
+- [Was ist Provenienzforschung?](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/provenienzforschung/)
+- [Bernhard-Kahn-Lesehalle 1907-1933](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/bkl/)
+- [Israelitisches Kranken- und Pfründnerhaus Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/israelitisches-kranken-und-pfruendnerhaus-mannheim/)
+- [Ressource-Gesellschaft](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/ressource-gesellschaft/)
 
 ## Kontakt
 
-Bei Fragen zum Projekt können Sie sich gerne an uns wenden.
+Bei Fragen zum Projekt wenden Sie sich gerne an:
 
-### Viktor Boecking, M.A.
-
-- **Position:** Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
-- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-- **Telefon:** +49 621 181-2938
-- **E-Mail:** [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
+**Viktor Boecking, M.A.**  
+Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning  
+Universität Mannheim, Universitätsbibliothek  
+Schloss Schneckenhof West – Raum SW 284  
+68161 Mannheim  
+Telefon: +49 621 181-2938  
+E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)

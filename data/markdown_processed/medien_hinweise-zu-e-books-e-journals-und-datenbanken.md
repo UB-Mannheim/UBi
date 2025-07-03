@@ -1,51 +1,73 @@
-```yaml
+---
 title: Hinweise zu E-Books, E-Journals und Datenbanken
 source_url: https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/
-tags: [E-Books, E-Journals, Datenbanken, Universitätsbibliothek Mannheim]
+category: Medien
+tags: [E-Books, E-Journals, Datenbanken, E-Medien, Fernzugriff, Universitätsbibliothek Mannheim, Lizenzierung, VPN, Shibboleth, beck-online]
 language: de
-```
+---
 
 # Hinweise zu E-Books, E-Journals und Datenbanken
 
-Die Universitätsbibliothek Mannheim bietet ein umfangreiches Angebot an lizenzierten E-Books, E-Journals und Datenbanken. Alle E-Medien sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) zu finden. Alternativ können Sie über das [Datenbank-Informationssystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/) auf die Datenbanken zugreifen. E-Journals sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](https://ezb.ur.de/ezeit/search.phtml?bibid=UBMAN&colors=7&lang=de) verzeichnet. Für fachlich relevante E-Medien besuchen Sie die Seiten zur [fachlichen Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/).
+Die Universitätsbibliothek Mannheim hat ein umfangreiches Angebot an fachlichen E-Books, E-Journals und Datenbanken (E-Medien) für Sie ausgewählt und lizenziert.
+
+Alle E-Medien finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB). In die Datenbanken können Sie auch über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/) einsteigen. E-Journals sind außerdem in der [Elektronischen Zeitschriftenbibliothek (EZB)](https://ezb.ur.de/ezeit/search.phtml?bibid=UBMAN&colors=7&lang=de) nachgewiesen. Auf fachlich besonders relevante E-Medien verweisen die Webseiten zur [fachlichen Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/).
+
+---
 
 ## Zugang zu E-Medien
 
-Studierende und Mitarbeiter*innen der Universität Mannheim können die E-Medien wie folgt nutzen:
+Als **Studierende** und **Mitarbeiter*innen der Universität Mannheim** nutzen Sie das Angebot:
 
-- **Auf dem Campus**: Zugriff an PCs und im WLAN eduroam.
-- **Außerhalb des Campus**: Nutzung über den VPN-Client. Wählen Sie bei der Anmeldung die Gruppe „WebVPN“. Beachten Sie, dass „WebVPN-Split“ keinen Zugriff auf lizenzierte Medien ermöglicht.
-- **Shibboleth**: Diese Funktion steht nicht für alle E-Medien zur Verfügung. Weitere Informationen finden Sie [hier](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/).
+- Auf dem Campus der Universität Mannheim an PCs und im WLAN eduroam.
+- Außerhalb des Netzes der Universität Mannheim mit dem VPN-Client. Bitte beachten Sie, dass Sie bei der Anmeldung am VPN-Client die Gruppe „WebVPN“ auswählen. Mit „WebVPN-Split“ haben Sie keinen Zugriff auf lizenzierte elektronische Medien.
+- Außerhalb des Netzes der Universität Mannheim über [Shibboleth](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/) – diese Funktion steht nicht für alle elektronischen Medien zur Verfügung.
 
-Einige digitale Medien sind nur auf dem Campus zugänglich.
+Einige digitale Medien können nur auf dem Campus der Universität Mannheim genutzt werden.
 
 ### Fernzugriff auf beck-online
 
-Wissenschaftliches Personal der Universität Mannheim kann einen persönlichen Account für den Fernzugriff auf [beck-online](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/beck-online_Remote_Antrag-2024.pdf) beantragen. Studierende können die Datenbank ebenfalls von außerhalb des Campus nutzen.
+Wissenschaftliches Personal der Universität Mannheim kann einen persönlichen Account mit Fernzugriff auf beck-online erhalten. Den Antrag finden Sie [hier (PDF, 117 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/beck-online_Remote_Antrag-2024.pdf).
 
-## Fernzugriff einrichten
+**Studierende der Universität Mannheim** können die Datenbank beck-online auch von außerhalb des Campus nutzen.
 
-Um den Fernzugriff auf beck-online einzurichten, müssen Sie sich zunächst auf dem Campus registrieren. Nutzen Sie Ihre universitäre E-Mail-Adresse und aktivieren Sie die Zwei-Faktor-Authentifizierung. Eine Anleitung finden Sie auf der [beck-online Website](https://rsw.beck.de/beck-online-service/services/studenten/studenten-2fa).
+---
 
-## Nutzung des Fernzugriffs
+## Fernzugriff einrichten und nutzen
 
-Beim Einloggen außerhalb des Campus werden Sie nach Ihrem Benutzernamen und Passwort sowie einem Sicherheitscode gefragt, den Ihre Authentifizierungs-App generiert. Bei Zugriffsproblemen wenden Sie sich bitte an [e-medien.ub@uni-mannheim.de](mailto:e-medien.ub@uni-mannheim.de).
+Um den Fernzugriff einzurichten, müssen Sie sich auf dem Campus befinden. Registrieren Sie sich kostenlos bei beck-online mit Ihrer universitären E-Mail-Adresse und aktivieren Sie in Ihrem beck-online-Account die Zwei-Faktor-Authentifizierung. Sie benötigen eine Authentifizierungs-App Ihrer Wahl für PC/Mac oder Smartphone.
 
-Studierende kooperierender Einrichtungen und Privatpersonen mit Bibliotheksausweis können die meisten lizenzierten E-Medien nur an den PCs der Universitätsbibliothek nutzen. Ein Zugriff von außerhalb ist nicht möglich.
+Eine Anleitung finden Sie auf der Website von [beck-online](https://rsw.beck.de/beck-online-service/services/studenten/studenten-2fa).
+
+Beim Einloggen außerhalb des Campus werden Sie nach Benutzernamen und Passwort zusätzlich um die Eingabe eines Sicherheitscodes gebeten, den Ihre Authentifizierungs-App generiert.
+
+Bei Zugriffsproblemen wenden Sie sich bitte an: e-medien.ub@uni-mannheim.de.
+
+---
+
+## Nutzung für weitere Nutzergruppen
+
+**Studierende kooperierender Einrichtungen** und **Privatpersonen mit Bibliotheksausweis** können nur an den PCs der Universitätsbibliothek auf die meisten lizenzierten E-Medien zugreifen. Ein Zugriff von außerhalb ist nicht möglich, da die Lizenzverträge dies nicht erlauben.
+
+Weitere Informationen zur Nutzung von eduroam und VPN-Client der Universität Mannheim finden Sie bei der [Universitäts-IT](https://www.uni-mannheim.de/it/anleitungen/wlan/) und [VPN-Client Anleitung](https://www.uni-mannheim.de/it/anleitungen/vpn/).
+
+---
 
 ## Nutzungsbedingungen
 
-Ihre Zugangsdaten sind vertraulich und dürfen nicht weitergegeben werden. Lizenzierte Inhalte dürfen nur für persönliche oder Forschungszwecke gespeichert und ausgedruckt werden. Die Nutzung unterliegt dem [Urheberrecht](https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/). Beachten Sie die spezifischen Nutzungsbedingungen der Verlage.
+- Persönliche Zugangsdaten dürfen nicht an Dritte weitergegeben werden.
+- Lizenzierte Inhalte dürfen nur zum persönlichen Gebrauch oder zu Forschungszwecken gespeichert und ausgedruckt werden.
+- Die Nutzung der E-Medien unterliegt dem [Urheberrecht](https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/) sowie den Nutzungsbedingungen der Verlage und Anbieter.
+- Technische Schutzmechanismen dürfen nicht umgangen werden.
+- Systematischer Download ist nur im Rahmen des Urheberrechts und mit den vorgesehenen Funktionen erlaubt.
+- Lizenzierte Inhalte dürfen weder elektronisch noch in gedruckter Form an Dritte weitergegeben oder in Systeme Dritter (z. B. ChatGPT) eingespeist werden.
 
-Der technische Schutzmechanismus eines Verlages darf nicht umgangen werden. Der systematische Download von lizenzierten Inhalten ist nur im Rahmen des Urheberrechts und mit den vorgesehenen Funktionen zulässig. Inhalte dürfen nicht an Dritte weitergegeben oder in Systeme Dritter (z.B. ChatGPT) eingespeist werden.
+Bei Fragen oder Problemen hilft das Team E-Medien gerne weiter: e-medien.ub@uni-mannheim.de.
 
-Bei Fragen oder Problemen steht Ihnen das Team E-Medien gerne zur Verfügung. Kontaktieren Sie uns unter [e-medien.ub@uni-mannheim.de](mailto:e-medien.ub@uni-mannheim.de).
+---
 
 ## Probleme beim Zugriff auf E-Medien?
 
-- **Universitätsangehörige**: Überprüfen Sie, ob Sie sich im Netz der Universität Mannheim befinden (VPN, eduroam).
-- **Externe Nutzer**: Lizenzierte E-Medien sind nur an den PCs in der Universitätsbibliothek zugänglich.
-- **Browser-Probleme**: Versuchen Sie es mit einem anderen Browser oder im privaten Modus.
-- **Datenschutzeinstellungen**: Überprüfen Sie Ihre Einstellungen, da Tracking-Schutz den Zugriff verhindern kann.
-
-Für weitere Informationen zur Nutzung von eduroam besuchen Sie die [Universitäts-IT](https://www.uni-mannheim.de/it/anleitungen/wlan/) und installieren Sie den [VPN-Client](https://www.uni-mannheim.de/it/anleitungen/vpn/).
+- Gehören Sie der Universität Mannheim an? Prüfen Sie, ob Sie sich im Netz der Universität Mannheim befinden (VPN, eduroam).
+- Wenn Sie nicht der Universität Mannheim angehören, können Sie lizenzierte E-Medien nur an den PCs in den Räumen der Universitätsbibliothek nutzen.
+- Versuchen Sie es mit einem anderen Browser oder öffnen Sie ein privates Browserfenster.
+- Prüfen Sie Ihre Datenschutzeinstellungen. Tracking-Schutz („Bounce Tracking Protection“) kann verhindern, dass Sie als Angehörige*r der Universität Mannheim erkannt werden.

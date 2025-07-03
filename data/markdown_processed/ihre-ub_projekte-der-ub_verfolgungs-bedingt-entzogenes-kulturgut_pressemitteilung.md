@@ -1,48 +1,61 @@
-```yaml
+---
 title: Auf der Suche nach NS-Raubgut: Universitätsbibliothek Mannheim erhält Förderung für Provenienzforschung
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/pressemitteilung/
-tags: [Provenienzforschung, NS-Raubgut, Universitätsbibliothek Mannheim]
+category: Projekte
+tags: [Provenienzforschung, NS-Raubgut, Universitätsbibliothek Mannheim, Kulturgut, Förderung, Deutsche Zentrum für Kulturgutverluste]
 language: de
-```
+---
 
 # Förderung für Provenienzforschung an der Universitätsbibliothek Mannheim
 
-Die [Universität Mannheim](https://www.uni-mannheim.de) hat eine Förderung von über 75.000 Euro für das Projekt „Verfolgungsbedingt entzogenes Kulturgut im Bestand der Universitätsbibliothek Mannheim“ erhalten. Ziel des Projekts ist es, NS-Raubgut aus den historischen Buchbeständen der Universitätsbibliothek zu erfassen, sichtbar zu machen und, sofern möglich, zurückzugeben.
+Die Universität Mannheim erhält eine Förderung von über 75.000 Euro für das Projekt [„Verfolgungsbedingt entzogenes Kulturgut im Bestand der Universitätsbibliothek Mannheim“](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/pressemitteilung/). Ziel des Projekts ist es, NS-Raubgut aus den historischen Buchbeständen der Universitätsbibliothek zu erfassen, sichtbar zu machen und sofern möglich zurückzugeben.
 
-## Hintergrund der Provenienzforschung
+[Pressemitteilung vom 12. Februar 2024](https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/Pressemitteilungen/Pressemitteilungen__2024/02_12_NS_Raubgut.pdf)
 
-Mit der Machtübernahme der NSDAP im Jahr 1933 begannen die Nationalsozialisten, unliebsame Organisationen und Privatpersonen, insbesondere jüdische Bürger*innen, ihrer Rechte zu berauben. Im Zuge der Verfolgung und Vernichtung bereicherte sich der NS-Staat auch an deren Eigentum, einschließlich ihrer Bücher. 
+---
 
-Die Universitätsbibliothek Mannheim hat eine lange Geschichte, die bis ins 19. Jahrhundert zurückreicht. Sie vereinte Teile der Hofbibliothek der Wittelsbacher mit Schenkungen aus Privat- und Vereinsbibliotheken. 1921 entstand die 70.000 Bände umfassende Städtische Schlossbücherei, die 1954 in die Wissenschaftliche Stadtbibliothek überführt und 1971 an die Universitätsbibliothek Mannheim geschenkt wurde.
+# Historischer Hintergrund der Bestände
 
-## Projektziele und Zusammenarbeit
+Mit der Machtübernahme der NSDAP im Jahr 1933 begannen die Nationalsozialisten, insbesondere jüdische Bürger*innen, ihrer Rechte zu berauben. Im Zuge der Verfolgung und Vernichtung von Menschen bereicherte sich der NS-Staat auch an deren Eigentum – einschließlich ihrer Bücher.
 
-Im nun startenden Projekt untersucht die Universitätsbibliothek systematisch die Bestände der Städtischen Schlossbücherei nach Kulturgut, das jüdischen Mitbürger*innen während der NS-Zeit entzogen wurde. Verdachtsfälle sollen erfasst, sichtbar gemacht und möglichst zurückgegeben werden. 
+Bereits Ende des 19. Jahrhunderts entstand in Mannheim eine öffentliche Bibliothek, die Teile der in der Kurpfalz verbliebenen Hofbibliothek der Wittelsbacher mit Schenkungen aus Privat- und Vereinsbibliotheken vereinte. Aus diesem Bestand ging 1921 die 70.000 Bände umfassende Städtische Schlossbücherei hervor, die im Bibliothekssaal des Mannheimer Schlosses untergebracht war.
 
-Das Projekt wird in Zusammenarbeit mit Dr. Sandra Eichfelder vom Universitätsarchiv durchgeführt, während die wissenschaftliche Betreuung von Prof. Dr. Hiram Kümper vom Historischen Institut der Universität Mannheim übernommen wird. Viktor Boecking leitet das Projekt von Seiten der Universitätsbibliothek.
+Im Jahr 1954 wurde dieser öffentliche Bestand in die Wissenschaftliche Stadtbibliothek überführt und gelangte 1971 durch eine Schenkung in den Besitz der Universitätsbibliothek Mannheim. Zum Zeitpunkt dieser Schenkung war der Bestand der Wissenschaftlichen Stadtbibliothek auf etwa 240.000 Titel angewachsen.
 
-## Förderung und Unterstützung
+---
 
-Das Projekt wird durch das Deutsche Zentrum für Kulturgutverluste mit Sitz in Magdeburg gefördert. In der zweiten Förderrunde 2023 wurden insgesamt rund 1,9 Millionen Euro für Provenienzforschung im Bereich „NS-verfolgungsbedingt entzogenes Kulturgut“ bewilligt. Die Stiftung unterstützt Einrichtungen finanziell, um beispielsweise Museums- oder Bibliotheksbestände auf NS-Raubgut hin zu untersuchen oder verlorene Sammlungen verfolgter jüdischer Bürger*innen zu rekonstruieren und zu restituiert.
+# Projektbeschreibung und Zusammenarbeit
 
-## Kontaktinformationen
+Im nun startenden Projekt untersucht die Universitätsbibliothek Mannheim systematisch die Bestände der Städtischen Schlossbücherei nach Kulturgut, das jüdischen Mitbürger*innen während der NS-Zeit entzogen wurde. Die Verdachtsfälle sollen erfasst, sichtbar gemacht und möglichst zurückgegeben werden.
 
-Für weitere Informationen stehen folgende Ansprechpartner zur Verfügung:
+Die Universitätsbibliothek führt das Projekt in Zusammenarbeit mit Dr. Sandra Eichfelder vom [Universitätsarchiv](https://www.uni-mannheim.de/universitaetsarchiv/) durch. Die wissenschaftliche Betreuung übernimmt Prof. Dr. Hiram Kümper vom Historischen Institut der Universität Mannheim. Viktor Boecking leitet das Projekt von Seiten der Universitätsbibliothek.
 
-- **Viktor Boecking**  
-  Leitung Abteilung Kommunikation und Fachreferat Geschichte  
-  Universitätsbibliothek Mannheim  
-  Tel.: +49 621 181-2938  
-  E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
+---
 
-- **Prof. Dr. Hiram Kümper**  
-  Carl-Theodor-Professur für Geschichte des Spätmittelalters und der frühen Neuzeit  
-  Universität Mannheim  
-  Tel.: +49 621 181-1330  
-  E-Mail: [hiram.kuemper@uni-mannheim.de](mailto:hiram.kuemper@uni-mannheim.de)
+# Förderung und Bedeutung
 
-- **Dr. Sandra Eichfelder**  
-  Geschäftsführerin Universitätsarchiv  
-  Universität Mannheim  
-  Tel.: +49 621 181-2140  
-  E-Mail: [archiv@mail.uni-mannheim.de](mailto:archiv@mail.uni-mannheim.de)
+Gefördert wird das Projekt durch das Deutsche Zentrum für Kulturgutverluste mit Sitz in Magdeburg. In der zweiten Förderrunde 2023 wurden insgesamt rund 1,9 Millionen Euro für Provenienzforschung im Bereich „NS-verfolgungsbedingt entzogenes Kulturgut“ bewilligt.
+
+Die Stiftung unterstützt Einrichtungen finanziell, damit beispielsweise Museums- oder Bibliotheksbestände auf NS-Raubgut hin untersucht oder verlorene Sammlungen verfolgter jüdischer Bürger*innen rekonstruiert und restituiert werden können. Das Projekt der Universitätsbibliothek Mannheim ist eines von insgesamt 18 geförderten Forschungsprojekten.
+
+---
+
+# Kontaktinformationen
+
+**Viktor Boecking**  
+Leitung Abteilung Kommunikation und Fachreferat Geschichte  
+Universitätsbibliothek Mannheim  
+Tel.: +49 621 181-2938  
+E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
+
+**Prof. Dr. Hiram Kümper**  
+Carl-Theodor-Professur für Geschichte des Spätmittelalters und der frühen Neuzeit  
+Universität Mannheim  
+Tel.: +49 621 181-1330  
+E-Mail: [hiram.kuemper@uni-mannheim.de](mailto:hiram.kuemper@uni-mannheim.de)
+
+**Dr. Sandra Eichfelder**  
+Geschäftsführerin Universitätsarchiv  
+Universität Mannheim  
+Tel.: +49 621 181-2140  
+E-Mail: [archiv@mail.uni-mannheim.de](mailto:archiv@mail.uni-mannheim.de)

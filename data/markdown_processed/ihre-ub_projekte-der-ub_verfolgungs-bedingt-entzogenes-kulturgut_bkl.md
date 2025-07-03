@@ -1,42 +1,57 @@
-```yaml
+---
 title: Bernhard-Kahn-Lesehalle
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/bkl/
-tags: [Provenienzforschung, NS-Zeit, Bibliotheken, Kulturgeschichte]
+category: Projekte
+tags: [Bernhard-Kahn-Lesehalle, Provenienzforschung, NS-verfolgungsbedingt entzogenes Kulturgut, Volksbücherei, Mannheim, Bibliotheksgeschichte, Nationalsozialismus, Bücherverbrennung, Freimaurerei]
 language: de
-```
+---
 
 # Bernhard-Kahn-Lesehalle
 
-Die [Bernhard-Kahn-Lesehalle](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/bkl/) in Mannheim wurde nur wenige Tage vor den Novemberpogromen 1938 eröffnet. Diese Bibliothek, die an der Ecke Lortzingstraße/Mittelstraße liegt, hatte bereits seit 1907 bestanden und war ein kulturelles Zentrum für die Neckarstadt West, die überwiegend von Arbeitern bewohnt war. 
+Nur wenige Tage vor den Novemberpogromen 1938 in Mannheim wurde die Zweigstelle der Volksbücherei in der Neckarstadt West eröffnet. An der Ecke Lortzingstraße/Mittelstraße befand sich eine Bibliothek, die bereits seit 1907 bestand. Die Bernhard-Kahn-Lesehalle war im späten Kaiserreich und der Weimarer Republik ein kulturelles Zentrum für die überwiegend von Arbeitern bewohnte Neckarstadt West. Bücher aus dieser Lesehalle in den Beständen der Universitätsbibliothek Mannheim sind erste Beispiele für Funde aus dem Projekt Provenienzforschung und NS-verfolgungsbedingt entzogenen Kulturguts.
 
 ## Die Lesehalle in der Neckarstadt-West
 
-Die Lesehalle wurde 1907 von Emma Kahn in Erinnerung an ihren Mann gestiftet und vom Verein für Volksbildung betrieben. Kahn war ein erfolgreicher Unternehmer und Kommunalpolitiker. Die Bibliothek bot Zugang zu Sachbüchern und Belletristik und ergänzte die Volksbücherei im Herschelbad. Mit einem umfangreichen Freihandbestand und zahlreichen Zeitungen war sie ein Ausdruck des Bildungsoptimismus der Bücherhallenbewegung.
+Die Lesehalle wurde 1907 von Emma Kahn zum Andenken an ihren Mann gestiftet und vom Verein für Volksbildung betrieben. Bernhard Kahn war Unternehmer, Bankier und Kommunalpolitiker in Mannheim und den USA. Die Lesehalle ermöglichte den Zugang zu Sachbüchern und Belletristik vor Ort und ergänzte die Volksbücherei im Herschelbad. Mit zahlreichen Zeitungen und einem umfangreichen Freihandbestand war sie eine moderne Volksbücherei und Ausdruck des Bildungsoptimismus der Bücherhallenbewegung.
 
-In den 1920er-Jahren wurde die Volksbildung in Mannheim zunehmend von der Stadt getragen. 1922 übernahm die Stadt die Volksbücherei, während die Bernhard-Kahn-Lesehalle noch länger unabhängig blieb. Dank mehrerer Zustiftungen, insbesondere von Bernhard Kahns Sohn Otto, konnte die Bibliothek mehrfach erneuert werden. Die Nutzung der Bibliothek stieg während der Weltwirtschaftskrise ab 1930 stark an, da viele arbeitslose Bürger die Bibliothek als Rückzugsort nutzten.
+Bis in die 1920er Jahre wurde die Volksbildung in Mannheim vor allem von bürgerlichen Stiftungen getragen. Nach dem Ersten Weltkrieg kam es zu einer zunehmenden Kommunalisierung. 1922 übernahm die Stadt die Volksbücherei, die Bernhard-Kahn-Lesehalle blieb zunächst selbständig. Durch Zustiftungen, insbesondere von Bernhard Kahns Sohn Otto, wurde die Bibliothek mehrfach erneuert und erweitert. Eine grundlegende Renovierung erfolgte 1927.
+
+Während der Weltwirtschaftskrise ab 1930 wurden die öffentlichen Bibliotheken intensiv genutzt. Arbeitslose konnten hier Zeit mit Lesen verbringen und sich aufwärmen. Über 40 % der Nutzer*innen waren erwerbslos. Es bestand eine enge Zusammenarbeit mit anderen Volksbildungseinrichtungen, etwa der Volkshochschule unter Paul Eppstein, die Ausbildungs­kurse für arbeitslose Jugendliche in der Lesehalle anbot.
 
 ## Erkenntnisse der Provenienzforschung
 
-Ein Beispiel für die Provenienzforschung ist das Buch „Der Bund der Freimaurer“ von [August Horneffer](https://de.wikipedia.org/wiki/August_Horneffer). Dieses Werk, das 1913 veröffentlicht wurde, bietet einen Überblick über die Freimaurerei und war für ein Laienpublikum gedacht. Obwohl Horneffer kein Gegner des Nationalsozialismus war, wurde die Freimaurerei unter Hitler verfolgt. 
+Ein exemplarisches Buch aus der Universitätsbibliothek ist „Der Bund der Freimaurer“ von August Horneffer (1913). Horneffer war Freimaurer, Autor und Publizist. Obwohl er kein Gegner des Nationalsozialismus war, wurden Freimaurerei und Logen unter Hitler verboten und verfolgt. Logenbibliotheken wurden beschlagnahmt und teilweise wissenschaftlichen Bibliotheken zugeführt.
 
-Das Buch stammt aus der Bernhard-Kahn-Lesehalle, was durch ein großes Ex-Libris im Inneren des Buches belegt ist. Es trägt auch den Stempel der städtischen Schlossbücherei, was darauf hinweist, dass es in den Bestand der Universitätsbibliothek Mannheim gelangte.
+Das Buch stammt aus der Bernhard-Kahn-Lesehalle, wie ein großes Exlibris im Buch zeigt. Es trägt zudem den Stempel der städtischen Schlossbücherei mit Inventarnummer und Signatur. Die heutige Standortsignatur der Universitätsbibliothek lautet XD 0544, was auf die Herkunft aus der Schlossbibliothek hinweist.
 
 ## Die Gleichschaltung der städtischen Bibliotheken in Mannheim
 
-Mit der Machtergreifung der Nationalsozialisten begann die Gleichschaltung des Volksbüchereiwesens. Der Verein für Volksbildung, der die Bernhard-Kahn-Lesehalle betrieb, wurde aufgelöst, und die Bibliothek wurde der Städtischen Volksbücherei angegliedert. Die Umbenennung in Volkslesehalle sollte die Spuren des jüdischen Stifters verwischen. 
+Nach der Machtergreifung der Nationalsozialisten begann die Gleichschaltung des Volksbüchereiwesens. Der Verein für Volksbildung wurde aufgelöst, die Bernhard-Kahn-Lesehalle der Städtischen Volksbücherei angegliedert und in Volkslesehalle umbenannt. Spuren des jüdischen Stifters sollten verwischt werden. Nach einer kurzen Leitung durch Walter Thoms blieb die Bücherei einige Jahre geschlossen.
 
-Nach der Übernahme blieb die Bibliothek zunächst ungenutzt und wurde 1938 wiedereröffnet. In dieser Zeit fand eine ideologische Säuberung des Bestandes statt, und es wurden systematische Aussonderungen „unerwünschter Literatur“ durchgeführt. Viele Bücher wurden vernichtet, während einige in wissenschaftliche Bibliotheken überführt wurden.
+Mit der Wiedereröffnung 1938 erfolgte eine ideologische Säuberung des Buchbestandes. Seit 1933 wurden unerwünschte Literatur, darunter sozialistische, jüdische und freimaurerische Werke, aus öffentlichen Bibliotheken entfernt. Eine reichsweit gültige Liste schädlicher Schriften wurde 1939 erstellt. Von 283.000 Bänden 1934 waren 1936 nur noch 177.392 vorhanden. Viele Bände wurden vernichtet, einige an wissenschaftliche Bibliotheken abgegeben.
 
 ## Zusammenfassung
 
-In der ersten Hälfte des Jahres 1939 gelangten neben jüdischen und sozialistischen Titeln auch freimaurerische Werke in den Bestand der Schlossbibliothek. Die Provenienzforschung zu diesen Büchern eröffnet Einblicke in die Zensurpraktiken und die Gleichschaltung der Bibliotheken. 
+Im Jahr 1939 gelangten neben jüdischen und sozialistischen Titeln auch freimaurerische Werke aus der Bernhard-Kahn-Lesehalle in den Bestand der Schlossbibliothek, z. B. „Deutsche Freimaurer zur Zeit der Befreiungskriege“ (1913) von Julius Haarhaus. Der Bestand umfasst auch zahlreiche französischsprachige Bücher.
 
-Die Geschichte der Bernhard-Kahn-Lesehalle lenkt den Blick auf historische Persönlichkeiten wie [Elisabeth Jacobi](https://de.wikipedia.org/wiki/Elisabeth_Jacobi), die nach der Machtübernahme in den Ruhestand versetzt wurde, und [Paul Eppstein](https://de.wikipedia.org/wiki/Paul_Eppstein), der 1933 entlassen wurde und 1944 im Ghetto Theresienstadt starb.
+Die Provenienzforschung erschließt historisches Wissen über Aussonderungs- und Zensurpraktiken, die eine ideologisch einwandfreie Volksbibliothek im Dienst nationalsozialistischer Propaganda schaffen sollten. Die Gleichschaltung betraf auch die Bibliotheken selbst, ihre Namen und Organisationen.
+
+Historische Personen wie Elisabeth Jacobi, Leiterin der Städtischen Volksbüchereien, die 1937 in den Ruhestand versetzt wurde, und Paul Eppstein, Leiter der Volkshochschule, die 1933 entlassen wurde und 1944 im Ghetto Terezín starb, werden durch die Forschung in den Blick gerückt.
 
 ## Quellen & Literatur
 
-- Barbian, Jan-Pieter. „Bibliothekswesen“. In *Geschichte des deutschen Buchhandels im 19. und 20. Jahrhundert*, Bd. 3: Drittes Reich, Berlin: De Gruyter, 2023, S. 713–764.
-- Bleeck, Klaus. „Von der ‚Zersplitterung‘ zur Einheit“. In *Stadt und Bibliothek*, hg. v. Jörg Fligge und Wolfenbütteler Arbeitskreis für Bibliotheksgeschichte, Wiesbaden: Harrassowitz, 1997, S. 231–96.
-- [Förderverein der Bernhard Kahn Bücherei Mannheim-Neckarstadt](http://www.bernhard-kahn-buecherei.de/).
-- MArchivum, Zeitungs­sammlung, Hakenkreuzbanner.
-- Wendling, Willi. *Die Mannheimer Städtische Volks- und Musikbücherei, 1895 – 1961*. Mannheimer Großdruckerei, 1961.
+- Barbian, Jan-Pieter. „Bibliothekswesen“. In: Geschichte des deutschen Buchhandels im 19. und 20. Jahrhundert, hg. v. Ernst Fischer und Reinhard Wittmann, Bd. 3: Drittes Reich, Berlin: De Gruyter, 2023, S. 713–764.
+- Bleeck, Klaus. „Von der ‚Zersplitterung‘ zur Einheit. Entwicklungstendenzen der Bibliotheken der Stadt Mannheim in der Zeit der Weimarer Republik“. In: Stadt und Bibliothek: Literaturversorgung als kommunale Aufgabe im Kaiserreich und in der Weimarer Republik, hg. v. Jörg Fligge und Wolfenbütteler Arbeitskreis für Bibliotheksgeschichte, Wiesbaden: Harrassowitz, 1997, S. 231–296.
+- [Förderverein der Bernhard Kahn Bücherei Mannheim-Neckarstadt](http://www.bernhard-kahn-buecherei.de/)
+- [MArchivum, Zeitungssammlung, Hakenkreuzbanner](https://druckschriften-digital.marchivum.de/zd/periodical/titleinfo/420689)
+- MArchivum, Akten aus den Beständen: 21/1968; 13/1977; 10/1971
+- Wendling, Willi. *Die Mannheimer Städtische Volks- und Musikbücherei, 1895 – 1961: zur Eröffnung der Neuen Hauptstelle im Dalberghaus*. Mannheimer Großdruckerei, 1961.
+
+---
+
+**Verlinkungen:**
+
+- [August Horneffer (Wikipedia)](https://de.wikipedia.org/wiki/August_Horneffer)
+- [Elisabeth Jacobi (Wikipedia)](https://de.wikipedia.org/wiki/Elisabeth_Jacobi)
+- [Paul Eppstein (Wikipedia)](https://de.wikipedia.org/wiki/Paul_Eppstein)
+- [Deutsche Freimaurer zur Zeit der Befreiungskriege (Primo-Katalog UB Mannheim)](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21107617210002561)

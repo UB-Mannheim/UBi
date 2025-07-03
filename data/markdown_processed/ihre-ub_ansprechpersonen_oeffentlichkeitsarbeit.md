@@ -1,38 +1,35 @@
-```yaml
-title: Öffentlichkeitsarbeit an der Universität Mannheim
+---
+title: Öffentlichkeitsarbeit der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/
-tags: [Öffentlichkeitsarbeit, Kommunikation, Universität Mannheim]
+category: Services
+tags: [Öffentlichkeitsarbeit, Kommunikation, Universitätsbibliothek Mannheim, Ansprechpartner, E-Learning, historische Sammlungen, Webredaktion]
 language: de
-```
+---
 
-# Öffentlichkeitsarbeit an der Universität Mannheim
+# Öffentlichkeitsarbeit der Universitätsbibliothek Mannheim
 
-Die Abteilung für Öffentlichkeitsarbeit der Universität Mannheim ist verantwortlich für die Kommunikation und die Pflege der Beziehungen zur Öffentlichkeit. Hier sind die Hauptansprechpartner und ihre Aufgaben.
+## Viktor Boecking, M.A. (er/ihn)  
+Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
 
-## Viktor Boecking, M.A. (er/ihn)
+**Aufgaben:**  
+- Kommunikation und Öffentlichkeitsarbeit  
+- Fachliche Beratung bei Recherchefragen  
+- Durchführung von Schulungen im Fachbereich  
+- Betreuung der historischen Sammlungen  
+- Konzipierung von Ausstellungen  
+- Betreuung des Bereichs E-Learning  
 
-[Leiter der Abteilung Kommunikation](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/viktor-boecking/) | Fachreferent für Geschichte | E-Learning
+**Kontakt:**  
+Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim  
+Telefon: +49 621 181-2938  
+E-Mail: [kommunikation.ub@uni-mannheim.de](mailto:kommunikation.ub@uni-mannheim.de)  
 
-### Aufgaben
-- Kommunikation und Öffentlichkeitsarbeit
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
-- Betreuung der historischen Sammlungen
-- Konzipierung von Ausstellungen
-- Betreuung des Bereichs E-Learning
+---
 
-### Kontaktinformationen
-- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-- **Telefon:** +49 621 181-2938
-- **E-Mail:** [kommunikation.ub@uni-mannheim.de](mailto:kommunikation.ub@uni-mannheim.de)
+## Christina Schüßler, M.A.  
+Kommunikation | Webredaktion  
 
-## Christina Schüßler, M.A.
-
-Kommunikation | Webredaktion
-
-### Kontaktinformationen
-- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-- **Telefon:** +49 621 181-2935
-- **E-Mail:** [kommunikation.ub@uni-mannheim.de](mailto:kommunikation.ub@uni-mannheim.de)
-
-Die Abteilung bietet umfassende Unterstützung in der Kommunikation und ist ein zentraler Ansprechpartner für alle Belange der Öffentlichkeitsarbeit an der UB der Universität Mannheim.
+**Kontakt:**  
+Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 275, 68161 Mannheim  
+Telefon: +49 621 181-2935  
+E-Mail: [kommunikation.ub@uni-mannheim.de](mailto:kommunikation.ub@uni-mannheim.de)

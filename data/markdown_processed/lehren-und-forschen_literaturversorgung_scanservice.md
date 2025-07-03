@@ -1,23 +1,22 @@
-```yaml
-title: Scanservice der Universität Mannheim
+---
+title: Scanservice der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/scanservice/
-tags: [Scanservice, Universität Mannheim, Bibliothek, wissenschaftliche Arbeiten]
+category: Services
+tags: [Scanservice, Literaturversorgung, Universitätsbibliothek Mannheim, Primo, wissenschaftliche Arbeit, Aufsatzlieferung, Buchkapitel]
 language: de
-```
+---
 
-# Scanservice der Universität Mannheim
+# Scanservice der Universitätsbibliothek Mannheim
 
-Mitglieder der Universität Mannheim können im Katalog [Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) die Option „Scanauftrag“ nutzen. 
+## Nutzung des Scanservice für Mitglieder der Universität Mannheim
 
-## Dienstleistungen
+Mitglieder der Universität Mannheim können im Katalog [Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) die Option „Scanauftrag“ nutzen. Der Service liefert einzelne Aufsätze aus Fach- und wissenschaftlichen Zeitschriften sowie einzelne Kapitel aus Büchern für die eigene wissenschaftliche Arbeit. Von Büchern werden bis zu 10 Prozent des Werks gescannt.
 
-Wir liefern Ihnen zeitnah einzelne Aufsätze aus Fachzeitschriften oder wissenschaftlichen Zeitschriften sowie Kapitel aus Büchern für Ihre wissenschaftliche Arbeit. Bei Büchern können wir bis zu 10 Prozent des Werks scannen. Die PDF-Datei wird innerhalb von 72 Stunden an Ihre universitäre E-Mail-Adresse gesendet. Bitte beachten Sie, dass elektronisch verfügbare Publikationen vom Scanservice ausgeschlossen sind.
+Die gescannten Dokumente werden als PDF-Datei innerhalb von 72 Stunden an die universitäre E-Mail-Adresse gesendet. Elektronisch verfügbare Publikationen sind vom Scanservice ausgeschlossen.
 
 ## So geben Sie einen Scanauftrag auf
 
-Um einen Scanauftrag aufzugeben, müssen Sie sich in Ihrem Bibliothekskonto anmelden. Suchen Sie das gewünschte Buch oder die Zeitschrift im Katalog Primo. 
+Um einen Scanauftrag zu erteilen, müssen Sie in Ihrem Bibliothekskonto angemeldet sein. Suchen Sie das gewünschte Buch oder die Zeitschrift im Katalog [Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
-- **Für Bücher:** In der Einzelansicht finden Sie im Abschnitt „Standorte/Bestellen“ den Link „Scanauftrag“.
-- **Für Zeitschriften:** Wählen Sie unter „Standorte/Bestellen“ zunächst den Standort und den Jahrgang aus, bevor Sie auf „Scanauftrag“ klicken.
-
-Nutzen Sie den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) für Ihre Anfragen.
+- Bei Büchern finden Sie in der Einzelansicht im Abschnitt „Standorte/Bestellen“ den Link „Scanauftrag“.
+- Bei Zeitschriften wählen Sie unter „Standorte/Bestellen“ zuerst den Standort und den Jahrgang aus und klicken anschließend auf „Scanauftrag“.

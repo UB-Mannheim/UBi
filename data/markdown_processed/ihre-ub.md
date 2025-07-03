@@ -1,43 +1,43 @@
-```yaml
-title: Ihre Universitätsbibliothek
+---
+title: Ihre Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/
-tags: [Universitätsbibliothek, Mannheim, Stellenangebote, Projekte, Veranstaltungen]
+category: Services
+tags: [Universitätsbibliothek Mannheim, Stellenangebote, Projekte, Ausstellungen, Kontakt, Bibliotheksprofil, Publikationen, Rechtliche Grundlagen]
 language: de
-```
+---
 
-# Ihre Universitätsbibliothek
+# Ihre Universitätsbibliothek Mannheim
 
-Wichtiges und Interessantes aus Ihrer Universitätsbibliothek: Informieren Sie sich über [Stellenangebote](#stellenangebote-und-ausbildung), erfahren Sie alles zu [Projekten](#projekte-der-ub) und [Ausstellungen](#ausstellungen-und-veranstaltungen) der UB, oder finden Sie die [Ansprechperson](#ansprechpersonen) für Ihr Fach und spezielle Fragen.
+Wichtiges und Interessantes aus Ihrer [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/): Informieren Sie sich über Stellenangebote, erfahren Sie alles zu Projekten und Ausstellungen der UB, oder finden Sie die Ansprechperson für Ihr Fach und für spezielle Fragen.
 
 ## Aktuelles
 
-Bleiben Sie auf dem Laufenden mit den neuesten Informationen aus der Universitätsbibliothek. Wir freuen uns über Ihre Kommentare und Anregungen.
+Neuigkeiten aus der [Universitätsbibliothek](https://blog.bib.uni-mannheim.de/Aktuelles/) – wir halten Sie auf dem Laufenden und freuen uns über Ihre Kommentare.
 
 ## Stellenangebote und Ausbildung
 
-Interessieren Sie sich für Wissen und Medien, Daten und Digitales? Hier finden Sie passende [Stellenangebote](#stellenangebote-und-ausbildung) und Ausbildungsmöglichkeiten in der UB.
+Sie interessieren sich für Wissen und Medien, Daten und Digitales? Finden Sie passende [Stellenangebote und Ausbildungsmöglichkeiten](https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/) in der UB.
 
 ## Ansprechpersonen
 
-Ihr Kontakt zur UB: Hier finden Sie die [Ansprechpersonen](#ansprechpersonen) für verschiedene Fachbereiche und spezielle Fragen.
+Ihr [Kontakt zur UB](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/).
 
 ## Bibliotheksprofil
 
-Erhalten Sie einen Überblick über die [Bibliotheksprofil](#bibliotheksprofil) der UB, einschließlich Zahlen, Fakten und einem Einblick in die Geschichte der Bibliothek.
+Zahlen und Fakten oder ein Einblick in die Geschichte der UB – hier finden Sie die [Eckdaten in Kürze](https://www.bib.uni-mannheim.de/ihre-ub/bibliotheksprofil/).
 
 ## Ausstellungen und Veranstaltungen
 
-Entdecken Sie eine Übersicht über aktuelle und frühere [Ausstellungen und Veranstaltungen](#ausstellungen-und-veranstaltungen) der UB.
+Eine Übersicht aktueller und früherer [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/) der UB.
 
 ## Projekte der UB
 
-Informieren Sie sich über laufende und abgeschlossene [Projekte](#projekte-der-ub) der UB Mannheim, die durch verschiedene Forschungsförderer ermöglicht wurden.
+Laufende und abgeschlossene [Projekte der UB Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/), ermöglicht durch Projektmittel verschiedener Forschungsförderer.
 
 ## Publikationen
 
-Hier finden Sie die [Publikationen](#publikationen) von Mitarbeiterinnen und Mitarbeitern der UB Mannheim.
+Publikationen von Mitarbeiterinnen und Mitarbeitern der [UB Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/publikationen/).
 
 ## Rechtliche Grundlagen
 
-Lesen Sie die [rechtlichen Grundlagen](#rechtliche-grundlagen) wie die Benutzungsordnung der UB und die Bibliotheksgebührenordnung.
-```
+Die [Benutzungsordnung](https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/) der UB, die Bibliotheksgebührenordnung und weitere rechtliche Grundlagen.

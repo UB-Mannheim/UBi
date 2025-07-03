@@ -1,51 +1,40 @@
-```yaml
-title: Öffnungszeiten der Bibliothek Mannheim
+---
+title: Öffnungszeiten der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/oeffnungszeiten/
-tags: [Öffnungszeiten, Bibliothek, Mannheim]
+category: Öffnungszeiten
+tags: [Öffnungszeiten, Ausleihzentrum, InfoCenter, Bibliotheksbereiche, Rückgabeanlage]
 language: de
-```
+---
 
-# Öffnungszeiten der Bibliothek Mannheim
+# Öffnungszeiten der Universitätsbibliothek Mannheim
 
 ## Ausleihzentrum Schloss Westflügel
 
-Das Ausleihzentrum im Schloss Westflügel hat folgende Öffnungszeiten:
+| Wochentag                         | Öffnungszeiten  |
+|----------------------------------|-----------------|
+| Mo‒Fr (außer an Feiertagen)      | 8–18 Uhr        |
 
-| Wochentag | Uhrzeit         |
-|-----------|-----------------|
-| Mo‒Fr     | 8–18 Uhr        |
-| Feiertage | Geschlossen      |
+### Zugang zur Rückgabeanlage
 
-**Zugang zur Rückgabeanlage:**
+| Wochentag                         | Öffnungszeiten  |
+|----------------------------------|-----------------|
+| Mo‒Fr (außer an Feiertagen)      | 7–21 Uhr        |
 
-| Wochentag | Uhrzeit         |
-|-----------|-----------------|
-| Mo‒Fr     | 7–21 Uhr        |
-| Feiertage | Geschlossen      |
+---
 
 ## InfoCenter
 
-Im InfoCenter erhalten Sie Unterstützung bei:
+Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgabe von Mikroformen und schützenswerten Materialien.
 
-- Beratung
-- Neuanmeldung
-- Ausleihe von mobilen Geräten
-- Sonderleseplätzen
-- Ausgabe von Mikroformen und schützenswerten Materialien
+| Wochentag                         | Öffnungszeiten  |
+|----------------------------------|-----------------|
+| Mo‒Fr (außer an Feiertagen)      | 9–16 Uhr        |
 
-Die Öffnungszeiten sind:
-
-| Wochentag | Uhrzeit         |
-|-----------|-----------------|
-| Mo‒Fr     | 9–16 Uhr        |
-| Feiertage | Geschlossen      |
+---
 
 ## Bibliotheksbereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof
 
-Die Bibliotheksbereiche haben folgende Öffnungszeiten:
-
-| Wochentag         | Uhrzeit         |
-|-------------------|-----------------|
-| Mo‒Fr             | 8–23 Uhr        |
-| Sa/So/Feiertage   | 10–23 Uhr       |
-```
+| Wochentag                         | Öffnungszeiten  |
+|----------------------------------|-----------------|
+| Mo‒Fr (außer an Feiertagen)      | 8–23 Uhr        |
+| Sa/So/Feiertage                  | 10–23 Uhr       |

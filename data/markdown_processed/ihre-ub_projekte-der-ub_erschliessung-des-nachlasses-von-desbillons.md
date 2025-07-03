@@ -1,24 +1,23 @@
-```yaml
+---
 title: Erschließung des Nachlasses von Desbillons
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/erschliessung-des-nachlasses-von-desbillons/
-tags: [Nachlass, Desbillons, Digitalisierung, Aufklärung, Regionalgeschichte]
+category: Projekte
+tags: [Nachlass, François-Joseph Terrasse Desbillons, Handschriften, Aufklärung, Kurpfalz, deutsch-französische Beziehungen, Digitalisierung, Kalliope, Stiftung Kulturgut Baden-Württemberg]
 language: de
-```
+---
 
 # Erschließung des Nachlasses von Desbillons
 
-**Kontakt:** Viktor Boecking  
-**Förderung:** [Stiftung Kulturgut Baden-Württemberg](https://www.service-bw.de/web/guest/organisationseinheit/-/sbw-oe/Stiftung+Kulturgut+BadenWuerttemberg+beim+Ministerium+fuer+Wissenschaft+Forschung+und+Kunst+BadenWuerttemberg-6002422-organisationseinheit-0#sp-js-textContent-title?tab=0)  
-**Laufzeit:** 2018–2020  
+Der Nachlass von François-Joseph Terrasse Desbillons zählt mit 151 handschriftlichen Dokumenten zu den bedeutendsten historischen Sammlungen der Universitätsbibliothek Mannheim. Desbillons, ein französischer Jesuitenpater, emigrierte 1764 von Paris an den Mannheimer Hof. Er hinterließ 76 handschriftliche Manuskripte und 75 Briefe. Der Nachlass ist besonders wichtig für die Regionalgeschichte der Kurpfalz sowie für die Erforschung der Epoche der Aufklärung und der deutsch-französischen Beziehungen im 18. Jahrhundert.
 
-Der Nachlass von François-Joseph Terrasse Desbillons umfasst 151 handschriftliche Dokumente und gehört zu den bedeutendsten historischen Sammlungen der Universitätsbibliothek Mannheim. Der französische Jesuitenpater, der 1764 von Paris an den Mannheimer Hof emigrierte, hinterließ 76 Manuskripte und 75 Briefe. Dieser Nachlass ist nicht nur für die Regionalgeschichte der Kurpfalz von Bedeutung, sondern auch für die Erforschung der Aufklärung und der deutsch-französischen Beziehungen im 18. Jahrhundert.
+## Projektziele und Förderung
 
-## Projektziele
+Das laufende Projekt hat zum Ziel, den Nachlass wissenschaftlich aufzuarbeiten und der Öffentlichkeit zugänglich zu machen. Hierfür werden alle Dokumente neu strukturiert, digitalisiert und in der Nachlassdatenbank [Kalliope](https://kalliope-verbund.info/eac?eac.id=119493705) erschlossen. Die Förderung erfolgt durch die [Stiftung Kulturgut Baden-Württemberg](https://www.service-bw.de/web/guest/organisationseinheit/-/sbw-oe/Stiftung+Kulturgut+BadenWuerttemberg+beim+Ministerium+fuer+Wissenschaft+Forschung+und+Kunst+BadenWuerttemberg-6002422-organisationseinheit-0#sp-js-textContent-title?tab=0), die seit 2011 Digitalisierungsprojekte von Archiv- und Bibliotheksgut mit Landesbezug unterstützt. Die Projektlaufzeit erstreckt sich von 2018 bis 2020.
 
-Das Ziel des laufenden Projekts ist die wissenschaftliche Aufarbeitung des Nachlasses und die Bereitstellung für die Öffentlichkeit. Alle Dokumente werden neu strukturiert, digitalisiert und in der [Nachlassdatenbank Kalliope](https://kalliope-verbund.info/eac?eac.id=119493705) erschlossen. 
+## Erste Projektergebnisse
 
-Das Projekt wird von der Stiftung Kulturgut Baden-Württemberg gefördert, die seit 2011 Digitalisierungsprojekte von Archiv- und Bibliotheksgut mit Landesbezug unterstützt.
+In der ersten Projektphase wurde die Korrespondenz Desbillons vollständig erschlossen und in der Digitalen Sammlung der Universitätsbibliothek Mannheim veröffentlicht. Die Sammlung ist online verfügbar unter: [Digitale Sammlung Nachlass Desbillons](https://digi.bib.uni-mannheim.de/sammlungen/nachlass-desbillons/).
 
-## Fortschritte
+## Kontakt
 
-In der ersten Projektphase wurde die Korrespondenz Desbillons vollständig erschlossen und in der [Digitalen Sammlung](https://digi.bib.uni-mannheim.de/sammlungen/nachlass-desbillons/) der Universitätsbibliothek Mannheim veröffentlicht.
+Projektleitung: Viktor Boecking

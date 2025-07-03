@@ -1,26 +1,23 @@
-```yaml
-title: Shibboleth - Zugriff auf digitale Medien
+---
+title: Shibboleth-Zugang für Studierende und Mitarbeiter der Universität Mannheim
 source_url: https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/
-tags: [Shibboleth, Universität Mannheim, digitale Medien, Authentifizierung]
+category: Medien
+tags: [Shibboleth, Authentifizierung, Universität Mannheim, digitaler Zugang, elektronische Medien, Institutionelles Login]
 language: de
-```
+---
 
-# Shibboleth: Zugriff auf digitale Medien
+# Shibboleth-Zugang für Studierende und Mitarbeiter der Universität Mannheim
 
-Studierende und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um von außerhalb des Campus bequem auf digitale Medien zuzugreifen – ganz ohne VPN. 
+Studierende und Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um von außerhalb des Campus komfortabel auf digitale Medien zuzugreifen – ganz ohne VPN.
 
-## Was ist Shibboleth?
+Shibboleth ist ein Authentifizierungsverfahren, das den Zugriff auf lizenzierte elektronische Angebote auf Plattformen von Verlagen oder anderen Anbietern ermöglicht. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
 
-Shibboleth ist ein Authentifizierungsverfahren, das den Zugriff auf lizenzierte elektronische Angebote von Verlagen oder anderen Anbietern ermöglicht. Der Zugang wird auf den Seiten der Anbieter oft als **Institutionelles Login** bezeichnet. 
+Als Studierende oder Mitarbeiter der Universität Mannheim wählen Sie bei der Anmeldung die Universität Mannheim aus einer Liste aus. Anschließend melden Sie sich über eine Maske der Universität mit Ihrer Uni-ID an.
 
-Um sich anzumelden, wählen Sie die Universität Mannheim aus einer Liste aus und loggen sich über eine Eingabemaske mit Ihrer Uni-ID ein. 
+Beispiel für eine Plattform mit Shibboleth-Zugang: [Cambridge University Press](https://www.cambridge.org)
 
-**Beispiel:** Cambridge University Press
+Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang über die Universitätsbibliothek Mannheim auf folgenden Plattformen möglich:
 
-## Verfügbarkeit
+## Übersicht der Anbieter
 
-Nicht alle Anbieter unterstützen Shibboleth. Der Zugang über die Universitätsbibliothek Mannheim ist derzeit auf bestimmten Plattformen möglich. 
-
-### Übersicht der Anbieter
-
-Für eine vollständige Liste der unterstützten Anbieter besuchen Sie bitte die [Übersicht der Anbieter](https://www.bib.uni-mannheim.de/oeffnungszeiten/).
+*(Hier folgt die Liste der unterstützten Plattformen)*
