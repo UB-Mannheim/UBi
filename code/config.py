@@ -8,6 +8,8 @@ CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 0
 RSS_URL = "https://blog.bib.uni-mannheim.de/Aktuelles/?feed=rss2&cat=4"
 DB_PATH = "../data/feedback.db"
+
+# OpenAI Vectorstore Option
 USE_OPENAI_VECTORSTORE = False
 
 # Session Memory Configuration

@@ -439,7 +439,7 @@ def process_urls(
     changed_files = []
     for url in tqdm(urls): 
         if verbose:
-            print(f'Processing {url} ...')
+            print(f'Crawling {url} ...')
             
         response = requests.get(url)
         content_single_page = []
@@ -524,8 +524,10 @@ def process_markdown_files_with_llm(
         api_key=os.getenv("OPENAI_API_KEY"),
     )
 
-    for idx, file_path in enumerate(input_files):
-        print(f"{idx}/{len(input_files)} 🔄 Processing {file_path.name}...")
+    print(f"[bold]===\n[Processing Markdown Files with {model_name}]\n===")
+    
+    for file_path in tqdm(input_files):
+        print(f"Processing {file_path.name}...")
         content = file_path.read_text(encoding="utf-8")
 
         try:
@@ -544,7 +546,6 @@ def process_markdown_files_with_llm(
             # Write to output
             output_file = output_path / file_path.name
             output_file.write_text(response.content, encoding="utf-8")
-            print(f"{idx}/{len(input_files)} ✅ Saved: {output_file.name}")
 
         except Exception as e:
             print(f"❌ Error processing {file_path.name}: {e}")
