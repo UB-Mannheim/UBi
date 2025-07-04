@@ -3,8 +3,12 @@ from tqdm import tqdm
 from rich import print
 from pathlib import Path
 from openai import OpenAI
-from dotenv import set_key
-from config import ENV_PATH
+from dotenv import set_key, load_dotenv
+from config import (
+    ENV_PATH,
+    DATA_DIR,
+    USE_OPENAI_VECTORSTORE
+)
 
 # === OpenAI Vectorstore Functions ===
 def create_openAI_vectorstore():
@@ -17,7 +21,7 @@ def create_openAI_vectorstore():
     vector_store = client.vector_stores.create(name="aima_files")
 
     # Save vectorestore ID to .env
-    set_key(str(ENV_PATH), "VECTORSTORE_ID", vector_store.id)
+    set_key(str(ENV_PATH), "OPENAI_VECTORSTORE_ID", vector_store.id)
     return vector_store
 
 def retrieve_openAI_vectorstore(id):
@@ -52,14 +56,14 @@ def get_all_vectorstore_files(client: OpenAI, vectorstore_id: str):
 
 def upload_files_to_openAI_vectorstore(
     upload_dir: Path,
-    changed_files: list[str],
+    files_to_upload: list[str],
     vectorstore_id: str
     ):
     """
     Upload markdown files to an existing OpenAI vectorstore.
     """
     client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))    
-    md_files = [Path(f"{upload_dir}/{file}") for file in changed_files]
+    md_files = [Path(f"{upload_dir}/{file}") for file in files_to_upload]
 
     # Get all files in the vectorstore (with pagination)
     vector_store_files = get_all_vectorstore_files(client, vectorstore_id)
@@ -110,3 +114,42 @@ def upload_files_to_openAI_vectorstore(
             print(f"Error uploading {filename}: {e}")
 
     print(f"✅ Finished.")
+
+def initialize_vectorstore():
+    """
+    Create or load an OpenAI vectorstore and upload all files from
+    DATA_DIR to it if they were updated previously.
+    """
+    if not USE_OPENAI_VECTORSTORE:
+        print("Aborting: OpenAI vectorstore is disabled in config.py")
+        return
+
+    # Load config from .env
+    load_dotenv(str(ENV_PATH))
+    OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
+    DATA_DIR_UPDATED = True if os.getenv("DATA_DIR_UPDATED") == "True" else False
+
+    vectorstore_created = False
+    try:
+        if not OPENAI_VECTORSTORE_ID:
+            # Create an OpenAI vectorstore
+            print("[bold]No OPENAI_VECTORSTORE_ID found. Creating new OpenAI vectorstore...")
+            vectorstore = create_openAI_vectorstore()
+            print(f"[bold]Created new vectorstore with ID: {vectorstore.id}")
+            vectorstore_created = True
+
+            # Reload .env and OPENAI_VECTORSTORE_ID after creation
+            load_dotenv(str(ENV_PATH))
+            OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
+
+        # If vectorstore was created or DATA_DIR_UPDATED upload files
+        if vectorstore_created or DATA_DIR_UPDATED:
+            print(f"[bold]Using OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}")
+            all_md_files = [f.name for f in Path(DATA_DIR).glob('*.md')]
+            upload_files_to_openAI_vectorstore(
+                upload_dir=DATA_DIR,
+                files_to_upload=all_md_files,
+                vectorstore_id=str(OPENAI_VECTORSTORE_ID)
+            )
+    except Exception as e:
+        print(f'Error: {e}')

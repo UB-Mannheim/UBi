@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup, Tag
 from urllib.parse import urlparse, urljoin
 from tqdm import tqdm
 from langchain_openai import ChatOpenAI
-from dotenv import load_dotenv
+from dotenv import load_dotenv, set_key
 from config import (
     ENV_PATH,
     URLS_TO_CRAWL,
@@ -603,9 +603,13 @@ def main(model_name, verbose):
                 model_name=model_name,
                 only_files=changed_files
             )
+            # Set DATA_DIR_UPDATED flag in .env
+            set_key(ENV_PATH, "DATA_DIR_UPDATED", "True")
         else:
+            set_key(ENV_PATH, "DATA_DIR_UPDATED", "False")
             print("[bold]No markdown files changed, skipping LLM postprocessing.")
     else:
+        set_key(ENV_PATH, "DATA_DIR_UPDATED", "False")
         print("[bold red]No URLs found to crawl. Exiting.")
         return
 
