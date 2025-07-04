@@ -3,6 +3,7 @@ services:
     image: localhost/aima:latest
     build: .
     volumes:
+      - /etc/localtime:/etc/localtime:ro
       - ./code:/app
       - ./data:/data
     ports:
