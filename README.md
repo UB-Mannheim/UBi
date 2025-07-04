@@ -12,10 +12,8 @@
 - [x] 📰 **RSS Integration** – Fetches live updates from the UB Mannheim blog
 - [x] 📝 **Feedback Storage** – Logs user questions, answers, and ratings
 - [x] 🔐 **Login System** – _Optional_ password-based access
-- [ ] 📄  **Terms of Use Popup** – Ensures legal compliance before interaction
+- [x] 📄  **Terms of Use Popup** – Ensures legal compliance before interaction
 - [x] 🪑 **Real-time Seat Availability** – Displays up-to-date information on available study spaces
-- [ ] 🔗 **Integration with Primo, MADOC, and MADATA APIs** – Search for scholarly publications, library holdings, and research data 
-
 
 ## 🛠 Tech Stack
 
