@@ -12,6 +12,10 @@ https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bib
 https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a5/
 https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/
 https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/
+https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/benutzungsdienste/
+https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/medienbearbeitung/
+https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/digitale-bibliotheksdienste/
+https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/verwaltung-haushalt-technik/
 https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/publikationsservices-und-forschungsunterstuetzung/
 https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/
