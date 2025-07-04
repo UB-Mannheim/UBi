@@ -39,7 +39,6 @@ document.addEventListener('DOMContentLoaded', function() {
                             if (button && !button.hasAttribute('data-terms-handled') && button.textContent.trim().startsWith("✅")) {
                                 button.setAttribute('data-terms-handled', 'true');
                                 button.addEventListener('click', function() {
-                                    console.log('Accept terms button clicked (by emoji)');
                                     setTermsCookie();
                                 });
                                 break; // Found the first one, stop searching
@@ -68,7 +67,6 @@ function monitorAndHideDiv() {
         
         const targetDiv = document.querySelector(TARGET_DIV_SELECTOR);
         if (!targetDiv) return;
-        console.log('buttonExists', buttonExists);
         targetDiv.classList.toggle('hidden', buttonExists);
     };
 

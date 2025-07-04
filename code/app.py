@@ -1,3 +1,4 @@
+# === Imports ===
 import chainlit as cl
 from chainlit import Message
 from fastapi import Request, Response
@@ -13,7 +14,16 @@ from rss_reader import get_rss_items
 from custom_data_layer import CustomDataLayer
 from free_seats import get_occupancy_data, make_plotly_figure
 from terms_conditions import ask_terms_acceptance, check_terms_accepted
+from html_template_modifier import main as modify_html_template
 # from website_search import search_ub_website
+
+
+# === Initialize HTML Template ===
+# Modify Chainlit's HTML template to use local assets
+try:
+    modify_html_template()
+except Exception as e:
+    print(f"⚠️  Warning: Could not modify HTML template: {e}")
 
 
 # === Authentication (optional) ===
