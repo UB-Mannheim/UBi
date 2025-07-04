@@ -4,7 +4,6 @@ import requests
 import shutil
 import datetime
 import xml.etree.ElementTree as ET
-import vectorstore_utils as vec_utils
 import click
 from rich import print
 from pathlib import Path
@@ -16,14 +15,12 @@ from dotenv import load_dotenv
 from config import (
     ENV_PATH,
     URLS_TO_CRAWL,
-    DATA_DIR,
-    USE_OPENAI_VECTORSTORE
+    DATA_DIR
 )
 
 # === Load Configuration ===
 load_dotenv(ENV_PATH)
 TEMP_DIR = f"../data/markdown"
-VECTORSTORE_ID = os.getenv("VECTORSTORE_ID")
 
 # === Prompts ===
 PROMPT_POSTPROCESSING = """You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG). 
@@ -553,11 +550,6 @@ def process_markdown_files_with_llm(
 
 @click.command()
 @click.option(
-    '--force-push/--no-force-push',
-    default=False,
-    help='Force upload all files in DATA_DIR (Default: data/markdown_processed) to the OpenAI vectorstore.'
-    )
-@click.option(
     '--model-name',
     default='gpt-4.1-mini-2025-04-14',
     help='Model name for LLM postprocessing.'
@@ -573,7 +565,7 @@ def process_markdown_files_with_llm(
     default=False,
     help='Skip crawling and only push to vectorstore.'
     )
-def main(force_push, model_name, verbose, skip_crawl):
+def main(model_name, verbose, skip_crawl):
     file_path = URLS_TO_CRAWL
     if not skip_crawl:
         if file_path.exists():
@@ -622,41 +614,6 @@ def main(force_push, model_name, verbose, skip_crawl):
             changed_files = []
     else:
         changed_files = []
-
-    # OpenAI vectorstore option
-    if USE_OPENAI_VECTORSTORE:
-        try:
-            load_dotenv(str(ENV_PATH))
-            VECTORSTORE_ID = os.getenv("VECTORSTORE_ID")
-            if VECTORSTORE_ID:
-                vector_store = vec_utils.retrieve_openAI_vectorstore(
-                    id=VECTORSTORE_ID
-                )
-            else:
-                vector_store = vec_utils.create_openAI_vectorstore()
-                # Reload .env and VECTORSTORE_ID after creation
-                load_dotenv(str(ENV_PATH))
-                VECTORSTORE_ID = os.getenv("VECTORSTORE_ID")
-            print(f"[bold]Using OpenAI vectorstore: {VECTORSTORE_ID}")
-
-            # Force push files from DATA_DIR to OpenAI vectorstore
-            if force_push:
-                all_md_files = [f.name for f in Path(DATA_DIR).glob('*.md')]
-                vec_utils.upload_files_to_openAI_vectorstore(
-                    upload_dir=DATA_DIR,
-                    changed_files=all_md_files,
-                    vectorstore_id=str(VECTORSTORE_ID)
-                )
-            # Upload files to OpenAI vectorstore
-            elif changed_files and vector_store:
-                vec_utils.upload_files_to_openAI_vectorstore(
-                    upload_dir=DATA_DIR,
-                    changed_files=changed_files,
-                    vectorstore_id=str(VECTORSTORE_ID)
-                )
-        
-        except Exception as e:
-            print(f'Error: {e}')
 
 if __name__ == "__main__":
     main()

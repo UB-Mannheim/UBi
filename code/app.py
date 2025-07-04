@@ -192,7 +192,6 @@ async def on_chat_end():
     if session_id:
         # End session and clear memory
         session_memory.end_session(session_id)
-    print("User disconnected.")
 
 
 # === Logout ===
