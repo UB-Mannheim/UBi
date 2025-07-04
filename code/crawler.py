@@ -4,14 +4,15 @@ import requests
 import shutil
 import datetime
 import xml.etree.ElementTree as ET
+import vectorstore_utils as vec_utils
+import click
 from rich import print
 from pathlib import Path
 from bs4 import BeautifulSoup, Tag
 from urllib.parse import urlparse, urljoin
 from tqdm import tqdm
-from openai import OpenAI
 from langchain_openai import ChatOpenAI
-from dotenv import set_key, load_dotenv
+from dotenv import load_dotenv
 from config import (
     ENV_PATH,
     URLS_TO_CRAWL,
@@ -549,127 +550,113 @@ def process_markdown_files_with_llm(
 
         except Exception as e:
             print(f"❌ Error processing {file_path.name}: {e}")
-            
-def create_openAI_vectorstore():
-    """
-    Create an OpenAI vectorstore and write its ID to .env.
-    """    
-    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
-    # Create vectorstore
-    vector_store = client.vector_stores.create(name="aima_files")
-
-    # Save vectorestore ID to .env
-    set_key(str(ENV_PATH), "VECTORSTORE_ID", vector_store.id)
-    return vector_store
-
-def retrieve_openAI_vectorstore(id):
-    """
-    Retrieve an existing OpenAI vectorstore.
-    """    
-    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-    vector_store = client.vector_stores.retrieve(vector_store_id=id)
-    return vector_store
-
-def upload_files_to_openAI_vectorstore(upload_dir):
-    """
-    Upload markdown files to an existing OpenAI vectorstore.
-    """
-    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-    
-    # Load markdown files
-    md_files = list(Path(upload_dir).glob('*.md'))
-    
-    # Check if vectorstore contains files first
-    vector_store_files = client.vector_stores.files.list(
-        vector_store_id=str(VECTORSTORE_ID)
+@click.command()
+@click.option(
+    '--force-push/--no-force-push',
+    default=False,
+    help='Force upload all files in DATA_DIR (Default: data/markdown_processed) to the OpenAI vectorstore.'
     )
-    if len(vector_store_files.data) > 1:
-        print('VECTORSTORE contains files. Aborting to avoid overwriting.')
-        return
-    
-    # Upload files to vectorstore
-    print(f"🔄 Uploading {len(md_files)} to OpenAI vectorstore.")
-    for md_file in tqdm(md_files):
+@click.option(
+    '--model-name',
+    default='gpt-4.1-mini-2025-04-14',
+    help='Model name for LLM postprocessing.'
+    )
+@click.option(
+    '--verbose/--no-verbose',
+    default=True,
+    help='Enable verbose output during crawling.'
+    )
+@click.option(
+    '--skip-crawl',
+    is_flag=True,
+    default=False,
+    help='Skip crawling and only push to vectorstore.'
+    )
+def main(force_push, model_name, verbose, skip_crawl):
+    file_path = URLS_TO_CRAWL
+    if not skip_crawl:
+        if file_path.exists():
+            with file_path.open("r", encoding="utf-8") as f:
+                urls = [line.strip() for line in f if line.strip()]
+        else:
+            urls = crawl_urls(
+                sitemap_url='https://www.bib.uni-mannheim.de/xml-sitemap/',
+                filters=[
+                    'twitter',
+                    'youtube',
+                    'google',
+                    'facebook',
+                    'instagram',
+                    'primo',
+                    'absolventum',
+                    'portal2',
+                    'blog',
+                    'auskunft-und-beratung',
+                    'beschaeftigte-von-a-bis-z',
+                    'aktuelles/events',
+                    'ausstellungen-und-veranstaltungen',
+                    'anmeldung-fuer-schulen',
+                    'fuehrungen',
+                ],
+                save_to_disk=True,
+                url_filename=str(URLS_TO_CRAWL)
+            )
+        
+        if urls:
+            changed_files = process_urls(
+                urls=urls,
+                verbose=verbose,
+                output_dir=TEMP_DIR,
+            )
+            if changed_files:
+                process_markdown_files_with_llm(
+                    input_dir=TEMP_DIR,
+                    output_dir=str(DATA_DIR),
+                    model_name=model_name,
+                    only_files=changed_files
+                )
+            else:
+                print("[bold]No markdown files changed, skipping LLM postprocessing.")
+        else:
+            changed_files = []
+    else:
+        changed_files = []
+
+    # OpenAI vectorstore option
+    if USE_OPENAI_VECTORSTORE:
         try:
-            # Upload file
-            uploaded_file = client.files.create(
-                file=open(md_file, "rb"),
-                purpose="user_data"
-            )
-            
-            # Link file to vector_store
-            client.vector_stores.files.create(
-                vector_store_id=str(VECTORSTORE_ID),
-                file_id=uploaded_file.id
-            )
+            load_dotenv(str(ENV_PATH))
+            VECTORSTORE_ID = os.getenv("VECTORSTORE_ID")
+            if VECTORSTORE_ID:
+                vector_store = vec_utils.retrieve_openAI_vectorstore(
+                    id=VECTORSTORE_ID
+                )
+            else:
+                vector_store = vec_utils.create_openAI_vectorstore()
+                # Reload .env and VECTORSTORE_ID after creation
+                load_dotenv(str(ENV_PATH))
+                VECTORSTORE_ID = os.getenv("VECTORSTORE_ID")
+            print(f"[bold]Using OpenAI vectorstore: {VECTORSTORE_ID}")
+
+            # Force push files from DATA_DIR to OpenAI vectorstore
+            if force_push:
+                all_md_files = [f.name for f in Path(DATA_DIR).glob('*.md')]
+                vec_utils.upload_files_to_openAI_vectorstore(
+                    upload_dir=DATA_DIR,
+                    changed_files=all_md_files,
+                    vectorstore_id=str(VECTORSTORE_ID)
+                )
+            # Upload files to OpenAI vectorstore
+            elif changed_files and vector_store:
+                vec_utils.upload_files_to_openAI_vectorstore(
+                    upload_dir=DATA_DIR,
+                    changed_files=changed_files,
+                    vectorstore_id=str(VECTORSTORE_ID)
+                )
+        
         except Exception as e:
-            print(f"Error: {e}")
-    print(f"✅ Finished.")
+            print(f'Error: {e}')
 
 if __name__ == "__main__":
-    file_path = URLS_TO_CRAWL
-    if file_path.exists():
-        with file_path.open("r", encoding="utf-8") as f:
-            urls = [line.strip() for line in f if line.strip()]
-    else:
-        urls = crawl_urls(
-            sitemap_url='https://www.bib.uni-mannheim.de/xml-sitemap/',
-            filters=[
-                'twitter',
-                'youtube',
-                'google',
-                'facebook',
-                'instagram',
-                'primo',
-                'absolventum',
-                'portal2',
-                'blog',
-                'auskunft-und-beratung',
-                'beschaeftigte-von-a-bis-z',
-                'aktuelles/events',
-                'ausstellungen-und-veranstaltungen',
-                'anmeldung-fuer-schulen',
-                'fuehrungen',
-            ],
-            save_to_disk=True,
-            url_filename=str(URLS_TO_CRAWL)
-        )
-        
-    if urls:
-        # Download and parse each HTML page to markdown, get changed files
-        changed_files = process_urls(
-            urls=urls,
-            verbose=True,
-            output_dir=TEMP_DIR,
-        )
-        
-        # Post-process only changed markdown with LLM
-        if changed_files:
-            process_markdown_files_with_llm(
-                input_dir=TEMP_DIR,
-                output_dir=str(DATA_DIR),
-                model_name='gpt-4.1-mini-2025-04-14',
-                only_files=changed_files
-            )
-        else:
-            print("[bold]No markdown files changed, skipping LLM postprocessing.")
-        
-        # OpenAI vectorstore option
-        if USE_OPENAI_VECTORSTORE:
-            try:
-                if VECTORSTORE_ID:
-                    vector_store = retrieve_openAI_vectorstore(VECTORSTORE_ID)
-                else:
-                    vector_store = create_openAI_vectorstore()
-
-                # Reload .env
-                load_dotenv(str(ENV_PATH))
-                print(f"⬆️ Uploading new files to OpenAI vectorstore: {VECTORSTORE_ID}")
-
-                # Upload markdown to vectorstore
-                if vector_store:
-                    upload_files_to_openAI_vectorstore(DATA_DIR)
-                    
-            except Exception as e:
-                print(f'Error: {e}')
+    main()
