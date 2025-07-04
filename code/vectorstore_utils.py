@@ -66,6 +66,8 @@ def upload_files_to_openAI_vectorstore(
     ):
     """
     Upload markdown files to an existing OpenAI vectorstore.
+    Only upload if the file is new or its byte size differs from the one 
+    in the vectorstore.
     """
     client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))    
     md_files = [Path(f"{upload_dir}/{file}") for file in files_to_upload]
@@ -74,10 +76,13 @@ def upload_files_to_openAI_vectorstore(
     vector_store_files = get_all_vectorstore_files(client, vectorstore_id)
     print(f"[bold]{len(vector_store_files)} files in vectorstore: {vectorstore_id}")
 
-    # Build a set of filenames already in the vectorstore
+    # Build a dict: filename -> (file_id, byte_size)
     if len(vector_store_files) >= 1:
-        print(f"[bold]Retrieving filenames from vectorstore ...")
-        vectorstore_filenames = {client.files.retrieve(f.id).filename: f.id for f in tqdm(vector_store_files)}
+        print(f"[bold]Retrieving filenames and byte sizes from vectorstore ...")
+        vectorstore_filenames = {}
+        for f in tqdm(vector_store_files):
+            file_obj = client.files.retrieve(f.id)
+            vectorstore_filenames[file_obj.filename] = (f.id, file_obj.bytes)
     else:
         vectorstore_filenames = {}
 
@@ -85,38 +90,46 @@ def upload_files_to_openAI_vectorstore(
     
     for md_file in tqdm(md_files):
         filename = md_file.name
-        
-        # If file exists in vectorstore, unlink and delete it first
+        local_byte_size = os.path.getsize(md_file)
+        upload_needed = True
+
         if filename in vectorstore_filenames:
+            remote_file_id, remote_byte_size = vectorstore_filenames[filename]
+            if local_byte_size == remote_byte_size:
+                upload_needed = False  # No need to upload if byte size matches
+            else:
+                try:
+                    # Unlink file from vectorstore
+                    client.vector_stores.files.delete(
+                        vector_store_id=str(vectorstore_id),
+                        file_id=remote_file_id
+                    )
+                    # Delete file from OpenAI storage
+                    print(f"[bold]Deleting old {filename} from vectorstore ...")
+                    client.files.delete(
+                        file_id=remote_file_id
+                    )
+                except Exception as e:
+                    print(f"[bold]Error deleting {filename} from vectorstore: {e}")
+        
+        if upload_needed:
+            # Upload the file
             try:
-                # Unlink file from vectorstore
-                client.vector_stores.files.delete(
+                with open(md_file, "rb") as f:
+                    uploaded_file = client.files.create(
+                        file=f,
+                        purpose="user_data"
+                    )
+                    
+                # Link uploaded file to vectorstore
+                client.vector_stores.files.create(
                     vector_store_id=str(vectorstore_id),
-                    file_id=vectorstore_filenames[filename]
-                )
-                # Delete file from OpenAI storage
-                print(f"[bold]Deleting old {filename} from vectorstore ...")
-                client.files.delete(
-                    file_id=vectorstore_filenames[filename]
+                    file_id=uploaded_file.id
                 )
             except Exception as e:
-                print(f"[bold]Error deleting {filename} from vectorstore: {e}")
-
-        # Upload the file
-        try:
-            with open(md_file, "rb") as f:
-                uploaded_file = client.files.create(
-                    file=f,
-                    purpose="user_data"
-                )
-                
-            # Link uploaded file to vectorstore
-            client.vector_stores.files.create(
-                vector_store_id=str(vectorstore_id),
-                file_id=uploaded_file.id
-            )
-        except Exception as e:
-            print(f"Error uploading {filename}: {e}")
+                print(f"Error uploading {filename}: {e}")
+        else:
+            print(f"[bold]Skipping Upload: [blue]{filename}[/blue] is unchanged (byte size matches).")
 
     print(f"✅ Finished.")
 
@@ -129,7 +142,7 @@ def initialize_vectorstore():
     load_dotenv(str(ENV_PATH))
     USE_OPENAI_VECTORSTORE = True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" else False
     if not USE_OPENAI_VECTORSTORE:
-        print("Aborting: OpenAI vectorstore is disabled in .env")
+        print("[bold]Aborting: OpenAI vectorstore is disabled in .env")
         return
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
     DATA_DIR_UPDATED = True if os.getenv("DATA_DIR_UPDATED") == "True" else False
