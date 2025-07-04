@@ -42,8 +42,8 @@ edit_message = true
     sample_rate = 24000
 
 [UI]
-name = "AIMA"
-description = "Chatbot der UB Mannheim"
+name = "KI-Chatbot der UB Mannheim"
+description = "KI-Chatbot der UB Mannheim"
 favicon = "/public/avatars/assistant.png"
 default_theme = "light"
 custom_css = "/public/css/bundle.css"
