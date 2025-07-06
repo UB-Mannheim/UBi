@@ -1,70 +1,19 @@
-import os
 import re
-import requests
-import shutil
-import datetime
-import xml.etree.ElementTree as ET
 import click
+import requests
+import xml.etree.ElementTree as ET
+import crawler_utils as utils
 from rich import print
 from pathlib import Path
 from bs4 import BeautifulSoup, Tag
-from urllib.parse import urlparse, urljoin
+from urllib.parse import urljoin
 from tqdm import tqdm
-from langchain_openai import ChatOpenAI
-from dotenv import load_dotenv
-from config import (
-    ENV_PATH,
-    URLS_TO_CRAWL,
-    DATA_DIR
-)
+from dotenv import load_dotenv, set_key
+from config import ENV_PATH, URLS_TO_CRAWL, DATA_DIR
 
 # === Load Configuration ===
 load_dotenv(ENV_PATH)
 TEMP_DIR = f"../data/markdown"
-
-# === Prompts ===
-PROMPT_POSTPROCESSING = """You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG). 
-Perform the following tasks on the provided documents that are sourced from the website of the Universitätsbibliothek Mannheim:
-1. Clean the structure, improve headings, embed links using markdown syntax. Do not add content to the markdown page itself. Simply refine it.
-2. Add a YAML header (without markdown wrapping!) by using this template:
----
-title: title of document
-source_url: URL of document
-category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte]
-tags: [a list of precise, descriptive]
-language: de, en or other language tags
----
-3. Chunk content into semantic blocks of 100–300 words. Remove redundancy and make the file suitable for semantic search or chatbot use.
-4. Return the processed markdown file.
-
-# Example Output
----
-title: Deutscher Reichsanzeiger und Preußischer Staatsanzeiger
-source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/deutscher-reichsanzeiger-und-preussischer-staatsanzeiger/
-category:
-tags: [Forschungsdatenzentrum, Datenangebot des FDZ, Deutscher Reichsanziger und Preussischer Staatsanzeiger, Zeitungen]
-language: de
----
-
-# First Heading of Markdown Page
-The content of the markdown page..."""
-
-# === Helper Funtions ===
-def ensure_dir(dir) -> None:
-    path = Path(dir)
-    if not path.exists():
-        path.mkdir(parents=True)
-        
-def backup_dir_with_timestamp(dir_path):
-    """
-    If dir_path exists, copy it to dir_path_backup_YYYYmmdd.
-    """
-    path = Path(dir_path)
-    if path.exists() and path.is_dir():
-        timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
-        backup_path = path.parent / f"{path.name}_backup_{timestamp}"
-        shutil.copytree(path, backup_path)
-        print(f"[bold][BACKUP] {dir_path} -> {backup_path}\nDone.")
         
 # === Crawler Funtions ===
 def crawl_urls(
@@ -95,7 +44,7 @@ def crawl_urls(
         clean_urls = sorted([url for url in clean_urls if not any(filter in url for filter in filters)])
         
         if save_to_disk:
-            ensure_dir(Path(url_filename).parent)
+            utils.ensure_dir(Path(url_filename).parent)
             with open(url_filename, 'w', encoding='utf-8') as file:
                 for url in clean_urls:
                     file.write(url + '\n')
@@ -391,37 +340,8 @@ def find_specified_tags(
     clean_tags = final_check(matched_tags)
     return clean_tags
 
-def write_markdown(
-    url,
-    content,
-    output_dir: str = TEMP_DIR,
-    ):
-    """
-    Write markdown for a URL only if content is new or changed.
-    Returns the filename if written/changed, else None.
-    """
-    ensure_dir(output_dir)
-    url_path = urlparse(url).path.split('/')
-    filename = '_'.join([part for part in url_path if part])
-    file_path = Path(output_dir).joinpath(f"{filename}.md")
-    new_content = ''
-    for el in content:
-        if el.startswith('#'):
-            new_content += '\n\n' + el + '\n\n'
-        else:
-            new_content += el + '\n'
-    # Check if file exists and content is unchanged
-    if file_path.exists():
-        old_content = file_path.read_text(encoding='utf-8')
-        if old_content == new_content:
-            return None  # No change
-    # Write new/changed content
-    file_path.write_text(new_content, encoding='utf-8')
-    return file_path.name
-
 def process_urls(
     urls: list[str],
-    verbose: bool = False,
     output_dir: str = ''
     ):
     """
@@ -431,13 +351,10 @@ def process_urls(
     """
     # Backup output_dir if it exists
     if output_dir:
-        backup_dir_with_timestamp(output_dir)
+        utils.backup_dir_with_timestamp(output_dir)
         
     changed_files = []
-    for url in tqdm(urls): 
-        if verbose:
-            print(f'Crawling {url} ...')
-            
+    for url in tqdm(urls, desc=f"Crawling URLs"): 
         response = requests.get(url)
         content_single_page = []
         
@@ -469,7 +386,7 @@ def process_urls(
             # Get main <div class="page content"> and ignore footer tag
             page_content = soup.find('div', id='page-content')
             if page_content is None:
-                print("ERROR: page_content not found! Skipping URL ...")
+                print(f"[bold]Error: page_content not found! Skipping {url} ...")
                 continue
             
             page_content_tags = find_specified_tags(
@@ -485,67 +402,12 @@ def process_urls(
             content_single_page.extend(page_content_tags)
             
             # Save markdown file only if changed/new
-            written_file = write_markdown(url, content_single_page, output_dir)
+            written_file = utils.write_markdown(url, content_single_page, output_dir)
             if written_file:
                 changed_files.append(written_file)
                 
     return changed_files
 
-def process_markdown_files_with_llm(
-    input_dir: str,
-    output_dir: str,
-    model_name: str = "gpt-4o-mini-2024-07-18",
-    only_files: list = None
-    ):
-    """
-    Post-process markdown files with LLM and add YAML header.
-    If only_files is provided, only process those files.
-    """
-    # Backup output_dir if it exists
-    if output_dir:
-        backup_dir_with_timestamp(output_dir)
-        
-    # Check for updated files
-    if only_files is not None:
-        input_files = [Path(input_dir)/f for f in only_files if (Path(input_dir)/f).exists()]
-    else:
-        input_files = list(Path(input_dir).glob('*.md'))
-
-    output_path = Path(output_dir)
-    output_path.mkdir(parents=True, exist_ok=True)
-
-    # Initialize the LLM (LangChain wrapper for OpenAI Chat API)
-    llm = ChatOpenAI(
-        model=model_name,
-        temperature=0,
-        api_key=os.getenv("OPENAI_API_KEY"),
-    )
-
-    print(f"[bold][Processing Markdown Files with {model_name}]")
-    
-    for file_path in tqdm(input_files):
-        print(f"Processing {file_path.name}...")
-        content = file_path.read_text(encoding="utf-8")
-
-        try:
-            # LLM interaction
-            response = llm.invoke([
-                {
-                    "role": "system",
-                    "content": PROMPT_POSTPROCESSING
-                },
-                {
-                    "role": "user",
-                    "content": content
-                }
-            ])
-
-            # Write to output
-            output_file = output_path / file_path.name
-            output_file.write_text(response.content, encoding="utf-8")
-
-        except Exception as e:
-            print(f"❌ Error processing {file_path.name}: {e}")
 
 @click.command()
 @click.option(
@@ -554,60 +416,87 @@ def process_markdown_files_with_llm(
     help='Model name for LLM postprocessing.'
     )
 @click.option(
+    '--process-only/--no-process-only',
+    default=False,
+    help='Do not crawl URLs; only process existing markdowns instead.'
+    )
+@click.option(
+    '--standorte-only/--no-standorte-only',
+    default=False,
+    help='Only process standorte.'
+    )
+@click.option(
     '--verbose/--no-verbose',
-    default=True,
+    default=False,
     help='Enable verbose output during crawling.'
     )
-def main(model_name, verbose):
-    file_path = URLS_TO_CRAWL
-    if file_path.exists():
-        print(f"[bold]Using {str(URLS_TO_CRAWL)} to crawl URLs.")
-        with file_path.open("r", encoding="utf-8") as f:
-            urls = [line.strip() for line in f if line.strip()]
-    else:
-        sitemap_url = 'https://www.bib.uni-mannheim.de/xml-sitemap/'
-        print(f"[bold]Crawling all URLs from {sitemap_url}")
-        urls = crawl_urls(
-            sitemap_url=sitemap_url,
-            filters=[
-                'twitter',
-                'youtube',
-                'google',
-                'facebook',
-                'instagram',
-                'primo',
-                'absolventum',
-                'portal2',
-                'blog',
-                'auskunft-und-beratung',
-                'beschaeftigte-von-a-bis-z',
-                'aktuelles/events',
-                'ausstellungen-und-veranstaltungen',
-                'anmeldung-fuer-schulen',
-                'fuehrungen',
-            ],
-            save_to_disk=True,
-            url_filename=str(URLS_TO_CRAWL)
-        )
+def main(model_name, process_only, standorte_only, verbose):
+    # Track markdown files that have changed for later processing
+    changed_files = []
     
-    if urls:
-        changed_files = process_urls(
-            urls=urls,
-            verbose=verbose,
-            output_dir=TEMP_DIR,
-        )
-        if changed_files:
-            process_markdown_files_with_llm(
+    # Crawl URLs
+    if not process_only:
+        file_path = URLS_TO_CRAWL
+        if file_path.exists():
+            print(f"[bold]Using {str(URLS_TO_CRAWL)} to crawl URLs.")
+            with file_path.open("r", encoding="utf-8") as f:
+                urls = [line.strip() for line in f if line.strip()]
+        else:
+            sitemap_url = 'https://www.bib.uni-mannheim.de/xml-sitemap/'
+            print(f"[bold]Crawling all URLs from {sitemap_url}")
+            urls = crawl_urls(
+                sitemap_url=sitemap_url,
+                filters=[
+                    'twitter',
+                    'youtube',
+                    'google',
+                    'facebook',
+                    'instagram',
+                    'primo',
+                    'absolventum',
+                    'portal2',
+                    'blog',
+                    'auskunft-und-beratung',
+                    'beschaeftigte-von-a-bis-z',
+                    'aktuelles/events',
+                    'ausstellungen-und-veranstaltungen',
+                    'anmeldung-fuer-schulen',
+                    'fuehrungen',
+                ],
+                save_to_disk=True,
+                url_filename=str(URLS_TO_CRAWL)
+            )
+        
+        if urls:
+            changed_files = process_urls(
+                urls=urls,
+                output_dir=TEMP_DIR,
+            )
+        else:
+            set_key(ENV_PATH, "DATA_DIR_UPDATED", "False")
+            print("[bold red]No URLs found to crawl. Exiting.")
+            return
+            
+    if changed_files or process_only:
+        if not standorte_only:
+            utils.process_markdown_files_with_llm(
                 input_dir=TEMP_DIR,
                 output_dir=str(DATA_DIR),
                 model_name=model_name,
-                only_files=changed_files
+                only_files=changed_files if changed_files else None
             )
-        else:
-            print("[bold]No markdown files changed, skipping LLM postprocessing.")
+        
+        # Process standorte contacts after LLM processing
+        utils.process_standorte_contacts(
+            data_dir=str(DATA_DIR),
+            verbose=verbose
+            )
+        
+        # Set DATA_DIR_UPDATED flag in .env
+        set_key(ENV_PATH, "DATA_DIR_UPDATED", "True")
     else:
-        print("[bold red]No URLs found to crawl. Exiting.")
-        return
+        set_key(ENV_PATH, "DATA_DIR_UPDATED", "False")
+        print("[bold]No markdown files changed, skipping LLM postprocessing.")
 
 if __name__ == "__main__":
     main()
