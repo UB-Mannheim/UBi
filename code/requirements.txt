@@ -9,7 +9,7 @@ langchain_chroma==0.2.4
 langchain_community==0.3.25
 langchain_core==0.3.65
 langchain_openai==0.3.23
-langdetect==1.0.9
+lingua-language-detector==2.1.1
 markdown==3.8.2
 plotly==5.20.0
 Requests==2.32.4

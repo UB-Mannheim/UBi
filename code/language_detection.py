@@ -1,67 +1,46 @@
-from langdetect import detect
+from lingua import Language, LanguageDetectorBuilder
+
+
+# Build detector with common languages for better performance with at least 10% confidence
+def _build_detector_german():
+    """Build language detector with commonly used languages"""
+    return LanguageDetectorBuilder.from_languages(
+        Language.GERMAN
+    ).with_minimum_relative_distance(0.1).build()
+
+
+def _build_detector_english():
+    """Build language detector with commonly used languages"""
+    return LanguageDetectorBuilder.from_languages(
+        Language.ENGLISH
+    ).with_minimum_relative_distance(0.1).build()
+
+
+def _build_detector_rest_common():
+    """Build language detector with commonly used languages"""
+    return LanguageDetectorBuilder.from_all_languages(
+    ).with_preloaded_language_models(
+    ).with_minimum_relative_distance(0.1).build()
+
+
+# Create detector instance (shared across function calls)
+_german_detector = _build_detector_german()
+_english_detector = _build_detector_english()
+_rest_common_detector = _build_detector_rest_common()
 
 
 def detect_language_and_get_name(text: str) -> str:
-    """Detect language from text and return language name"""
+    """Detect language from text and return its capitalized English name."""
     try:
-        # Detect language code
-        lang_code = detect(text)
-        lang_map = {
-            'af': 'Afrikaans',
-            'ar': 'Arabisch',
-            'bg': 'Bulgarisch',
-            'bn': 'Bengalisch',
-            'ca': 'Katalanisch',
-            'cs': 'Tschechisch',
-            'cy': 'Walisisch',
-            'da': 'Dänisch',
-            'de': 'Deutsch',
-            'el': 'Griechisch',
-            'en': 'Englisch',
-            'es': 'Spanisch',
-            'et': 'Estnisch',
-            'fa': 'Persisch',
-            'fi': 'Finnisch',
-            'fr': 'Französisch',
-            'gu': 'Gujarati',
-            'he': 'Hebräisch',
-            'hi': 'Hindi',
-            'hr': 'Kroatisch',
-            'hu': 'Ungarisch',
-            'id': 'Indonesisch',
-            'it': 'Italienisch',
-            'ja': 'Japanisch',
-            'kn': 'Kannada',
-            'ko': 'Koreanisch',
-            'lt': 'Litauisch',
-            'lv': 'Lettisch',
-            'mk': 'Mazedonisch',
-            'ml': 'Malayalam',
-            'mr': 'Marathi',
-            'ne': 'Nepali',
-            'nl': 'Niederländisch',
-            'no': 'Norwegisch',
-            'pa': 'Panjabi',
-            'pl': 'Polnisch',
-            'pt': 'Portugiesisch',
-            'ro': 'Rumänisch',
-            'ru': 'Russisch',
-            'sk': 'Slowakisch',
-            'sl': 'Slowenisch',
-            'so': 'Somali',
-            'sq': 'Albanisch',
-            'sv': 'Schwedisch',
-            'sw': 'Suaheli',
-            'ta': 'Tamil',
-            'te': 'Telugu',
-            'th': 'Thailändisch',
-            'tl': 'Tagalog',
-            'tr': 'Türkisch',
-            'uk': 'Ukrainisch',
-            'ur': 'Urdu',
-            'vi': 'Vietnamesisch',
-            'zh-cn': 'Chinesisch (vereinfacht)',
-            'zh-tw': 'Chinesisch (traditionell)'}
-        return lang_map.get(lang_code, 'Deutsch')  # Default to German
-    except Exception:
-        return 'Deutsch'  # Default to German if detection fails 
+        # Detect language using lingua-language-detector
+        language = _german_detector.detect_language_of(text)
+        if language is None:
+            language = _english_detector.detect_language_of(text)
+        if language is None:
+            language = _rest_common_detector.detect_language_of(text)
+        language = language.name.capitalize() if language else 'German'
+        return language
+    
+    except Exception as e:
+        print(e)
+        return 'German'  # Default to German on any other error 

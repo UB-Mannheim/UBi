@@ -8,6 +8,7 @@ from chainlit.types import Feedback, ThreadDict, Pagination, ThreadFilter, Pagin
 from chainlit.element import ElementDict
 from chainlit.step import StepDict
 from db import save_interaction
+import chainlit as cl
 
 
 class CustomDataLayer(BaseDataLayer):
@@ -36,25 +37,27 @@ class CustomDataLayer(BaseDataLayer):
     async def upsert_feedback(self, feedback: Feedback) -> str:
         feedback_id = feedback.id or str(uuid.uuid4())
         step_id = getattr(feedback, "forId", None) or getattr(feedback, "step_id", None)
-        question, answer, session_id = "unknown", "unknown", "unknown"
+        
+        # Extract step data with defaults
+        step = self.steps.get(step_id, {}) if step_id else {}
+        question = step.get("input", "unknown")
+        answer = step.get("output", "unknown")
+        session_id = step.get("metadata", {}).get("session_id", "unknown")
 
-        if step_id and step_id in self.steps:
-            step = self.steps[step_id]
-            question = step.get("input", "unknown")
-            answer = step.get("output", "unknown")
-            session_id = step.get("metadata", {}).get("session_id", "unknown")
-
+        # Create feedback data
+        feedback_data = {
+            "id": feedback_id,
+            "step_id": step_id,
+            "name": "user_feedback",
+            "value": float(getattr(feedback, "value", 0)),
+            "comment": getattr(feedback, "comment", ""),
+        }
+        
         await save_interaction(
             session_id=session_id,
             question=question,
             answer=answer,
-            feedback=json.dumps({
-                "id": feedback_id,
-                "step_id": step_id,
-                "name": "user_feedback",
-                "value": float(getattr(feedback, "value", 0)),
-                "comment": getattr(feedback, "comment", ""),
-            })
+            feedback=json.dumps(feedback_data)
         )
 
         self.feedback[feedback_id] = feedback
@@ -73,7 +76,19 @@ class CustomDataLayer(BaseDataLayer):
     async def delete_element(self, element_id: str, thread_id: Optional[str] = None) -> None:
         self.elements.pop(element_id, None)
 
+    def _get_session_id(self) -> str:
+        """Get the current session ID with fallback to 'unknown'."""
+        try:
+            return cl.user_session.get("session_id") or "unknown"
+        except Exception:
+            return "unknown"
+
     async def create_step(self, step_dict: StepDict) -> None:
+        # Ensure metadata exists and inject session_id
+        if "metadata" not in step_dict:
+            step_dict["metadata"] = {}
+        step_dict["metadata"]["session_id"] = self._get_session_id()
+        
         self.steps[step_dict["id"]] = step_dict
 
     async def update_step(self, step_dict: StepDict) -> None:
