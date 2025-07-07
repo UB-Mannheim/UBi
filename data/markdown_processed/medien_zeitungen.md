@@ -2,14 +2,13 @@
 title: Zeitungen
 source_url: https://www.bib.uni-mannheim.de/medien/zeitungen/
 category: Medien
-tags: [Zeitungen, Tageszeitungen, Wochenzeitungen, Online-Zeitungen, gedruckte Zeitungen, Pressearchive, Bibliothekskatalog, Mikrofilme]
+tags: [Zeitungen, Tageszeitungen, Wochenzeitungen, gedruckte Zeitungen, Online-Zeitungen, Pressearchive, Bibliothekskatalog, Mikrofilme]
 language: de
 ---
 
 # Zeitungen
 
-Unser Angebot an gedruckten und elektronischen Tages- und Wochenzeitungen finden Sie über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).  
-Um gezielt nach Zeitungen zu suchen, können Sie Ihre Recherche in der **Erweiterten Suche** auf die **Materialart** „Zeitschriften“ einschränken.
+Unser Angebot an gedruckten und elektronischen Tages- und Wochenzeitungen finden Sie über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB). Um gezielt nach Zeitungen zu suchen, können Sie Ihre Recherche in der **Erweiterten Suche** auf die **Materialart** „Zeitschriften“ einschränken.
 
 ## Gedruckte Zeitungen
 
@@ -18,7 +17,7 @@ Um Mikrofilme von Zeitungen zu nutzen, wenden Sie sich bitte an das [InfoCenter]
 
 ## Online-Zeitungen
 
-Diese Pressearchive und Zeitungsportale hat die UB für Sie lizenziert:
+Diese Pressearchive und Zeitungsportale hat die Universitätsbibliothek für Sie lizenziert:
 
 - [F.A.Z.-Bibliotheksportal](https://dbis.ur.de/UBMAN/resources/5333)  
 - [Süddeutsche Zeitung Archiv](https://dbis.ur.de/UBMAN/resources/7881)  

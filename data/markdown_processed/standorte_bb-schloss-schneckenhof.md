@@ -2,7 +2,7 @@
 title: Bibliotheksbereich Schloss Schneckenhof
 source_url: https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/
 category: Standorte
-tags: [Bibliotheksbereich, Schloss Schneckenhof, Betriebswirtschaftslehre, Öffnungszeiten, Fachliche Recherche, Kontakt]
+tags: [Bibliotheksbereich, Schloss Schneckenhof, Fachbibliothek, Betriebswirtschaftslehre, Öffnungszeiten, Fachliche Recherche, Kontakt]
 language: de
 ---
 

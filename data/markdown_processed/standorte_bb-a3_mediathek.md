@@ -1,7 +1,7 @@
 ---
 title: Mediathek der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/standorte/bb-a3/mediathek/
-category: Medien
+category: Standorte
 tags: [Mediathek, Filme, DVD, Ausleihe, Universität Mannheim, Bibliotheksbereich A3]
 language: de
 ---

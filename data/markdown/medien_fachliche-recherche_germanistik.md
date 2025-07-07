@@ -15,6 +15,7 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 
 ### Datenbanken
 
+Datenbanken zur Germanistikund zu anderen Fach­gebieten finden Sie über dasDatenbank-Info­system (DBIS).Fach­informations­dienst Allgemeine und Vergleich­ende Literatur­wissenschaft (FID AVL)Fach­informations­dienst Linguistik
 Datenbanken zur Germanistik (https://dbis.ur.de/UBMAN/browse/subjects/16/) und zu anderen Fach­gebieten finden Sie über das Datenbank-Info­system (DBIS) (https://dbis.ur.de/UBMAN/).
 Fach­informations­dienst Allgemeine und Vergleich­ende Literatur­wissenschaft (FID AVL) (https://www.avldigital.de/de/recherchieren/)
 Fach­informations­dienst Linguistik (https://www.linguistik.de/de/)
@@ -22,10 +23,28 @@ Fach­informations­dienst Linguistik (https://www.linguistik.de/de/)
 
 ### E-Journals
 
+Die E-Journals für das Fach Germanistik finden Sie in derElektronischen Zeitschriftenbibliothek (EZB)und imKatalog Primo.
 Die E-Journals für das Fach Germanistik finden Sie in der Elektronischen Zeitschriftenbibliothek (EZB) (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=G) und im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 
 ### E-Books
+
+
+* Altdeutsche Textbibliothek (https://www.degruyter.com/serial/atb-b/html#volumes)
+* Digitale Bibliothek Deutscher Klassiker (https://dbis.ur.de//detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&tid=0&titel_id=1562) z. B.: Büchners Lenz (https://www.proquest.com/dkv/docview/2371633439)
+* Goethes Werke (Weimarer Ausgabe) (https://www.proquest.com/goethe/advanced) / Titelliste (https://tls.search.proquest.com/titlelist/ListForward?format=excel&ft=Y&citAbs=Y&other=Y&issn=Y&isbn=Y&peer=Y&pubId=Y&gaps=Y&subject=Y&language=Y&changes=Y&productId=1009790&productName=Goethes+Werke&ftDetail=Y&citAbsDetail=Y&otherDetail=Y&accountId=14570)
+* Handbook of Pragmatics Online (https://benjamins.com/online/hop/list/subjects)
+* Handbücher zur Sprach- und Kommunikations­wissenschaft (https://www.degruyter.com/serial/hsk-b/html#volumes)
+* Killy Literatur­lexikon (https://www.degruyter.com/database/vdbo/html)
+* Kritische Kafka-Ausgabe des S.Fischer Verlages (https://www.proquest.com/kafka/advanced) / Titelliste (https://tls.search.proquest.com/titlelist/ListForward?format=excel&ft=Y&citAbs=Y&other=Y&issn=Y&isbn=Y&peer=Y&pubId=Y&gaps=Y&subject=Y&language=Y&changes=Y&productId=1009816&productName=Kafkas+Werke&ftDetail=Y&citAbsDetail=Y&otherDetail=Y&accountId=14570)
+* Metzler Geistes­wissenschaften (https://dbis.ur.de//detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&tid=0&titel_id=101014)
+* Oxford Research Encyclopedia of Linguistics (https://oxfordre.com/linguistics/browse/)
+* Oxford Research Encyclopedia of Literature (https://oxfordre.com/browse?siteToSearch=ORELIT)
+* Springer eBooks: Literature, Cultural & Media Studies (https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Springer%20eBooks%20Literature,%20Cultural%20%26%20Media%20Studies&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0)
+* Trans­cript (https://www.transcript-verlag.de/open-access/?f=12320&p=1)
+* Verfasserlexikon (https://www.degruyter.com/database/vdbo/html)
+* Wörterbuchnetz: Grimm (https://woerterbuchnetz.de/?sigle=DWB&lemid=A00001)
+* Wörterbuchnetz: Lexer (https://woerterbuchnetz.de/?sigle=Lexer&lemid=A00001)
 
 Die UB hat ein breites Angebot von E-Books für alle Fach­gebiete einschließlich Germanistik. Die E-Books können im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchiert werden und sind aus dem Netz der Universität Mannheim zugreifbar.
 Mehr Informationen hierzu finden Sie auf der Seite Hinweise zur E-Book- und Datenbanknutzung (https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
@@ -50,6 +69,12 @@ Mehr Informationen hierzu finden Sie auf der Seite Hinweise zur E-Book- und Date
 
 
 ### Fach­liche Internetquellen
+
+
+* Clarin-D  (http://clarin-d.de/)
+* DARIAH-DE (http://de.dariah.eu/)
+* TAPoR (http://tapor.ca)
+* Textgrid (http://www.textgrid.de/)
 
 **Digital Humanities**
 
@@ -91,6 +116,7 @@ Zeitschrift für Rezensionen zur germanistischen Sprach­wissenschaft (https://w
 
 ### Literatur­standorte
 
+ImBibliotheks­bereich A3finden Sie Literatur zum Fach Germanistik, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nachThemengebietenaufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.ImAusleihzentrum Schloss Westflügelgibt es weitere Literatur zur Germanistik, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.Die an der UB vorhandene Literatur können Sie imKatalog Primorecherchieren.DasLeibniz-Institut für Deutsche Sprache (IDS)in Mannheim verfügt über einen herausragenden Bestand zur Linguistik. Die in der Bibliothek des IDS vorhandene Literatur können Sie imOPAC der Bibliothek des IDSrecherchieren.
 Im Bibliotheks­bereich A3 (https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Germanistik, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach Themengebieten (https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.
 Im Ausleihzentrum Schloss Westflügel (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Germanistik, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.
@@ -100,6 +126,7 @@ Das Leibniz-Institut für Deutsche Sprache (IDS) (http://www1.ids-mannheim.de/) 
 
 ### Forschungs­einrichtungen vor Ort
 
+Universität Mannheim – Seminar für Deutsche PhilologieLeibniz-Institut für Deutsche Sprache (IDS)
 Universität Mannheim – Seminar für Deutsche Philologie (http://germanistik.uni-mannheim.de/)
 Leibniz-Institut für Deutsche Sprache (IDS) (http://www1.ids-mannheim.de/bibliothek/)
 

@@ -2,7 +2,7 @@
 title: Buch nicht am Standort?
 source_url: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/
 category: Medien
-tags: [Buchbestellung, Standort, Ausleihe, Datenschutz]
+tags: [Buchbestellung, Standort, Ausleihe, Datenschutz, Universitätsbibliothek Mannheim]
 language: de
 ---
 
@@ -12,11 +12,11 @@ Wenn das gewünschte Buch nicht an Ihrem Standort verfügbar ist, können Sie es
 
 ## Pflichtangaben zur Bestellung
 
-Um das Buch für Sie bereitzustellen, sind Angaben in den Pflichtfeldern erforderlich:
+Um das gesuchte Buch für Sie bereitzustellen, sind Angaben in den Pflichtfeldern erforderlich:
 
-- **Angaben zum Titel:** Bitte geben Sie die genauen Informationen zum gesuchten Buch an.
+- **Angaben zum Titel:** Bitte geben Sie die genauen Informationen zum Buch an.
 - **Angaben zu Ihrer Person:** Ihre Kontaktdaten sind notwendig, um die Bestellung zu bearbeiten.
 
 ## Datenschutzinformationen
 
-Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) wurden mir zur Verfügung gestellt und ich stimme der Verarbeitung meiner Daten zu.
+Die Informationen zum Datenschutz wurden mir zur Verfügung gestellt. Weitere Details finden Sie in der [Datenschutzerklärung der Universitätsbibliothek Mannheim](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/).

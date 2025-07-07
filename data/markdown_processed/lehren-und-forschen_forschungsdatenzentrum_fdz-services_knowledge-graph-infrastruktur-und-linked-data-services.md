@@ -16,9 +16,11 @@ Kontaktieren Sie uns, und wir helfen Ihnen bei der Erstellung und dem Hosting ei
 
 ### Beratung zu Standards, Terminologien, kontrollierten Vokabularien und Ontologien für Ihre Metadaten
 
-- Standards bei [FAIRSharing](https://fairsharing.org/)
-- BARTOC Registry: [https://bartoc.org/registries](https://bartoc.org/registries)
-- Linked Open Vocabularies: [https://lov.linkeddata.es/dataset/lov](https://lov.linkeddata.es/dataset/lov)
+Wir bieten Beratung zu relevanten Standards und Vokabularien, unter anderem:
+
+- [FAIRSharing](https://fairsharing.org/)
+- [BARTOC Registry](https://bartoc.org/registries)
+- [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset/lov)
 
 ### Verlinkungsdienst
 

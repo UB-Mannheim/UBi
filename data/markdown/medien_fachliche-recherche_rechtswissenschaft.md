@@ -15,6 +15,10 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 
 ### Datenbanken
 
+
+* Tutorials zur Nutzung: juris (Youtube) (https://www.youtube.com/channel/UCRP2ojLlCbZKcQHNUE7ny4w)
+* Kurzanleitung (https://www.juris.de/jportal/cms/remote_media/media/jurisde/pdf/information/Kurzanleitung_6_07.pdf) zur neuen Oberfläche: Kurzanleitung (https://www.juris.de/jportal/cms/remote_media/media/jurisde/pdf/information/Kurzanleitung_6_07.pdf) (PDF, 5.292 KB)
+
 Datenbanken zum deutschen RechtBeck-online (https://dbis.ur.de/UBMAN/resources/1168) Informationen zum Zugriff auf beck-online finden Sie unter Hinweise zur E-Book- und Datenbanknutzung (https://www.bib.uni-mannheim.de/medien/hinweise-zur-e-book-und-datenbanknutzung/#c319728). Tutorials zur Recherche in der Datenbank: beck-online (Youtube) (https://www.youtube.com/channel/UCSVnLo5_DyxJTijSiXCe4TA)
 Juris (https://dbis.ur.de/UBMAN/resources/6523) Nutzen Sie juris für die Recherche nach Rechts­prechung und Aufsätzen. Die Datenbank enthält auch Volltexte, etwa Kommentare wie den „Staudinger“. Mitglieder der Universität Mannheim können juris weiterhin auch von außerhalb des Campus nutzen.
 
@@ -35,11 +39,13 @@ Weitere Datenbanken Weitere Datenbanken zur Rechts­wissenschaft (https://dbis.u
 
 ### E-Journals
 
+Die E-Journals für das Fach Rechts­wissenschaft finden Sie in derElektronischen Zeitschriftenbibliothek (EZB)und imKatalog Primo.
 Die E-Journals für das Fach Rechts­wissenschaft finden Sie in der Elektronischen Zeitschriftenbibliothek (EZB) (https://ezb.uni-regensburg.de/) und im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 
 ### Fach­liche Internetquellen
 
+Virtuelle Fach­bibliothek RechtDie virtuelle Fach­bibliothek für internationale und interdisziplinäre Rechts­forschung bietet unter anderem einenBlog-Aggregatorjuristischer Wissenschafts­blogs.Gesetze im InternetDas Bundes­ministerium der Justiz und für Verbraucherschutz und das Bundes­amt für Justiz stellen das Bundes­recht im Internet bereit.Rechts­prechung im InternetDas Bundes­ministerium der Justiz und für Verbraucherschutz und das Bundes­amt für Justiz stellen ausgewählte Entscheidungen des Bundes­verfassungs­gerichts, der obersten Gerichte des Bundes und des Bundes­patentgerichts ab dem Jahr 2010 zur Verfügung.Verwaltungs­vorschriften im InternetDie Bundes­regierung stellt Verwaltungs­vorschriften der obersten Bundes­behörden im Internet bereit.CURIAWebseite des Gerichtshofs der Europäischen UnionRechts­wissenschaft­liche BlogsVerfassungs­blogVölkerrechts­blogQuellen zum internationalen und ausländischen RechtLaw Library of CongressDie Law Library of Congress stellt im BereichGuide to Law Onlinezahlreiche Ressourcen zusammen – unter anderem zuausländischen Rechts­ordnungen.GlobaLexDas Angebot des Hauser Global Law School Program an der NYU School of Law enthält Research Guides unter anderem zu ausländischen Rechts­ordnungen.Constitute ProjectDas Projekt unter­stüzt die Recherche zum vergleich­enden Verfassungs­recht.
 Virtuelle Fach­bibliothek Recht (http://vifa-recht.de/) Die virtuelle Fach­bibliothek für internationale und interdisziplinäre Rechts­forschung bietet unter anderem einen Blog-Aggregator (https://vifa-recht.de/informieren/blog-aggregator/) juristischer Wissenschafts­blogs.
 Gesetze im Internet (http://www.gesetze-im-internet.de/) Das Bundes­ministerium der Justiz und für Verbraucherschutz und das Bundes­amt für Justiz stellen das Bundes­recht im Internet bereit.
 Rechts­prechung im Internet (https://www.rechtsprechung-im-internet.de/) Das Bundes­ministerium der Justiz und für Verbraucherschutz und das Bundes­amt für Justiz stellen ausgewählte Entscheidungen des Bundes­verfassungs­gerichts, der obersten Gerichte des Bundes und des Bundes­patentgerichts ab dem Jahr 2010 zur Verfügung.
@@ -55,6 +61,7 @@ Constitute Project (https://www.constituteproject.org/) Das Projekt unter­stüz
 
 ### Literatur­standorte
 
+ImBibliotheks­bereich Schloss Ehrenhoffinden Sie Literatur zum Fach Rechts­wissenschaft, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nachThemengebietenaufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.ImAusleihzentrum Schloss Westflügelgibt es weitere Literatur zur Rechts­wissenschaft, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.Dievirtuelle Lehr­buchsammlungfinden Sie im Katalog Primo.
 Im Bibliotheks­bereich Schloss Ehrenhof (https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) finden Sie Literatur zum Fach Rechts­wissenschaft, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach Themengebieten (https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.
 Im Ausleihzentrum Schloss Westflügel (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Rechts­wissenschaft, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.

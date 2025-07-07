@@ -15,6 +15,7 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 
 ### Datenbanken
 
+Datenbanken helfen Ihnen beim Recherchieren wissenschaft­licher Literatur, von Pressetexten und von vielfältigen faktischen Informationen.WeitereDatenbanken zur Pädagogikund zu anderen Fach­gebieten finden Sie über dasDatenbank-Info­system (DBIS). Achtung – ein Teil der Datenbanken ist nur im Netz der Universität Mannheim zugänglich, oder von außerhalb des Campus überVPN.Publikationen zu den aktuellen PISA-Resultaten finden Sie in derOECD iLibrary.
 Datenbanken helfen Ihnen beim Recherchieren wissenschaft­licher Literatur, von Pressetexten und von vielfältigen faktischen Informationen.
 Weitere Datenbanken zur Pädagogik (https://dbis.ur.de/UBMAN/browse/subjects/30/?availability-filter-free=on&availability-filter-local=on&sort_by=2&ps=25) und zu anderen Fach­gebieten finden Sie über das Datenbank-Info­system (DBIS) (https://dbis.ur.de/UBMAN/). Achtung – ein Teil der Datenbanken ist nur im Netz der Universität Mannheim zugänglich, oder von außerhalb des Campus über VPN (https://www.bib.uni-mannheim.de/services/internetzugang/).
 Publikationen zu den aktuellen PISA-Resultaten finden Sie in der OECD iLibrary (http://www.oecd-ilibrary.org/education;jsessionid=bxpvrsum59w2.x-oecd-live-02).
@@ -22,17 +23,20 @@ Publikationen zu den aktuellen PISA-Resultaten finden Sie in der OECD iLibrary 
 
 ### E-Journals
 
+Die E-Journals für das Fach Pädagogik/Wirtschafts­pädagogik finden Sie in derElektronischen Zeitschriftenbibliothek (EZB)und imKatalog Primo.
 Die E-Journals für das Fach Pädagogik/Wirtschafts­pädagogik finden Sie in der Elektronischen Zeitschriftenbibliothek (EZB) (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=D) und im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 
 ### E-Books
 
+Alle an der UB Mannheim verfügbaren E-Books sind über denKatalog Primoauffindbar.Im Bereich der Pädagogik ist insbesondere das umfangreiche Angebot des Springer-Verlags interessant.
 Alle an der UB Mannheim verfügbaren E-Books sind über den Katalog Primo (https://www.bib.uni-mannheim.de/primo/) auffindbar.
 Im Bereich der Pädagogik ist insbesondere das umfangreiche Angebot des Springer-Verlags interessant.
 
 
 ### Forschungs­daten
 
+Die Veröffentlichung von Forschungs­daten dient der Trans­parenz und Nachvollziehbarkeit von Forschung und wird zunehmend von Universitäten, Verlagen und Forschungs­förderern erwartet.Eine Einführung in das Thema bietet die Seiteforschungs­daten.infound die Publikation „Auffinden – Zitieren – Dokumentieren“.Sind Sie auf der Suche nach Repositorien für Forschungs­daten, hilft der Dienstre3data. Um international einzelne Datensätze zu recherchieren, bietet sich der DienstDataCitean.An der Universität Mannheim stehtMADATAfür die Veröffentlichung von Forschungs­daten zur Verfügung. Speziell für die Pädagogik stellt das DIPF das Angebotforschungs­daten bildungzur Verfügung.
 Die Veröffentlichung von Forschungs­daten dient der Trans­parenz und Nachvollziehbarkeit von Forschung und wird zunehmend von Universitäten, Verlagen und Forschungs­förderern erwartet.
 Eine Einführung in das Thema bietet die Seite forschungs­daten.info (https://www.forschungsdaten.info/) und die Publikation „Auffinden – Zitieren – Dokumentieren (http://auffinden-zitieren-dokumentieren.de/)“.
 Sind Sie auf der Suche nach Repositorien für Forschungs­daten, hilft der Dienst re3data (http://service.re3data.org/search). Um international einzelne Datensätze zu recherchieren, bietet sich der Dienst DataCite (http://search.datacite.org/) an. 
@@ -40,6 +44,14 @@ An der Universität Mannheim steht MADATA (https://madata.bib.uni-mannheim.de/)
 
 
 ### Fach­liche Internetquellen
+
+
+* Leibniz-Institut für Bildungs­forschung und Bildungs­information (http://www.dipf.de/) (DIPF)
+* Max-Planck-Institut für Bildungs­forschung (https://www.mpib-berlin.mpg.de/) 
+* Fach­portal Pädagogik (http://www.fachportal-paedagogik.de/)
+* Deutscher Bildungs­server (http://www.bildungsserver.de/)
+* Deutsche Gesellschaft für Erziehungs­wissenschaft (http://www.dgfe.de/) (DGfE)
+* Landes­bildungs­server Baden-Württemberg (http://www.schule-bw.de/)
 
 Hier eine Auswahl relevanter Internetquellen im Bereich Pädagogik:
 
@@ -54,6 +66,7 @@ Hier eine Auswahl relevanter Internetquellen im Bereich Pädagogik:
 
 ### Literatur­standorte
 
+Im Bibliotheks­bereichA3finden Sie Literatur zum Fach Pädagogik, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nachThemengebietenaufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.ImAusleihzentrumSchloss Westflügel gibt es weitere Literatur zur Pädagogik, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.Die an der UB vorhandene Literatur können Sie imKatalog Primorecherchieren.
 Im Bibliotheks­bereich A3 (https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Pädagogik, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach Themengebieten (https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.
 Im Ausleihzentrum (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) Schloss Westflügel gibt es weitere Literatur zur Pädagogik, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.
@@ -61,6 +74,19 @@ Die an der UB vorhandene Literatur können Sie im Katalog Primo (https://www.bi
 
 
 ### Forschungs­einrichtungen vor Ort
+
+
+* Zentrum für Lehr­erbildung (https://www.uni-mannheim.de/lehrerbildung/zlbi/)
+* Infoseite zum Lehr­amt Gymnasium (https://www.phil.uni-mannheim.de/studium/lehramtsstudiengaenge/) an der Universität Mannheim
+* Lehr­stuhl für Pädagogische Psychologie (https://www.sowi.uni-mannheim.de/dickhaeuser/)
+* Lehr­stuhl für Bildungs­psychologie (https://www.sowi.uni-mannheim.de/muenzer/)
+* Junior­professur für Unter­richtsqualität in heterogenen Kontexten (https://www.sowi.uni-mannheim.de/karst/)
+* Junior­professur Bildung und Familie
+* Lehr­stuhl für Wirtschafts­pädagogik – Design und Evaluation instruktionaler Systeme (https://www.bwl.uni-mannheim.de/aprea/)
+* Lehr­stuhl für Wirtschafts­pädagogik – Learning, Design & Technology (https://www.bwl.uni-mannheim.de/ifenthaler/)
+* Lehr­stuhl für Wirtschafts­pädagogik – Lernen im Arbeits­prozess (https://www.bwl.uni-mannheim.de/rausch/)
+* Lehr­stuhl für Wirtschafts­pädagogik – Berufliches Lehren und Lernen (https://www.bwl.uni-mannheim.de/seifried/)
+* Lehr­stuhl für Wirtschafts­pädagogik – Kompetenz­entwicklung und Ausbildungs­qualität
 
 Das Fach Pädagogik in Mannheim:
 
@@ -80,6 +106,7 @@ Das Fach Pädagogik in Mannheim:
 
 ### Journal Ranking
 
+Aktuelle Angaben zu den „Impact Factors“ internationaler Fach­zeitschriften finden Sie in denJournal Citation Reports. Diese im „Web of Science“ öffnen und die „Education“-Kategorien auswählen.
 Aktuelle Angaben zu den „Impact Factors“ internationaler Fach­zeitschriften finden Sie in den Journal Citation Reports (https://www.bib.uni-mannheim.de/datenbanken/details/?libconnect%5Btitleid%5D=359). Diese im „Web of Science“ öffnen und die „Education“-Kategorien auswählen. 
 
 

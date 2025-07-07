@@ -10,6 +10,22 @@
 
 ### Kooperierende Einrichtungen
 
+
+* Absolventum Mannheim (Wählen Sie im Antragsformular (https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) unter „Einrichtung“ bitte „Privatperson“ aus.)
+* Alanus Hochschule
+* Duale Hochschule Baden-Württemberg Mannheim (https://www.mannheim.dhbw.de/service/bibliothek/lernen-arbeiten)
+* Evaluations­agentur Baden-Württemberg (evalag), Mannheim
+* GESIS Mannheim
+* Hochschule Ludwigshafen
+* Hochschule der Bundes­agentur für Arbeit, Mannheim
+* Institut für Deutsche Sprache (IDS), Mannheim
+* Mannheim Business School
+* Staatl. Hochschule für Musik und Darstellende Kunst, Mannheim
+* Technische Hochschule Mannheim
+* Universität Heidelberg
+* Zentrum für Psychologische Psychotherapie (ZPP), Standort Mannheim / ZI
+* Zentrum für Europäische Wirtschafts­forschung (ZEW), Mannheim
+
 Diese Einrichtungen haben einen Kooperations­vertrag mit der Universität Mannheim abgeschlossen:
 
 * Absolventum Mannheim (Wählen Sie im Antragsformular (https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) unter „Einrichtung“ bitte „Privatperson“ aus.)

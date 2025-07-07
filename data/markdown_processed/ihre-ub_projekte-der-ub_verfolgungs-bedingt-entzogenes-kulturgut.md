@@ -10,11 +10,11 @@ language: de
 
 Die Universitätsbibliothek Mannheim untersucht ihre historischen Buchbestände auf Verdachtsfälle von NS-Raubgut, um diese zu erfassen, sichtbar zu machen und sofern möglich zu restituieren.
 
-## Projektförderung und Zielsetzung
+## Projektübersicht
 
-Das Projekt wird im Förderbereich „NS-Raubgut“ vom Deutschen Zentrum für Kulturgutverluste für die Laufzeit 2024–2026 gefördert. Es ist eines von insgesamt 18 geförderten Forschungsprojekten.
+Das Projekt wird im Förderbereich „NS-Raubgut“ vom Deutschen Zentrum für Kulturgutverluste gefördert und läuft von 2024 bis 2026. Es ist eines von insgesamt 18 geförderten Forschungsprojekten.
 
-Ziel des Projektes ist es, Raubgut in den Beständen der Universitätsbibliothek zu identifizieren und die Provenienz zu klären. Anschließend soll das Raubgut nach Möglichkeit an die rechtmäßigen Eigentümer*innen bzw. ihre Nachkommen oder Rechtsnachfolger*innen zurückgegeben werden.
+Ziel ist es, Raubgut in den Beständen der Universitätsbibliothek zu identifizieren und die Provenienz zu klären. Anschließend soll das Raubgut nach Möglichkeit an die rechtmäßigen Eigentümer*innen bzw. ihre Nachkommen oder Rechtsnachfolger*innen zurückgegeben werden.
 
 ## Vorgehensweise
 

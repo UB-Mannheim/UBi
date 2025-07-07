@@ -11,6 +11,7 @@ Bitte wenden Sie sich für eine individuelle Auskunft oder Beratung an unsere Fa
 
 ### Allgemeines
 
+Dr. Rudolf Nink, M.A.Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikations­wissenschaft, PhilosophieUniversität MannheimUniversitäts­bibliothekA3 – Raum 10468159 MannheimTel.:+49 621 181-3053E-Mail:rudolf.nink@uni-mannheim.de
 
 
 ### Dr. Rudolf Nink, M.A.
@@ -23,6 +24,7 @@ Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft,
 
 ### Anglistik
 
+AnglistikDr. Rudolf Nink, M.A.Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikations­wissenschaft, PhilosophieUniversität MannheimUniversitäts­bibliothekA3 – Raum 10468159 MannheimTel.:+49 621 181-3053E-Mail:rudolf.nink@uni-mannheim.de
 
 
 ## Anglistik
@@ -39,6 +41,7 @@ Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft,
 
 ### Betriebs­wirtschafts­lehre
 
+Betriebs­wirtschafts­lehreXiuwen Ye, M.Sc.Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­pädagogikUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 27268161 MannheimTel.:+49 621 181-3753E-Mail:xiuwen.ye@uni-mannheim.de
 
 
 ## Betriebs­wirtschafts­lehre
@@ -55,6 +58,7 @@ Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­p
 
 ### Germanistik
 
+GermanistikDr. Rudolf Nink, M.A.Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikations­wissenschaft, PhilosophieUniversität MannheimUniversitäts­bibliothekA3 – Raum 10468159 MannheimTel.:+49 621 181-3053E-Mail:rudolf.nink@uni-mannheim.de
 
 
 ## Germanistik
@@ -71,6 +75,7 @@ Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft,
 
 ### Geschichte
 
+GeschichteBild: Benedikt Bego-GhinaViktor Boecking, M.A.Leiter der Abteilung Kommunikation | Fach­referent für Geschichte | E-LearningUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SW 28468161 MannheimTel.:+49 621 181-2938E-Mail:viktor.boecking@uni-mannheim.de
 
 
 ## Geschichte
@@ -87,6 +92,7 @@ Leiter der Abteilung Kommunikation | Fach­referent für Geschichte | E-Learning
 
 ### Informatik
 
+InformatikBild: Sebastian WeindelDr. Philipp ZumsteinLeiter der Abteilung Publikations­services und Forschungs­unter­stützung | Fach­referent für Informatik | Open-Access-Beauftragter der Universität MannheimUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 269.168161 MannheimTel.:+49 621 181-3006E-Mail:philipp.zumstein@uni-mannheim.deORCID-iD:0000-0002-6485-9434
 
 
 ## Informatik
@@ -104,6 +110,7 @@ Leiter der Abteilung Publikations­services und Forschungs­unter­stützung | F
 
 ### Mathematik
 
+MathematikBild: Alexander MünchChristos Sidiropoulos, M.Ed.Referent für Forschungs­daten­management (Data Literacy) | Fach­referent für MathematikUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 27268161 MannheimTel.:+49 621 181-2962E-Mail:christos.sidiropoulos@uni-mannheim.deORCID-iD:0009-0001-3341-3149
 
 
 ## Mathematik
@@ -121,6 +128,7 @@ Referent für Forschungs­daten­management (Data Literacy) | Fach­referent fü
 
 ### Medien- und Kommunikations­wissenschaften
 
+Medien- und Kommunikations­wissenschaftenDr. Rudolf Nink, M.A.Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikations­wissenschaft, PhilosophieUniversität MannheimUniversitäts­bibliothekA3 – Raum 10468159 MannheimTel.:+49 621 181-3053E-Mail:rudolf.nink@uni-mannheim.de
 
 
 ## Medien- und Kommunikations­wissenschaften
@@ -137,6 +145,7 @@ Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft,
 
 ### Pädagogik und Wirtschafts­pädagogik
 
+Pädagogik und Wirtschafts­pädagogikXiuwen Ye, M.Sc.Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­pädagogikUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 27268161 MannheimTel.:+49 621 181-3753E-Mail:xiuwen.ye@uni-mannheim.de
 
 
 ## Pädagogik und Wirtschafts­pädagogik
@@ -153,6 +162,7 @@ Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­p
 
 ### Philosophie
 
+PhilosophieDr. Rudolf Nink, M.A.Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikations­wissenschaft, PhilosophieUniversität MannheimUniversitäts­bibliothekA3 – Raum 10468159 MannheimTel.:+49 621 181-3053E-Mail:rudolf.nink@uni-mannheim.de
 
 
 ## Philosophie
@@ -169,6 +179,7 @@ Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft,
 
 ### Politik­wissenschaft
 
+Politik­wissenschaftBild: Julia GeigerDr. Hendrik PlatteFach­referent für Politik­wissenschaft, Soziologie und Psychologie | Ansprech­partner EDZUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 283MannheimTel.:+49 621 181-2990E-Mail:edz.ub@uni-mannheim.de
 
 
 ## Politik­wissenschaft
@@ -185,6 +196,7 @@ Fach­referent für Politik­wissenschaft, Soziologie und Psychologie | Ansprech
 
 ### Psychologie
 
+PsychologieBild: Julia GeigerDr. Hendrik PlatteFach­referent für Politik­wissenschaft, Soziologie und Psychologie | Ansprech­partner EDZUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 283MannheimTel.:+49 621 181-2990E-Mail:edz.ub@uni-mannheim.de
 
 
 ## Psychologie
@@ -201,6 +213,7 @@ Fach­referent für Politik­wissenschaft, Soziologie und Psychologie | Ansprech
 
 ### Rechts­wissenschaft
 
+Rechts­wissenschaftBild: Sebastian WeindelDr. Marion von Francken-WelzStellvertretende Leiterin der Abteilung Medienbearbeitung | Fach­referentin für Rechts­wissenschaftUniversität MannheimUniversitäts­bibliothekSchloss Ehrenhof – Raum M 30568161 MannheimTel.:+49 621 181-3024E-Mail:marion.francken-welz@uni-mannheim.de
 
 
 ## Rechts­wissenschaft
@@ -217,6 +230,7 @@ Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fach­referentin fü
 
 ### Romanistik
 
+RomanistikBild: Sebastian WeindelDr. Jorge Murcia SerraInformations­kompetenz und E-Learning | Fach­referent für Romanistik und Sprach­lernmaterialien | Education & Training für BERD@NFDIUniversität MannheimUniversitäts­bibliothekA3 – Raum 10568159 MannheimTel.:+49 621 181-2997E-Mail:jorge.murcia@uni-mannheim.de
 
 
 ## Romanistik
@@ -233,6 +247,7 @@ Informations­kompetenz und E-Learning | Fach­referent für Romanistik und Spra
 
 ### Soziologie
 
+SoziologieBild: Julia GeigerDr. Hendrik PlatteFach­referent für Politik­wissenschaft, Soziologie und Psychologie | Ansprech­partner EDZUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 283MannheimTel.:+49 621 181-2990E-Mail:edz.ub@uni-mannheim.de
 
 
 ## Soziologie
@@ -249,6 +264,7 @@ Fach­referent für Politik­wissenschaft, Soziologie und Psychologie | Ansprech
 
 ### Sprach­praxis
 
+Bild: Sebastian WeindelDr. Jorge Murcia SerraInformations­kompetenz und E-Learning | Fach­referent für Romanistik und Sprach­lernmaterialien | Education & Training für BERD@NFDIUniversität MannheimUniversitäts­bibliothekA3 – Raum 10568159 MannheimTel.:+49 621 181-2997E-Mail:jorge.murcia@uni-mannheim.de
 
 
 ### Dr. Jorge Murcia Serra
@@ -261,6 +277,7 @@ Informations­kompetenz und E-Learning | Fach­referent für Romanistik und Spra
 
 ### Allgemeine Sprach- und Literatur­wissenschaft
 
+Allgemeine Sprach- und Literatur­wissenschaftDr. Rudolf Nink, M.A.Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikations­wissenschaft, PhilosophieUniversität MannheimUniversitäts­bibliothekA3 – Raum 10468159 MannheimTel.:+49 621 181-3053E-Mail:rudolf.nink@uni-mannheim.de
 
 
 ## Allgemeine Sprach- und Literatur­wissenschaft
@@ -277,6 +294,7 @@ Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft,
 
 ### Volkswirtschafts­lehre
 
+Volkswirtschafts­lehreXiuwen Ye, M.Sc.Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­pädagogikUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 27268161 MannheimTel.:+49 621 181-3753E-Mail:xiuwen.ye@uni-mannheim.de
 
 
 ## Volkswirtschafts­lehre

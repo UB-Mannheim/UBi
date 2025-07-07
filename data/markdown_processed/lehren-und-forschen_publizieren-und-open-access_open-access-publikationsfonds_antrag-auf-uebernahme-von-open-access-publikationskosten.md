@@ -12,8 +12,8 @@ Bitte informieren Sie sich vor dem Absenden des Antrags auf der Website des [Ope
 
 ## Persönliche Angaben
 
-*(Hier werden persönliche Daten eingetragen.)*
+*(Hier sind die persönlichen Angaben einzutragen.)*
 
 ## Angaben zum Artikel
 
-*(Hier werden die Informationen zum Zeitschriftenartikel eingetragen.)*
+*(Hier sind die Angaben zum Artikel einzutragen.)*

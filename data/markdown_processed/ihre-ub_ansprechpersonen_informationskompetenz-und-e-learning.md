@@ -22,9 +22,9 @@ Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachle
 - Education & Training im Projekt BERD@NFDI  
 
 **Kontakt:**  
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim  
-- Telefon: +49 621 181-2997  
-- E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)  
+Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim  
+Telefon: +49 621 181-2997  
+E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)  
 
 ## Viktor Boecking, M.A.
 
@@ -40,6 +40,6 @@ Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
 - Betreuung des Bereichs E-Learning  
 
 **Kontakt:**  
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim  
-- Telefon: +49 621 181-2938  
-- E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
+Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim  
+Telefon: +49 621 181-2938  
+E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)

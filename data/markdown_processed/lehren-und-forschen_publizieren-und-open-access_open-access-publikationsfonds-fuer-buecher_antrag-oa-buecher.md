@@ -14,12 +14,12 @@ Es geht hier um die Förderung von ganzen Büchern in Open Access. Wenn Sie stat
 
 ## Persönliche Angaben
 
-*(Hier erfolgt die Eingabe der persönlichen Daten des Antragstellers.)*
+*(Hier werden persönliche Daten abgefragt.)*
 
 ## Angaben zum Buch
 
-*(Hier werden die relevanten Informationen zum Buch eingetragen.)*
+*(Hier werden Informationen zum Buch erfasst.)*
 
 ## Weitere Punkte
 
-*(Zusätzliche Angaben und Informationen zum Antrag.)*
+*(Weitere relevante Angaben zum Antrag.)*

@@ -40,6 +40,12 @@ Ausbildung für den höheren Bibliotheksdienst an wissenschaft­lichen Bibliothe
 
 ### Praktikum für Schülerinnen und Schüler im Rahmen von BORS oder BOGY
 
+
+* Das Praktikum dauert normalerweise eine Woche.
+* Die Schülerinnen und Schüler sind im Rahmen von Orientierungs­praktika über ihre Schule unfallversichert.
+* Ein Entgelt kann nicht gewährt werden.
+* Bitte bewirb dich ca. sechs Wochen vor Praktikumsbeginn und füge deiner Bewerbung ein kurzes Motivations­schreiben, deinen Lebens­lauf sowie dein letztes Schulzeugnis bei.
+
 Für **S**chülerinnen und **S**chüler ab der 9. Jahrgangsstufe und dem 14. Lebens­jahr ist es möglich, an der Universitäts­bibliothek (U**B**) ein einwöchiges Praktikum im **R**ahmen von **B****O****R****S**/**B****O****GY** (Praktika zur**B**erufs**O**rientierung an**R**eal**S**chulen/**GY**mnasien) zu absolvieren. Während des Praktikums erhalten die Teilnehmenden Einblick in die beruflichen Tätigkeits­felder einer wissenschaft­lichen **B**ibliothek.
 
 * Das Praktikum dauert normalerweise eine Woche.
@@ -52,10 +58,12 @@ Für **S**chülerinnen und **S**chüler ab der 9. Jahrgangsstufe und dem 14. Leb
 ### Pflicht­praktikum im Rahmen der  Ausbildung zum/zur Fach­angestellten für Medien- und Informations­dienste (FaMI)
 
 Du bist gerade in der FaMI-Ausbildung und möchtest die Arbeit an einer wissenschaft­lichen Bibliothek kennenlernen? Bei uns kannst du in einem ein- bis zweiwöchigen Praktikum die verschiedenen Arbeits­bereiche und Tätigkeits­felder der Universitäts­bibliothek Mannheim näher unter die Lupe nehmen. Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung und mehr – freue dich auf einen interessanten Einblick in unseren Arbeits­alltag!
+Du bist gerade in der FaMI-Ausbildung und möchtest die Arbeit an einer wissenschaft­lichen Bibliothek kennenlernen? Bei uns kannst du in einem ein- bis zweiwöchigen Praktikum die verschiedenen Arbeits­bereiche und Tätigkeits­felder der Universitäts­bibliothek Mannheim näher unter die Lupe nehmen. Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung und mehr – freue dich auf einen interessanten Einblick in unseren Arbeits­alltag!
 
 
 ### Pflicht­praktikum im Rahmen von bibliotheks- und informations­wissenschaft­lichen Studien­gängen
 
+Sie möchten im Rahmen Ihres informations­wissenschaft­lichen Studien­gangs ein mehrwöchiges Praktikum oder ein Praxissemester an einer innovativen Universitäts­bibliothek absolvieren? Forschungs­daten, Digitalisierung mit OCR, Lernraumgestaltung, Öffentlichkeits­arbeit – was interessiert Sie? Wir bieten Ihnen einen Über­blick über die wichtigsten Abteilungen und Arbeits­gebiete der Universitäts­bibliothek. Danach können Sie in Arbeits­bereiche tiefer eintauchen, mitarbeiten oder ein eigenes Projekt durchführen.
 Sie möchten im Rahmen Ihres informations­wissenschaft­lichen Studien­gangs ein mehrwöchiges Praktikum oder ein Praxissemester an einer innovativen Universitäts­bibliothek absolvieren? Forschungs­daten, Digitalisierung mit OCR, Lernraumgestaltung, Öffentlichkeits­arbeit – was interessiert Sie? Wir bieten Ihnen einen Über­blick über die wichtigsten Abteilungen und Arbeits­gebiete der Universitäts­bibliothek. Danach können Sie in Arbeits­bereiche tiefer eintauchen, mitarbeiten oder ein eigenes Projekt durchführen.
 
 

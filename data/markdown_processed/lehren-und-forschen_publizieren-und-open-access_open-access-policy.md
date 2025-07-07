@@ -2,27 +2,31 @@
 title: Open Access Policy der Universität Mannheim
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-policy/
 category: Services
-tags: [Open Access, Publizieren, Forschungsdaten, Universitätsbibliothek Mannheim, MADOC, MADATA, Wissenschaftskommunikation]
+tags: [Open Access, Universität Mannheim, Publizieren, Forschungsdaten, MADOC, MADATA, Universitätsbibliothek, Wissenschaft, Berliner Erklärung]
 language: de
 ---
 
 # Open Access Policy der Universität Mannheim
 
-Das Profil der Universität Mannheim ist geprägt von den anerkannten Wirtschafts- und Sozialwissenschaften sowie deren Vernetzung mit Geistes- und Rechtswissenschaften, Mathematik und Informatik. Ziel ist eine hohe Sichtbarkeit in Forschung und Lehre.
+Das Profil der Universität Mannheim ist geprägt von den anerkannten Wirtschafts- und Sozialwissenschaften sowie deren Vernetzung mit Geistes-, Rechtswissenschaften, Mathematik und Informatik. Gemäß ihrem Leitbild strebt die Universität eine hohe Sichtbarkeit in Forschung und Lehre an.
 
-Vor diesem Hintergrund sieht die Universität Mannheim Open Access als wirkungsvolles Publikationsmodell, um die Wissensverbreitung nachhaltig zu verbessern. Gemäß der [Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen](https://openaccess.mpg.de/Berliner-Erklaerung) bedeutet Open Access den weltweit freien und unbeschränkten Zugang zu wissenschaftlichen Erkenntnissen im Internet.
+Vor diesem Hintergrund betrachtet die Universität Mannheim Open Access als ein wirkungsvolles Publikationsmodell zur nachhaltigen Verbesserung der Wissensverbreitung. Die [Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen](https://openaccess.mpg.de/Berliner-Erklaerung) definiert Open Access als den weltweit freien und unbeschränkten Zugang zu wissenschaftlichen Erkenntnissen im Internet.
 
 ## Empfehlungen und Unterstützung für Wissenschaftlerinnen und Wissenschaftler
 
-- Die Universität Mannheim empfiehlt ihren Wissenschaftlerinnen und Wissenschaftlern ausdrücklich, ihre Forschungsergebnisse über Open Access der weltweiten Wissenschaftscommunity und der Öffentlichkeit zugänglich zu machen.
-- Open Access umfasst neben wissenschaftlichen Publikationen auch Forschungsdaten, Metadaten, Quellenmaterial, digitale Darstellungen von Bild- und Grafikmaterial, Software und multimediales wissenschaftliches Material.
-- Die Universität begrüßt es, wenn Wissenschaftlerinnen und Wissenschaftler als Herausgeberinnen, Herausgeber oder Gutachter die Transformation zu Open Access Zeitschriften unterstützen.
+- Die Universität Mannheim empfiehlt ihren Forschenden ausdrücklich, ihre Forschungsergebnisse über Open Access der weltweiten Wissenschaftscommunity und der Öffentlichkeit zugänglich zu machen.
+
+- Open Access umfasst neben wissenschaftlichen Publikationen auch Forschungsdaten, Metadaten, Quellenmaterial, digitale Darstellungen von Bild- und Grafikmaterial, Software sowie multimediales wissenschaftliches Material.
+
+- Die Universität begrüßt es, wenn Wissenschaftlerinnen und Wissenschaftler als Herausgeber oder Gutachter die Transformation zu Open Access Zeitschriften unterstützen.
 
 ## Rolle der Universitätsbibliothek Mannheim
 
-- Die Universitätsbibliothek koordiniert und fördert die Open Access Aktivitäten der Universität.
+- Die Universitätsbibliothek koordiniert und fördert die Open Access Aktivitäten der Universität durch geeignete Angebote.
+
 - Mit den institutionellen Repositorien [MADOC](https://madoc.bib.uni-mannheim.de/) und [MADATA](https://madata.bib.uni-mannheim.de/) stellt die Bibliothek eine Open Access Infrastruktur bereit, die den Standards für langfristige Zugänglichkeit und den Austausch von Metadaten mit nationalen und internationalen Servern entspricht.
-- Die Bibliothek unterstützt und berät Wissenschaftlerinnen und Wissenschaftler zu rechtlichen und organisatorischen Fragen des Open Access Publizierens.
+
+- Die Universitätsbibliothek unterstützt und berät Forschende zu rechtlichen und organisatorischen Fragen des Open Access Publizierens.
 
 ## Freie Wahl des Publikationsweges
 

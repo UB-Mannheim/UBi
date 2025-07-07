@@ -2,7 +2,7 @@
 title: Deutscher Reichsanzeiger und Preußischer Staatsanzeiger
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/deutscher-reichsanzeiger-und-preussischer-staatsanzeiger/
 category: Projekte
-tags: [Forschungsprojekt, Digitalisierung, Deutscher Reichsanzeiger, Preußischer Staatsanzeiger, Volltextsuche, OCR, Public Domain]
+tags: [Deutscher Reichsanzeiger, Preußischer Staatsanzeiger, Digitalisierung, Volltextsuche, Forschungsdatenzentrum, UB Mannheim, historische Zeitungen]
 language: de
 ---
 

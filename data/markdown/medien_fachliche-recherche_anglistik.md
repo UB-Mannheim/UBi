@@ -15,6 +15,7 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 
 ### Datenbanken
 
+Datenbanken zur Anglistikund zu anderen Fach­gebieten finden Sie über dasDatenbank-Info­system (DBIS).Fach­informations­dienst Allgemeine und Vergleich­ende Literatur­wissenschaft (FID AVL)Fach­informations­dienst LinguistikBeachten Sie ergänzend auch die Datenbanken zu den Fach­gebietenAllgemeines,Allgemeine und vergleich­ende Sprach- und Literatur­wissenschaftsowieMedien- und Kommunikations­wissenschaftenundPädagogik.Direktlinks zuCanadian Literary Centre,JSTOR,Literature Online (LION)undMLA.
 Datenbanken zur Anglistik (https://dbis.ur.de/UBMAN/browse/subjects/5/?availability-filter-free=on&availability-filter-local=on) und zu anderen Fach­gebieten finden Sie über das Datenbank-Info­system (DBIS) (https://dbis.ur.de/UBMAN/browse/subjects/).
 Fach­informations­dienst Allgemeine und Vergleich­ende Literatur­wissenschaft (FID AVL) (https://www.avldigital.de/de/recherchieren/)
 Fach­informations­dienst Linguistik (https://www.linguistik.de/de/)
@@ -24,11 +25,36 @@ Direktlinks zu Canadian Literary Centre (https://search.ebscohost.com/login.asp
 
 ### E-Journals
 
+Die E-Journals für das Fach Anglistik finden Sie in derElektronischen Zeitschriftenbibliothek (EZB)und imKatalog Primo.Beachten Sie ergänzend auch die Elektronischen Zeitschriften zu den Fach­gebietenAllgemeines,Allgemeine und vergleich­ende Sprach- und Literatur­wissenschaft,Bildungs­geschichtesowieMedien- und Kommunikations­wissenschaftenundPädagogik.
 Die E-Journals für das Fach Anglistik finden Sie in der Elektronischen Zeitschriftenbibliothek (EZB) (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=H) und im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 Beachten Sie ergänzend auch die Elektronischen Zeitschriften zu den Fach­gebietenAllgemeines (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=AZ), Allgemeine und vergleich­ende Sprach- und Literatur­wissenschaft (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=E), Bildungs­geschichte (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=DD) sowie Medien- und Kommunikations­wissenschaften (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=AP) und Pädagogik (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=D).
 
 
 ### E-Books
+
+
+* Arden Shakespeare (https://www.dramaonlinelibrary.com/search-results?any=arden%20shakespeare&su=playtext)
+* Cambridge Companions Online (https://www.cambridge.org/core/what-we-publish/collections/cambridge-companions)
+* Cambridge Histories (https://www.cambridge.org/core/publications/collections/cambridge-histories)
+* Drama Online  (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=101288&cHash=48cf4bbe6fccbf03b64fd3c85748e686)Bibliographic Guides (https://www.dramaonlinelibrary.com/bibliographic-guides)Subject Guides (https://www.dramaonlinelibrary.com/subject-guides) 
+* Eighteenth Century Collections Online (ECCO) (https://dbis.ur.de/frontdoor.php?titel_id=4855)
+* English Language Women's Literature of the 18. & 19. Centuries (https://kxp.k10plus.de/DB=5.3/xslt/DB=5.3/)
+* Handbook of Pragmatics Online (https://benjamins.com/online/hop/list/subjects)
+* Handbücher zur Sprach- und Kommunikations­wissenschaft (https://www.degruyter.com/serial/hsk-b/html#volumes)
+* Literature Online (https://www.proquest.com/lion/advanced)
+* Metzler Geistes­wissenschaften (https://dbis.ur.de//detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&tid=0&titel_id=101014)
+* Nick Hern Modern Books Plays (https://www.dramaonlinelibrary.com/nick-hern-books-modern-plays)
+* Oberon Books 1 (https://www.dramaonlinelibrary.com/oberon-books-collection) 
+* Oberon Books 2 (https://www.dramaonlinelibrary.com/oberon-books-collection-2)
+* Oxford Bibliographies (https://www.oxfordbibliographies.com/) z. B.: Psycholinguistics (https://www.oxfordbibliographies.com/display/document/obo-9780199828340/obo-9780199828340-0153.xml)
+* Oxford Handbooks Online (https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,oxford%20handbooks&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=tlevel,include,online_resources&offset=0)
+* Oxford Research Encyclopedia of American History (https://oxfordre.com/americanhistory/browse/)
+* Oxford Research Encyclopedia of Linguistics (https://oxfordre.com/linguistics/browse/)
+* Oxford Research Encyclopedia of Literature (https://oxfordre.com/browse?siteToSearch=ORELIT)
+* Oxford Very Short Introductions (https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,oxford%20Very%20Short%20Introductions&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=tlevel,include,online_resources&offset=0)
+* Springer eBooks: Literature, Cultural & Media Studies (https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Springer%20eBooks%20Literature,%20Cultural%20%26%20Media%20Studies&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0)
+* Trans­cript (https://www.transcript-verlag.de/open-access/?f=12320&p=1)
+* Twentieth Century North American Drama (https://dbis.ur.de//detail.php?bib_id=alle&colors=&ocolors=&lett=fs&tid=0&titel_id=6140)
 
 Die UB hat ein breites Angebot von E-Books für alle Fach­gebiete einschließlich Anglistik. Die E-Books können im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchiert werden und sind aus dem Netz der Universität Mannheim zugreifbar.
 Mehr Informationen hierzu finden Sie auf der Seite Hinweise zur E-Book- und Datenbanknutzung (https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
@@ -64,6 +90,12 @@ Mehr Informationen hierzu finden Sie auf der Seite Hinweise zur E-Book- und Date
 
 
 ### Fach­liche Internetquellen
+
+
+* Clarin-D  (http://clarin-d.de/)
+* DARIAH-DE (http://de.dariah.eu/)
+* TAPoR (http://tapor.ca)
+* Textgrid (http://www.textgrid.de/)
 
 **Digital Humanities**
 
@@ -114,6 +146,7 @@ Mehr Informationen hierzu finden Sie auf der Seite Hinweise zur E-Book- und Date
 
 ### Literatur­standorte
 
+ImBibliotheks­bereich A3finden Sie Literatur zum Fach Anglistik, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nachThemengebietenaufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.ImAusleihzentrum Schloss Westflügelgibt es weitere Literatur zur Anglistik, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.Die an der UB vorhandene Literatur können Sie imKatalog Primorecherchieren.
 Im Bibliotheks­bereich A3 (https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Anglistik, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach Themengebieten (https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.
 Im Ausleihzentrum Schloss Westflügel (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Anglistik, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.
@@ -122,6 +155,7 @@ Die an der UB vorhandene Literatur können Sie im Katalog Primo (https://primo.
 
 ### Forschungs­einrichtungen vor Ort
 
+Bibliothek des DAI Heidelberg–eBook-CatalogueHULC Lab(Heidelberg)Leibniz-Institut für Deutsche Sprache (IDS)mit einer Spezialbibliothek zur LinguistikMannheim Eye LABUniversität Mannheim – Anglistisches Seminar
 Bibliothek des DAI Heidelberg (https://dai-heidelberg.de/de/unsere-angebote/bibliothek/) – eBook-Catalogue (https://ebooksusa.overdrive.com/)
 HULC Lab (https://hulclab.eu/) (Heidelberg)
 Leibniz-Institut für Deutsche Sprache (IDS) (http://www1.ids-mannheim.de/bibliothek/) mit einer Spezialbibliothek zur Linguistik

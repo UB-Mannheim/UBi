@@ -1,8 +1,8 @@
 ---
 title: Datenmanagementpläne & MADataPlan
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/
-category: Services
-tags: [Datenmanagementplan, Forschungsdaten, MADataPlan, RDMO, Forschungsdatenzentrum, Beratung, Schulungen]
+category: Projekte
+tags: [Datenmanagementplan, Forschungsdaten, MADataPlan, RDMO, Forschungsdatenzentrum, Beratung, Schulungen, Horizon Europe, ERC Grants, DFG]
 language: de
 ---
 
@@ -15,7 +15,7 @@ Ein [Datenmanagementplan (DMP)](https://scienceeurope.org/media/4brkxxe5/se_rdm_
 Das FDZ unterstützt Forschende bei der Erstellung von DMPs durch:
 
 - Schulungen, Workshops und Beratung zu DMPs (siehe [Research Skills Seminar Series](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/))
-- MADataPlan – ein webbasiertes Tool zur Erstellung von DMPs, gehostet vom FDZ (RDMO): [https://fdz.bib.uni-mannheim.de/madataplan](https://fdz.bib.uni-mannheim.de/madataplan)
+- MADataPlan – ein webbasiertes Tool zur Erstellung von DMPs, gehostet vom FDZ (RDMO) ([MADataPlan Tool](https://fdz.bib.uni-mannheim.de/madataplan))
 - Prüfung und Beratung von DMPs vor Einreichung oder Beginn eines Forschungsprojektes
 
 Weitere allgemeine Informationen zu DMPs finden Sie [hier](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/).
@@ -29,7 +29,8 @@ Nutzen Sie [MADataPlan](https://fdz.bib.uni-mannheim.de/madataplan), eine Instan
 
 ### Forschungsdatenzentrum (FDZ)
 
-**Team:** Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will  
-**Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim  
-**Web:** [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
-**E-Mail:** forschungsdaten@uni-mannheim.de
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim  
+- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
+- E-Mail: forschungsdaten@uni-mannheim.de

@@ -8,7 +8,7 @@ language: de
 
 # Sicherheit in den Bibliotheksbereichen der Universitätsbibliothek Mannheim
 
-Für die Bibliotheksbereiche der Universitätsbibliothek Mannheim gelten die folgenden Hinweise zum Schutz und zur Sicherheit aller Nutzer*innen.
+Für die Bibliotheksbereiche der Universitätsbibliothek Mannheim gelten die folgenden Hinweise zur Sicherheit.
 
 ## Sicherungsgates
 
@@ -22,7 +22,7 @@ Die Bibliotheksbereiche sind öffentlich zugängliche Räume. Bitte lassen Sie k
 
 ### InfoCenter
 
-- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim  
-- **Web:** [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)  
-- **Telefon:** +49 621 181-2948  
-- **E-Mail:** info.ub@uni-mannheim.de
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim  
+- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)  
+- Telefon: +49 621 181-2948  
+- E-Mail: info.ub@uni-mannheim.de

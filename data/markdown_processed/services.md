@@ -18,22 +18,22 @@ Weitere Details unter: [Bibliotheksausweis](https://www.bib.uni-mannheim.de/serv
 ## Arbeitsplätze
 
 Einzel- und Gruppenarbeitsplätze, Belegung, technische Ausstattung, Schulungsräume, Sonderleseplätze und Schließfächer.  
-Mehr Informationen finden Sie hier: [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)
+Mehr Informationen: [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)
 
 ## Internetzugang
 
 WLAN-Netz eduroam, VPN-Client und Informationen der Universitäts-IT.  
-Details zum Internetzugang: [Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/)
+Details finden Sie hier: [Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/)
 
 ## Drucken, Kopieren und Scannen
 
 Drucken von Benutzer-PCs der UB und von mobilen Geräten, Ihr virtuelles Druckkonto, Anleitungen zum Drucken, Kopieren und Scannen.  
-Weitere Informationen: [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
+Weitere Informationen: [Drucken, Kopieren und Scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
 
 ## Kurse und Tutorials
 
 Alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials und Angebote für Schulen.  
-Mehr erfahren unter: [Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
+Mehr dazu unter: [Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 
 ## Schreibberatung
 

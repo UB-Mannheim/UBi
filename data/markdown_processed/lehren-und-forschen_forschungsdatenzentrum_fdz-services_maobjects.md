@@ -2,19 +2,19 @@
 title: MAObjects – Digitale Sammlungen erstellen mit Omeka
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/
 category: Projekte
-tags: [Digitale Sammlungen, Omeka, MAObjects, Forschungsdatenzentrum, Universitätsbibliothek Mannheim, Content-Management-System, Metadaten, Virtuelle Ausstellungen]
+tags: [MAObjects, digitale Sammlungen, Omeka, Content-Management-System, Metadaten, Universitätsbibliothek Mannheim, Forschungsdatenzentrum, virtuelle Ausstellungen]
 language: de
 ---
 
 # MAObjects – Digitale Sammlungen erstellen mit Omeka
 
-Die Universitätsbibliothek Mannheim bietet Forschenden mit **MAObjects** eine Plattform zur Erstellung und Präsentation digitaler Objektsammlungen und virtueller Ausstellungen.
+Die [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de) bietet Forschenden mit **MAObjects** eine Plattform zur Erstellung und Präsentation digitaler Objektsammlungen und virtueller Ausstellungen.
 
 ## Was ist MAObjects?
 
-Über das Content-Management-System können digitale Objekte (Bilder, Texte, Video- und Audio-Dateien) hochgeladen, importiert oder eingebettet werden. Die Beschreibung der Objekte mittels standardisierter Metadaten stellt die Durchsuchbarkeit der Sammlungen sicher.
+Über das Content-Management-System können **digitale Objekte** (Bilder, Texte, Video- und Audio-Dateien) hochgeladen, importiert oder eingebettet werden. Die Beschreibung der Objekte mittels **standardisierter Metadaten** stellt die Durchsuchbarkeit der Sammlungen sicher.
 
-Für die ansprechende Präsentation der Objekte steht ein Theme im **Corporate Identity (CI)** der Universität Mannheim zur Verfügung. Über eine API können die Daten zur weiteren Verwendung im Sinne einer offenen und reproduzierbaren Wissenschaft angeboten werden.
+Für die **ansprechende Präsentation** der Objekte steht ein Theme im **Corporate Identity (CI) der Universität Mannheim** zur Verfügung. Über eine **API** können die Daten zur weiteren Verwendung im Sinne einer **offenen und reproduzierbaren Wissenschaft** angeboten werden.
 
 ## Unser Service
 
@@ -22,7 +22,7 @@ Das Forschungsdatenzentrum (FDZ) übernimmt das Hosting und unterstützt Forsche
 
 ## Software „OMEKA“
 
-Für die technische Umsetzung der digitalen Sammlungen wird das freie, quelloffene Content-Management-System [OMEKA](https://omeka.org) genutzt. Im Vergleich zu traditioneller institutioneller Repository-Software konzentriert sich OMEKA auf die Anzeige der einzelnen Objekte und verwendet dabei standardisierte Metadaten, zum Beispiel unqualifiziertes Dublin Core.
+Für die technische Umsetzung der digitalen Sammlungen wird das freie, quelloffene Content-Management-System [OMEKA](https://omeka.org) genutzt. Im Vergleich zu traditioneller institutioneller Repository-Software konzentriert sich OMEKA auf die Anzeige der einzelnen Objekte und verwendet dabei standardisierte Metadaten, zum Beispiel unqualifizierten Dublin Core.
 
 ## Unsere digitalen Sammlungen
 

@@ -57,6 +57,28 @@ Der Einsatz für Qualifikations­arbeiten und Forschungs­zwecke ist nicht zulä
 * MSCEIT
 
 
+* AIST-3
+* LEAD
+* LMI
+* Postkorb „OfficeMail“
+* LSA
+* TOP
+* START-P
+* IST-2000-R
+* BOMAT Standard
+* CFT-20-R mit WS/ZF-R (2. Aufl. von 2019)
+* DESIGMA-Advanced
+* d2-R (elektronische Fassung)
+* FAKT-II
+* CompACT-Vi
+* MMPI-2-RF
+* HASE (Homburger ADHS-Skala f. Erwachsene)
+* EDI-2
+* SCL-90-S
+* FEEL-E
+* MSCEIT
+
+
 
 ## Nutzung
 

@@ -2,7 +2,7 @@
 title: Öffentlichkeitsarbeit der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/
 category: Services
-tags: [Öffentlichkeitsarbeit, Kommunikation, Universitätsbibliothek Mannheim, Ansprechpartner, E-Learning, historische Sammlungen, Webredaktion]
+tags: [Öffentlichkeitsarbeit, Kommunikation, Universitätsbibliothek Mannheim, E-Learning, historische Sammlungen, Webredaktion]
 language: de
 ---
 

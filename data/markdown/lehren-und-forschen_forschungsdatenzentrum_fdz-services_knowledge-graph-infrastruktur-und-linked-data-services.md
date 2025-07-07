@@ -19,8 +19,18 @@ Kontaktieren Sie uns und wir helfen Ihnen bei der Erstellung und dem Hosting ein
 * Linked Open Vocabularies (https://lov.linkeddata.es/dataset/lov)
 
 
+* Standards at FAIRSharing (https://fairsharing.org/)
+* BARTOC registry (https://bartoc.org/registries)
+* Linked Open Vocabularies (https://lov.linkeddata.es/dataset/lov)
+
+
 
 ### Verlinkungs­dienst
+
+
+* Verknüpfen Sie Ihre Metadaten und Daten mit Entitäten in öffentlichen Datenbanken und Wissensgraphen mithilfe der Verknüpfung benannter Entitäten und OpenRefine (https://openrefine.org).
+* Wir unter­stützen Sie bei der Erstellung eines annotierten Korpus zur Erkennung und Verknüpfung benannter Entitäten mithilfe der Open-Source-Software INCEpTION (https://inception-project.github.io).
+* Training von Deep-Learning-Modellen für die Erkennung und Verknüpfung benannter Entitäten
 
 
 * Verknüpfen Sie Ihre Metadaten und Daten mit Entitäten in öffentlichen Datenbanken und Wissensgraphen mithilfe der Verknüpfung benannter Entitäten und OpenRefine (https://openrefine.org).
@@ -31,11 +41,13 @@ Kontaktieren Sie uns und wir helfen Ihnen bei der Erstellung und dem Hosting ein
 
 ### Hochladen Ihrer Metadaten und/oder Daten in den allgemeinen offenen Wikidata-Wissensgraphen
 
+Beispiel:Der YP-Korpus
 Beispiel: Der YP-Korpus  (https://www.wikidata.org/wiki/Q119844794)
 
 
 ### Verbesserung Ihres Forscherprofils bei Wikidata und Scholia
 
+Beispiel: Profil von Christian Bizer beiWikidataundScholia
 Beispiel: Profil von Christian Bizer bei Wikidata (https://www.wikidata.org/wiki/Q17744291) und Scholia (https://scholia.toolforge.org/author/Q17744291)
 
 

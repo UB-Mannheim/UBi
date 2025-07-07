@@ -2,15 +2,15 @@
 title: InfoCenter der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/standorte/infocenter/
 category: Standorte
-tags: [InfoCenter, Universitätsbibliothek Mannheim, Bibliotheksausweis, ecUM, Sonderleseplätze, Ausleihe, mobile Geräte, Öffnungszeiten, Kontakt]
+tags: [InfoCenter, Universitätsbibliothek Mannheim, Bibliotheksausweis, ecUM, Sonderleseplätze, mobile Geräte, Öffnungszeiten, Kontakt]
 language: de
 ---
 
 # InfoCenter der Universitätsbibliothek Mannheim
 
-Das [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) ist Ihre zentrale Anlaufstelle für Auskunft und Beratung zu Ihrem Bibliotheksausweis, zur Literaturrecherche und weiteren Bibliotheksservices. Es wird in Kooperation von der [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und der Universitätsbibliothek betrieben.
+Das **InfoCenter** ist Ihre zentrale Anlaufstelle für Auskunft und Beratung zu Ihrem Bibliotheksausweis, zur Literaturrecherche und weiteren Bibliotheksservices. Es wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und der Universitätsbibliothek betrieben.
 
-Hier erhalten Sie die elektronische Chipkarte ecUM ([Informationen zur ecUM](https://www.uni-mannheim.de/it/anleitungen/ecum/)) sowie den Bibliotheksausweis UB-Chipkarte für Privatpersonen ([Details zum Bibliotheksausweis für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)).
+Hier erhalten Sie die elektronische Chipkarte **ecUM** ([Informationen zur ecUM](https://www.uni-mannheim.de/it/anleitungen/ecum/)) sowie den Bibliotheksausweis **UB-Chipkarte für Privatpersonen** ([Details zum Bibliotheksausweis](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)).
 
 ## Sonderleseplätze
 
@@ -23,18 +23,47 @@ Angehörige der Universität Mannheim können an der Infotheke im InfoCenter Not
 ## Öffnungszeiten
 
 **InfoCenter Universitätsbibliothek**  
-Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze
+Beratung, Neuanmeldung, Ausleihe mobiler Geräte, Sonderleseplätze
 
-| Wochentag           | Uhrzeit  |
-|---------------------|----------|
-| Montag bis Freitag (außer an Feiertagen) | 9:00–16:00 Uhr |
+| Wochentag               | Uhrzeit  |
+|------------------------|----------|
+| Montag bis Freitag (außer an Feiertagen) | 9:00 – 16:00 Uhr |
 
 ## Kontakt
 
 ### InfoCenter
 
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim  
-- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)  
-- Telefon: +49 621 181-2948  
-- E-Mail: info.ub@uni-mannheim.de  
-- Ansprechpartnerinnen und Ansprechpartner: [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)
+- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim  
+- **Web:** [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)  
+- **Telefon:** +49 621 181-2948  
+- **E-Mail:** info.ub@uni-mannheim.de  
+
+Weitere Ansprechpartner finden Sie unter [Ansprechpersonen im Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/).
+
+### Weitere Ansprechpersonen
+
+#### Beate Ulbrich  
+Teamleiterin Bibliotheksbereich Schloss Schneckenhof  
+- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim  
+- **Telefon:** +49 621 181-2972  
+- **E-Mail:** [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)  
+
+#### Elisabeth Wagner  
+Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof  
+- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim  
+- **Telefon:** +49 621 181-2835  
+- **E-Mail:** [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
+
+### Weitere Ansprechpersonen
+
+#### Beate Ulbrich  
+Teamleiterin Bibliotheksbereich Schloss Schneckenhof  
+- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim  
+- **Telefon:** [+49 621 181-2972](tel:+496211812972)  
+- **E-Mail:** [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)  
+
+#### Elisabeth Wagner  
+Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof  
+- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim  
+- **Telefon:** [+49 621 181-2835](tel:+496211812835)  
+- **E-Mail:** [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)

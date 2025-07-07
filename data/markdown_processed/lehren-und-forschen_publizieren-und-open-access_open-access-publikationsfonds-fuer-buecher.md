@@ -14,53 +14,53 @@ Sie möchten ein ganzes Buch in Open Access veröffentlichen? Dann können Sie d
 
 ### 1. Wer kann die Förderung beantragen?
 
-Wenn Sie hauptberuflich an der Universität Mannheim tätig sind oder an der Universität Mannheim promovieren, können Sie eine anteilige Kostenübernahme für die Open-Access-Publikationsgebühr eines Buches (BPC) beantragen. Dabei müssen Sie für das Buch als Herausgeber*in bzw. Buchautor*in fungieren und für das gesamte Buch (mit-)verantwortlich sein. Der Förderantrag kann nur einmal pro Buch gestellt werden, auch wenn mehrere Herausgeber*innen bzw. Autor*innen mit der Universität Mannheim affiliiert sind.
+Förderanträge können gestellt werden, wenn Sie hauptberuflich an der Universität Mannheim tätig sind oder an der Universität Mannheim promovieren. Voraussetzung ist, dass Sie als Herausgeber*in oder Buchautor*in für das gesamte Buch (mit-)verantwortlich sind. Der Antrag kann pro Buch nur einmal gestellt werden, auch wenn mehrere Herausgeber*innen bzw. Autor*innen mit der Universität Mannheim affiliiert sind.
 
 ### 2. Anforderungen an ein Open-Access-Buch
 
 - Die Publikation muss unmittelbar und vollständig im Open Access und ohne zeitliche Verzögerung zu einer möglichen Parallelausgabe erscheinen.
-- Die Open-Access-Version der Veröffentlichung wird auf der Website des Verlags bzw. Publikationsdienstes frei zugänglich gemacht.
-- Das Buch wird unter einer Creative Commons (CC) oder einer vergleichbaren Open-Access-kompatiblen Lizenz veröffentlicht. Es wird empfohlen, möglichst eine [CC-BY](https://creativecommons.org/licenses/by/4.0/) oder [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) Lizenz ohne weitere Einschränkungen zu wählen.
-- Die inhaltliche Qualität der Publikation wird über einen in der Disziplin üblichen Qualitätssicherungs- oder Auswahlprozess sichergestellt.
+- Die Open-Access-Version wird auf der Website des Verlags oder Publikationsdienstes frei zugänglich gemacht.
+- Das Buch wird unter einer Creative Commons (CC) oder vergleichbaren Open-Access-kompatiblen Lizenz veröffentlicht. Empfohlen wird eine CC-BY oder CC-BY-SA Lizenz ohne weitere Einschränkungen.
+- Die inhaltliche Qualität wird über einen in der Disziplin üblichen Qualitätssicherungs- oder Auswahlprozess sichergestellt.
 
 ### 3. Verlagsangebot und Kostenkalkulation
 
-Dem Antrag ist ein konkretes Verlagsangebot einschließlich einer Kostenkalkulation beizulegen. Aus dem Angebot muss klar hervorgehen, welche Leistungen von den Verlagen erbracht werden und wie hoch die Kosten für die Herausgeber*innen bzw. Autor*innen sind. Das Verlagsangebot muss verständlich und konsistent sein. Spezielle Anforderungen oder Pflichten an die Autor*innen bzw. Herausgeber*innen sind ebenfalls auszuführen. Die Kostenkalkulation soll transparent und nachvollziehbar sein. Daraus soll insbesondere hervorgehen, ob gewisse Kosten ausschließlich für die Druckausgabe aufgewandt werden (z. B. Druckkosten) und damit nicht förderfähig sind.
+Dem Antrag ist ein konkretes Verlagsangebot mit Kostenkalkulation beizulegen. Das Angebot muss klar aufzeigen, welche Leistungen erbracht werden und wie hoch die Kosten für Herausgeber*innen bzw. Autor*innen sind. Es soll verständlich und konsistent sein, inklusive spezieller Anforderungen oder Pflichten für Autor*innen bzw. Herausgeber*innen. Die Kostenkalkulation muss transparent sein, insbesondere hinsichtlich nicht förderfähiger Kosten wie Druckkosten.
 
 ### 4. Kostengrenze und förderfähige Kosten
 
-- Maximal 4.000 EUR des Nettopreises zuzüglich der darauf erhobenen Mehrwertsteuer können übernommen werden.
-- Sofern parallel zur Open-Access-Ausgabe auch eine Druckausgabe geplant ist, werden Druckkosten und weitere nur für die gedruckte Ausgabe anfallende Kosten nicht übernommen.
-- Sofern die Gesamtrechnung die maximale Fördersumme übersteigt oder nicht-förderfähige Kosten beinhaltet, geben Sie bitte an, welche weiteren Finanzierungsquellen verwendet werden sollen. Wenn mehrere Einrichtungen an der Finanzierung beteiligt sind, sollte der Verlag entsprechende Teilrechnungen stellen.
-- Die Anträge werden grundsätzlich in der Reihenfolge ihres Eingangs bearbeitet. Sollte das Antragsvolumen die verfügbaren Ressourcen übersteigen, werden Anträge von Nachwuchswissenschaftler*innen bevorzugt. Es wird auf eine faire Verteilung auf alle Fachbereiche geachtet.
+- Maximal 4.000 EUR des Nettopreises zuzüglich Mehrwertsteuer können übernommen werden.
+- Druckkosten und weitere ausschließlich für die gedruckte Ausgabe anfallende Kosten werden nicht übernommen.
+- Bei Überschreitung der Fördersumme oder nicht-förderfähigen Kosten sind weitere Finanzierungsquellen anzugeben.
+- Anträge werden in der Reihenfolge ihres Eingangs bearbeitet. Bei Überzeichnung werden Anträge von Nachwuchswissenschaftler*innen bevorzugt.
+- Eine faire Verteilung auf alle Fachbereiche wird angestrebt.
 
 ### 5. Beachtung der Qualitätsstandards für Open-Access-Bücher
 
-Wir erwarten von den Verlagen, dass den [Qualitätsstandards für Open-Access-Bücher](https://doi.org/10.5281/zenodo.7075760) möglichst umfassend Rechnung getragen wird.
+Die Verlage werden gebeten, die [Qualitätsstandards für Open-Access-Bücher](https://doi.org/10.5281/zenodo.7075760) möglichst umfassend einzuhalten.
 
 ### 6. Nachweis in MADOC
 
-Die Universitätsbibliothek weist das Buch in der Universitätsbibliographie auf dem Publikationsserver [MADOC](https://madoc.bib.uni-mannheim.de/) nach. Der Volltext wird auf MADOC archiviert und zur Verfügung gestellt. Die Publikationsdaten und Kosteninformationen werden außerdem an [openAPC](https://treemaps.intact-project.org/apcdata/openapc/) und an die DFG übermittelt.
+Die Universitätsbibliothek weist das Buch in der Universitätsbibliographie auf dem Publikationsserver [MADOC](https://madoc.uni-mannheim.de/) nach. Der Volltext wird dort archiviert und bereitgestellt. Publikationsdaten und Kosteninformationen werden zudem an [openAPC](https://treemaps.intact-project.org/apcdata/openapc/) und die DFG übermittelt.
 
-Den Antrag auf Übernahme von Open-Access-Publikationskosten (Bücher) finden Sie hier: [Antrag auf Übernahme von Open-Access-Publikationskosten (Bücher)](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/antrag-oa-buecher/).
+Den [Antrag auf Übernahme von Open-Access-Publikationskosten (Bücher)](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/antrag-oa-buecher/) finden Sie online.
 
-Bei Fragen unterstützen wir Sie gerne: [publikationsdienste@uni-mannheim.de](mailto:publikationsdienste@uni-mannheim.de).
+Bei Fragen unterstützen wir Sie gerne: publikationsdienste@uni-mannheim.de.
 
 ## Kontakt
 
-### Dr. Philipp Zumstein
-
+### Dr. Philipp Zumstein  
 Open-Access-Beauftragter der Universität Mannheim
 
 **Aufgaben:**
 
-- Literatursauswahl und -erschließung für das Fach Informatik
-- Fachliche Beratung bei Recherchefragen
-- Beratung bei Fragen zu Publizieren, Open Access und Forschungsunterstützung
-- Durchführung von Schulungen im Fachbereich
+- Literatursauswahl und -erschließung für das Fach Informatik  
+- Fachliche Beratung bei Recherchefragen  
+- Beratung zu Publizieren, Open Access und Forschungsunterstützung  
+- Durchführung von Schulungen im Fachbereich  
 
 **Adresse:**  
-Universität Mannheim, Universitätsbibliothek, Schneckenhof West – Raum SN 269.1, 68161 Mannheim
+Universität Mannheim, Universitätsbibliothek, Schneckenhof West – Raum SN 269.1, 68161 Mannheim  
 
 **Telefon:** +49 621 181-3006  
 **E-Mail:** [philipp.zumstein@uni-mannheim.de](mailto:philipp.zumstein@uni-mannheim.de)  

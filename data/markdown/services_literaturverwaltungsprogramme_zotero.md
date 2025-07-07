@@ -53,31 +53,37 @@ Vereinbaren Sie einen Beratungs­termin oder senden Sie Ihre Fragen an litverw.u
 
 ### Literatur­verwaltung mit Zotero
 
+Präsentation zum KursLiteratur­verwaltung mit Zotero(PDF, 1820 KB)
 Präsentation zum Kurs Literatur­verwaltung mit Zotero (https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung-mit-Zotero.pdf) (PDF, 1820 KB)
 
 
 ### Literatur­verwaltung mit Zotero für Psychologinnen und Psychologen
 
+Präsentation zum KursLiteratur­verwaltung mit Zotero für Psychologinnen und Psychologen(PDF, 1520 KB) mit zugehörigenHands-on Übungen(PDF, 410 KB)
 Präsentation zum Kurs Literatur­verwaltung mit Zotero für Psychologinnen und Psychologen (https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung_mit_Zotero_fuer_Psychologinnen_und_Psychologen.pdf) (PDF, 1520 KB) mit zugehörigen Hands-on Übungen (https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Hands-on_UEbungen_zu_Zotero_-_Psychologie.pdf) (PDF, 410 KB)
 
 
 ### Literatur­verwaltung mit Zotero für Juristinnen und Juristen
 
+Präsentation zur VeranstaltungLiteratur­verwaltung mit Zotero für Juristinnen und Juristen(PDF, 1610 KB)
 Präsentation zur Veranstaltung Literatur­verwaltung mit Zotero für Juristinnen und Juristen (https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung_mit_Zotero_fuer_Juristinnen_und_Juristen.pdf) (PDF, 1610 KB)
 
 
 ### Anleitung: Dateianhänge in Zotero über WebDAV synchronisieren
 
+Eine Anleitung, wie Sie Dateianhänge in Zotero über WebDAV mit bwSync&Share synchronisieren können (PDF, 360 KB)
 Eine Anleitung (https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Anleitung-WebDAV-Zotero.pdf), wie Sie Dateianhänge in Zotero über WebDAV mit bwSync&Share synchronisieren können (PDF, 360 KB)
 
 
 ### Zitations­stile für Zotero
 
+Zitations­stile für Zotero(PDF, 412 KB)
 Zitations­stile für Zotero (https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Zitationsstile_fuer_Zotero.pdf) (PDF, 412 KB)
 
 
 ### Zotero-Dokumentation
 
+Auf der Website von Zotero erhalten Sie Tipps zurDokumentation.Informieren Sie sich untererste Schritteunter anderem über die Installation von Zotero.Sehen Sie ein Tutorial zurCitation Style Language CSL(YouTube).
 Auf der Website von Zotero erhalten Sie Tipps zur Dokumentation (https://www.zotero.org/support//start).
 Informieren Sie sich unter erste Schritte (https://www.zotero.org/support/quick_start_guide) unter anderem über die Installation von Zotero.
 Sehen Sie ein Tutorial zur Citation Style Language CSL (https://youtu.be/jxxSyviCPMs) (YouTube).

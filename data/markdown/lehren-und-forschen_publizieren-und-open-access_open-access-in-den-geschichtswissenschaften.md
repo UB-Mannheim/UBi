@@ -17,6 +17,9 @@ Auch in den Geschichts­wissenschaften nimmt die Zahl der frei zugänglichen Pub
 
 ### Open-Access-Zeitschriften in der Geschichts­wissenschaft
 
+
+* Journal of Historical Learning Teaching and Research (JHLTR) (https://www.history.org.uk/publications/categories/international-journal-of-historical-learning)
+
 Auswahl an wichtigen Open-Access-Zeitschriften für Historiker und Historikerinnen:
 
 * Journal of Historical Learning Teaching and Research (JHLTR) (https://www.history.org.uk/publications/categories/international-journal-of-historical-learning)
@@ -50,6 +53,9 @@ Sie möchten Ihren Artikel bei einem Verlag im Open Access publizieren? Profitie
 
 
 ### Vertrag mit Cambridge University Press
+
+
+* BJHS Themes (https://www.cambridge.org/core/journals/bjhs-themes)
 
 In Cambridge-Zeitschriften (https://www.cambridge.org/core/services/open-access-policies/waivers-discounts), bei denen die Open-Access-Veröffentlichung durch die Publish-and-Read Lizenz abgedeckt ist, können Wissenschaft­lerinnen und Wissenschaft­ler der Universität Mannheim in Open Access veröffentlichen. Ihnen entstehen keine Kosten. Dies gilt, wenn sie als „corresponding author“ für den Artikel zuständig sind, und dieser zwischen dem 01. Januar 2019 und dem 31. Dezember 2024 veröffentlicht wird.
 **Open-Access-Zeitschriften (gold)**
@@ -85,6 +91,16 @@ Bei Fragen unter­stützen wir Sie gerne: publikationsdienste@uni-mannheim.de.
 
 ### DEAL-Vertrag mit Wiley
 
+
+* Gender & History (https://onlinelibrary.wiley.com/journal/14680424)
+* History (https://onlinelibrary.wiley.com/journal/1468229X)
+* History and Theory (https://onlinelibrary.wiley.com/journal/14682303)
+* History Compass (https://compass.onlinelibrary.wiley.com/journal/14780542)
+* Journal of Religious History (https://onlinelibrary.wiley.com/journal/14679809)
+* Journal of the History of´the Behavioral Sciences (https://onlinelibrary.wiley.com/journal/15206696)
+* Parliamentary History (https://onlinelibrary.wiley.com/journal/17500206)
+* The Economic History Review (https://onlinelibrary.wiley.com/journal/14680289)
+
 Der DEAL-Vertrag mit dem Verlag Wiley bringt neben dem Zugriff auf alle Wiley-Zeitschriften Vergünstigungen beim Open-Access-Publizieren. Davon können Sie als Wissenschaft­lerin oder Wissenschaft­ler der Universität Mannheim profitieren, wenn Sie bei einem Artikel korrespondierende Autorin oder korrespondierender Autor („corresponding author“) sind.
 **Open-Access-Zeitschriften (hybrid)**
 
@@ -115,6 +131,9 @@ Bei Fragen unter­stützen wir Sie gerne: publikationsdienste@uni-mannheim.de.
 
 
 ### DEAL-Vertrag mit Springer Nature
+
+
+* European Journal of Futures Research (https://eujournalfuturesresearch.springeropen.com/)
 
 Der DEAL-Vertrag mit Springer Nature bringt neben dem Zugriff auf rund 1.900 Springer-Zeitschriften Vergünstigungen beim Open-Access-Publizieren. Davon können Sie als Wissenschaft­lerin oder Wissenschaft­ler der Universität Mannheim profitieren, wenn Sie bei einem Artikel korrespondierende Autorin oder korrespondierender Autor („corresponding author“) sind.
 **Open-Access-Zeitschriften (gold)**
@@ -149,6 +168,16 @@ Bei Fragen unter­stützen wir Sie gerne: publikationsdienste@uni-mannheim.de.
 
 ### Vertrag mit SAGE
 
+
+* Accounting History (https://journals.sagepub.com/home/ach)
+* European History Quaterly (https://journals.sagepub.com/home/ehq)
+* History of Science (https://journals.sagepub.com/home/hos)
+* International Journal of Maritime History (https://journals.sagepub.com/home/ijh)
+* Journal of Contempory History (https://journals.sagepub.com/home/jch)
+* Journal of Modern European History (https://journals.sagepub.com/home/meh)
+* Journal of Urban History (https://journals.sagepub.com/home/juh)
+* The Medival History Journal (https://journals.sagepub.com/home/mhj)
+
 Der Publish and Read Vertrag mit dem Verlag SAGE bringt neben dem Zugriff auf SAGE-Zeitschriften aus dem Bereich Humanities and Social Sciences (HSS) Vergünstigungen beim Open-Access-Publizieren. Davon können Sie als Wissenschaft­lerin oder Wissenschaft­ler der Universität Mannheim profitieren, wenn Sie bei einem Artikel korrespondierende Autorin oder korrespondierender Autor („corresponding author“) sind.
 **Open-Access-Zeitschriften**
 
@@ -177,6 +206,10 @@ Liste der Zeitschriften im Paket Humanities and Social Sciences (https://us.sage
 
 
 ### Vertrag mit De Gruyter
+
+
+* Analysis of Current Trends in Anti­semitism – ACTA (https://www.degruyter.com/journal/key/actap/html)
+* Public History Weekly (https://public-history-weekly.degruyter.com/)
 
 Der Publish and Read Vertrag mit dem Verlag De Gruyter bringt neben dem Zugriff auf die Zeitschriften im Paket Humanities and Social Sciences (HSS) (https://cloud.newsletter.degruyter.com/hss-journal-package) des Verlags Vorteile beim Publizieren im Open Access. Davon können Sie als Wissenschaft­lerin oder Wissenschaft­ler der Universität Mannheim profitieren, wenn Sie bei einem Artikel korrespondierende Autorin oder korrespondierender Autor („corresponding author“) sind.
 **Open-Access-Zeitschriften (gold)**
@@ -210,22 +243,26 @@ Bei der Finanzierung von Publikationen im Open Access können Gebühren anfallen
 
 ### Open-Access-Publikations­fonds
 
+Wenn Sie Artikel in Open-Access-Zeitschriften veröffentlichen, können Publikations­gebühren anfallen. Beantragen Sie eine Finanzierung aus demPublikations­fonds der Universität Mannheim.
 Wenn Sie Artikel in Open-Access-Zeitschriften veröffentlichen, können Publikations­gebühren anfallen. Beantragen Sie eine Finanzierung aus dem Publikations­fonds der Universität Mannheim (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/).
 
 
 ### Open-Access-Bücher
 
+Gebühren für Open Access Bücher, sogenannte Book Processing Charges (BPC), können teilweise seitens der Universitäts­bibliothek anteilig gefördert werden.Wenden Sie sich gerne an uns, wenn Sie konkrete Buch­projekte planen und nach Finanzierungs­möglichkeiten für die Open-Access-Veröffentlichung suchen:publikationsdienste@uni-mannheim.de.
 Gebühren für Open Access Bücher, sogenannte Book Processing Charges (BPC), können teilweise seitens der Universitäts­bibliothek anteilig gefördert werden.
 Wenden Sie sich gerne an uns, wenn Sie konkrete Buch­projekte planen und nach Finanzierungs­möglichkeiten für die Open-Access-Veröffentlichung suchen: publikationsdienste@uni-mannheim.de.
 
 
 ### Publikations­server MADOC
 
+Sie möchten Ihre Forschungs­ergebnisse kostenfrei, schnell und weltweit sichtbar publizieren. Dann nutzen Sie denPublikations­serverder Universität Mannheim. Über MADOC haben Sie die Möglichkiet Erst­veröffentlichungen von Dissertationen oder Zweit­veröffentlichungen von Zeitschriftenartikeln oder Konferenzbeiträgen zu tätigen, wenn Sie ein Zweit­veröffentlichungs­recht nutzen möchten.
 Sie möchten Ihre Forschungs­ergebnisse kostenfrei, schnell und weltweit sichtbar publizieren. Dann nutzen Sie den Publikations­server (https://madoc.bib.uni-mannheim.de/) der Universität Mannheim. Über MADOC haben Sie die Möglichkiet Erst­veröffentlichungen von Dissertationen oder Zweit­veröffentlichungen von Zeitschriftenartikeln oder Konferenzbeiträgen zu tätigen, wenn Sie ein Zweit­veröffentlichungs­recht nutzen möchten.
 
 
 ### Zeitschrift mit MAJOURNALS herausgeben
 
+Als Forschende der Universität Mannheim können Sie hier Ihre eigene Open-Access-Zeitschrift herausgeben: Mit dem Redaktions­system Open Journal Systems (OJS) organisieren Sie online den Herausgebeprozess von der Einreichung über die Begutachtung bis zur Veröffentlichung. Die Universitäts­bibliothek hilft Ihnen bei der Neu­einrichtung Ihrer Zeitschrift und pflegt und konfiguriert das System.MAJOURNALS
 Als Forschende der Universität Mannheim können Sie hier Ihre eigene Open-Access-Zeitschrift herausgeben: Mit dem Redaktions­system Open Journal Systems (OJS) organisieren Sie online den Herausgebeprozess von der Einreichung über die Begutachtung bis zur Veröffentlichung. Die Universitäts­bibliothek hilft Ihnen bei der Neu­einrichtung Ihrer Zeitschrift und pflegt und konfiguriert das System.
 MAJOURNALS (https://majournals.bib.uni-mannheim.de/)
 

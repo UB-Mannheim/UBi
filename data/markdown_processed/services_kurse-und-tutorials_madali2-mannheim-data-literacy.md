@@ -2,7 +2,7 @@
 title: MaDaLi² – Mannheim Data Literacy
 source_url: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/madali2-mannheim-data-literacy/
 category: Services
-tags: [Data Literacy, E-Learning, Universität Mannheim, Datenkompetenz, MaDaLi², Studium]
+tags: [Data Literacy, E-Learning, Universität Mannheim, Datenkompetenz, MaDaLi², Studium, Weiterbildung]
 language: de
 ---
 

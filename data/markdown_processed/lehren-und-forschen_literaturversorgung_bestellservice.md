@@ -16,30 +16,28 @@ Bei Werken über 500 Euro, Abonnements und Fortsetzungsbestellungen über 500 Eu
 
 ## Bestellservice für Bücher und Zeitschriften
 
-Alle universitären Einrichtungen können gedruckte und elektronische Bücher und Zeitschriften durch die UB beschaffen lassen. Ihre Vorteile:
+Alle universitären Einrichtungen können gedruckte und elektronische Bücher sowie Zeitschriften über die UB beschaffen lassen. Ihre Vorteile:
 
-- Komplette Abwicklung des Bestellvorgangs durch die UB
+- Komplette Abwicklung des Bestellvorgangs durch die UB  
 - Vergünstigte Lieferkonditionen für gedruckte Literatur
 
-Bestellungen können telefonisch oder per E-Mail an Ihren Bibliotheksbereich oder an das Team E-Medien übermittelt werden:
+Bestellungen können telefonisch oder per E-Mail an den jeweiligen Bibliotheksbereich oder das Team E-Medien übermittelt werden:
 
-| Bibliotheksbereich       | Telefon         | E-Mail                             |
-|-------------------------|-----------------|----------------------------------|
-| BB A3                   | +49 621 181-2989| erwerbung.a3.ub@uni-mannheim.de  |
-| BB A5                   | +49 621 181-3031| erwerbung.a5.ub@uni-mannheim.de  |
+| Bibliotheksbereich       | Telefon         | E-Mail                              |
+|-------------------------|-----------------|-----------------------------------|
+| BB A3                   | +49 621 181-2989| erwerbung.a3.ub@uni-mannheim.de   |
+| BB A5                   | +49 621 181-3031| erwerbung.a5.ub@uni-mannheim.de   |
 | BB Schloss Ehrenhof      | +49 621 181-3020| erwerbung.ehrenhof.ub@uni-mannheim.de |
 | BB Schloss Schneckenhof  | +49 621 181-2972| erwerbung.schneckenhof.ub@uni-mannheim.de |
-| Team E-Medien           |                 | e-medien.ub@uni-mannheim.de      |
+| Team E-Medien           |                 | e-medien.ub@uni-mannheim.de       |
 
-Die Rechnung leitet die UB in FIORI mit dem Kommentar „Bestellung über UB“ zur Feststellung an Sie weiter.
-
-Auch ältere, bereits laufende Bestellungen, die nicht über die UB ausgeführt wurden, kann die UB nachträglich übernehmen. Das erleichtert Ihnen die Rechnungsbearbeitung in FIORI – insbesondere entfällt die Erklärung nach Nr. 1.1.2 der Beschaffungsrichtlinie. Bei Interesse nehmen Sie bitte Kontakt auf mit [zeitschriften.ub@uni-mannheim.de](mailto:zeitschriften.ub@uni-mannheim.de).
+Die Rechnung leitet die UB in FIORI mit dem Kommentar „Bestellung über UB“ zur Feststellung an Sie weiter. Auch ältere, bereits laufende Bestellungen, die nicht über die UB ausgeführt wurden, kann die UB nachträglich übernehmen. Dies erleichtert die Rechnungsbearbeitung in FIORI und entfällt die Erklärung nach Nr. 1.1.2 der Beschaffungsrichtlinie. Bei Interesse wenden Sie sich bitte an: [zeitschriften.ub@uni-mannheim.de](mailto:zeitschriften.ub@uni-mannheim.de).
 
 ---
 
 ## Datenbanken und Datennutzungsverträge
 
-Möchten Sie eine spezielle Datenbank oder Forschungsdaten bestellen? Dazu ist der Abschluss eines Lizenzvertrags notwendig. Zuständig dafür ist die UB – unabhängig davon, ob die lizenzierten Inhalte oder Daten campusweit oder nur für einzelne autorisierte Nutzerinnen und Nutzer zur Verfügung stehen, und unabhängig von der Art des Zugriffs oder der Bereitstellung.
+Für die Bestellung spezieller Datenbanken oder Forschungsdaten ist der Abschluss eines Lizenzvertrags notwendig. Zuständig dafür ist die UB – unabhängig davon, ob die lizenzierten Inhalte campusweit oder nur für einzelne autorisierte Nutzerinnen und Nutzer verfügbar sind, und unabhängig von der Art des Zugriffs oder der Bereitstellung.
 
 Weitere Informationen finden Sie in der [Beschaffungsrichtlinie der Universität](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/vergabe-und-beschaffung/bezug-bestimmter-waren-und-leistungen/literatur-medien-fakten-datenbanken-und-datensaetzen/).
 
@@ -51,22 +49,22 @@ Weitere Informationen finden Sie in der [Beschaffungsrichtlinie der Universität
 
 Um die UB mit der Verhandlung und dem Abschluss eines Lizenzvertrags zu beauftragen, nutzen Sie das Formular „Verhandlungsauftrag“. Senden Sie das ausgefüllte und unterschriebene Formular per Hauspost an die Leitung der Abteilung Medienbearbeitung und gerne auch vorab als Scan an [erwerbungsleitung.ub@uni-mannheim.de](mailto:erwerbungsleitung.ub@uni-mannheim.de).
 
-[Verhandlungsauftrag für Datenbanken und Datennutzungsverträge (RTF, 1,58 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Verhandlungsauftrag-2020.rtf)
+[Verhandlungsauftrag für Datenbanken und Datennutzungsverträge (Word, 1,58 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Verhandlungsauftrag-2020.rtf)
 
 ### 2. Vertragsverhandlung
 
-Die UB verhandelt in Abstimmung mit Ihnen den Lizenz- oder Datennutzungsvertrag. Sie sorgt dafür, dass rechtliche Vorgaben eingehalten werden, fasst die wesentlichen Vertragsbestimmungen für Sie zusammen und legt sie Ihnen zur Unterschrift vor. Nach Ihrer Zustimmung schließt die UB den Lizenzvertrag ab und führt falls erforderlich ein Vergabeverfahren durch.
+Die UB verhandelt in Abstimmung mit Ihnen den Lizenz- oder Datennutzungsvertrag. Sie stellt sicher, dass rechtliche Vorgaben eingehalten werden, fasst die wesentlichen Vertragsbestimmungen zusammen und legt sie Ihnen zur Unterschrift vor. Nach Ihrer Zustimmung schließt die UB den Vertrag ab und führt gegebenenfalls ein Vergabeverfahren durch.
 
 ### 3. Freischaltung
 
-Wenn das gewünschte Produkt zur Verfügung steht, teilt Ihnen die UB die Zugangs­informationen mit und bittet Sie, falls nötig, zu prüfen, ob die freigeschalteten Inhalte der Bestellung entsprechen.
+Nach Verfügbarkeit des Produkts informiert die UB Sie über die Zugangsinformationen und bittet Sie, die freigeschalteten Inhalte auf Übereinstimmung mit der Bestellung zu prüfen.
 
 ### 4. Rechnung
 
-Die Rechnung wird mit dem Leitkriterium der UB angefordert und im XRechnungsformat oder übergangsweise als PDF per E-Mail an [rechnungseingang@uni-mannheim.de](mailto:rechnungseingang@uni-mannheim.de) gesendet. Die UB versieht die Rechnung mit einem Bearbeitungsvermerk und leitet sie in FIORI mit der Aufwandsart „Sonstiges (Kürzel SO)“ zur Feststellung an Sie weiter. Bitte nehmen Sie in diesem Fall keine Änderungen an der Aufwandsart vor.
+Die Rechnung wird im XRechnungsformat oder vorübergehend als PDF per E-Mail an [rechnungseingang@uni-mannheim.de](mailto:rechnungseingang@uni-mannheim.de) gesendet. Die UB versieht die Rechnung mit einem Bearbeitungsvermerk und leitet sie in FIORI mit der Aufwandsart „Sonstiges (Kürzel SO)“ zur Feststellung an Sie weiter. Bitte nehmen Sie in diesem Fall keine Änderungen an der Aufwandsart vor.
 
-Falls die Rechnung abweichend in FIORI bei Ihrer Einrichtung eingeht, ändern Sie die Aufwandsart bei der Feststellung in „Literatur, Daten, Open Access (UB)“. Die UB bestätigt anschließend in FIORI, dass sie beteiligt wurde.
+Falls die Rechnung direkt in FIORI bei Ihrer Einrichtung eingeht, ändern Sie die Aufwandsart bei der Feststellung auf „Literatur, Daten, Open Access (UB)“. Die UB bestätigt anschließend in FIORI ihre Beteiligung.
 
 Weitere Informationen finden Sie in der [Beschaffungsrichtlinie der Universität](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/vergabe-und-beschaffung/bezug-bestimmter-waren-und-leistungen/literatur-medien-fakten-datenbanken-und-datensaetzen/).
 
-Bei Fragen unterstützt Sie gerne das Team unter [erwerbungsleitung.ub@uni-mannheim.de](mailto:erwerbungsleitung.ub@uni-mannheim.de).
+Bei Fragen unterstützt Sie gerne das Team unter: [erwerbungsleitung.ub@uni-mannheim.de](mailto:erwerbungsleitung.ub@uni-mannheim.de).

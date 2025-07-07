@@ -2,7 +2,7 @@
 title: Bibliotheksbereich Schloss Ehrenhof
 source_url: https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/
 category: Standorte
-tags: [Bibliotheksbereich, Schloss Ehrenhof, Hasso-Plattner-Bibliothek, Rechtswissenschaft, Volkswirtschaftslehre, Geschichte, Ernst & Young Bibliothek, Öffnungszeiten, Fachliche Recherche, Kontakt]
+tags: [Bibliotheksbereich, Schloss Ehrenhof, Hasso-Plattner-Bibliothek, Rechtswissenschaft, Volkswirtschaftslehre, Geschichte, Accounting, Business Taxation, Tax Law, Öffnungszeiten, Fachliche Recherche, Kontakt]
 language: de
 ---
 
@@ -54,4 +54,20 @@ Services für Lehrende finden Sie im Menüpunkt [Lehren und forschen](https://ww
 - Telefon: +49 621 181-3000  
 - E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)  
 
-Weitere Ansprechpartner finden Sie unter [Ansprechpersonen Schloss Ehrenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/).
+Weitere Informationen zu den [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/).
+
+### Weitere Ansprechpersonen
+
+#### Veronika Kay
+
+**Teamleiterin Bibliotheksbereich Schloss Ehrenhof**  
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 205, 68161 Mannheim  
+- Telefon: +49 621 181-3025  
+- E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)  
+
+#### Sarah Böhner
+
+**Stellvertretende Teamleiterin Bibliotheksbereich Schloss Ehrenhof**  
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 206, 68161 Mannheim  
+- Telefon: +49 621 181-3020  
+- E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)

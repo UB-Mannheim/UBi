@@ -2,7 +2,7 @@
 title: Internetzugang an der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/services/internetzugang/
 category: Services
-tags: [Internet, WLAN, eduroam, VPN, Universitätskennung, Fernzugriff, elektronische Medien]
+tags: [Internet, WLAN, eduroam, VPN, Universitätskennung, Fernzugriff, elektronische Medien, Universitätsbibliothek Mannheim]
 language: de
 ---
 
@@ -14,9 +14,9 @@ Als Angehörige der [Universität Mannheim](https://www.uni-mannheim.de) haben S
 
 ## Zugang für Angehörige kooperierender Einrichtungen und anderer Hochschulen
 
-Angehörige [kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/#c179498) haben ebenfalls Zugang zum Internet an den PC-Arbeitsplätzen und über das WLAN eduroam.
+Angehörige [kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/#c179498) haben ebenfalls Zugang zum Internet an den PC-Arbeitsplätzen sowie über das WLAN eduroam.
 
-Angehörige anderer Hochschulen, die am eduroam-Netz teilnehmen, können sich ebenfalls über das WLAN verbinden.
+Angehörige anderer Hochschulen, die am eduroam-Netz teilnehmen, können sich ebenfalls über eduroam mit dem WLAN verbinden.
 
 Weitere Informationen zum WLAN eduroam finden Sie bei der [Universitäts-IT](https://www.uni-mannheim.de/it/anleitungen/wlan/).
 

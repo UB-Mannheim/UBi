@@ -2,7 +2,7 @@
 title: Anmeldung für Privatpersonen und Angehörige von kooperierenden Einrichtungen
 source_url: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/
 category: Benutzung
-tags: [Bibliotheksausweis, Anmeldung, Privatpersonen, Kooperierende Einrichtungen, Datenschutz, Ausleihe, Benutzungsordnung]
+tags: [Bibliotheksausweis, Anmeldung, Privatpersonen, Kooperierende Einrichtungen, Datenschutz, Ausleihe, Benutzungsordnung, Bürgschaftserklärung]
 language: de
 ---
 
@@ -22,12 +22,16 @@ Minderjährige benötigen eine [Bürgschaftserklärung](https://www.uni-mannheim
 
 ## Persönliche Angaben
 
-*(Hier sind die Pflichtfelder für persönliche Angaben einzutragen.)*
+*(Hier werden die persönlichen Daten eingetragen.)*
 
 ## Anschrift
 
-*(Hier sind die Pflichtfelder für die Anschrift einzutragen.)*
+*(Hier wird die Anschrift eingetragen.)*
 
 ## Anmerkungen
 
-Die Informationen zum Datenschutz wurden mir zur Verfügung gestellt. Weitere Details finden Sie unter [Datenschutzinformationen der Universitätsbibliothek](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/).
+*(Hier können zusätzliche Anmerkungen gemacht werden.)*
+
+---
+
+Die Informationen zum Datenschutz wurden mir zur Verfügung gestellt.

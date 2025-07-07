@@ -15,6 +15,7 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 
 ### Datenbanken
 
+Année PhilologiqueHistorical Abstracts with Full TextHistorische Bibliographie OnlineH-Soz-u-KultWeitereDatenbanken zur Geschichteund zu anderen Fach­gebieten finden Sie über dasDatenbank-Info­system (DBIS).
 Année Philologique (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=1688)
 Historical Abstracts with Full Text (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=9777)
 Historische Bibliographie Online (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=394)
@@ -24,11 +25,13 @@ Weitere Datenbanken zur Geschichte (https://www.bib.uni-mannheim.de/medien/date
 
 ### E-Journals
 
+Die E-Journals für das Fach Geschichte finden Sie in derElektronischen Zeitschriftenbibliothek (EZB)und imKatalog Primo.
 Die E-Journals für das Fach Geschichte finden Sie in der Elektronischen Zeitschriftenbibliothek (EZB) (http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubman&colors=15&ocolors=40&lett=f&gebiete=26) und im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 
 ### E-Books
 
+Die E-Books, die wir im Fach Geschichte für Sie lizenziert haben, finden Sie in unseremKatalog Primo.Mehr Informationen zu den Nutzungs­bedingungen finden Sie auf der Seite„Hinweise zur E-Book-Nutzung“.Ausgewählte E-Book-Pakete:De Gruyter Online GeschichteKritische Studien zur Geschichts­wissenschaftOxford Sholar­ship Online History
 Die E-Books, die wir im Fach Geschichte für Sie lizenziert haben, finden Sie in unserem Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 Mehr Informationen zu den Nutzungs­bedingungen finden Sie auf der Seite „Hinweise zur E-Book-Nutzung“ (https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 **Ausgewählte E-Book-Pakete:**
@@ -39,6 +42,7 @@ Oxford Sholar­ship Online History (http://www.oxfordscholarship.com/browse?t=OS
 
 ### Literatur­standorte
 
+ImBibliotheks­bereich Schloss Ehrenhoffinden Sie Literatur zum Fach Geschichte, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nachThemengebietenaufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.ImAusleihzentrum Schloss Westflügelgibt es weitere Literatur zur Geschichte, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.Die an der UB vorhandene Literatur können Sie imKatalog Primorecherchieren.
 Im Bibliotheks­bereich Schloss Ehrenhof (https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) finden Sie Literatur zum Fach Geschichte, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach Themengebieten (https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.
 Im Ausleihzentrum Schloss Westflügel (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Geschichte, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.
@@ -47,6 +51,7 @@ Die an der UB vorhandene Literatur können Sie im Katalog Primo (https://primo.b
 
 ### Forschungs­einrichtungen vor Ort
 
+Historisches Institut der Universität MannheimReiss-Engelhorn-Museen MannheimMARCHIVUM
 Historisches Institut der Universität Mannheim (https://www.phil.uni-mannheim.de/geschichte/)
 Reiss-Engelhorn-Museen Mannheim (http://www.rem-mannheim.de/)
 MARCHIVUM (https://www.marchivum.de/de)

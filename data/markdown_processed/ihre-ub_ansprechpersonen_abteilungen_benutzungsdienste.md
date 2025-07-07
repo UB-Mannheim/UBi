@@ -2,7 +2,7 @@
 title: Benutzungsdienste der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/benutzungsdienste/
 category: Services
-tags: [Benutzungsdienste, Ansprechpartner, Beratung, Schulungen, Universitätsbibliothek Mannheim]
+tags: [Benutzungsdienste, Ansprechpartner, Universitätsbibliothek Mannheim, Rechercheberatung, Schulungen, Schreibberatung]
 language: de
 ---
 
@@ -23,8 +23,6 @@ language: de
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
 - Telefon: +49 621 181-2920
 - E-Mail: [jessica.kaiser@uni-mannheim.de](mailto:jessica.kaiser@uni-mannheim.de)
-
----
 
 ## Angela Leichtweiß
 

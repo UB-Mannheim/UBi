@@ -19,6 +19,11 @@ Bitte melden Sie sich mindestens 14 Tage vorab über unser Online-Formular (http
 
 ### Bibliotheksführung für Schüler­gruppen
 
+
+* Vorstellung der UB
+* Bibliotheksrundgang
+* Kurze Einführung in die Literatur­recherche am Beispiel unseres Katalogs Primo
+
 Ziel­gruppe: Schülerinnen und Schüler der gymnasialen Oberstufe in der Region
 Dauer der Veranstaltung: ca. 45 bis 60 Minuten
 
@@ -29,6 +34,14 @@ Dauer der Veranstaltung: ca. 45 bis 60 Minuten
 
 
 ### Literatur­recherche-Workshop für Seminarkurse
+
+
+* Die UB Mannheim kennenlernen
+* Bibliotheksrundgang
+* Literatur­recherche am Beispiel unseres Katalogs Primo
+* Quellen­bewertung am Beispiel Google und Google Scholar
+* Freie Online-Ressourcen nutzen
+* Zitieren und Literatur­verzeichnisse analysieren
 
 Ziel­gruppe: Seminarkurse der gymnasialen Oberstufe in der Region
 Dauer der Veranstaltung: ca. 120 Minuten
@@ -44,6 +57,13 @@ Dauer der Veranstaltung: ca. 120 Minuten
 
 ### Online-Workshop via Zoom für Seminarkurse
 
+
+* Die UB Mannheim kennenlernen
+* Schreibthema finden
+* Literatur­recherche am Beispiel unseres Katalogs Primo und Google Scholar
+* Freie Online-Ressourcen nutzen
+* Zitieren und Literatur­verzeichnisse analysieren
+
 Ziel­gruppe: Seminarkurse der gymnasialen Oberstufe in der RegionDauer der Veranstaltung: ca. 90 bis 120 Minuten
 
 * Die UB Mannheim kennenlernen
@@ -55,6 +75,14 @@ Ziel­gruppe: Seminarkurse der gymnasialen Oberstufe in der RegionDauer der Vera
 
 
 ### Informations­kompetenz für Lehr­kräfte
+
+
+* Hilfe bei der Informations­vermittlung
+* Literatur­recherche in Bibliothekskatalogen am Beispiel unseres Katalogs Primo
+* Suchmaschinen am Beispiel Google und Google Scholar
+* Quellen bewerten
+* Literatur beschaffen
+* Verschiedene Medienarten nutzen
 
 Wir beraten Sie gerne in einem persönlichen Gespräch zu Themen wie:
 

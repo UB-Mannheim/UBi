@@ -2,7 +2,7 @@
 title: Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 category: Services
-tags: [Forschungsdatenzentrum, Forschungsdatenmanagement, Data Science, Open Science, Data Literacy, Universitätsbibliothek Mannheim]
+tags: [Forschungsdatenzentrum, Forschungsdatenmanagement, Open Science, Data Literacy, NFDI, Data Science, Universitätsbibliothek Mannheim]
 language: de
 ---
 
@@ -23,6 +23,8 @@ Telefon: +49 621 181-2955
 E-Mail: [irene.schumm@uni-mannheim.de](mailto:irene.schumm@uni-mannheim.de)  
 ORCID-ID: [0000-0002-0167-3683](https://orcid.org/0000-0002-0167-3683)  
 
+---
+
 ## Dr. Phil Kolbe  
 Referent für Forschungsdatenmanagement (Sozialwissenschaften)
 
@@ -31,6 +33,8 @@ Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Ra
 Telefon: +49 621 181-2936  
 E-Mail: [phil.kolbe@uni-mannheim.de](mailto:phil.kolbe@uni-mannheim.de)  
 ORCID-ID: [0009-0009-7362-0781](https://orcid.org/0009-0009-7362-0781)  
+
+---
 
 ## Dr. David Philip Morgan  
 Open Science Officer | Referent für Forschungsdatenmanagement (Sozialwissenschaften)
@@ -41,6 +45,8 @@ Telefon: +49 621 181-2990
 E-Mail: [david.morgan@uni-mannheim.de](mailto:david.morgan@uni-mannheim.de)  
 ORCID-ID: [0000-0001-8213-451X](https://orcid.org/0000-0001-8213-451X)  
 
+---
+
 ## Thomas Schmidt, M.A.  
 Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB
 
@@ -49,6 +55,8 @@ Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Ra
 Telefon: +49 621 181-2954  
 E-Mail: [thomas.schmidt@uni-mannheim.de](mailto:thomas.schmidt@uni-mannheim.de)  
 ORCID-ID: [0000-0003-3620-3355](https://orcid.org/0000-0003-3620-3355)  
+
+---
 
 ## Dr. Renat Shigapov  
 Referent für Data Science und Data Scientist im FDZ | Koordinator der NFDI AG „Knowledge Graphs“
@@ -65,6 +73,8 @@ Telefon: +49 621 181-2718
 E-Mail: [renat.shigapov@uni-mannheim.de](mailto:renat.shigapov@uni-mannheim.de)  
 ORCID-ID: [0000-0002-0331-2558](https://orcid.org/0000-0002-0331-2558)  
 
+---
+
 ## Christos Sidiropoulos, M.Ed.  
 Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für Mathematik
 
@@ -72,13 +82,15 @@ Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für Math
 - Mitarbeit im Data-Literacy-Projekt MaDaLi²  
 - Technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen  
 - Beratung und Schulungen im Bereich Forschungsdatenmanagement  
-- Literaturauswahl und -erschließung für das Fach Mathematik  
+- Literatursuche und -erschließung für das Fach Mathematik  
 
 **Kontakt:**  
 Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim  
 Telefon: +49 621 181-2962  
 E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)  
 ORCID-ID: [0009-0001-3341-3149](https://orcid.org/0009-0001-3341-3149)  
+
+---
 
 ## Larissa Will, M.A.  
 Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)

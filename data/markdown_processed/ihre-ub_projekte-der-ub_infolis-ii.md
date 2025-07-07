@@ -2,7 +2,7 @@
 title: InFoLiS II
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis-ii/
 category: Projekte
-tags: [Forschungsdaten, Sozialwissenschaften, Linked Data, Forschungsdatenintegration, Data and Web Science, GESIS, Open Source]
+tags: [InFoLiS II, Forschungsdaten, Sozialwissenschaften, Linked Data, Data and Web Science, GESIS, Forschungsdatenintegration, Ontologie, Open Source]
 language: de
 ---
 
@@ -12,10 +12,13 @@ language: de
 **Förderung:** Deutsche Forschungsgemeinschaft (DFG)  
 **Laufzeit:** 2014–2016  
 **Projektpartner:** [GESIS – Leibnizinstitut für Sozialwissenschaften](https://www.gesis.org/home/), [Research Group Data and Web Science an der Universität Mannheim](https://www.uni-mannheim.de/dws/)  
+**Projektseite:** [InFoLiS II](http://infolis.github.io/)  
 
-Das Projekt [InFoLiS II](http://infolis.github.io/) ist die Fortsetzung des Projekts [InFoLiS](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis/). In Kooperation mit dem Lehrstuhl für Data and Web Sciences der Universität Mannheim und der GESIS wurden heuristische Verfahren entwickelt, um aus sozialwissenschaftlichen Publikationen Referenzen auf verwendete Forschungsdaten zu extrahieren. Diese Verknüpfungen werden im Katalog [Primo der UB Mannheim](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) sowie im [Datenbestandskatalog der GESIS](https://dbk.gesis.org/) integriert.
+Das Projekt InFoLiS II ist die Fortsetzung des Projekts [InFoLiS](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis/). In Kooperation mit dem Lehrstuhl für Data and Web Sciences der Universität Mannheim und GESIS wurden heuristische Verfahren entwickelt, um aus sozialwissenschaftlichen Publikationen Referenzen auf verwendete Forschungsdaten zu extrahieren. Diese Verknüpfungen werden im Katalog [Primo der UB Mannheim](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) sowie im [Datenbestandskatalog der GESIS](https://dbk.gesis.org/) integriert.
 
 In der nächsten Projektphase soll die fachliche und sprachliche Ausweitung erfolgen, eine produktunabhängige technische Basis geschaffen und die Verknüpfungen zwischen Publikationen und Forschungsdaten besser beschrieben werden.
+
+---
 
 ## Ziele von InFoLiS II
 
@@ -23,7 +26,7 @@ InFoLiS II verfolgt drei wesentliche Ziele:
 
 ### 1. Ausweitung auf andere Disziplinen und Sprachen
 
-Während der ersten Projektphase lag der Schwerpunkt auf deutschsprachigen sozialwissenschaftlichen Quellen. InFoLiS II erweitert den Fokus auf weitere Disziplinen und Sprachen. Das InfoLink-Verfahren wird auf Publikationen und Forschungsdaten aus Sozial- und Wirtschaftswissenschaften sowie verwandten Fächern in deutscher und englischer Sprache angewandt. In Kooperation mit nationalen und internationalen Forschungseinrichtungen, Repositorienbetreibern und Verlagen soll die Datenbasis deutlich ausgeweitet werden.
+Während der ersten Projektphase lag der Schwerpunkt auf deutschsprachigen sozialwissenschaftlichen Quellen. InFoLiS II erweitert den Fokus auf weitere Disziplinen und Sprachen. Das InfoLink-Verfahren wird auf Publikationen und Forschungsdaten aus Sozial- und Wirtschaftswissenschaften sowie verwandten Fächern angewandt, sowohl in deutscher als auch englischer Sprache. In Kooperation mit nationalen und internationalen Forschungseinrichtungen, Repositorienbetreibern und Verlagen wird die Datenbasis deutlich ausgeweitet.
 
 ### 2. Infrastruktur basierend auf Linked Data
 
@@ -33,13 +36,12 @@ Die erkannten Verknüpfungen sollen breit genutzt werden. Hierfür wird Software
 
 ### 3. Verbesserung der Nachnutzbarkeit der Links
 
-Die Archivierung und Zugänglichmachung von Forschungsdaten erfolgt zunehmend, jedoch mit unterschiedlicher Granularität und verschiedenen Beziehungstypen zwischen Publikationen und Forschungsdaten. Um diese Vielfalt abzubilden, wird eine Ontologie entwickelt, die das [DDI-RDF Discovery Vokabular](https://rdf-vocabulary.ddialliance.org/discovery.html) der [Data Documentation Initiative](https://www.ddialliance.org/) einbezieht.
-
-Diese Ontologie soll die Nachnutzbarkeit der Verknüpfungen verbessern und die Recherche erleichtern. Die daraus resultierenden Verbesserungen werden ebenfalls untersucht.
+Die Archivierung und Zugänglichmachung von Forschungsdaten erfolgt unterschiedlich hinsichtlich Granularität und Beziehungstypen zwischen Publikationen und Forschungsdaten. Um diese Vielfalt abzubilden, wird eine Ontologie entwickelt, die das [DDI-RDF Discovery Vokabular](https://rdf-vocabulary.ddialliance.org/discovery.html) der [Data Documentation Initiative](https://www.ddialliance.org/) einbezieht. Die daraus resultierenden Verbesserungen sollen die Recherche und Nachnutzbarkeit der Links optimieren.
 
 ---
 
-**Weiterführende Links:**  
+## Weiterführende Links
+
 - [Projekt InFoLiS](http://infolis.github.io)  
 - [InFoLiS II bei der Research Group Data and Web Science](https://www.uni-mannheim.de/dws/research/projects/completed-projects/)  
 - [InFoLiS II bei GESIS](https://www.gesis.org/?id=8948)  

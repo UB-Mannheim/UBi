@@ -15,6 +15,13 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 
 ### Datenbanken
 
+
+* EconLit  (https://dbis.ur.de/UBMAN/resources/36)- international 
+* ProQuest One Business (https://dbis.ur.de/UBMAN/resources/104539) – international
+* Business Source Ultimate (https://dbis.ur.de/UBMAN/resources/101885) – international
+* EconBiz (https://dbis.ur.de/UBMAN/resources/1306) – international und deutschsprach­iger Raum
+* WISO (https://dbis.ur.de/UBMAN/resources/1232) – deutschsprach­iger Raum und praxisnah
+
 **Literatur­datenbanken**
 Datenbanken für wissenschaft­liche Literatur, insbesondere Zeitschriftenartikel:
 
@@ -51,10 +58,21 @@ Weitere Datenbanken zum Fach Volkswirtschafts­lehre (https://dbis.ur.de/UBMAN/b
 
 ### E-Journals
 
+Die E-Journals für das Fach Volkswirtschafts­lehre finden Sie in derElektronischen Zeitschriftenbibliothek (EZB)und imKatalog Primo.
 Die E-Journals für das Fach Volkswirtschafts­lehre finden Sie in der Elektronischen Zeitschriftenbibliothek (EZB) (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=P) und im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 
 ### E-Books
+
+
+* Springer
+* Oxford University Press
+* Edward Elgar
+* Emerald
+* De Gruyter
+* Nomos
+* Weltbank
+* OECD
 
 Die E-Books, die wir im Fach Wirtschafts­wissenschaften für Sie lizenziert haben, finden Sie in unserem Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 Mehr Informationen zu den Nutzungs­bedingungen finden Sie auf der Seite Hinweise zur E-Book- und Datenbanknutzung (https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
@@ -73,6 +91,7 @@ Mehr Informationen zu den Nutzungs­bedingungen finden Sie auf der Seite Hinweis
 
 ### Forschungs­daten
 
+Die Veröffentlichung von Forschungs­daten dient der Trans­parenz und Nachvollziehbarkeit von Forschung und wird zunehmend von Universitäten, Verlagen und Forschungs­förderern erwartet.Eine Einführung in das Thema bietet die Seiteforschungs­daten.infound die Publikation„Auffinden – Zitieren – Dokumentieren“.Sind Sie auf der Suche nach Repositorien für Forschungs­daten, hilft der Dienstre3data. Um international einzelne Datensätze zu recherchieren, bietet sich der DienstDataCitean.An der Universität Mannheim stehtMADATAfür die Veröffentlichung von Forschungs­daten zur Verfügung. GESIS betreibt speziell für die Wirtschafts- und Sozial­wissenschaften die PlattformSowiDataNet/datorium.
 Die Veröffentlichung von Forschungs­daten dient der Trans­parenz und Nachvollziehbarkeit von Forschung und wird zunehmend von Universitäten, Verlagen und Forschungs­förderern erwartet.
 Eine Einführung in das Thema bietet die Seite forschungs­daten.info (https://www.forschungsdaten.info/) und die Publikation „Auffinden – Zitieren – Dokumentieren“ (https://auffinden-zitieren-dokumentieren.de/).
 Sind Sie auf der Suche nach Repositorien für Forschungs­daten, hilft der Dienst re3data (http://www.re3data.org/). Um international einzelne Datensätze zu recherchieren, bietet sich der Dienst DataCite (http://search.datacite.org/) an.
@@ -81,6 +100,7 @@ An der Universität Mannheim steht MADATA (https://madata.bib.uni-mannheim.de/) 
 
 ### Fach­liche Internetquelle
 
+Wirtschafts­wissenschaft­liche Fach­portaleEconBiz– Recherche- und Fach­portal des ZBWRePEc– Research Papers in EconomicsSSRN– Social Science Research NetworkRFE– Resources for Economists on the InternetINOMICS– the Site for EconomistsÜber­blick über Forschungs­einrichtungenEconomics Departments, Institutes and Research Centers in the World (EDIRC)Internetquellen zur fach­lichen RechercheRecherchetippsfür die Studien­arbeit – Materialien des ZBWSTW– Standard-Thesaurus Wirtschaft
 **Wirtschafts­wissenschaft­liche Fach­portale**
 EconBiz (https://www.econbiz.de/) – Recherche- und Fach­portal des ZBWRePEc (http://www.repec.org/) – Research Papers in EconomicsSSRN (https://www.ssrn.com/index.cfm/en/) – Social Science Research NetworkRFE (https://www.aeaweb.org/rfe/) – Resources for Economists on the InternetINOMICS (https://inomics.com/) – the Site for Economists
 **Über­blick über Forschungs­einrichtungen**
@@ -91,6 +111,7 @@ Recherchetipps (https://www.zbw.eu/de/recherchieren/recherchetipps/) für die St
 
 ### Literatur­standorte
 
+ImBibliotheks­bereich Schloss Ehrenhof, der Hasso-Plattner-Bibliothek, finden Sie Literatur zum Fach Volkswirtschafts­lehre, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nachThemengebietenaufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.ImAusleihzentrum Schloss Westflügelgibt es weitere Literatur zur Volkswirtschafts­lehre, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.Die an der UB vorhandene Literatur können Sie imKatalog Primorecherchieren.
 Im Bibliotheks­bereich Schloss Ehrenhof (https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/), der Hasso-Plattner-Bibliothek, finden Sie Literatur zum Fach Volkswirtschafts­lehre, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach Themengebieten (https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.
 Im Ausleihzentrum Schloss Westflügel (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Volkswirtschafts­lehre, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.
@@ -99,12 +120,14 @@ Die an der UB vorhandene Literatur können Sie im Katalog Primo (https://primo.b
 
 ### Forschungs­einrichtungen vor Ort
 
+Fakultät für Rechts­wissenschaft und Volkswirtschafts­lehre, Abteilung VolkswirtschaftZentrum für Europäische Wirtschafts­forschung (ZEW)
 Fakultät für Rechts­wissenschaft und Volkswirtschafts­lehre, Abteilung Volkswirtschaft (https://www.vwl.uni-mannheim.de/) 
 Zentrum für Europäische Wirtschafts­forschung (ZEW) (http://www.zew.de/)
 
 
 ### Journal Ranking
 
+International viel beachtet sind die Rankings in denJournal Citation Reportsmit den jährlich neu berechneten „Impact Factors“. Hinweis: Das oder die gesuchten Fächer, zum Beispiel Economics, über den Punkt „Select Categories“ auf der linken Seite auswählen.Ein umfassendes Ranking von Personen und Fach­bereichen steht mit demHandels­blatt-Rankingzur Verfügung. Diese Bewertung basiert unter anderem auf der Publikations­tätigkeit in Zeitschriften, die anhand desSCImago Journal Ranking(SJR) aus der Scopus-Datenbank gewichtet wird. Im SCImago Journal Ranking werden zum Beispiel die Anzahl der Zitationen und das Prestige der zitierenden Zeitschrift berücksichtigt.
 International viel beachtet sind die Rankings in den Journal Citation Reports (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359) mit den jährlich neu berechneten „Impact Factors“. Hinweis: Das oder die gesuchten Fächer, zum Beispiel Economics, über den Punkt „Select Categories“ auf der linken Seite auswählen.
 Ein umfassendes Ranking von Personen und Fach­bereichen steht mit dem Handels­blatt-Ranking (https://www.forschungsmonitoring.org/ranking/vwl/authors) zur Verfügung. Diese Bewertung basiert unter anderem auf der Publikations­tätigkeit in Zeitschriften, die anhand des SCImago Journal Ranking (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR) aus der Scopus-Datenbank gewichtet wird. Im SCImago Journal Ranking (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) werden zum Beispiel die Anzahl der Zitationen und das Prestige der zitierenden Zeitschrift berücksichtigt.
 

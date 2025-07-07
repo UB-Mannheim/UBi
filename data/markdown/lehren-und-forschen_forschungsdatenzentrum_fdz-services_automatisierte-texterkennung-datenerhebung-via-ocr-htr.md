@@ -17,6 +17,7 @@ Gerne unter­stützt das Forschungs­datenzentrum Forschende der Universität Ma
 
 ### Auswahl an Texterkennungs- und Trans­kriptions­plattformen
 
+ToolKosten­modellEigenschaftenBesonders geeignet fürABBYY Finereaderkostenpflichtig/kommerziellText- und Layouterkennung; gute LayoutanalyseModerne Drucke, komplexes LayouteScriptoriumOpen SourceGraphische Benutzeroberfläche für Kraken; intuitive NutzungHistorische Drucke und Handschriften, auch nicht-lateinische SchriftGoogle Visionkostenpflichtig/kommerziellTexterkennung; Bild- und Videoanalyse; für Handschriften und DruckeDrucke und HandschriftenKrakenOpen Sourcekommandozeilen­basierte Texterkennungs­software; optimiert für historisches und nicht-lateinisches SchriftmaterialHistorische Drucke und Handschriften, auch nicht-lateinische SchriftOCR4AllOpen Sourcegraphische Benutzeroberfläche für verschiedene Open Source Texterkennungs­programmeHistorische Drucke und HandschriftenOCRmyPDFOpen SourceKommandozeilen­programm zur Texterkennung von PDF-Dateien; nutzt Tesseract als OCR-EngineHistorische/moderne DruckeOCR-DOpen Sourcemodular aufgebaute, kommandozeilen­basierte Texterkennungs­softwareHistorische DruckePERO-OCROpen Sourceweb­basierte Texterkennungs­plattform; gute Universal­modelle; momentan kein Nachtraining möglichHistorische/moderne Drucke und HandschriftenTesseractOpen Sourcekommandozeilen­basierte Texterkennungs­software; geeignet für umfangreiche DatensätzeHistorische/moderne DruckeTrans­kribuskostenpflichtig/kommerziellumfangreiche Texterkennungs- und Trans­kriptions­plattform; mit intuitiver BenutzeroberflächeHistorische Handschriften und Tabellen
 | Tool | Kosten­modell | Eigenschaften | Besonders geeignet für |
 | --- | --- | --- | --- |
 | ABBYY Finereader | kostenpflichtig/kommerziell | Text- und Layouterkennung; gute Layoutanalyse | Moderne Drucke, komplexes Layout |
@@ -33,6 +34,14 @@ Gerne unter­stützt das Forschungs­datenzentrum Forschende der Universität Ma
 
 
 ### Anleitungen und Materialien zu verschiedener OCR-Software
+
+
+* Alle Github-Dokumentationen der UB Mannheim zu eScriptorium (https://ub-mannheim.github.io/eScriptorium_Dokumentation/)
+* Lokale Installation (Windows/Linux) (https://ub-mannheim.github.io/eScriptorium_Dokumentation/Lokale_Installation_eScriptorium.html)
+* Lokale Installation (MacOS) (https://github.com/UB-Mannheim/escriptorium/wiki/Installation-on-MacOS) (Englisch)
+* Nutzungs­anleitungen (Deutsch (https://ub-mannheim.github.io/eScriptorium_Dokumentation/Nutzungsanleitung_eScriptorium.html) und Englisch (https://escriptorium-tutorial.readthedocs.io/en/latest/))
+* Video: Einführung in eScriptorium (https://www.youtube.com/watch?v=aQuwh3OaKqg)
+* Modellübertragung von Trans­kribus nach eScriptorium (https://ub-mannheim.github.io/eScriptorium_Dokumentation/Modell%C3%BCbertragung_Transkribus_nach_eScriptorium.html)
 
 Hier finden Sie Anleitungen und Materialien zu verschiedenen Open-Source-Texterkennungs­programmen und Trans­kriptions­plattformen. Es handelt sich um eine Sammlung nützlicher Referenzen, nicht alle Ressourcen wurden von der UB Mannheim selbst erstellt.
 
@@ -73,6 +82,14 @@ Hier finden Sie Anleitungen und Materialien zu verschiedenen Open-Source-Texterk
 
 
 ### Hinweise zur Erstellung von Ground-Truth (Trainingsdaten)
+
+
+* OCR & Ground-Truth-Resources (https://github.com/cneud/ocr-gt)
+* HTR United (https://htr-united.github.io/)
+* Ground-Truth für Charlottenburger Amtsschrifttum (https://github.com/UB-Mannheim/charlottenburger-amtsschrifttum)
+* Ground-Truth für Digitalisate der UB Mannheim (https://github.com/UB-Mannheim/digi-gt)
+* Ground-Truth für Digitalisate der UB Tübingen (https://github.com/UB-Mannheim/digitue-gt)
+* IAM Database für Handschriften (https://fki.tic.heia-fr.ch/databases)
 
 Im Rahmen des Projekts OCR-D wurden drei verschiedene Trans­kriptions­stufen für die Trans­kription historischer Dokumente in Trans­kriptions­richtlinien festgelegt. Die Stufen unter­scheiden sich im Grad der originalgetreuen Wiedergabe. Die Richtlinien sind auf der OCR-D Projekthomepage (https://ocr-d.de/de/gt-guidelines/trans/index.html) zu finden. Zudem finden Sie auf Github auch eine Leitlinie (https://github.com/OCR-D/gt-repo-template) zur Veröffentlichung Ihrer eigenen Trainingsdaten.
 Hier finden Sie Ground-Truth zum Training bzw. Nachtraining eigener Modelle:

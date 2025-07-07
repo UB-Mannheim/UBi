@@ -2,7 +2,7 @@
 title: Digitalisierung der Reiseberichte der Sammlung Desbillons
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-der-reiseberichte-der-sammlung-desbillons/
 category: Projekte
-tags: [Digitalisierung, Sammlung Desbillons, Reiseberichte, ethnographische Beschreibungen, Deutsche Forschungsgemeinschaft, Kulturwissenschaften]
+tags: [Digitalisierung, Reiseberichte, Sammlung Desbillons, Deutsche Forschungsgemeinschaft, Kulturwissenschaften, ethnographische Beschreibungen]
 language: de
 ---
 
@@ -14,7 +14,7 @@ Die Universitätsbibliothek Mannheim digitalisiert mit finanzieller Unterstützu
 
 - **Förderung:** Deutsche Forschungsgemeinschaft (DFG)  
 - **Laufzeit:** 2011–2013  
-- Weitere digitalisierte Werke sind über den [Digitalisierten Werke Katalog der UB Mannheim](http://primo.bib.uni-mannheim.de/primo_library/libweb/action/dlSearch.do?lang=ger&onCampus=false&institution=MAN&vid=MAN_UB&search_scope=MAN_ALMA&srt=title&sortField=stitle&query=lsr16,contains,Ancien+Droit) abrufbar.
+- Weitere digitalisierte Werke sind über die [Digitale Sammlung der UB Mannheim](http://primo.bib.uni-mannheim.de/primo_library/libweb/action/dlSearch.do?lang=ger&onCampus=false&institution=MAN&vid=MAN_UB&search_scope=MAN_ALMA&srt=title&sortField=stitle&query=lsr16,contains,Ancien+Droit) verfügbar.
 
 ## Technische Realisierung
 

@@ -2,7 +2,7 @@
 title: Beratung an der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/beratung/
 category: Services
-tags: [Beratung, wissenschaftliches Schreiben, Recherche, Literaturverwaltung, Open Access, Forschungsdaten, Universitätsbibliothek Mannheim]
+tags: [Beratung, Universitätsbibliothek Mannheim, Recherche, wissenschaftliches Schreiben, Publizieren, Forschungsdaten, Literaturverwaltung, Open Access]
 language: de
 ---
 
@@ -15,29 +15,29 @@ Vor Ort sind die Kolleginnen und Kollegen an den Infotheken montags bis freitags
 ## InfoCenter
 
 [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/)  
-Das InfoCenter ist Ihre zentrale Anlaufstelle für Auskunft und Beratung in der Universitätsbibliothek Mannheim.
+Ihre zentrale Anlaufstelle für Auskunft und Beratung.
 
 ## Schreibberatung
 
 [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)  
-Die Schreibberatung unterstützt Studierende aller Studiengänge der Universität Mannheim dabei, ihre wissenschaftlichen Arbeiten besser zu planen, entspannter zu schreiben und bietet Text-Feedback an.
+Die Schreibberatung unterstützt Studierende aller Studiengänge der Universität Mannheim dabei, ihre wissenschaftliche Arbeit besser zu planen, entspannter zu schreiben und bietet Text-Feedback an.
 
 ## Literaturverwaltung
 
 [Literaturverwaltung](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)  
-Das Team der UB hilft Ihnen bei der Nutzung von Literaturverwaltungsprogrammen, insbesondere Zotero.
+Das Team der UB hilft Ihnen bei der Nutzung von Zotero zur Literaturverwaltung.
 
 ## Fachliche Recherche
 
 [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)  
-Fachreferentinnen und Fachreferenten der UB beantworten Ihre Fragen zu Literatur, Datenbanken und weiteren Sucheinstiegen für Ihr Fachgebiet.
+Fachreferentinnen und Fachreferenten beantworten Ihre Fragen zu Literatur, Datenbanken und weiteren Sucheinstiegen für Ihr Fach.
 
 ## Publizieren und Open Access
 
 [Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/)  
-Die UB berät Sie umfassend zu den Themen Publizieren und Open Access und unterstützt Sie mit entsprechenden Services.
+Die UB berät Sie zu Themen rund ums Publizieren und Open Access und unterstützt Sie mit entsprechenden Services.
 
 ## Forschungsdaten
 
 [Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
-Die Universitätsbibliothek unterstützt Sie bei allen Fragen rund um das Thema Forschungsdaten.
+Die UB unterstützt Sie bei Fragen zum Thema Forschungsdaten.

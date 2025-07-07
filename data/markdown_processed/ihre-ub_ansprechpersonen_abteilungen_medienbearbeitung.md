@@ -2,22 +2,20 @@
 title: Medienbearbeitung der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/medienbearbeitung/
 category: Services
-tags: [Medienbearbeitung, Ansprechpartner, Universitätsbibliothek Mannheim, Rechtswissenschaft, Dissertationen]
+tags: [Medienbearbeitung, Universitätsbibliothek Mannheim, Ansprechpartner, Rechtswissenschaft, Dissertationen, Schulungen, Urheberrecht]
 language: de
 ---
 
 # Medienbearbeitung der Universitätsbibliothek Mannheim
 
-## Dr. Annette Klein
-
+## Dr. Annette Klein  
 Stellvertretende Direktorin der Universitätsbibliothek | Leiterin der Abteilung Medienbearbeitung  
 - **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 279, 68161 Mannheim  
 - **Telefon:** +49 621 181-2975  
 - **E-Mail:** [annette.klein@uni-mannheim.de](mailto:annette.klein@uni-mannheim.de)  
 - **ORCID-ID:** [0000-0001-8825-6446](https://orcid.org/0000-0001-8825-6446)  
 
-## Dr. Marion von Francken-Welz
-
+## Dr. Marion von Francken-Welz  
 Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Rechtswissenschaft  
 
 ### Aufgaben  
@@ -30,15 +28,13 @@ Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für 
 - **Telefon:** +49 621 181-3024  
 - **E-Mail:** [marion.francken-welz@uni-mannheim.de](mailto:marion.francken-welz@uni-mannheim.de)  
 
-## Barbara Dreisiebner
-
+## Barbara Dreisiebner  
 Sachgebietsleiterin Medienbearbeitung  
-- **Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/, 108, 68159 Mannheim  
+- **Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim  
 - **Telefon:** +49 621 181-2989  
 - **E-Mail:** [e-medien.ub@uni-mannheim.de](mailto:e-medien.ub@uni-mannheim.de)  
 
-## Imme Surkamp
-
+## Imme Surkamp  
 Dissertationen  
 - **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 286, 68161 Mannheim  
 - **Telefon:** +49 621 181-2933  

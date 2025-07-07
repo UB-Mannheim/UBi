@@ -1,19 +1,23 @@
 ---
-title: Abholvollmacht
+title: Abholvollmacht an der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/abholvollmacht/
-category: Services
-tags: [Abholvollmacht, Bibliothekskonto, ecUM, Zusatz-ID, Universitätsbibliothek Mannheim]
+category: Benutzung
+tags: [Abholvollmacht, Bibliothekskonto, ecUM, Zusatz-ID, Universitätsbibliothek Mannheim, Medienausleihe]
 language: de
 ---
 
-# Abholvollmacht
+# Abholvollmacht an der Universitätsbibliothek Mannheim
 
-Als hauptamtliche wissenschaftliche Beschäftigte der Universität Mannheim können Sie eine Abholvollmacht für Ihr Bibliothekskonto ausstellen lassen. Mit der Abholvollmacht geben Sie anderen Personen die Berechtigung, Medien über Ihr Bibliothekskonto auszuleihen.
+## Abholvollmacht für hauptamtliche wissenschaftliche Beschäftigte
 
-Die Abholvollmacht müssen Sie persönlich mit Ihrer [ecUM](https://www.bib.uni-mannheim.de/standorte/infocenter/) im [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) abholen. Zum Ausleihen von Medien muss die Originalvollmacht vorgelegt werden. Die Abholvollmacht dient nicht dem Zugriff auf das Bibliothekskonto. Wenn Sie anderen Personen Zugriff auf Ihr Bibliothekskonto ermöglichen wollen, beantragen Sie eine Zusatz-ID.
+Als hauptamtliche wissenschaftliche Beschäftigte der Universität Mannheim können Sie eine [Abholvollmacht](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/abholvollmacht/) für Ihr Bibliothekskonto ausstellen lassen. Mit dieser Vollmacht berechtigen Sie andere Personen, Medien über Ihr Bibliothekskonto auszuleihen.
 
-## UB-ID
+Die Abholvollmacht muss persönlich mit Ihrer ecUM im [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) abgeholt werden. Zum Ausleihen von Medien ist die Vorlage der Originalvollmacht erforderlich. 
 
-Als Lehrstuhlinhaberinnen und Lehrstuhlinhaber können Sie eine zusätzliche UB-ID beantragen, die ausschließlich den Zugriff auf Ihr Bibliothekskonto erlaubt. Sie können die UB-ID an Ihre Beschäftigten zum Bestellen, Vormerken und Verlängern weitergeben.
+Wichtig: Die Abholvollmacht berechtigt nicht zum Zugriff auf Ihr Bibliothekskonto. Wenn Sie anderen Personen Zugriff auf Ihr Konto ermöglichen möchten, beantragen Sie stattdessen eine Zusatz-ID.
 
-Diese zusätzliche ID erhalten Sie über die [Universitäts-IT](https://www.uni-mannheim.de/it/services/) im InfoCenter.
+## UB-ID für Lehrstuhlinhaberinnen und Lehrstuhlinhaber
+
+Lehrstuhlinhaberinnen und Lehrstuhlinhaber können eine zusätzliche UB-ID beantragen, die ausschließlich den Zugriff auf das Bibliothekskonto erlaubt. Diese UB-ID kann an Beschäftigte weitergegeben werden, um Bestellungen, Vormerkungen und Verlängerungen vorzunehmen.
+
+Die zusätzliche UB-ID erhalten Sie über die [Universitäts-IT](https://www.uni-mannheim.de/it/services/) im InfoCenter.

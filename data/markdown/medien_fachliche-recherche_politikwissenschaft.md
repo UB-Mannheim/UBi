@@ -15,6 +15,12 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 
 ### Datenbanken
 
+
+* Web of Science/Social Sciences Citation Index (https://dbis.uni-regensburg.de/UBMAN/resources/360)Diese Datenbank beinhaltet u. a. Informationen zu den Zitations­zahlen eines Artikels und zum Journal Impact Factor einer Zeitschrift.
+* Worldwide Political Science Abstracts (https://dbis.uni-regensburg.de/UBMAN/resources/1253)
+* POLLUX – Informations­dienst Politik­wissenschaft (https://dbis.uni-regensburg.de/UBMAN/resources/102480)Registrierte Politik­wissenschaft­ler*innen können über POLLUX u. a. auf den Politikmonitoring- und Analysedienst Polit-X zugreifen.
+* WISO (https://dbis.uni-regensburg.de/UBMAN/resources/1232)Neben Fach­zeitschriften und E-Books aus den Sozial- und Wirtschafts­wissenschaften können über die Datenbank auch Zeitungs­artikel u. a. aus dem Handels­blatt, der Wirtschafts­Woche, DIE ZEIT und Der Spiegel abgerufen werden.
+
 Eine Über­sicht an verfügbaren Datenbanken (Aufsatz-, Fakten-, Referenz- und Volltextdatenbanken) für das Fach Politik­wissenschaft finden Sie im Datenbank-Info­system (DBIS).
 Wesentliche Literatur-Datenbanken (https://dbis.ur.de/UBMAN/browse/subjects/33/) für das Fach Politik­wissenschaft sind:
 
@@ -42,12 +48,14 @@ Statistische Datenbanken (https://dbis.ur.de/UBMAN/browse/subjects/33/) finden S
 
 ### E-Journals
 
+E-Journals sind in derElektronischen Zeitschriftenbibliothek (EZB)verzeichnet.Nach einzelnen E-Journals können Sie in unseremKatalog Primorecherchieren. Bei der Zeitschriftensuche im Katalog empfehlen wir, die erweiterte Suchmaske zu verwenden und die Suche auf die Materialart „Zeitschriften“ einzugrenzen.
 E-Journals sind in der Elektronischen Zeitschriftenbibliothek (EZB) (http://ezb.uni-regensburg.de) verzeichnet.
 Nach einzelnen E-Journals können Sie in unserem Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchieren. Bei der Zeitschriftensuche im Katalog empfehlen wir, die erweiterte Suchmaske zu verwenden und die Suche auf die Materialart „Zeitschriften“ einzugrenzen.
 
 
 ### E-Books
 
+Die Universitäts­bibliothek hat ein umfangreiches E-Book-Angebot an Fach­publikationen lizenziert.Für das Fach Politik­wissenschaft wurde unter anderem eine Auswahl an E-Book Paketen der VerlageNomos,Oxford,PalgraveundSpringerlizenziert.Zugang zu weiteren E-Books erhalten Sie über die DatenbankWISO.Alle an der UB Mannheim verfügbaren E-Books sind über den Katalog Primo auffindbar. Bei einer Recherche imKatalog Primoerkennen Sie E-Books an der Information „Online Zugriff frei“ oder an dem Reiter „Ansehen“. Um ein E-Book zu öffnen, klicken Sie auf den Reiter „Ansehen“ und folgen Sie dem Link. Bei einer thematischen Recherche können Sie die Treffermenge mithilfe der Facetten „Bücher“ und „Online-Ressourcen“ auf „E-Books“ eingrenzen. Weitere Informationen erhalten Sie auf der SeiteHinweise zur E-Book- und Datenbanknutzung.
 Die Universitäts­bibliothek hat ein umfangreiches E-Book-Angebot an Fach­publikationen lizenziert.
 Für das Fach Politik­wissenschaft wurde unter anderem eine Auswahl an E-Book Paketen der Verlage Nomos (http://www.nomos-elibrary.de/?qms=1&qac=&slocal=0&q=&qtt=&qa=&qIdent=&qReihe=&qjv=&qjb=&qs%5B%5D=20000&qs%5B%5D=60000&extSearch=1), Oxford (http://www.oxfordscholarship.com/browse?pageSize=10&sort=datedescending&t=OSO%3ApoliticalScience), Palgrave (http://link.springer.com/search?facet-discipline=%22Social+Sciences%22&facet-content-type=%22Book%22) und Springer (http://www.palgraveconnect.com/pc/browse/advancedsearchresults?collection=socialsciences2014&order_by=publish-date) lizenziert.
 Zugang zu weiteren E-Books erhalten Sie über die Datenbank WISO (https://www.wiso-net.de/dosearch/%3A3%3AEBOOKS?searchlater=t&selectedNavigationPath=%3A3%3AEBOOKS).
@@ -55,6 +63,16 @@ Alle an der UB Mannheim verfügbaren E-Books sind über den Katalog Primo (https
 
 
 ### Forschungs­daten
+
+
+* Google Dataset Research (https://datasetsearch.research.google.com/): Eine interdisziplinäre Suchmaschine für Datensätze
+* PolData (https://github.com/erikgahner/PolData): Eine Sammlung von Datensätzen für die Politik­wissenschaft 
+* ICPSR (https://dbis.ur.de/ALL/resources/3668): Inter-University Consortium for Political and Social Research
+* C (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=100343&cHash=63b1e58ebd8eac5307491b14b8f8e96b)NTS Data Archive (https://dbis.ur.de/ALL/resources/100343): Daten auf Länder­ebene 
+* Statista (https://dbis.ur.de/ALL/resources/9808): Statistiken aus den Bereichen Politik und Wirtschaft
+* GENESIS-Online (https://dbis.ur.de/ALL/resources/922): Das statistische Informations­system des Statistischen Bundes­amts
+* G (https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D)ESIS  (https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D)Datensuche (https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D): Forschungs­datensammlung des Leibniz Instituts für Sozial­wissenschaften
+* M (https://madata.bib.uni-mannheim.de/)ADATA (https://madata.bib.uni-mannheim.de/): Forschungs­datenserver der Uni M (https://madata.bib.uni-mannheim.de/)annheim
 
 Für die Politik­wissenschaft relevante Statistikdatenbanken sind z. B.
 
@@ -76,6 +94,7 @@ Zugang zu wissenschaft­lichen Forschungdaten erhalten Sie über DataCite (https
 
 ### Literatur­standorte
 
+ImBibliotheks­bereich A5finden Sie Literatur zum Fach Politik­wissenschaft, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nachThemengebietensystematisch aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich. Printzeitschriften des Faches ab dem Erscheinungs­jahr 1990 finden Sie dort unter den Signaturen 400/MA 1000 bis 400/MA 9999. Ältere Jahrgänge der Printzeitschriften können Sie aus dem geschlossenen Magazin zur Ansicht im Sonderlesesaal des InfoCenters über denKatalog Primobestellen. Bücher für das Fach sind in dem Bibliotheks­bereich A5 unter den Signaturen 400/MB ... bis 400/ML ... aufgestellt.ImAusleihzentrum Schloss Westflügelgibt es weitere Literatur zur Politik­wissenschaft, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.Die an der UB vorhandene Literatur können Sie imKatalog Primorecherchieren.
 Im Bibliotheks­bereich A5 (https://www.bib.uni-mannheim.de/standorte/bb-a5/) finden Sie Literatur zum Fach Politik­wissenschaft, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach Themengebieten (https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) systematisch aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich. Printzeitschriften des Faches ab dem Erscheinungs­jahr 1990 finden Sie dort unter den Signaturen 400/MA 1000 bis 400/MA 9999. Ältere Jahrgänge der Printzeitschriften können Sie aus dem geschlossenen Magazin zur Ansicht im Sonderlesesaal des InfoCenters über den Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) bestellen. Bücher für das Fach sind in dem Bibliotheks­bereich A5 (https://www.bib.uni-mannheim.de/standorte/bb-a5/) unter den Signaturen 400/MB ... bis 400/ML ... aufgestellt.
 Im Ausleihzentrum Schloss Westflügel (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Politik­wissenschaft, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.
@@ -91,9 +110,16 @@ Die an der UB vorhandene Literatur können Sie im Katalog Primo (https://primo.b
 * Forschungs­gruppen Wahlen e. V. (http://www.forschungsgruppe.de)
 
 
+* Fach­bereich Politik­wissenschaft (https://www.sowi.uni-mannheim.de/forschung/politikwissenschaft/)
+* Mannheimer Zentrum für Europäische Sozialforschung (MZES) (http://www.mzes.uni-mannheim.de)
+* GESIS – Leibniz-Institut für Sozial­wissenschaften (http://www.gesis.org)
+* Forschungs­gruppen Wahlen e. V. (http://www.forschungsgruppe.de)
+
+
 
 ### Journal Rankings
 
+Ein Ranking wissenschaft­licher Zeitschriften findet im Fach Politik­wissenschaft häufig anhand des Impact Factors der Zeitschriften statt. Der Impact Factor einer Zeitschrift gibt an, wie häufig die Artikel der Zeitschrift in anderen Fach­zeitschriften im Schnitt zitiert wurden. Relevante Rankings für die Politik­wissenschaft sind z. B. dasSCImago Journal Rankingoder dasGoogle Scholar Ranking.Impact Factoren sowie eine Einordnung finden Sie in der DatenbankWeb of Science/Social Sciences Citation Indexoder direkt inJournal Citation Reports.
 Ein Ranking wissenschaft­licher Zeitschriften findet im Fach Politik­wissenschaft häufig anhand des Impact Factors der Zeitschriften statt. Der Impact Factor einer Zeitschrift gibt an, wie häufig die Artikel der Zeitschrift in anderen Fach­zeitschriften im Schnitt zitiert wurden. Relevante Rankings für die Politik­wissenschaft sind z. B. das SCImago Journal Ranking (https://www.scimagojr.com/journalrank.php?category=3320) oder das Google Scholar Ranking (https://scholar.google.de/citations?view_op=top_venues&hl=de&vq=soc_politicalscience).
 Impact Factoren sowie eine Einordnung finden Sie in der Datenbank Web of Science/Social Sciences Citation Index (http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&tid=0&titel_id=360) oder direkt in Journal Citation Reports (http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&tid=0&titel_id=359).
 

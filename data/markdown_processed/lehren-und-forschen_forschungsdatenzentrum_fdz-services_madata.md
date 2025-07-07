@@ -8,11 +8,11 @@ language: de
 
 # MADATA – Forschungsdatenserver der Universität Mannheim
 
-MADATA ist der Forschungsdatenserver der Universität Mannheim. Er ermöglicht Forschenden der Universität, ihre Daten sicher abzulegen und bei Bedarf zugänglich zu machen. Alle Einträge in MADATA sind über DOI eindeutig zitierbar und werden in weiteren Forschungsdaten-Verzeichnissen wie [datacite.org](https://datacite.org/) und [da-ra.de](https://www.da-ra.de/home/) nachgewiesen.
+MADATA ist der Forschungsdatenserver der [Universität Mannheim](https://www.uni-mannheim.de). Er ermöglicht Forschenden der Universität, ihre Daten sicher abzulegen und bei Bedarf zugänglich zu machen. Alle Einträge in MADATA sind über DOI eindeutig zitierbar und werden in weiteren Forschungsdaten-Verzeichnissen wie [datacite.org](https://datacite.org/) und [da-ra.de](https://www.da-ra.de/home/) nachgewiesen.
 
 ## Zugang und Nutzung
 
-Die Nutzung von MADATA ist je nach Datensatz individuell geregelt. Eintragungen sind ausschließlich für Forschende der Universität Mannheim möglich. MADATA-Beiträge werden auf die FAIRness (Findability, Accessibility, Interoperability and Reproducibility) geprüft, bevor dem Datensatz ein DOI zugewiesen wird. Diese Prüfung ist in der Regel innerhalb von 5 Arbeitstagen abgeschlossen. Für eine frühere DOI-Zuweisung kontaktieren Sie bitte das Team unter [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de).
+Die Nutzung von MADATA ist je nach Datensatz individuell geregelt. Eintragungen sind ausschließlich für Forschende der Universität Mannheim möglich. MADATA-Beiträge werden auf die Einhaltung der FAIR-Prinzipien (Findability, Accessibility, Interoperability and Reproducibility) geprüft, bevor dem Datensatz ein DOI zugewiesen wird. Diese Prüfung erfolgt in der Regel innerhalb von 5 Arbeitstagen. Für eine schnellere DOI-Vergabe können Sie das Team unter [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de) kontaktieren.
 
 Zur Ressource: [https://madata.bib.uni-mannheim.de/](https://madata.bib.uni-mannheim.de/)
 

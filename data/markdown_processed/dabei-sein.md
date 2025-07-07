@@ -2,7 +2,7 @@
 title: Dabei sein
 source_url: https://www.bib.uni-mannheim.de/dabei-sein/
 category: Projekte
-tags: [Ausstellungen, Kurse, Veranstaltungen, Stellenangebote, Ausbildung, Projekte, Universitätsbibliothek Mannheim]
+tags: [Ausstellungen, Kurse, Veranstaltungen, Projekte, Stellenangebote, Ausbildung, Universitätsbibliothek Mannheim]
 language: de
 ---
 
@@ -20,8 +20,8 @@ Die UB führt eigene Projekte durch, kooperiert mit Partnern und wirbt Drittmitt
 
 ## Ausstellungen und Veranstaltungen
 
-Alle Interessierten sind herzlich eingeladen, das vielfältige Programm der [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/) zu entdecken.
+Alle Interessierten sind herzlich eingeladen, das vielfältige Programm der [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/) der UB zu entdecken.
 
 ## Kurse und Tutorials
 
-Das Angebot umfasst alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials sowie spezielle Angebote für Schulen. Details zu [Kursen und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/) finden Sie hier.
+Das Angebot umfasst alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials sowie spezielle Angebote für Schulen. Details finden Sie unter [Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/).

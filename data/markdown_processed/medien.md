@@ -2,17 +2,17 @@
 title: Medien der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/medien/
 category: Medien
-tags: [Medienbestand, E-Books, E-Journals, Datenbanken, Fernleihe, Ausleihe, Fachliche Recherche, Zeitungen, Sammlungen, Kataloge]
+tags: [Medienbestand, E-Books, E-Journals, Datenbanken, Fachliche Recherche, Ausleihe, Fernleihe, Zeitungen, Sammlungen, Kataloge]
 language: de
 ---
 
-# Medienbestand der Universitätsbibliothek Mannheim
+# Medien der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim verfügt über mehr als 2,6 Millionen Medien. Das Angebot umfasst sowohl konventionelle Medien als auch digitale Ressourcen wie E-Books, E-Journals und Datenbanken, die kontinuierlich erweitert werden. Im Folgenden erfahren Sie, wie Sie Medien recherchieren und nutzen können.
+Die Universitätsbibliothek Mannheim verfügt über einen Bestand von mehr als 2,6 Millionen Medien. Dazu zählen sowohl konventionelle Medien als auch digitale Angebote wie E-Books, E-Journals und Datenbanken, die kontinuierlich erweitert werden. Im Folgenden erfahren Sie, wie Sie Medien recherchieren und nutzen können.
 
 ## Katalog Primo
 
-[Primo-Katalog](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) ermöglicht die Suche nach Print- und E-Medien, Aufsätzen und Datenbanken im Bestand der Universitätsbibliothek sowie in den Beständen wissenschaftlicher Bibliotheken deutschlandweit.
+[Primo Katalog](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) ermöglicht die Suche nach Print- und E-Medien, Aufsätzen und Datenbanken im Bestand der Universitätsbibliothek sowie in den Beständen wissenschaftlicher Bibliotheken deutschlandweit.
 
 ## Datenbanken
 
@@ -24,7 +24,7 @@ Informationen zum Zugang und zu den Nutzungsbedingungen der digitalen Angebote f
 
 ## Fachliche Recherche
 
-Für fachspezifische Recherchen stehen Datenbanken, Literatur und weitere Sucheinstiege zur Verfügung. Schulungen und individuelle Beratung bieten die Fachreferentinnen und Fachreferenten der UB. Details unter [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/).
+Für fachspezifische Recherchen stehen Datenbanken, Literatur und weitere Sucheinstiege zur Verfügung. Zudem bietet die Universitätsbibliothek Schulungen und individuelle Beratung durch Fachreferentinnen und Fachreferenten an. Details finden Sie unter [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/).
 
 ## Primo-Suchtipps
 
@@ -32,7 +32,7 @@ Unter [Primo-Suchtipps](https://www.bib.uni-mannheim.de/medien/primo-suchtipps/)
 
 ## Informationen zur Ausleihe
 
-Alle wichtigen Informationen zum Bestellen, Ausleihen, Zurückgeben, Vormerken und Verlängern von Medien finden Sie unter [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/).
+Alle relevanten Informationen zum Bestellen, Ausleihen, Zurückgeben, Vormerken und Verlängern von Medien sind unter [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/) zusammengefasst.
 
 ## Fernleihe
 
@@ -40,7 +40,7 @@ Alle wichtigen Informationen zum Bestellen, Ausleihen, Zurückgeben, Vormerken u
 
 ## Anschaffungsvorschlag
 
-Wenn ein gewünschtes Medium nicht im Bestand der UB ist, können Sie es über den [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/) zur Anschaffung vorschlagen.
+Wenn ein gewünschtes Medium nicht im Bestand der Universitätsbibliothek vorhanden ist, können Sie unter [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/) Titel zur Anschaffung vorschlagen.
 
 ## Zeitungen
 
@@ -48,8 +48,8 @@ Der Einstieg zu gedruckten Zeitungen, Mannheimer Zeitungen und Online-Zeitungspo
 
 ## Sammlungen
 
-Erkunden Sie die digitalen Sammlungen der UB, von Alten Drucken bis zu Statistischen Jahrbüchern, sowie die Geschichte der historischen Sammlungen unter [Sammlungen](https://www.bib.uni-mannheim.de/medien/sammlungen/).
+Erkunden Sie die digitalen Sammlungen der Universitätsbibliothek, von Alten Drucken bis zu Statistischen Jahrbüchern, sowie die Geschichte der historischen Sammlungen unter [Sammlungen](https://www.bib.uni-mannheim.de/medien/sammlungen/).
 
 ## Weitere Kataloge
 
-Zusätzlich zu Primo stehen weitere Kataloge der Universität Mannheim, weiterer Mannheimer Einrichtungen sowie regionale und überregionale Bibliothekskataloge zur Verfügung. Mehr dazu unter [Weitere Kataloge](https://www.bib.uni-mannheim.de/medien/weitere-kataloge/).
+Zusätzlich zu Primo stehen weitere Kataloge der Universität Mannheim, weiterer Mannheimer Einrichtungen sowie regionale und überregionale Bibliothekskataloge zur Verfügung. Eine Übersicht finden Sie unter [Weitere Kataloge](https://www.bib.uni-mannheim.de/medien/weitere-kataloge/).

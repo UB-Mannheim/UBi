@@ -24,6 +24,14 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 * PubMed (https://dbis.ur.de/UBMAN/resources/294)​​​​​​​
 
 
+* APA PsycINFO (https://dbis.ur.de/UBMAN/resources/149)
+* PSYNDEX (https://dbis.ur.de/UBMAN/resources/86)Bibliographische Datenbank zu psychologischer Literatur und Test­verfahren aus den deutschsprach­igen Ländern.
+* Web of Science/Social Sciences Citation Index (https://dbis.ur.de/UBMAN/resources/360)Diese Datenbank beinhaltet u. a. Informationen zu den Zitations­zahlen eines Artikels und zum Journal Impact Factor einer Zeitschrift.
+* ERIC (https://dbis.ur.de/UBMAN/resources/363)Literatur­datenbank für die pädagogische Psychologie.
+* PsycTHERAPY (https://dbis.ur.de/UBMAN/resources/11210)PsycTHERAPY (https://dbis.ur.de/UBMAN/resources/11210) enthält zahlreiche Demonstrations-Videos von Therapien mit Einzelpersonen, Paaren und Familien.
+* PubMed (https://dbis.ur.de/UBMAN/resources/294)​​​​​​​
+
+
 * Bibliographische Datenbank zu psychologischer Literatur und Test­verfahren aus den deutschsprach­igen Ländern.
 
 
@@ -40,10 +48,16 @@ Weitere Datenbanken zur Psychologie (https://dbis.ur.de/UBMAN/browse/subjects/34
 
 ### E-Journals
 
+Die E-Journals für das Fach Psychologie finden Sie in derElektronischen Zeitschriftenbibliothek (EZB)und imKatalog Primo.
 Die E-Journals für das Fach Psychologie finden Sie in der Elektronischen Zeitschriftenbibliothek (EZB) (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=3&lang=de¬ation=CL-CZ) und im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 
 ### E-Books
+
+
+* Oxford (https://academic.oup.com/pages/op-migration-welcome?pageSize=10&sort=datedescending&t=OSO%3ApoliticalScience)
+* Springer: Psychologie (ab 2015) (https://uni-mannheim.userservices.exlibrisgroup.com/view/action/uresolver.do;jsessionid=8E32B57FD707175B36D422F97FAFC380.app03.eu02.prod.alma.dc03.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=8760405350002561&institutionId=2561&customerId=2560)
+* Springer: Behavioral Science & Psychology (2017) (https://link.springer.com/search?facet-content-type=%22Book%22&package=41168&date-facet-mode=between&facet-start-year=2017&facet-end-year=2017)
 
 Die Universitäts­bibliothek Mannheim hat ein umfangreiches E-Book-Angebot an Fach­publikationen lizenziert. Alle an der UB Mannheim verfügbaren E-Books sind über den Katalog Primo auffindbar. Für das Fach Psychologie interessante E-Bookpakete sind z. B.
 
@@ -55,12 +69,17 @@ Die Universitäts­bibliothek Mannheim hat ein umfangreiches E-Book-Angebot an F
 
 ### Forschungs­daten
 
+Forschungs­daten der Universität Mannheim können im institutionellen Forschungs­datenrepositoriumMannheim Research Data Repository (MADATA)gesichert und archiviert werden.Fach­spezifische Forschungs­datenrepositorien sind zum BeispielPsychDataoder dasdatoriumderGESIS – Leibniz-Institut für Sozial­wissenschaften.Einen genauen Über­blick über Forchungs­datenrepositorien bietet das VerzeichnisRegistry of Research Data Repositories. Zugang zu wissenschaft­lichen Forschungdaten erhalten Sie überDataCite.
 Forschungs­daten der Universität Mannheim können im institutionellen Forschungs­datenrepositorium Mannheim Research Data Repository (MADATA) (https://madata.bib.uni-mannheim.de/) gesichert und archiviert werden.
 Fach­spezifische Forschungs­datenrepositorien sind zum Beispiel PsychData (http://www.psychdata.de/) oder das datorium (https://datorium.gesis.org/) der GESIS – Leibniz-Institut für Sozial­wissenschaften (https://www.gesis.org/home). 
 Einen genauen Über­blick über Forchungs­datenrepositorien bietet das Verzeichnis Registry of Research Data Repositories (http://www.re3data.org/). Zugang zu wissenschaft­lichen Forschungdaten erhalten Sie über DataCite (https://www.datacite.org/).
 
 
 ### Fach­liche Internetquellen
+
+
+* Social Psychology Network (http://www.socialpsychology.org/)
+* PsyDok (http://psydok.psycharchives.de/jspui/) – Open-Access-Dokumentenserver für das Fach Psychologie
 
 **Psychologische Internetquellen, Volltexte**
 
@@ -91,6 +110,7 @@ Einen genauen Über­blick über Forchungs­datenrepositorien bietet das Verzeic
 
 ### Literatur­standorte
 
+ImBibliotheks­bereich A3finden Sie Literatur zum Fach Psychologie und imBibliotheks­bereich A5Literatur speziell zur Sozialpsychologie, die Sie vor Ort nutzen können. Die Medien in A3 und A5 sind frei zugänglich und nachThemengebietenaufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.ImAusleihzentrum Schloss Westflügelgibt es weitere Literatur zur Psychologie, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.Die an der UB vorhandene Literatur können Sie imKatalog Primorecherchieren.
 Im Bibliotheks­bereich A3 (https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Psychologie und im Bibliotheks­bereich A5 (https://www.bib.uni-mannheim.de/standorte/bb-a5/) Literatur speziell zur Sozialpsychologie, die Sie vor Ort nutzen können. Die Medien in A3 und A5 sind frei zugänglich und nach Themengebieten (https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.
 Im Ausleihzentrum Schloss Westflügel (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Psychologie, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.
@@ -105,9 +125,15 @@ Die an der UB vorhandene Literatur können Sie im Katalog Primo (https://primo.b
 * Zentralinstitut für Seelische Gesundheit (http://www.zi-mannheim.de/)
 
 
+* Fach­bereich Psychologie (https://www.sowi.uni-mannheim.de/forschung/psychologie/)
+* Otto-Selz-Institut (https://www.uni-mannheim.de/osi/)
+* Zentralinstitut für Seelische Gesundheit (http://www.zi-mannheim.de/)
+
+
 
 ### Journal Rankings
 
+Ein Ranking wissenschaft­licher Zeitschriften findet im Fach Psychologie häufig anhand des Impact Faktors der Zeitschriften statt. Der Impact Faktor einer Zeitschrift gibt an, wie häufig die Artikel der Zeitschrift in anderen Fach­zeitschriften im Schnitt zitiert werden. Relevante Rankings für die Psychologie sind z. B. dasSCImago Journal Rankingoder dasGoogle Scholar Ranking.Impact Faktoren und Kontext­informationen finden Sie auch in der DatenbankSocial Sciences Citation Indexoder direkt inJournal Citation Reports.
 Ein Ranking wissenschaft­licher Zeitschriften findet im Fach Psychologie häufig anhand des Impact Faktors der Zeitschriften statt. Der Impact Faktor einer Zeitschrift gibt an, wie häufig die Artikel der Zeitschrift in anderen Fach­zeitschriften im Schnitt zitiert werden. Relevante Rankings für die Psychologie sind z. B. das SCImago Journal Ranking (https://www.scimagojr.com/journalrank.php?area=3200) oder das Google Scholar Ranking (https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=med_psychology).
 Impact Faktoren und Kontext­informationen finden Sie auch in der Datenbank Social Sciences Citation Index (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=360) oder direkt in Journal Citation Reports. (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359)
 

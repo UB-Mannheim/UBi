@@ -15,6 +15,7 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 
 ### Datenbanken
 
+Top DatenbankenMLA International BibliographyBibliography of Linguistic LiteratureKlapp-OnlineRomanische Bibliographie OnlineWeitere DatenbankenWeitereDatenbanken zur Romanistikund zu anderen Fach­gebieten finden Sie über dasDatenbank-Info­system (DBIS).Beachten Sie ergänzend auch die Datenbanken zu den Fach­gebietenAllgemeines,Allgemeine und vergleich­ende Sprach- und Literatur­wissenschaftsowieMedien- und Kommunikations­wissenschaften, Publizistik, Film- und Theater­wissenschaftundPädagogik.
 **Top Datenbanken**
 MLA International Bibliography (https://dbis.ur.de/UBMAN/resources/76)
 Bibliography of Linguistic Literature (https://dbis.ur.de/UBMAN/resources/1279)
@@ -27,12 +28,14 @@ Beachten Sie ergänzend auch die Datenbanken zu den Fach­gebieten Allgemeines (
 
 ### E-Journals
 
+Die E-Journals für das Fach Romanistik finden Sie in derElektronischen Zeitschriftenbibliothek (EZB)und imKatalog Primo.Beachten Sie ergänzend auch die elektronischen Zeitschriften zu den Fach­gebietenAllgemeines,Allgemeine und vergleich­ende Sprach- und Literatur­wissenschaft,Bildungs­geschichtesowieMedien- und Kommunikations­wissenschaftenundPädagogik.
 Die E-Journals für das Fach Romanistik finden Sie in der Elektronischen Zeitschriftenbibliothek (EZB) (http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=I) und im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 Beachten Sie ergänzend auch die elektronischen Zeitschriften zu den Fach­gebieten Allgemeines (http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=AZ), Allgemeine und vergleich­ende Sprach- und Literatur­wissenschaft (http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=E), Bildungs­geschichte (http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=DD) sowie Medien- und Kommunikations­wissenschaften (http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=AP) und Pädagogik (http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=D).
 
 
 ### E-Books
 
+Manuals of Romance LinguisticsLexikon der Romanistischen Linguistik (LRL)Handbücher zur Sprach- und Kommunikations­wissenschaft (HSK)
 Manuals of Romance Linguistics (https://www.degruyter.com/view/serial/203451)
 Lexikon der Romanistischen Linguistik (LRL) (https://www.degruyter.com/view/serial/35546)
 Handbücher zur Sprach- und Kommunikations­wissenschaft (HSK) (https://www.degruyter.com/view/serial/16647)
@@ -40,6 +43,7 @@ Handbücher zur Sprach- und Kommunikations­wissenschaft (HSK) (https://www.degr
 
 ### Fach­liche Internetquellen
 
+Fach­informations­dienst (FID) RomanistikFach­informations­dienst Lateinamerika, Karibik und Latino StudiesBiblioteca Virtual Miguel de CervantesBiblioteca italianaromanistik.deLinguistik – Fach­portal für Sprach­wissenschaftFach­informations­dienst Allgemeine und vergleich­ende Literatur­wissenschaft (avldigital)
 Fach­informations­dienst (FID) Romanistik (https://www.fid-romanistik.de/startseite/)
 Fach­informations­dienst Lateinamerika, Karibik und Latino Studies (https://fid-lateinamerika.de/)
 Biblioteca Virtual Miguel de Cervantes (http://www.cervantesvirtual.com/)
@@ -51,6 +55,7 @@ Fach­informations­dienst Allgemeine und vergleich­ende Literatur­wissenschaf
 
 ### Literatur­standorte
 
+ImBibliotheks­bereich A3finden Sie Literatur zum Fach Romanistik, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nachThemengebietenaufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.ImAusleihzentrum Schloss Westflügelgibt es weitere Literatur zur Romanistik, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.Die an der UB vorhandene Literatur können Sie imKatalog Primorecherchieren.
 Im Bibliotheks­bereich A3 (https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Romanistik, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach Themengebieten (https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.
 Im Ausleihzentrum Schloss Westflügel (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Romanistik, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.

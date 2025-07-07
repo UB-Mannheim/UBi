@@ -2,31 +2,33 @@
 title: Schreibberatung der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/services/schreibberatung/
 category: Services
-tags: [Schreibberatung, wissenschaftliches Schreiben, Studierende, Text-Feedback, Schreibtechniken, Lernvideos, Online-Tutorials]
+tags: [Schreibberatung, wissenschaftliches Schreiben, Studierende, Text-Feedback, Schreibprozess, Materialien, Lernvideos, Online-Tutorials]
 language: de
 ---
 
 # Schreibberatung der Universitätsbibliothek Mannheim
 
-Die Schreibberatung der Universitätsbibliothek Mannheim unterstützt Studierende aller Studiengänge bei der Planung und Erstellung wissenschaftlicher Arbeiten – von der Themenfindung bis zur Endüberarbeitung. Die Beratung erfolgt in deutscher oder englischer Sprache und fördert Hilfe zur Selbsthilfe.
+Die Schreibberatung der Universitätsbibliothek Mannheim unterstützt Studierende aller Studiengänge der Universität Mannheim bei der Planung und Erstellung wissenschaftlicher Arbeiten. Ob Hausarbeit, Bachelor- oder Masterarbeit – von der Themenfindung bis zur Endüberarbeitung erhalten Sie Beratung in deutscher oder englischer Sprache.
 
-## Beratungsangebot
+Aktuell erfolgt die Beratung per E-Mail oder in persönlichen Gesprächen über Videokonferenz. Bei Interesse schreiben Sie Ihr Anliegen an: [schreibberatung.ub@uni-mannheim.de](mailto:schreibberatung.ub@uni-mannheim.de).
 
-Die Schreibberatung hilft Ihnen beispielsweise bei folgenden Fragen:
+Ein Interview mit Jessica Kaiser zur Schreibberatung finden Sie in der Frankfurter Allgemeinen Zeitung: [„Studium: Eine Abschlussarbeit ist keine Religion“](https://www.faz.net/aktuell/karriere-hochschule/studium-eine-abschlussarbeit-ist-keine-religion-18024769-p2.html) (FAZ, 13. Mai 2022).
 
-- Wie plane ich meine wissenschaftliche Arbeit besser?
-- Wie schreibe ich entspannter und effizienter?
-- Wie erhalte ich konstruktives Feedback zu meinem Text?
+## Unterstützung und Themen der Schreibberatung
 
-Aktuell findet die Beratung per E-Mail oder Videokonferenz statt. Kontaktieren Sie die Schreibberatung unter: [schreibberatung.ub@uni-mannheim.de](mailto:schreibberatung.ub@uni-mannheim.de).
+Die Schreibberatung bietet Hilfe zur Selbsthilfe und unterstützt Sie beispielsweise bei:
 
-Ein Interview mit Jessica Kaiser zum Thema Abschlussarbeiten finden Sie in der Frankfurter Allgemeinen Zeitung: [„Studium: Eine Abschlussarbeit ist keine Religion“](https://www.faz.net/aktuell/karriere-hochschule/studium-eine-abschlussarbeit-ist-keine-religion-18024769-p2.html) (FAZ, 13. Mai 2022).
+- Planung und Strukturierung wissenschaftlicher Arbeiten
+- Themenfindung und Fragestellung
+- Literaturrecherche und Quellenarbeit
+- Zitierweise und wissenschaftlichem Stil
+- Überarbeitung und Feedback zu Texten
 
-## Materialien und Links zur Unterstützung beim wissenschaftlichen Schreiben
+## Materialien und Links zur Unterstützung
 
 ### Handouts
 
-Viele Schreibzentren bieten hilfreiche Übersichten und Tipps zu Themen wie Gliedern, Exzerpieren, Zitieren und Schreibtechniken. Eine Auswahl:
+Viele Schreibzentren bieten nützliche Übersichten und Arbeitsmaterialien zu Themen wie Gliedern, Exzerpieren, Zitieren und Schreibtechniken. Eine Auswahl:
 
 - [EconBiz: Schreib Deine beste Hausarbeit (PDF, 3,8 MB)](https://www.econbiz.de/eb/fileadmin/ik_broschuere/schreibe_deine_beste_hausarbeit_booklet_ccby.pdf) – ZBW – Leibniz-Informationszentrum Wirtschaft  
 - [Schreibzentrum Universität Konstanz: Übungen und Arbeitsmaterialien](https://www.uni-konstanz.de/schreibzentrum/materialien-und-links/uebungen/)  
@@ -35,16 +37,14 @@ Viele Schreibzentren bieten hilfreiche Übersichten und Tipps zu Themen wie Glie
 
 ### Lernvideos
 
-Videos zu verschiedenen Themen rund ums wissenschaftliche Schreiben:
+Zur Unterstützung des Schreibprozesses stehen verschiedene Videos zur Verfügung:
 
-- [LotseTeam YouTube-Kanal: Themenfindung, Literaturrecherche, Zitieren](https://www.youtube.com/user/LotseTeam)  
+- [LotseTeam (YouTube): Videos zu Themenfindung, Literaturrecherche und Zitieren](https://www.youtube.com/user/LotseTeam)  
 - [Schreibzentrum Goethe-Universität Frankfurt am Main: Erklärfilme zu Schreibstrategien und Schreibberatung](https://www.starkerstart.uni-frankfurt.de/53693717/Erklaerfilme)  
 
 ### Online-Tutorials
 
-Interaktive Online-Tutorials für das wissenschaftliche Schreiben:
+Interaktive Online-Tutorials führen umfassend in das wissenschaftliche Schreiben ein:
 
-- [Der Bremer Schreibcoach](https://blogs.uni-bremen.de/schreibportalfb910/schreibprozess/der-bremer-schreibcoach/) von Krings, Hans P./Holz, Peter/Siekmeyer, Anne (2011)  
-- [ULB-Lotse Münster: Arbeiten schreiben](https://www.ulb.uni-muenster.de/lotse/wiss_arbeiten/index.html)  
-
----
+- [Der Bremer Schreibcoach (2011)](https://blogs.uni-bremen.de/schreibportalfb910/schreibprozess/der-bremer-schreibcoach/) – Krings, Hans P./Holz, Peter/Siekmeyer, Anne  
+- [ULB-Lotse: Arbeiten schreiben](https://www.ulb.uni-muenster.de/lotse/wiss_arbeiten/index.html) – Universitäts- und Landesbibliothek Münster

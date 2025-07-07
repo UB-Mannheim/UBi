@@ -8,11 +8,11 @@ language: de
 
 # Literaturversorgung an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim stellt Literatur und Informationen für Wissenschaft, Lehre und Studium an der Universität Mannheim sowohl analog als auch digital zur Verfügung. Um Lehrende und Forschende bestmöglich zu unterstützen, bietet die UB zusätzliche Services rund um die Erwerbung und Bereitstellung von Literatur und Daten.
+Die [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/) stellt Literatur und Informationen für Wissenschaft, Lehre und Studium an der Universität Mannheim sowohl analog als auch digital zur Verfügung. Um Lehrende und Forschende bestmöglich zu unterstützen, bietet die UB zusätzliche Services rund um die Erwerbung und Bereitstellung von Literatur und Daten an.
 
 ## Bestellservice
 
-Sie möchten Literatur für Ihren Handapparat bestellen oder Daten lizenzieren? Die UB ist dafür zuständig. Nutzen Sie den [Bestellservice](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/), um Ihre Bestellungen bequem aufzugeben.
+Sie möchten Literatur für Ihren Handapparat bestellen oder Daten lizenzieren? Die UB ist dafür zuständig. Nutzen Sie den [Bestellservice](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/), um Ihre Literaturwünsche zu übermitteln.
 
 ## Scanservice
 
@@ -24,7 +24,7 @@ Die UB richtet gerne einen Semesterapparat in Ihrem Bibliotheksbereich ein. Wenn
 
 ## Anschaffungsvorschlag
 
-Die UB freut sich auf Ihre Empfehlungen! Lehrbücher, die Sie in Ihren Veranstaltungen nutzen, werden gerne in größerer Zahl für die Lehrbuchsammlung erworben. Details zum [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/) finden Sie hier.
+Lehrbücher, die Sie in Ihren Veranstaltungen nutzen, erwirbt die UB gerne in größerer Zahl für die Lehrbuchsammlung. Ihre Empfehlungen sind willkommen. Details zum [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/) finden Sie hier.
 
 ## Abholvollmacht
 

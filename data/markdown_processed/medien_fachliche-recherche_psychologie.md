@@ -1,12 +1,12 @@
 ---
-title: Psychologie
+title: Psychologie - Fachliche Recherche an der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/psychologie/
 category: Medien
-tags: [Psychologie, Literatur, Datenbanken, E-Journals, E-Books, Forschungsdaten, Internetquellen, Literaturstandorte, Forschungsinstitute, Journal Rankings, Kurse, Wissenschaftliches Arbeiten, Beratung]
+tags: [Psychologie, Literaturrecherche, Datenbanken, E-Journals, E-Books, Forschungsdaten, Psychologische Tests, Wissenschaftliches Arbeiten, Universitätsbibliothek Mannheim]
 language: de
 ---
 
-# Psychologie
+# Psychologie – Fachliche Recherche
 
 Für das Fach Psychologie bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Sucheinstiege. Informationen zur Recherche im Fachgebiet und Tipps zum wissenschaftlichen Arbeiten erhalten Sie in Kursen oder durch individuelle Beratung.
 
@@ -17,8 +17,8 @@ Für das Fach Psychologie bietet die Universitätsbibliothek Mannheim Literatur,
 - [APA PsycINFO](https://dbis.ur.de/UBMAN/resources/149)
 - [PSYNDEX](https://dbis.ur.de/UBMAN/resources/86)  
   Bibliographische Datenbank zu psychologischer Literatur und Testverfahren aus den deutschsprachigen Ländern.
-- [Web of Science/Social Sciences Citation Index](https://dbis.ur.de/UBMAN/resources/360)  
-  Enthält u. a. Informationen zu Zitationszahlen und Journal Impact Factor.
+- [Web of Science / Social Sciences Citation Index](https://dbis.ur.de/UBMAN/resources/360)  
+  Enthält u.a. Informationen zu Zitationszahlen und Journal Impact Factor.
 - [ERIC](https://dbis.ur.de/UBMAN/resources/363)  
   Literaturdatenbank für die pädagogische Psychologie.
 - [PsycTHERAPY](https://dbis.ur.de/UBMAN/resources/11210)  
@@ -29,28 +29,26 @@ Weitere Datenbanken zur Psychologie und anderen Fachgebieten finden Sie über da
 
 ### E-Journals
 
-E-Journals für Psychologie sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=3&lang=de¬ation=CL-CZ) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) verfügbar.
+Die E-Journals für Psychologie sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=3&lang=de¬ation=CL-CZ) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) verfügbar.
 
 ### E-Books
 
-Die UB Mannheim bietet umfangreiche E-Book-Pakete, z. B.:
+Die Universitätsbibliothek Mannheim bietet umfangreiche E-Book-Pakete, u.a.:
 
 - [Oxford](https://academic.oup.com/pages/op-migration-welcome?pageSize=10&sort=datedescending&t=OSO%3ApoliticalScience)
-- [Springer: Psychologie (ab 2015)](https://uni-mannheim.userservices.exlibrisgroup.com/view/action/uresolver.do;jsessionid=8E32B57FD707175B36D422F97FAFC380.app03.eu02.prod.alma.dc03.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=8760405350002561&institutionId=2561&customerId=2560)
+- [Springer: Psychologie (ab 2015)](https://uni-mannheim.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8760405350002561&institutionId=2561&customerId=2560)
 - [Springer: Behavioral Science & Psychology (2017)](https://link.springer.com/search?facet-content-type=%22Book%22&package=41168&date-facet-mode=between&facet-start-year=2017&facet-end-year=2017)
 
 Alle verfügbaren E-Books sind über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar.
 
 ### Forschungsdaten
 
-Forschungsdaten der Universität Mannheim können im institutionellen Repositorium [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de/) archiviert werden. Fachspezifische Repositorien sind z. B. [PsychData](http://www.psychdata.de/) und das [datorium](https://datorium.gesis.org/) der GESIS – Leibniz-Institut für Sozialwissenschaften. Einen Überblick bietet das Verzeichnis [Registry of Research Data Repositories (re3data)](http://www.re3data.org/). Zugang zu wissenschaftlichen Forschungsdaten erhalten Sie über [DataCite](https://www.datacite.org/).
+Forschungsdaten der Universität Mannheim können im institutionellen Repositorium [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de/) gesichert werden. Fachspezifische Repositorien sind z.B. [PsychData](http://www.psychdata.de/) und das [datorium der GESIS](https://datorium.gesis.org/). Einen Überblick bietet das Verzeichnis [Registry of Research Data Repositories](http://www.re3data.org/). Zugang zu wissenschaftlichen Forschungsdaten erhalten Sie über [DataCite](https://www.datacite.org/).
 
 ### Fachliche Internetquellen
 
-**Psychologische Internetquellen, Volltexte**
-
 - [Social Psychology Network](http://www.socialpsychology.org/)
-- [PsyDok](http://psydok.psycharchives.de/jspui/) – Open-Access-Dokumentenserver für Psychologie
+- [PsyDok – Open-Access-Dokumentenserver für Psychologie](http://psydok.psycharchives.de/jspui/)
 
 **Gesellschaften und Institute**
 
@@ -65,7 +63,7 @@ Forschungsdaten der Universität Mannheim können im institutionellen Repositori
 - [FAQ Finding Information About Psychological Tests (APA)](http://www.apa.org/science/faq-findtests.html)
 - [Psychological Testing Centre der British Psychological Society](http://www.psychtesting.org.uk/)
 - [Psychological Research on the Net](http://psych.hanover.edu/research/exponnet.html)
-- [Forschung erleben](https://www.uni-mannheim.de/forschung-erleben/) (Forschungsportal der Lehrstühle für Sozialpsychologie der Universität Mannheim)
+- [Forschung erleben – Forschungsportal der Universität Mannheim](https://www.uni-mannheim.de/forschung-erleben/)
 
 **Tutorials zur Literatur- und Internetrecherche**
 
@@ -74,11 +72,11 @@ Forschungsdaten der Universität Mannheim können im institutionellen Repositori
 
 ### Literaturstandorte
 
-- Im Bibliotheksbereich [A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Psychologie.
-- Im Bereich [A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/) Literatur speziell zur Sozialpsychologie. Medien sind frei zugänglich und thematisch geordnet. Ausleihen nur für wissenschaftliches Personal der Universität Mannheim.
+- Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Psychologie.
+- Im [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/) Literatur speziell zur Sozialpsychologie. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal möglich.
 - Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Psychologie, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- Die Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel bietet Studierenden wichtige Lehrbücher in vielen Exemplaren.
-- Literaturrecherche erfolgt über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+- Die [Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) bietet Studierenden und kooperierenden Einrichtungen wichtige Lehrbücher zur Ausleihe.
+- Die Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
 
 ### Forschungseinrichtungen vor Ort
 
@@ -88,7 +86,7 @@ Forschungsdaten der Universität Mannheim können im institutionellen Repositori
 
 ### Journal Rankings
 
-Im Fach Psychologie werden wissenschaftliche Zeitschriften häufig anhand des Impact Faktors bewertet. Relevante Rankings sind:
+Im Fach Psychologie werden wissenschaftliche Zeitschriften häufig anhand des Impact Faktors bewertet. Dieser gibt an, wie oft Artikel einer Zeitschrift im Schnitt zitiert werden. Relevante Rankings sind:
 
 - [SCImago Journal Ranking](https://www.scimagojr.com/journalrank.php?area=3200)
 - [Google Scholar Ranking](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=med_psychology)
@@ -106,12 +104,12 @@ Die UB bietet regelmäßig Schulungen zur Recherche im Fach Psychologie an. Tuto
 
 ## Wissenschaftliches Arbeiten
 
-Die UB bietet zahlreiche Titel zum wissenschaftlichen Arbeiten und Schreiben, z. B.:
+Die UB bietet zahlreiche Titel zum wissenschaftlichen Arbeiten und Schreiben, z.B.:
 
-- Peters, J., & Dörfler, T. (2019). [Schreiben und Gestalten von Abschlussarbeiten in der Psychologie und in den Sozialwissenschaften](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA51269931760002561) (2. Auflage, E-Book)
-- Peters, J., & Dörfler, T. (2019). [Planen, Durchführen und Auswerten von Abschlussarbeiten in der Psychologie und den Sozialwissenschaften](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21218460760002561) (2. Auflage)
-- Ormrod, R. (2023). [How to structure a thesis, report or paper: A guide for students](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21326804470002561) (E-Book)
-- Northey, M., Tepperman, L., & Albanese, P. (2023). [Making sense: A student's guide to research and writing: Social sciences](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21329491170002561) (8. Auflage)
+- Peters, J., & Dörfler, T. (2019). *Schreiben und Gestalten von Abschlussarbeiten in der Psychologie und in den Sozialwissenschaften* (2. Aufl.). [E-Book](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA51269931760002561)
+- Peters, J., & Dörfler, T. (2019). *Planen, Durchführen und Auswerten von Abschlussarbeiten in der Psychologie und den Sozialwissenschaften* (2. Aufl.). [Primo](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21218460760002561)
+- Ormrod, R. (2023). *How to structure a thesis, report or paper: A guide for students*. [E-Book](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21326804470002561)
+- Northey, M., Tepperman, L., & Albanese, P. (2023). *Making sense: A student's guide to research and writing: Social sciences* (8. Aufl.). [Primo](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21329491170002561)
 
 Weitere Literatur zu folgenden Themen finden Sie im Katalog Primo:
 
@@ -148,4 +146,4 @@ Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Ra
 **E-Mail:** [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)  
 **ORCID-ID:** [0000-0001-7916-2659](https://orcid.org/0000-0001-7916-2659)
 
-**Vertretung:** [Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
+Vertretung: [Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)

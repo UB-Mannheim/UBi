@@ -1,54 +1,50 @@
 ---
-title: Digitale Bibliotheksdienste
+title: Digitale Bibliotheksdienste der Universitätsbibliothek Mannheim
 source_url: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/digitale-bibliotheksdienste/
 category: Services
-tags: [Digitale Bibliotheksdienste, Ansprechpartner, Universität Mannheim, Universitätsbibliothek, Digitalisierung, Softwareentwicklung, Schulungen]
+tags: [Digitale Bibliotheksdienste, Ansprechpartner, Universitätsbibliothek Mannheim, Digitalisierung, Softwareentwicklung, Schulungen, Projekte]
 language: de
 ---
 
 # Digitale Bibliotheksdienste
 
-## Stefan Weil
-
+## Stefan Weil  
 **Leiter der Abteilung Digitale Bibliotheksdienste | Stellvertretender Fachreferent für Mathematik und Informatik**
 
-**Aufgaben:**
+**Aufgaben:**  
+- Projekte  
+- Fachliche Beratung bei Recherchefragen  
+- Durchführung von Schulungen im Fachbereich  
 
-- Projekte
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
+**Kontakt:**  
+Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 282, 68161 Mannheim  
+Telefon: +49 621 181-2946  
+E-Mail: [stefan.weil@uni-mannheim.de](mailto:stefan.weil@uni-mannheim.de)  
+ORCID-ID: [0000-0002-0524-9898](https://orcid.org/0000-0002-0524-9898)  
 
-**Kontakt:**
+---
 
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 282, 68161 Mannheim
-- Telefon: +49 621 181-2946
-- E-Mail: [stefan.weil@uni-mannheim.de](mailto:stefan.weil@uni-mannheim.de)
-- ORCID-ID: [0000-0002-0524-9898](https://orcid.org/0000-0002-0524-9898)
-
-## Jörg Mechnich
-
+## Jörg Mechnich  
 **Stellvertretender Leiter der Abteilung Digitale Bibliotheksdienste**
 
-**Aufgaben:**
+**Aufgaben:**  
+- Projekte  
+- Softwareentwicklung  
+- Serveradministration  
+- Kurse  
 
-- Projekte
-- Softwareentwicklung
-- Serveradministration
-- Kurse
+**Kontakt:**  
+Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 281, 68161 Mannheim  
+Telefon: +49 621 181-2965  
+E-Mail: [joerg.mechnich@uni-mannheim.de](mailto:joerg.mechnich@uni-mannheim.de)  
+ORCID-ID: [0000-0002-6406-4906](https://orcid.org/0000-0002-6406-4906)  
 
-**Kontakt:**
+---
 
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 281, 68161 Mannheim
-- Telefon: +49 621 181-2965
-- E-Mail: [joerg.mechnich@uni-mannheim.de](mailto:joerg.mechnich@uni-mannheim.de)
-- ORCID-ID: [0000-0002-6406-4906](https://orcid.org/0000-0002-6406-4906)
-
-## Tünde Gottschling
-
+## Tünde Gottschling  
 **Sachgebietsleiterin Digitalisierung/Historische Sammlungen**
 
-**Kontakt:**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
-- Telefon: +49 621 181-2977
-- E-Mail: [tuende.gottschling@uni-mannheim.de](mailto:tuende.gottschling@uni-mannheim.de)
+**Kontakt:**  
+Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim  
+Telefon: +49 621 181-2977  
+E-Mail: [tuende.gottschling@uni-mannheim.de](mailto:tuende.gottschling@uni-mannheim.de)

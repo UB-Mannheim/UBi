@@ -2,7 +2,7 @@
 title: Zitationsstile
 source_url: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zitationsstile/
 category: Services
-tags: [Zitationsstile, Literaturverwaltungsprogramme, Zitieren, CSL, Zotero, Universität Mannheim, Hausstile]
+tags: [Zitationsstile, Literaturverwaltung, Zitieren, CSL, Zotero, Universität Mannheim, Hausstile]
 language: de
 ---
 
@@ -24,7 +24,7 @@ In den Literaturverwaltungsprogrammen sind diese Stile vorinstalliert oder könn
 
 ### Zotero
 
-Nutzen Sie das [CSL-Repositorium](https://www.zotero.org/styles/) oder suchen Sie anhand von [Beispielen](https://editor.citationstyles.org/searchByExample/). Hier finden Sie eine [Anleitung zum Installieren von Zitationsstilen](https://www.zotero.org/support/styles).
+Nutzen Sie das [CSL-Repositorium](https://www.zotero.org/styles/) oder suchen Sie anhand von [Beispielen](https://editor.citationstyles.org/searchByExample/). Hier finden Sie eine [Anleitung](https://www.zotero.org/support/styles) zum Installieren von Zitationsstilen.
 
 ### Zitationsstile erstellen und ändern
 

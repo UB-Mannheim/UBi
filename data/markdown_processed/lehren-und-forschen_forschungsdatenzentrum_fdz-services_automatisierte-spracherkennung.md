@@ -15,8 +15,8 @@ Mit dem Tool [whisply](https://github.com/tsmdt/whisply), das auf [whisper](http
 Weitere Funktionen von whisply sind:
 
 - Automatisierte Annotation von Sprecher*innen und Sprecher*innenwechseln  
-- Ausgabe der Transkription als `.txt` oder `.rttm` Datei  
-- Automatisierte Erstellung von Untertiteln für Videos in den Formaten `.srt` und `.webvtt`
+- Ausgabe der Transkription als .txt oder .rttm Datei  
+- Automatisierte Erstellung von Untertiteln für Videos in den Formaten .srt und .webvtt  
 
 Anleitungen zur Installation und Nutzung finden Sie auf der [GitHub-Seite von whisply](https://github.com/tsmdt/whisply).
 
@@ -27,8 +27,8 @@ Das FDZ unterstützt Sie unter anderem in folgenden Bereichen:
 - Beratung bei der Transkription multimedialer Inhalte  
 - Einrichtung des Transkriptions-Workflows  
 - Anpassung der Ausgabeformate von whisply  
-- Allgemeine Beratung bei Audio-zu-Text-Prozessen  
-- Unterstützung bei der Weiterverarbeitung der Transkription (z. B. Umwandlung von unstrukturierten in strukturierte Daten)
+- Allgemeine Beratung bei Audio-to-Text-Prozessen  
+- Unterstützung bei der Weiterverarbeitung der Transkription (z. B. Umwandlung von unstrukturierten in strukturierte Daten)  
 
 ## Kontakt
 

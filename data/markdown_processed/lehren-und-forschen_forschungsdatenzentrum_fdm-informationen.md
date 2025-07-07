@@ -2,7 +2,7 @@
 title: Informationen zum Forschungsdatenmanagement
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/
 category: Projekte
-tags: [Forschungsdatenmanagement, Datenmanagementplan, Datensicherheit, Datenarchivierung, Digital Humanities, Universität Mannheim]
+tags: [Forschungsdatenmanagement, Datenmanagementplan, Datenerhebung, Datenspeicherung, Datenarchivierung, Digital Humanities, Universitätsbibliothek Mannheim]
 language: de
 ---
 
@@ -22,8 +22,7 @@ Innerhalb und außerhalb der Universität gibt es weitere Anlaufstellen rund um 
 
 ## Forschungsdatenzentrum (FDZ)
 
-Das Team des Forschungsdatenzentrums besteht aus Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova und Larissa Will.
-
-- **Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim  
-- **Web:** [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
-- **E-Mail:** forschungsdaten@uni-mannheim.de
+**Team:** Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will  
+**Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim  
+**Web:** [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
+**E-Mail:** forschungsdaten@uni-mannheim.de

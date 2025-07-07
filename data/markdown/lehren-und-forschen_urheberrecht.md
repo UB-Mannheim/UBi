@@ -25,6 +25,7 @@ Bei Fragen rund um das Urheberrecht hilft Ihnen die Ansprech­partnerin der UB g
 
 ### Kontakt
 
+Bild: Sebastian WeindelDr. Marion von Francken-WelzStellvertretende Leiterin der Abteilung Medienbearbeitung | Fach­referentin für Rechts­wissenschaftUniversität MannheimUniversitäts­bibliothekSchloss Ehrenhof – Raum M 30568161 MannheimTel.:+49 621 181-3024E-Mail:marion.francken-welz@uni-mannheim.de
 
 
 ### Dr. Marion von Francken-Welz

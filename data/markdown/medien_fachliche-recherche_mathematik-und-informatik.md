@@ -15,6 +15,7 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 
 ### Datenbanken
 
+MathematikMathSciNet– Mathematical reviews on the WebZentralblatt MATHInformatikACM Digital Libraryinklusive demGuide to Computing Literature, der die Suchresultate über die ACM-Publikationen erweitertIEEE XploreDBLPSpringerLinkWeitere Datenbanken zurMathematik,Informatikund zu anderen Fach­gebieten finden Sie über das Datenbank-Info­system Datenbank-Info­system (DBIS).
 MathematikMathSciNet (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=179) – Mathematical reviews on the Web
 Zentralblatt MATH (https://www.zbmath.org/)
 InformatikACM Digital Library (http://dl.acm.org/dl.cfm?coll=portal&dl=ACM) inklusive dem Guide to Computing Literature (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=5296), der die Suchresultate über die ACM-Publikationen erweitert
@@ -26,6 +27,10 @@ Weitere Datenbanken zur Mathematik (https://www.bib.uni-mannheim.de/medien/date
 
 ### E-Journals
 
+
+* Mathematik (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=3&lang=de¬ation=SA-SP)
+* Informatik (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=3&lang=de¬ation=SQ-SU)
+
 Die E-Journals finden Sie in der Elektronischen Zeitschriftenbibliothek (EZB)
 
 * Mathematik (http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=3&lang=de¬ation=SA-SP)
@@ -35,6 +40,13 @@ und im Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid
 
 
 ### E-Books
+
+
+* Lecture Notes of Computer Science (https://link.springer.com/bookseries/558)
+* Technik & Informatik (https://rd.springer.com/search?package=11774)
+* Lecture Notes in Business Information Processing (http://link.springer.com/search?facet-series=%227911%22&facet-content-type=%22Book%22)
+* Mathematics and Statistics (https://rd.springer.com/search?package=11649)
+* Natur- und Basis­wissenschaften (https://link.springer.com/search?package=11777)
 
 Springer E-Book Pakete
 
@@ -53,6 +65,7 @@ Diese und weitere E-Books finden Sie auch im Katalog Primo (https://primo.bib.un
 
 ### Forschungs­daten
 
+Bekannte und viel genutzte Anlaufstellen für Forschungs­daten sind etwa:CKANWeb Data Commons
 Bekannte und viel genutzte Anlaufstellen für Forschungs­daten sind etwa:
 C (http://ckan.org/)KAN (https://ckan.org/)
 Web Data Commons (http://webdatacommons.org/)
@@ -60,6 +73,7 @@ Web Data Commons (http://webdatacommons.org/)
 
 ### Fach­liche Internetquellen
 
+Wolfram Alpha– semanti­sche Suchmaschine (auf Mathematica basierend)Virtuelle Fach­bibliothek Mathematik– RechercheportalMathGuide– Internetführer Mathematik der SUB GöttingenOberwolfach Photo Collection– Photos von Mathematikern aus aller WeltMathematics Genealogy Project– „mathematische Abstammung“ erforschenThesis Guide– Advice for great computer science thesis projects (TU München)
 Wolfram Alpha (https://www.wolframalpha.com/) – semanti­sche Suchmaschine (auf Mathematica basierend)
 Virtuelle Fach­bibliothek Mathematik (https://fidmath.de/) – Rechercheportal
 MathGuide (http://www.mathguide.de/index.html) – Internetführer Mathematik der SUB Göttingen
@@ -70,6 +84,7 @@ Mathematics Genealogy Project (https://www.genealogy.math.ndsu.nodak.edu/index.p
 
 ### Literatur­standorte
 
+ImBibliotheks­bereich A5finden Sie Literatur zu den Fächern Mathematik und Informatik, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nachThemengebietenaufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.ImAusleihzentrum Schloss Westflügelgibt es weitere Literatur, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.Die an der UB vorhandene Literatur können Sie imKatalog Primorecherchieren.
 Im Bibliotheks­bereich A5 (https://www.bib.uni-mannheim.de/standorte/bb-a5/) finden Sie Literatur zu den Fächern Mathematik und Informatik, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach Themengebieten (https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaft­liches Personal der Universität Mannheim möglich.
 Im Ausleihzentrum Schloss Westflügel (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehr­buchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehr­bücher in vielen Exemplaren zur Ausleihe zur Verfügung.
@@ -78,6 +93,7 @@ Die an der UB vorhandene Literatur können Sie im Katalog Primo (https://primo.b
 
 ### Forschungs­einrichtungen vor Ort
 
+Fakultät für Wirtschafts­informatik und Wirtschafts­mathematik(Universität Mannheim)Probability & Statistics Group Heidelberg-Mannheim
 Fakultät für Wirtschafts­informatik und Wirtschafts­mathematik (https://www.wim.uni-mannheim.de/) (Universität Mannheim)
 Probability & Statistics Group Heidelberg-Mannheim (http://rtg1953.uni-heidelberg.uni-mannheim.de/)
 

@@ -2,13 +2,13 @@
 title: Open-Access-Publikationsfonds für Zeitschriftenartikel
 source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/
 category: Services
-tags: [Open Access, Publikationsfonds, Article Processing Charges, APC, Universität Mannheim, Förderung, Zeitschriftenartikel]
+tags: [Open Access, Publikationsfonds, Article Processing Charges, APC, Universität Mannheim, Förderung, Zeitschriftenartikel, DOAJ, Peer Review, MADOC]
 language: de
 ---
 
 # Open-Access-Publikationsfonds für Zeitschriftenartikel
 
-Möchten Sie einen Artikel in einer Open-Access-Zeitschrift veröffentlichen? Dann können Sie die Übernahme von Publikationskosten – auch „Article Processing Charges“ (APC) genannt – aus dem [Open-Access-Publikationsfonds der Universität Mannheim](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) beantragen.
+Möchten Sie einen Artikel in einer Open-Access-Zeitschrift veröffentlichen? Dann können Sie die Übernahme von Publikationskosten – auch „Article Processing Charges“ (APC) genannt – aus dem Open-Access-Publikationsfonds der Universität Mannheim beantragen.
 
 Die Universitätsbibliothek und das Mannheimer Zentrum für Europäische Sozialforschung (MZES) finanzieren den Publikationsfonds seit 2022 mit Unterstützung der Deutschen Forschungsgemeinschaft (DFG). Von 2017 bis 2021 wurde der Publikationsfonds vom Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg (MWK) unterstützt.
 
@@ -52,9 +52,7 @@ Die Rechnung muss folgende Angaben enthalten:
 
 ### 6. Acknowledgements
 
-Ihr Artikel soll in den Acknowledgements einen Hinweis auf die Förderung durch die Universität Mannheim oder durch das MZES enthalten.
-
-Beispiele:
+Ihr Artikel soll in den Acknowledgements einen Hinweis auf die Förderung durch die Universität Mannheim oder durch das MZES enthalten. Beispiele:
 
 - „The publication of this article was funded by the University of Mannheim.”
 - „The publication of this article was funded by the Mannheim Centre for European Social Research (MZES).”
