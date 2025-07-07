@@ -42,32 +42,24 @@ edit_message = true
     sample_rate = 24000
 
 [UI]
-
+name = "KI-Chatbot der UB Mannheim"
+description = "KI-Chatbot der UB Mannheim"
+favicon = "/public/avatars/assistant.png"
+default_theme = "light"
+custom_css = "/public/css/bundle.css"
+custom_js = "/public/bundle.js"
 show_feedback = true
-
-# Name of the assistant.
-name = "AIMA"
-
-# default_theme = "system"
+[UI.logo]
+path = "/public/avatars/assistant.png"
+width = 50
 
 # layout = "wide"
-
-# Description of the assistant. This is used for HTML tags.
-description = "Chatbot der UB Mannheim"
 
 # Chain of Thought (CoT) display mode. Can be "hidden", "tool_call" or "full".
 cot = "hidden"
 
 # Link to your github repo. This will add a github button in the UI's header.
 # github = ""
-
-# Specify a CSS file that can be used to customize the user interface.
-# The CSS file can be served from the public directory or via an external link.
-custom_css = "/public/aima.css"
-
-# Specify a Javascript file that can be used to customize the user interface.
-# The Javascript file can be served from the public directory.
-custom_js = "/public/aima.js"
 
 # Specify a custom meta image url.
 # custom_meta_image_url = "https://chainlit-cloud.s3.eu-west-3.amazonaws.com/logo/chainlit_banner.png"
