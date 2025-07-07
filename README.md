@@ -48,13 +48,43 @@ OPENAI_API_KEY=sk-...
 pip install -r requirements.txt
 ```
 
-### 4. Run locally
+### 4. RAG Pipeline Options
+
+You can choose between two ways of running the app:
+
+1. Running the RAG pipeline **locally**
+    - This option will embedd all documents locally using the OpenAI embedding model `text-embedding-ada-002` and create a `chromadb` vectorstore.
+2. Running the RAG pipeline with an **OpenAI vectorstore**
+    - This option will create and upload all document to an [OpenAI vectorstore](https://platform.openai.com/docs/api-reference/vector-stores)
+
+#### 4.1 Running the app with local RAG pipeline
+
+##### Start the app
 
 ```bash
 chainlit run app.py
 ```
 
-### 5. Use
+##### Open the app
+
+Open http://localhost:8000 in a browser.
+
+#### 4.2 Running the app with an OpenAI vectorstore
+
+##### Set `USE_OPENAI_VECTORSTORE='True'` in `.env`
+
+```env
+OPENAI_API_KEY=sk-...
+USE_OPENAI_VECTORSTORE='True'
+```
+
+##### Start the app
+
+```bash
+chainlit run app.py
+```
+
+##### Open the app
 
 Open http://localhost:8000 in a browser.
 
@@ -64,9 +94,10 @@ Open http://localhost:8000 in a browser.
 
 ```env
 OPENAI_API_KEY=sk-...
+USE_OPENAI_VECTORSTORE='True' # Optional (for use with OpenAI vectorstore)
 ```
 
-Optionally, set the exposed TCP port using the environment variable `PORT` (default: 8000). 
+* Optionally, set the exposed TCP port using the environment variable `PORT` (default: 8000).
 
 ### 2. Build and run
 
