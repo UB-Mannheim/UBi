@@ -162,8 +162,10 @@ async def on_message(message: cl.Message):
     # Add user message to memory
     session_memory.add_turn(session_id, MessageRole.USER, user_input)
     
-    # Detect language
-    detected_language = detect_language_and_get_name(user_input)
+    # Detect language with session context for short inputs
+    detected_language = detect_language_and_get_name(
+        user_input, session_id, session_memory
+    )
     
     # Build conversation context
     conversation_context = create_conversation_context(session_id)
