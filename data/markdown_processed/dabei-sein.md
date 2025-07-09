@@ -2,26 +2,26 @@
 title: Dabei sein
 source_url: https://www.bib.uni-mannheim.de/dabei-sein/
 category: Projekte
-tags: [Ausstellungen, Kurse, Veranstaltungen, Projekte, Stellenangebote, Ausbildung, Universitätsbibliothek Mannheim]
+tags: [Ausstellungen, Kurse, Veranstaltungen, Stellenangebote, Ausbildung, Projekte, Universitätsbibliothek Mannheim]
 language: de
 ---
 
 # Dabei sein
 
-Die Universitätsbibliothek Mannheim lädt Sie ein: Besuchen Sie unsere [Ausstellungen, Kurse und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), knüpfen Sie an [Projekte der UB](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/) an oder bewerben Sie sich auf unsere [Stellenangebote und Ausbildungsplätze](https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/).
+Die Universitätsbibliothek Mannheim lädt Sie ein: Besuchen Sie unsere [Ausstellungen, Kurse und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), knüpfen Sie an [Projekte der UB](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/) an oder bewerben Sie sich auf unsere [Stellenausschreibungen und Ausbildungsplätze](https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/).
 
 ## Stellenangebote und Ausbildung
 
-Unterstützen Sie die UB bei ihren vielfältigen und interessanten Aufgaben. Informationen zu aktuellen [Stellenangeboten und Ausbildungsmöglichkeiten](https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/) finden Sie hier.
+Unterstützen Sie die Universitätsbibliothek bei ihren vielfältigen und interessanten Aufgaben. Informieren Sie sich über aktuelle [Stellenangebote und Ausbildungsmöglichkeiten](https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/).
 
 ## Projekte der Universitätsbibliothek
 
-Die UB führt eigene Projekte durch, kooperiert mit Partnern und wirbt Drittmittel für die Projektförderung ein. Eine Übersicht aller [Projekte der UB](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/) steht Ihnen zur Verfügung.
+Die UB führt eigene Projekte durch, kooperiert mit Partnern und wirbt Drittmittel für die Projektförderung ein. Entdecken Sie alle [Projekte der UB](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/) auf einen Blick.
 
 ## Ausstellungen und Veranstaltungen
 
-Alle Interessierten sind herzlich eingeladen, das vielfältige Programm der [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/) der UB zu entdecken.
+Alle Interessierten sind herzlich eingeladen, das vielfältige Programm der Universitätsbibliothek zu entdecken. Informieren Sie sich über aktuelle [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/).
 
 ## Kurse und Tutorials
 
-Das Angebot umfasst alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials sowie spezielle Angebote für Schulen. Details finden Sie unter [Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/).
+Die Universitätsbibliothek bietet eine breite Palette an Kursen, darunter die Kursreihe Study Skills, Führungen, Tutorials sowie spezielle Angebote für Schulen. Details finden Sie unter [Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/).

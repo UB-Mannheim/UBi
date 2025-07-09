@@ -19,6 +19,11 @@ Alle Notebooks sind mit den aktuellen Softwareversionen von SPSS und STATA ausge
 
 
 
+## Notebooks für digitale Prüfungen
+
+Notebooks zur Teilnahme an digitalen Prüfungen können Sie per E-Mail beim Team e-Prüfungen beantragen. Die Voraussetzungen und weitere Informationen finden Sie auf der Website der UNIT (https://www.uni-mannheim.de/pruefungen/studierende/digitale-pruefung/#c396546).    
+
+
 ## Rückgabe
 
 **InfoCenter**

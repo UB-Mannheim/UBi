@@ -2,7 +2,7 @@
 title: Ausleihe mobiler Geräte
 source_url: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/
 category: Medien
-tags: [Notebookausleihe, mobile Geräte, Universität Mannheim, InfoCenter, Software, SPSS, STATA, Semesterleihe]
+tags: [Notebookausleihe, mobile Geräte, Laptops, Universität Mannheim, InfoCenter, digitale Prüfungen, Software, SPSS, STATA]
 language: de
 ---
 
@@ -12,13 +12,19 @@ language: de
 
 Mitglieder der Universität Mannheim können Laptops im [InfoCenter](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/) ausleihen. Für Studierende stellt die Universitätsbibliothek (UB) gemeinsam mit UNIT aus Qualitätssicherungsmitteln zusätzliche Notebooks bereit. Diese sind für eine 14-tägige Ausleihe oder eine Semesterleihe verfügbar. Alle Notebooks sind mit aktuellen Versionen der Software SPSS und STATA ausgestattet.
 
-## Ausleiheprozess
+## Ausleihe der Notebooks
 
-- Suchen Sie im Katalog Primo nach dem Stichwort ["Notebookausleihe"](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Notebookausleihe&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0) und bestellen Sie das gewünschte Gerät vor.
-- Nach der Bestellung erhalten Sie eine E-Mail-Benachrichtigung, sobald das Gerät montags bis freitags von 9 bis 16 Uhr im InfoCenter abgeholt werden kann.
+- Suchen Sie im Katalog [Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Notebookausleihe&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0) nach dem Stichwort „Notebookausleihe“ und bestellen Sie das gewünschte Gerät vor.
+- Nach der Bestellung erhalten Sie eine E-Mail, sobald das Gerät montags bis freitags von 9 bis 16 Uhr im InfoCenter abgeholt werden kann.
 - Die Ausleihdauer beträgt 14 Tage mit der Möglichkeit einer Verlängerung bis maximal 42 Tage. Einige Notebooks sind für eine Semesterleihe verfügbar.
 
-## Rückgabeorte und -zeiten
+## Notebooks für digitale Prüfungen
+
+Notebooks zur Teilnahme an digitalen Prüfungen können per E-Mail beim Team e-Prüfungen beantragt werden. Voraussetzungen und weitere Informationen finden Sie auf der Website der [UNIT](https://www.uni-mannheim.de/pruefungen/studierende/digitale-pruefung/#c396546).
+
+## Rückgabe der Geräte
+
+Die Rückgabe ist an folgenden Stellen möglich:
 
 | Standort                                   | Öffnungszeiten  |
 |--------------------------------------------|-----------------|

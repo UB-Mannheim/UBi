@@ -65,15 +65,15 @@ In Ihrem Bibliothekskonto können Sie die Leihfrist jederzeit um jeweils 28 Tage
 
 ### Mahnungen
 
-Wenn Sie das Medium nicht fristgerecht zurückgeben, erhalten Sie eine gebührenpflichtige Mahnung an Ihre im Bibliothekssystem hinterlegte E-Mail-Adresse. Angehörige der Universität Mannheim und kooperierender Einrichtungen werden über ihre universitäre E-Mail-Adresse benachrichtigt. Die dritte gebührenpflichtige Mahnung versenden wir per Post an die von Ihnen angegebene Anschrift. Sie können die von uns verwendeten Kontaktdaten in Ihrem Bibliothekskonto einsehen.
+Wenn Sie das Medium nicht fristgerecht zurückgeben, erhalten Sie eine gebührenpflichtige Mahnung an Ihre im Bibliothekssystem hinterlegte E-Mail-Adresse. Angehörige der Universität Mannheim und kooperierender Einrichtungen werden über ihre universitäre E-Mail-Adresse benachrichtigt. Die dritte gebührenpflichtige Mahnung wird per Post an die von Ihnen angegebene Anschrift versendet. Die verwendeten Kontaktdaten können Sie in Ihrem Bibliothekskonto einsehen.
 
 Mahngebühren erheben wir entsprechend der [Bibliotheksgebührenordnung](https://www.bib.uni-mannheim.de/media/Universitaet/Dokumente/Bibliotheksgebuehrenordnung.pdf) (PDF, 49 KB) und der [Entleih- und Gebührenordnung für mobile Endgeräte](https://www.bib.uni-mannheim.de/media/Universitaet/Dokumente/Entleih-undGebuehrenordnungMobileEndgeraete.pdf) (PDF, 346 KB). Ihr Bibliothekskonto wird für weitere Ausleihen gesperrt, wenn es mit Gebühren in Höhe von 10,00 Euro belastet ist (50,00 Euro bei hauptamtlichem wissenschaftlichem Personal).
 
 ### Verlust und Beschädigung
 
-Wer ein Medium verliert oder beschädigt, zum Beispiel Unterstreichungen vornimmt, ist zum Ersatz des Schadens verpflichtet. Bei Verlust oder Beschädigung melden Sie sich bitte im betreffenden Bibliotheksbereich und füllen Sie eine [Verlustmeldung](https://www.bib.uni-mannheim.de/media/Universitaet/Dokumente/verlustmeldung.pdf) (PDF, 143 kB) aus.
+Wer ein Medium verliert oder beschädigt, zum Beispiel durch Unterstreichungen, ist zum Ersatz des Schadens verpflichtet. Bei Verlust oder Beschädigung melden Sie sich bitte im betreffenden Bibliotheksbereich und füllen Sie eine [Verlustmeldung](https://www.bib.uni-mannheim.de/media/Universitaet/Dokumente/verlustmeldung.pdf) (PDF, 143 kB) aus.
 
-Bei bereits vorhandenen Schäden melden Sie sich bitte unverzüglich, damit sie Ihnen nicht zur Last gelegt werden.
+Bei bereits vorhandenen Schäden melden Sie sich bitte unverzüglich, damit diese Ihnen nicht zur Last gelegt werden.
 
 ## Verbindliche Grundlagen für die Ausleihe
 
