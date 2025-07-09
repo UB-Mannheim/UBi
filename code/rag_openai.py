@@ -1,5 +1,6 @@
 import os
 import asyncio
+import utils
 from tqdm import tqdm
 from rich import print
 from pathlib import Path
@@ -101,13 +102,15 @@ async def async_upload_files_to_vectorstore(
                         vector_store_id=str(vectorstore_id),
                         file_id=remote_file_id
                     )
-                    # Delete file from OpenAI storage
+                    # Delete file from vectorstore
                     print(f"[bold]Deleting old {filename} from vectorstore ...")
                     await asyncio.to_thread(client.files.delete, file_id=remote_file_id)
                 except Exception as e:
                     print(f"[bold]Error deleting {filename} from vectorstore: {e}")
         if upload_needed:
             try:
+                # Upload file to vectorstore
+                print(f"[bold]Uploading updated {filename} to vectorstore ...")
                 with open(md_file, "rb") as f:
                     uploaded_file = await asyncio.to_thread(
                         client.files.create,
@@ -160,10 +163,10 @@ async def async_sync_files_with_vectorstore(
     else:
         vectorstore_filenames = {}
 
-    # Delete files in vectorstore that are not in files_to_upload
-    files_to_upload_set = set([Path(f).name for f in files_to_upload])
+    # All .md files that should be present in the vectorstore
+    all_local_files_set = set([f.name for f in upload_dir.glob('*.md')])
     vectorstore_filenames_set = set(vectorstore_filenames.keys())
-    files_to_delete = vectorstore_filenames_set - files_to_upload_set
+    files_to_delete = vectorstore_filenames_set - all_local_files_set
     if files_to_delete:
         await async_delete_files_from_vectorstore(
             client,
@@ -181,11 +184,22 @@ async def async_sync_files_with_vectorstore(
         md_files
         )
     print(f"✅ Finished.")
+    
+def get_files_to_upload(upload_dir: Path):
+    """
+    Get a list of updated files from DATA_DIR.
+    """
+    # Load old hash snapshot and compute the current one
+    old_hashes = utils.load_hash_snapshot(upload_dir)
+    current_hashes = utils.get_current_hashes(upload_dir)
+
+    # Determine which files are new or changed
+    return [fname for fname, h in current_hashes.items() if old_hashes.get(fname) != h]
 
 def initialize_vectorstore():
     """
-    Create or load an OpenAI vectorstore and upload all files from
-    DATA_DIR to it if they were updated previously.
+    Create or load an OpenAI vectorstore and upload only files from
+    DATA_DIR that were updated (hash comparison with md_hashes.json).
     """
     # Load config from .env
     load_dotenv(str(ENV_PATH))
@@ -194,33 +208,38 @@ def initialize_vectorstore():
         print("[bold]Aborting: OpenAI vectorstore is disabled in .env")
         return
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
-    DATA_DIR_UPDATED = True if os.getenv("DATA_DIR_UPDATED") == "True" else False
 
-    vectorstore_created = False
     try:
         if not OPENAI_VECTORSTORE_ID:
-            # Create an OpenAI vectorstore
+            # Create a new OpenAI vectorstore
             print("[bold]No OPENAI_VECTORSTORE_ID found. Creating new OpenAI vectorstore...")
             vectorstore = create_openAI_vectorstore()
             print(f"[bold]Created new vectorstore with ID: {vectorstore.id}")
-            vectorstore_created = True
 
             # Reload .env and OPENAI_VECTORSTORE_ID after creation
             load_dotenv(str(ENV_PATH))
             OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
+            
+            # Get all files from DATA_DIR for upload
+            files_to_upload = [f.name for f in DATA_DIR.glob('*.md')]
+        else:
+            # Get only files from DATA_DIR that were updated
+            files_to_upload = get_files_to_upload(upload_dir=DATA_DIR)
 
-        # If vectorstore was created or DATA_DIR_UPDATED upload files
-        if vectorstore_created or DATA_DIR_UPDATED:
+        if files_to_upload:
             print(f"[bold]Using OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}")
-            all_md_files = [f.name for f in Path(DATA_DIR).glob('*.md')]
+            print(f"[bold]Uploading {len(files_to_upload)} changed/new files to vectorstore ...")
+            
+            # Sync
             asyncio.run(async_sync_files_with_vectorstore(
                 upload_dir=DATA_DIR,
-                files_to_upload=all_md_files,
+                files_to_upload=files_to_upload,
                 vectorstore_id=str(OPENAI_VECTORSTORE_ID)
             ))
             
-            # Reset DATA_DIR_UPDATED
-            set_key(ENV_PATH, "DATA_DIR_UPDATED", "False")
-            
+            # Write hash snapshot
+            utils.write_hashes_for_directory(DATA_DIR)
+        else:
+            print("[bold green]No changes detected in DATA_DIR since last sync. Skipping vectorstore upload.")
     except Exception as e:
         print(f'Error: {e}')

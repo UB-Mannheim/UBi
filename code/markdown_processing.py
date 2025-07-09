@@ -1,10 +1,9 @@
 import os
 import re
-import datetime
-import shutil
 import backoff
 import asyncio
 import time
+import utils
 from pathlib import Path
 from tqdm import tqdm
 from rich import print
@@ -17,23 +16,7 @@ from config import ENV_PATH, DATA_DIR
 load_dotenv(ENV_PATH)
 TEMP_DIR = f"../data/markdown"
 
-# === Helper Functions ===
-def ensure_dir(dir) -> None:
-    path = Path(dir)
-    if not path.exists():
-        path.mkdir(parents=True)
-        
-def backup_dir_with_timestamp(dir_path):
-    """
-    If dir_path exists, copy it to dir_path_backup_YYYYmmdd.
-    """
-    path = Path(dir_path)
-    if path.exists() and path.is_dir():
-        timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
-        backup_path = path.parent / f"{path.name}_backup_{timestamp}"
-        shutil.copytree(path, backup_path)
-        print(f"[bold][BACKUP] {dir_path} -> {backup_path}\nDone.")
-
+# === Processing Functions ===
 def extract_content_after_yaml_header(content: str) -> str:
     """
     Extract content after YAML header (after second '---').
@@ -154,7 +137,7 @@ def write_markdown(
     Returns the filename if written/changed, else None.
     """
     # Ensure output_dir exists
-    ensure_dir(output_dir)
+    utils.ensure_dir(output_dir)
     
     # Format filename and path
     url_path = urlparse(url).path.split('/')
@@ -207,11 +190,18 @@ language: de
 The content of the markdown page..."""
 
 @backoff.on_exception(backoff.expo, Exception, max_tries=3)
-async def process_single_file_async(llm, file_path, output_path, prompt):
+async def process_single_file_async(
+    llm: ChatOpenAI,
+    file_path,
+    output_path,
+    prompt
+    ):
     """
     Process a single markdown file with retry logic.
     """
     content = file_path.read_text(encoding="utf-8")
+    
+    print(f"[bold]Processing {file_path} ...")
     
     # LLM interaction
     messages = create_llm_messages(prompt, content)
@@ -244,7 +234,7 @@ def process_markdown_files_with_llm(
     """
     # Backup output_dir if it exists
     if output_dir:
-        backup_dir_with_timestamp(output_dir)
+        utils.backup_dir_with_timestamp(output_dir)
         
     # Check for updated files
     if only_files is not None:
@@ -516,7 +506,6 @@ def process_semesterapparat(
     antrag_files = list(data_path.glob("*semesterapparat_antrag*.md"))
     
     if not antrag_files:
-        print("[bold]No semesterapparat application file found for processing.")
         return
     
     antrag_file = antrag_files[0]
@@ -579,8 +568,9 @@ def process_shibboleth(
     verbose: bool = False
     ):
     """
-    Appends the content from the shibboleth markdown file to the parent 
-    e-books-e-journals-und-datenbanken.md file, placing the parent's Kontakt section at the end.
+    Appends the content from the shibboleth markdown file to the parent
+    e-books-e-journals-und-datenbanken.md file, placing the parent's
+    Kontakt section at the end.
     """
     # Find the parent file
     parent_files = list(data_path.glob("*medien_hinweise-zu-e-books-e-journals-und-datenbanken.md"))
@@ -592,8 +582,8 @@ def process_shibboleth(
     # Find the shibboleth file
     shib_files = list(data_path.glob("*medien_hinweise-zu-e-books-e-journals-und-datenbanken_shibboleth.md"))
     if not shib_files:
-        print("[bold]No shibboleth file found for processing.")
         return
+    
     shib_file = shib_files[0]
 
     if verbose:
@@ -664,5 +654,5 @@ def post_process(
     # Process "semesterapparat" application file
     process_semesterapparat(data_path=data_path, verbose=verbose)
 
-    # Process shibboleth file
+    # Process "shibboleth" file
     process_shibboleth(data_path=data_path, verbose=verbose)

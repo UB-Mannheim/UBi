@@ -1,14 +1,17 @@
 import re
+import aiohttp
+import asyncio
 import click
 import requests
 import xml.etree.ElementTree as ET
-import crawler_utils as utils
+import markdown_processing as mdproc
+import utils
 from rich import print
 from pathlib import Path
 from bs4 import BeautifulSoup, Tag
 from urllib.parse import urljoin
 from tqdm import tqdm
-from dotenv import load_dotenv, set_key
+from dotenv import load_dotenv
 from config import ENV_PATH, URLS_TO_CRAWL, DATA_DIR
 
 # === Load Configuration ===
@@ -16,20 +19,21 @@ load_dotenv(ENV_PATH)
 TEMP_DIR = f"../data/markdown"
         
 # === Crawler Funtions ===
-def crawl_urls(
+async def crawl_urls(
     sitemap_url: str,
     filters: list[str], 
     url_filename: str = str(URLS_TO_CRAWL), 
     save_to_disk: bool = True
     ) -> list[str] | None:
     """
-    Fetches and filters URLs from an XML sitemap.
+    Fetches and filters URLs from an XML sitemap asynchronously.
     """ 
     try:
-        # Fetch the XML content from the URL
-        response = requests.get(sitemap_url)
-        response.raise_for_status()  # Raise an error for bad responses (4xx and 5xx)
-        xml_content = response.content
+        # Fetch the XML content from the URL asynchronously
+        async with aiohttp.ClientSession() as session:
+            async with session.get(sitemap_url) as response:
+                response.raise_for_status()
+                xml_content = await response.read()
 
         # Parse the XML content directly from bytes
         root = ET.fromstring(xml_content)
@@ -49,7 +53,7 @@ def crawl_urls(
                 for url in clean_urls:
                     file.write(url + '\n')
         return clean_urls
-    except requests.exceptions.RequestException as e:
+    except aiohttp.ClientError as e:
         print(f"Error fetching the XML: {e}")
     except ET.ParseError as e:
         print(f"Error parsing the XML: {e}")
@@ -424,7 +428,7 @@ def process_urls(
             content_single_page.extend(page_content_tags)
             
             # Save markdown file only if changed/new
-            written_file = utils.write_markdown(url, content_single_page, output_dir)
+            written_file = mdproc.write_markdown(url, content_single_page, output_dir)
             if written_file:
                 changed_files.append(written_file)                
     return changed_files
@@ -464,7 +468,7 @@ def main(model_name, process_only, additional_processing_only, verbose):
         else:
             sitemap_url = 'https://www.bib.uni-mannheim.de/xml-sitemap/'
             print(f"[bold]Crawling all URLs from {sitemap_url}")
-            urls = crawl_urls(
+            urls = asyncio.run(crawl_urls(
                 sitemap_url=sitemap_url,
                 filters=[
                     'twitter',
@@ -485,7 +489,7 @@ def main(model_name, process_only, additional_processing_only, verbose):
                 ],
                 save_to_disk=True,
                 url_filename=str(URLS_TO_CRAWL)
-            )
+            ))
         
         if urls:
             changed_files = process_urls(
@@ -493,13 +497,12 @@ def main(model_name, process_only, additional_processing_only, verbose):
                 output_dir=TEMP_DIR,
             )
         else:
-            set_key(ENV_PATH, "DATA_DIR_UPDATED", "False")
             print("[bold red]No URLs found to crawl. Exiting.")
             return
             
     if changed_files or process_only:
         if not additional_processing_only:
-            utils.process_markdown_files_with_llm(
+            mdproc.process_markdown_files_with_llm(
                 input_dir=TEMP_DIR,
                 output_dir=str(DATA_DIR),
                 model_name=model_name,
@@ -507,12 +510,9 @@ def main(model_name, process_only, additional_processing_only, verbose):
             )
         
         # Additional post-processing logic
-        utils.post_process(data_dir=str(DATA_DIR), verbose=verbose)
+        mdproc.post_process(data_dir=str(DATA_DIR), verbose=verbose)
         
-        # Set DATA_DIR_UPDATED flag in .env
-        set_key(ENV_PATH, "DATA_DIR_UPDATED", "True")
     else:
-        set_key(ENV_PATH, "DATA_DIR_UPDATED", "False")
         print("[bold]No markdown files changed, skipping LLM postprocessing.")
 
 if __name__ == "__main__":
