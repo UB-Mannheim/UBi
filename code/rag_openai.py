@@ -86,30 +86,30 @@ async def async_upload_files_to_vectorstore(
     Async upload new or updated files to vectorstore, with progress bar.
     """
     pbar_up = tqdm(total=len(md_files), desc="Uploading files", leave=False)
-    async def upload_file(md_file):
+    async def upload_file(md_file):      
         filename = md_file.name
-        local_byte_size = os.path.getsize(md_file)
-        upload_needed = True
-
         if filename in vectorstore_filenames:
-            remote_file_id, remote_byte_size = vectorstore_filenames[filename]
-            if local_byte_size == remote_byte_size:
-                upload_needed = False
-            else:
-                try:
-                    # Unlink file from vectorstore
-                    await asyncio.to_thread(client.vector_stores.files.delete,
-                        vector_store_id=str(vectorstore_id),
-                        file_id=remote_file_id
-                    )
-                    # Delete file from vectorstore
-                    print(f"[bold]Deleting old {filename} from vectorstore ...")
-                    await asyncio.to_thread(client.files.delete, file_id=remote_file_id)
-                except Exception as e:
-                    print(f"[bold]Error deleting {filename} from vectorstore: {e}")
-        if upload_needed:
+            vectorstore_file_id = vectorstore_filenames[filename]
+            
+            # Delete the file that gets replaced in the vectorstore first
             try:
-                # Upload file to vectorstore
+                # Unlink file from vectorstore
+                await asyncio.to_thread(client.vector_stores.files.delete,
+                    vector_store_id=str(vectorstore_id),
+                    file_id=vectorstore_file_id
+                    )
+                # Delete file from vectorstore
+                print(f"[bold]Deleting old {filename} from vectorstore ...")
+                await asyncio.to_thread(
+                    client.files.delete,
+                    file_id=vectorstore_file_id
+                    )
+            except Exception as e:
+                print(f"[bold]Error deleting {filename} from vectorstore: {e}")
+                
+            # File Upload
+            try:    
+                # Upload the updated local file to vectorstore  
                 print(f"[bold]Uploading updated {filename} to vectorstore ...")
                 with open(md_file, "rb") as f:
                     uploaded_file = await asyncio.to_thread(
@@ -123,9 +123,7 @@ async def async_upload_files_to_vectorstore(
                     file_id=uploaded_file.id
                 )
             except Exception as e:
-                print(f"Error uploading {filename}: {e}")
-        else:
-            print(f"[bold]Skipping Upload: [blue]{filename}[/blue] is unchanged (byte size matches).")
+                print(f"Error uploading {filename}: {e}") 
         pbar_up.update(1)
     await asyncio.gather(*(upload_file(md_file) for md_file in md_files))
     pbar_up.close()
@@ -137,9 +135,7 @@ async def async_sync_files_with_vectorstore(
     ):
     """
     Async upload markdown files to an existing OpenAI vectorstore.
-    Only upload if the file is new or its byte size differs from the one 
-    in the vectorstore. Also, delete files from the vectorstore that are 
-    not in files_to_upload.
+    Also, delete files from the vectorstore that are not in files_to_upload.
     """
     client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))    
     md_files = [Path(f"{upload_dir}/{file}") for file in files_to_upload]
@@ -152,21 +148,26 @@ async def async_sync_files_with_vectorstore(
         )
     print(f"[bold]{len(vector_store_files)} files in vectorstore: {vectorstore_id}")
 
-    # Build a dict: filename -> (file_id, byte_size)
+    # Build a dict: filename: file_id
     if len(vector_store_files) >= 1:
-        print(f"[bold]Retrieving filenames and byte sizes from vectorstore ...")
+        print(f"[bold]Retrieving filenames from vectorstore ...")
         async def retrieve_file(f):
             file_obj = await asyncio.to_thread(client.files.retrieve, f.id)
-            return (file_obj.filename, (f.id, file_obj.bytes))
+            return (file_obj.filename, f.id)
         results = await asyncio.gather(*(retrieve_file(f) for f in vector_store_files))
         vectorstore_filenames = dict(results)
     else:
         vectorstore_filenames = {}
-
-    # All .md files that should be present in the vectorstore
+        
+    # Get all local markdowns in upload_dir
     all_local_files_set = set([f.name for f in upload_dir.glob('*.md')])
+    
+    # Create a set of unique filenames currently in the vectorstore
     vectorstore_filenames_set = set(vectorstore_filenames.keys())
+    
+    # Delete files in vectorstore if they are not present in local files anymore
     files_to_delete = vectorstore_filenames_set - all_local_files_set
+    
     if files_to_delete:
         await async_delete_files_from_vectorstore(
             client,
@@ -241,5 +242,6 @@ def initialize_vectorstore():
             utils.write_hashes_for_directory(DATA_DIR)
         else:
             print("[bold green]No changes detected in DATA_DIR since last sync. Skipping vectorstore upload.")
+            
     except Exception as e:
         print(f'Error: {e}')

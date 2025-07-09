@@ -44,7 +44,7 @@ def write_hashes_for_directory(
     hash_path = Path(directory) / hash_file
     with open(hash_path, "w") as f:
         json.dump(hash_dict, f, indent=2)
-    print(f"[bold green]Hashes written to {hash_path}")
+    print(f"[bold green]Hash snapshot written to {hash_path}")
     
 def data_dir_has_updates(
     data_dir: Path,
