@@ -1,3 +1,4 @@
+# === Imports ===
 import os
 import datetime
 import chainlit as cl
@@ -10,6 +11,8 @@ from db import save_interaction
 from rss_reader import get_rss_items
 from custom_data_layer import CustomDataLayer
 from terms_conditions import ask_terms_acceptance, check_terms_accepted
+from html_template_modifier import main as modify_html_template
+# from website_search import search_ub_website
 from free_seats import get_occupancy_data, make_plotly_figure
 from conversation_memory import session_memory, MessageRole, create_conversation_context
 from language_detection import detect_language_and_get_name
@@ -32,6 +35,14 @@ if USE_OPENAI_VECTORSTORE:
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
     client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     print(f'[bold]🔗 AIMA is running with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}')
+
+# === Initialize HTML Template ===
+# Modify Chainlit's HTML template to use local assets
+try:
+    modify_html_template()
+except Exception as e:
+    print(f"⚠️  Warning: Could not modify HTML template: {e}")
+
 
 # === Authentication (optional) ===
 users = [
