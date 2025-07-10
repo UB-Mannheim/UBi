@@ -8,7 +8,7 @@ language: de
 
 # Beratung an der Universitätsbibliothek Mannheim
 
-Die Fachleute der Universitätsbibliothek Mannheim unterstützen Sie gerne bei speziellen Fragen und bieten individuelle Beratung an. Themen sind unter anderem die Recherche in Ihrem Fach, wissenschaftliches Schreiben und Publizieren sowie der Umgang mit Forschungsdaten.
+Die Fachleute der Universitätsbibliothek Mannheim unterstützen Sie gerne bei speziellen Fragen und bieten individuelle Beratung an. Dies umfasst unter anderem die Recherche in Ihrem Fach, wissenschaftliches Schreiben und Publizieren sowie den Umgang mit Forschungsdaten.
 
 Vor Ort sind die Kolleginnen und Kollegen an den Infotheken montags bis freitags von 8 bis 18 Uhr für Sie da. Im Chat erreichen Sie das Team der UB wochentags von 10 bis 18 Uhr.
 
@@ -30,14 +30,14 @@ Das Team der UB hilft Ihnen bei der Nutzung von Zotero zur Literaturverwaltung.
 ## Fachliche Recherche
 
 [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)  
-Fachreferentinnen und Fachreferenten beantworten Ihre Fragen zu Literatur, Datenbanken und weiteren Sucheinstiegen für Ihr Fach.
+Fachreferentinnen und Fachreferenten der UB beantworten Ihre Fragen zu Literatur, Datenbanken und weiteren Sucheinstiegen für Ihr Fach.
 
 ## Publizieren und Open Access
 
 [Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/)  
-Die UB berät Sie zu Themen rund ums Publizieren und Open Access und unterstützt Sie mit entsprechenden Services.
+Die UB berät Sie zu den Themen Publizieren und Open Access und unterstützt Sie mit entsprechenden Services.
 
 ## Forschungsdaten
 
 [Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
-Die UB unterstützt Sie bei Fragen zum Thema Forschungsdaten.
+Die UB unterstützt Sie bei Fragen rund um das Thema Forschungsdaten.

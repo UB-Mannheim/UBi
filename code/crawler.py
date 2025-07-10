@@ -455,9 +455,6 @@ def process_urls(
     help='Enable verbose output during crawling.'
     )
 def main(model_name, process_only, additional_processing_only, verbose):
-    # Track markdown files that have changed for later processing
-    changed_files = []
-    
     # Crawl URLs
     if not process_only:
         file_path = URLS_TO_CRAWL
@@ -490,16 +487,18 @@ def main(model_name, process_only, additional_processing_only, verbose):
                 save_to_disk=True,
                 url_filename=str(URLS_TO_CRAWL)
             ))
-        
         if urls:
-            changed_files = process_urls(
+            process_urls(
                 urls=urls,
                 output_dir=TEMP_DIR,
             )
         else:
             print("[bold red]No URLs found to crawl. Exiting.")
             return
-            
+
+    # Hash-based file change detection in TEMP_DIR
+    changed_files = utils.get_new_or_modified_files_by_hash(TEMP_DIR)
+
     if changed_files or process_only:
         if not additional_processing_only:
             mdproc.process_markdown_files_with_llm(
@@ -508,12 +507,15 @@ def main(model_name, process_only, additional_processing_only, verbose):
                 model_name=model_name,
                 only_files=changed_files if changed_files else None
             )
-        
+
         # Additional post-processing logic
         mdproc.post_process(data_dir=str(DATA_DIR), verbose=verbose)
-        
+
     else:
         print("[bold]No markdown files changed, skipping LLM postprocessing.")
+        
+    # Update hash snapshot after processing
+    utils.write_hashes_for_directory(TEMP_DIR)
 
 if __name__ == "__main__":
     main()
