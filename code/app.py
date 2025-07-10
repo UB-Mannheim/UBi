@@ -62,7 +62,7 @@ async def set_starters(user=None):
             ),
         cl.Starter(
             label="Standorte",
-            message="Liste alle Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und der Webseite auf."
+            message="Gib mir eine Übersicht über alle Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Link zur entsprechenden Webseite."
             ),
         cl.Starter(
             label="Neuigkeiten",
