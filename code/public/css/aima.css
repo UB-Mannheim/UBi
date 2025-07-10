@@ -3,6 +3,20 @@
     display: none !important;
 }
 
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevent browser window scrollbar */
+}
+
+#root {
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    /* padding-top and padding-bottom are set by JS for header/footer */
+}
 
 /* Light theme */
 :root {

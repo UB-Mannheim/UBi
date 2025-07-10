@@ -115,8 +115,8 @@ window.addEventListener("load", function () {
       width: "100%",
       background: getAppBackgroundColor(),
       color: isDark ? "#ccc" : "#999",
-      borderTop: `1px solid ${isDark ? "#444" : "#eee"}`,
-      fontSize: "10px",
+      borderTop: `0px solid ${isDark ? "#444" : "#eee"}`,
+      fontSize: "12px",
       zIndex: "1000",
       height: `${footerHeight}px`,
       display: "flex",
@@ -143,9 +143,6 @@ window.addEventListener("load", function () {
   document.body.appendChild(footer);
   updateFooterStyle();
 
-  const appWrapper = document.querySelector("#root") || document.body;
-  appWrapper.style.paddingBottom = `${footerHeight + 6}px`;
-
   const observer = new MutationObserver(() => updateFooterStyle());
   observer.observe(document.documentElement, {
     attributes: true,
@@ -154,4 +151,31 @@ window.addEventListener("load", function () {
 
   // Slight delay to ensure styles are computed correctly after load
   setTimeout(updateFooterStyle, 50);
+});
+
+// Add BETA-Version heading at the top center
+window.addEventListener("load", function () {
+  const betaHeading = document.createElement("div");
+  betaHeading.textContent = "Testversion des KI-Chats der UB Mannheim";
+  Object.assign(betaHeading.style, {
+    position: "fixed",
+    top: "0",
+    left: "50%",
+    width: "50%",
+    transform: "translateX(-50%)",
+    textAlign: "center",
+    fontWeight: "bold",
+    fontSize: "18px",
+    color: "rgb(0, 149, 255)",
+    zIndex: "1001",
+    padding: "25px 0 4px 0",
+    letterSpacing: "1px",
+    textShadow: "0 0 22px rgba(0, 102, 255, 0.41)"
+  });
+  betaHeading.style.setProperty(
+    "font-family",
+    "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
+    "important"
+  );
+  document.body.appendChild(betaHeading);
 });
