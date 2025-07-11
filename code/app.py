@@ -193,7 +193,7 @@ async def on_message(message: cl.Message):
         full_answer = ""
         try:
             stream = await client.responses.create(
-                model="gpt-4.1-nano-2025-04-14",
+                model="gpt-4o-mini-2024-07-18",
                 input=[{"role": "user", "content": model_input}],
                 tools=[{
                     "type": "file_search",
