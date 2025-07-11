@@ -134,7 +134,7 @@ window.addEventListener("load", function () {
     <span>
       © 2025 UB Mannheim
       <a href="https://www.bib.uni-mannheim.de/impressum/" target="_blank">Impressum</a>
-      <a href="https://www.uni-mannheim.de/datenschutzerklaerung/" target="_blank">Datenschutz</a>
+      <a href="https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/" target="_blank">Datenschutz</a>
     </span>
   `;
 
