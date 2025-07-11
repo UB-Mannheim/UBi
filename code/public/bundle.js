@@ -169,7 +169,7 @@ window.addEventListener("load", function () {
     fontSize: "18px",
     color: "rgb(0, 149, 255)",
     zIndex: "10",
-    padding: "25px 0 4px 0",
+    padding: "18px 0 4px 0",
     letterSpacing: "1px",
     textShadow: "0 0 22px rgba(0, 102, 255, 0.41)"
   });
