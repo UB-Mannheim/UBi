@@ -20,7 +20,7 @@ SESSION_MEMORY_CONFIG = {
 RATE_LIMIT_CONFIG = {
     "max_chars_per_request": 500,    # Maximum characters per request
     "max_chars_per_session": 5000,   # Maximum characters per session
-    "max_turns_per_session": 20,      # Maximum turns per session
-    "max_requests_per_minute": 5,    # Maximum requests per minute
+    "max_turns_per_session": 24,      # Maximum turns per session
+    "max_requests_per_minute": 12,    # Maximum requests per minute
     "rate_limit_window": 60,          # Rate limit window in seconds
 }

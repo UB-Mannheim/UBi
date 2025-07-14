@@ -84,10 +84,10 @@ class SessionMemory:
         max_tokens: int = 4000,
         context_window: int = 5,
         # Rate limiting configuration
-        max_chars_per_request: int = 2000,
-        max_chars_per_session: int = 20000,
-        max_turns_per_session: int = 20,
-        max_requests_per_minute: int = 10,
+        max_chars_per_request: int = 500,
+        max_chars_per_session: int = 5000,
+        max_turns_per_session: int = 24,
+        max_requests_per_minute: int = 12,
         rate_limit_window: int = 60
     ):
         self.max_turns = max_turns
@@ -275,7 +275,7 @@ class SessionMemory:
         
         # Check character limit per request
         if len(user_input) > self.max_chars_per_request:
-            msg = (f"Sie haben die maximale Anzahl an Characters pro "
+            msg = (f"Sie haben die maximale Anzahl an Zeichen pro "
                    f"Anfrage erreicht ({self.max_chars_per_request} "
                    f"Zeichen).")
             return False, msg
@@ -283,7 +283,7 @@ class SessionMemory:
         # Check character limit per session
         current_session_chars = context.total_chars + len(user_input)
         if current_session_chars > self.max_chars_per_session:
-            msg = (f"Sie haben die maximale Anzahl an Characters in "
+            msg = (f"Sie haben die maximale Anzahl an Zeichen in "
                    f"dieser Session erreicht ({self.max_chars_per_session} "
                    f"Zeichen).")
             return False, msg
