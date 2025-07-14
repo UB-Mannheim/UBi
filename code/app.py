@@ -16,6 +16,7 @@ from html_template_modifier import main as modify_html_template
 from free_seats import get_occupancy_data, make_plotly_figure
 from conversation_memory import session_memory, MessageRole, create_conversation_context
 from language_detection import detect_language_and_get_name
+from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
 
 # === .env Configuration ===
@@ -168,6 +169,19 @@ async def on_message(message: cl.Message):
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
             session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
             await save_interaction(session_id, user_input, error_response)
+        return
+    
+    # Phrase-Layer: Catch common phrases to save money
+    phrase_result = detect_common_phrase(user_input)
+    if phrase_result:
+        response, language = phrase_result
+        
+        await Message(content=response, author="assistant").send()
+        
+        # Add to memory
+        session_memory.add_turn(session_id, MessageRole.USER, user_input)
+        session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
+        await save_interaction(session_id, user_input, response)
         return
     
     # Add user message to memory
