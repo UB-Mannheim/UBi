@@ -14,6 +14,8 @@ function setCookieConfig(config) {
 function setTermsCookie() {
     const maxAge = cookieConfig.durationDays * 24 * 60 * 60; // Convert days to seconds
     document.cookie = `${cookieConfig.name}=true; path=${cookieConfig.path}; max-age=${maxAge}`;
+    // Remove terms CSS immediately when cookie is set
+    loadTermsCSS();
     setTimeout(() => window.location.reload(), 1000);
 }
 
@@ -24,8 +26,26 @@ function checkTermsAccepted() {
     return hasAccepted !== undefined;
 }
 
+// Load terms.css if cookie is not accepted
+function loadTermsCSS() {
+    if (!checkTermsAccepted()) {
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './public/css/terms.css';
+        link.id = 'terms-css';
+        
+        // Check if the CSS is already loaded
+        if (!document.getElementById('terms-css')) {
+            document.head.appendChild(link);
+        }
+    } 
+}
+
 // Listen for accept_terms_button action clicks
 document.addEventListener('DOMContentLoaded', function() {
+    // Load terms CSS if cookie is not accepted
+    loadTermsCSS();   
     // Monitor for action button clicks
     const observer = new MutationObserver(function(mutations) {
         mutations.forEach(function(mutation) {
@@ -68,7 +88,6 @@ function monitorAndHideDiv() {
         
         const targetDiv = document.querySelector(TARGET_DIV_SELECTOR);
         if (!targetDiv) return;
-        console.log('buttonExists', buttonExists);
         targetDiv.classList.toggle('hidden', buttonExists);
     };
 
@@ -88,7 +107,8 @@ monitorAndHideDiv();
 // Global functions to be called from Chainlit
 window.setTermsCookie = setTermsCookie;
 window.checkTermsAccepted = checkTermsAccepted;
-window.setCookieConfig = setCookieConfig; 
+window.setCookieConfig = setCookieConfig;
+window.loadTermsCSS = loadTermsCSS; 
 
 // Imprint and Data Protection Declaration
 let footer; // Move footer to higher scope
@@ -185,22 +205,22 @@ window.addEventListener("load", function () {
   function hideBetaHeading() {
     const heading = document.getElementById("beta-heading");
     if (heading) heading.style.display = "none";
-    console.log("betaHeading hidden");
+
   }
   function showBetaHeading() {
     const heading = document.getElementById("beta-heading");
     if (heading) heading.style.display = "block";
-    console.log("betaHeading shown");
+
   }
 
   // Functions to show/hide footer
   function hideFooter() {
     if (footer) footer.style.display = "none";
-    console.log("footer hidden");
+
   }
   function showFooter() {
     if (footer) footer.style.display = "flex";
-    console.log("footer shown");
+
   }
 
   // Wait for the readme button to exist
