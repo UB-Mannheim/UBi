@@ -20,13 +20,6 @@ async def ask_terms_acceptance():
             label="✅ Akzeptieren",
             description="Nutzungsbedingungen akzeptieren",
             payload={"action": "accept"}
-        ),
-        cl.Action(
-            name="decline_terms",
-            value="decline",
-            label="❌ Ablehnen", 
-            description="Nutzungsbedingungen ablehnen",
-            payload={"action": "decline"}
         )
     ]
     await cl.Message(
@@ -44,15 +37,6 @@ async def on_accept_terms(action):
         author="system"
     ).send()
 
-
-@cl.action_callback("decline_terms")
-async def on_decline_terms(action):
-    """Handle terms decline"""
-    await cl.Message(
-        content="❌ Ohne Akzeptanz der Nutzungsbedingungen kann der "
-                "Service nicht genutzt werden."
-    ).send()
-    await action.remove()
 
 
 def check_terms_accepted():
