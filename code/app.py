@@ -18,6 +18,7 @@ from conversation_memory import session_memory, MessageRole, create_conversation
 from language_detection import detect_language_and_get_name
 from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
+from prompt_utils import augment_query_with_llm
 from session_stats import get_session_usage_message, check_session_warnings
 
 # === .env Configuration ===
@@ -44,7 +45,6 @@ try:
     modify_html_template()
 except Exception as e:
     print(f"⚠️  Warning: Could not modify HTML template: {e}")
-
 
 # === Authentication (optional) ===
 users = [
@@ -215,20 +215,30 @@ async def on_message(message: cl.Message):
     detected_language = detect_language_and_get_name(
         user_input, session_id, session_memory
     )
-    
+
+    # Augment the user_input to get a semantically rich query
+    augmented_input = await augment_query_with_llm(
+        client if USE_OPENAI_VECTORSTORE else None,
+        user_input,
+        detected_language
+    )
+
     # Build conversation context
     conversation_context = create_conversation_context(session_id)
     
+    # === OpenAI Vectorstore Logic ===
     if USE_OPENAI_VECTORSTORE:
         # Compose input for the model: prepend context if available
         if conversation_context:
-            model_input = f"{conversation_context}\nNutzer: {user_input}"
+            model_input = f"{conversation_context}\nNutzer: {augmented_input}"
         else:
-            model_input = user_input
+            model_input = augmented_input
+            
         msg = cl.Message(content="", author="assistant")
         await msg.send()
         await msg.stream_token(" ")
         full_answer = ""
+        
         try:
             stream = await client.responses.create(
                 model="gpt-4o-mini-2024-07-18",
@@ -248,16 +258,26 @@ async def on_message(message: cl.Message):
                     await msg.stream_token(token)
                     full_answer += token
         except Exception as e:
-            await cl.Message(content=f"An error occurred while using the Responses API: {e}").send()
+            error_response = f"An error occurred while using the Responses API: {e}"
+            await Message(content=error_response).send()
+
+            # Add error to memory
+            session_memory.add_turn(session_id, MessageRole.USER, user_input)
+            session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
+            await save_interaction(session_id, user_input, error_response, augmented_input)
             return
+        
         if full_answer:
             await msg.update()
         else:
             await cl.Message(content="Sorry, I could not retrieve a response.").send()
+        
+        # Save interaction
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_answer)
-        await save_interaction(session_id, user_input, full_answer)
+        await save_interaction(session_id, user_input, full_answer, augmented_input)
+    
+    # === Local RAG Logic ===
     else:
-        # RAG chain logic
         rag_chain = cl.user_session.get("rag_chain")
         if not rag_chain:
             rag_chain = await create_rag_chain(debug=False)
@@ -265,7 +285,7 @@ async def on_message(message: cl.Message):
         try:
             # Get conversation context
             response_generator = rag_chain.astream({
-                "question": user_input,
+                "question": augmented_input,
                 "conversation_context": conversation_context,
                 "language": detected_language
             })
@@ -280,16 +300,16 @@ async def on_message(message: cl.Message):
 
             # Add assistant response to memory
             session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_response)
-            await save_interaction(session_id, user_input, full_response)
+            await save_interaction(session_id, user_input, full_response, augmented_input)
 
         except Exception as e:
-            error_response = f"❌ Fehler bei der Verarbeitung: {str(e)}"
+            error_response = f"Fehler bei der Verarbeitung: {str(e)}"
             await Message(content=error_response).send()
 
             # Add error to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
             session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
-            await save_interaction(session_id, user_input, error_response)
+            await save_interaction(session_id, user_input, error_response, augmented_input)
 
         # Optional: fallback to web search
         # fallback = search_ub_website(user_input)

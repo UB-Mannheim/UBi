@@ -1,5 +1,6 @@
 import aiosqlite
 import datetime
+from typing import Optional
 from config import DB_PATH
 
 # Global flag to track if table has been created
@@ -17,6 +18,7 @@ async def _ensure_table_exists(db):
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             session_id TEXT NOT NULL,
             question TEXT NOT NULL,
+            augmented_question TEXT,
             answer TEXT NOT NULL,
             timestamp TEXT NOT NULL,
             feedback TEXT
@@ -36,7 +38,13 @@ async def _ensure_table_exists(db):
     _table_created = True
 
 
-async def save_interaction(session_id: str, question: str, answer: str, feedback: str = None):
+async def save_interaction(
+    session_id: str,
+    question: str,
+    answer: str,
+    augmented_question: Optional[str] = None,
+    feedback: Optional[str] = None,
+    ):
     """
     Saves a chat interaction to the database.
     
@@ -44,7 +52,7 @@ async def save_interaction(session_id: str, question: str, answer: str, feedback
     for the given session_id and question.
     Otherwise, it inserts a new interaction record.
     """
-    timestamp = datetime.datetime.utcnow().isoformat()
+    timestamp = datetime.datetime.now(datetime.timezone.utc).isoformat()
     
     async with aiosqlite.connect(DB_PATH) as db:
         await _ensure_table_exists(db)
@@ -66,17 +74,17 @@ async def save_interaction(session_id: str, question: str, answer: str, feedback
             if result.rowcount == 0:
                 await db.execute(
                     """INSERT INTO chat_interactions 
-                       (session_id, question, answer, timestamp, feedback)
-                       VALUES (?, ?, ?, ?, ?)""",
-                    (session_id, question, answer, timestamp, feedback),
+                       (session_id, question, augmented_question, answer, timestamp, feedback)
+                       VALUES (?, ?, ?, ?, ?, ?)""",
+                    (session_id, question, augmented_question, answer, timestamp, feedback),
                 )
         else:
             # Insert new interaction record
             await db.execute(
                 """INSERT INTO chat_interactions 
-                   (session_id, question, answer, timestamp, feedback)
-                   VALUES (?, ?, ?, ?, ?)""",
-                (session_id, question, answer, timestamp, None),
+                   (session_id, question, augmented_question, answer, timestamp, feedback)
+                   VALUES (?, ?, ?, ?, ?, ?)""",
+                (session_id, question, augmented_question, answer, timestamp, None),
             )
 
         await db.commit()
