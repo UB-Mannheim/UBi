@@ -23,6 +23,7 @@ from session_stats import get_session_usage_message, check_session_warnings
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
 USE_OPENAI_VECTORSTORE = True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" else False
+DEBUG = True if os.getenv("DEBUG") == "True" else False
 
 # === Conditional Imports RAG Pipelines (local / OpenAI) ===
 if USE_OPENAI_VECTORSTORE:
@@ -107,7 +108,7 @@ async def on_chat_start():
     
     # If using RAG, load the chain
     if not USE_OPENAI_VECTORSTORE:
-        rag_chain = await create_rag_chain(debug=False)
+        rag_chain = await create_rag_chain(debug=DEBUG)
         cl.user_session.set("rag_chain", rag_chain)
 
 # === Chat Message Handler ===
@@ -162,7 +163,7 @@ async def on_message(message: cl.Message):
     detected_language, route = await route_and_detect_language(
         client if USE_OPENAI_VECTORSTORE else None,
         user_input,
-        debug=True
+        debug=DEBUG
     )
 
     # RSS feed / Neuigkeiten aus der UB
@@ -221,7 +222,7 @@ async def on_message(message: cl.Message):
         client if USE_OPENAI_VECTORSTORE else None,
         user_input,
         detected_language,
-        debug=True
+        debug=DEBUG
     )
 
     # Build conversation context
@@ -281,7 +282,7 @@ async def on_message(message: cl.Message):
     else:
         rag_chain = cl.user_session.get("rag_chain")
         if not rag_chain:
-            rag_chain = await create_rag_chain(debug=False)
+            rag_chain = await create_rag_chain(debug=DEBUG)
             cl.user_session.set("rag_chain", rag_chain)
         try:
             # Get conversation context
