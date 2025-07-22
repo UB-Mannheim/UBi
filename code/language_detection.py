@@ -78,6 +78,7 @@ def _is_input_too_short(text: str) -> bool:
     
     return char_count < 15 and word_count < 4
 
+
 # Extend short input with previous user questions from session memory
 def _extend_with_previous_context(
     text: str, session_id: str, session_memory
@@ -151,12 +152,12 @@ def detect_language_and_get_name(
                 return 'German'
         
         # Detect language using lingua-language-detector
-        language = _german_detector.detect_language_of(text)
-        if language is None:
-            language = _english_detector.detect_language_of(text)
-        if language is None:
+        german = _german_detector.detect_language_of(text)
+        english = _english_detector.detect_language_of(text)
+        if (german is None) != (english is None):
+            language = german if german is not None else english
+        else: 
             language = _rest_common_detector.detect_language_of(text)
-        
         language_name = language.name.capitalize() if language else 'German'
         return language_name
     
