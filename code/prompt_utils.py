@@ -16,7 +16,7 @@ async def augment_query_with_llm(
     if not client:
         client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         
-    system_prompt = AUGMENT_USER_QUERY.replace("{language}", detected_language)    
+    system_prompt = AUGMENT_USER_QUERY.replace("{{language}}", detected_language)
     user_prompt = f"User query: '{user_input}'\nRephrased query: "
     
     try:
