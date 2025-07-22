@@ -44,7 +44,7 @@ if USE_OPENAI_VECTORSTORE:
 try:
     modify_html_template()
 except Exception as e:
-    print(f"⚠️  Warning: Could not modify HTML template: {e}")
+    print(f"[bold]Warning: Could not modify HTML template: {e}")
 
 # === Authentication (optional) ===
 users = [
@@ -186,7 +186,7 @@ async def on_message(message: cl.Message):
             session_memory.add_turn(session_id, MessageRole.ASSISTANT, response+f" Data:{data}")
             await save_interaction(session_id, user_input, response)
         except Exception as e:
-            error_response = f"❌ Fehler beim Abrufen der Sitzplatzdaten: {str(e)}"
+            error_response = f"Fehler beim Abrufen der Sitzplatzdaten: {str(e)}"
             await cl.Message(content=error_response, author="assistant").send()
             
             # Add to memory
@@ -258,7 +258,7 @@ async def on_message(message: cl.Message):
                     await msg.stream_token(token)
                     full_answer += token
         except Exception as e:
-            error_response = f"An error occurred while using the Responses API: {e}"
+            error_response = f"Fehler beim Zugriff auf die OpenAI Responses API: {e}"
             await Message(content=error_response).send()
 
             # Add error to memory
@@ -270,7 +270,7 @@ async def on_message(message: cl.Message):
         if full_answer:
             await msg.update()
         else:
-            await cl.Message(content="Sorry, I could not retrieve a response.").send()
+            await cl.Message(content="Es tut mir leider, aber ich konnte keine Antwort generieren.").send()
         
         # Save interaction
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_answer)
