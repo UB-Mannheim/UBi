@@ -15,10 +15,9 @@ from html_template_modifier import main as modify_html_template
 # from website_search import search_ub_website
 from free_seats import get_occupancy_data, make_plotly_figure
 from conversation_memory import session_memory, MessageRole, create_conversation_context
-from language_detection import detect_language_and_get_name
 from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
-from prompt_utils import augment_query_with_llm
+from prompt_utils import augment_query_with_llm, route_and_detect_language
 from session_stats import get_session_usage_message, check_session_warnings
 
 # === .env Configuration ===
@@ -114,11 +113,13 @@ async def on_chat_start():
 # === Chat Message Handler ===
 @cl.on_message
 async def on_message(message: cl.Message):
-    user_input = message.content.strip()
     session_id = cl.user_session.get("session_id") or "unknown"
-    
+
+    # Get message content and session_id
+    user_input = message.content.strip()
+
+    # Check if Terms of Use are accepted
     terms_accepted = check_terms_accepted()
-    
     if not terms_accepted:
         await ask_terms_acceptance()
         return
@@ -134,7 +135,7 @@ async def on_message(message: cl.Message):
     # Record the request if it passes all checks
     session_memory.record_request(session_id, user_input)
     
-    # Session statistics command
+    # Handle some user_inputs first: Session stats
     if user_input.lower() == "session stats":
         stats_message = get_session_usage_message(session_id)
         await cl.Message(content=stats_message, author="assistant").send()
@@ -143,18 +144,37 @@ async def on_message(message: cl.Message):
         warning = check_session_warnings(session_id)
         if warning:
             await cl.Message(content=warning, author="assistant").send()
-        
         return
     
-    # RSS feed
-    news_keywords = ["news", "neuigkeiten", "aktuelles", "nachrichten"]
-    if any(keyword in user_input.lower() for keyword in news_keywords):
+    # Handle some user_inputs first: Catch common phrases
+    phrase_result = detect_common_phrase(user_input)
+    if phrase_result:
+        response, _ = phrase_result
+        await Message(content=response, author="assistant").send()
+
+        # Add to memory
+        session_memory.add_turn(session_id, MessageRole.USER, user_input)
+        session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
+        await save_interaction(session_id, user_input, response)
+        return
+
+    # LLM Router and language detection
+    detected_language, route = await route_and_detect_language(
+        client if USE_OPENAI_VECTORSTORE else None,
+        user_input,
+        debug=True
+    )
+
+    # RSS feed / Neuigkeiten aus der UB
+    if route and route.lower() == "news":
         items = get_rss_items()
         if not items:
             response = "Keine Neuigkeiten gefunden."
             await Message(content=response, author="assistant").send()
         else:
-            response = "\n\n".join(f"- **{title}**\n  {link}" for title, link, _ in items)
+            heading = "#### Aktuelle Neuigkeiten aus der UB Mannheim\n\n"
+            body = "\n\n".join(f"- **{title}**\n  {link}" for title, link, _ in items)
+            response = heading + body
             await Message(content=response, author="assistant").send()
 
         # Add to memory
@@ -162,11 +182,9 @@ async def on_message(message: cl.Message):
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
         await save_interaction(session_id, user_input, response)
         return
-    
+
     # Free seats
-    seat_keywords = ["sitzplatz", "sitzplätze", "arbeitsplatz", "arbeitsplätze", "arbeitsplätzen",
-                     "plätze", "freier platz", "freie plätze", "seats", "workspaces"]
-    if any(keyword in user_input.lower() for keyword in seat_keywords):
+    if route and route.lower() == "sitzplatz":
         try:
             data = get_occupancy_data()
             areas = data["areas"]
@@ -194,33 +212,16 @@ async def on_message(message: cl.Message):
             session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
             await save_interaction(session_id, user_input, error_response)
         return
-    
-    # Phrase-Layer: Catch common phrases to save money
-    phrase_result = detect_common_phrase(user_input)
-    if phrase_result:
-        response, language = phrase_result
-        
-        await Message(content=response, author="assistant").send()
-        
-        # Add to memory
-        session_memory.add_turn(session_id, MessageRole.USER, user_input)
-        session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
-        await save_interaction(session_id, user_input, response)
-        return
-    
+
     # Add user message to memory
     session_memory.add_turn(session_id, MessageRole.USER, user_input)
-    
-    # Detect language with session context for short inputs
-    detected_language = detect_language_and_get_name(
-        user_input, session_id, session_memory
-    )
 
     # Augment the user_input to get a semantically rich query
     augmented_input = await augment_query_with_llm(
         client if USE_OPENAI_VECTORSTORE else None,
         user_input,
-        detected_language
+        detected_language,
+        debug=True
     )
 
     # Build conversation context
