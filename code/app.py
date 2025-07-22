@@ -17,7 +17,7 @@ from free_seats import get_occupancy_data, make_plotly_figure
 from conversation_memory import session_memory, MessageRole, create_conversation_context
 from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
-from prompt_utils import augment_query_with_llm, route_and_detect_language
+from llm_query_processing import augment_query_with_llm, route_and_detect_language
 from session_stats import get_session_usage_message, check_session_warnings
 
 # === .env Configuration ===
