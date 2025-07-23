@@ -5,6 +5,39 @@
   display: none !important;
 }
 
+.custom-terms-checkbox {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  height: 16px;
+  width: 15px;
+  border-radius: 4px;
+  border: 2px solid rgb(136, 177, 78);
+  cursor: pointer;
+  position: relative;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  flex-grow: 0;
+  display: inline-block;
+
+}
+
+.custom-terms-checkbox:checked {
+  background-color: rgb(136, 177, 78);
+}
+
+.custom-terms-checkbox:checked::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 6px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: translate(-50%, -60%) rotate(45deg);
+}
+
 /* More specific selector for copy button - only hide buttons with copy icon */
 .step.py-2 button[aria-label*="copy"],
 .step.py-2 button[title*="copy"],

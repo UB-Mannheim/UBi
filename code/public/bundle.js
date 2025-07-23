@@ -52,18 +52,13 @@ document.addEventListener('DOMContentLoaded', function() {
             if (mutation.type === 'childList') {
                 mutation.addedNodes.forEach(function(node) {
                     if (node.nodeType === Node.ELEMENT_NODE) {  
-                        // Also look for the first button that starts with ✅
-                        const allButtons = document.querySelectorAll('button');
-                        for (let i = 0; i < allButtons.length; i++) {
-                            const button = allButtons[i];
-                            if (button && !button.hasAttribute('data-terms-handled') && button.textContent.trim().startsWith("✅")) {
-                                button.setAttribute('data-terms-handled', 'true');
-                                button.addEventListener('click', function() {
-                                    console.log('Accept terms button clicked (by emoji)');
-                                    setTermsCookie();
-                                });
-                                break; // Found the first one, stop searching
-                            }
+                        // Looks for the accept terms button
+                        const acceptBtn = document.getElementById('accept_terms_btn');
+                        if (acceptBtn && !acceptBtn.hasAttribute('data-terms-handled')) {
+                            acceptBtn.setAttribute('data-terms-handled', 'true');
+                            acceptBtn.addEventListener('click', function() {
+                                setTermsCookie();
+                            });
                         }
                     }
                 });
@@ -78,14 +73,12 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-// Hides a div if a button starting with "✅" exists.
+// Hides a div if the accept terms button exists.
 function monitorAndHideDiv() {
     const TARGET_DIV_SELECTOR = '.flex.flex-col.mx-auto.w-full.p-4.pt-0';
 
     const checkAndToggleVisibility = () => {
-        const buttonExists = Array.from(document.querySelectorAll('button'))
-                                  .some(btn => btn.textContent.trim().startsWith("✅"));
-        
+        const buttonExists = document.getElementById('accept_terms_btn');
         const targetDiv = document.querySelector(TARGET_DIV_SELECTOR);
         if (!targetDiv) return;
         targetDiv.classList.toggle('hidden', buttonExists);

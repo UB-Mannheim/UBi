@@ -2,29 +2,13 @@ import chainlit as cl
 
 
 async def ask_terms_acceptance():
-    """Ask user to accept terms and conditions with AskUser Action"""
-    
-    terms_content = """
-    **Einverständniserklärung zu den Nutzungsbedingungen des KI-Chatbots der UB Mannheim**
-    Sie bestätigen:
-    ✅ Sie werden keine personenbezogenen Daten eingeben.
-    ✅ Ihre Eingaben dürfen zur Verbesserung des Services anonymisiert ausgewertet werden.
-    ✅ Sie verpflichten sich, die Nutzungsbedingungen einzuhalten.
-    Stimmen Sie den Nutzungsbedingungen zu?
-    """
-    
-    actions = [
-        cl.Action(
-            name="accept_terms_button",
-            value="accept", 
-            label="✅ Akzeptieren",
-            description="Nutzungsbedingungen akzeptieren",
-            payload={"action": "accept"}
-        )
-    ]
+    """Ask user to accept terms and conditions with CustomElement"""
+    # **Einverständniserklärung zu den Nutzungsbedingungen des KI-Chatbots der UB Mannheim**
+    terms_content = ""
+    element = cl.CustomElement(name="TermsAcceptBox")
     await cl.Message(
         content=terms_content,
-        actions=actions
+        elements=[element]
     ).send()
 
 
