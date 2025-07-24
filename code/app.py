@@ -17,7 +17,7 @@ from free_seats import get_occupancy_data, make_plotly_figure
 from conversation_memory import session_memory, MessageRole, create_conversation_context
 from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
-from llm_query_processing import augment_query_with_llm, route_and_detect_language
+from llm_query_processing import route_and_augment_query
 from translations import translate
 from session_stats import get_session_usage_message, check_session_warnings
 
@@ -76,7 +76,7 @@ async def set_starters(user=None):
             ),
         cl.Starter(
             label="Standorte",
-            message="Gib mir eine Übersicht über alle Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Link zur entsprechenden Webseite."
+            message="Gib mir eine Liste aller Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Webseitenlink in Klammern."
             ),
         cl.Starter(
             label="Neuigkeiten",
@@ -159,9 +159,9 @@ async def on_message(message: cl.Message):
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
         await save_interaction(session_id, user_input, response)
         return
-
-    # LLM Router and language detection
-    detected_language, route = await route_and_detect_language(
+    
+    # LLM routing, language detection, prompt augmentation
+    detected_language, route, augmented_input = await route_and_augment_query(
         client if USE_OPENAI_VECTORSTORE else None,
         user_input,
         debug=DEBUG
@@ -223,14 +223,6 @@ async def on_message(message: cl.Message):
 
     # Add user message to memory
     session_memory.add_turn(session_id, MessageRole.USER, user_input)
-
-    # Augment the user_input to get a semantically rich query
-    augmented_input = await augment_query_with_llm(
-        client if USE_OPENAI_VECTORSTORE else None,
-        user_input,
-        detected_language,
-        debug=DEBUG
-    )
 
     # Build conversation context
     conversation_context = create_conversation_context(session_id)

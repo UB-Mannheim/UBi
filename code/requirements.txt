@@ -1,6 +1,6 @@
 aiosqlite==0.21.0
 beautifulsoup4==4.13.4
-chainlit==2.4.0
+chainlit==2.6.2
 chromadb==1.0.12
 fastapi==0.115.9
 feedparser==6.0.11
@@ -14,3 +14,4 @@ plotly==5.20.0
 Requests==2.32.4
 tqdm==4.66.5
 unstructured==0.17.2
+json-repair==0.47.8
