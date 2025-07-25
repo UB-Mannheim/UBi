@@ -24,6 +24,55 @@ def backup_dir_with_timestamp(dir_path):
         shutil.copytree(path, backup_path)
         print(f"[bold cyan][BACKUP] {dir_path} -> {backup_path} ... Done.")
         
+def update_ui_config(data_updates=None, config_file="public/ui_config.json"):
+    """
+    Update or create the public/ui_config.json file with new data.
+    
+    Args:
+        data_updates (dict): Dictionary of data to update/add to the JSON file
+    """
+    data_file = Path(config_file)
+    public_dir = data_file.parent
+    ensure_dir(public_dir)
+    # Load existing data or create new with default config
+    if data_file.exists():
+        try:
+            with open(data_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+        except (json.JSONDecodeError, FileNotFoundError):
+            data = {}
+    else:
+        data = {}
+    
+    # Update with new data if provided
+    if data_updates:
+        data.update(data_updates)
+    
+    # Write back to file
+    with open(data_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    
+    return data
+
+
+def get_ui_config(config_file="public/ui_config.json"):
+    """
+    Read the public/ui_config.json file.
+    
+    Returns:
+        dict: Data from the JSON file, or empty dict if file doesn't exist
+    """
+    data_file = Path(config_file)
+    
+    if data_file.exists():
+        try:
+            with open(data_file, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, FileNotFoundError):
+            return {}
+    return {}
+
+
 def compute_file_hash(file_path):
     """
     Compute SHA256 hash of a file.
@@ -54,7 +103,10 @@ def write_hashes_for_directory(
     hash_path = snapshot_dir / hash_file
     with open(hash_path, "w") as f:
         json.dump(hash_dict, f, indent=2)
-        
+    
+    # Update public ui_config.json with last_updated timestamp
+    update_ui_config({"last_updated": datetime.datetime.now().strftime('%Y-%m-%d %H:%M')})
+    
     print(f"[bold green]Hash snapshot written to {hash_path}")
     
 def load_hash_snapshot(
@@ -66,7 +118,14 @@ def load_hash_snapshot(
     Returns a dict of filename to hash, or an empty dict if not found.
     """
     hash_file_path = Path(directory) / "snapshot" / hash_file
+    # Load hash snapshot
     if hash_file_path.exists():
+        # Set last_updated in ui_config.json if not set
+        ui_config = get_ui_config()
+        if ui_config.get("last_updated") is None:
+            last_modified_timestamp = hash_file_path.stat().st_mtime
+            last_modified_datetime = datetime.datetime.fromtimestamp(last_modified_timestamp).strftime('%Y-%m-%d %H:%M')
+            update_ui_config({"last_updated": last_modified_datetime})
         with open(hash_file_path, "r") as f:
             return json.load(f)
     return {}

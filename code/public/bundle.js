@@ -1,14 +1,58 @@
 // Terms and Conditions Cookie Handler
-// Cookie configuration will be set by Python via window.cookieConfig
+// Cookie configuration will be loaded from ui_config.json
 let cookieConfig = {
     name: "accepted_terms",
     durationDays: 365,
     path: "/"
 };
 
-// Function to set cookie configuration from Python
+// Configuration data loaded from ui_config.json
+let configData = null;
+
+// Function to load configuration from ui_config.json
+async function loadConfig() {
+    try {
+        // Add cache-busting timestamp parameter
+        const cacheBuster = new Date().getTime();
+        const response = await fetch(`./public/ui_config.json?_=${cacheBuster}`, {
+            cache: 'no-cache',
+            headers: {
+                'Cache-Control': 'no-cache, no-store, must-revalidate',
+                'Pragma': 'no-cache'
+            }
+        });
+        if (response.ok) {
+            configData = await response.json();
+            
+            // Update cookie config
+            if (configData.cookieConfig) {
+                cookieConfig = { ...cookieConfig, ...configData.cookieConfig };
+            }
+            
+            // Update last crawl date if available
+            if (configData.last_updated) {
+                setLastUpdated(configData.last_updated);
+            }
+            
+            return true;
+        }
+    } catch (error) {
+        console.log('Could not load config from ui_config.json:', error);
+    }
+    return false;
+}
+
+// Function to set cookie configuration from Python (fallback)
 function setCookieConfig(config) {
     cookieConfig = { ...cookieConfig, ...config };
+}
+
+// Function to set last crawl date from Python
+function setLastUpdated(dateString) {
+    const lastUpdatedElement = document.getElementById('last-updated');
+    if (lastUpdatedElement) {
+        lastUpdatedElement.textContent = `Last updated: ${dateString}`;
+    }
 }
 
 function setTermsCookie() {
@@ -44,6 +88,9 @@ function loadTermsCSS() {
 
 // Listen for accept_terms_button action clicks
 document.addEventListener('DOMContentLoaded', function() {
+    // Load configuration first
+    loadConfig();
+    
     // Load terms CSS if cookie is not accepted
     loadTermsCSS();   
     // Monitor for action button clicks
@@ -147,15 +194,50 @@ window.addEventListener("load", function () {
   }
 
   footer.innerHTML = `
-    <span>
-      © 2025 UB Mannheim
-      <a href="https://www.bib.uni-mannheim.de/impressum/" target="_blank">Impressum</a>
-      <a href="https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/" target="_blank">Datenschutz</a>
-    </span>
+    <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+      <span></span>
+      <span style="text-align: center;" id="footer-content">
+        Loading...
+      </span>
+      <span id="last-updated" style="font-size: 12px; color: #888 !important; opacity: 0.7; font-family: inherit;">
+      </span>
+    </div>
   `;
+
+  // Function to update footer content from config
+  function updateFooterContent() {
+    const footerContentSpan = document.getElementById('footer-content');
+    if (footerContentSpan && configData && configData.footer) {
+      const footer = configData.footer;
+      const links = footer.links;
+      
+      footerContentSpan.innerHTML = `
+        ${footer.copyright}
+        <a href="${links.impressum.href}" target="_blank">${links.impressum.text}</a>
+        <a href="${links.datenschutz.href}" target="_blank">${links.datenschutz.text}</a>
+      `;
+    }
+  }
 
   document.body.appendChild(footer);
   updateFooterStyle();
+
+  // Load config and update footer content
+  loadConfig().then(success => {
+    if (success) {
+      updateFooterContent();
+    } else {
+      // Fallback to hardcoded values
+      const footerContentSpan = document.getElementById('footer-content');
+      if (footerContentSpan) {
+        footerContentSpan.innerHTML = `
+          © 2025 UB Mannheim
+          <a href="https://www.bib.uni-mannheim.de/impressum/" target="_blank">Impressum</a>
+          <a href="https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/" target="_blank">Datenschutz</a>
+        `;
+      }
+    }
+  });
 
   const observer = new MutationObserver(() => updateFooterStyle());
   observer.observe(document.documentElement, {
@@ -167,12 +249,14 @@ window.addEventListener("load", function () {
   setTimeout(updateFooterStyle, 50);
 });
 
-// Add BETA-Version heading at the top center
+// Add Heading at the top center
 window.addEventListener("load", function () {
-  const betaHeading = document.createElement("div");
-  betaHeading.id = "beta-heading";
-  betaHeading.textContent = "Testversion des KI-Chats der UB Mannheim";
-  Object.assign(betaHeading.style, {
+  const heading = document.createElement("div");
+  heading.id = "heading";
+  heading.textContent = "Loading...";
+  
+  // Default styles
+  Object.assign(heading.style, {
     position: "fixed",
     top: "0",
     left: "50%",
@@ -187,22 +271,63 @@ window.addEventListener("load", function () {
     letterSpacing: "1px",
     textShadow: "0 0 22px rgba(0, 102, 255, 0.41)"
   });
-  betaHeading.style.setProperty(
+  heading.style.setProperty(
     "font-family",
     "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
     "important"
   );
-  document.body.appendChild(betaHeading);
+  
+  // Function to update heading from config
+  function updateHeading() {
+    if (configData && configData.heading) {
+      const headingConfig = configData.heading;
+      
+      if (headingConfig.enabled) {
+        heading.textContent = headingConfig.text;
+        
+        // Apply custom styles if provided
+        if (headingConfig.styles) {
+          Object.assign(heading.style, {
+            fontSize: headingConfig.styles.fontSize || "18px",
+            color: headingConfig.styles.color || "rgb(0, 149, 255)",
+            textShadow: headingConfig.styles.textShadow || "0 0 22px rgba(0, 102, 255, 0.41)"
+          });
+          
+          if (headingConfig.styles.fontFamily) {
+            heading.style.setProperty("font-family", headingConfig.styles.fontFamily, "important");
+          }
+        }
+      } else {
+        heading.style.display = "none";
+      }
+    } else {
+      // Fallback to default text
+      heading.textContent = "Testversion des KI-Chats der UB Mannheim";
+    }
+  }
+  
+  document.body.appendChild(heading);
+  
+  // Load config and update heading
+  if (configData) {
+    updateHeading();
+  } else {
+    loadConfig().then(success => {
+      if (success) {
+        updateHeading();
+      }
+    });
+  }
 
-  // Functions to show/hide beta heading
-  function hideBetaHeading() {
-    const heading = document.getElementById("beta-heading");
-    if (heading) heading.style.display = "none";
+  // Functions to show/hide heading
+  function hideHeading() {
+    const headingElement = document.getElementById("heading");
+    if (headingElement) headingElement.style.display = "none";
 
   }
-  function showBetaHeading() {
-    const heading = document.getElementById("beta-heading");
-    if (heading) heading.style.display = "block";
+  function showHeading() {
+    const headingElement = document.getElementById("heading");
+    if (headingElement) headingElement.style.display = "block";
 
   }
 
@@ -222,19 +347,19 @@ window.addEventListener("load", function () {
     if (readmeButton) {
       // Initial check
       if (readmeButton.getAttribute("aria-expanded") === "true") {
-        hideBetaHeading();
+        hideHeading();
         hideFooter();
       } else {
-        showBetaHeading();
+        showHeading();
         showFooter();
       }
       // Observe attribute changes
       const observer = new MutationObserver(() => {
         if (readmeButton.getAttribute("aria-expanded") === "true") {
-          hideBetaHeading();
+          hideHeading();
           hideFooter();
         } else {
-          showBetaHeading();
+          showHeading();
           showFooter();
         }
       });
