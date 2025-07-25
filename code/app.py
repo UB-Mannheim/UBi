@@ -20,11 +20,15 @@ from prompts import BASE_SYSTEM_PROMPT
 from llm_query_processing import route_and_augment_query
 from translations import translate
 from session_stats import get_session_usage_message, check_session_warnings
+from utils import init_ui_config_from_template
 
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
 USE_OPENAI_VECTORSTORE = True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" else False
 DEBUG = True if os.getenv("DEBUG") == "True" else False
+
+# === Initialize UI Config ===
+init_ui_config_from_template()
 
 # === Conditional Imports RAG Pipelines (local / OpenAI) ===
 if USE_OPENAI_VECTORSTORE:

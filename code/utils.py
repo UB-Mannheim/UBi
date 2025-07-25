@@ -9,6 +9,32 @@ def ensure_dir(dir) -> None:
     path = Path(dir)
     if not path.exists():
         path.mkdir(parents=True)
+
+def init_ui_config_from_template(config_file="public/ui_config.json"):
+    """
+    Initialize ui_config.json from template if it doesn't exist.
+    
+    Args:
+        config_file (str): Path to the config file
+    """
+    config_path = Path(config_file)
+    template_path = Path("./ui_config.template.json")
+    # If config doesn't exist but template does, copy from template
+    if not config_path.exists() and template_path.exists():
+        with open(template_path, 'r', encoding='utf-8') as f:
+            template_data = json.load(f)
+        
+        # Ensure directory exists
+        ensure_dir(config_path.parent)
+        
+        # Write config file
+        with open(config_path, 'w', encoding='utf-8') as f:
+            json.dump(template_data, f, indent=2, ensure_ascii=False)
+        
+        print(f"[green]Initialized {config_file} from template[/green]")
+        return template_data
+    
+    return None
         
 def backup_dir_with_timestamp(dir_path):
     """
