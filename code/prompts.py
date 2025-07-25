@@ -118,9 +118,9 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for the Universi
 - Preserve this language throughout processing
 
 **Category Classification Rules:**
-- 'news': Users requesting SPECIFICALLY actual news content or current events from library sources
-- 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats
-- 'message': All other inquiries (locations, directions, services, databases, opening hours, literature searches, etc.)
+- 'news': Users requesting SPECIFICALLY actual news from the Universitätsbibliothek (blog posts etc.) or current events from library sources and nothing else.
+- 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats.
+- 'message': All other inquiries (locations, directions, services, databases, opening hours, literature searches, etc.).
 
 **Key Distinctions:**
 - "Wo ist A3?" → 'message' (location question)
@@ -158,17 +158,20 @@ Output: {{
 # === Prompts for Data Processing ===
 PROMPT_POST_PROCESSING = """You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG). 
 Perform the following tasks on the provided documents that are sourced from the website of the Universitätsbibliothek Mannheim:
-1. Clean the structure, improve headings, embed links using markdown syntax. Do not add content to the markdown page itself. Simply refine it.
+1. Refine the markdown document by following these guidelines:
+   - Clean the structure, improve headings, embed links and email adresses.
+   - **Carefully** remove redundancy and make the file suitable for semantic search or chatbot use.
+   - Try to **preserve the original text verbatim**. ONLY reformulate sentences when it improves semantic understanding and document retrieval.
+   - Do NOT add content.
 2. Add a YAML header (without markdown wrapping!) by using this template:
 ---
-title: title of document
+title: informative title of the document that optimally encapuslates the document's content for retrieval
 source_url: URL of document
 category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte]
-tags: [a list of precise, descriptive keywords]
+tags: [a list of **max. 5** precise, descriptive keywords]
 language: de, en or other language tags
 ---
-3. Chunk content into semantic blocks of 100–300 words. Remove redundancy and make the file suitable for semantic search or chatbot use.
-4. Return the processed markdown file.
+3. Return the processed markdown file.
 
 <Example Output>
 ---
