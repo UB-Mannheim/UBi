@@ -170,19 +170,21 @@ Perform the following tasks on the provided documents that are sourced from the 
 2. Add a YAML header (without markdown wrapping!) by using this template:
 ---
 title: informative title of the document that optimally encapuslates the document's content for retrieval
-source_url: URL of document
-category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte]
-tags: [a list of **max. 5** precise, descriptive keywords]
+source_url_de: URL of document
+source_url_en: URL of English translation of document from <en_url> variable. Remove the <en_url> variable after including it here.
+category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte, Weitere Angebote]
+tags: [a list of **max. 8** precise, descriptive keywords]
 language: de, en or other language tags
 ---
 3. Return the processed markdown file.
 
 <Example Output>
 ---
-title: Deutscher Reichsanzeiger und Preußischer Staatsanzeiger
-source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/deutscher-reichsanzeiger-und-preussischer-staatsanzeiger/
-category:
-tags: [Forschungsdatenzentrum, Datenangebot des FDZ, Deutscher Reichsanziger und Preussischer Staatsanzeiger, Zeitungen]
+title: Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/
+source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/
+category: Services
+tags: [Forschungsdatenzentrum, Forschungsdatenmanagement, FDZ, Data Literacy, Data Science, Digitalisierung, Knowledge Graphs]
 language: de
 ---
 
