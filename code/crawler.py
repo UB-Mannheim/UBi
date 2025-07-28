@@ -4,15 +4,16 @@ import asyncio
 import click
 import requests
 import xml.etree.ElementTree as ET
-import markdown_processing as mdproc
 import utils
 from rich import print
+from typing import Optional
 from pathlib import Path
 from bs4 import BeautifulSoup, Tag
 from urllib.parse import urljoin
 from tqdm import tqdm
 from dotenv import load_dotenv
-from config import ENV_PATH, URLS_TO_CRAWL, DATA_DIR
+from config import ENV_PATH, URLS_TO_CRAWL
+from markdown_processing import write_markdown
 
 # === Load Configuration ===
 load_dotenv(ENV_PATH)
@@ -57,6 +58,19 @@ async def crawl_urls(
         print(f"Error fetching the XML: {e}")
     except ET.ParseError as e:
         print(f"Error parsing the XML: {e}")
+
+def parse_english_url(element) -> list[str]:
+    """
+    Parse english URL string from <div class="language-selector">
+    """
+    url_tag_en = element.find('a', attrs={'lang': 'en'})
+    if url_tag_en:
+        base_url = 'https://www.bib.uni-mannheim.de'
+        url_part = url_tag_en.get('href')
+        markdown_string = f"<en_url>{base_url + url_part}</en_url>"
+        return [markdown_string]
+    else:
+        return ['']
 
 def parse_uma_address_details(element):
     """
@@ -280,7 +294,7 @@ def find_specified_tags(
         elif 'accordion-content' in class_attr:
             # Find the first <ul> inside this element (even if it has a class)
             ul = element.find('ul')
-            if ul:
+            if ul and isinstance(ul, Tag):
                 li_elements = ul.find_all('li', recursive=False)
                 li_elements_clean = []
                 for li in li_elements:
@@ -356,7 +370,7 @@ def find_specified_tags(
                         header = soup.find('h2')
                         if header and header.get_text(strip=True) == 'Aufgaben':
                             ul = header.find_next('ul')
-                            if ul:
+                            if ul and isinstance(ul, Tag):
                                 li_elements = ul.find_all('li')
                                 profile_tasks = [li.get_text(strip=True) for li in li_elements if isinstance(li, Tag)]
                 except Exception:
@@ -409,6 +423,15 @@ def process_urls(
                 'gallery-full-screen-slider-text-item'
             ]
             
+            # Parse <div class="language-selector"> to get English URL
+            div_language_selector = soup.find(
+                'div',
+                attrs={'class': 'language-selector'}
+            )
+            if div_language_selector:
+                english_url_markdown = parse_english_url(div_language_selector)
+                content_single_page.extend(english_url_markdown)
+
             # Get main <div class="page content"> and ignore footer tag
             page_content = soup.find('div', id='page-content')
             if page_content is None:
@@ -422,100 +445,83 @@ def process_urls(
                 class_list=classes_to_find,
                 classes_to_exclude=classes_to_exclude,
                 url=url
-            )
+            ) if isinstance(page_content, Tag) else []
             
             # Add page content to list
             content_single_page.extend(page_content_tags)
             
             # Save markdown file only if changed/new
-            written_file = mdproc.write_markdown(url, content_single_page, output_dir)
+            written_file = write_markdown(url, content_single_page, output_dir)
             if written_file:
-                changed_files.append(written_file)                
+                changed_files.append(written_file)
+
     return changed_files
 
 @click.command()
 @click.option(
-    '--model-name', '-m',
-    default='gpt-4.1-mini-2025-04-14',
-    help='Model name for LLM postprocessing.'
-    )
-@click.option(
-    '--process-only/--no-process-only', '-p',
+    '--write-hashes-only/--no-write-hashes-only', '-w',
     default=False,
-    help='Do not crawl URLs; only process existing markdowns instead.'
+    help='Only write file hashes for TEMP_DIR and exit.'
     )
-@click.option(
-    '--additional-processing-only/--no-additional-processing-only', '-a',
-    default=False,
-    help='Only process standorte.'
-    )
-@click.option(
-    '--verbose/--no-verbose', '-v',
-    default=False,
-    help='Enable verbose output during crawling.'
-    )
-def main(model_name, process_only, additional_processing_only, verbose):
+def main(write_hashes_only) -> Optional[list[str] | list[Path]]:
+    """
+    Main crawling function.
+    """
+    # Write hashes only and exit
+    if write_hashes_only:
+        utils.write_hashes_for_directory(TEMP_DIR)
+        return
+
     # Crawl URLs
-    if not process_only:
-        file_path = URLS_TO_CRAWL
-        if file_path.exists():
-            print(f"[bold]Using {str(URLS_TO_CRAWL)} to crawl URLs.")
-            with file_path.open("r", encoding="utf-8") as f:
-                urls = [line.strip() for line in f if line.strip()]
-        else:
-            sitemap_url = 'https://www.bib.uni-mannheim.de/xml-sitemap/'
-            print(f"[bold]Crawling all URLs from {sitemap_url}")
-            urls = asyncio.run(crawl_urls(
-                sitemap_url=sitemap_url,
-                filters=[
-                    'twitter',
-                    'youtube',
-                    'google',
-                    'facebook',
-                    'instagram',
-                    'primo',
-                    'absolventum',
-                    'portal2',
-                    'blog',
-                    'auskunft-und-beratung',
-                    'beschaeftigte-von-a-bis-z',
-                    'aktuelles/events',
-                    'ausstellungen-und-veranstaltungen',
-                    'anmeldung-fuer-schulen',
-                    'fuehrungen',
-                ],
-                save_to_disk=True,
-                url_filename=str(URLS_TO_CRAWL)
-            ))
-        if urls:
-            process_urls(
-                urls=urls,
-                output_dir=TEMP_DIR,
-            )
-        else:
-            print("[bold red]No URLs found to crawl. Exiting.")
-            return
+    file_path = URLS_TO_CRAWL
+    if file_path.exists():
+        print(f"[bold]Using {str(URLS_TO_CRAWL)} to crawl URLs.")
+        with file_path.open("r", encoding="utf-8") as f:
+            urls = [line.strip() for line in f if line.strip()]
+    else:
+        sitemap_url = 'https://www.bib.uni-mannheim.de/xml-sitemap/'
+        print(f"[bold]Crawling all URLs from {sitemap_url}")
+        urls = asyncio.run(crawl_urls(
+            sitemap_url=sitemap_url,
+            filters=[
+                'twitter',
+                'youtube',
+                'google',
+                'facebook',
+                'instagram',
+                'primo',
+                'absolventum',
+                'portal2',
+                'blog',
+                'auskunft-und-beratung',
+                'beschaeftigte-von-a-bis-z',
+                'aktuelles/events',
+                'ausstellungen-und-veranstaltungen',
+                'anmeldung-fuer-schulen',
+                'fuehrungen',
+            ],
+            save_to_disk=True,
+            url_filename=str(URLS_TO_CRAWL)
+        ))
+    if urls:
+        process_urls(
+            urls=urls,
+            output_dir=TEMP_DIR,
+        )
+    else:
+        print("[bold red]No URLs found to crawl. Exiting.")
+        return
 
     # Hash-based file change detection in TEMP_DIR
     changed_files = utils.get_new_or_modified_files_by_hash(TEMP_DIR)
 
-    if changed_files or process_only:
-        if not additional_processing_only:
-            mdproc.process_markdown_files_with_llm(
-                input_dir=TEMP_DIR,
-                output_dir=str(DATA_DIR),
-                model_name=model_name,
-                only_files=changed_files if changed_files else None
-            )
-
-        # Additional post-processing logic
-        mdproc.post_process(data_dir=str(DATA_DIR), verbose=verbose)
-
+    if changed_files:
+        changed_files_str = '\n'.join(str(f) for f in changed_files)
+        print(f"[bold green]{len(changed_files)} changed file(s) detected in {TEMP_DIR}:")
+        print(f"[bold green]{changed_files_str}")
+        return changed_files
     else:
-        print("[bold]No markdown files changed, skipping LLM postprocessing.")
-        
-    # Update hash snapshot after processing
-    utils.write_hashes_for_directory(TEMP_DIR)
+        print("[bold]No markdown files changed.")
 
 if __name__ == "__main__":
     main()

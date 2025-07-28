@@ -1,8 +1,9 @@
 import os
 import re
+import time
+import click
 import backoff
 import asyncio
-import time
 import utils
 from pathlib import Path
 from tqdm import tqdm
@@ -190,19 +191,19 @@ def process_markdown_files_with_llm(
     input_dir: str,
     output_dir: str,
     model_name: str = "gpt-4o-mini-2024-07-18",
-    only_files: list | None = None,
+    files_to_process: list | None = None,
     max_concurrent: int = 3,
     delay_between_requests: float = 0.5
     ):
     """
     Post-process markdown files with LLM and add YAML header.
-    If only_files is provided, only process those files.
+    If files_to_process is provided, only process those files.
     
     Args:
         input_dir: Directory containing markdown files
         output_dir: Directory to write processed files
         model_name: OpenAI model to use
-        only_files: List of specific files to process
+        files_to_process: List of specific files to process
         max_concurrent: Maximum concurrent API requests
         delay_between_requests: Delay between requests in seconds
     """
@@ -211,8 +212,12 @@ def process_markdown_files_with_llm(
         utils.backup_dir_with_timestamp(output_dir)
         
     # Check for updated files
-    if only_files is not None:
-        input_files = [Path(input_dir)/f for f in only_files if (Path(input_dir)/f).exists()]
+    if files_to_process is not None:
+        input_files = [f for f in files_to_process if f.exists()]
+        if len(input_files) != len(files_to_process):
+            missing_files = [f for f in files_to_process if not f.exists()]
+            for missing_file in missing_files:
+                print(f"[bold yellow]Warning: File not found: {missing_file}")
     else:
         input_files = list(Path(input_dir).glob('*.md'))
 
@@ -281,11 +286,14 @@ def process_markdown_files_with_llm(
         process_markdown_files_sequential(llm, input_files, output_path)
 
 def process_markdown_files_sequential(llm, input_files, output_path):
-    """Fallback sequential processing if async fails."""
+    """
+    Fallback sequential processing if async fails.
+    """
     for file_path in tqdm(input_files, desc="LLM Processing"):
         try:
+            print(f"[bold]Processing {file_path} ...")
             content = file_path.read_text(encoding="utf-8")
-            
+                        
             # LLM interaction
             messages = create_llm_messages(PROMPT_POST_PROCESSING, content)
             response = llm.invoke(messages)
@@ -404,6 +412,8 @@ def process_standorte(
                         
                         # Remove the contact file after successful merge
                         safe_remove_file(contact_file_path, processed_contacts)
+                        
+                        print(f"[bold green]Done. Processed {processed_count} contact files.")
                     else:
                         if verbose:
                             print(f"[bold red]Error: No content found in {contact_filename}")
@@ -414,12 +424,7 @@ def process_standorte(
         except Exception as e:
             print(f"[bold red]Error processing {shortest_file.name}: {e}")
     
-    print(f"[bold green]Done. Processed {processed_count} contact files.")
-    
-def process_direktion(
-    data_path: Path,
-    verbose: bool = False
-    ):
+def process_direktion(data_path: Path, verbose: bool = False):
     """
     Augemnt "ihre-ub_ansprechpersonen_direktion.md"
     """
@@ -453,15 +458,12 @@ def process_direktion(
         # Write augmented file
         direktion_md[0].write_text(md_data, encoding='utf-8')
         
+        print(f"[bold green]Done. Augmented 'Direktion' markdown page.")
+        
     except Exception as e:
         print(f"[bold red]Error processing Direktionen files: {e}")
     
-    print(f"[bold green]Done. Augmented 'Direktion' markdown page.")
-    
-def process_semesterapparat(
-    data_path: Path,
-    verbose: bool = False
-    ):
+def process_semesterapparat(data_path: Path, verbose: bool = False):
     """
     Post-processing function that finds the semesterapparat application file 
     and appends its content to the parent semesterapparat file.
@@ -528,6 +530,8 @@ def process_semesterapparat(
             
             # Remove the application file after successful merge
             safe_remove_file(antrag_file)
+            
+            print(f"[bold green]Done. Processed semesterapparat application file.")
         else:
             if verbose:
                 print(f"[bold red]Error: No content found in {antrag_file.name}")
@@ -535,12 +539,8 @@ def process_semesterapparat(
     except Exception as e:
         print(f"[bold red]Error processing semesterapparat files: {e}")
     
-    print(f"[bold green]Done. Processed semesterapparat application file.")
 
-def process_shibboleth(
-    data_path: Path,
-    verbose: bool = False
-    ):
+def process_shibboleth(data_path: Path, verbose: bool = False):
     """
     Appends the content from the shibboleth markdown file to the parent
     e-books-e-journals-und-datenbanken.md file, placing the parent's
@@ -598,6 +598,8 @@ def process_shibboleth(
 
             # Remove the shibboleth file after successful merge
             safe_remove_file(shib_file)
+            
+            print(f"[bold green]Done. Processed shibboleth file.")
         else:
             if verbose:
                 print(f"[bold red]Error: No content found in {shib_file.name}")
@@ -605,9 +607,7 @@ def process_shibboleth(
     except Exception as e:
         print(f"[bold red]Error processing shibboleth files: {e}")
 
-    print(f"[bold green]Done. Processed shibboleth file.")
-
-def post_process(
+def additional_post_processing(
     data_dir: str = str(DATA_DIR),
     verbose: bool = False
     ):
@@ -630,3 +630,113 @@ def post_process(
 
     # Process "shibboleth" file
     process_shibboleth(data_path=data_path, verbose=verbose)
+
+@click.command()
+@click.option(
+    '--input-dir', '-i',
+    default=None,
+    help='Input directory containing markdown files to process (default: None).'
+)
+@click.option(
+    '--files', '-f',
+    multiple=True,
+    help='Specific markdown files to process. Can be used multiple times. (e.g., -f file1.md -f file2.md)'
+)
+@click.option(
+    '--model-name', '-m',
+    default='gpt-4o-mini-2024-07-18',
+    help='Model name for LLM postprocessing. (default: gpt-4o-mini-2024-07-18)'
+)
+@click.option(
+    '--llm-processing/--no-llm-processing', '-llm',
+    default=True,
+    help='Run LLM post-processing on markdown files. (default: True)'
+)
+@click.option(
+    '--additional-processing/--no-additional-processing', '-add',
+    default=True,
+    help='Run additional post-processing on markdown files. (default: True)'
+)
+@click.option(
+    '--verbose/--no-verbose', '-v',
+    default=False,
+    help='Enable verbose output during post-processing. (default: False)'
+)
+def run_post_processing(
+    input_dir: str,
+    files: tuple,
+    model_name: str,
+    llm_processing: bool,
+    additional_processing: bool,
+    verbose: bool
+    ):
+    """
+    CLI for post-processing markdown files. You can specify:
+        - --files: specific markdown files to process (can be used multiple times)
+        - --input-dir: a directory to process all .md files in (default if 
+            neither files nor input_dir is given)
+    """    
+    # Determine which files to process
+    files_to_process = []
+    
+    # Specific files option
+    if files:
+        # If input_dir is not specified, use TEMP_DIR as default
+        if not input_dir:
+            input_dir = TEMP_DIR
+        
+        # Resolve all files to absolute paths
+        for f in files:
+            # If file path contains directory separators, treat as full path
+            if '/' in str(f) or '\\' in str(f):
+                # Try to resolve relative to current directory first
+                file_path = Path(f).resolve()
+                if not file_path.exists():
+                    # If not found, try relative to project root
+                    file_path = (Path.cwd().parent / f).resolve()
+            else:
+                # Otherwise, treat as relative to input_dir
+                file_path = (Path(input_dir) / f).resolve()
+            
+            if file_path.exists():
+                files_to_process.append(file_path)
+            else:
+                print(f"[bold yellow]Warning: File not found: {f}")
+            
+        print(f"[bold]Processing {len(files_to_process)} markdown file(s):\n{', '.join(str(f) for f in files_to_process)}")
+        
+    # input_dir option
+    elif input_dir:
+        files_to_process = list(Path(input_dir).glob('*.md'))
+        print(f"[bold]Processing {len(files_to_process)} markdown files in {input_dir}.")
+        
+    # Hash snapshot (default fallback)
+    else:
+        input_dir = TEMP_DIR
+        files_to_process = utils.get_new_or_modified_files_by_hash(
+            input_dir,
+            return_path_objects=True
+            )
+
+    if not files_to_process:
+        print(f"[bold yellow]No files to process. Exiting.")
+        return
+
+    # Post-processing with LLM
+    if llm_processing:
+        process_markdown_files_with_llm(
+            input_dir=input_dir,
+            output_dir=str(DATA_DIR),
+            files_to_process=files_to_process,
+            model_name=model_name
+        )
+    
+    # Additional post-processing
+    if additional_processing:
+        additional_post_processing(data_dir=str(DATA_DIR), verbose=verbose)
+    
+    # Update hash snapshot after processing
+    utils.write_hashes_for_directory(input_dir)
+
+if __name__ == "__main__":
+    run_post_processing()

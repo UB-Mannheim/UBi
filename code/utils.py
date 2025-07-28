@@ -95,13 +95,33 @@ def get_current_hashes(
 
 def get_new_or_modified_files_by_hash(
     directory,
-    hash_file="md_hashes.json"
-    ) -> list[str]:
+    hash_file="md_hashes.json",
+    return_path_objects: bool = False
+    ) -> list[str] | list[Path]:
     """
-    Compare current file hashes for directory with an older hash snapshot
-    defined in hash_file and return a list with all filenames that are
-    either new or updated.
+    Detect new or modified .md files by comparing current file hashes with a
+    previous snapshot.
+
+    Args:
+        directory: Path to directory containing .md files to check
+        hash_file: Name of JSON file containing previous hash snapshot
+                    (default: "md_hashes.json")
+        return_path_objects: If True, return Path objects; if False, return
+                    filenames as strings
+
+    Returns:
+        List of filenames or Path objects for files that are new or have
+        changed since the snapshot
+
+    Note:
+        Files are considered "new or modified" if they don't exist in the
+        snapshot or have different hashes. The snapshot is expected to be
+        in a "snapshot" subdirectory of the target directory.
     """
     old_hashes = load_hash_snapshot(directory, hash_file=hash_file)
     current_hashes = get_current_hashes(directory)
-    return [fname for fname, h in current_hashes.items() if old_hashes.get(fname) != h]
+
+    if return_path_objects:
+        return [(Path(directory) / fname).resolve() for fname, h in current_hashes.items() if old_hashes.get(fname) != h]
+    else:
+        return [fname for fname, h in current_hashes.items() if old_hashes.get(fname) != h]
