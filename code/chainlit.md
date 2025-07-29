@@ -1,4 +1,4 @@
-# 🤖 Nutzungsbedingungen für den KI-Chatbot der UB Mannheim 
+# Nutzungsbedingungen für den KI-Chatbot der UB Mannheim 
 
 Der KI-Chatbot der UB Mannheim unterstützt Nutzer*innen mit Informationen zu den Services der UB. Mit der Nutzung dieses Chatbots erklären Sie sich mit folgenden Bedingungen einverstanden: 
 
