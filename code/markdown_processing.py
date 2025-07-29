@@ -11,12 +11,8 @@ from rich import print
 from urllib.parse import urlparse
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
-from config import ENV_PATH, DATA_DIR
+from config import CRAWL_DIR, DATA_DIR
 from prompts import PROMPT_POST_PROCESSING
-
-# === Load Configuration ===
-load_dotenv(ENV_PATH)
-TEMP_DIR = f"../data/markdown"
 
 # === Processing Functions ===
 def extract_content_after_yaml_header(content: str) -> str:
@@ -132,7 +128,7 @@ def find_section_position(content_lines: list, section_heading: str) -> int:
 def write_markdown(
     url,
     content,
-    output_dir: str = TEMP_DIR,
+    output_dir: str = CRAWL_DIR,
     ):
     """
     Write markdown for a URL only if content is new or changed.
@@ -635,7 +631,7 @@ def additional_post_processing(
 @click.option(
     '--input-dir', '-i',
     default=None,
-    help='Input directory containing markdown files to process (default: None).'
+    help='Input directory containing markdown files to process (default: CRAWL_DIR).'
 )
 @click.option(
     '--files', '-f',
@@ -671,19 +667,16 @@ def run_post_processing(
     verbose: bool
     ):
     """
-    CLI for post-processing markdown files. You can specify:
-        - --files: specific markdown files to process (can be used multiple times)
-        - --input-dir: a directory to process all .md files in (default if 
-            neither files nor input_dir is given)
+    CLI for post-processing markdown files.
     """    
     # Determine which files to process
     files_to_process = []
     
     # Specific files option
     if files:
-        # If input_dir is not specified, use TEMP_DIR as default
+        # If input_dir is not specified, use CRAWL_DIR as default
         if not input_dir:
-            input_dir = TEMP_DIR
+            input_dir = CRAWL_DIR
         
         # Resolve all files to absolute paths
         for f in files:
@@ -712,7 +705,7 @@ def run_post_processing(
         
     # Hash snapshot (default fallback)
     else:
-        input_dir = TEMP_DIR
+        input_dir = CRAWL_DIR
         files_to_process = utils.get_new_or_modified_files_by_hash(
             input_dir,
             return_path_objects=True

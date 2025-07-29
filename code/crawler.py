@@ -12,13 +12,9 @@ from bs4 import BeautifulSoup, Tag
 from urllib.parse import urljoin
 from tqdm import tqdm
 from dotenv import load_dotenv
-from config import ENV_PATH, URLS_TO_CRAWL
+from config import URLS_TO_CRAWL, CRAWL_DIR
 from markdown_processing import write_markdown
 
-# === Load Configuration ===
-load_dotenv(ENV_PATH)
-TEMP_DIR = f"../data/markdown"
-        
 # === Crawler Funtions ===
 async def crawl_urls(
     sitemap_url: str,
@@ -461,7 +457,7 @@ def process_urls(
 @click.option(
     '--write-hashes-only/--no-write-hashes-only', '-w',
     default=False,
-    help='Only write file hashes for TEMP_DIR and exit.'
+    help='Only write file hashes for CRAWL_DIR and exit.'
     )
 def main(write_hashes_only) -> Optional[list[str] | list[Path]]:
     """
@@ -469,7 +465,7 @@ def main(write_hashes_only) -> Optional[list[str] | list[Path]]:
     """
     # Write hashes only and exit
     if write_hashes_only:
-        utils.write_hashes_for_directory(TEMP_DIR)
+        utils.write_hashes_for_directory(CRAWL_DIR)
         return
 
     # Crawl URLs
@@ -506,18 +502,18 @@ def main(write_hashes_only) -> Optional[list[str] | list[Path]]:
     if urls:
         process_urls(
             urls=urls,
-            output_dir=TEMP_DIR,
+            output_dir=CRAWL_DIR,
         )
     else:
         print("[bold red]No URLs found to crawl. Exiting.")
         return
 
-    # Hash-based file change detection in TEMP_DIR
-    changed_files = utils.get_new_or_modified_files_by_hash(TEMP_DIR)
+    # Hash-based file change detection in CRAWL_DIR
+    changed_files = utils.get_new_or_modified_files_by_hash(CRAWL_DIR)
 
     if changed_files:
         changed_files_str = '\n'.join(str(f) for f in changed_files)
-        print(f"[bold green]{len(changed_files)} changed file(s) detected in {TEMP_DIR}:")
+        print(f"[bold green]{len(changed_files)} changed file(s) detected in {CRAWL_DIR}:")
         print(f"[bold green]{changed_files_str}")
         return changed_files
     else:
