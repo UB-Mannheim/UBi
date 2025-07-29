@@ -3,7 +3,7 @@ title: Ausleihe mobiler Geräte an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/borrow-request-renew/borrowing-mobile-devices/
 category: Medien
-tags: [Notebookausleihe, mobile Geräte, Ausleihe, Rückgabe, InfoCenter, digitale Prüfungen, Studierende, Leihfristen]
+tags: [Notebookausleihe, mobile Geräte, Ausleihe, Rückgabe, InfoCenter, digitale Prüfungen, e-Prüfung, Leihfristen]
 language: de
 ---
 
@@ -19,9 +19,9 @@ Für Studierende der Universität Mannheim stellen Universitätsbibliothek (UB) 
 - Sie erhalten eine E-Mail, sobald Sie das Gerät montags bis freitags von 9 bis 16 Uhr im InfoCenter abholen können.
 - Notebooks können für 14 Tage entliehen werden (Verlängerung bis maximal 42 Tage möglich). Einige Notebooks stehen Studierenden für eine Semesterleihe zur Verfügung.
 
-## Notebooks für digitale Prüfungen
+## Notebooks für digitale Prüfungen (e-Prüfung)
 
-Notebooks zur Teilnahme an digitalen Prüfungen können per E-Mail beim Team e-Prüfungen beantragt werden. Voraussetzungen und weitere Informationen finden Sie auf der [Website der UNIT](https://www.uni-mannheim.de/pruefungen/studierende/digitale-pruefung/#c396546).
+Notebooks zur Teilnahme an digitalen Prüfungen (e-Prüfung) können per E-Mail beim Team e-Prüfungen beantragt werden. Voraussetzungen und weitere Informationen finden Sie auf der [Website der UNIT](https://www.uni-mannheim.de/pruefungen/studierende/digitale-pruefung/#c396546).
 
 ## Rückgabe
 
