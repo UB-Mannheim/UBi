@@ -131,7 +131,9 @@ async def on_message(message: cl.Message):
         session_id, user_input
     )
     if not allowed:
-        await cl.Message(content=error_message, author="assistant").send()
+        await cl.Message(
+            content=error_message or "Rate limit exceeded",
+            author="assistant").send()
         return
     
     # Record the request if it passes all checks
@@ -221,20 +223,20 @@ async def on_message(message: cl.Message):
             await save_interaction(session_id, user_input, error_response)
         return
 
-    # Add user message to memory
+    # Build conversation context (before adding current user input)
+    conversation_context = create_conversation_context(session_id)
+
+    # Add user message to memory (after getting context)
     session_memory.add_turn(session_id, MessageRole.USER, user_input)
 
-    # Build conversation context
-    conversation_context = create_conversation_context(session_id)
-    
     # === OpenAI Vectorstore Logic ===
     if USE_OPENAI_VECTORSTORE:
         # Compose input for the model: prepend context if available
         if conversation_context:
             model_input = f"{conversation_context}\nNutzer: {augmented_input}"
         else:
-            model_input = augmented_input
-            
+            model_input = f"Nutzer: {augmented_input}"
+
         msg = cl.Message(content="", author="assistant")
         await msg.send()
         await msg.stream_token(" ")

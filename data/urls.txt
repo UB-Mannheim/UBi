@@ -153,3 +153,5 @@ https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/
 https://www.bib.uni-mannheim.de/standorte/infocenter/
 https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/
 https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/
+https://www.uni-mannheim.de/open-science/
+https://www.uni-mannheim.de/open-science/open-science-office/

@@ -10,6 +10,17 @@ def ensure_dir(dir) -> None:
     if not path.exists():
         path.mkdir(parents=True)
         
+def is_valid_json(json_string):
+    """
+    Check if json_string is valid JSON.
+    """
+    try:
+        json.loads(json_string)
+        return True
+    except json.JSONDecodeError as e:
+        print(f"... Invalid JSON: {e}")
+        return False
+
 def backup_dir_with_timestamp(dir_path):
     """
     If dir_path exists, copy it to dir_path_backup_YYYYmmdd.

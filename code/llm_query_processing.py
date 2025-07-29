@@ -4,19 +4,9 @@ import json
 import json_repair
 from rich import print
 from openai import AsyncOpenAI
+from utils import is_valid_json
 from prompts import ROUTER_AUGMENTOR_PROMPT
 
-
-def is_valid_json(json_string):
-    """
-    Check if json_string is valid JSON.
-    """
-    try:
-        json.loads(json_string)
-        return True
-    except json.JSONDecodeError as e:
-        print(f"... Invalid JSON: {e}")
-        return False
 
 async def route_and_augment_query(
     client: AsyncOpenAI | None,

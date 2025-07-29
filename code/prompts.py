@@ -118,14 +118,18 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for the Universi
 - Preserve this language throughout processing
 
 **Category Classification Rules:**
-- 'news': Users requesting SPECIFICALLY actual news from the Universitätsbibliothek (blog posts etc.) or current events from library sources and nothing else.
+- 'news': Users requesting SPECIFICALLY current/recent news from the Universitätsbibliothek (blog posts, announcements from the last few months) or current events from the library. Historical events or dates before the current year are NOT news.
+    - Additional rule: If a query contains a date more than 1 year in the past, it cannot be classified as 'news'.
 - 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats.
-- 'message': All other inquiries (locations, directions, services, databases, opening hours, literature searches, etc.).
+- 'message': All other inquiries (locations, directions, services, databases, opening hours, literature searches, historical research, academic questions, etc.).
 
 **Key Distinctions:**
 - "Wo ist A3?" → 'message' (location question)
 - "Sind in A3 Plätze frei?" → 'sitzplatz' (seat availability)
-- Reading news → 'news' | Accessing news databases → 'message'
+- "I want to read some news" → 'message'
+- "I want to access news databases" → 'message'
+- "Was geschah am [historical date]?" → 'message' (historical research)
+- "Gibt es neue Nachrichten aus der Bibliothek?" → 'news' (current library news request)
 
 **Query Augmentation Rules:**
 1. Interpret abbreviations: {ABBREVIATIONS}
