@@ -1,25 +1,28 @@
 # === Imports ===
-import os
 import datetime
+import os
+
 import chainlit as cl
-from rich import print
 from chainlit import Message
-from fastapi import Request, Response
 from dotenv import load_dotenv
+from fastapi import Request, Response
+from rich import print
+
 from config import ENV_PATH
-from db import save_interaction
-from rss_reader import get_rss_items
+from conversation_memory import (MessageRole, create_conversation_context,
+                                 session_memory)
 from custom_data_layer import CustomDataLayer
-from terms_conditions import ask_terms_acceptance, check_terms_accepted
-from html_template_modifier import main as modify_html_template
+from db import save_interaction
 # from website_search import search_ub_website
 from free_seats import get_occupancy_data, make_plotly_figure
-from conversation_memory import session_memory, MessageRole, create_conversation_context
+from html_template_modifier import main as modify_html_template
+from llm_query_processing import route_and_augment_query
 from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
-from llm_query_processing import route_and_augment_query
+from rss_reader import get_rss_items
+from session_stats import check_session_warnings, get_session_usage_message
+from terms_conditions import ask_terms_acceptance, check_terms_accepted
 from translations import translate
-from session_stats import get_session_usage_message, check_session_warnings
 
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
@@ -29,6 +32,7 @@ DEBUG = True if os.getenv("DEBUG") == "True" else False
 # === Conditional Imports RAG Pipelines (local / OpenAI) ===
 if USE_OPENAI_VECTORSTORE:
     from openai import AsyncOpenAI
+
     from rag_openai import initialize_vectorstore
 else:
     from rag_local import create_rag_chain

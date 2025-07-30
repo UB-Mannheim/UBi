@@ -1,18 +1,21 @@
+import asyncio
 import os
 import re
 import time
-import click
-import backoff
-import asyncio
-import utils
 from pathlib import Path
-from tqdm import tqdm
-from rich import print
 from urllib.parse import urlparse
-from langchain_openai import ChatOpenAI
+
+import backoff
+import click
 from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
+from rich import print
+from tqdm import tqdm
+
+import utils
 from config import CRAWL_DIR, DATA_DIR
 from prompts import PROMPT_POST_PROCESSING
+
 
 # === Processing Functions ===
 def extract_content_after_yaml_header(content: str) -> str:

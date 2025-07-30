@@ -1,13 +1,16 @@
-import os
 import asyncio
-import yaml
-import utils
-from tqdm import tqdm
-from rich import print
+import os
 from pathlib import Path
+
+import yaml
+from dotenv import load_dotenv, set_key
 from openai import OpenAI
-from dotenv import set_key, load_dotenv
-from config import ENV_PATH, DATA_DIR
+from rich import print
+from tqdm import tqdm
+
+import utils
+from config import DATA_DIR, ENV_PATH
+
 
 # === OpenAI Vectorstore Functions ===
 def create_openAI_vectorstore():

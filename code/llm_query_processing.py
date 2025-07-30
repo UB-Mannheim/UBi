@@ -1,11 +1,13 @@
+import json
 import os
 import re
-import json
+
 import json_repair
-from rich import print
 from openai import AsyncOpenAI
-from utils import is_valid_json
+from rich import print
+
 from prompts import ROUTER_AUGMENTOR_PROMPT
+from utils import is_valid_json
 
 
 async def route_and_augment_query(

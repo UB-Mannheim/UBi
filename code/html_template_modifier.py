@@ -4,8 +4,8 @@ HTML Template Modifier for Chainlit
 Replaces external resources with local assets in Chainlit's HTML template.
 """
 
-import shutil
 import importlib.util
+import shutil
 from pathlib import Path
 
 

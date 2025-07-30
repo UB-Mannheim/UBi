@@ -1,9 +1,9 @@
-import re
 import json
 import os
+import re
+
 from langchain_openai import ChatOpenAI
 from tqdm import tqdm
-
 
 # Initialize ChatOpenAI LLM
 llm = ChatOpenAI(
