@@ -8,7 +8,8 @@ WORKDIR /app
 COPY ./code /app
 
 RUN pip install --upgrade pip && \
-    pip install -r requirements.txt
+    pip install -r requirements.txt && \
+    rm -rf /root/.cache
 
 EXPOSE 8000
 
