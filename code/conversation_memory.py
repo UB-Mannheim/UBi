@@ -21,6 +21,7 @@ class MessageRole(Enum):
 @dataclass
 class ConversationTurn:
     """Represents a single turn in the conversation"""
+
     id: str
     role: MessageRole
     content: str
@@ -31,22 +32,21 @@ class ConversationTurn:
     def to_dict(self) -> Dict[str, Any]:
         return {
             **asdict(self),
-            'role': self.role.value,
-            'timestamp': self.timestamp.isoformat()
+            "role": self.role.value,
+            "timestamp": self.timestamp.isoformat(),
         }
 
     @classmethod
-    def from_dict(cls, data: Dict[str, Any]) -> 'ConversationTurn':
-        data['role'] = MessageRole(data['role'])
-        data['timestamp'] = datetime.datetime.fromisoformat(
-            data['timestamp']
-        )
+    def from_dict(cls, data: Dict[str, Any]) -> "ConversationTurn":
+        data["role"] = MessageRole(data["role"])
+        data["timestamp"] = datetime.datetime.fromisoformat(data["timestamp"])
         return cls(**data)
 
 
 @dataclass
 class SessionContext:
     """Represents the current session context"""
+
     session_id: str
     topic: Optional[str] = None
     intent: Optional[str] = None
@@ -66,10 +66,12 @@ class SessionContext:
     def to_dict(self) -> Dict[str, Any]:
         return {
             **asdict(self),
-            'created_at': self.created_at.isoformat(),
-            'request_timestamps': [
-                ts.isoformat() for ts in self.request_timestamps
-            ] if self.request_timestamps else []
+            "created_at": self.created_at.isoformat(),
+            "request_timestamps": (
+                [ts.isoformat() for ts in self.request_timestamps]
+                if self.request_timestamps
+                else []
+            ),
         }
 
 
@@ -89,7 +91,7 @@ class SessionMemory:
         max_chars_per_session: int = 5000,
         max_turns_per_session: int = 24,
         max_requests_per_minute: int = 12,
-        rate_limit_window: int = 60
+        rate_limit_window: int = 60,
     ):
         self.max_turns = max_turns
         self.max_tokens = max_tokens
@@ -119,7 +121,7 @@ class SessionMemory:
         role: MessageRole,
         content: str,
         metadata: Optional[Dict[str, Any]] = None,
-        tokens_used: Optional[int] = None
+        tokens_used: Optional[int] = None,
     ) -> str:
         """Add a new turn to the conversation"""
         if session_id not in self.sessions:
@@ -132,7 +134,7 @@ class SessionMemory:
             content=content,
             timestamp=datetime.datetime.now(),
             metadata=metadata or {},
-            tokens_used=tokens_used
+            tokens_used=tokens_used,
         )
 
         self.sessions[session_id].append(turn)
@@ -146,7 +148,7 @@ class SessionMemory:
         self,
         session_id: str,
         include_system: bool = False,
-        max_turns: Optional[int] = None
+        max_turns: Optional[int] = None,
     ) -> List[ConversationTurn]:
         """Get conversation history for a session"""
         if session_id not in self.sessions:
@@ -156,10 +158,7 @@ class SessionMemory:
 
         # Filter by role if needed
         if not include_system:
-            turns = [
-                turn for turn in turns
-                if turn.role != MessageRole.SYSTEM
-            ]
+            turns = [turn for turn in turns if turn.role != MessageRole.SYSTEM]
 
         # Apply turn limit
         if max_turns:
@@ -168,9 +167,7 @@ class SessionMemory:
         return turns
 
     def get_context_window(
-        self,
-        session_id: str,
-        window_size: Optional[int] = None
+        self, session_id: str, window_size: Optional[int] = None
     ) -> List[ConversationTurn]:
         """Get recent conversation context for RAG enhancement"""
         if session_id not in self.sessions:
@@ -190,23 +187,17 @@ class SessionMemory:
         return {
             "session_id": session_id,
             "total_turns": len(turns),
-            "user_turns": len(
-                [t for t in turns if t.role == MessageRole.USER]
-            ),
+            "user_turns": len([t for t in turns if t.role == MessageRole.USER]),
             "assistant_turns": len(
                 [t for t in turns if t.role == MessageRole.ASSISTANT]
             ),
             "start_time": turns[0].timestamp if turns else None,
             "last_activity": turns[-1].timestamp if turns else None,
             "context": context.to_dict() if context else None,
-            "estimated_tokens": sum(t.tokens_used or 0 for t in turns)
+            "estimated_tokens": sum(t.tokens_used or 0 for t in turns),
         }
 
-    def update_context(
-        self,
-        session_id: str,
-        **kwargs
-    ) -> None:
+    def update_context(self, session_id: str, **kwargs) -> None:
         """Update session context"""
         if session_id not in self.contexts:
             self.create_session(session_id)
@@ -239,7 +230,7 @@ class SessionMemory:
 
         # Trim by turn count
         if len(turns) > self.max_turns:
-            self.sessions[session_id] = turns[-self.max_turns:]
+            self.sessions[session_id] = turns[-self.max_turns :]
 
         # Trim by token count (if tokens are tracked)
         total_tokens = sum(t.tokens_used or 0 for t in turns)
@@ -258,9 +249,7 @@ class SessionMemory:
         return list(self.sessions.keys())
 
     def check_rate_limits(
-        self,
-        session_id: str,
-        user_input: str
+        self, session_id: str, user_input: str
     ) -> tuple[bool, Optional[str]]:
         """
         Check all rate limits for a request
@@ -276,39 +265,49 @@ class SessionMemory:
 
         # Check character limit per request
         if len(user_input) > self.max_chars_per_request:
-            msg = (f"Sie haben die maximale Anzahl an Zeichen pro "
-                   f"Anfrage erreicht ({self.max_chars_per_request} "
-                   f"Zeichen).")
+            msg = (
+                f"Sie haben die maximale Anzahl an Zeichen pro "
+                f"Anfrage erreicht ({self.max_chars_per_request} "
+                f"Zeichen)."
+            )
             return False, msg
 
         # Check character limit per session
         current_session_chars = context.total_chars + len(user_input)
         if current_session_chars > self.max_chars_per_session:
-            msg = (f"Sie haben die maximale Anzahl an Zeichen in "
-                   f"dieser Session erreicht ({self.max_chars_per_session} "
-                   f"Zeichen).")
+            msg = (
+                f"Sie haben die maximale Anzahl an Zeichen in "
+                f"dieser Session erreicht ({self.max_chars_per_session} "
+                f"Zeichen)."
+            )
             return False, msg
 
         # Check turn limit per session
         if context.total_turns >= self.max_turns_per_session:
-            msg = (f"Sie haben die maximale Anzahl an Anfragen für "
-                   f"diese Session erreicht ({self.max_turns_per_session} "
-                   f"Anfragen).")
+            msg = (
+                f"Sie haben die maximale Anzahl an Anfragen für "
+                f"diese Session erreicht ({self.max_turns_per_session} "
+                f"Anfragen)."
+            )
             return False, msg
 
         # Check rate limiting (requests per minute)
         current_time = datetime.datetime.now()
 
         # Remove timestamps older than the window
-        while (context.request_timestamps and
-               (current_time - context.request_timestamps[0]).total_seconds() >
-               self.rate_limit_window):
+        while (
+            context.request_timestamps
+            and (current_time - context.request_timestamps[0]).total_seconds()
+            > self.rate_limit_window
+        ):
             context.request_timestamps.pop(0)
 
         # Check if we're over the limit
         if len(context.request_timestamps) >= self.max_requests_per_minute:
-            return False, ("Zu viele Anfragen. Bitte warten Sie eine Minute, "
-                          "bevor Sie weitere Anfragen senden.")
+            return False, (
+                "Zu viele Anfragen. Bitte warten Sie eine Minute, "
+                "bevor Sie weitere Anfragen senden."
+            )
 
         return True, None
 
@@ -360,7 +359,8 @@ class SessionMemory:
             "session_duration_seconds": session_duration,
             "requests_in_last_minute": recent_requests,
             "max_requests_per_minute": self.max_requests_per_minute,
-            "rate_limit_percent": (recent_requests / self.max_requests_per_minute) * 100
+            "rate_limit_percent": (recent_requests / self.max_requests_per_minute)
+            * 100,
         }
 
 
@@ -373,7 +373,7 @@ session_memory = SessionMemory(
     max_chars_per_session=RATE_LIMIT_CONFIG["max_chars_per_session"],
     max_turns_per_session=RATE_LIMIT_CONFIG["max_turns_per_session"],
     max_requests_per_minute=RATE_LIMIT_CONFIG["max_requests_per_minute"],
-    rate_limit_window=RATE_LIMIT_CONFIG["rate_limit_window"]
+    rate_limit_window=RATE_LIMIT_CONFIG["rate_limit_window"],
 )
 
 

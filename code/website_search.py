@@ -20,5 +20,11 @@ def search_ub_website(query: str, max_results: int = 5) -> str:
         preview = result.select_one(".uma-search-result-preview-text")
         if title and link:
             preview_text = html.unescape(preview.text.strip()) if preview else ""
-            entries.append(f"- **[{title.text.strip()}](https://www.bib.uni-mannheim.de{link['href']})**\n  {preview_text[:200]}...")
-    return "\n\n".join(entries) if entries else "Keine passenden Ergebnisse auf der Website gefunden."
+            entries.append(
+                f"- **[{title.text.strip()}](https://www.bib.uni-mannheim.de{link['href']})**\n  {preview_text[:200]}..."
+            )
+    return (
+        "\n\n".join(entries)
+        if entries
+        else "Keine passenden Ergebnisse auf der Website gefunden."
+    )

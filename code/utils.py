@@ -12,6 +12,7 @@ def ensure_dir(dir) -> None:
     if not path.exists():
         path.mkdir(parents=True)
 
+
 def is_valid_json(json_string):
     """
     Check if json_string is valid JSON.
@@ -23,19 +24,21 @@ def is_valid_json(json_string):
         print(f"... Invalid JSON: {e}")
         return False
 
+
 def backup_dir_with_timestamp(dir_path):
     """
     If dir_path exists, copy it to dir_path_backup_YYYYmmdd.
     """
     path = Path(dir_path)
     if path.exists() and path.is_dir():
-        timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
         backup_dir = path.parent / "backups"
         if not backup_dir.exists():
             backup_dir.mkdir(exist_ok=True, parents=True)
         backup_path = backup_dir / f"{path.name}_backup_{timestamp}"
         shutil.copytree(path, backup_path)
         print(f"[bold cyan][BACKUP] {dir_path} -> {backup_path} ... Done.")
+
 
 def compute_file_hash(file_path):
     """
@@ -47,10 +50,8 @@ def compute_file_hash(file_path):
             hasher.update(chunk)
     return hasher.hexdigest()
 
-def write_hashes_for_directory(
-    directory,
-    hash_file="md_hashes.json"
-    ):
+
+def write_hashes_for_directory(directory, hash_file="md_hashes.json"):
     """
     Write hashes of all .md files to a JSON file in a "snapshot" folder
     of directory.
@@ -60,7 +61,7 @@ def write_hashes_for_directory(
         hash_dict[file.name] = compute_file_hash(file)
 
     # Create hash_subfolder
-    snapshot_dir =  Path(directory) / "snapshot"
+    snapshot_dir = Path(directory) / "snapshot"
     ensure_dir(snapshot_dir)
 
     # Write hash_snapshot json
@@ -70,10 +71,8 @@ def write_hashes_for_directory(
 
     print(f"[bold green]Hash snapshot written to {hash_path}")
 
-def load_hash_snapshot(
-    directory,
-    hash_file="md_hashes.json"
-    ) -> dict:
+
+def load_hash_snapshot(directory, hash_file="md_hashes.json") -> dict:
     """
     Load the hash snapshot from a JSON file in the given directory.
     Returns a dict of filename to hash, or an empty dict if not found.
@@ -84,9 +83,8 @@ def load_hash_snapshot(
             return json.load(f)
     return {}
 
-def get_current_hashes(
-    directory
-    ) -> dict:
+
+def get_current_hashes(directory) -> dict:
     """
     Return a dict of {filename: hash} for all .md files in the given directory.
     """
@@ -95,11 +93,10 @@ def get_current_hashes(
         hashes[file.name] = compute_file_hash(file)
     return hashes
 
+
 def get_new_or_modified_files_by_hash(
-    directory,
-    hash_file="md_hashes.json",
-    return_path_objects: bool = False
-    ) -> list[str] | list[Path]:
+    directory, hash_file="md_hashes.json", return_path_objects: bool = False
+) -> list[str] | list[Path]:
     """
     Detect new or modified .md files by comparing current file hashes with a
     previous snapshot.
@@ -124,6 +121,12 @@ def get_new_or_modified_files_by_hash(
     current_hashes = get_current_hashes(directory)
 
     if return_path_objects:
-        return [(Path(directory) / fname).resolve() for fname, h in current_hashes.items() if old_hashes.get(fname) != h]
+        return [
+            (Path(directory) / fname).resolve()
+            for fname, h in current_hashes.items()
+            if old_hashes.get(fname) != h
+        ]
     else:
-        return [fname for fname, h in current_hashes.items() if old_hashes.get(fname) != h]
+        return [
+            fname for fname, h in current_hashes.items() if old_hashes.get(fname) != h
+        ]

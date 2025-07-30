@@ -12,21 +12,19 @@ THANK_YOU_PHRASES = {
     "danke ihnen": "German",
     "herzlichen dank": "German",
     "besten dank": "German",
-    "tausend dank": "German",          # "A thousand thanks", very common and friendly
-    "danke vielmals": "German",        # "Thanks many times"
-    "ich danke dir": "German",         # "I thank you" (informal)
-    "ich danke ihnen": "German",       # "I thank you" (formal)
-    "danke im voraus": "German",       # "Thanks in advance"
-    "vielen lieben dank": "German",    # A warmer, more personal version of
-                                       # "vielen dank"
-    "danke für die antwort": "German", # "Thank you for the answer"
-    "danke für die hilfe": "German",   # "Thank you for the help"
-    "danke für die information": "German", # "Thank you for the information"
-    "danke für die unterstützung": "German", # "Thank you for the support"
-    "vielen lieben dank": "German", # "Thank you for the support"
-    "vielen lieben thanks": "German", # "Thank you for the support"
-
-
+    "tausend dank": "German",  # "A thousand thanks", very common and friendly
+    "danke vielmals": "German",  # "Thanks many times"
+    "ich danke dir": "German",  # "I thank you" (informal)
+    "ich danke ihnen": "German",  # "I thank you" (formal)
+    "danke im voraus": "German",  # "Thanks in advance"
+    "vielen lieben dank": "German",  # A warmer, more personal version of
+    # "vielen dank"
+    "danke für die antwort": "German",  # "Thank you for the answer"
+    "danke für die hilfe": "German",  # "Thank you for the help"
+    "danke für die information": "German",  # "Thank you for the information"
+    "danke für die unterstützung": "German",  # "Thank you for the support"
+    "vielen lieben dank": "German",  # "Thank you for the support"
+    "vielen lieben thanks": "German",  # "Thank you for the support"
     # English thank you phrases
     "thanks": "English",
     "thank you": "English",
@@ -37,9 +35,9 @@ THANK_YOU_PHRASES = {
     "thank you so much": "English",
     "many thanks": "English",
     "thanks again": "English",
-    "thx": "English",                  # Common abbreviation for "thanks"
-    "tysm": "English",                 # Common abbreviation for "thank you so much"
-    "cheers": "English",               # Very common, especially in UK/Australia
+    "thx": "English",  # Common abbreviation for "thanks"
+    "tysm": "English",  # Common abbreviation for "thank you so much"
+    "cheers": "English",  # Very common, especially in UK/Australia
     "i appreciate it": "English",
     "much appreciated": "English",
     "you're a lifesaver": "English",
@@ -52,11 +50,10 @@ GREETING_PHRASES = {
     "guten tag": "German",
     "guten morgen": "German",
     "guten abend": "German",
-    "servus": "German",                # Regional (Southern Germany/Austria)
-    "moin": "German",                  # Regional (Northern Germany)
-    "grüß gott": "German",             # Regional (Southern Germany/Austria)
-    "tag": "German",                   # Short for "guten Tag"
-
+    "servus": "German",  # Regional (Southern Germany/Austria)
+    "moin": "German",  # Regional (Northern Germany)
+    "grüß gott": "German",  # Regional (Southern Germany/Austria)
+    "tag": "German",  # Short for "guten Tag"
     # English greetings
     "hello": "English",
     "hi": "English",
@@ -64,7 +61,7 @@ GREETING_PHRASES = {
     "good morning": "English",
     "good afternoon": "English",
     "good evening": "English",
-    "howdy": "English",                # Regional (e.g., parts of the US)
+    "howdy": "English",  # Regional (e.g., parts of the US)
     "yo": "English",
 }
 
@@ -76,8 +73,7 @@ GOODBYE_PHRASES = {
     "bis dann": "German",
     "bis bald": "German",
     "mach's gut": "German",
-    "schönen tag noch": "German",      # "Have a nice day"
-
+    "schönen tag noch": "German",  # "Have a nice day"
     # English goodbyes
     "goodbye": "English",
     "bye": "English",
@@ -86,22 +82,21 @@ GOODBYE_PHRASES = {
     "see ya": "English",
     "take care": "English",
     "have a good one": "English",
-    "cheers": "English",               # Also used for goodbyes in the UK
+    "cheers": "English",  # Also used for goodbyes in the UK
 }
 
 APOLOGY_PHRASES = {
     # German apologies
-    "entschuldigung": "German",        # "Sorry" or "Excuse me"
-    "es tut mir leid": "German",       # "I'm sorry" (literally "It does me sorrow")
-    "tut mir leid": "German",          # Common short form
-    "verzeihung": "German",            # "Pardon" or "forgiveness"
-    "sorry": "German",                 # Very common loanword from English
-    "schere": "German",                # youth slang for "sorry"
-
+    "entschuldigung": "German",  # "Sorry" or "Excuse me"
+    "es tut mir leid": "German",  # "I'm sorry" (literally "It does me sorrow")
+    "tut mir leid": "German",  # Common short form
+    "verzeihung": "German",  # "Pardon" or "forgiveness"
+    "sorry": "German",  # Very common loanword from English
+    "schere": "German",  # youth slang for "sorry"
     # English apologies
     "my apologies": "English",
     "i apologize": "English",
-    "my bad": "English",               # Very informal
+    "my bad": "English",  # Very informal
     "excuse me": "English",
     "pardon me": "English",
 }
@@ -212,7 +207,7 @@ def detect_common_phrase(text: str) -> Optional[Tuple[str, str]]:
         return None
 
     # Convert to lowercase for case-insensitive matching
-    text = text.lower().strip('.!?').strip()
+    text = text.lower().strip(".!?").strip()
 
     result = detect_thank_you_phrase(text)
     if result:
