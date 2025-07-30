@@ -60,7 +60,7 @@
     min-height: 80vh;
     margin-top: -60px; /* Offset for header */
   }
-  
+
   /* Style the terms and conditions message - left align text */
   .step.py-2 {
     background: rgba(255, 255, 255, 0.95);
@@ -74,14 +74,14 @@
     text-align: left !important; /* Force left alignment */
     width: 100%;
   }
-  
+
   /* Style the terms content specifically */
   .step.py-2 .leading-7 {
     text-align: left !important;
     color: #374151 !important;
     line-height: 1.6;
   }
-  
+
   /* Consolidated terms and conditions button styling */
   .step.py-2 button[id] {
     padding: 0.75rem 2rem !important;
@@ -134,18 +134,18 @@
   }
 
 
-  
+
   /* Dark mode specific styling */
   .dark .step.py-2 {
     background: rgb(33 33 33 / 0%) !important;
     border: 1px solid rgba(255, 255, 255, 0.1) !important;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   }
-  
+
   .dark .step.py-2 .leading-7 {
     color: #e2e8f0 !important;
   }
-  
+
   /* Dark mode button styling */
   .dark .step.py-2 button[id] {
     background: #1f2937 !important;
@@ -153,56 +153,56 @@
   }
 
 
-  
+
   /* Style the header for dark mode */
   .dark #header {
     background: rgba(0, 0, 0, 0.95) !important;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   }
-  
+
   /* Style the footer for dark mode */
   .dark div[style*="position: fixed; bottom: 0px"] {
     color: #9ca3af !important;
   }
-  
+
   .dark div[style*="position: fixed; bottom: 0px"] a {
     color: #9ca3af !important;
   }
-  
+
   .dark div[style*="position: fixed; bottom: 0px"] a:hover {
     color: #d1d5db !important;
   }
-  
+
   /* Responsive design */
   @media (max-width: 768px) {
     .flex.flex-col.mx-auto.w-full.flex-grow.p-4 {
       padding: 1rem;
     }
-    
+
     .step.py-2 {
       margin: 1rem;
       padding: 1.5rem;
     }
-    
+
     .step.py-2 button[data-terms-handled="true"] {
       margin: 0.25rem;
       padding: 0.5rem 1rem !important;
       font-size: 0.875rem !important;
     }
   }
-  
+
   /* Ensure proper text alignment in all cases */
   .step.py-2 .prose,
   .step.py-2 .prose *,
   .step.py-2 [role="article"] {
     text-align: left !important;
   }
-  
+
   /* Fix any inherited centering */
   .step.py-2 .flex.flex-col {
     text-align: left !important;
   }
-  
+
   .step.py-2 .message-content {
     text-align: left !important;
   }
@@ -220,7 +220,7 @@
     position: relative;
     z-index: 1;
   }
-  
+
   /* Alternative: Logo as a separate element before the terms div */
   .terms-logo {
     display: block;
@@ -233,12 +233,12 @@
     position: relative;
     z-index: 1;
   }
-  
+
   /* Dark mode logo - only on first occurrence */
   .dark .step.py-2:first-of-type::before {
     background-image: url('/logo?theme=dark');
   }
-  
+
   .dark .terms-logo {
     background-image: url('/logo?theme=dark');
   }

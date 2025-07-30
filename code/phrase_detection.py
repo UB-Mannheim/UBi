@@ -5,7 +5,7 @@ from typing import Optional, Tuple
 THANK_YOU_PHRASES = {
     # German thank you phrases
     "danke": "German",
-    "vielen dank": "German", 
+    "vielen dank": "German",
     "dankeschön": "German",
     "danke schön": "German",
     "danke sehr": "German",
@@ -18,7 +18,7 @@ THANK_YOU_PHRASES = {
     "ich danke dir": "German",         # "I thank you" (informal)
     "ich danke ihnen": "German",       # "I thank you" (formal)
     "danke im voraus": "German",       # "Thanks in advance"
-    "vielen lieben dank": "German",    # A warmer, more personal version of 
+    "vielen lieben dank": "German",    # A warmer, more personal version of
                                        # "vielen dank"
     "danke für die antwort": "German", # "Thank you for the answer"
     "danke für die hilfe": "German",   # "Thank you for the help"
@@ -27,7 +27,7 @@ THANK_YOU_PHRASES = {
     "vielen lieben dank": "German", # "Thank you for the support"
     "vielen lieben thanks": "German", # "Thank you for the support"
 
-    
+
     # English thank you phrases
     "thanks": "English",
     "thank you": "English",
@@ -57,7 +57,7 @@ GREETING_PHRASES = {
     "moin": "German",                  # Regional (Northern Germany)
     "grüß gott": "German",             # Regional (Southern Germany/Austria)
     "tag": "German",                   # Short for "guten Tag"
-    
+
     # English greetings
     "hello": "English",
     "hi": "English",
@@ -78,7 +78,7 @@ GOODBYE_PHRASES = {
     "bis bald": "German",
     "mach's gut": "German",
     "schönen tag noch": "German",      # "Have a nice day"
-    
+
     # English goodbyes
     "goodbye": "English",
     "bye": "English",
@@ -111,12 +111,12 @@ APOLOGY_PHRASES = {
 def detect_thank_you_phrase(text: str) -> Optional[Tuple[str, str]]:
     """
     Detect if text contains a thank you phrase and return the response.
-    
+
     Args:
         text: Input text to check
-        
+
     Returns:
-        Tuple of (response, language) if thank you phrase detected, None 
+        Tuple of (response, language) if thank you phrase detected, None
         otherwise
     """
     # Check for exact matches first
@@ -126,19 +126,19 @@ def detect_thank_you_phrase(text: str) -> Optional[Tuple[str, str]]:
                 return ("Gern geschehen!", language)
             else:
                 return ("You are welcome!", language)
-    
+
     return None
 
 
 def detect_greeting_phrase(text: str) -> Optional[Tuple[str, str]]:
     """
     Detect if text contains a greeting phrase and return the response.
-    
+
     Args:
         text: Input text to check
-        
+
     Returns:
-        Tuple of (response, language) if greeting phrase detected, None 
+        Tuple of (response, language) if greeting phrase detected, None
         otherwise
     """
     # Check for exact matches first
@@ -148,19 +148,19 @@ def detect_greeting_phrase(text: str) -> Optional[Tuple[str, str]]:
                 return ("Hallo! Wie kann ich Ihnen helfen?", language)
             else:
                 return ("Hello! How can I help you?", language)
-    
+
     return None
 
 
 def detect_goodbye_phrase(text: str) -> Optional[Tuple[str, str]]:
     """
     Detect if text contains a goodbye phrase and return the response.
-    
+
     Args:
         text: Input text to check
-        
+
     Returns:
-        Tuple of (response, language) if goodbye phrase detected, None 
+        Tuple of (response, language) if goodbye phrase detected, None
         otherwise
     """
     # Check for exact matches first
@@ -170,19 +170,19 @@ def detect_goodbye_phrase(text: str) -> Optional[Tuple[str, str]]:
                 return ("Auf Wiedersehen! Schönen Tag noch!", language)
             else:
                 return ("Goodbye! Have a great day!", language)
-    
+
     return None
 
 
 def detect_apology_phrase(text: str) -> Optional[Tuple[str, str]]:
     """
     Detect if text contains an apology phrase and return the response.
-    
+
     Args:
         text: Input text to check
-        
+
     Returns:
-        Tuple of (response, language) if apology phrase detected, None 
+        Tuple of (response, language) if apology phrase detected, None
         otherwise
     """
     # Check for exact matches first
@@ -192,7 +192,7 @@ def detect_apology_phrase(text: str) -> Optional[Tuple[str, str]]:
                 return ("Kein Problem! Wie kann ich Ihnen helfen?", language)
             else:
                 return ("No problem! How can I help you?", language)
-    
+
     return None
 
 
@@ -200,48 +200,48 @@ def detect_common_phrase(text: str) -> Optional[Tuple[str, str]]:
     """
     Detect if text contains any common phrase and return the response.
     Priority: Thank you > Greeting > Goodbye > Apology
-    
+
     Args:
         text: Input text to check
-        
+
     Returns:
-        Tuple of (response, language) if common phrase detected, None 
+        Tuple of (response, language) if common phrase detected, None
         otherwise
     """
     # Check in order of priority
     if not text or not text.strip():
         return None
-    
+
     # Convert to lowercase for case-insensitive matching
     text = text.lower().strip('.!?').strip()
 
     result = detect_thank_you_phrase(text)
     if result:
         return result
-    
+
     result = detect_greeting_phrase(text)
     if result:
         return result
-    
+
     result = detect_goodbye_phrase(text)
     if result:
         return result
-    
+
     result = detect_apology_phrase(text)
     if result:
         return result
-    
+
     return None
 
 
 def is_thank_you_message(text: str) -> bool:
     """
     Check if the text is a thank you message.
-    
+
     Args:
         text: Input text to check
-        
+
     Returns:
         True if text contains a thank you phrase, False otherwise
     """
-    return detect_thank_you_phrase(text) is not None 
+    return detect_thank_you_phrase(text) is not None

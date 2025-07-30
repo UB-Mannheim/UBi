@@ -22,29 +22,29 @@ html, body {
 :root {
     --primary: 209 100% 18% !important;
     --primary-foreground: 0 0% 100% !important;
-    
+
     --background: 0 0% 100%;
     --foreground: 209 100% 18%;
-    
+
     --card: 0 0% 100%;
     --card-foreground: 209 100% 18%;
-    
+
     --secondary: 0 0% 100%;
     --secondary-foreground: 209 100% 18%;
-    
+
     --muted: 0 0% 100%;
     --muted-foreground: 209 100% 18%;
-    
+
     --accent: 0 0% 100%;
     --accent-foreground: 209 100% 18%;
-    
+
     --destructive: 0 20% 60%;
     --destructive-foreground: 0 0% 100%;
-    
+
     --border: 209 100% 90%;
     --input: 209 100% 90%;
     --ring: 209 100% 18% !important;
-    
+
     --sidebar-background: 0 0% 100%;
     --sidebar-foreground: 209 100% 18%;
     --sidebar-border: 209 100% 90%;
@@ -64,18 +64,18 @@ html, body {
     --card-foreground: 210 40% 98%;
     --popover: 0 0% 18%;
     --popover-foreground: 210 40% 98%;
-    
+
     --secondary: 0 0% 19%;
     --secondary-foreground: 210 40% 98%;
     --muted: 0 1% 26%;
     --muted-foreground: 0 0% 71%;
-    
+
     --accent: 0 0% 26%;
     --accent-foreground: 210 40% 98%;
-    
+
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 210 40% 98%;
-    
+
     --border: 0 1% 26%;
     --input: 0 1% 26%;
     --ring: 241 12% 100% !important;
@@ -85,7 +85,7 @@ html, body {
     --chart-3: 30 80% 55%;
     --chart-4: 280 65% 60%;
     --chart-5: 241 12% 52% !important;
-    
+
     --sidebar-background: 0 0% 9%;
     --sidebar-foreground: 240 4.8% 95.9%;
     --sidebar-primary: 224.3 76.3% 48%;

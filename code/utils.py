@@ -9,7 +9,7 @@ def ensure_dir(dir) -> None:
     path = Path(dir)
     if not path.exists():
         path.mkdir(parents=True)
-        
+
 def is_valid_json(json_string):
     """
     Check if json_string is valid JSON.
@@ -34,7 +34,7 @@ def backup_dir_with_timestamp(dir_path):
         backup_path = backup_dir / f"{path.name}_backup_{timestamp}"
         shutil.copytree(path, backup_path)
         print(f"[bold cyan][BACKUP] {dir_path} -> {backup_path} ... Done.")
-        
+
 def compute_file_hash(file_path):
     """
     Compute SHA256 hash of a file.
@@ -56,18 +56,18 @@ def write_hashes_for_directory(
     hash_dict = {}
     for file in Path(directory).glob("*.md"):
         hash_dict[file.name] = compute_file_hash(file)
-    
+
     # Create hash_subfolder
     snapshot_dir =  Path(directory) / "snapshot"
     ensure_dir(snapshot_dir)
-    
+
     # Write hash_snapshot json
     hash_path = snapshot_dir / hash_file
     with open(hash_path, "w") as f:
         json.dump(hash_dict, f, indent=2)
-        
+
     print(f"[bold green]Hash snapshot written to {hash_path}")
-    
+
 def load_hash_snapshot(
     directory,
     hash_file="md_hashes.json"

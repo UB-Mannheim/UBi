@@ -4,7 +4,7 @@
 
 ## 🚀 Features
 
-- [x] 🔎 **RAG Pipeline** – Retrieval-Augmented Generation using markdown sources scraped from the library website 
+- [x] 🔎 **RAG Pipeline** – Retrieval-Augmented Generation using markdown sources scraped from the library website
 - [x] 📚 **Document Loader** – Loads and chunks library documents in markdown enriched with metadata
 - [x] 💬 **LLM Integration** – Uses OpenAI models
 - [x] 🧠 **Embeddings** – Uses OpenAI embedding models

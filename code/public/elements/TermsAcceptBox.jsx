@@ -33,7 +33,7 @@ export default function TermsAcceptBox() {
           >
             Nutzungsbedingungen
           </button>{' '}
-          für den KI-Chatbot der UB Mannheim einzuhalten. 
+          für den KI-Chatbot der UB Mannheim einzuhalten.
           Insbesondere werde ich keine personenbezogenen Daten über mich oder andere Personen in den Chat eingeben.
         </label>
       </div>
@@ -48,4 +48,4 @@ export default function TermsAcceptBox() {
       </Button>
     </div>
   );
-} 
+}

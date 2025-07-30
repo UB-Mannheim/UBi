@@ -34,24 +34,24 @@ function loadTermsCSS() {
         link.type = 'text/css';
         link.href = './public/css/terms.css';
         link.id = 'terms-css';
-        
+
         // Check if the CSS is already loaded
         if (!document.getElementById('terms-css')) {
             document.head.appendChild(link);
         }
-    } 
+    }
 }
 
 // Listen for accept_terms_button action clicks
 document.addEventListener('DOMContentLoaded', function() {
     // Load terms CSS if cookie is not accepted
-    loadTermsCSS();   
+    loadTermsCSS();
     // Monitor for action button clicks
     const observer = new MutationObserver(function(mutations) {
         mutations.forEach(function(mutation) {
             if (mutation.type === 'childList') {
                 mutation.addedNodes.forEach(function(node) {
-                    if (node.nodeType === Node.ELEMENT_NODE) {  
+                    if (node.nodeType === Node.ELEMENT_NODE) {
                         // Looks for the accept terms button
                         const acceptBtn = document.getElementById('accept_terms_btn');
                         if (acceptBtn && !acceptBtn.hasAttribute('data-terms-handled')) {
@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
-    
+
     // Start observing
     observer.observe(document.body, {
         childList: true,
@@ -101,7 +101,7 @@ monitorAndHideDiv();
 window.setTermsCookie = setTermsCookie;
 window.checkTermsAccepted = checkTermsAccepted;
 window.setCookieConfig = setCookieConfig;
-window.loadTermsCSS = loadTermsCSS; 
+window.loadTermsCSS = loadTermsCSS;
 
 // Imprint and Data Protection Declaration
 let footer; // Move footer to higher scope

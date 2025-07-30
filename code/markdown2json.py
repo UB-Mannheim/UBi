@@ -78,4 +78,3 @@ if __name__ == "__main__":
     input_dir = "../data/markdown"
     output_dir = "../data/json"
     process_all_markdown_files(input_dir, output_dir)
-

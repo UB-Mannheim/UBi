@@ -164,7 +164,7 @@ Output: {{
 }}"""
 
 # === Prompts for Data Processing ===
-PROMPT_POST_PROCESSING = """You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG). 
+PROMPT_POST_PROCESSING = """You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG).
 Perform the following tasks on the provided documents that are sourced from the website of the Universitätsbibliothek Mannheim:
 1. Refine the markdown document by following these guidelines:
    - Clean the structure, improve headings, embed links and email adresses.

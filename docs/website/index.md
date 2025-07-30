@@ -9,7 +9,7 @@
 * Postprocessing with LLM
 * Further postprocessing
   * remove publications from personal pages
-  * adding job positions to the titles of pages of persons 
+  * adding job positions to the titles of pages of persons
 
 ## Related work
 
@@ -19,6 +19,6 @@
 2. Kingbot (Chatbot at San José Public Library) https://libapps.sjsu.edu/kingbot/
    1. Kingbot Policy: https://www.sjlibrary.org/policy/chatbot-policy
    2. Rodriguez, Sharesly, Nick Szydlowski, and Jessie Cai. "Library-Led AI: Building a Library Chatbot as
-Service and Strategy" https://www.ala.org/sites/default/files/2025-03/Library-LedAI.pdf 
+Service and Strategy" https://www.ala.org/sites/default/files/2025-03/Library-LedAI.pdf
 3. BibKI (Chatbot at KIT UB) https://chatbot.bibliothek.kit.edu/
    1. Dierolf, Uwe, Kurze, Tobias, Polgart, Frank, Skarupianski, Michael and Breyer, Bernadette. "Der KI-Chatbot „BibKI“ der KIT-Bibliothek" Information – Wissenschaft & Praxis, vol. 76, no. 2-3, 2025, pp. 95-103. https://doi.org/10.1515/iwp-2025-2002

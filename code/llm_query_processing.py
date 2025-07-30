@@ -15,13 +15,13 @@ async def route_and_augment_query(
     debug: bool = False
 ) -> tuple[str, str, str]:
     """
-    Function to route, detect the language and augment a user's query. 
+    Function to route, detect the language and augment a user's query.
     There are 3 possible routes: 'news', 'sitzplatz', or 'message'.
     The function returns a tuple: (language, route, augmented_query).
-    Handles malformed/missing JSON keys, partial fallbacks, and better 
+    Handles malformed/missing JSON keys, partial fallbacks, and better
     error/debug output.
-    
-    If parsing fails the function will fallback to: 
+
+    If parsing fails the function will fallback to:
         ("German", "message", user_input)
     """
     if not client:
@@ -36,17 +36,17 @@ async def route_and_augment_query(
             ],
             temperature=0
         )
-        
+
         if response.choices and response.choices[0].message.content:
             json_str = response.choices[0].message.content.strip()
             try:
                 # Remove any trailing Markdown code block markers (```json and ```)
                 json_str = re.sub(r"```json\\s*", '', json_str, flags=re.IGNORECASE)
                 json_str = re.sub(r"```\\s*", '', json_str)
-                
+
                 # Repair other json errors
                 json_str = json_repair.repair_json(json_str)
-            
+
                 # Check if a valid json is now available
                 if is_valid_json(json_str):
                     json_data = json.loads(json_str)

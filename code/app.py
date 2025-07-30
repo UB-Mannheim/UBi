@@ -49,7 +49,7 @@ except Exception as e:
 
 # === Authentication (optional) ===
 users = [
-    cl.User(identifier="1", display_name="Admin", 
+    cl.User(identifier="1", display_name="Admin",
             metadata={"username": "admin", "password": "admin"})
 ]
 
@@ -63,15 +63,15 @@ def get_data_layer():
 async def set_starters(user=None):
     return [
         cl.Starter(
-            label="Öffnungszeiten", 
+            label="Öffnungszeiten",
             message="Welche Bibliotheksbereiche der UB Mannheim haben jetzt geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite."
             ),
         cl.Starter(
-            label="Sitzplätze", 
+            label="Sitzplätze",
             message="Gibt es aktuell freie Sitzplätze in der Bibliothek?"
             ),
         cl.Starter(
-            label="Services", 
+            label="Services",
             message="Liste alle Dienstleistungen und Services der UB Mannheim für Studierende und Forschende auf."
             ),
         cl.Starter(
@@ -95,18 +95,18 @@ def get_instructions(language="German"):
 async def on_chat_start():
     session_id = cl.user_session.get("id") or "unknown"
     cl.user_session.set("session_id", session_id)
-    
+
     # Check if terms are accepted
     terms_accepted = check_terms_accepted()
-    
+
     if not terms_accepted:
         await ask_terms_acceptance()
         # Don't proceed until terms are accepted
         return
-    
+
     # Clear any existing session memory for this user
     session_memory.clear_session(session_id)
-    
+
     # If using RAG, load the chain
     if not USE_OPENAI_VECTORSTORE:
         rag_chain = await create_rag_chain(debug=DEBUG)
@@ -125,7 +125,7 @@ async def on_message(message: cl.Message):
     if not terms_accepted:
         await ask_terms_acceptance()
         return
-    
+
     # Check rate limits
     allowed, error_message = session_memory.check_rate_limits(
         session_id, user_input
@@ -135,21 +135,21 @@ async def on_message(message: cl.Message):
             content=error_message or "Rate limit exceeded",
             author="assistant").send()
         return
-    
+
     # Record the request if it passes all checks
     session_memory.record_request(session_id, user_input)
-    
+
     # Handle some user_inputs first: Session stats
     if user_input.lower() == "session stats":
         stats_message = get_session_usage_message(session_id)
         await cl.Message(content=stats_message, author="assistant").send()
-        
+
         # Check for warnings
         warning = check_session_warnings(session_id)
         if warning:
             await cl.Message(content=warning, author="assistant").send()
         return
-    
+
     # Handle some user_inputs first: Catch common phrases
     phrase_result = detect_common_phrase(user_input)
     if phrase_result:
@@ -161,7 +161,7 @@ async def on_message(message: cl.Message):
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
         await save_interaction(session_id, user_input, response)
         return
-    
+
     # LLM routing, language detection, prompt augmentation
     detected_language, route, augmented_input = await route_and_augment_query(
         client if USE_OPENAI_VECTORSTORE else None,
@@ -192,15 +192,15 @@ async def on_message(message: cl.Message):
         try:
             data = get_occupancy_data()
             areas = data["areas"]
-            
+
             # Plot title and labels
             heading = translate("seats_last_updated", detected_language)
             response = f"{heading}: {data['lastupdated']}"
             plot_label = translate("library_capacity", detected_language)
-            
+
             # Generate the plot
             fig = make_plotly_figure(areas, detected_language)
-            
+
             await cl.Message(
                 content=response,
                 elements=[
@@ -208,7 +208,7 @@ async def on_message(message: cl.Message):
                 ],
                 author="assistant"
             ).send()
-            
+
             # Add to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
             session_memory.add_turn(session_id, MessageRole.ASSISTANT, response+f" Data:{data}")
@@ -216,7 +216,7 @@ async def on_message(message: cl.Message):
         except Exception as e:
             error_response = f"{translate('seats_error', detected_language)}: {str(e)}"
             await cl.Message(content=error_response, author="assistant").send()
-            
+
             # Add to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
             session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
@@ -241,7 +241,7 @@ async def on_message(message: cl.Message):
         await msg.send()
         await msg.stream_token(" ")
         full_answer = ""
-        
+
         try:
             stream = await client.responses.create(
                 model="gpt-4o-mini-2024-07-18",
@@ -269,17 +269,17 @@ async def on_message(message: cl.Message):
             session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
             await save_interaction(session_id, user_input, error_response, augmented_input)
             return
-        
+
         if full_answer:
             await msg.update()
         else:
             error_response = f"{translate('response_error', detected_language)}"
             await cl.Message(content=error_response).send()
-        
+
         # Save interaction
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_answer)
         await save_interaction(session_id, user_input, full_answer, augmented_input)
-    
+
     # === Local RAG Logic ===
     else:
         rag_chain = cl.user_session.get("rag_chain")

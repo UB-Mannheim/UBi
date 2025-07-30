@@ -37,7 +37,7 @@ class CustomDataLayer(BaseDataLayer):
     async def upsert_feedback(self, feedback: Feedback) -> str:
         feedback_id = feedback.id or str(uuid.uuid4())
         step_id = getattr(feedback, "forId", None) or getattr(feedback, "step_id", None)
-        
+
         # Extract step data with defaults
         step = self.steps.get(step_id, {}) if step_id else {}
         question = step.get("input", "unknown")
@@ -52,7 +52,7 @@ class CustomDataLayer(BaseDataLayer):
             "value": float(getattr(feedback, "value", 0)),
             "comment": getattr(feedback, "comment", ""),
         }
-        
+
         await save_interaction(
             session_id=session_id,
             question=question,
@@ -88,7 +88,7 @@ class CustomDataLayer(BaseDataLayer):
         if "metadata" not in step_dict:
             step_dict["metadata"] = {}
         step_dict["metadata"]["session_id"] = self._get_session_id()
-        
+
         self.steps[step_dict["id"]] = step_dict
 
     async def update_step(self, step_dict: StepDict) -> None:

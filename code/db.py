@@ -12,7 +12,7 @@ async def _ensure_table_exists(db):
     global _table_created
     if _table_created:
         return
-        
+
     await db.execute(
         """CREATE TABLE IF NOT EXISTS chat_interactions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -24,17 +24,17 @@ async def _ensure_table_exists(db):
             feedback TEXT
         )"""
     )
-    
+
     # Create indexes for better performance
     await db.execute(
-        """CREATE INDEX IF NOT EXISTS idx_session_question 
+        """CREATE INDEX IF NOT EXISTS idx_session_question
            ON chat_interactions(session_id, question)"""
     )
     await db.execute(
-        """CREATE INDEX IF NOT EXISTS idx_timestamp 
+        """CREATE INDEX IF NOT EXISTS idx_timestamp
            ON chat_interactions(timestamp)"""
     )
-    
+
     _table_created = True
 
 
@@ -47,33 +47,33 @@ async def save_interaction(
     ):
     """
     Saves a chat interaction to the database.
-    
+
     If feedback is provided, it updates the most recent interaction
     for the given session_id and question.
     Otherwise, it inserts a new interaction record.
     """
     timestamp = datetime.datetime.now(datetime.timezone.utc).isoformat()
-    
+
     async with aiosqlite.connect(DB_PATH) as db:
         await _ensure_table_exists(db)
 
         if feedback:
             # Try to update the most recent interaction for this session/question
             result = await db.execute(
-                """UPDATE chat_interactions 
-                   SET feedback = ? 
+                """UPDATE chat_interactions
+                   SET feedback = ?
                    WHERE id = (
-                       SELECT MAX(id) 
-                       FROM chat_interactions 
+                       SELECT MAX(id)
+                       FROM chat_interactions
                        WHERE session_id = ? AND question = ?
                    )""",
                 (feedback, session_id, question),
             )
-            
+
             # If no rows were updated, insert a new record
             if result.rowcount == 0:
                 await db.execute(
-                    """INSERT INTO chat_interactions 
+                    """INSERT INTO chat_interactions
                        (session_id, question, augmented_question, answer, timestamp, feedback)
                        VALUES (?, ?, ?, ?, ?, ?)""",
                     (session_id, question, augmented_question, answer, timestamp, feedback),
@@ -81,7 +81,7 @@ async def save_interaction(
         else:
             # Insert new interaction record
             await db.execute(
-                """INSERT INTO chat_interactions 
+                """INSERT INTO chat_interactions
                    (session_id, question, augmented_question, answer, timestamp, feedback)
                    VALUES (?, ?, ?, ?, ?, ?)""",
                 (session_id, question, augmented_question, answer, timestamp, None),

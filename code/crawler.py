@@ -18,13 +18,13 @@ from markdown_processing import write_markdown
 # === Crawler Funtions ===
 async def crawl_urls(
     sitemap_url: str,
-    filters: list[str], 
-    url_filename: str = str(URLS_TO_CRAWL), 
+    filters: list[str],
+    url_filename: str = str(URLS_TO_CRAWL),
     save_to_disk: bool = True
     ) -> list[str] | None:
     """
     Fetches and filters URLs from an XML sitemap asynchronously.
-    """ 
+    """
     try:
         # Fetch the XML content from the URL asynchronously
         async with aiohttp.ClientSession() as session:
@@ -39,11 +39,11 @@ async def crawl_urls(
         # Find the loc tag and get its text
         urls = root.findall('.//ns:loc', namespace)
         urls_clean = [url.text for url in urls]
-        
+
         # Clean and filter urls
         clean_urls = list(set([url for url in urls_clean if url and url.startswith('http')]))
         clean_urls = sorted([url for url in clean_urls if not any(filter in url for filter in filters)])
-        
+
         if save_to_disk:
             utils.ensure_dir(Path(url_filename).parent)
             with open(url_filename, 'w', encoding='utf-8') as file:
@@ -119,7 +119,7 @@ def parse_table(table_element):
     Parse <tbody> to markdown
     """
     markdown_table = ''
-        
+
     rows = table_element.find_all('tr')
     for row in rows:
         cells = row.find_all(['th', 'td'])
@@ -152,18 +152,18 @@ def find_specified_tags(
         """
         a_tags = element.find_all('a') if isinstance(element, Tag) else []
         element_text_md = element.get_text() if isinstance(element, Tag) else str(element)
-        
+
         for a_tag in a_tags:
             href = a_tag.get('href') if isinstance(a_tag, Tag) else None
             if not (isinstance(href, str) and href):
                 continue
             href_text = a_tag.get_text() if isinstance(a_tag, Tag) else str(a_tag)
-            
+
             # Match absolute URLs
             if href.startswith('http'):
                 href_md = f"{href_text} ({href})"
                 element_text_md = element_text_md.replace(href_text, href_md)
-                
+
             # Match relative URLs
             elif href.startswith('/'):
                 if url.startswith('https://www.uni'):
@@ -213,28 +213,28 @@ def find_specified_tags(
     for element in tag.find_all(True, recursive=True):
         if not isinstance(element, Tag):
             continue
-        
+
         tag_match = element.name in tag_list
         class_attr = element.get('class') or []
         class_attr = [str(cls) for cls in class_attr]
         class_match = any(cls in class_list for cls in class_attr)
-        
+
         if not (tag_match or class_match):
             continue
-        
+
         if has_excluded_parent(element):
             continue
-        
+
         element_text = element.get_text(strip=True)
-        
+
         # H1
         if element.name == 'h1':
             matched_tags.append(f'# {element_text} ({url})')
-        
+
         # H2, H3
         elif element.name in ['h2', 'h3']:
             matched_tags.append(f'## {element_text}')
-            
+
         # H4
         elif element.name == 'h4':
             profile_link = element.find('a', href=True)
@@ -243,7 +243,7 @@ def find_specified_tags(
                 matched_tags.append(f"### {element_text} ({urljoin(url, str(href))})")
             else:
                 matched_tags.append(f'### {element_text}')
-                
+
         # H5
         elif element.name == 'h5':
             teaser_link = element.find('a', href=True)
@@ -252,11 +252,11 @@ def find_specified_tags(
                 matched_tags.append(f"### {element_text} ({urljoin(url, str(href))})")
             else:
                 matched_tags.append(f'### {element_text}')
-                
+
         # H6
         elif element.name == 'h6':
             matched_tags.append(f'### {element_text}')
-            
+
         # <p>, <b>
         elif element.name in ['p', 'b'] and not any(isinstance(parent, Tag) and parent.name == 'td' for parent in getattr(element, 'parents', [])):
             parent_classes = []
@@ -281,11 +281,11 @@ def find_specified_tags(
                         matched_tags.append(text)
                 else:
                     matched_tags.append(text)
-                    
+
         # class: teaser-link
         elif 'teaser-link' in class_attr:
             matched_tags.append(parse_a_href(element))
-        
+
         # class: accordion-content
         elif 'accordion-content' in class_attr:
             # Find the first <ul> inside this element (even if it has a class)
@@ -301,7 +301,7 @@ def find_specified_tags(
             else:
                 # fallback: just get the text
                 matched_tags.append(element.get_text(strip=True))
-        
+
         # <ul>
         elif element.name == 'ul' and not element.has_attr('class'):
             li_elements = element.find_all('li', recursive=False) if isinstance(element, Tag) else []
@@ -314,11 +314,11 @@ def find_specified_tags(
                 else:
                     li_elements_clean.append(f'* {li.get_text(strip=True)}')
             matched_tags.append('\n' + '\n'.join(li_elements_clean) + '\n')
-            
+
         # <tbody>
         elif element.name == 'tbody':
             matched_tags.append(parse_table(element))
-            
+
         # class: icon
         elif 'icon' in class_attr:
             footer_phrases = [
@@ -331,7 +331,7 @@ def find_specified_tags(
             if any(phrase in icon_text for phrase in footer_phrases):
                 continue
             matched_tags.append(f"* {parse_a_href(element)}")
-            
+
         # Address block
         elif 'uma-address-position' in class_attr:
             matched_tags.append(element_text)
@@ -351,7 +351,7 @@ def find_specified_tags(
             orcid_href = orcid_tag.get('href') if (orcid_tag and isinstance(orcid_tag, Tag) and isinstance(orcid_tag.get('href'), str)) else None
             if orcid and orcid_href:
                 matched_tags.append(f'* ORCID-ID: {orcid} ({orcid_href})')
-                
+
         # class: button
         elif 'button' in class_attr:
             href_val = element.get('href')
@@ -388,37 +388,37 @@ def process_urls(
     # Backup output_dir if it exists
     if output_dir:
         utils.backup_dir_with_timestamp(output_dir)
-        
+
     changed_files = []
-    for url in tqdm(urls, desc=f"Crawling URLs"): 
+    for url in tqdm(urls, desc=f"Crawling URLs"):
         response = requests.get(url)
         content_single_page = []
-        
+
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
-            
+
             # List of tag names to match
             tags_to_find = [
                 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
                 'p', 'b', 'a', 'ul', 'tbody', 'table', 'strong'
             ]
-            
+
             # List of class names to match
             classes_to_find = [
                 'uma-address-position', 'uma-address-details',
                 'uma-address-contact', 'button', 'icon',
                 'teaser-link', 'contenttable', 'accordion-content'
             ]
-            
+
             # List of tags to ignore
             tags_to_exclude = ['div']
-            
+
             # List of classes to ignore
             classes_to_exclude = [
-                'news', 'hide-for-large', 'gallery-slider-item', 
+                'news', 'hide-for-large', 'gallery-slider-item',
                 'gallery-full-screen-slider-text-item'
             ]
-            
+
             # Parse <div class="language-selector"> to get English URL
             div_language_selector = soup.find(
                 'div',
@@ -433,19 +433,19 @@ def process_urls(
             if page_content is None:
                 print(f"[bold]Error: page_content not found! Skipping {url} ...")
                 continue
-            
+
             page_content_tags = find_specified_tags(
-                tag=page_content, 
-                tag_list=tags_to_find, 
+                tag=page_content,
+                tag_list=tags_to_find,
                 tags_to_exclude=tags_to_exclude,
                 class_list=classes_to_find,
                 classes_to_exclude=classes_to_exclude,
                 url=url
             ) if isinstance(page_content, Tag) else []
-            
+
             # Add page content to list
             content_single_page.extend(page_content_tags)
-            
+
             # Save markdown file only if changed/new
             written_file = write_markdown(url, content_single_page, output_dir)
             if written_file:

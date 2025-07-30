@@ -13,7 +13,7 @@ from config import ENV_PATH, DATA_DIR
 def create_openAI_vectorstore():
     """
     Create an OpenAI vectorstore and write its ID to .env.
-    """    
+    """
     client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
     # Create vectorstore
@@ -179,11 +179,11 @@ async def async_upload_files_to_vectorstore(
     Async upload new or updated files to vectorstore, with progress bar.
     """
     pbar_up = tqdm(total=len(md_files), desc="Uploading files", leave=False)
-    async def upload_file(md_file):      
+    async def upload_file(md_file):
         filename = md_file.name
         if filename in vectorstore_filenames:
             vectorstore_file_id = vectorstore_filenames[filename]["file_id"]
-            
+
             # Delete the file that gets replaced in the vectorstore first
             try:
                 # Unlink file from vectorstore
@@ -254,7 +254,7 @@ async def async_sync_files_with_vectorstore(
     Async upload markdown files to an existing OpenAI vectorstore.
     Also, delete files from the vectorstore that are not in files_to_upload.
     """
-    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))    
+    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
     md_files = [Path(f"{upload_dir}/{file}") for file in files_to_upload]
 
     # Only fetch vectorstore files if not provided (empty dict)
@@ -267,13 +267,13 @@ async def async_sync_files_with_vectorstore(
 
     # Get all local markdowns in upload_dir
     all_local_files_set = set([f.name for f in upload_dir.glob('*.md')])
-    
+
     # Create a set of unique filenames currently in the vectorstore
     vectorstore_filenames_set = set(vectorstore_filenames.keys())
-    
+
     # Delete files in vectorstore if they are not present in local files anymore
     files_to_delete = vectorstore_filenames_set - all_local_files_set
-    
+
     if files_to_delete:
         await async_delete_files_from_vectorstore(
             client,
@@ -291,7 +291,7 @@ async def async_sync_files_with_vectorstore(
         md_files
         )
     print(f"✅ Finished.")
-    
+
 async def check_and_reupload_if_attributes_empty(
     client: OpenAI,
     vectorstore_id: str,

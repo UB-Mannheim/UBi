@@ -31,4 +31,4 @@ def check_terms_accepted():
         terms_accepted = f"{cookie_name}=true" in cookie_header
     else:
         terms_accepted = False
-    return terms_accepted 
+    return terms_accepted
