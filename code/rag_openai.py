@@ -261,7 +261,7 @@ async def async_sync_files_with_vectorstore(
 
     # Only fetch vectorstore files if not provided (empty dict)
     if not vectorstore_filenames:
-        print(f"[bold]Retrieving filenames from vectorstore ...")
+        print("[bold]Retrieving filenames from vectorstore ...")
         vectorstore_filenames = await get_vectorstore_fileids_and_metadata(
             client,
             vectorstore_id
@@ -292,7 +292,7 @@ async def async_sync_files_with_vectorstore(
         vectorstore_filenames,
         md_files
         )
-    print(f"✅ Finished.")
+    print("✅ Finished.")
 
 async def check_and_reupload_if_attributes_empty(
     client: OpenAI,
@@ -389,7 +389,7 @@ def initialize_vectorstore():
             vectorstore_filenames = {}
         else:
             print(f"[bold]Using OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}")
-            print(f"[bold]Syncing local files to vectorstore ...")
+            print("[bold]Syncing local files to vectorstore ...")
 
             client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 

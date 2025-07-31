@@ -55,7 +55,7 @@ async def route_and_augment_query(
                     category = json_data.get('category', 'message')
                     augmented_query = json_data.get('augmented_query', user_input)
                     if debug:
-                        print(f"🚦 [bold]LLM Router classified and augmented query:")
+                        print("🚦 [bold]LLM Router classified and augmented query:")
                         print(f"   - Query: {user_input}")
                         print(f"   - Detected Language: {language}")
                         print(f"   - Detected Route Category: {category}")
@@ -63,7 +63,7 @@ async def route_and_augment_query(
                     return language, category, augmented_query
                 else:
                     if debug:
-                        print(f"⚠️  LLM response is not valid JSON. Returning fallback.")
+                        print("⚠️  LLM response is not valid JSON. Returning fallback.")
             except Exception as e:
                 if debug:
                     print(f"⚠️  Warning: Could not parse response json: {e}")

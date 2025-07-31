@@ -323,7 +323,7 @@ def process_standorte(
         return
 
     if verbose:
-        print(f"[bold][Processing Standorte Contacts]")
+        print("[bold][Processing Standorte Contacts]")
 
     # Group files by their base name (e.g., "bb-a3", "bb-a5" ...)
     file_groups = {}
@@ -429,7 +429,7 @@ def process_direktion(data_path: Path, verbose: bool = False):
     # Find "direktion" markdown
     direktion_md = list(data_path.glob("*direktion.md"))
     if not direktion_md:
-        print(f"[bold ]No '*direktion.md' for processing.")
+        print("[bold ]No '*direktion.md' for processing.")
         return
 
     try:
@@ -456,7 +456,7 @@ def process_direktion(data_path: Path, verbose: bool = False):
         # Write augmented file
         direktion_md[0].write_text(md_data, encoding='utf-8')
 
-        print(f"[bold green]Done. Augmented 'Direktion' markdown page.")
+        print("[bold green]Done. Augmented 'Direktion' markdown page.")
 
     except Exception as e:
         print(f"[bold red]Error processing Direktionen files: {e}")
@@ -485,7 +485,7 @@ def process_semesterapparat(data_path: Path, verbose: bool = False):
     antrag_file = antrag_files[0]
 
     if verbose:
-        print(f"[bold][Processing Semesterapparat Application]")
+        print("[bold][Processing Semesterapparat Application]")
         print(f"[bold]Parent file: {parent_file.name}")
         print(f"[bold]Application file: {antrag_file.name}")
 
@@ -529,7 +529,7 @@ def process_semesterapparat(data_path: Path, verbose: bool = False):
             # Remove the application file after successful merge
             safe_remove_file(antrag_file)
 
-            print(f"[bold green]Done. Processed semesterapparat application file.")
+            print("[bold green]Done. Processed semesterapparat application file.")
         else:
             if verbose:
                 print(f"[bold red]Error: No content found in {antrag_file.name}")
@@ -559,7 +559,7 @@ def process_shibboleth(data_path: Path, verbose: bool = False):
     shib_file = shib_files[0]
 
     if verbose:
-        print(f"[bold][Processing Shibboleth Append]")
+        print("[bold][Processing Shibboleth Append]")
         print(f"[bold]Parent file: {parent_file.name}")
         print(f"[bold]Shibboleth file: {shib_file.name}")
 
@@ -597,7 +597,7 @@ def process_shibboleth(data_path: Path, verbose: bool = False):
             # Remove the shibboleth file after successful merge
             safe_remove_file(shib_file)
 
-            print(f"[bold green]Done. Processed shibboleth file.")
+            print("[bold green]Done. Processed shibboleth file.")
         else:
             if verbose:
                 print(f"[bold red]Error: No content found in {shib_file.name}")
@@ -714,7 +714,7 @@ def run_post_processing(
             )
 
     if not files_to_process:
-        print(f"[bold yellow]No files to process. Exiting.")
+        print("[bold yellow]No files to process. Exiting.")
         return
 
     # Post-processing with LLM

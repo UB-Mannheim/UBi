@@ -392,7 +392,7 @@ def process_urls(
         utils.backup_dir_with_timestamp(output_dir)
 
     changed_files = []
-    for url in tqdm(urls, desc=f"Crawling URLs"):
+    for url in tqdm(urls, desc="Crawling URLs"):
         response = requests.get(url)
         content_single_page = []
 
