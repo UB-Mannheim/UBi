@@ -9,7 +9,7 @@ TRANSLATIONS = {
         "Spanish": "No se encontraron noticias.",
         "Polish": "Nie znaleziono żadnych wiadomości.",
         "Italian": "Nessuna notizia trovata.",
-        "Danish": "Ingen nyheder fundet."
+        "Danish": "Ingen nyheder fundet.",
     },
     "news_heading": {
         "German": "#### Aktuelle Neuigkeiten aus der UB Mannheim\n\n",
@@ -21,7 +21,7 @@ TRANSLATIONS = {
         "Spanish": "#### Últimas noticias de UB Mannheim\n\n",
         "Polish": "#### Najnowsze wiadomości z UB Mannheim\n\n",
         "Italian": "#### Ultime notizie da UB Mannheim\n\n",
-        "Danish": "#### Seneste nyt fra UB Mannheim\n\n"
+        "Danish": "#### Seneste nyt fra UB Mannheim\n\n",
     },
     "seats_last_updated": {
         "German": "Letzte Aktualisierung",
@@ -33,7 +33,7 @@ TRANSLATIONS = {
         "Spanish": "Última actualización",
         "Polish": "Ostatnia aktualizacja",
         "Italian": "Ultimo aggiornamento",
-        "Danish": "Sidst opdateret"
+        "Danish": "Sidst opdateret",
     },
     "seats_plot_title": {
         "German": "Bibliotheksauslastung",
@@ -45,7 +45,7 @@ TRANSLATIONS = {
         "Spanish": "Ocupación de la biblioteca",
         "Polish": "Obłożenie biblioteki",
         "Italian": "Occupazione della biblioteca",
-        "Danish": "Bibliotekets udnyttelse"
+        "Danish": "Bibliotekets udnyttelse",
     },
     "seats_label_y_axis": {
         "German": "Belegung in %",
@@ -57,7 +57,7 @@ TRANSLATIONS = {
         "Spanish": "Ocupación en %",
         "Polish": "Zajętość w %",
         "Italian": "Occupazione in %",
-        "Danish": "Belægning i %"
+        "Danish": "Belægning i %",
     },
     "seats_error": {
         "German": "Fehler beim Abrufen der Sitzplatzdaten",
@@ -69,7 +69,7 @@ TRANSLATIONS = {
         "Spanish": "Error al recuperar los datos de los asientos",
         "Polish": "Błąd podczas pobierania danych o miejscach",
         "Italian": "Errore nel recupero dei dati dei posti",
-        "Danish": "Fejl ved hentning af pladsdata"
+        "Danish": "Fejl ved hentning af pladsdata",
     },
     "library_capacity": {
         "German": "Bibliotheksauslastung",
@@ -81,7 +81,7 @@ TRANSLATIONS = {
         "Spanish": "Capacidad de la biblioteca",
         "Polish": "Pojemność biblioteki",
         "Italian": "Capienza della biblioteca",
-        "Danish": "Bibliotekets kapacitet"
+        "Danish": "Bibliotekets kapacitet",
     },
     "openai_api_error": {
         "German": "Fehler beim Zugriff auf die OpenAI Responses API",
@@ -93,7 +93,7 @@ TRANSLATIONS = {
         "Spanish": "Error al acceder a la API de respuestas de OpenAI",
         "Polish": "Błąd podczas uzyskiwania dostępu do interfejsu API OpenAI Responses",
         "Italian": "Errore durante l'accesso all'API OpenAI Responses",
-        "Danish": "Fejl ved adgang til OpenAI Responses API"
+        "Danish": "Fejl ved adgang til OpenAI Responses API",
     },
     "response_error": {
         "German": "Es tut mir leider, aber ich konnte keine Antwort generieren.",
@@ -105,7 +105,7 @@ TRANSLATIONS = {
         "Spanish": "Lo siento, pero no pude generar una respuesta.",
         "Polish": "Przepraszam, ale nie udało mi się wygenerować odpowiedzi.",
         "Italian": "Mi dispiace, ma non ho potuto generare una risposta.",
-        "Danish": "Jeg beklager, men jeg kunne ikke generere et svar."
+        "Danish": "Jeg beklager, men jeg kunne ikke generere et svar.",
     },
     "local_rag_error": {
         "German": "Fehler bei der lokalen Verarbeitung",
@@ -117,13 +117,18 @@ TRANSLATIONS = {
         "Spanish": "Error durante el procesamiento local",
         "Polish": "Błąd podczas przetwarzania lokalnego",
         "Italian": "Errore durante l'elaborazione locale",
-        "Danish": "Fejl under lokal behandling"
-    }
+        "Danish": "Fejl under lokal behandling",
+    },
 }
+
 
 def translate(key, lang="German"):
     """
     Return the translation for the given key and language,
     fallback to German.
     """
-    return TRANSLATIONS.get(key, {}).get(lang) or TRANSLATIONS.get(key, {}).get("German") or key
+    return (
+        TRANSLATIONS.get(key, {}).get(lang)
+        or TRANSLATIONS.get(key, {}).get("German")
+        or key
+    )

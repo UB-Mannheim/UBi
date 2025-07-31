@@ -88,18 +88,23 @@ def check_session_warnings(session_id: str) -> Optional[str]:
 
     # Check character usage (warn at 80%)
     if stats["chars_percent"] >= 80:
-        warnings.append(f"⚠️ Sie haben {stats['chars_percent']:.1f}% "
-                       f"Ihres Zeichen-Limits erreicht.")
+        warnings.append(
+            f"⚠️ Sie haben {stats['chars_percent']:.1f}% "
+            f"Ihres Zeichen-Limits erreicht."
+        )
 
     # Check turn usage (warn at 80%)
     if stats["turns_percent"] >= 80:
-        warnings.append(f"⚠️ Sie haben {stats['turns_percent']:.1f}% "
-                       f"Ihres Anfragen-Limits erreicht.")
+        warnings.append(
+            f"⚠️ Sie haben {stats['turns_percent']:.1f}% "
+            f"Ihres Anfragen-Limits erreicht."
+        )
 
     # Check rate limiting (warn at 80%)
     if stats["rate_limit_percent"] >= 80:
-        warnings.append("⚠️ Sie nähern sich dem Rate-Limit für "
-                       "Anfragen pro Minute.")
+        warnings.append(
+            "⚠️ Sie nähern sich dem Rate-Limit für " "Anfragen pro Minute."
+        )
 
     if warnings:
         return "\n".join(warnings)

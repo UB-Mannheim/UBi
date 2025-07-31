@@ -8,8 +8,14 @@ from chainlit import PersistedUser, User
 from chainlit.data import BaseDataLayer
 from chainlit.element import ElementDict
 from chainlit.step import StepDict
-from chainlit.types import (Feedback, PageInfo, PaginatedResponse, Pagination,
-                            ThreadDict, ThreadFilter)
+from chainlit.types import (
+    Feedback,
+    PageInfo,
+    PaginatedResponse,
+    Pagination,
+    ThreadDict,
+    ThreadFilter,
+)
 from db import save_interaction
 
 
@@ -31,14 +37,16 @@ class CustomDataLayer(BaseDataLayer):
         persisted_user = PersistedUser(
             **user.__dict__,
             id=user.identifier,
-            createdAt=datetime.datetime.now().date().strftime("%Y-%m-%d")
+            createdAt=datetime.datetime.now().date().strftime("%Y-%m-%d"),
         )
         self.users[user.identifier] = persisted_user
         return persisted_user
 
     async def upsert_feedback(self, feedback: Feedback) -> str:
         feedback_id = feedback.id or str(uuid.uuid4())
-        step_id = getattr(feedback, "forId", None) or getattr(feedback, "step_id", None)
+        step_id = getattr(feedback, "forId", None) or getattr(
+            feedback, "step_id", None
+        )
 
         # Extract step data with defaults
         step = self.steps.get(step_id, {}) if step_id else {}
@@ -59,7 +67,7 @@ class CustomDataLayer(BaseDataLayer):
             session_id=session_id,
             question=question,
             answer=answer,
-            feedback=json.dumps(feedback_data)
+            feedback=json.dumps(feedback_data),
         )
 
         self.feedback[feedback_id] = feedback
@@ -69,13 +77,21 @@ class CustomDataLayer(BaseDataLayer):
         return self.feedback.pop(feedback_id, None) is not None
 
     async def create_element(self, element_dict: ElementDict) -> None:
-        element_id = element_dict["id"] if isinstance(element_dict, dict) else element_dict.id
+        element_id = (
+            element_dict["id"]
+            if isinstance(element_dict, dict)
+            else element_dict.id
+        )
         self.elements[element_id] = element_dict
 
-    async def get_element(self, thread_id: str, element_id: str) -> Optional[ElementDict]:
+    async def get_element(
+        self, thread_id: str, element_id: str
+    ) -> Optional[ElementDict]:
         return self.elements.get(element_id)
 
-    async def delete_element(self, element_id: str, thread_id: Optional[str] = None) -> None:
+    async def delete_element(
+        self, element_id: str, thread_id: Optional[str] = None
+    ) -> None:
         self.elements.pop(element_id, None)
 
     def _get_session_id(self) -> str:
@@ -105,20 +121,35 @@ class CustomDataLayer(BaseDataLayer):
     async def delete_thread(self, thread_id: str) -> None:
         self.threads.pop(thread_id, None)
 
-    async def list_threads(self, pagination: Pagination, filters: ThreadFilter) -> PaginatedResponse[ThreadDict]:
+    async def list_threads(
+        self, pagination: Pagination, filters: ThreadFilter
+    ) -> PaginatedResponse[ThreadDict]:
         if not filters.userId:
             raise ValueError("userId is required")
 
-        threads = [t for t in self.threads.values() if t["userId"] == filters.userId]
-        start = next((i + 1 for i, t in enumerate(threads) if t["id"] == pagination.cursor), 0)
+        threads = [
+            t for t in self.threads.values() if t["userId"] == filters.userId
+        ]
+        start = next(
+            (
+                i + 1
+                for i, t in enumerate(threads)
+                if t["id"] == pagination.cursor
+            ),
+            0,
+        )
         end = start + pagination.first
         paginated_threads = threads[start:end] or []
 
         return PaginatedResponse(
             pageInfo=PageInfo(
                 hasNextPage=len(threads) > end,
-                startCursor=paginated_threads[0]["id"] if paginated_threads else None,
-                endCursor=paginated_threads[-1]["id"] if paginated_threads else None,
+                startCursor=(
+                    paginated_threads[0]["id"] if paginated_threads else None
+                ),
+                endCursor=(
+                    paginated_threads[-1]["id"] if paginated_threads else None
+                ),
             ),
             data=paginated_threads,
         )
@@ -126,8 +157,12 @@ class CustomDataLayer(BaseDataLayer):
     async def get_thread(self, thread_id: str) -> Optional[ThreadDict]:
         thread = self.threads.get(thread_id)
         if thread:
-            thread["steps"] = [s for s in self.steps.values() if s["threadId"] == thread_id]
-            thread["elements"] = [e for e in self.elements.values() if e["threadId"] == thread_id]
+            thread["steps"] = [
+                s for s in self.steps.values() if s["threadId"] == thread_id
+            ]
+            thread["elements"] = [
+                e for e in self.elements.values() if e["threadId"] == thread_id
+            ]
         return thread
 
     async def update_thread(
@@ -136,7 +171,7 @@ class CustomDataLayer(BaseDataLayer):
         name: Optional[str] = None,
         user_id: Optional[str] = None,
         metadata: Optional[Dict] = None,
-        tags: Optional[List[str]] = None
+        tags: Optional[List[str]] = None,
     ):
         if thread_id in self.threads:
             if name:
