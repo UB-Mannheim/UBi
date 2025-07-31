@@ -8,14 +8,18 @@ ABBREVIATIONS = """
    - HWS = Herbst-/Wintersemester (Fall semester)
    - FSS = Frühjahrs-/Sommersemester (Spring semester)
    - MA = Mannheim
-   - UBMA = Universitätsbibliothek Mannheim (University Library Mannheim)
+   - UBMA / UB MA = Universitätsbibliothek Mannheim (University Library Mannheim)
    - A3 = Bibliotheksbereich A3 (A3 Library)
    - A5 = Bibliotheksbereich A5 (A5 Library)
    - Schneckenhof = Bibliotheksbereich Schloss Schneckenhof (Schloss Schneckenhof Library)
    - Ehrenhof = Bibliotheksbereich Schloss Ehrenhof (Schloss Ehrenhof Library)
    - Ausleihzentrum = Ausleihzentrum Schloss Westflügel (Central Lending Library Schloss Westflügel)
    - BERD = BERD@NFDI
-   - DHBW = Duale Hochschule Baden-Württemberg Mannheim"""
+   - Uni MA = Universität Mannheim (Mannheim University)
+   - DHBW = Duale Hochschule Baden-Württemberg Mannheim (Baden-Wuerttemberg Cooperative State University (DHBW))
+   - Uni HD = Universität Heidelberg (Heidelberg University)
+   - HSMA / HS MA = Technische Hochschule Mannheim (University of Applied Sciences Mannheim)
+   - HSLU / HS LU = Hochschule für Wirtschaft und Gesellschaft Ludwigshafen (University of Applied Sciences Ludwigshafen)"""
 
 # === Chat Prompts ===
 BASE_SYSTEM_PROMPT = f"""# System Role
@@ -160,17 +164,22 @@ User: "Wo finde ich aktuelle Zeitschriften?"
 Output: {{
   "language": "German",
   "category": "message",
-  "augmented_query": "Wo finde ich aktuelle Zeitschriften Zeitungen Periodika Universitätsbibliothek Mannheim UB Standort Medien gedruckt elektronisch Zugang"
+  "augmented_query": "Wo finde ich aktuelle Zeitschriften, Zeitungen, Periodika, die die Universitätsbibliothek Mannheim bereitstellt?"
 }}"""
 
 # === Prompts for Data Processing ===
-PROMPT_POST_PROCESSING = """You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG).
+PROMPT_POST_PROCESSING = f"""You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG).
 Perform the following tasks on the provided documents that are sourced from the website of the Universitätsbibliothek Mannheim:
 1. Refine the markdown document by following these guidelines:
    - Clean the structure, improve headings, embed links and email adresses.
    - **Carefully** remove redundancy and make the file suitable for semantic search or chatbot use.
    - Try to **preserve the original text verbatim**. ONLY reformulate sentences when it improves semantic understanding and document retrieval.
-   - Do NOT add content.
+   - ONLY add sentences to improve semantically scarce passages, e.g., passages with only a heading and two links.
+       <example>
+       ## Bibliotheksausweis für Nicht-Mitglieder
+      - [Bibliotheksausweis für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
+      - [Bibliotheksausweis für Angehörige kooperierender Einrichtungen (Uni HD, DHBW, HS MA, HS LU u.a.)](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
+      </example>
 2. Add a YAML header (without markdown wrapping!) by using this template:
 ---
 title: informative title of the document that optimally encapuslates the document's content for retrieval
@@ -180,9 +189,12 @@ category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Servi
 tags: [a list of **max. 8** precise, descriptive keywords]
 language: de, en or other language tags
 ---
-3. Return the processed markdown file.
+3. Recognize the following entities and add their abbreviations in round brackets after the entity.
+   - Example: "so wie die Duale Hochschule Baden-Württemberg Mannheim in" → "so wie die Duale Hochschule Baden-Württemberg Mannheim (DHBW) in"
+   - Abbreviations: {ABBREVIATIONS}
+4. Return the processed markdown file.
 
-<Example Output>
+<example output>
 ---
 title: Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/
@@ -194,6 +206,7 @@ language: de
 
 # First Heading of Markdown Page
 The content of the markdown page...
+</example output>
 
 <Document to process>
 """

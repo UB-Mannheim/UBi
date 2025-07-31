@@ -391,16 +391,20 @@ session_memory = SessionMemory(
 )
 
 
-def create_conversation_context(session_id: str) -> str:
-    """Create conversation context from recent turns"""
+def create_conversation_context(session_id: str) -> List[Dict[str, str]]:
+    """Create conversation context from recent turns as a list of message dictionaries"""
     recent_turns = session_memory.get_context_window(session_id)
 
     if not recent_turns:
-        return ""
+        return []
 
-    context_lines = []
+    context_messages = []
     for turn in recent_turns:
-        role = "Nutzer" if turn.role == MessageRole.USER else "Assistent"
-        context_lines.append(f"{role}: {turn.content}")
+        # Convert MessageRole enum to string format expected by the API
+        role = turn.role.value  # This will be "user", "assistant", or "system"
+        context_messages.append({
+            "role": role,
+            "content": turn.content
+        })
 
-    return "\n".join(context_lines)
+    return context_messages

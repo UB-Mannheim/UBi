@@ -1,9 +1,11 @@
 # === Imports ===
 import datetime
 import os
-
 import chainlit as cl
 from chainlit import Message
+from fastapi import Request, Response
+from dotenv import load_dotenv
+from typing import Optional
 from config import ENV_PATH
 from conversation_memory import (
     MessageRole,
@@ -106,6 +108,210 @@ def get_instructions(language="German"):
     prompt = BASE_SYSTEM_PROMPT.format(today=today)
     return prompt.replace("{language}", language)
 
+# === OpenAI Vectorstore Logic ===
+async def handle_openai_vectorstore_query(
+    client: AsyncOpenAI,
+    chat_history: Optional[list[dict[str, str]]],
+    augmented_input: str,
+    detected_language: str,
+    msg: cl.Message,
+    session_id: str,
+    user_input: str
+    ):
+    """
+    Handle queries using OpenAI vectorstore
+    """
+    if chat_history:
+        # Append new message to chat_history
+        new_chat_message = {"role": "user", "content": augmented_input}
+        chat_history.append(new_chat_message)
+    else:
+        # Start new chat_history
+        chat_history = [{"role": "user", "content": augmented_input}]
+    
+    if DEBUG:
+        print(f"💬 Chat history: {chat_history}")
+ 
+    full_answer = ""
+    try:
+        stream = await client.responses.create(
+            model="gpt-4o-mini-2024-07-18",
+            input=chat_history,
+            tools=[{
+                "type": "file_search",
+                "vector_store_ids": [OPENAI_VECTORSTORE_ID],
+                "max_num_results": 6
+            }],
+            instructions=get_instructions(detected_language),
+            stream=True,
+            temperature=0
+        )
+        async for event in stream:
+            if event.type == 'response.output_text.delta' and event.delta:
+                token = event.delta
+                await msg.stream_token(token)
+                full_answer += token
+    except Exception as e:
+        error_response = f"{translate('openai_api_error', detected_language)}: {e}"
+        await msg.stream_token("")
+        for char in error_response:
+            await msg.stream_token(char)
+        await msg.update()
+
+        # Add error to memory
+        session_memory.add_turn(session_id, MessageRole.USER, user_input)
+        session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
+        await save_interaction(session_id, user_input, error_response, augmented_input)
+        return False, error_response
+
+    if full_answer:
+        await msg.update()
+    else:
+        error_response = f"{translate('response_error', detected_language)}"
+        await msg.stream_token("")
+        for char in error_response:
+            await msg.stream_token(char)
+        await msg.update()
+        return False, error_response
+
+    # Save interaction
+    session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_answer)
+    await save_interaction(session_id, user_input, full_answer, augmented_input)
+    return True, full_answer
+
+# === Local RAG Logic ===
+async def handle_local_rag_query(
+    chat_history: Optional[list[dict[str, str]]],
+    augmented_input: str,
+    detected_language: str,
+    msg: cl.Message,
+    session_id: str,
+    user_input: str
+    ):
+    """
+    Handle queries using local RAG chain
+    """
+    rag_chain = cl.user_session.get("rag_chain")
+    if not rag_chain:
+        rag_chain = await create_rag_chain(debug=DEBUG)
+        cl.user_session.set("rag_chain", rag_chain)
+    
+    try:
+        # Convert conversation context list to string format for the RAG chain
+        if chat_history:
+            context_string = "\n".join([f"{msg['role']}: {msg['content']}" for msg in chat_history])
+        else:
+            context_string = ""
+
+        response_generator = rag_chain.astream({
+            "question": augmented_input,
+            "conversation_context": context_string,
+            "language": detected_language
+        })
+
+        # Stream response
+        full_response = ""
+        async for token in response_generator:
+            await msg.stream_token(token)
+            full_response += token
+        await msg.update()
+
+        # Add assistant response to memory
+        session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_response)
+        await save_interaction(session_id, user_input, full_response, augmented_input)
+        return True, full_response
+
+    except Exception as e:
+        error_response = f"{translate('local_rag_error', detected_language)}: {str(e)}"
+        await msg.stream_token("")
+        for char in error_response:
+            await msg.stream_token(char)
+        await msg.update()
+
+        # Add error to memory
+        session_memory.add_turn(session_id, MessageRole.USER, user_input)
+        session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
+        await save_interaction(session_id, user_input, error_response, augmented_input)
+        return False, error_response
+
+# === News Route ===
+async def handle_news_route(
+    detected_language: str,
+    msg: cl.Message,
+    session_id: str,
+    user_input: str
+    ):
+    """
+    Handle news/neuigkeiten route
+    """
+    items = get_rss_items()        
+    if not items:
+        response = translate("no_news_found", detected_language)
+    else:
+        heading = translate("news_heading", detected_language)
+        body = "\n\n".join(f"- **{title}**\n  {link}" for title, link, _ in items)
+        response = heading + body
+
+    # Clear the message and stream the response
+    await msg.stream_token("")
+    for char in response:
+        await msg.stream_token(char)
+    await msg.update()
+
+    # Add to memory
+    session_memory.add_turn(session_id, MessageRole.USER, user_input)
+    session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
+    await save_interaction(session_id, user_input, response)
+    return response
+
+# === Sitzplatz Route ===
+async def handle_sitzplatz_route(
+    detected_language: str,
+    msg: cl.Message,
+    session_id: str,
+    user_input: str
+    ):
+    """
+    Handle sitzplatz/free seats route
+    """
+    try:
+        data = get_occupancy_data()
+        areas = data["areas"]
+
+        # Plot title and labels
+        heading = translate("seats_last_updated", detected_language)
+        response = f"{heading}: {data['lastupdated']}"
+        plot_label = translate("library_capacity", detected_language)
+
+        # Generate the plot
+        fig = make_plotly_figure(areas, detected_language)
+
+        # Update the existing message with content and add elements
+        await msg.stream_token("")
+        for char in response:
+            await msg.stream_token(char)
+
+        # Set the elements on the existing message
+        msg.elements = [cl.Plotly(name=plot_label, figure=fig, display="inline", size="large")]
+        await msg.update()
+
+        # Add to memory
+        session_memory.add_turn(session_id, MessageRole.USER, user_input)
+        session_memory.add_turn(session_id, MessageRole.ASSISTANT, response+f" Data:{data}")
+        await save_interaction(session_id, user_input, response)
+        return response
+    except Exception as e:
+        error_response = f"{translate('seats_error', detected_language)}: {str(e)}"
+        await msg.stream_token("")
+        for char in error_response:
+            await msg.stream_token(char)
+        await msg.update()
+
+        # Add to memory
+        session_memory.add_turn(session_id, MessageRole.USER, user_input)
+        session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
+        await save_interaction(session_id, user_input, error_response)
+        return error_response
 
 # === Chat Start: Initialize Session Memory and Terms ===
 @cl.on_chat_start
@@ -157,7 +363,7 @@ async def on_message(message: cl.Message):
     # Record the request if it passes all checks
     session_memory.record_request(session_id, user_input)
 
-    # Handle some user_inputs first: Session stats
+    # Session stats
     if user_input.lower() == "session stats":
         stats_message = get_session_usage_message(session_id)
         await cl.Message(content=stats_message, author="assistant").send()
@@ -168,7 +374,7 @@ async def on_message(message: cl.Message):
             await cl.Message(content=warning, author="assistant").send()
         return
 
-    # Handle some user_inputs first: Catch common phrases
+    # Catch common phrases
     phrase_result = detect_common_phrase(user_input)
     if phrase_result:
         response, _ = phrase_result
@@ -180,193 +386,58 @@ async def on_message(message: cl.Message):
         await save_interaction(session_id, user_input, response)
         return
 
-    # LLM routing, language detection, prompt augmentation
+    # Create chat message
+    msg = cl.Message(content="", author="assistant")
+    await msg.send()
+    await msg.stream_token(" ")
+
+    # === LLM Router ===
     detected_language, route, augmented_input = await route_and_augment_query(
         client if USE_OPENAI_VECTORSTORE else None, user_input, debug=DEBUG
     )
 
-    # RSS feed / Neuigkeiten aus der UB
+    # "News" Route
     if route and route.lower() == "news":
-        items = get_rss_items()
-        if not items:
-            response = translate("no_news_found", detected_language)
-            await Message(content=response, author="assistant").send()
-        else:
-            heading = translate("news_heading", detected_language)
-            body = "\n\n".join(
-                f"- **{title}**\n  {link}" for title, link, _ in items
-            )
-            response = heading + body
-            await Message(content=response, author="assistant").send()
-
-        # Add to memory
-        session_memory.add_turn(session_id, MessageRole.USER, user_input)
-        session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
-        await save_interaction(session_id, user_input, response)
+        await handle_news_route(detected_language, msg, session_id, user_input)
         return
 
-    # Free seats
+    # "Free seats" Route
     if route and route.lower() == "sitzplatz":
-        try:
-            data = get_occupancy_data()
-            areas = data["areas"]
-
-            # Plot title and labels
-            heading = translate("seats_last_updated", detected_language)
-            response = f"{heading}: {data['lastupdated']}"
-            plot_label = translate("library_capacity", detected_language)
-
-            # Generate the plot
-            fig = make_plotly_figure(areas, detected_language)
-
-            await cl.Message(
-                content=response,
-                elements=[
-                    cl.Plotly(
-                        name=plot_label,
-                        figure=fig,
-                        display="inline",
-                        size="large",
-                    )
-                ],
-                author="assistant",
-            ).send()
-
-            # Add to memory
-            session_memory.add_turn(session_id, MessageRole.USER, user_input)
-            session_memory.add_turn(
-                session_id, MessageRole.ASSISTANT, response + f" Data:{data}"
-            )
-            await save_interaction(session_id, user_input, response)
-        except Exception as e:
-            error_response = (
-                f"{translate('seats_error', detected_language)}: {str(e)}"
-            )
-            await cl.Message(content=error_response, author="assistant").send()
-
-            # Add to memory
-            session_memory.add_turn(session_id, MessageRole.USER, user_input)
-            session_memory.add_turn(
-                session_id, MessageRole.ASSISTANT, error_response
-            )
-            await save_interaction(session_id, user_input, error_response)
+        await handle_sitzplatz_route(detected_language, msg, session_id, user_input)
         return
 
-    # Build conversation context (before adding current user input)
-    conversation_context = create_conversation_context(session_id)
+    # Build chat_history with previous conversation context
+    chat_history = create_conversation_context(session_id)
 
     # Add user message to memory (after getting context)
     session_memory.add_turn(session_id, MessageRole.USER, user_input)
 
     # === OpenAI Vectorstore Logic ===
     if USE_OPENAI_VECTORSTORE:
-        # Compose input for the model: prepend context if available
-        if conversation_context:
-            model_input = f"{conversation_context}\nNutzer: {augmented_input}"
-        else:
-            model_input = f"Nutzer: {augmented_input}"
-
-        msg = cl.Message(content="", author="assistant")
-        await msg.send()
-        await msg.stream_token(" ")
-        full_answer = ""
-
-        try:
-            stream = await client.responses.create(
-                model="gpt-4o-mini-2024-07-18",
-                input=[{"role": "user", "content": model_input}],
-                tools=[
-                    {
-                        "type": "file_search",
-                        "vector_store_ids": [OPENAI_VECTORSTORE_ID],
-                        "max_num_results": 6,
-                    }
-                ],
-                instructions=get_instructions(detected_language),
-                stream=True,
-                temperature=0,
-            )
-            async for event in stream:
-                if event.type == "response.output_text.delta" and event.delta:
-                    token = event.delta
-                    await msg.stream_token(token)
-                    full_answer += token
-        except Exception as e:
-            error_response = (
-                f"{translate('openai_api_error', detected_language)}: {e}"
-            )
-            await Message(content=error_response).send()
-
-            # Add error to memory
-            session_memory.add_turn(session_id, MessageRole.USER, user_input)
-            session_memory.add_turn(
-                session_id, MessageRole.ASSISTANT, error_response
-            )
-            await save_interaction(
-                session_id, user_input, error_response, augmented_input
-            )
-            return
-
-        if full_answer:
-            await msg.update()
-        else:
-            error_response = (
-                f"{translate('response_error', detected_language)}"
-            )
-            await cl.Message(content=error_response).send()
-
-        # Save interaction
-        session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_answer)
-        await save_interaction(
-            session_id, user_input, full_answer, augmented_input
+        success, response = await handle_openai_vectorstore_query(
+            client,
+            chat_history,
+            augmented_input,
+            detected_language,
+            msg,
+            session_id,
+            user_input
         )
+        if not success:
+            return
 
     # === Local RAG Logic ===
     else:
-        rag_chain = cl.user_session.get("rag_chain")
-        if not rag_chain:
-            rag_chain = await create_rag_chain(debug=DEBUG)
-            cl.user_session.set("rag_chain", rag_chain)
-        try:
-            # Get conversation context
-            response_generator = rag_chain.astream(
-                {
-                    "question": augmented_input,
-                    "conversation_context": conversation_context,
-                    "language": detected_language,
-                }
-            )
-
-            # Stream response
-            full_response = ""
-            msg = Message(content="", author="assistant")
-            async for token in response_generator:
-                await msg.stream_token(token)
-                full_response += token
-            await msg.send()
-
-            # Add assistant response to memory
-            session_memory.add_turn(
-                session_id, MessageRole.ASSISTANT, full_response
-            )
-            await save_interaction(
-                session_id, user_input, full_response, augmented_input
-            )
-
-        except Exception as e:
-            error_response = (
-                f"{translate('local_rag_error', detected_language)}: {str(e)}"
-            )
-            await Message(content=error_response).send()
-
-            # Add error to memory
-            session_memory.add_turn(session_id, MessageRole.USER, user_input)
-            session_memory.add_turn(
-                session_id, MessageRole.ASSISTANT, error_response
-            )
-            await save_interaction(
-                session_id, user_input, error_response, augmented_input
-            )
+        success, response = await handle_local_rag_query(
+            chat_history,
+            augmented_input,
+            detected_language,
+            msg,
+            session_id,
+            user_input
+        )
+        if not success:
+            return
 
         # Optional: fallback to web search
         # fallback = search_ub_website(user_input)
