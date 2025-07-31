@@ -45,7 +45,7 @@ async def save_interaction(
     answer: str,
     augmented_question: Optional[str] = None,
     feedback: Optional[str] = None,
-    ):
+):
     """
     Saves a chat interaction to the database.
 
@@ -77,7 +77,14 @@ async def save_interaction(
                     """INSERT INTO chat_interactions
                        (session_id, question, augmented_question, answer, timestamp, feedback)
                        VALUES (?, ?, ?, ?, ?, ?)""",
-                    (session_id, question, augmented_question, answer, timestamp, feedback),
+                    (
+                        session_id,
+                        question,
+                        augmented_question,
+                        answer,
+                        timestamp,
+                        feedback,
+                    ),
                 )
         else:
             # Insert new interaction record
@@ -85,7 +92,14 @@ async def save_interaction(
                 """INSERT INTO chat_interactions
                    (session_id, question, augmented_question, answer, timestamp, feedback)
                    VALUES (?, ?, ?, ?, ?, ?)""",
-                (session_id, question, augmented_question, answer, timestamp, None),
+                (
+                    session_id,
+                    question,
+                    augmented_question,
+                    answer,
+                    timestamp,
+                    None,
+                ),
             )
 
         await db.commit()

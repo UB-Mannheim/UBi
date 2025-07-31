@@ -6,10 +6,7 @@ async def ask_terms_acceptance():
     # **Einverständniserklärung zu den Nutzungsbedingungen des KI-Chatbots der UB Mannheim**
     terms_content = ""
     element = cl.CustomElement(name="TermsAcceptBox")
-    await cl.Message(
-        content=terms_content,
-        elements=[element]
-    ).send()
+    await cl.Message(content=terms_content, elements=[element]).send()
 
 
 @cl.action_callback("accept_terms_button")
@@ -17,10 +14,9 @@ async def on_accept_terms(action):
     """Handle terms acceptance"""
     await cl.Message(
         content="✅ Nutzungsbedingungen akzeptiert! Die Seite wird neu "
-                "geladen...",
-        author="system"
+        "geladen...",
+        author="system",
     ).send()
-
 
 
 def check_terms_accepted():

@@ -26,18 +26,19 @@ def extract_content_after_yaml_header(content: str) -> str:
     Returns:
         Content after YAML header
     """
-    lines = content.split('\n')
+    lines = content.split("\n")
     content_start = 0
     yaml_end_count = 0
 
     for i, line in enumerate(lines):
-        if line.strip() == '---':
+        if line.strip() == "---":
             yaml_end_count += 1
             if yaml_end_count == 2:
                 content_start = i + 1
                 break
 
-    return '\n'.join(lines[content_start:]).strip()
+    return "\n".join(lines[content_start:]).strip()
+
 
 def adjust_heading_hierarchy(content: str, demote_levels: int = 1) -> str:
     """
@@ -50,24 +51,29 @@ def adjust_heading_hierarchy(content: str, demote_levels: int = 1) -> str:
     Returns:
         Content with adjusted heading hierarchy
     """
+
     def demote_heading(match):
         """Add demote_levels number of # to the heading"""
         hashes = match.group(1)
-        new_hashes = '#' * (len(hashes) + demote_levels)
-        return f'{new_hashes} '
+        new_hashes = "#" * (len(hashes) + demote_levels)
+        return f"{new_hashes} "
 
     # Use a single regex to match all headings and demote them properly
-    return re.sub(r'^(#{1,6}) ', demote_heading, content, flags=re.MULTILINE)
+    return re.sub(r"^(#{1,6}) ", demote_heading, content, flags=re.MULTILINE)
+
 
 def url_to_filename(url: str) -> str:
     """
     Convert URL to filename by removing domain and replacing slashes
     with underscores.
     """
-    url_path = url.replace('https://www.bib.uni-mannheim.de/', '')
-    return url_path.replace('/', '_').rstrip('_') + '.md'
+    url_path = url.replace("https://www.bib.uni-mannheim.de/", "")
+    return url_path.replace("/", "_").rstrip("_") + ".md"
 
-def safe_remove_file(file_path: Path, processed_files: set | None = None) -> bool:
+
+def safe_remove_file(
+    file_path: Path, processed_files: set | None = None
+) -> bool:
     """
     Safely remove a file and optionally track it in a set.
 
@@ -88,6 +94,7 @@ def safe_remove_file(file_path: Path, processed_files: set | None = None) -> boo
         print(f"[bold yellow]Warning: Could not remove {file_path.name}: {e}")
         return False
 
+
 def create_llm_messages(system_prompt: str, user_content: str) -> list:
     """
     Create standardized LLM messages for system and user content.
@@ -100,15 +107,10 @@ def create_llm_messages(system_prompt: str, user_content: str) -> list:
         List of message dictionaries
     """
     return [
-        {
-            "role": "system",
-            "content": system_prompt
-        },
-        {
-            "role": "user",
-            "content": user_content
-        }
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_content},
     ]
+
 
 def find_section_position(content_lines: list, section_heading: str) -> int:
     """
@@ -126,11 +128,12 @@ def find_section_position(content_lines: list, section_heading: str) -> int:
             return i
     return -1
 
+
 def write_markdown(
     url,
     content,
     output_dir: str = CRAWL_DIR,
-    ):
+):
     """
     Write markdown for a URL only if content is new or changed.
     Returns the filename if written/changed, else None.
@@ -139,35 +142,33 @@ def write_markdown(
     utils.ensure_dir(output_dir)
 
     # Format filename and path
-    url_path = urlparse(url).path.split('/')
-    filename = '_'.join([part for part in url_path if part])
+    url_path = urlparse(url).path.split("/")
+    filename = "_".join([part for part in url_path if part])
     file_path = Path(output_dir).joinpath(f"{filename}.md")
 
     # Collect markdown content
-    new_content = ''
+    new_content = ""
     for el in content:
-        if el.startswith('#'):
-            new_content += '\n\n' + el + '\n\n'
+        if el.startswith("#"):
+            new_content += "\n\n" + el + "\n\n"
         else:
-            new_content += el + '\n'
+            new_content += el + "\n"
 
     # Check if file exists and content is unchanged
     if file_path.exists():
-        old_content = file_path.read_text(encoding='utf-8')
+        old_content = file_path.read_text(encoding="utf-8")
         if old_content == new_content:
             return None  # No change
 
     # Write new/changed content
-    file_path.write_text(new_content, encoding='utf-8')
+    file_path.write_text(new_content, encoding="utf-8")
     return file_path.name
+
 
 @backoff.on_exception(backoff.expo, Exception, max_tries=3)
 async def process_single_file_async(
-    llm: ChatOpenAI,
-    file_path,
-    output_path,
-    prompt
-    ):
+    llm: ChatOpenAI, file_path, output_path, prompt
+):
     """
     Process a single markdown file with retry logic.
     """
@@ -184,14 +185,15 @@ async def process_single_file_async(
     output_file.write_text(response.content, encoding="utf-8")
     return file_path.name
 
+
 def process_markdown_files_with_llm(
     input_dir: str,
     output_dir: str,
     model_name: str = "gpt-4o-mini-2024-07-18",
     files_to_process: list | None = None,
     max_concurrent: int = 3,
-    delay_between_requests: float = 0.5
-    ):
+    delay_between_requests: float = 0.5,
+):
     """
     Post-process markdown files with LLM and add YAML header.
     If files_to_process is provided, only process those files.
@@ -216,7 +218,7 @@ def process_markdown_files_with_llm(
             for missing_file in missing_files:
                 print(f"[bold yellow]Warning: File not found: {missing_file}")
     else:
-        input_files = list(Path(input_dir).glob('*.md'))
+        input_files = list(Path(input_dir).glob("*.md"))
 
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
@@ -226,7 +228,7 @@ def process_markdown_files_with_llm(
         model=model_name,
         temperature=0,
         api_key=os.getenv("OPENAI_API_KEY"),
-        max_retries=2
+        max_retries=2,
     )
 
     print(f"[bold][Processing Markdown Files with {model_name}]")
@@ -243,10 +245,7 @@ def process_markdown_files_with_llm(
             async with semaphore:
                 try:
                     result = await process_single_file_async(
-                        llm,
-                        file_path,
-                        output_path,
-                        PROMPT_POST_PROCESSING
+                        llm, file_path, output_path, PROMPT_POST_PROCESSING
                     )
                     # Add delay between requests to respect rate limits
                     if delay_between_requests > 0:
@@ -257,15 +256,17 @@ def process_markdown_files_with_llm(
                     return None
 
         # Create tasks for all files
-        tasks = [process_with_semaphore(file_path) for file_path in input_files]
+        tasks = [
+            process_with_semaphore(file_path) for file_path in input_files
+        ]
 
         # Process with progress bar
         completed = 0
         for coro in tqdm(
             asyncio.as_completed(tasks),
             total=len(tasks),
-            desc="LLM Processing"
-            ):
+            desc="LLM Processing",
+        ):
             result = await coro
             if result:
                 completed += 1
@@ -275,12 +276,15 @@ def process_markdown_files_with_llm(
     # Run the async processing
     try:
         completed_count = asyncio.run(process_files_async())
-        print(f"[bold green]Successfully processed {completed_count}/{len(input_files)} files")
+        print(
+            f"[bold green]Successfully processed {completed_count}/{len(input_files)} files"
+        )
     except Exception as e:
         print(f"[bold red]Error during batch processing: {e}")
         # Fallback to sequential processing
         print("[bold yellow]Falling back to sequential processing...")
         process_markdown_files_sequential(llm, input_files, output_path)
+
 
 def process_markdown_files_sequential(llm, input_files, output_path):
     """
@@ -305,10 +309,8 @@ def process_markdown_files_sequential(llm, input_files, output_path):
         except Exception as e:
             print(f"❌ Error processing {file_path.name}: {e}")
 
-def process_standorte(
-    data_path: Path,
-    verbose: bool = False
-    ):
+
+def process_standorte(data_path: Path, verbose: bool = False):
     """
     Post-processing function that finds standorte markdown files and appends
     related contact information from linked pages.
@@ -330,7 +332,7 @@ def process_standorte(
         # Extract base name by removing "standorte_" prefix and suffixes after "_"
         stem = file_path.stem
         if stem.startswith("standorte_"):
-            base_name = stem[10:] # Remove "standorte_" prefix
+            base_name = stem[10:]  # Remove "standorte_" prefix
             # Remove suffixes after "_" (e.g., "_testverfahren-psychologie")
             if "_" in base_name:
                 base_name = base_name.split("_")[0]
@@ -353,15 +355,19 @@ def process_standorte(
             content = shortest_file.read_text(encoding="utf-8")
 
             # Check for "Ansprechpersonen" in markdown link format
-            contact_link_pattern = r'\[.*?Ansprechpersonen.*?\]\((https://www\.bib\.uni-mannheim\.de/[^)]+)\)'
+            contact_link_pattern = r"\[.*?Ansprechpersonen.*?\]\((https://www\.bib\.uni-mannheim\.de/[^)]+)\)"
             matches = re.findall(contact_link_pattern, content, re.IGNORECASE)
 
             if not matches and verbose:
-                print(f"[bold yellow]No 'Ansprechpersonen' found in {shortest_file.name}")
+                print(
+                    f"[bold yellow]No 'Ansprechpersonen' found in {shortest_file.name}"
+                )
                 continue
 
             if verbose:
-                print(f"[bold]Found {len(matches)} contact links in {shortest_file.name}")
+                print(
+                    f"[bold]Found {len(matches)} contact links in {shortest_file.name}"
+                )
 
             for contact_url in matches:
                 # Convert URL to filename
@@ -371,32 +377,37 @@ def process_standorte(
                 # Skip if this contact file has already been processed
                 if contact_filename in processed_contacts:
                     if verbose:
-                        print(f"[bold yellow]Skipping {contact_filename} - already processed")
+                        print(
+                            f"[bold yellow]Skipping {contact_filename} - already processed"
+                        )
                         continue
 
                 if contact_file_path.exists():
                     if verbose:
-                        print(f"[bold]Appending content from {contact_filename}")
+                        print(
+                            f"[bold]Appending content from {contact_filename}"
+                        )
 
                     # Read contact content
-                    contact_content = contact_file_path.read_text(encoding="utf-8")
+                    contact_content = contact_file_path.read_text(
+                        encoding="utf-8"
+                    )
 
                     # Extract content after YAML header and skip first # heading
                     contact_content_body = extract_content_after_yaml_header(
                         content=contact_content
-                        )
+                    )
                     if contact_content_body:
                         # Skip the first heading (usually # heading)
-                        lines = contact_content_body.split('\n')
-                        if lines and lines[0].startswith('# '):
-                            contact_content_body = '\n'.join(lines[2:]).strip()
+                        lines = contact_content_body.split("\n")
+                        if lines and lines[0].startswith("# "):
+                            contact_content_body = "\n".join(lines[2:]).strip()
 
                     if contact_content_body:
                         # Adjust heading hierarchy in contact content (demote by two levels)
                         adjusted_content = adjust_heading_hierarchy(
-                            content=contact_content_body,
-                            demote_levels=2
-                            )
+                            content=contact_content_body, demote_levels=2
+                        )
 
                         # Append contact content to original file
                         separator = "\n\n### Weitere Ansprechpersonen\n\n"
@@ -405,21 +416,30 @@ def process_standorte(
                         # Write back to file
                         shortest_file.write_text(new_content, encoding="utf-8")
                         processed_count += 1
-                        print(f"[bold green]Appended contact information to {shortest_file.name}")
+                        print(
+                            f"[bold green]Appended contact information to {shortest_file.name}"
+                        )
 
                         # Remove the contact file after successful merge
                         safe_remove_file(contact_file_path, processed_contacts)
 
-                        print(f"[bold green]Done. Processed {processed_count} contact files.")
+                        print(
+                            f"[bold green]Done. Processed {processed_count} contact files."
+                        )
                     else:
                         if verbose:
-                            print(f"[bold red]Error: No content found in {contact_filename}")
+                            print(
+                                f"[bold red]Error: No content found in {contact_filename}"
+                            )
                 else:
                     if verbose:
-                        print(f"[bold red]Contact file not found: {contact_filename}")
+                        print(
+                            f"[bold red]Contact file not found: {contact_filename}"
+                        )
 
         except Exception as e:
             print(f"[bold red]Error processing {shortest_file.name}: {e}")
+
 
 def process_direktion(data_path: Path, verbose: bool = False):
     """
@@ -432,33 +452,36 @@ def process_direktion(data_path: Path, verbose: bool = False):
         return
 
     try:
-        md_data = direktion_md[0].read_text(encoding='utf-8')
+        md_data = direktion_md[0].read_text(encoding="utf-8")
 
         # Augment the # heading
         heading_match = re.search(r"^# .*$", md_data, re.MULTILINE)
         if heading_match:
             old_string = heading_match.group(0)
-            new_string = "# Direktion und Leitung der Universitätsbibliothek Mannheim"
+            new_string = (
+                "# Direktion und Leitung der Universitätsbibliothek Mannheim"
+            )
             md_data = re.sub(re.escape(old_string), new_string, md_data)
 
         # Augment the profile description
         profile_match = re.search(
             r"^Direktorin der Universitätsbibliothek\s*$",
             md_data,
-            re.MULTILINE
-            )
+            re.MULTILINE,
+        )
         if profile_match:
             old_string = profile_match.group(0)
             new_string = "Direktorin und Leiterin der Universitätsbibliothek"
             md_data = re.sub(re.escape(old_string), new_string, md_data)
 
         # Write augmented file
-        direktion_md[0].write_text(md_data, encoding='utf-8')
+        direktion_md[0].write_text(md_data, encoding="utf-8")
 
         print("[bold green]Done. Augmented 'Direktion' markdown page.")
 
     except Exception as e:
         print(f"[bold red]Error processing Direktionen files: {e}")
+
 
 def process_semesterapparat(data_path: Path, verbose: bool = False):
     """
@@ -467,7 +490,9 @@ def process_semesterapparat(data_path: Path, verbose: bool = False):
     """
     # Find the parent semesterapparat file
     semesterapparat_files = list(data_path.glob("*semesterapparat.md"))
-    semesterapparat_files = [f for f in semesterapparat_files if "antrag" not in f.name]
+    semesterapparat_files = [
+        f for f in semesterapparat_files if "antrag" not in f.name
+    ]
 
     if not semesterapparat_files:
         print("[bold]No parent semesterapparat file found for processing.")
@@ -491,7 +516,7 @@ def process_semesterapparat(data_path: Path, verbose: bool = False):
     try:
         # Read parent file content
         parent_content = parent_file.read_text(encoding="utf-8")
-        parent_lines = parent_content.split('\n')
+        parent_lines = parent_content.split("\n")
 
         # Find the "## Kontakt" section
         kontakt_start = find_section_position(parent_lines, "## Kontakt")
@@ -505,33 +530,46 @@ def process_semesterapparat(data_path: Path, verbose: bool = False):
         if antrag_content_body:
             # Adjust heading hierarchy in application content (demote by one level)
             adjusted_content = adjust_heading_hierarchy(
-                content=antrag_content_body,
-                demote_levels=1
-                )
+                content=antrag_content_body, demote_levels=1
+            )
 
             # Construct new content
-            separator = "\n## Antrag auf Einrichtung eines Semesterapparats\n\n"
+            separator = (
+                "\n## Antrag auf Einrichtung eines Semesterapparats\n\n"
+            )
 
             if kontakt_start >= 0:
                 # If Kontakt section exists, insert before it
-                before_kontakt = '\n'.join(parent_lines[:kontakt_start])
-                kontakt_section = '\n'.join(parent_lines[kontakt_start:])
-                new_content = before_kontakt + separator + adjusted_content + "\n\n" + kontakt_section
+                before_kontakt = "\n".join(parent_lines[:kontakt_start])
+                kontakt_section = "\n".join(parent_lines[kontakt_start:])
+                new_content = (
+                    before_kontakt
+                    + separator
+                    + adjusted_content
+                    + "\n\n"
+                    + kontakt_section
+                )
             else:
                 # If no Kontakt section, just append to the end
                 new_content = parent_content + separator + adjusted_content
 
             # Write back to parent file
             parent_file.write_text(new_content, encoding="utf-8")
-            print(f"[bold green]Appended application information to {parent_file.name}")
+            print(
+                f"[bold green]Appended application information to {parent_file.name}"
+            )
 
             # Remove the application file after successful merge
             safe_remove_file(antrag_file)
 
-            print("[bold green]Done. Processed semesterapparat application file.")
+            print(
+                "[bold green]Done. Processed semesterapparat application file."
+            )
         else:
             if verbose:
-                print(f"[bold red]Error: No content found in {antrag_file.name}")
+                print(
+                    f"[bold red]Error: No content found in {antrag_file.name}"
+                )
 
     except Exception as e:
         print(f"[bold red]Error processing semesterapparat files: {e}")
@@ -544,14 +582,24 @@ def process_shibboleth(data_path: Path, verbose: bool = False):
     Kontakt section at the end.
     """
     # Find the parent file
-    parent_files = list(data_path.glob("*medien_hinweise-zu-e-books-e-journals-und-datenbanken.md"))
+    parent_files = list(
+        data_path.glob(
+            "*medien_hinweise-zu-e-books-e-journals-und-datenbanken.md"
+        )
+    )
     if not parent_files:
-        print("[bold]No parent e-books-e-journals-und-datenbanken file found for processing.")
+        print(
+            "[bold]No parent e-books-e-journals-und-datenbanken file found for processing."
+        )
         return
     parent_file = parent_files[0]
 
     # Find the shibboleth file
-    shib_files = list(data_path.glob("*medien_hinweise-zu-e-books-e-journals-und-datenbanken_shibboleth.md"))
+    shib_files = list(
+        data_path.glob(
+            "*medien_hinweise-zu-e-books-e-journals-und-datenbanken_shibboleth.md"
+        )
+    )
     if not shib_files:
         return
 
@@ -565,7 +613,7 @@ def process_shibboleth(data_path: Path, verbose: bool = False):
     try:
         # Read parent file content
         parent_content = parent_file.read_text(encoding="utf-8")
-        parent_lines = parent_content.split('\n')
+        parent_lines = parent_content.split("\n")
 
         # Find the '## Kontakt' section
         kontakt_start = find_section_position(parent_lines, "## Kontakt")
@@ -577,21 +625,28 @@ def process_shibboleth(data_path: Path, verbose: bool = False):
         if shib_content_body:
             # Adjust heading hierarchy in shibboleth content (demote by one level)
             adjusted_content = adjust_heading_hierarchy(
-                content=shib_content_body,
-                demote_levels=1
+                content=shib_content_body, demote_levels=1
             )
 
             separator = "\n\n## Shibboleth-Zugang zu digitalen Medien\n\n"
 
             if kontakt_start >= 0:
-                before_kontakt = '\n'.join(parent_lines[:kontakt_start])
-                kontakt_section = '\n'.join(parent_lines[kontakt_start:])
-                new_content = before_kontakt + separator + adjusted_content + "\n\n" + kontakt_section
+                before_kontakt = "\n".join(parent_lines[:kontakt_start])
+                kontakt_section = "\n".join(parent_lines[kontakt_start:])
+                new_content = (
+                    before_kontakt
+                    + separator
+                    + adjusted_content
+                    + "\n\n"
+                    + kontakt_section
+                )
             else:
                 new_content = parent_content + separator + adjusted_content
 
             parent_file.write_text(new_content, encoding="utf-8")
-            print(f"[bold green]Appended shibboleth information to {parent_file.name}")
+            print(
+                f"[bold green]Appended shibboleth information to {parent_file.name}"
+            )
 
             # Remove the shibboleth file after successful merge
             safe_remove_file(shib_file)
@@ -604,10 +659,10 @@ def process_shibboleth(data_path: Path, verbose: bool = False):
     except Exception as e:
         print(f"[bold red]Error processing shibboleth files: {e}")
 
+
 def additional_post_processing(
-    data_dir: str = str(DATA_DIR),
-    verbose: bool = False
-    ):
+    data_dir: str = str(DATA_DIR), verbose: bool = False
+):
     """
     Additional post-processing for already LLM processed markdown files.
     """
@@ -628,36 +683,43 @@ def additional_post_processing(
     # Process "shibboleth" file
     process_shibboleth(data_path=data_path, verbose=verbose)
 
+
 @click.command()
 @click.option(
-    '--input-dir', '-i',
+    "--input-dir",
+    "-i",
     default=None,
-    help='Input directory containing markdown files to process (default: CRAWL_DIR).'
+    help="Input directory containing markdown files to process (default: CRAWL_DIR).",
 )
 @click.option(
-    '--files', '-f',
+    "--files",
+    "-f",
     multiple=True,
-    help='Specific markdown files to process. Can be used multiple times. (e.g., -f file1.md -f file2.md)'
+    help="Specific markdown files to process. Can be used multiple times. (e.g., -f file1.md -f file2.md)",
 )
 @click.option(
-    '--model-name', '-m',
-    default='gpt-4o-mini-2024-07-18',
-    help='Model name for LLM postprocessing. (default: gpt-4o-mini-2024-07-18)'
+    "--model-name",
+    "-m",
+    default="gpt-4o-mini-2024-07-18",
+    help="Model name for LLM postprocessing. (default: gpt-4o-mini-2024-07-18)",
 )
 @click.option(
-    '--llm-processing/--no-llm-processing', '-llm',
+    "--llm-processing/--no-llm-processing",
+    "-llm",
     default=True,
-    help='Run LLM post-processing on markdown files. (default: True)'
+    help="Run LLM post-processing on markdown files. (default: True)",
 )
 @click.option(
-    '--additional-processing/--no-additional-processing', '-add',
+    "--additional-processing/--no-additional-processing",
+    "-add",
     default=True,
-    help='Run additional post-processing on markdown files. (default: True)'
+    help="Run additional post-processing on markdown files. (default: True)",
 )
 @click.option(
-    '--verbose/--no-verbose', '-v',
+    "--verbose/--no-verbose",
+    "-v",
     default=False,
-    help='Enable verbose output during post-processing. (default: False)'
+    help="Enable verbose output during post-processing. (default: False)",
 )
 def run_post_processing(
     input_dir: str,
@@ -665,8 +727,8 @@ def run_post_processing(
     model_name: str,
     llm_processing: bool,
     additional_processing: bool,
-    verbose: bool
-    ):
+    verbose: bool,
+):
     """
     CLI for post-processing markdown files.
     """
@@ -682,7 +744,7 @@ def run_post_processing(
         # Resolve all files to absolute paths
         for f in files:
             # If file path contains directory separators, treat as full path
-            if '/' in str(f) or '\\' in str(f):
+            if "/" in str(f) or "\\" in str(f):
                 # Try to resolve relative to current directory first
                 file_path = Path(f).resolve()
                 if not file_path.exists():
@@ -697,20 +759,23 @@ def run_post_processing(
             else:
                 print(f"[bold yellow]Warning: File not found: {f}")
 
-        print(f"[bold]Processing {len(files_to_process)} markdown file(s):\n{', '.join(str(f) for f in files_to_process)}")
+        print(
+            f"[bold]Processing {len(files_to_process)} markdown file(s):\n{', '.join(str(f) for f in files_to_process)}"
+        )
 
     # input_dir option
     elif input_dir:
-        files_to_process = list(Path(input_dir).glob('*.md'))
-        print(f"[bold]Processing {len(files_to_process)} markdown files in {input_dir}.")
+        files_to_process = list(Path(input_dir).glob("*.md"))
+        print(
+            f"[bold]Processing {len(files_to_process)} markdown files in {input_dir}."
+        )
 
     # Hash snapshot (default fallback)
     else:
         input_dir = CRAWL_DIR
         files_to_process = utils.get_new_or_modified_files_by_hash(
-            input_dir,
-            return_path_objects=True
-            )
+            input_dir, return_path_objects=True
+        )
 
     if not files_to_process:
         print("[bold yellow]No files to process. Exiting.")
@@ -722,7 +787,7 @@ def run_post_processing(
             input_dir=input_dir,
             output_dir=str(DATA_DIR),
             files_to_process=files_to_process,
-            model_name=model_name
+            model_name=model_name,
         )
 
     # Additional post-processing
@@ -731,6 +796,7 @@ def run_post_processing(
 
     # Update hash snapshot after processing
     utils.write_hashes_for_directory(input_dir)
+
 
 if __name__ == "__main__":
     run_post_processing()

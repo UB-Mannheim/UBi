@@ -23,8 +23,9 @@ def get_chainlit_frontend_path():
     import sys
 
     # Check if we're in a virtual environment
-    if (hasattr(sys, 'real_prefix') or
-        (hasattr(sys, 'base_prefix') and sys.base_prefix != sys.prefix)):
+    if hasattr(sys, "real_prefix") or (
+        hasattr(sys, "base_prefix") and sys.base_prefix != sys.prefix
+    ):
         # We're in a virtual environment
         site_packages = Path(sys.prefix) / "lib"
 
@@ -44,6 +45,7 @@ def get_chainlit_frontend_path():
     # Method 4: Fallback - try to import and get path
     try:
         import chainlit
+
         return Path(chainlit.__file__).parent / "frontend"
     except ImportError:
         raise FileNotFoundError("Could not find Chainlit installation")
@@ -58,40 +60,52 @@ def backup_original_template(frontend_path):
         shutil.copy2(index_html, backup_path)
 
 
-
 def create_modified_template(frontend_path):
     """Create a modified version of index.html with local assets."""
     index_html = frontend_path / "index.html"
 
     # Read the original template
-    with open(index_html, 'r', encoding='utf-8') as f:
+    with open(index_html, "r", encoding="utf-8") as f:
         content = f.read()
 
     # Replace external resources with local ones
-    font_start = ('<!-- FONT START -->\n    <link\n      '
-                 'href="https://fonts.googleapis.com/css2?family=Inter:'
-                 'wght@400;500;700&display=swap"\n      rel="stylesheet"\n    />\n    '
-                 '<!-- FONT END -->')
-    font_replacement = ('<!-- LOCAL FONTS START -->\n    '
-                       '<link rel="stylesheet" href="/public/css/fonts.css" />\n    '
-                       '<!-- LOCAL FONTS END -->')
+    font_start = (
+        "<!-- FONT START -->\n    <link\n      "
+        'href="https://fonts.googleapis.com/css2?family=Inter:'
+        'wght@400;500;700&display=swap"\n      rel="stylesheet"\n    />\n    '
+        "<!-- FONT END -->"
+    )
+    font_replacement = (
+        "<!-- LOCAL FONTS START -->\n    "
+        '<link rel="stylesheet" href="/public/css/fonts.css" />\n    '
+        "<!-- LOCAL FONTS END -->"
+    )
     modified_content = content.replace(font_start, font_replacement)
 
-    katex_original = ('<link\n      rel="stylesheet"\n      '
-                     'href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/'
-                     'katex.min.css"\n    />')
-    katex_replacement = '<link rel="stylesheet" href="/public/css/katex.min.css" />'
-    modified_content = modified_content.replace(katex_original, katex_replacement)
+    katex_original = (
+        '<link\n      rel="stylesheet"\n      '
+        'href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/'
+        'katex.min.css"\n    />'
+    )
+    katex_replacement = (
+        '<link rel="stylesheet" href="/public/css/katex.min.css" />'
+    )
+    modified_content = modified_content.replace(
+        katex_original, katex_replacement
+    )
 
     # Remove preconnect links to external domains
-    preconnect_links = ('<link rel="preconnect" href="https://fonts.googleapis.com" />\n    '
-                       '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />')
-    modified_content = modified_content.replace(preconnect_links, '<!-- External preconnect links removed -->')
+    preconnect_links = (
+        '<link rel="preconnect" href="https://fonts.googleapis.com" />\n    '
+        '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />'
+    )
+    modified_content = modified_content.replace(
+        preconnect_links, "<!-- External preconnect links removed -->"
+    )
 
     # Write the modified template
-    with open(index_html, 'w', encoding='utf-8') as f:
+    with open(index_html, "w", encoding="utf-8") as f:
         f.write(modified_content)
-
 
 
 def restore_original_template(frontend_path):
@@ -125,8 +139,9 @@ def main():
         return False
 
     required_files = ["fonts.css", "katex.min.css"]
-    missing_files = [f for f in required_files
-                    if not (local_css_path / f).exists()]
+    missing_files = [
+        f for f in required_files if not (local_css_path / f).exists()
+    ]
 
     if missing_files:
         print(f"❌ Missing required files: {missing_files}")

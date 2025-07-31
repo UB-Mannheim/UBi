@@ -9,11 +9,14 @@ def get_occupancy_data():
     response.raise_for_status()
     return response.json()
 
+
 def make_plotly_figure(areas, detected_language: str = "German"):
     """
     Plot seat availability.
     """
-    sorted_areas = sorted(areas.values(), key=lambda a: a["percent"], reverse=True)
+    sorted_areas = sorted(
+        areas.values(), key=lambda a: a["percent"], reverse=True
+    )
 
     labels = []
     occupancy = []
@@ -45,27 +48,33 @@ def make_plotly_figure(areas, detected_language: str = "German"):
                 text=f"{occupied} / {capacity}",
                 showarrow=False,
                 font=dict(size=14),
-                yanchor="bottom"
+                yanchor="bottom",
             )
         )
 
     fig = go.Figure(
-        data=[go.Bar(
-            x=labels,
-            y=occupancy,
-            marker_color=colors,
-            text=percent_text,
-            textposition="inside",
-            insidetextanchor="middle",
-            insidetextfont=dict(size=14, color="white", family="Arial"),
-            hoverinfo="x+y"
-        )]
+        data=[
+            go.Bar(
+                x=labels,
+                y=occupancy,
+                marker_color=colors,
+                text=percent_text,
+                textposition="inside",
+                insidetextanchor="middle",
+                insidetextfont=dict(size=14, color="white", family="Arial"),
+                hoverinfo="x+y",
+            )
+        ]
     )
 
     fig.update_layout(
         title={
             "text": translate("seats_plot_title", detected_language),
-            "font": {"size": 18, "family": "Arial Black, Arial, sans-serif", "color": "black"}
+            "font": {
+                "size": 18,
+                "family": "Arial Black, Arial, sans-serif",
+                "color": "black",
+            },
         },
         plot_bgcolor="white",
         paper_bgcolor="white",
@@ -75,17 +84,14 @@ def make_plotly_figure(areas, detected_language: str = "German"):
             title_font_size=14,
             tickfont_size=14,
             range=[0, 100],
-            gridcolor='rgba(0,0,0,0.05)',
+            gridcolor="rgba(0,0,0,0.05)",
             zeroline=False,
-            showline=False
+            showline=False,
         ),
-        xaxis=dict(
-            tickfont_size=14,
-            showline=False
-        ),
+        xaxis=dict(tickfont_size=14, showline=False),
         height=550,
         margin=dict(t=80, b=70, l=60, r=60),
-        annotations=top_annotations
+        annotations=top_annotations,
     )
 
     return fig

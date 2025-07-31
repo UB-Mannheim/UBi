@@ -5,12 +5,16 @@ import os
 import chainlit as cl
 from chainlit import Message
 from config import ENV_PATH
-from conversation_memory import (MessageRole, create_conversation_context,
-                                 session_memory)
+from conversation_memory import (
+    MessageRole,
+    create_conversation_context,
+    session_memory,
+)
 from custom_data_layer import CustomDataLayer
 from db import save_interaction
 from dotenv import load_dotenv
 from fastapi import Request, Response
+
 # from website_search import search_ub_website
 from free_seats import get_occupancy_data, make_plotly_figure
 from html_template_modifier import main as modify_html_template
@@ -25,7 +29,9 @@ from translations import translate
 
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
-USE_OPENAI_VECTORSTORE = True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" else False
+USE_OPENAI_VECTORSTORE = (
+    True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" else False
+)
 DEBUG = True if os.getenv("DEBUG") == "True" else False
 
 # === Conditional Imports RAG Pipelines (local / OpenAI) ===
@@ -40,7 +46,9 @@ if USE_OPENAI_VECTORSTORE:
     initialize_vectorstore()
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
     client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    print(f'[bold]🔗 AIMA is running with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}')
+    print(
+        f"[bold]🔗 AIMA is running with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}"
+    )
 
 # === Initialize HTML Template ===
 # Modify Chainlit's HTML template to use local assets
@@ -51,14 +59,19 @@ except Exception as e:
 
 # === Authentication (optional) ===
 users = [
-    cl.User(identifier="1", display_name="Admin",
-            metadata={"username": "admin", "password": "admin"})
+    cl.User(
+        identifier="1",
+        display_name="Admin",
+        metadata={"username": "admin", "password": "admin"},
+    )
 ]
+
 
 # === Data Layer ===
 @cl.data_layer
 def get_data_layer():
     return CustomDataLayer()
+
 
 # === Starter Buttons ===
 @cl.set_starters
@@ -66,31 +79,33 @@ async def set_starters(user=None):
     return [
         cl.Starter(
             label="Öffnungszeiten",
-            message="Welche Bibliotheksbereiche der UB Mannheim haben jetzt geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite."
-            ),
+            message="Welche Bibliotheksbereiche der UB Mannheim haben jetzt geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite.",
+        ),
         cl.Starter(
             label="Sitzplätze",
-            message="Gibt es aktuell freie Sitzplätze in der Bibliothek?"
-            ),
+            message="Gibt es aktuell freie Sitzplätze in der Bibliothek?",
+        ),
         cl.Starter(
             label="Services",
-            message="Liste alle Dienstleistungen und Services der UB Mannheim für Studierende und Forschende auf."
-            ),
+            message="Liste alle Dienstleistungen und Services der UB Mannheim für Studierende und Forschende auf.",
+        ),
         cl.Starter(
             label="Standorte",
-            message="Gib mir eine Liste aller Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Webseitenlink in Klammern."
-            ),
+            message="Gib mir eine Liste aller Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Webseitenlink in Klammern.",
+        ),
         cl.Starter(
             label="Neuigkeiten",
-            message="Was für Neuigkeiten gibt es aus der UB Mannheim?"
-            ),
+            message="Was für Neuigkeiten gibt es aus der UB Mannheim?",
+        ),
     ]
+
 
 # === System Prompt for OpenAI Vectorstore Option ===
 def get_instructions(language="German"):
-    today = datetime.datetime.now().strftime('%B %d, %Y')
+    today = datetime.datetime.now().strftime("%B %d, %Y")
     prompt = BASE_SYSTEM_PROMPT.format(today=today)
     return prompt.replace("{language}", language)
+
 
 # === Chat Start: Initialize Session Memory and Terms ===
 @cl.on_chat_start
@@ -114,6 +129,7 @@ async def on_chat_start():
         rag_chain = await create_rag_chain(debug=DEBUG)
         cl.user_session.set("rag_chain", rag_chain)
 
+
 # === Chat Message Handler ===
 @cl.on_message
 async def on_message(message: cl.Message):
@@ -134,8 +150,8 @@ async def on_message(message: cl.Message):
     )
     if not allowed:
         await cl.Message(
-            content=error_message or "Rate limit exceeded",
-            author="assistant").send()
+            content=error_message or "Rate limit exceeded", author="assistant"
+        ).send()
         return
 
     # Record the request if it passes all checks
@@ -166,9 +182,7 @@ async def on_message(message: cl.Message):
 
     # LLM routing, language detection, prompt augmentation
     detected_language, route, augmented_input = await route_and_augment_query(
-        client if USE_OPENAI_VECTORSTORE else None,
-        user_input,
-        debug=DEBUG
+        client if USE_OPENAI_VECTORSTORE else None, user_input, debug=DEBUG
     )
 
     # RSS feed / Neuigkeiten aus der UB
@@ -179,7 +193,9 @@ async def on_message(message: cl.Message):
             await Message(content=response, author="assistant").send()
         else:
             heading = translate("news_heading", detected_language)
-            body = "\n\n".join(f"- **{title}**\n  {link}" for title, link, _ in items)
+            body = "\n\n".join(
+                f"- **{title}**\n  {link}" for title, link, _ in items
+            )
             response = heading + body
             await Message(content=response, author="assistant").send()
 
@@ -206,22 +222,33 @@ async def on_message(message: cl.Message):
             await cl.Message(
                 content=response,
                 elements=[
-                    cl.Plotly(name=plot_label, figure=fig, display="inline", size="large")
+                    cl.Plotly(
+                        name=plot_label,
+                        figure=fig,
+                        display="inline",
+                        size="large",
+                    )
                 ],
-                author="assistant"
+                author="assistant",
             ).send()
 
             # Add to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
-            session_memory.add_turn(session_id, MessageRole.ASSISTANT, response+f" Data:{data}")
+            session_memory.add_turn(
+                session_id, MessageRole.ASSISTANT, response + f" Data:{data}"
+            )
             await save_interaction(session_id, user_input, response)
         except Exception as e:
-            error_response = f"{translate('seats_error', detected_language)}: {str(e)}"
+            error_response = (
+                f"{translate('seats_error', detected_language)}: {str(e)}"
+            )
             await cl.Message(content=error_response, author="assistant").send()
 
             # Add to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
-            session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
+            session_memory.add_turn(
+                session_id, MessageRole.ASSISTANT, error_response
+            )
             await save_interaction(session_id, user_input, error_response)
         return
 
@@ -248,39 +275,51 @@ async def on_message(message: cl.Message):
             stream = await client.responses.create(
                 model="gpt-4o-mini-2024-07-18",
                 input=[{"role": "user", "content": model_input}],
-                tools=[{
-                    "type": "file_search",
-                    "vector_store_ids": [OPENAI_VECTORSTORE_ID],
-                    "max_num_results": 6
-                }],
+                tools=[
+                    {
+                        "type": "file_search",
+                        "vector_store_ids": [OPENAI_VECTORSTORE_ID],
+                        "max_num_results": 6,
+                    }
+                ],
                 instructions=get_instructions(detected_language),
                 stream=True,
-                temperature=0
+                temperature=0,
             )
             async for event in stream:
-                if event.type == 'response.output_text.delta' and event.delta:
+                if event.type == "response.output_text.delta" and event.delta:
                     token = event.delta
                     await msg.stream_token(token)
                     full_answer += token
         except Exception as e:
-            error_response = f"{translate('openai_api_error', detected_language)}: {e}"
+            error_response = (
+                f"{translate('openai_api_error', detected_language)}: {e}"
+            )
             await Message(content=error_response).send()
 
             # Add error to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
-            session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
-            await save_interaction(session_id, user_input, error_response, augmented_input)
+            session_memory.add_turn(
+                session_id, MessageRole.ASSISTANT, error_response
+            )
+            await save_interaction(
+                session_id, user_input, error_response, augmented_input
+            )
             return
 
         if full_answer:
             await msg.update()
         else:
-            error_response = f"{translate('response_error', detected_language)}"
+            error_response = (
+                f"{translate('response_error', detected_language)}"
+            )
             await cl.Message(content=error_response).send()
 
         # Save interaction
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_answer)
-        await save_interaction(session_id, user_input, full_answer, augmented_input)
+        await save_interaction(
+            session_id, user_input, full_answer, augmented_input
+        )
 
     # === Local RAG Logic ===
     else:
@@ -290,11 +329,13 @@ async def on_message(message: cl.Message):
             cl.user_session.set("rag_chain", rag_chain)
         try:
             # Get conversation context
-            response_generator = rag_chain.astream({
-                "question": augmented_input,
-                "conversation_context": conversation_context,
-                "language": detected_language
-            })
+            response_generator = rag_chain.astream(
+                {
+                    "question": augmented_input,
+                    "conversation_context": conversation_context,
+                    "language": detected_language,
+                }
+            )
 
             # Stream response
             full_response = ""
@@ -305,17 +346,27 @@ async def on_message(message: cl.Message):
             await msg.send()
 
             # Add assistant response to memory
-            session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_response)
-            await save_interaction(session_id, user_input, full_response, augmented_input)
+            session_memory.add_turn(
+                session_id, MessageRole.ASSISTANT, full_response
+            )
+            await save_interaction(
+                session_id, user_input, full_response, augmented_input
+            )
 
         except Exception as e:
-            error_response = f"{translate('local_rag_error', detected_language)}: {str(e)}"
+            error_response = (
+                f"{translate('local_rag_error', detected_language)}: {str(e)}"
+            )
             await Message(content=error_response).send()
 
             # Add error to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
-            session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
-            await save_interaction(session_id, user_input, error_response, augmented_input)
+            session_memory.add_turn(
+                session_id, MessageRole.ASSISTANT, error_response
+            )
+            await save_interaction(
+                session_id, user_input, error_response, augmented_input
+            )
 
         # Optional: fallback to web search
         # fallback = search_ub_website(user_input)
@@ -325,6 +376,7 @@ async def on_message(message: cl.Message):
         # ).send()
         # await save_interaction(session_id, user_input, fallback)
 
+
 # === Chat End ===
 @cl.on_chat_end
 async def on_chat_end():
@@ -332,6 +384,7 @@ async def on_chat_end():
     if session_id:
         # End session and clear memory
         session_memory.end_session(session_id)
+
 
 # === Logout ===
 @cl.on_logout

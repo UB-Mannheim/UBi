@@ -9,13 +9,15 @@ from tqdm import tqdm
 llm = ChatOpenAI(
     model_name="gpt-4o-mini-2024-07-18",
     temperature=0,
-    openai_api_key=os.getenv("OPENAI_API_KEY")
+    openai_api_key=os.getenv("OPENAI_API_KEY"),
 )
+
 
 # Extract first URL from markdown fallback
 def extract_first_url(md_text):
-    match = re.search(r'https?://\S+', md_text)
+    match = re.search(r"https?://\S+", md_text)
     return match.group(0) if match else ""
+
 
 # Build a single-prompt to generate all Q&A from markdown
 def generate_qa_from_markdown(md_text):
@@ -53,6 +55,7 @@ Antwort nur im folgenden JSON-Format:
         print("❌ Fehler beim Parsen der Antwort:", e)
         return []
 
+
 # Process all markdown files in a directory
 def process_all_markdown_files(input_dir, output_dir):
     os.makedirs(output_dir, exist_ok=True)
@@ -62,7 +65,7 @@ def process_all_markdown_files(input_dir, output_dir):
         md_path = os.path.join(input_dir, filename)
         print(f"🔍 Verarbeite {md_path} ...")
 
-        with open(md_path, 'r', encoding='utf-8') as file:
+        with open(md_path, "r", encoding="utf-8") as file:
             md_text = file.read()
 
         qa_pairs = generate_qa_from_markdown(md_text)
@@ -71,7 +74,10 @@ def process_all_markdown_files(input_dir, output_dir):
         with open(out_path, "w", encoding="utf-8") as out_file:
             json.dump(qa_pairs, out_file, indent=2, ensure_ascii=False)
 
-        print(f"✅ {len(qa_pairs)} Frage-Antwort-Paare gespeichert in {out_path}.")
+        print(
+            f"✅ {len(qa_pairs)} Frage-Antwort-Paare gespeichert in {out_path}."
+        )
+
 
 # Entry point
 if __name__ == "__main__":
