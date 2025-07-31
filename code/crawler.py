@@ -11,7 +11,6 @@ import requests
 import utils
 from bs4 import BeautifulSoup, Tag
 from config import CRAWL_DIR, URLS_TO_CRAWL
-from dotenv import load_dotenv
 from markdown_processing import write_markdown
 from rich import print
 from tqdm import tqdm

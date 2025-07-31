@@ -9,7 +9,6 @@ import backoff
 import click
 import utils
 from config import CRAWL_DIR, DATA_DIR
-from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from prompts import PROMPT_POST_PROCESSING
 from rich import print
