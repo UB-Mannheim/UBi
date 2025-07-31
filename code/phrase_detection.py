@@ -1,6 +1,5 @@
 from typing import Optional, Tuple
 
-
 # Comprehensive phrase detection for cost-saving responses
 THANK_YOU_PHRASES = {
     # German thank you phrases

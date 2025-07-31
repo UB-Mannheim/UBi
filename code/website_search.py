@@ -1,6 +1,7 @@
+import html
+
 import requests
 from bs4 import BeautifulSoup
-import html
 
 
 def search_ub_website(query: str, max_results: int = 5) -> str:

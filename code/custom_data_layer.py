@@ -1,14 +1,16 @@
 import datetime
-import uuid
 import json
-from typing import Dict, Optional, List
-from chainlit.data import BaseDataLayer
+import uuid
+from typing import Dict, List, Optional
+
+import chainlit as cl
 from chainlit import PersistedUser, User
-from chainlit.types import Feedback, ThreadDict, Pagination, ThreadFilter, PaginatedResponse, PageInfo
+from chainlit.data import BaseDataLayer
 from chainlit.element import ElementDict
 from chainlit.step import StepDict
+from chainlit.types import (Feedback, PageInfo, PaginatedResponse, Pagination,
+                            ThreadDict, ThreadFilter)
 from db import save_interaction
-import chainlit as cl
 
 
 class CustomDataLayer(BaseDataLayer):

@@ -1,5 +1,5 @@
-from langchain.callbacks.base import BaseCallbackHandler
 import chainlit as cl
+from langchain.callbacks.base import BaseCallbackHandler
 
 
 class StreamHandler(BaseCallbackHandler):

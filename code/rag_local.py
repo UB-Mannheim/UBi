@@ -1,16 +1,17 @@
-import os
 import datetime
-import chromadb.config
-from rich import print
-from langchain_chroma import Chroma
-from langchain_openai import OpenAIEmbeddings, ChatOpenAI
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_core.output_parsers import StrOutputParser
-from langchain import hub
-from langchain_community.document_loaders import UnstructuredMarkdownLoader
-from config import DATA_DIR, PERSIST_DIR, CHUNK_SIZE, CHUNK_OVERLAP
+import os
 from operator import itemgetter
+
+import chromadb.config
+from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
+from langchain import hub
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_chroma import Chroma
+from langchain_community.document_loaders import UnstructuredMarkdownLoader
+from langchain_core.output_parsers import StrOutputParser
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from prompts import BASE_SYSTEM_PROMPT
+from rich import print
 
 
 def format_docs(docs):

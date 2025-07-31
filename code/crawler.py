@@ -1,19 +1,21 @@
-import re
-import aiohttp
 import asyncio
+import re
+import xml.etree.ElementTree as ET
+from pathlib import Path
+from typing import Optional
+from urllib.parse import urljoin
+
+import aiohttp
 import click
 import requests
-import xml.etree.ElementTree as ET
 import utils
-from rich import print
-from typing import Optional
-from pathlib import Path
 from bs4 import BeautifulSoup, Tag
-from urllib.parse import urljoin
-from tqdm import tqdm
+from config import CRAWL_DIR, URLS_TO_CRAWL
 from dotenv import load_dotenv
-from config import URLS_TO_CRAWL, CRAWL_DIR
 from markdown_processing import write_markdown
+from rich import print
+from tqdm import tqdm
+
 
 # === Crawler Funtions ===
 async def crawl_urls(
