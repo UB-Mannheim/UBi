@@ -1,7 +1,6 @@
 import json
 import os
 import re
-
 import json_repair
 from openai import AsyncOpenAI
 from prompts import ROUTER_AUGMENTOR_PROMPT
@@ -11,7 +10,7 @@ from utils import is_valid_json
 
 async def route_and_augment_query(
     client: AsyncOpenAI | None,
-    user_input: str,
+    user_input: list[dict],
     model: str = "gpt-4.1-nano-2025-04-14",
     debug: bool = False,
 ) -> tuple[str, str, str]:
@@ -33,8 +32,7 @@ async def route_and_augment_query(
             model=model,
             messages=[
                 {"role": "system", "content": ROUTER_AUGMENTOR_PROMPT},
-                {"role": "user", "content": f"User query: '{user_input}'"},
-            ],
+            ] + user_input,
             temperature=0,
         )
 
@@ -62,7 +60,7 @@ async def route_and_augment_query(
                         print(
                             "🚦 [bold]LLM Router classified and augmented query:"
                         )
-                        print(f"   - Query: {user_input}")
+                        print(f"   - Query: {user_input[-1]['content']}")
                         print(f"   - Detected Language: {language}")
                         print(f"   - Detected Route Category: {category}")
                         print(f"   - Augmented Query: {augmented_query}")

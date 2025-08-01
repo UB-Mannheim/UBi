@@ -14,6 +14,8 @@ ABBREVIATIONS = """
    - Schneckenhof = Bibliotheksbereich Schloss Schneckenhof (Schloss Schneckenhof Library)
    - Ehrenhof = Bibliotheksbereich Schloss Ehrenhof (Schloss Ehrenhof Library)
    - Ausleihzentrum = Ausleihzentrum Schloss Westflügel (Central Lending Library Schloss Westflügel)
+   - Study Skills = University Library courses and workshops with useful tips on academic research and writing
+   - RDM Seminars / Research Data Management seminars = Forschungsdatenzentrum courses and workshops on research data management
    - BERD = BERD@NFDI
    - Uni MA = Universität Mannheim (Mannheim University)
    - DHBW = Duale Hochschule Baden-Württemberg Mannheim (Baden-Wuerttemberg Cooperative State University (DHBW))
@@ -129,6 +131,7 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for the Universi
 - 'news': Users requesting SPECIFICALLY current/recent news from the Universitätsbibliothek (blog posts, announcements from the last few months) or current events from the library. Historical events or dates before the current year are NOT news.
     - Additional rule: If a query contains a date more than 1 year in the past, it cannot be classified as 'news'.
 - 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats.
+- 'event': Questions SPECIFICALLY about current workshops, (e-learning) courses, exhibtions and events offered by the Universitätsbibliothek Mannheim.
 - 'message': All other inquiries (locations, directions, services, databases, opening hours, literature searches, historical research, academic questions, etc.).
 
 **Key Distinctions:**
@@ -138,6 +141,11 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for the Universi
 - "I want to access news databases" → 'message'
 - "Was geschah am [historical date]?" → 'message' (historical research)
 - "Gibt es neue Nachrichten aus der Bibliothek?" → 'news' (current library news request)
+- "Are there any workshops for students?" → 'event' (current workshop offers)
+- "Welche Kurse bietet die UB für Data Literacy an?" → 'event' (current workshop offers)
+- "Wo finde ich Informationen zu Literaturrecherchekursen?" → 'event'
+- "Wann finden die nächsten Study Skills statt?" → 'event'
+- "How can I register for a workshop at the University Library?" → 'event'
 
 **Query Augmentation Rules:**
 1. Interpret abbreviations: {ABBREVIATIONS}
@@ -150,12 +158,13 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for the Universi
    - Synonym integration (field-specific terminology)
 4. DO NOT add interpretations - only enhance
 5. Preserve the detected language in the augmented query
+6. IF there is a chat history, use the additional context for augmentation as well
 6. If query is already good, return with minimal improvements
 
 **Output Format (JSON):**
 {{
   "language": "<detected_language>",
-  "category": "<news|sitzplatz|message>",
+  "category": "<news|sitzplatz|event|message>",
   "augmented_query": "<enhanced_query_in_original_language>"
 }}
 

@@ -111,6 +111,23 @@ def get_instructions(language="German"):
     return prompt.replace("{language}", language)
 
 
+# === Query for LLM Router ===
+def prepare_query_for_router(
+    user_input: str, chat_history: Optional[list[dict]]
+    ):
+    """
+    Prepare a user query for the LLM router and inject the last LLM 
+    response for additional context if chat_history is already available.
+    """
+    query_for_routing = [{"role": "user", "content": user_input}]
+    if chat_history:
+        query_for_routing = [
+            {"role": "assistant", "content": chat_history[-1]['content']},
+            {"role": "user", "content": user_input}
+        ]
+    return query_for_routing
+
+
 # === OpenAI Vectorstore Logic ===
 async def handle_openai_vectorstore_query(
     client: AsyncOpenAI,
@@ -268,7 +285,7 @@ async def handle_news_route(
     detected_language: str, msg: cl.Message, session_id: str, user_input: str
 ):
     """
-    Handle news/neuigkeiten route
+    Route for handling library news.
     """
     items = get_rss_items()
     if not items:
@@ -298,7 +315,7 @@ async def handle_sitzplatz_route(
     detected_language: str, msg: cl.Message, session_id: str, user_input: str
 ):
     """
-    Handle sitzplatz/free seats route
+    Route for handling questions regarding occupancy of the library.
     """
     try:
         data = get_occupancy_data()
@@ -348,6 +365,28 @@ async def handle_sitzplatz_route(
         )
         await save_interaction(session_id, user_input, error_response)
         return error_response
+    
+    
+# === Events / Workshops Route ===
+async def handle_event_route(
+    detected_language: str, msg: cl.Message, session_id: str, user_input: str
+):
+    """
+    Route for handling questions about current events and workshops.
+    """
+    response = translate("events_response", detected_language)
+
+    # Clear the message and stream the response
+    await msg.stream_token("")
+    for char in response:
+        await msg.stream_token(char)
+    await msg.update()
+
+    # Add to memory
+    session_memory.add_turn(session_id, MessageRole.USER, user_input)
+    session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
+    await save_interaction(session_id, user_input, response)
+    return response
 
 
 # === Chat Start: Initialize Session Memory and Terms ===
@@ -428,36 +467,37 @@ async def on_message(message: cl.Message):
     msg = cl.Message(content="", author="assistant")
     await msg.send()
     await msg.stream_token(" ")
-
+    
+    # Build chat_history with previous conversation context
+    chat_history = create_conversation_context(session_id)
+    
     # === LLM Router ===
     detected_language, route, augmented_input = await route_and_augment_query(
         client if USE_OPENAI_VECTORSTORE else None,
-        user_input,
+        prepare_query_for_router(user_input, chat_history),
         debug=DEBUG
     )
 
     # "News" Route
     if route and route.lower() == "news":
         await handle_news_route(
-            detected_language,
-            msg,
-            session_id,
-            user_input
+            detected_language, msg, session_id, user_input
         )
         return
 
     # "Free seats" Route
     if route and route.lower() == "sitzplatz":
         await handle_sitzplatz_route(
-            detected_language,
-            msg,
-            session_id,
-            user_input
+            detected_language, msg, session_id, user_input
         )
         return
-
-    # Build chat_history with previous conversation context
-    chat_history = create_conversation_context(session_id)
+    
+    # "Workshop / Events" Route
+    if route and route.lower() == "event":
+        await handle_event_route(
+            detected_language, msg, session_id, user_input
+        )
+        return
 
     # Add user message to memory (after getting context)
     session_memory.add_turn(session_id, MessageRole.USER, user_input)
