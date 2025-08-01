@@ -7,6 +7,7 @@ from fastapi import Request, Response
 from rich import print
 from typing import Optional
 
+# === AIMA imports ===
 from config import ENV_PATH
 from conversation_memory import (
     MessageRole,
@@ -34,7 +35,7 @@ USE_OPENAI_VECTORSTORE = (
 DEBUG = True if os.getenv("DEBUG") == "True" else False
 
 
-# === Conditional Imports RAG Pipelines (local / OpenAI) ===
+# === Conditional Imports for OpenAI vectorstore / RAG logic ===
 if USE_OPENAI_VECTORSTORE:
     from openai import AsyncOpenAI
     from rag_openai import initialize_vectorstore
@@ -50,8 +51,7 @@ if USE_OPENAI_VECTORSTORE:
     print(f"[bold]🔗 AIMA runs with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}")
 
 
-# === Initialize HTML Template ===
-# Modify Chainlit's HTML template to use local assets
+# === Modify Chainlit's HTML template ===
 try:
     modify_html_template()
 except Exception as e:
@@ -103,6 +103,9 @@ async def set_starters(user=None):
 
 # === System Prompt for OpenAI Vectorstore Option ===
 def get_instructions(language="German"):
+    """
+    Build system prompt instructions for OpenAI vectorstore logic.
+    """
     today = datetime.datetime.now().strftime("%B %d, %Y")
     prompt = BASE_SYSTEM_PROMPT.format(today=today)
     return prompt.replace("{language}", language)
@@ -119,7 +122,7 @@ async def handle_openai_vectorstore_query(
     user_input: str,
 ):
     """
-    Handle queries using OpenAI vectorstore
+    Handle queries using OpenAI vectorstore.
     """
     if chat_history:
         # Append new message to chat_history
@@ -208,7 +211,7 @@ async def handle_local_rag_query(
         cl.user_session.set("rag_chain", rag_chain)
 
     try:
-        # Convert conversation context list to string format for the RAG chain
+        # Convert chat_history list to string format for the RAG chain
         if chat_history:
             context_string = "\n".join(
                 [f"{msg['role']}: {msg['content']}" for msg in chat_history]
@@ -428,20 +431,28 @@ async def on_message(message: cl.Message):
 
     # === LLM Router ===
     detected_language, route, augmented_input = await route_and_augment_query(
-        client if USE_OPENAI_VECTORSTORE else None, user_input, debug=DEBUG
+        client if USE_OPENAI_VECTORSTORE else None,
+        user_input,
+        debug=DEBUG
     )
 
     # "News" Route
     if route and route.lower() == "news":
         await handle_news_route(
-            detected_language, msg, session_id, user_input
+            detected_language,
+            msg,
+            session_id,
+            user_input
         )
         return
 
     # "Free seats" Route
     if route and route.lower() == "sitzplatz":
         await handle_sitzplatz_route(
-            detected_language, msg, session_id, user_input
+            detected_language,
+            msg,
+            session_id,
+            user_input
         )
         return
 
