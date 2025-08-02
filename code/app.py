@@ -1,11 +1,10 @@
 # === Imports ===
 import datetime
 import os
+from typing import Optional
+
 import chainlit as cl
 from chainlit import Message
-from fastapi import Request, Response
-from dotenv import load_dotenv
-from typing import Optional
 from config import ENV_PATH
 from conversation_memory import (
     MessageRole,
@@ -108,6 +107,7 @@ def get_instructions(language="German"):
     prompt = BASE_SYSTEM_PROMPT.format(today=today)
     return prompt.replace("{language}", language)
 
+
 # === OpenAI Vectorstore Logic ===
 async def handle_openai_vectorstore_query(
     client: AsyncOpenAI,
@@ -116,8 +116,8 @@ async def handle_openai_vectorstore_query(
     detected_language: str,
     msg: cl.Message,
     session_id: str,
-    user_input: str
-    ):
+    user_input: str,
+):
     """
     Handle queries using OpenAI vectorstore
     """
@@ -128,31 +128,35 @@ async def handle_openai_vectorstore_query(
     else:
         # Start new chat_history
         chat_history = [{"role": "user", "content": augmented_input}]
-    
+
     if DEBUG:
         print(f"💬 Chat history: {chat_history}")
- 
+
     full_answer = ""
     try:
         stream = await client.responses.create(
             model="gpt-4o-mini-2024-07-18",
             input=chat_history,
-            tools=[{
-                "type": "file_search",
-                "vector_store_ids": [OPENAI_VECTORSTORE_ID],
-                "max_num_results": 6
-            }],
+            tools=[
+                {
+                    "type": "file_search",
+                    "vector_store_ids": [OPENAI_VECTORSTORE_ID],
+                    "max_num_results": 6,
+                }
+            ],
             instructions=get_instructions(detected_language),
             stream=True,
-            temperature=0
+            temperature=0,
         )
         async for event in stream:
-            if event.type == 'response.output_text.delta' and event.delta:
+            if event.type == "response.output_text.delta" and event.delta:
                 token = event.delta
                 await msg.stream_token(token)
                 full_answer += token
     except Exception as e:
-        error_response = f"{translate('openai_api_error', detected_language)}: {e}"
+        error_response = (
+            f"{translate('openai_api_error', detected_language)}: {e}"
+        )
         await msg.stream_token("")
         for char in error_response:
             await msg.stream_token(char)
@@ -160,8 +164,12 @@ async def handle_openai_vectorstore_query(
 
         # Add error to memory
         session_memory.add_turn(session_id, MessageRole.USER, user_input)
-        session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
-        await save_interaction(session_id, user_input, error_response, augmented_input)
+        session_memory.add_turn(
+            session_id, MessageRole.ASSISTANT, error_response
+        )
+        await save_interaction(
+            session_id, user_input, error_response, augmented_input
+        )
         return False, error_response
 
     if full_answer:
@@ -176,8 +184,11 @@ async def handle_openai_vectorstore_query(
 
     # Save interaction
     session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_answer)
-    await save_interaction(session_id, user_input, full_answer, augmented_input)
+    await save_interaction(
+        session_id, user_input, full_answer, augmented_input
+    )
     return True, full_answer
+
 
 # === Local RAG Logic ===
 async def handle_local_rag_query(
@@ -186,8 +197,8 @@ async def handle_local_rag_query(
     detected_language: str,
     msg: cl.Message,
     session_id: str,
-    user_input: str
-    ):
+    user_input: str,
+):
     """
     Handle queries using local RAG chain
     """
@@ -195,19 +206,23 @@ async def handle_local_rag_query(
     if not rag_chain:
         rag_chain = await create_rag_chain(debug=DEBUG)
         cl.user_session.set("rag_chain", rag_chain)
-    
+
     try:
         # Convert conversation context list to string format for the RAG chain
         if chat_history:
-            context_string = "\n".join([f"{msg['role']}: {msg['content']}" for msg in chat_history])
+            context_string = "\n".join(
+                [f"{msg['role']}: {msg['content']}" for msg in chat_history]
+            )
         else:
             context_string = ""
 
-        response_generator = rag_chain.astream({
-            "question": augmented_input,
-            "conversation_context": context_string,
-            "language": detected_language
-        })
+        response_generator = rag_chain.astream(
+            {
+                "question": augmented_input,
+                "conversation_context": context_string,
+                "language": detected_language,
+            }
+        )
 
         # Stream response
         full_response = ""
@@ -217,12 +232,18 @@ async def handle_local_rag_query(
         await msg.update()
 
         # Add assistant response to memory
-        session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_response)
-        await save_interaction(session_id, user_input, full_response, augmented_input)
+        session_memory.add_turn(
+            session_id, MessageRole.ASSISTANT, full_response
+        )
+        await save_interaction(
+            session_id, user_input, full_response, augmented_input
+        )
         return True, full_response
 
     except Exception as e:
-        error_response = f"{translate('local_rag_error', detected_language)}: {str(e)}"
+        error_response = (
+            f"{translate('local_rag_error', detected_language)}: {str(e)}"
+        )
         await msg.stream_token("")
         for char in error_response:
             await msg.stream_token(char)
@@ -230,26 +251,30 @@ async def handle_local_rag_query(
 
         # Add error to memory
         session_memory.add_turn(session_id, MessageRole.USER, user_input)
-        session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
-        await save_interaction(session_id, user_input, error_response, augmented_input)
+        session_memory.add_turn(
+            session_id, MessageRole.ASSISTANT, error_response
+        )
+        await save_interaction(
+            session_id, user_input, error_response, augmented_input
+        )
         return False, error_response
+
 
 # === News Route ===
 async def handle_news_route(
-    detected_language: str,
-    msg: cl.Message,
-    session_id: str,
-    user_input: str
-    ):
+    detected_language: str, msg: cl.Message, session_id: str, user_input: str
+):
     """
     Handle news/neuigkeiten route
     """
-    items = get_rss_items()        
+    items = get_rss_items()
     if not items:
         response = translate("no_news_found", detected_language)
     else:
         heading = translate("news_heading", detected_language)
-        body = "\n\n".join(f"- **{title}**\n  {link}" for title, link, _ in items)
+        body = "\n\n".join(
+            f"- **{title}**\n  {link}" for title, link, _ in items
+        )
         response = heading + body
 
     # Clear the message and stream the response
@@ -264,13 +289,11 @@ async def handle_news_route(
     await save_interaction(session_id, user_input, response)
     return response
 
+
 # === Sitzplatz Route ===
 async def handle_sitzplatz_route(
-    detected_language: str,
-    msg: cl.Message,
-    session_id: str,
-    user_input: str
-    ):
+    detected_language: str, msg: cl.Message, session_id: str, user_input: str
+):
     """
     Handle sitzplatz/free seats route
     """
@@ -292,16 +315,24 @@ async def handle_sitzplatz_route(
             await msg.stream_token(char)
 
         # Set the elements on the existing message
-        msg.elements = [cl.Plotly(name=plot_label, figure=fig, display="inline", size="large")]
+        msg.elements = [
+            cl.Plotly(
+                name=plot_label, figure=fig, display="inline", size="large"
+            )
+        ]
         await msg.update()
 
         # Add to memory
         session_memory.add_turn(session_id, MessageRole.USER, user_input)
-        session_memory.add_turn(session_id, MessageRole.ASSISTANT, response+f" Data:{data}")
+        session_memory.add_turn(
+            session_id, MessageRole.ASSISTANT, response + f" Data:{data}"
+        )
         await save_interaction(session_id, user_input, response)
         return response
     except Exception as e:
-        error_response = f"{translate('seats_error', detected_language)}: {str(e)}"
+        error_response = (
+            f"{translate('seats_error', detected_language)}: {str(e)}"
+        )
         await msg.stream_token("")
         for char in error_response:
             await msg.stream_token(char)
@@ -309,9 +340,12 @@ async def handle_sitzplatz_route(
 
         # Add to memory
         session_memory.add_turn(session_id, MessageRole.USER, user_input)
-        session_memory.add_turn(session_id, MessageRole.ASSISTANT, error_response)
+        session_memory.add_turn(
+            session_id, MessageRole.ASSISTANT, error_response
+        )
         await save_interaction(session_id, user_input, error_response)
         return error_response
+
 
 # === Chat Start: Initialize Session Memory and Terms ===
 @cl.on_chat_start
@@ -403,7 +437,9 @@ async def on_message(message: cl.Message):
 
     # "Free seats" Route
     if route and route.lower() == "sitzplatz":
-        await handle_sitzplatz_route(detected_language, msg, session_id, user_input)
+        await handle_sitzplatz_route(
+            detected_language, msg, session_id, user_input
+        )
         return
 
     # Build chat_history with previous conversation context
@@ -421,7 +457,7 @@ async def on_message(message: cl.Message):
             detected_language,
             msg,
             session_id,
-            user_input
+            user_input,
         )
         if not success:
             return
@@ -434,7 +470,7 @@ async def on_message(message: cl.Message):
             detected_language,
             msg,
             session_id,
-            user_input
+            user_input,
         )
         if not success:
             return
