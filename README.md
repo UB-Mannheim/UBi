@@ -52,7 +52,7 @@ pip install -r requirements.txt
 You can choose between two ways of running the app:
 
 1. Running the RAG pipeline **locally**
-    - This option will embedd all documents locally using the OpenAI embedding model `text-embedding-ada-002` and create a `chromadb` vectorstore.
+    - This option will embed all documents locally using the OpenAI embedding model `text-embedding-ada-002` and create a `chromadb` vectorstore.
 2. Running the RAG pipeline with an **OpenAI vectorstore**
     - This option will create and upload all document to an [OpenAI vectorstore](https://platform.openai.com/docs/api-reference/vector-stores)
 
