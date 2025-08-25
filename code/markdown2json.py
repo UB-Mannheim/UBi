@@ -1,6 +1,5 @@
 import json
 import os
-import re
 
 from langchain_openai import ChatOpenAI
 from tqdm import tqdm
@@ -13,16 +12,8 @@ llm = ChatOpenAI(
 )
 
 
-# Extract first URL from markdown fallback
-def extract_first_url(md_text):
-    match = re.search(r"https?://\S+", md_text)
-    return match.group(0) if match else ""
-
-
 # Build a single-prompt to generate all Q&A from markdown
 def generate_qa_from_markdown(md_text):
-    fallback_url = extract_first_url(md_text)
-
     prompt = f'''
 Du bist ein hilfsbereiter Assistent. Deine Aufgabe ist es, aus dem folgenden Markdown-Inhalt strukturierte Frage-Antwort-Paare zu generieren.
 

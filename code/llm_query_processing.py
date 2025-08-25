@@ -75,7 +75,7 @@ async def route_and_augment_query(
                     print(f"⚠️  Warning: Could not parse response json: {e}")
         else:
             if debug:
-                print(f"⚠️  No content in LLM response. Returning fallback.")
+                print("⚠️  No content in LLM response. Returning fallback.")
         return ("German", "message", user_input)
     except Exception as e:
         print(f"⚠️  Warning: Could not route query: {e}")

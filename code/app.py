@@ -365,8 +365,8 @@ async def handle_sitzplatz_route(
         )
         await save_interaction(session_id, user_input, error_response)
         return error_response
-    
-    
+
+
 # === Events / Workshops Route ===
 async def handle_event_route(
     detected_language: str, msg: cl.Message, session_id: str, user_input: str

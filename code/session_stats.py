@@ -3,7 +3,7 @@ Session Statistics Module for AIMA
 Provides user-friendly session statistics and usage information
 """
 
-from typing import Dict, Optional
+from typing import Optional
 
 from conversation_memory import session_memory
 

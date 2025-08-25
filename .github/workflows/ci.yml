@@ -28,4 +28,4 @@ jobs:
 
     - name: Run flake8
       run: |
-        flake8 --max-line-length 199 ./code
+        flake8 code

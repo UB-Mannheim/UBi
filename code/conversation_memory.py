@@ -414,9 +414,6 @@ def create_conversation_context(session_id: str) -> List[Dict[str, str]]:
     for turn in recent_turns:
         # Convert MessageRole enum to string format expected by the API
         role = turn.role.value  # This will be "user", "assistant", or "system"
-        context_messages.append({
-            "role": role,
-            "content": turn.content
-        })
+        context_messages.append({"role": role, "content": turn.content})
 
     return context_messages
