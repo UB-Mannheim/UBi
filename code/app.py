@@ -1,10 +1,13 @@
-# === Imports ===
 import datetime
 import os
-from typing import Optional
-
 import chainlit as cl
 from chainlit import Message
+from dotenv import load_dotenv
+from fastapi import Request, Response
+from rich import print
+from typing import Optional
+
+# === AIMA imports ===
 from config import ENV_PATH
 from conversation_memory import (
     MessageRole,
@@ -13,20 +16,16 @@ from conversation_memory import (
 )
 from custom_data_layer import CustomDataLayer
 from db import save_interaction
-from dotenv import load_dotenv
-from fastapi import Request, Response
-
-# from website_search import search_ub_website
 from free_seats import get_occupancy_data, make_plotly_figure
 from html_template_modifier import main as modify_html_template
 from llm_query_processing import route_and_augment_query
 from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
-from rich import print
 from rss_reader import get_rss_items
 from session_stats import check_session_warnings, get_session_usage_message
 from terms_conditions import ask_terms_acceptance, check_terms_accepted
 from translations import translate
+
 
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
@@ -35,28 +34,29 @@ USE_OPENAI_VECTORSTORE = (
 )
 DEBUG = True if os.getenv("DEBUG") == "True" else False
 
-# === Conditional Imports RAG Pipelines (local / OpenAI) ===
+
+# === Conditional Imports for OpenAI vectorstore / RAG logic ===
 if USE_OPENAI_VECTORSTORE:
     from openai import AsyncOpenAI
     from rag_openai import initialize_vectorstore
 else:
     from rag_local import create_rag_chain
 
+
 # === OpenAI Vectorstore Initialization ===
 if USE_OPENAI_VECTORSTORE:
     initialize_vectorstore()
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
     client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    print(
-        f"[bold]🔗 AIMA is running with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}"
-    )
+    print(f"[bold]🔗 AIMA runs with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}")
 
-# === Initialize HTML Template ===
-# Modify Chainlit's HTML template to use local assets
+
+# === Modify Chainlit's HTML template ===
 try:
     modify_html_template()
 except Exception as e:
     print(f"[bold]Warning: Could not modify HTML template: {e}")
+
 
 # === Authentication (optional) ===
 users = [
@@ -103,9 +103,29 @@ async def set_starters(user=None):
 
 # === System Prompt for OpenAI Vectorstore Option ===
 def get_instructions(language="German"):
+    """
+    Build system prompt instructions for OpenAI vectorstore logic.
+    """
     today = datetime.datetime.now().strftime("%B %d, %Y")
     prompt = BASE_SYSTEM_PROMPT.format(today=today)
     return prompt.replace("{language}", language)
+
+
+# === Query for LLM Router ===
+def prepare_query_for_router(
+    user_input: str, chat_history: Optional[list[dict]]
+) -> list[dict]:
+    """
+    Prepare a user query for the LLM router and inject the last LLM 
+    response for additional context if chat_history is already available.
+    """
+    query_for_routing = [{"role": "user", "content": user_input}]
+    if chat_history:
+        query_for_routing = [
+            {"role": "assistant", "content": chat_history[-1]['content']},
+            {"role": "user", "content": user_input}
+        ]
+    return query_for_routing
 
 
 # === OpenAI Vectorstore Logic ===
@@ -119,7 +139,7 @@ async def handle_openai_vectorstore_query(
     user_input: str,
 ):
     """
-    Handle queries using OpenAI vectorstore
+    Handle queries using OpenAI vectorstore.
     """
     if chat_history:
         # Append new message to chat_history
@@ -208,7 +228,7 @@ async def handle_local_rag_query(
         cl.user_session.set("rag_chain", rag_chain)
 
     try:
-        # Convert conversation context list to string format for the RAG chain
+        # Convert chat_history list to string format for the RAG chain
         if chat_history:
             context_string = "\n".join(
                 [f"{msg['role']}: {msg['content']}" for msg in chat_history]
@@ -265,7 +285,7 @@ async def handle_news_route(
     detected_language: str, msg: cl.Message, session_id: str, user_input: str
 ):
     """
-    Handle news/neuigkeiten route
+    Route for handling library news.
     """
     items = get_rss_items()
     if not items:
@@ -295,7 +315,7 @@ async def handle_sitzplatz_route(
     detected_language: str, msg: cl.Message, session_id: str, user_input: str
 ):
     """
-    Handle sitzplatz/free seats route
+    Route for handling questions regarding occupancy of the library.
     """
     try:
         data = get_occupancy_data()
@@ -347,6 +367,28 @@ async def handle_sitzplatz_route(
         return error_response
 
 
+# === Events / Workshops Route ===
+async def handle_event_route(
+    detected_language: str, msg: cl.Message, session_id: str, user_input: str
+):
+    """
+    Route for handling questions about current events and workshops.
+    """
+    response = translate("events_response", detected_language)
+
+    # Clear the message and stream the response
+    await msg.stream_token("")
+    for char in response:
+        await msg.stream_token(char)
+    await msg.update()
+
+    # Add to memory
+    session_memory.add_turn(session_id, MessageRole.USER, user_input)
+    session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
+    await save_interaction(session_id, user_input, response)
+    return response
+
+
 # === Chat Start: Initialize Session Memory and Terms ===
 @cl.on_chat_start
 async def on_chat_start():
@@ -390,7 +432,8 @@ async def on_message(message: cl.Message):
     )
     if not allowed:
         await cl.Message(
-            content=error_message or "Rate limit exceeded", author="assistant"
+            content=error_message or "Rate limit exceeded",
+            author="assistant"
         ).send()
         return
 
@@ -424,15 +467,22 @@ async def on_message(message: cl.Message):
     msg = cl.Message(content="", author="assistant")
     await msg.send()
     await msg.stream_token(" ")
-
+    
+    # Build chat_history with previous conversation context
+    chat_history = create_conversation_context(session_id)
+    
     # === LLM Router ===
     detected_language, route, augmented_input = await route_and_augment_query(
-        client if USE_OPENAI_VECTORSTORE else None, user_input, debug=DEBUG
+        client if USE_OPENAI_VECTORSTORE else None,
+        prepare_query_for_router(user_input, chat_history),
+        debug=DEBUG
     )
 
     # "News" Route
     if route and route.lower() == "news":
-        await handle_news_route(detected_language, msg, session_id, user_input)
+        await handle_news_route(
+            detected_language, msg, session_id, user_input
+        )
         return
 
     # "Free seats" Route
@@ -441,9 +491,13 @@ async def on_message(message: cl.Message):
             detected_language, msg, session_id, user_input
         )
         return
-
-    # Build chat_history with previous conversation context
-    chat_history = create_conversation_context(session_id)
+    
+    # "Workshop / Events" Route
+    if route and route.lower() == "event":
+        await handle_event_route(
+            detected_language, msg, session_id, user_input
+        )
+        return
 
     # Add user message to memory (after getting context)
     session_memory.add_turn(session_id, MessageRole.USER, user_input)
@@ -474,14 +528,6 @@ async def on_message(message: cl.Message):
         )
         if not success:
             return
-
-        # Optional: fallback to web search
-        # fallback = search_ub_website(user_input)
-        # await Message(
-        #     content=f"Ich konnte nichts Genaues finden. "
-        #             f"Ergebnisse von der UB-Website:\n\n{fallback}"
-        # ).send()
-        # await save_interaction(session_id, user_input, fallback)
 
 
 # === Chat End ===

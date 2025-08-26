@@ -392,7 +392,19 @@ session_memory = SessionMemory(
 
 
 def create_conversation_context(session_id: str) -> List[Dict[str, str]]:
-    """Create conversation context from recent turns as a list of message dictionaries"""
+    """
+    Create conversation context from recent turns and return the context
+    as a list of message dictionaries.
+    
+    Return Example:
+    [
+        {'role': 'user', 'content': 'Query 1'},
+        {'role': 'assistant', 'content': 'Response 1'},
+        {'role': 'user', 'content': 'Query 2'},
+        {'role': 'assistant', 'content': 'Response 2'},
+        ...
+    ]
+    """
     recent_turns = session_memory.get_context_window(session_id)
 
     if not recent_turns:
