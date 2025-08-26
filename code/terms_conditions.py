@@ -21,10 +21,7 @@ async def on_accept_terms(action):
 
 def check_terms_accepted():
     """Check if terms are accepted via cookie using session"""
-    cookie_header = cl.user_session.get("http_cookie", "")
+    cookie_header = cl.context.session.environ.get("HTTP_COOKIE", "")
     cookie_name = "accepted_terms"
-    if cookie_header:
-        terms_accepted = f"{cookie_name}=true" in cookie_header
-    else:
-        terms_accepted = False
+    terms_accepted = f"{cookie_name}=true" in cookie_header
     return terms_accepted
