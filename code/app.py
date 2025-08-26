@@ -116,7 +116,7 @@ def prepare_query_for_router(
     user_input: str, chat_history: Optional[list[dict]]
 ) -> list[dict]:
     """
-    Prepare a user query for the LLM router and inject the last LLM 
+    Prepare a user query for the LLM router and inject the last LLM
     response for additional context if chat_history is already available.
     """
     query_for_routing = [{"role": "user", "content": user_input}]
@@ -467,10 +467,10 @@ async def on_message(message: cl.Message):
     msg = cl.Message(content="", author="assistant")
     await msg.send()
     await msg.stream_token(" ")
-    
+
     # Build chat_history with previous conversation context
     chat_history = create_conversation_context(session_id)
-    
+
     # === LLM Router ===
     detected_language, route, augmented_input = await route_and_augment_query(
         client if USE_OPENAI_VECTORSTORE else None,
@@ -491,7 +491,7 @@ async def on_message(message: cl.Message):
             detected_language, msg, session_id, user_input
         )
         return
-    
+
     # "Workshop / Events" Route
     if route and route.lower() == "event":
         await handle_event_route(

@@ -395,7 +395,7 @@ def create_conversation_context(session_id: str) -> List[Dict[str, str]]:
     """
     Create conversation context from recent turns and return the context
     as a list of message dictionaries.
-    
+
     Return Example:
     [
         {'role': 'user', 'content': 'Query 1'},
