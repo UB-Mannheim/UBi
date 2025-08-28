@@ -33,6 +33,7 @@ def check_terms_accepted():
     except (AttributeError, ValueError):
         # Fallback to old method if version check fails
         cookie_header = cl.context.session.environ.get("HTTP_COOKIE", "")
+    cookie_header = cookie_header if cookie_header else ""
     cookie_name = "accepted_terms"
     terms_accepted = f"{cookie_name}=true" in cookie_header
     return terms_accepted
