@@ -98,6 +98,10 @@ async def set_starters(user=None):
             label="Neuigkeiten",
             message="Was für Neuigkeiten gibt es aus der UB Mannheim?",
         ),
+        cl.Starter(
+            label="Literaturrecherche",
+            message="Wo kann ich an der UB Mannheim nach Literatur, Fachaufsätzen und Datenbanken recherchieren?",
+        ),
     ]
 
 
@@ -161,7 +165,7 @@ async def handle_openai_vectorstore_query(
                 {
                     "type": "file_search",
                     "vector_store_ids": [OPENAI_VECTORSTORE_ID],
-                    "max_num_results": 6,
+                    "max_num_results": 8,
                 }
             ],
             instructions=get_instructions(detected_language),

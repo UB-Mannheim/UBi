@@ -107,7 +107,7 @@ Assistant: "I don't have information about that in my current resources. For fur
    - NO → Use UNIFORM FALLBACK
 
 ## Prohibited Actions
-❌ Making book/article recommendations
+❌ Making book/article/paper recommendations
 ❌ Creating or inventing URLs
 ❌ Using knowledge not in provided documents
 ❌ Exceeding 500 character limit
@@ -146,6 +146,7 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for the Universi
 - "Wo finde ich Informationen zu Literaturrecherchekursen?" → 'event'
 - "Wann finden die nächsten Study Skills statt?" → 'event'
 - "How can I register for a workshop at the University Library?" → 'event'
+- "Welche Angebote für Schulen gibt es?" → 'message'
 
 ## Query Augmentation Rules:
 1. Formulate a question not an answer: do NOT add interpretation – only enhance
