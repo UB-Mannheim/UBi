@@ -1,54 +1,56 @@
 ---
-title: Kurse und Tutorials der Universitätsbibliothek Mannheim: Informationskompetenz, Führungen und Data Literacy
+title: Kurse und Tutorials der Universitätsbibliothek Mannheim – Weiterbildungsangebote und Informationskompetenz
 source_url_de: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/courses-and-tutorials/
 category: Services
-tags: [Kurse, Tutorials, Informationskompetenz, Führungen, Data Literacy, Study Skills, Schulen, Fake News]
+tags: ['Informationskompetenz', 'Kurse', 'Tutorials', 'Führungen', 'Data Literacy', 'Schulen', 'Fake News', 'Recherche']
 language: de
 ---
 
-# Kurse und Tutorials
+# Kurse und Tutorials der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet eine Vielzahl von Weiterbildungsmöglichkeiten im Bereich Informationskompetenz an. Das Angebot umfasst Führungen, Kurse zur fachlichen Recherche, wissenschaftlichem Arbeiten sowie Online-Tutorials.
+Die Universitätsbibliothek Mannheim bietet eine Vielzahl von Weiterbildungs­möglichkeiten im Bereich Informations­kompetenz an. Das Angebot umfasst Führungen, Kurse zur fachlichen Recherche und zum wissenschaftlichen Arbeiten sowie Online-Tutorials.
 
-## Kurse
+## Kursangebot im Überblick
 
-[Zu den Kursen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
+### Kurse
 
-Die Themen der Kurse reichen von Recherche in Fachdatenbanken über Literaturverwaltung bis hin zu Forschungsdaten. Sie richten sich an Studierende, Beschäftigte der Universität und alle Interessierten.
+Die Kurse der Universitätsbibliothek Mannheim decken Themen wie Recherche in Fachdatenbanken, Literaturverwaltung und Forschungsdaten ab. Sie richten sich an Studierende, Beschäftigte der Universität und alle Interessierten.
 
-## Study Skills
+Weitere Informationen: [Kurse](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 
-[Zu Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
+### Study Skills
 
-In den Kursen dieser Reihe erhalten Sie nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben.
+In der Kursreihe "Study Skills" erhalten Teilnehmende nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben.
 
-## MaDaLi² – Mannheim Data Literacy
+Mehr erfahren: [Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
-[Zu MaDaLi² – Mannheim Data Literacy](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/madali2-mannheim-data-literacy/)
+### Data Literacy an der Universität Mannheim
 
-Datenkompetenz für Studierende aller Fachbereiche.
+Das Data Literacy-Angebot vermittelt Datenkompetenz für Studierende aller Fachbereiche.
 
-## Führungen
+Details: [Data Literacy an der Universität Mannheim](https://www.uni-mannheim.de/universitaet/lehre/lehrprojekte/data-literacy/)
 
-[Zu den Führungen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fuehrungen/)
+### Führungen
 
-Zu Beginn jedes Semesters werden Führungen durch die Universitätsbibliothek angeboten.
+Zu Beginn jedes Semesters werden Führungen durch die Universitätsbibliothek angeboten, um die Räumlichkeiten und Services kennenzulernen.
 
-## Tutorials
+Weitere Informationen: [Führungen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fuehrungen/)
 
-[Zu den Tutorials auf YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw)
+### Tutorials
 
-Mit Online-Tutorials können Sie Ihre Recherche- und Informationskompetenz erweitern und die Angebote der Universitätsbibliothek besser nutzen.
+Mit Online-Tutorials können Sie Ihre Recherche- und Informationskompetenz erweitern und lernen, die Angebote der Universitätsbibliothek optimal zu nutzen.
 
-## Angebote für Schulen
+YouTube-Kanal: [Tutorials](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw)
 
-[Zu den Angeboten für Schulen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/)
+### Angebote für Schulen
 
-Lehrkräfte und Schülergruppen lernen die Universitätsbibliothek kennen und erhalten eine Einführung in die Literaturrecherche. Das Angebot richtet sich an die gymnasiale Oberstufe.
+Lehrkräfte und Schülergruppen, insbesondere der gymnasialen Oberstufe, erhalten eine Einführung in die Universitätsbibliothek und die Literaturrecherche.
 
-## Fake News in der Wissenschaft
+Mehr dazu: [Angebote für Schulen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/)
 
-[Zu Fake News in der Wissenschaft](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fake-news-in-der-wissenschaft/)
+### Fake News in der Wissenschaft
 
-Fake News können in Form von manipulierten Forschungsergebnissen, gefälschten Studien oder irreführenden Interpretationen von Daten auftreten.
+Das Angebot thematisiert Fake News in der Wissenschaft, wie manipulierte Forschungsergebnisse, gefälschte Studien oder irreführende Dateninterpretationen.
+
+Weitere Informationen: [Fake News in der Wissenschaft](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fake-news-in-der-wissenschaft/)

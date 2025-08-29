@@ -42,7 +42,7 @@ Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft,
 
 ### Betriebs­wirtschafts­lehre
 
-Betriebs­wirtschafts­lehreXiuwen Ye, M.Sc.Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­pädagogikUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 27268161 MannheimTel.:+49 621 181-3753E-Mail:xiuwen.ye@uni-mannheim.de
+Betriebs­wirtschafts­lehreBild: Joseline WeinbergXiuwen Ye, M.Sc.Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­pädagogikUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 27268161 MannheimTel.:+49 621 181-3753E-Mail:xiuwen.ye@uni-mannheim.de
 
 
 ## Betriebs­wirtschafts­lehre
@@ -93,7 +93,7 @@ Leiter der Abteilung Kommunikation | Fach­referent für Geschichte | E-Learning
 
 ### Informatik
 
-InformatikBild: Sebastian WeindelDr. Philipp ZumsteinLeiter der Abteilung Publikations­services und Forschungs­unter­stützung | Fach­referent für Informatik | Open-Access-Beauftragter der Universität MannheimUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 269.168161 MannheimTel.:+49 621 181-3006E-Mail:philipp.zumstein@uni-mannheim.deORCID-iD:0000-0002-6485-9434
+InformatikBild: Sebastian WeindelDr. Philipp ZumsteinLeiter der Abteilung Publikations­services und Forschungs­unter­stützung | Fach­referent für (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität MannheimUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 269.168161 MannheimTel.:+49 621 181-3006E-Mail:philipp.zumstein@uni-mannheim.deORCID-iD:0000-0002-6485-9434
 
 
 ## Informatik
@@ -102,7 +102,7 @@ InformatikBild: Sebastian WeindelDr. Philipp ZumsteinLeiter der Abteilung Publik
 
 ### Dr. Philipp Zumstein
 
-Leiter der Abteilung Publikations­services und Forschungs­unter­stützung | Fach­referent für Informatik | Open-Access-Beauftragter der Universität Mannheim
+Leiter der Abteilung Publikations­services und Forschungs­unter­stützung | Fach­referent für (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
 * Adresse: Universität Mannheim, Universitäts­bibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 * Telefon: +49 621 181-3006
 * E-Mail: philipp.zumstein@uni-mannheim.de
@@ -146,7 +146,7 @@ Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft,
 
 ### Pädagogik und Wirtschafts­pädagogik
 
-Pädagogik und Wirtschafts­pädagogikXiuwen Ye, M.Sc.Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­pädagogikUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 27268161 MannheimTel.:+49 621 181-3753E-Mail:xiuwen.ye@uni-mannheim.de
+Pädagogik und Wirtschafts­pädagogikBild: Joseline WeinbergXiuwen Ye, M.Sc.Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­pädagogikUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 27268161 MannheimTel.:+49 621 181-3753E-Mail:xiuwen.ye@uni-mannheim.de
 
 
 ## Pädagogik und Wirtschafts­pädagogik
@@ -295,7 +295,7 @@ Fach­referent für Allgemeines, Allgemeine Sprach- und Literatur­wissenschaft,
 
 ### Volkswirtschafts­lehre
 
-Volkswirtschafts­lehreXiuwen Ye, M.Sc.Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­pädagogikUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 27268161 MannheimTel.:+49 621 181-3753E-Mail:xiuwen.ye@uni-mannheim.de
+Volkswirtschafts­lehreBild: Joseline WeinbergXiuwen Ye, M.Sc.Fach­referentin für Wirtschafts­wissenschaften, Pädagogik und Wirtschafts­pädagogikUniversität MannheimUniversitäts­bibliothekSchloss Schneckenhof West – Raum SN 27268161 MannheimTel.:+49 621 181-3753E-Mail:xiuwen.ye@uni-mannheim.de
 
 
 ## Volkswirtschafts­lehre

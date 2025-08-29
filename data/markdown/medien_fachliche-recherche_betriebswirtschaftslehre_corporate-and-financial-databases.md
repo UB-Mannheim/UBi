@@ -111,8 +111,8 @@ Access: via WRDS (https://wrds-www.wharton.upenn.edu/login/) (requires registr
 **Access:**
 
 * Access to Workspace is limited to faculty and students at the University of Mannheim.
-* Frequent users can request a personal account, granting remote access to the database from their own device. Employees of the University of Mannheim and doctoral students can request an account for the duration of the semester. Students can request an account for the duration of 3 months.
-* Short-term remote access is also possible via two virtual terminals. The terminals are managed via the ILIAS group Finance Databases (https://ilias.uni-mannheim.de/goto.php?target=crs_1227320&client_id=ILIAS).  
+* If you wish to use LSEG Workspace frequently, you can request (https://www.bib.uni-mannheim.de/medien/zugang-zum-lseg-workspace/) a personal account to access the database from your own device. Employees of the University of Mannheim and doctoral students can apply for a personal account for the duration of the semester. Students can apply for a personal account for three months.
+* Short-term remote access is also possible via two virtual terminals. The terminals are managed via the ILIAS group Finance Databases (https://ilias.uni-mannheim.de/goto.php?target=crs_1227320&client_id=ILIAS). 
 * For questions regarding access to Workspace, please contact the subject librarian for business administration (https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/). For questions regarding the ILIAS group, please contact Stefan Scharnowski (https://www.bwl.uni-mannheim.de/theissen/team/postdocs-und-doktoranden/stefan-scharnowski/). 
 
 

@@ -1,44 +1,49 @@
 ---
-title: Open Science an der Universität Mannheim: Initiativen, Services und Fördermöglichkeiten
+title: Open Science Initiatives und Services an der Universität Mannheim
 source_url_de: https://www.uni-mannheim.de/open-science/
 source_url_en: https://www.uni-mannheim.de/en/open-science/
 category: Services
-tags: [Open Science, Open Access, Open Data, Reproduzierbarkeit, Open Science Office, Pre-Registration, Open Educational Resources, Open Science Grants]
+tags: ['Open Science', 'Open Access', 'Open Data', 'Open Educational Resources', 'Pre-Registration', 'Grants', 'Open Science Office', 'Universität Mannheim']
 language: de
 ---
 
-# Open Science
+# Open Science an der Universität Mannheim
 
-Als Sammelbegriff umfasst Open Science sowohl klassische Aspekte wie Open Access, offene Daten und Software als auch gesellschaftlich relevante Konzepte wie Third Mission, Citizen Science oder Open Innovation. Die treibenden Faktoren von Open Science sind transparente und inklusive Forschungspraktiken, offener Zugang zu wissenschaftlichen Erkenntnissen und die Reproduzierbarkeit von Forschungsergebnissen.
+Open Science ist ein Sammelbegriff für offene und transparente Forschungspraktiken, darunter Open Access, offene Daten und Software, sowie gesellschaftlich relevante Konzepte wie Third Mission, Citizen Science und Open Innovation. Ziel ist es, Forschungsergebnisse transparent, inklusiv und reproduzierbar zu gestalten.
 
-Die Universität Mannheim setzt sich für transparente und replizierbare Forschung ein und fördert diese Ziele durch offene Forschungspraktiken wie Pre-Registration, Open Data, Open Materials und Open Source. Auf nationaler Ebene ist die Universität seit Juli 2022 Mitglied im [German Reproducibility Network (GRN)](https://reproducibilitynetwork.de/). Seit Herbst 2022 enthalten die Berufungsleitfäden der Universität (siehe [Bewerbungsleitfaden im Intranet](https://intranet.uni-mannheim.de/arbeitsplatz/personalangelegenheiten/personalabteilung/professorinnen-und-professoren/berufung-und-ernennung/)) die Möglichkeit, einen geplanten Beitrag zu Open Science in den Bewerbungsunterlagen für Professuren anzugeben. Zudem wurde ein [Open Science Office](https://www.uni-mannheim.de/open-science/open-science-office/) eingerichtet, das Forschende aller Karrierestufen und Disziplinen unterstützt.
+Die Universität Mannheim engagiert sich für transparente und replizierbare Forschung. Sie fördert Open Science durch Maßnahmen wie Pre-Registration, Open Data, Open Materials und Open Source. Seit Juli 2022 ist die Universität Mitglied im [German Reproducibility Network (GRN)](https://reproducibilitynetwork.de/). Die Berufungsleitfäden der Universität enthalten seit Herbst 2022 die Empfehlung, geplante Beiträge zu Open Science in Bewerbungsunterlagen für Professuren anzugeben. Das [Open Science Office](https://www.uni-mannheim.de/open-science/open-science-office/) unterstützt Forschende aller Karrierestufen und Disziplinen.
 
 ## Open Science Office
 
-Das Open Science Office fördert und unterstützt Open-Science-Ansätze von Forschenden aller wissenschaftlichen Disziplinen an der Universität Mannheim.
+Das Open Science Office fördert und unterstützt Open-Science-Ansätze von Forschenden in allen wissenschaftlichen Disziplinen an der Universität Mannheim.
 
 ## Best Practices
 
-[Best Practices](https://www.uni-mannheim.de/open-science/best-practices/): Beispiele für Best-Practice-Open-Science aus der gesamten Universität.
+Beispiele für Best-Practice-Open-Science-Projekte aus der Universität Mannheim sind auf der [Best Practices-Seite](https://www.uni-mannheim.de/open-science/best-practices/) verfügbar.
 
 ## Pre-Registration
 
-[Pre-Registration](https://www.uni-mannheim.de/open-science/pre-registration/): Erhöhen Sie die Transparenz Ihrer Forschung und registrieren Sie Ihre Forschungsvorhaben vorab.
+Die [Pre-Registration](https://www.uni-mannheim.de/open-science/pre-registration/) erhöht die Transparenz der Forschung. Forschende werden ermutigt, ihre Studien vorab zu registrieren.
 
 ## Open Science Grants
 
-[Open Science Grants](https://www.uni-mannheim.de/open-science/grants/): Das Open Science Office fördert transparente und reproduzierbare Forschung durch finanzielle Unterstützung mit Grants von bis zu 6.500 EUR.
+Das Open Science Office fördert transparente und reproduzierbare Forschung durch finanzielle Unterstützung. [Open Science Grants](https://www.uni-mannheim.de/open-science/grants/) von bis zu 6.500 EUR können beantragt werden.
 
-## Open Educational Resources (OERs)
+## Open Educational Resources (OER)
 
-[Open Educational Resources (OERs)](https://www.uni-mannheim.de/open-science/oer/): Teilen Sie Ihre Lehrmaterialien mit anderen oder nutzen Sie vorhandene Materialien.
+Die Universität Mannheim unterstützt die Erstellung und Nutzung von [Open Educational Resources (OER)](https://www.uni-mannheim.de/open-science/oer/). Lehrmaterialien können geteilt oder wiederverwendet werden.
 
 ## Open Science Council
 
-[Open Science Council](https://www.uni-mannheim.de/open-science-council/): Das Open Science Council dient als beratendes Gremium und unterstützt das Open Science Office.
+Der [Open Science Council](https://www.uni-mannheim.de/open-science-council/) ist ein beratendes Gremium, das das Open Science Office unterstützt.
 
 ## Veranstaltungen
 
-- Open Science Seminars: Pre-Registration of Research Projects
-- Open Science Seminars: Predatory Publishing
-- Open Science Seminars: Docker for Reproducible Research
+Die Universität Mannheim bietet regelmäßig Veranstaltungen rund um Open Science an:
+
+- Open Science Day 2025
+- Open Science Seminars: Introduction to Open Science
+- Open Science Seminars: Open Access
+- Open Science Seminars: Open Educational Resources (OER)
+
+Weitere Informationen zu Terminen und Inhalten finden Sie auf der Website der Universität Mannheim.

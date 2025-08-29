@@ -24,9 +24,9 @@ In den Kursen dieser Reihe erhalten Sie nützliche Tipps zum wissenschaft­liche
 
 
 
-### MaDaLi² – Mannheim Data Literacy (https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/madali2-mannheim-data-literacy/)
+### Data Literacy an der Universität Mannheim (https://www.uni-mannheim.de/universitaet/lehre/lehrprojekte/data-literacy/)
 
-MaDaLi² – Mannheim Data Literacy
+Data Literacy an der Universität Mannheim
 Daten­kompetenz für Studierende aller Fach­bereiche
 
 

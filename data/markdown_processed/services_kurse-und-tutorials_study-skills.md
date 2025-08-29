@@ -1,48 +1,40 @@
 ---
-title: Study Skills Kurse der Universitätsbibliothek Mannheim: Wissenschaftliches Recherchieren, Schreiben und Literaturverwaltung
+title: Study Skills – Kurse und Workshops der Universitätsbibliothek Mannheim zu Recherche, Schreiben, Literaturverwaltung und KI
 source_url_de: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/courses-and-tutorials/study-skills/
 category: Services
-tags: [Study Skills, wissenschaftliches Arbeiten, Recherche, Literaturverwaltung, KI-Tools, Zotero, Kurse, Universitätsbibliothek Mannheim]
+tags: ['Studienkompetenz', 'Recherche', 'Literaturverwaltung', 'Zotero', 'KI', 'Workshops', 'Universitätsbibliothek', 'Kurse']
 language: de
 ---
 
-# Study Skills
+# Study Skills – Kurse und Workshops
 
-In den Kursen der Study Skills-Reihe erhalten Sie nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben sowie Informationen zu Literaturverwaltung und KI.
+In den Kursen der Study Skills-Reihe der Universitätsbibliothek Mannheim erhalten Sie nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben sowie Informationen zu Literaturverwaltung und Künstlicher Intelligenz. Das Programm richtet sich an Studierende und externe Interessierte. Studierende melden sich über das Studierendenportal an, externe Interessierte über den Link in der jeweiligen Veranstaltungsankündigung.
 
-Informieren Sie sich [hier über das Programm](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/) und melden Sie sich im Studierendenportal zu den Kursen an. Externe Interessierte melden sich bitte über den Link in der jeweiligen Veranstaltungsankündigung an.
+## Programmübersicht
 
-[Präsentationen zu den Kursen](https://cloud.bib.uni-mannheim.de/s/dFSXEsTcojsr4sC)
-
-## Programm im Semester
-
-- Pädagogische Literatur finden – Recherche in Datenbanken
-- Wirtschaftswissenschaftliche Literatur finden – Recherche
-- Wissenschaftliche Recherche – Katalog Primo
-- Wissenschaftliches Schreiben – Exzerpieren & Textverständnis
-- Wissenschaftliches Schreiben – Zitieren & Tipps
+- (Online-)Einführung in die Literatur- und Informationsrecherche
 - Einführung in die Zitationsverwaltung mit Zotero
-- Wirtschaftswissenschaftliche Literatur finden – Recherche
-- KI-Tools für die Fachliteratur
-- Literaturdatenbanken für die Psychologie
-- Romanistische Fachliteratur finden
-- KI-Tools für die Fachliteratur
-- Kurs fällt aus! Einführung in die Zitationsverwaltung
 - Zitationsverwaltung mit Zotero für Fortgeschrittene
+- KI in der Literaturrecherche: ChatGPT und bessere Recherchetechniken
+- Literaturdatenbanken für die Psychologie
+- Haus- und Abschlussarbeiten-Workshop für Politikwissenschaft
+- Rechtswissenschaft: Datenbanken und Recherchestrategie
 
-## Kontakt
+## Kontakt für Rückfragen
 
 ### Viktor Boecking, M.A.
-Leiter der Abteilung Kommunikation, Fachreferent für Geschichte, E-Learning  
-Universität Mannheim, Universitätsbibliothek  
-Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim  
-Telefon: +49 621 181-2938  
+
+Leiter der Abteilung Kommunikation, Fachreferent für Geschichte, E-Learning\
+Universität Mannheim, Universitätsbibliothek\
+Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim\
+Telefon: +49 621 181-2938\
 E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
 
 ### Dr. Jorge Murcia Serra
-Informationskompetenz und E-Learning, Fachreferent für Romanistik und Sprachlernmaterialien, Education & Training für BERD@NFDI  
-Universität Mannheim, Universitätsbibliothek  
-A3 – Raum 105, 68159 Mannheim  
-Telefon: +49 621 181-2997  
+
+Informationskompetenz und E-Learning, Fachreferent für Romanistik und Sprachlernmaterialien, Education & Training für BERD@NFDI\
+Universität Mannheim, Universitätsbibliothek\
+A3 – Raum 105, 68159 Mannheim\
+Telefon: +49 621 181-2997\
 E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)

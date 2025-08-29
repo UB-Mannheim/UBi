@@ -63,17 +63,17 @@ Die Lernräume der UB können Sie ohne Bibliotheksausweis nutzen.
 * Diesen Ausdruck scannen Sie zusammen mit Ihrem Personalausweis (alternativ Ihrem Reisepass mit Melde­bescheinigung) ein und senden die Unter­lagen per E-Mail an den Support der Universitäts-IT: itsupport@uni-mannheim.de.
 * Studierende senden zusätzlich einen Scan Ihres aktuellen Studierenden­ausweises mit.
 * Als Mitarbeiterin oder Mitarbeiter einer kooperierenden Einrichtung lassen Sie Ihre Zugehörigkeit durch einen Stempel Ihrer Einrichtung auf dem Anmeldeformular bestätigen.
-* Sie erhalten eine E-Mail mit Ihren Zugangsdaten und können sich nun im Studierenden­portal (https://portal2.uni-mannheim.de/portal2/pages/cs/sys/portal/hisinoneStartPage.faces?chco=y) anmelden.
+* Sie erhalten eine E-Mail mit Ihren Zugangsdaten.
 * Kommen Sie zur Abholung der ecUM zu den Öffnungs­zeiten der UNIT im InfoCenter (https://www.bib.uni-mannheim.de/standorte/infocenter/) vorbei.
 
-Studierende sowie Mitarbeitende der DHBW Mannheim melden sich über die DHBW-Bibliothek (https://www.mannheim.dhbw.de/service/bibliothek/ansprechpersonen) an.
+Studierende sowie Mitarbeitende der DHBW Mannheim benötigen keinen Bibliotheksausweis und melden sich über die DHBW-Bibliothek (https://www.mannheim.dhbw.de/service/bibliothek/ansprechpersonen) an. 
 **ecUM ab 1. Juli 2025 ohne Foto**
 Die ecUM erhält ab dem 1. Juli 2025 ein neues Design. Ab sofort erscheint kein Foto mehr auf der Vorderseite der Karte. An diese Stelle rückt stattdessen ein QR-Code. Die Änderung betrifft alle ab 1. Juli 2025 neu ausgestellten Karten; Bestandskarten können trotzdem weiterhin verwendet werden.
 
 
 ## Ersatz bei Verlust oder Defekt
 
-Bei Verlust oder Defekt Ihrer ecUM können Sie eine Ersatzkarte über das Studierenden­portal (https://portal2.uni-mannheim.de/portal2/) beantragen. Melden Sie sich mit Ihrer Uni-ID und Ihrem Passwort an. Die Gebühr für eine Ersatzkarte beträgt 15 Euro.
+Bei Verlust oder Defekt Ihrer ecUM können Sie sich im InfoCenter bei der UNIT eine neue ecUM ausstellen lassen. Die Gebühr für eine Ersatzkarte beträgt 15 Euro.
 
 
 ## So erreichen wir Sie

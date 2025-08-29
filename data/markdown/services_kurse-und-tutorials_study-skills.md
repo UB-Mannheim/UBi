@@ -8,30 +8,13 @@
 ## In den Kursen dieser Reihe erhalten Sie nützliche Tipps zum wissenschaft­lichen Recherchieren und Schreiben sowie Informationen zu den Themen Literatur­verwaltung und KI.
 
 Informieren Sie sich hier über das Programm und melden Sie sich im Studierenden­portal zu den Kursen an. Externe Interessierte melden sich bitte über den Link in der jeweiligen Veranstaltungs­ankündigung an.
-Präsentationen (https://cloud.bib.uni-mannheim.de/s/dFSXEsTcojsr4sC)
 
 
-## Programm im Semester
-
-
-
-### Pädagogische Literatur finden – Recherche in Datenbanken
+## Programm
 
 
 
-### Wirtschafts­wissenschaft­liche Literatur finden – Recherche in ...
-
-
-
-### Wissenschaft­liche Recherche – Katalog Primo & ...
-
-
-
-### Wissenschaft­liches Schreiben – Exzerpieren & Textverständnis
-
-
-
-### Wissenschaft­liches Schreiben – Zitieren & Tipps zum ...
+### (Online-)Einführung in die Literatur- und ...
 
 
 
@@ -39,11 +22,15 @@ Präsentationen (https://cloud.bib.uni-mannheim.de/s/dFSXEsTcojsr4sC)
 
 
 
-### Wirtschafts­wissenschaft­liche Literatur finden – Recherche in ...
+### Einführung in die Zitations­verwaltung mit Zotero
 
 
 
-### KI-Tools für die Fach­literatur
+### KI in der Literatur­recherche: ChatGPT und bessere ...
+
+
+
+### Zitations­verwaltung mit Zotero für Fortgeschrittene
 
 
 
@@ -51,19 +38,11 @@ Präsentationen (https://cloud.bib.uni-mannheim.de/s/dFSXEsTcojsr4sC)
 
 
 
-### Romanistische Fach­literatur finden
+### Haus- und Abschlussarbeiten-Workshop für Politik­wissenschaft ...
 
 
 
-### KI-Tools für die Fach­literatur
-
-
-
-### Kurs fällt aus! Einführung in die Zitations­verwaltung mit ...
-
-
-
-### Zitations­verwaltung mit Zotero für Fortgeschrittene
+### Rechts­wissenschaft: Datenbanken und Recherche­strategie für ...
 
 
 
