@@ -8,7 +8,7 @@ ABBREVIATIONS = """- UB = Universitätsbibliothek (University Library)
    - FSS = Frühjahrs-/Sommersemester (Spring semester)
    - MA = Mannheim
    - UBMA / UB MA = Universitätsbibliothek Mannheim (University Library Mannheim)
-   - ecum / ecUM = Bibliotheksauswei, UB-Chipkarte (library card)
+   - ecum / ecUM = Bibliotheksausweis, UB-Chipkarte (library card)
    - A3 = Bibliotheksbereich A3 (A3 Library)
    - A5 = Bibliotheksbereich A5 (A5 Library)
    - Schneckenhof = Bibliotheksbereich Schloss Schneckenhof (Schloss Schneckenhof Library)
