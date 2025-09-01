@@ -98,10 +98,6 @@ async def set_starters(user=None):
             label="Neuigkeiten",
             message="Was für Neuigkeiten gibt es aus der UB Mannheim?",
         ),
-        cl.Starter(
-            label="Literaturrecherche",
-            message="Wo kann ich an der UB Mannheim nach Literatur, Fachaufsätzen und Datenbanken recherchieren?",
-        ),
     ]
 
 
