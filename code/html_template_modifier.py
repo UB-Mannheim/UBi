@@ -7,6 +7,10 @@ Replaces external resources with local assets in Chainlit's HTML template.
 import importlib.util
 import shutil
 from pathlib import Path
+import re
+import sys
+
+import chainlit as cl
 
 
 def get_chainlit_frontend_path():
@@ -20,8 +24,6 @@ def get_chainlit_frontend_path():
             return frontend_path
 
     # Method 2: Search in common virtual environment locations
-    import sys
-
     # Check if we're in a virtual environment
     if hasattr(sys, "real_prefix") or (
         hasattr(sys, "base_prefix") and sys.base_prefix != sys.prefix
@@ -44,9 +46,7 @@ def get_chainlit_frontend_path():
 
     # Method 4: Fallback - try to import and get path
     try:
-        import chainlit
-
-        return Path(chainlit.__file__).parent / "frontend"
+        return Path(cl.__file__).parent / "frontend"
     except ImportError:
         raise FileNotFoundError("Could not find Chainlit installation")
 
@@ -82,17 +82,14 @@ def create_modified_template(frontend_path):
     )
     modified_content = content.replace(font_start, font_replacement)
 
-    katex_original = (
-        '<link\n      rel="stylesheet"\n      '
-        'href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/'
-        'katex.min.css"\n    />'
+    # Use regex to match KaTeX CSS link regardless of version
+    katex_pattern = re.compile(
+        r'<link\s+rel="stylesheet"\s+href="https://cdn\.jsdelivr\.net/npm/katex@[^/]+/dist/katex\.min\.css"\s+/>'
     )
     katex_replacement = (
         '<link rel="stylesheet" href="/public/css/katex.min.css" />'
     )
-    modified_content = modified_content.replace(
-        katex_original, katex_replacement
-    )
+    modified_content = katex_pattern.sub(katex_replacement, modified_content)
 
     # Remove preconnect links to external domains
     preconnect_links = (
@@ -130,7 +127,12 @@ def main():
 
     backup = frontend_path / "index.html.backup"
     if backup.exists():
-        return
+        read_file = open(frontend_path / "index.html", "r")
+        index = read_file.read()
+        read_file.close()
+        if 'href="https://fonts.' not in index:
+            return
+        print("Rewrite HTML Template")
 
     # Check if we have our local assets
     local_css_path = Path("public/css")
@@ -154,8 +156,3 @@ def main():
     print("\n🎉 Template modification completed!")
 
     return True
-
-
-if __name__ == "__main__":
-    success = main()
-    exit(0 if success else 1)
