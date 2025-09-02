@@ -93,7 +93,7 @@ async def set_starters(user=None):
         ),
         cl.Starter(
             label="Standorte",
-            message="Gib mir eine Liste aller Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Webseitenlink in Klammern.",
+            message="Gib mir eine Liste aller Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Link zur Webseite in dieser Struktur: [Standort](Link): fachliche Ausrichtung",
         ),
         cl.Starter(
             label="Neuigkeiten",
@@ -165,13 +165,13 @@ async def handle_openai_vectorstore_query(
     full_answer = ""
     try:
         stream = await client.responses.create(
-            model=os.getenv("CHAT_MODEL", "gpt-4o-mini-2024-07-18"),
+            model=os.getenv("CHAT_MODEL", "gpt-4.1-mini-2025-04-14"),
             input=chat_history,
             tools=[
                 {
                     "type": "file_search",
                     "vector_store_ids": [OPENAI_VECTORSTORE_ID],
-                    "max_num_results": 8,
+                    "max_num_results": 6,
                 }
             ],
             include=["file_search_call.results"] if DEBUG else None,

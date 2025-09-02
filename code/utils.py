@@ -189,7 +189,7 @@ def print_openai_extracted_data(results_data, usage_data):
         print(f"  [bold]File ID[/]: {result['file_id']}")
         print(f"  [bold]Filename[/]: {result['filename']}")
         print(f"  [bold]Score[/]: {result['score']}")
-        print(f"  [bold]Text[/]: {result['text']}")
+        print(f"  [bold]Text[/]: [green]{result['text']}[/]")
         print()
         print("=" * 40)
         print()
