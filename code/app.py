@@ -25,6 +25,7 @@ from rss_reader import get_rss_items
 from session_stats import check_session_warnings, get_session_usage_message
 from terms_conditions import ask_terms_acceptance, check_terms_accepted
 from translations import translate
+from utils import extract_openai_response_data, print_openai_extracted_data
 
 
 # === .env Configuration ===
@@ -173,11 +174,15 @@ async def handle_openai_vectorstore_query(
                     "max_num_results": 8,
                 }
             ],
+            include=["file_search_call.results"] if DEBUG else None,
             instructions=get_instructions(detected_language),
             stream=True,
             temperature=0,
         )
         async for event in stream:
+            if event.type == "response.completed" and DEBUG:
+                results_data, usage_data = extract_openai_response_data(event.response)
+                print_openai_extracted_data(results_data, usage_data)
             if event.type == "response.output_text.delta" and event.delta:
                 token = event.delta
                 await msg.stream_token(token)
