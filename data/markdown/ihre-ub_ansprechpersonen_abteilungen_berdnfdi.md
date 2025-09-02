@@ -39,7 +39,7 @@ Aufgaben:
 * ORCID-ID: 0000-0002-0331-2558 (https://orcid.org/0000-0002-0331-2558)
 
 
-### Vasilka Stoilova, LL.M.
+### Vasilka Paunova, LL.M.
 
 Legal Counsel für BERD@NFDI und FDZ
 
@@ -51,7 +51,7 @@ Aufgaben:
 * BERD Datenschutz­konzept und Plattform Richtlinien
 * Adresse: Universität Mannheim, Universitäts­bibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 * Telefon: +49 621 181-2714
-* E-Mail: vasilka.stoilova@uni-mannheim.de
+* E-Mail: vasilka.paunova@uni-mannheim.de
 
 
 ### Dr. Jorge Murcia Serra

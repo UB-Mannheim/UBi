@@ -51,13 +51,17 @@ The Open Science Council serves as a advisory body which suppports the Open Scie
 
 
 
-### Open Science Seminars: Pre-registration of Research Projects
+### Open Science Day 2025
 
 
 
-### Open Science Seminars: Predatory Publishing
+### Open Science Seminars: Introduction to Open Science
 
 
 
-### Open Science Seminars: Docker for Reproducible Research
+### Open Science Seminars: Open Access
+
+
+
+### Open Science Seminars: Open Educational Resources (OER)
 

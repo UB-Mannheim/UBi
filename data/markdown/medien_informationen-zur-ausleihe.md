@@ -56,10 +56,10 @@ Mitglieder der Universität Mannheim können im InfoCenter (https://www.bib.uni
 Ausleihe mobiler Geräte (https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/)
 
 
-### Ausleihe in Fach­bibliotheken
+### Ausleihe in Bibliotheks­bereichen
 
-Die Bibliotheks­bereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof sind Präsenzbibliotheken. Lehr­ende, hauptamtliche Beschäftigte und Promotions­studierende der Universität können auch hier ausleihen. Entliehene Bücher können zurückgefordert werden.Buch nicht am Standort?
-Die Bibliotheks­bereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof sind Präsenzbibliotheken. Lehr­ende, hauptamtliche Beschäftigte und Promotions­studierende der Universität können auch hier ausleihen. Entliehene Bücher können zurückgefordert werden.
+Die Bibliotheks­bereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof sind Präsenzbibliotheken. Nur Lehr­ende, hauptamtliche Beschäftigte und Promotions­studierende der Universität Mannheim können Medien für ein Semster ausleihen. Entliehene Bücher können zurückgefordert werden.Buch nicht am Standort?
+Die Bibliotheks­bereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof sind Präsenzbibliotheken. Nur Lehr­ende, hauptamtliche Beschäftigte und Promotions­studierende der Universität Mannheim können Medien für ein Semster ausleihen. Entliehene Bücher können zurückgefordert werden.
 Buch nicht am Standort? (https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)
 
 

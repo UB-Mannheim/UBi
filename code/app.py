@@ -161,7 +161,7 @@ async def handle_openai_vectorstore_query(
                 {
                     "type": "file_search",
                     "vector_store_ids": [OPENAI_VECTORSTORE_ID],
-                    "max_num_results": 6,
+                    "max_num_results": 8,
                 }
             ],
             instructions=get_instructions(detected_language),

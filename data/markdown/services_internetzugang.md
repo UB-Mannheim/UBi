@@ -5,10 +5,9 @@
 
 
 
-## Als Angehörige der Universität Mannheim haben Sie Zugang zum Internet an unseren PC-Arbeits­plätzen. Mit Ihren eigenen Geräten können Sie sich über das WLAN-Netz eduroam mit dem Internet verbinden. Sie benötigen dazu Ihre Universitäts­kennung.
+## Angehörige der Universität Mannheim haben Zugang zum Internet an den PC-Arbeits­plätzen der Universitäts­bibliothek. Mit eigenen Geräten können Sie sich über das WLAN-Netz eduroam mit dem Internet verbinden, wofür eine Universitäts­kennung erforderlich ist.
 
-Angehörige kooperierender Einrichtungen (https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/#c179498) haben an unseren PC-Arbeits­plätzen und über das WLAN eduroam Zugang zum Internet.
-Angehörige anderer Hochschulen, die an eduroam teilnehmen, können sich darüber mit dem WLAN verbinden.
+Auch Angehörige kooperierender Einrichtungen (https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/#c179498) und anderer Hochschulen, die an eduroam teilnehmen, haben Zugang zum Internet. Privatpersonen haben keinen Internetzugriff.
 Information der Universitäts-IT zu eduroam (https://www.uni-mannheim.de/it/anleitungen/wlan/)
 
 

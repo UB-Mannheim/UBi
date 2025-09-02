@@ -61,6 +61,7 @@ Fragen zu rechtlichen und ethischen Themen im Zusammenhang mit Forschungs­daten
 * Information zu „Informierte Einwilligung (https://www.forschungsdaten-bildung.de/einwilligung)“ vom Verbund Forschungs­daten Bildung inklusive Checklisten und Formulierungs­beispielen
 * Die informierte Einwilligung als Voraussetzung für die (Nach-)nutzung von Forschungs­daten (PDF) (https://www.forschungsdaten-bildung.de/files/RatSWD_WP_264.pdf) (462 KB) von Katrin Schaar / RatSWD Working Paper (Stand: 2017)
 * DARIAH ELDAH Consent Form Wizard (https://consent.dariah.eu/) der Digital Research Infrastructure for the Arts and Humanities (DARIAH) – Assistent für die Formulierung einer Einverständnis­erklärung zur Erhebung personenbezogener Daten (Stand: 2021)
+* Datenschutz Factsheets von der NFDI Sektion „Ethical, Legal and Social Aspects“: Factsheet 1 – Einwilligung: FAIR und datenschutz­konform (https://doi.org/10.5281/zenodo.15912755); Factsheet 2 – Methoden zum FAIRen und datenschutz­konformen Umgang mit personenbezogenen Daten (https://doi.org/10.5281/zenodo.15916957); Factsheet 3 – Data Linkage: FAIR und datenschutz­konform (https://doi.org/10.5281/zenodo.15917014)
 
 
 * Intranetseite „Datenschutz in der Forschung – an alles gedacht? (https://intranet.uni-mannheim.de/organisation/beauftragte/datenschutzbeauftragte/datenschutz-in-der-forschung-an-alles-gedacht/)“ der Servicestelle Datenschutz der Universität Mannheim für universitäre Forschungs­projekte.
@@ -72,6 +73,7 @@ Fragen zu rechtlichen und ethischen Themen im Zusammenhang mit Forschungs­daten
 * Information zu „Informierte Einwilligung (https://www.forschungsdaten-bildung.de/einwilligung)“ vom Verbund Forschungs­daten Bildung inklusive Checklisten und Formulierungs­beispielen
 * Die informierte Einwilligung als Voraussetzung für die (Nach-)nutzung von Forschungs­daten (PDF) (https://www.forschungsdaten-bildung.de/files/RatSWD_WP_264.pdf) (462 KB) von Katrin Schaar / RatSWD Working Paper (Stand: 2017)
 * DARIAH ELDAH Consent Form Wizard (https://consent.dariah.eu/) der Digital Research Infrastructure for the Arts and Humanities (DARIAH) – Assistent für die Formulierung einer Einverständnis­erklärung zur Erhebung personenbezogener Daten (Stand: 2021)
+* Datenschutz Factsheets von der NFDI Sektion „Ethical, Legal and Social Aspects“: Factsheet 1 – Einwilligung: FAIR und datenschutz­konform (https://doi.org/10.5281/zenodo.15912755); Factsheet 2 – Methoden zum FAIRen und datenschutz­konformen Umgang mit personenbezogenen Daten (https://doi.org/10.5281/zenodo.15916957); Factsheet 3 – Data Linkage: FAIR und datenschutz­konform (https://doi.org/10.5281/zenodo.15917014)
 
 
 

@@ -3,52 +3,46 @@ title: Fachliche Recherche und Ressourcen für Anglistik an der Universitätsbib
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/english-and-american-studies/
 category: Medien
-tags: [Anglistik, Literaturrecherche, Datenbanken, E-Books, E-Journals, Digital Humanities, Kurse, Wissenschaftliches Arbeiten]
+tags: ['Anglistik', 'Datenbanken', 'E-Books', 'E-Journals', 'Literaturstandorte', 'Kurse', 'Wissenschaftliches Arbeiten', 'Kontakt']
 language: de
 ---
 
-# Anglistik – Fachliche Recherche an der Universitätsbibliothek Mannheim
+# Anglistik – Fachliche Recherche und Ressourcen
 
-Für das Fach Anglistik bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und Rechercheeinstiege. Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tipps zum wissenschaftlichen Arbeiten benötigen, können Sie die angebotenen Kurse besuchen oder eine individuelle Beratung in Anspruch nehmen.
+Die Universitätsbibliothek Mannheim bietet für das Fach Anglistik umfassende Literatur, Datenbanken und Rechercheeinstiege. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
 
 ## Recherchieren
 
 ### Datenbanken
 
-Datenbanken zur Anglistik und zu anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/5/?availability-filter-free=on&availability-filter-local=on). Ergänzend stehen folgende Fachinformationsdienste zur Verfügung:
+Datenbanken zur Anglistik und angrenzenden Fachgebieten sind über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/5/?availability-filter-free=on&availability-filter-local=on) zugänglich. Ergänzend stehen folgende spezialisierte Angebote zur Verfügung:
 
 - [Fachinformationsdienst Allgemeine und Vergleichende Literaturwissenschaft (FID AVL)](https://www.avldigital.de/de/recherchieren/)
 - [Fachinformationsdienst Linguistik](https://www.linguistik.de/de/)
-
-Weitere relevante Datenbanken:
-
-- [Allgemeines](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=2)
-- [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=3)
-- [Medien- und Kommunikationswissenschaften](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=22)
-- [Pädagogik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=26)
-
-Direktlinks zu wichtigen Datenbanken:
-
-- [Canadian Literary Centre](https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s1116941&groupid=main&profile=ehost&defaultdb=cjh)
-- [JSTOR](https://www.jstor.org/)
-- [Literature Online (LION)](https://www.proquest.com/lion/advanced)
-- [MLA](https://dbis.ur.de/UBMAN/resources/76)
+- Weitere relevante Datenbanken:
+  - [Allgemeines](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=2)
+  - [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=3)
+  - [Medien- und Kommunikationswissenschaften](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=22)
+  - [Pädagogik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=26)
+- Direktzugriff auf wichtige Datenbanken:
+  - [Canadian Literary Centre](https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s1116941&groupid=main&profile=ehost&defaultdb=cjh)
+  - [JSTOR](https://www.jstor.org/)
+  - [Literature Online (LION)](https://www.proquest.com/lion/advanced)
+  - [MLA](https://dbis.ur.de/UBMAN/resources/76)
 
 ### E-Journals
 
-E-Journals für das Fach Anglistik finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=H) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+Die E-Journals für das Fach Anglistik sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=H) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar. Ergänzend gibt es E-Journals zu:
 
-Weitere relevante E-Journals:
-
-- [Allgemeines](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=AZ)
-- [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=E)
-- [Bildungsgeschichte](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=DD)
-- [Medien- und Kommunikationswissenschaften](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=AP)
-- [Pädagogik](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=D)
+- [Allgemeines](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AZ)
+- [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=E)
+- [Bildungsgeschichte](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=DD)
+- [Medien- und Kommunikationswissenschaften](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AP)
+- [Pädagogik](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=D)
 
 ### E-Books
 
-Die Universitätsbibliothek bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließlich Anglistik. Die E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Netz der Universität Mannheim zugänglich. Weitere Informationen finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließlich Anglistik. Die E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Universitätsnetz zugänglich. Weitere Informationen finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -60,7 +54,7 @@ Die Universitätsbibliothek bietet ein breites Angebot an E-Books für alle Fach
 - [Subject Guides](https://www.dramaonlinelibrary.com/subject-guides)
 - [Eighteenth Century Collections Online (ECCO)](https://dbis.ur.de/frontdoor.php?titel_id=4855)
 - [English Language Women's Literature of the 18. & 19. Centuries](https://kxp.k10plus.de/DB=5.3/xslt/DB=5.3/)
-- [Handbook of Pragmatics Online](https://benjamins.com/online/hop/list/subjects)
+- [Handbook of Pragmatics Online](https://benjamins.com/catalog/ehop)
 - [Handbücher zur Sprach- und Kommunikationswissenschaft](https://www.degruyter.com/serial/hsk-b/html#volumes)
 - [Literature Online](https://www.proquest.com/lion/advanced)
 - [Metzler Geisteswissenschaften](https://dbis.ur.de//detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&tid=0&titel_id=101014)
@@ -119,18 +113,19 @@ Die Universitätsbibliothek bietet ein breites Angebot an E-Books für alle Fach
 - [Oxford University Podcasts: Literature](https://podcasts.ox.ac.uk/keywords/literature)
 - [Postcolonial Space](https://postcolonial.net/podcast/)
 - [Queer Lit](https://www.spreaker.com/show/queer-lit)
-- [RaDiHum20](http://wordpress-202005011515.p552970.webspaceconfig.de/)
+- [RaDiHum20 – RAdio for DIgital HUManities](http://wordpress-202005011515.p552970.webspaceconfig.de/)
 - [Research Communication](https://libaac.de/home/full-view-post/detail/News/the-academic-podcast-an-important-tool-for-research-communication/)
 - [TED Talks Language](https://www.ted.com/talks?sort=relevance&topics%5B0%5D=language)
 - [TED Talks Literature](https://www.ted.com/talks?sort=relevance&topics%5B0%5D=literature)
 
 ## Literaturstandorte
 
-Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Anglistik, die vor Ort genutzt werden kann. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
+Literatur zum Fach Anglistik finden Sie an folgenden Standorten:
 
-Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Anglistik, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann. In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe zur Verfügung.
-
-Die an der UB vorhandene Literatur kann im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchiert werden.
+- [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): Vor Ort nutzbare, thematisch aufgestellte Bestände. Ausleihen sind nur für wissenschaftliches Personal möglich. Die Systematik finden Sie in der [Regensburger Verbundklassifikation](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online).
+- [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Ausleihbare Literatur für alle mit ecUM oder UB-Chipkarte.
+- Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel: Wichtige Lehrbücher in vielen Exemplaren für Studierende der Universität Mannheim und kooperierender Einrichtungen.
+- Die gesamte Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
 
 ## Forschungseinrichtungen vor Ort
 
@@ -142,13 +137,12 @@ Die an der UB vorhandene Literatur kann im [Katalog Primo](https://primo.bib.uni
 
 ## Kurse und Tutorials
 
-Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche in der Anglistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche in der Anglistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist ebenfalls möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
-
-Beachten Sie auch die [Tutorials zur MLA International Bibliography](https://ilias.uni-mannheim.de/ilias.php?ref_id=1220595&cmd=view&cmdClass=ilrepositorygui&cmdNode=ye&baseClass=ilRepositoryGUI), der wichtigsten Datenbank zu Literatur, Linguistik und Kulturwissenschaft aller modernen Philologien.
+- [Tutorials zur MLA International Bibliography](https://ilias.uni-mannheim.de/ilias.php?ref_id=1220595&cmd=view&cmdClass=ilrepositorygui&cmdNode=ye&baseClass=ilRepositoryGUI)
 
 **Kurse für das Fach Anglistik:**
 
@@ -171,12 +165,14 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 **Aufgaben:**
 
 - Literaturauswahl und -erschließung für die genannten Fächer
-- Vertretung Politikwissenschaft, Psychologie, Soziologie
+- Vertretung für Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 
-**Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim  
-**Telefon:** +49 621 181-3053  
-**E-Mail:** [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
+**Kontakt:**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
+- Telefon: +49 621 181-3053
+- E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
 
 **Vertretung:** [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)

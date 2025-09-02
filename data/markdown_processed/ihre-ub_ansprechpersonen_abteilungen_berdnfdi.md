@@ -1,62 +1,69 @@
 ---
-title: Ansprechpartner und Aufgaben im Projekt BERD@NFDI an der Universitätsbibliothek Mannheim
+title: Kontaktpersonen und Aufgabenbereiche des BERD@NFDI-Teams an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/berdnfdi/
-category: Services
-tags: [BERD@NFDI, Ansprechpartner, Forschungsdatenmanagement, Data Science, Datenschutz, Informationskompetenz, Universitätsbibliothek Mannheim]
+category: Kontakt
+tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Recht', 'Informationskompetenz', 'Universitätsbibliothek', 'Ansprechpartner', 'Mannheim']
 language: de
 ---
 
-# BERD@NFDI – Ansprechpartner an der Universitätsbibliothek Mannheim
+# BERD@NFDI – Kontaktpersonen und Aufgabenbereiche
+
+Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in verschiedenen Bereichen des Forschungsdatenmanagements, Data Science, Recht und Informationskompetenz. Nachfolgend finden Sie die zentralen Ansprechpartnerinnen und Ansprechpartner sowie deren Aufgabenbereiche und Kontaktdaten.
 
 ## Dr. Ulrich Krieger
 
-**Koordinator und Projektmanager für BERD@NFDI**  
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim  
-- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)  
-- Telefon: +49 621 181-2776  
+**Koordinator und Projektmanager für BERD@NFDI**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim
+- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
+- Telefon: +49 621 181-2776
 - E-Mail: [ulrich.krieger@uni-mannheim.de](mailto:ulrich.krieger@uni-mannheim.de)
 
 ## Dr. Regina Jutz
 
-**Projektmanagerin für BERD@NFDI**  
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim  
-- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)  
-- Telefon: +49 621 181-2717  
+**Projektmanagerin für BERD@NFDI**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim
+- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
+- Telefon: +49 621 181-2717
 - E-Mail: [regina.jutz@uni-mannheim.de](mailto:regina.jutz@uni-mannheim.de)
 
 ## Dr. Renat Shigapov
 
-**Referent für Data Science und Data Scientist im FDZ | Koordinator der NFDI AG „Knowledge Graphs“**  
-- Unterstützung von Forschenden bei der Anwendung von Data-Science-Methoden und FAIRem Forschungsdatenmanagement  
-- Weiterentwicklung des technischen Forschungsdatenmanagements  
-- Vermittlung von Informations- und Datenkompetenz  
-- Vertretung des FDZ innerhalb (inter-)nationaler Kooperationsprojekte  
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim  
-- Telefon: +49 621 181-2718  
-- E-Mail: [renat.shigapov@uni-mannheim.de](mailto:renat.shigapov@uni-mannheim.de)  
-- ORCID-ID: [0000-0002-0331-2558](https://orcid.org/0000-0002-0331-2558)
+**Referent für Data Science und Data Scientist im FDZ | Koordinator der NFDI AG „Knowledge Graphs“**
 
-## Vasilka Stoilova, LL.M.
+- Unterstützung von Forschenden bei der Anwendung von Data-Science-Methoden und FAIRem Forschungsdatenmanagement
+- Weiterentwicklung des technischen Forschungsdatenmanagements
+- Vermittlung von Informations- und Datenkompetenz
+- Vertretung des FDZ innerhalb (inter-)nationaler Kooperationsprojekte
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Telefon: +49 621 181-2718
+- E-Mail: [renat.shigapov@uni-mannheim.de](mailto:renat.shigapov@uni-mannheim.de)
+- ORCID: [0000-0002-0331-2558](https://orcid.org/0000-0002-0331-2558)
 
-**Legal Counsel für BERD@NFDI und FDZ**  
-- Unterstützung von Forschenden  
-- Rechtliche Fragestellungen im FDM-Bereich  
-- Themengebiete: Datenschutz, Urheberrecht, Lizenzrecht  
-- BERD Datenschutzkonzept und Plattform-Richtlinien  
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim  
-- Telefon: +49 621 181-2714  
-- E-Mail: [vasilka.stoilova@uni-mannheim.de](mailto:vasilka.stoilova@uni-mannheim.de)
+## Vasilka Paunova, LL.M.
+
+**Legal Counsel für BERD@NFDI und FDZ**
+
+- Unterstützung von Forschenden
+- Rechtliche Fragestellungen im Bereich Forschungsdatenmanagement
+- Themengebiete: Datenschutz, Urheberrecht, Lizenzrecht
+- BERD Datenschutzkonzept und Plattform-Richtlinien
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
+- Telefon: +49 621 181-2714
+- E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
 
 ## Dr. Jorge Murcia Serra
 
-**Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI**  
-- Literaturauswahl und -erschließung für das Fach Romanistik  
-- Auswahl und Erschließung von Sprachlernmaterialien  
-- Fachliche Beratung bei Recherchefragen  
-- Durchführung von Schulungen im Fachbereich  
-- Betreuung des Bereichs Informationskompetenz und E-Learning  
-- Education & Training im Projekt BERD@NFDI  
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim  
-- Telefon: +49 621 181-2997  
+**Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI**
+
+- Literaturauswahl und -erschließung für das Fach Romanistik
+- Auswahl und Erschließung von Sprachlernmaterialien
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Betreuung des Bereichs Informationskompetenz und E-Learning
+- Education & Training im Projekt BERD@NFDI
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
+- Telefon: +49 621 181-2997
 - E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)

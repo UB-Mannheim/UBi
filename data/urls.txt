@@ -40,7 +40,6 @@ https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entz
 https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/pressemitteilung/
 https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/provenienzforschung/
 https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/ressource-gesellschaft/
-https://www.bib.uni-mannheim.de/ihre-ub/publikationen/
 https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/
 https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/benutzungsordnung/
 https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/
@@ -82,7 +81,6 @@ https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/semester
 https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/semesterapparat/antrag-auf-einrichtung-eines-semesterapparats/
 https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/
 https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/gehostete-open-access-buecher/
-https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/handbuch-quantitative-methoden/
 https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-in-den-geschichtswissenschaften/
 https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-policy/
 https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/
@@ -132,9 +130,6 @@ https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/
 https://www.bib.uni-mannheim.de/services/internetzugang/
 https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/
 https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/
-https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fake-news-in-der-wissenschaft/
-https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/madali2-mannheim-data-literacy/
-https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/
 https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/
 https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/haeufig-gestellte-fragen/
 https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zitationsstile/

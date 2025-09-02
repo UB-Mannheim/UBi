@@ -66,22 +66,35 @@ Mehr Informationen hierzu finden Sie auf der Seite Hinweise zur E-Book- und Date
 ### Fach­liche Internetquellen
 
 
-* Literatur­recherche  (https://www.vkkiwa.de/ki-ressourcen/)
-* Textverstehen  (https://www.vkkiwa.de/ki-ressourcen/)
-* Textproduktion  (https://www.vkkiwa.de/ki-ressourcen/)
-* Textbearbeitung / -korrektur (https://www.vkkiwa.de/ki-ressourcen/)
+* Butler (https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yu:no&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=1664806)
+* Cixous
+* Irigaray (https://de.wikipedia.org/wiki/Luce_Irigaray)
+* Hooks (https://archive.org/details/all-about-love_202309)
+* Kant (https://www.korpora.org/Kant/)
+* Kristeva
+* Montaigne (https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yu:no&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=1664760)
+
+**AutorInnen**
+
+* Butler (https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yu:no&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=1664806)
+* Cixous
+* Irigaray (https://de.wikipedia.org/wiki/Luce_Irigaray)
+* Hooks (https://archive.org/details/all-about-love_202309)
+* Kant (https://www.korpora.org/Kant/)
+* Kristeva
+* Montaigne (https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yu:no&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=1664760)
 
 **KI-Ressourcen**
 
-* Literatur­recherche  (https://www.vkkiwa.de/ki-ressourcen/)
-* Textverstehen  (https://www.vkkiwa.de/ki-ressourcen/)
-* Textproduktion  (https://www.vkkiwa.de/ki-ressourcen/)
+* Literatur­recherche (https://www.vkkiwa.de/ki-ressourcen/)
+* Textverstehen (https://www.vkkiwa.de/ki-ressourcen/)
+* Textproduktion (https://www.vkkiwa.de/ki-ressourcen/)
 * Textbearbeitung / -korrektur (https://www.vkkiwa.de/ki-ressourcen/)
 
 **Podcasts**
 
-*  (https://www.philosophy.ox.ac.uk/podcasts)W (https://www.philosophy.ox.ac.uk/podcasts)i (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)e (https://www.philosophy.ox.ac.uk/podcasts)n (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)c (https://www.philosophy.ox.ac.uk/podcasts)h (https://www.philosophy.ox.ac.uk/podcasts)a (https://www.philosophy.ox.ac.uk/podcasts)f (https://www.philosophy.ox.ac.uk/podcasts)t (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)­ (https://www.philosophy.ox.ac.uk/podcasts)p (https://www.philosophy.ox.ac.uk/podcasts)o (https://www.philosophy.ox.ac.uk/podcasts)d (https://www.philosophy.ox.ac.uk/podcasts)c (https://www.philosophy.ox.ac.uk/podcasts)a (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)t (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)  (https://www.philosophy.ox.ac.uk/podcasts)P (https://www.philosophy.ox.ac.uk/podcasts)h (https://www.philosophy.ox.ac.uk/podcasts)i (https://www.philosophy.ox.ac.uk/podcasts)l (https://www.philosophy.ox.ac.uk/podcasts)o (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)o (https://www.philosophy.ox.ac.uk/podcasts)p (https://www.philosophy.ox.ac.uk/podcasts)h (https://www.philosophy.ox.ac.uk/podcasts)i (https://www.philosophy.ox.ac.uk/podcasts)e (https://www.philosophy.ox.ac.uk/podcasts)  (https://www.philosophy.ox.ac.uk/podcasts)( (https://www.philosophy.ox.ac.uk/podcasts)h (https://www.philosophy.ox.ac.uk/podcasts)t (https://www.philosophy.ox.ac.uk/podcasts)t (https://www.philosophy.ox.ac.uk/podcasts)p (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts): (https://www.philosophy.ox.ac.uk/podcasts)/ (https://www.philosophy.ox.ac.uk/podcasts)/ (https://www.philosophy.ox.ac.uk/podcasts)w (https://www.philosophy.ox.ac.uk/podcasts)i (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)e (https://www.philosophy.ox.ac.uk/podcasts)n (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)c (https://www.philosophy.ox.ac.uk/podcasts)h (https://www.philosophy.ox.ac.uk/podcasts)a (https://www.philosophy.ox.ac.uk/podcasts)f (https://www.philosophy.ox.ac.uk/podcasts)t (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)p (https://www.philosophy.ox.ac.uk/podcasts)o (https://www.philosophy.ox.ac.uk/podcasts)d (https://www.philosophy.ox.ac.uk/podcasts)c (https://www.philosophy.ox.ac.uk/podcasts)a (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)t (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts). (https://www.philosophy.ox.ac.uk/podcasts)d (https://www.philosophy.ox.ac.uk/podcasts)e (https://www.philosophy.ox.ac.uk/podcasts)/ (https://www.philosophy.ox.ac.uk/podcasts)p (https://www.philosophy.ox.ac.uk/podcasts)o (https://www.philosophy.ox.ac.uk/podcasts)d (https://www.philosophy.ox.ac.uk/podcasts)c (https://www.philosophy.ox.ac.uk/podcasts)a (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)t (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)/ (https://www.philosophy.ox.ac.uk/podcasts)? (https://www.philosophy.ox.ac.uk/podcasts)c (https://www.philosophy.ox.ac.uk/podcasts)a (https://www.philosophy.ox.ac.uk/podcasts)t (https://www.philosophy.ox.ac.uk/podcasts)= (https://www.philosophy.ox.ac.uk/podcasts)p (https://www.philosophy.ox.ac.uk/podcasts)h (https://www.philosophy.ox.ac.uk/podcasts)i (https://www.philosophy.ox.ac.uk/podcasts)l (https://www.philosophy.ox.ac.uk/podcasts)o (https://www.philosophy.ox.ac.uk/podcasts)s (https://www.philosophy.ox.ac.uk/podcasts)o (https://www.philosophy.ox.ac.uk/podcasts)p (https://www.philosophy.ox.ac.uk/podcasts)h (https://www.philosophy.ox.ac.uk/podcasts)i (https://www.philosophy.ox.ac.uk/podcasts)e (https://www.philosophy.ox.ac.uk/podcasts)) (https://www.philosophy.ox.ac.uk/podcasts)  (https://www.philosophy.ox.ac.uk/podcasts)( (https://www.philosophy.ox.ac.uk/podcasts)d (https://www.philosophy.ox.ac.uk/podcasts)t (https://www.philosophy.ox.ac.uk/podcasts). (https://www.philosophy.ox.ac.uk/podcasts)) (https://www.philosophy.ox.ac.uk/podcasts)
-* Wissenschafts­podcasts Philosophie (https://www.philosophy.ox.ac.uk/podcasts) (engl.) 	Philosophy Bites (https://philosophybites.com/) (also on iTunes) David Edond and Nigel Warburton give short interviews with philosophers on various topics.History of Philosophy without Any Gaps (https://historyofphilosophy.net/) (also on iTunes). Peter Adamson's podcasts covering classical, Islamic, Jewish, and medieval history.Wi-Phi (http://www.wi-phi.com/) Accessible video introductions to philosophyIaI TV (https://iai.tv/) Free collection of debates and talks including some on philosophyIn Our Time: Philosophy (https://www.bbc.co.uk/programmes/p01f0vzr/episodes/downloads) – Recordings of the philosophy discussion programme on BBC Radio 4TED talks (https://www.ted.com/topics/philosophy) (also on iTunes) A collection of TED talks (https://www.ted.com/topics/philosophy) on philosophical topics
+* Wissenschafts­podcasts Philosophie (https://wissenschaftspodcasts.de/podcasts/?cat=philosophie) (dt.)
+* Wissenschafts­podcasts Philosophie (https://www.philosophy.ox.ac.uk/podcasts) (engl.)Philosophy Bites (https://philosophybites.com/) (also on iTunes) David Edond and Nigel Warburton give short interviews with philosophers on various topics.History of Philosophy without Any Gaps (https://historyofphilosophy.net/) (also on iTunes). Peter Adamson's podcasts covering classical, Islamic, Jewish, and medieval history.Wi-Phi (http://www.wi-phi.com/) Accessible video introductions to philosophyIaI TV (https://iai.tv/) Free collection of debates and talks including some on philosophyIn Our Time: Philosophy (https://www.bbc.co.uk/programmes/p01f0vzr/episodes/downloads) – Recordings of the philosophy discussion programme on BBC Radio 4TED talks (https://www.ted.com/topics/philosophy) (also on iTunes) A collection of TED talks (https://www.ted.com/topics/philosophy) on philosophical topics
 
 
 * Philosophy Bites (https://philosophybites.com/) (also on iTunes) David Edond and Nigel Warburton give short interviews with philosophers on various topics.

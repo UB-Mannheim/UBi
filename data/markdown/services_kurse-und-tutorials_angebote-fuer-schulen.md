@@ -56,25 +56,6 @@ Dauer der Veranstaltung: ca. 120 Minuten
 
 
 
-### Online-Workshop via Zoom für Seminarkurse
-
-
-* Die UB Mannheim kennenlernen
-* Schreibthema finden
-* Literatur­recherche am Beispiel unseres Katalogs Primo und Google Scholar
-* Freie Online-Ressourcen nutzen
-* Zitieren und Literatur­verzeichnisse analysieren
-
-Ziel­gruppe: Seminarkurse der gymnasialen Oberstufe in der RegionDauer der Veranstaltung: ca. 90 bis 120 Minuten
-
-* Die UB Mannheim kennenlernen
-* Schreibthema finden
-* Literatur­recherche am Beispiel unseres Katalogs Primo und Google Scholar
-* Freie Online-Ressourcen nutzen
-* Zitieren und Literatur­verzeichnisse analysieren
-
-
-
 ### Informations­kompetenz für Lehr­kräfte
 
 

@@ -48,14 +48,7 @@ Die Rechnung muss folgende Angaben enthalten:
 
 
 
-## 6. Acknowledgements
-
-Ihr Artikel soll in den Acknowledgements einen Hinweis auf die Förderung durch die Universität Mannheim oder durch das MZES enthalten.
-Beispiel: „The publication of this article was funded by the University of Mannheim.” oder „The publication of this article was funded by the Mannheim Centre for European Social Research (MZES).”
-Bei Publikationen, die aus einem von der DFG geförderten Projekt hervorgehen, muss das Projekt in den Acknowledgements genannt werden.
-
-
-## 7. Nachweis in MADOC
+## 6. Nachweis in MADOC
 
 Die UB weist den Artikel in der Universitäts­bibliographie auf dem Publikations­server MADOC nach und kennzeichnet ihn als geförderten Artikel. Der Volltext wird auf MADOC archiviert und zur Verfügung gestellt. Die Daten werden außerdem an openAPC (https://treemaps.intact-project.org/apcdata/openapc/) und an die DFG übermittelt.
 Antrag auf Über­nahme von Open-Access-Publikations­kosten  (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/)

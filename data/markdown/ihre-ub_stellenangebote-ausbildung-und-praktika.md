@@ -11,28 +11,7 @@
 
 ## Aktuelle Stellenangebote
 
-
-
-## Bibliotheksmitarbeiter*in (m/w/d)
-
-An der Universitäts­bibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als Bibliotheksmitarbeiter*in (m/w/d) (TV-L BW E6) zu besetzen.
-Bewerbungs­schluss ist der 8. August 2025.
-Weitere Informationen entnehmen Sie bitte der Stellen­ausschreibung (https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_378_Stellenanzeige_Bibliotheksmitarbeiterin_E6_DigiA5.pdf) (PDF, 428 KB).
-
-
-## Bibliotheksmitarbeiter*in (m/w/d)
-
-An der Universitäts­bibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als Bibliotheksmitarbeiter*in (m/w/d) (TV-L BW E6) zu besetzen.
-Bewerbungs­schluss ist der 8. August 2025.
-Weitere Informationen entnehmen Sie bitte der Stellen­ausschreibung (https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_377_Stellenanzeige_Bibliotheksmitarbeiterin_E6_DigiAuFL.pdf) (PDF, 433 KB).
-
-
-## Initiativbewerbung (Studentische) Aushilfe (m/w/d)
-
-Sie haben Interesse am Umgang mit Büchern und Menschen? Sie sind zuverlässig, flexibel und suchen nach einem Nebenjob? Dann bewerben Sie sich als (Studentische) Aushilfe an der UB Mannheim und werden Teil unseres Teams.
-Weitere Informationen entnehmen Sie der Stellen­ausschreibung (https://www.uni-mannheim.de/media/Universitaet/Dokumente/Ausschreibungen_Stellenanzeigen/StudAushilfen_UB_SA-352.pdf/flipbook).
-Wir freuen uns auf Ihre Bewerbung.
-Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter Datenschutz bei Bewerbungen (https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet-mannheim/stellenanzeigen/datenschutz-bei-bewerbungen/).
+Vielen Dank für Ihr Interesse. Zur Zeit haben wir keine Stellen zu besetzen.
 
 
 ## Ausbildung

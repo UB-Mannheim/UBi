@@ -1,56 +1,56 @@
 ---
-title: Drucken, Kopieren und Scannen in der Universitätsbibliothek Mannheim
+title: Drucken, Kopieren und Scannen in der Universitätsbibliothek Mannheim: Gebühren, Geräte und Anleitungen
 source_url_de: https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/printing-copying-and-scanning/
 category: Services
-tags: [Drucken, Kopieren, Scannen, ecUM, UB-Chipkarte, Papercut, Druckgebühren, Scanservice]
+tags: ['Drucken', 'Kopieren', 'Scannen', 'Gebühren', 'ecUM', 'Chipkarte', 'Papercut', 'USB-Stick', 'Scanservice']
 language: de
 ---
 
-# Drucken, Kopieren und Scannen
+# Drucken, Kopieren und Scannen in der Universitätsbibliothek Mannheim
 
-Mit Ihrer ecUM oder UB-Chipkarte können Sie in allen Bibliotheksbereichen drucken und kopieren. Für einen doppelseitigen Druck in Schwarz-Weiß zahlen Sie 3 Cent pro Seite, die über ein virtuelles Druckkonto abgebucht werden. Scans können kostenlos auf USB-Stick gespeichert oder an Ihre universitäre E-Mail-Adresse versendet werden.
+Mit Ihrer ecUM oder UB-Chipkarte können Sie in allen Bibliotheksbereichen drucken und kopieren. Für einen doppelseitigen Druck in schwarz-weiß zahlen Sie 3 Cent pro Seite, die über ein virtuelles Druckkonto abgebucht werden. Scans können kostenlos auf USB-Stick gespeichert oder an Ihre universitäre E-Mail-Adresse versendet werden.
 
-An allen [SB-Terminals](https://www.uni-mannheim.de/it/anleitungen/sb-terminals/) können Sie Guthaben auf Ihr virtuelles Druckkonto umbuchen. Der aktuelle Status Ihres Druckkontos ist auf der Webseite [Papercut](https://drucken.uni-mannheim.de) einsehbar.
+In allen Bibliotheksbereichen stehen definierte PCs in der Nähe der Infotheken zur Verfügung, an denen Sie Geld auf Ihr virtuelles Druckkonto umbuchen können. Diese Möglichkeit bieten auch die [SB-Terminals](https://www.uni-mannheim.de/it/anleitungen/sb-terminals/). Der umgebuchte Betrag steht Ihnen zum Kopieren und Drucken zur Verfügung. Über die Webseite [Papercut](https://drucken.uni-mannheim.de) können Sie den aktuellen Status Ihres Druckkontos einsehen.
 
 ## Druckgebühren
 
-Wählen Sie am Kopierer aus, ob Sie farbig oder schwarz-weiß sowie ein- oder mehrseitig drucken möchten. Die Standardeinstellung ist schwarz-weiß, zweiseitig. An einzelnen Druckern ist auch das Drucken in A3 möglich.
+Wählen Sie am Kopierer aus, ob Sie farbig oder schwarz-weiß sowie ein- oder mehrseitig drucken möchten. Die Standardeinstellung ist schwarz-weiß, zweiseitig. An einzelnen Druckern ist zudem das Drucken in A3 möglich.
 
-**A4:**
+**Preistabelle:**
 
-| Modus         | Simplex (einseitig) | Duplex (zweiseitig) |
+**A4**
+| Modus | Simplex (einseitig) | Duplex (zweiseitig) |
 |---------------|---------------------|---------------------|
-| farbig        | 7 ct/Seite          | 6 ct/Seite          |
-| schwarz-weiß  | 4 ct/Seite          | 3 ct/Seite          |
+| farbig | 7 ct/Seite | 6 ct/Seite |
+| schwarz-weiß | 4 ct/Seite | 3 ct/Seite |
 
-**A3:**
-
-| Modus         | Simplex (einseitig) | Duplex (zweiseitig) |
+**A3**
+| Modus | Simplex (einseitig) | Duplex (zweiseitig) |
 |---------------|---------------------|---------------------|
-| farbig        | 14 ct/Seite         | 12 ct/Seite         |
-| schwarz-weiß  | 8 ct/Seite          | 6 ct/Seite          |
+| farbig | 14 ct/Seite | 12 ct/Seite |
+| schwarz-weiß | 8 ct/Seite | 6 ct/Seite |
 
 ## Drucken von PCs der UB
 
-Druckaufträge können an jedem PC der Universitätsbibliothek erstellt werden. Sie lassen sich innerhalb von 48 Stunden an jedem Bibliotheks-Kopierer ausdrucken.
+Druckaufträge können an jedem PC der Universitätsbibliothek erstellt werden. Diese lassen sich innerhalb von 48 Stunden an jedem Bibliotheks-Kopierer ausdrucken.
 
 ## Drucken von mobilen Geräten
 
-Mitglieder der Universität Mannheim können Druckaufträge auch vom eigenen Gerät senden, wenn sie sich im Universitätsnetzwerk befinden. Über die Webseite [Papercut](https://drucken.uni-mannheim.de) können pdf- oder xps-Dateien hochgeladen werden. Innerhalb von 48 Stunden können diese an jedem Kopierer der UB ausgedruckt werden.
+Als Mitglied der Universität Mannheim können Sie Druckaufträge auch von Ihrem eigenen Gerät senden, sofern Sie sich im Netzwerk der Universität Mannheim befinden. Über die Webseite [Papercut](https://drucken.uni-mannheim.de) laden Sie Ihre PDF- oder XPS-Dateien hoch. Innerhalb von 48 Stunden können Sie diese an jedem Kopierer der UB ausdrucken.
 
-[Anleitung zum Drucken von mobilen Geräten (PDF, 186 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/DruckenMobileGeraete.pdf)
+Weitere Informationen finden Sie in der [Anleitung zum Drucken von mobilen Geräten (PDF, 186 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/DruckenMobileGeraete.pdf).
 
 ## Scannen
 
-Scans sind in den Dateiformaten tiff, jpeg und pdf möglich.
+Scans sind in den Dateiformaten TIFF, JPEG und PDF möglich.
 
 ### An den Scannern
 
-Graustufen- und Farb-Scanner stehen in allen Bibliotheken zur Verfügung. Scans können auf USB-Stick gespeichert oder an die universitäre E-Mail-Adresse gesendet werden. Der Versand an andere E-Mail-Adressen ist nicht möglich.
+Graustufen- und Farb-Scanner stehen in allen Bibliotheken zur Verfügung. Ihre Scans können Sie auf USB-Stick speichern oder an Ihre universitäre E-Mail-Adresse senden. Der Versand an andere E-Mail-Adressen ist nicht möglich.
 
-Studierende der Universität Mannheim können den [Scanservice der Universitätsbibliothek](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/scanservice/) nutzen.
+Studierende der Universität Mannheim können zusätzlich den [Scanservice der Universitätsbibliothek](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/scanservice/) nutzen.
 
 ### An den Kopierern
 
-Für die Anmeldung am Kopierer benötigen Sie Ihre ecUM oder UB-Chipkarte sowie ein Guthaben auf Ihrem virtuellen Druckkonto. Halten Sie die Karte an die Schaltfläche am Gerät. Bei der ersten Nutzung werden Sie nach Ihrer Uni-ID und Ihrem Passwort gefragt.
+Für die Anmeldung am Kopierer benötigen Sie Ihre ecUM oder UB-Chipkarte sowie ein Guthaben auf Ihrem virtuellen Druckkonto. Halten Sie Ihre Karte an die Schaltfläche am Gerät. Bei der ersten Nutzung werden Sie nach Ihrer Uni-ID und Ihrem Passwort gefragt.

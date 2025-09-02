@@ -19,7 +19,8 @@ An allen Arbeits­plätzen können Sie mit Ihrer Uni-ID das WLAN eduroam (https:
 Mehr als 200 PC-Arbeits­plätze sind mit aktueller Software ausgestattet. Das MS-Office-Paket sowie LibreOffice stehen Ihnen zur Verfügung. Rechercheergebnisse und Downloads aus Volltextdatenbanken können bearbeitet und auf dem USB-Stick gespeichert werden. Mit Ihrem Kopfhörer können Sie multimediale Angebote nutzen.
 In allen Bibliotheks­bereichen stehen Monitore bereit, mit denen Sie Ihren Laptop via HDMI verbinden können
 Kopierer und Scanner (https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/) finden Sie in allen Bereichen.
-In den Gruppen­arbeits­bereichen finden Sie PalMA-Team-Monitore (https://www.bib.uni-mannheim.de/services/arbeitsplaetze/palma-team-monitore/), Flipcharts und teilweise SMART Boards mit Beamerfunktion. Zwei interaktive SMART Boards stehen im Learning Center (https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/). Notebooks sind nach Vorbestellung über den Katalog Primo für Universitäts­angehörige im InfoCenter ausleihbar (https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/).
+In den Gruppen­arbeits­bereichen finden Sie PalMA-Team-Monitore (https://www.bib.uni-mannheim.de/services/arbeitsplaetze/palma-team-monitore/), Flipcharts und teilweise SMART Boards mit Beamerfunktion. 
+Notebooks sind nach Vorbestellung über den Katalog Primo für Universitäts­angehörige im InfoCenter ausleihbar (https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/).
 
 
 ## Gruppen­arbeit

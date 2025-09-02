@@ -90,11 +90,6 @@ Die Universitäts­bibliothek berät Sie rund um die Themen Publizieren und Open
 
 
 
-## CHE Ranking: Universitäts­bibliothek Mannheim in der Spitzen­gruppe
-
-Im CHE Ranking (https://www.che.de/ranking-deutschland/) wird die Mannheimer Universitäts­bibliothek seit Jahren in nahezu allen Fach­bereichen hervorragend bewertet. Für das Jahr 2017 etwa wird die Bibliotheksausstattung im Fach­bereich BWL mit 1,4 oder des Fach­bereichs Rechts­wissenschaft mit 1,5 beurteilt.
-
-
 ## Hervorragende Bewertung bei U-Multirank
 
 Im weltweiten Ranking U-Multirank (https://www.che.de/en/ranking-international/), in dem die Fach­bereiche Sozial­wissenschaften, BWL und VWL/Recht bewertet werden, haben die jeweiligen Bibliotheksausstattungen Spitzenpositionen erreicht.
