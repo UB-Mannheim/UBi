@@ -11,7 +11,7 @@ from utils import is_valid_json
 async def route_and_augment_query(
     client: AsyncOpenAI | None,
     user_input: list[dict],
-    model: str = "gpt-4.1-nano-2025-04-14",
+    model: str = os.getenv("ROUTER_MODEL", "gpt-4.1-nano-2025-04-14"),
     debug: bool = False,
 ) -> tuple[str, str, str]:
     """

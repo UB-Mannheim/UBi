@@ -164,7 +164,7 @@ async def handle_openai_vectorstore_query(
     full_answer = ""
     try:
         stream = await client.responses.create(
-            model="gpt-4o-mini-2024-07-18",
+            model=os.getenv("CHAT_MODEL", "gpt-4o-mini-2024-07-18"),
             input=chat_history,
             tools=[
                 {
