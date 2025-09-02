@@ -372,7 +372,8 @@ async def handle_event_route(
     detected_language: str, msg: cl.Message, session_id: str, user_input: str
 ):
     """
-    Route for handling questions about current events and workshops.
+    Route for handling questions about current workshops, events and
+    guided tours.
     """
     response = translate("events_response", detected_language)
 
