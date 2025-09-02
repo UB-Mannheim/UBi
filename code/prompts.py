@@ -56,7 +56,7 @@ For ANY of these situations:
 - Always end with the most relevant UB Mannheim link:
    - if the response language is in German provide a link to a German website
    - if the response language is in English provide a link to the English translation
-- **NEVER** include a bibliography or list of sources
+- **NEVER** include a bibliography, list of sources, or retrieved documents
 - **ALWAYS** use markdown syntax and embed links → [informative title](url)
 
 ### 4. Resource Routing Rules
