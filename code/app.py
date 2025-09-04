@@ -25,6 +25,7 @@ from rss_reader import get_rss_items
 from session_stats import check_session_warnings, get_session_usage_message
 from terms_conditions import ask_terms_acceptance, check_terms_accepted
 from translations import translate
+from utils import extract_openai_response_data, print_openai_extracted_data
 
 
 # === .env Configuration ===
@@ -92,7 +93,7 @@ async def set_starters(user=None):
         ),
         cl.Starter(
             label="Standorte",
-            message="Gib mir eine Liste aller Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Webseitenlink in Klammern.",
+            message="Gib mir eine Liste aller Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Link zur Webseite in dieser Struktur: [Standort](Link): fachliche Ausrichtung",
         ),
         cl.Starter(
             label="Neuigkeiten",
@@ -164,20 +165,24 @@ async def handle_openai_vectorstore_query(
     full_answer = ""
     try:
         stream = await client.responses.create(
-            model=os.getenv("CHAT_MODEL", "gpt-4o-mini-2024-07-18"),
+            model=os.getenv("CHAT_MODEL", "gpt-4.1-mini-2025-04-14"),
             input=chat_history,
             tools=[
                 {
                     "type": "file_search",
                     "vector_store_ids": [OPENAI_VECTORSTORE_ID],
-                    "max_num_results": 8,
+                    "max_num_results": 6,
                 }
             ],
+            include=["file_search_call.results"] if DEBUG else None,
             instructions=get_instructions(detected_language),
             stream=True,
             temperature=0,
         )
         async for event in stream:
+            if event.type == "response.completed" and DEBUG:
+                results_data, usage_data = extract_openai_response_data(event.response)
+                print_openai_extracted_data(results_data, usage_data)
             if event.type == "response.output_text.delta" and event.delta:
                 token = event.delta
                 await msg.stream_token(token)
@@ -381,7 +386,8 @@ async def handle_event_route(
     detected_language: str, msg: cl.Message, session_id: str, user_input: str
 ):
     """
-    Route for handling questions about current events and workshops.
+    Route for handling questions about current workshops, events and
+    guided tours.
     """
     response = translate("events_response", detected_language)
 

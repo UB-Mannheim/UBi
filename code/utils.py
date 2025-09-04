@@ -132,3 +132,71 @@ def get_new_or_modified_files_by_hash(
             for fname, h in current_hashes.items()
             if old_hashes.get(fname) != h
         ]
+
+
+def extract_openai_response_data(response_obj):
+    """
+    Extract file search chunk and LLM usage data from an OpenAI LLM call.
+    """
+    # Initialize results containers
+    results_data = []
+    usage_data = {}
+
+    # Extract Result objects from the file search tool call
+    if hasattr(response_obj, 'output') and len(response_obj.output) > 0:
+        # Find the file search tool call in the output
+        for output_item in response_obj.output:
+            if (
+                hasattr(output_item, 'type')
+                and output_item.type == 'file_search_call'
+                and hasattr(output_item, 'results')
+                ):
+                for result in output_item.results:
+                    result_info = {
+                        'file_id': result.file_id,
+                        'filename': result.filename,
+                        'score': result.score,
+                        'text': result.text
+                    }
+                    results_data.append(result_info)
+                break
+
+    # Extract ResponseUsage data
+    if hasattr(response_obj, 'usage'):
+        usage_data = {
+            'input_tokens': response_obj.usage.input_tokens,
+            'output_tokens': response_obj.usage.output_tokens,
+            'total_tokens': response_obj.usage.total_tokens
+        }
+
+    return results_data, usage_data
+
+
+def print_openai_extracted_data(results_data, usage_data):
+    """
+    Print the extracted data in a formatted way
+    """
+    print("=" * 40)
+    print("RETRIEVED VECTORESTORE DOCS / CHUNKS")
+    print("=" * 40)
+
+    # Print Results data
+    print(f"\nRESULTS ({len(results_data)} items):")
+    print("-" * 40)
+
+    for i, result in enumerate(results_data, 1):
+        print(f"[bold]\nResult {i}:")
+        print(f"  [bold]File ID[/]: {result['file_id']}")
+        print(f"  [bold]Filename[/]: {result['filename']}")
+        print(f"  [bold]Score[/]: {result['score']}")
+        print(f"  [bold]Text[/]: [green]{result['text']}[/]")
+        print()
+        print("=" * 40)
+        print()
+
+    # Print Usage data
+    print("\n[bold]RESPONSE USAGE:")
+    print("-" * 40)
+    print(f"[bold]Input Tokens[/]: {usage_data.get('input_tokens', 'N/A')}")
+    print(f"[bold]Output Tokens[/]: {usage_data.get('output_tokens', 'N/A')}")
+    print(f"[bold]Total Tokens[/]: {usage_data.get('total_tokens', 'N/A')}")
