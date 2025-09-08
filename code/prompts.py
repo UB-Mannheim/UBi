@@ -200,7 +200,7 @@ Output: {{
 }}"""
 
 # === Prompts for Data Processing ===
-PROMPT_POST_PROCESSING = f"""You are an expert at preparing markdown documents for Retrieval-Augmented Generation (RAG) systems.
+PROMPT_POST_PROCESSING = """You are an expert at preparing markdown documents for Retrieval-Augmented Generation (RAG) systems.
 Process documents from the Universitätsbibliothek Mannheim website following these strict guidelines:
 
 # PRIMARY OBJECTIVES

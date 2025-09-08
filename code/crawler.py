@@ -10,7 +10,7 @@ import click
 import requests
 import utils
 from bs4 import BeautifulSoup, Tag
-from config import CRAWL_DIR, URLS_TO_CRAWL
+from config import CRAWL_DIR, DATA_DIR, URLS_TO_CRAWL
 from markdown_processing import write_markdown_from_url
 from rich import print
 from tqdm import tqdm
@@ -172,7 +172,9 @@ def parse_uma_address_contact(element: Tag) -> list[str]:
         "a", href=lambda x: isinstance(x, str) and x.startswith("tel:")
     )
     telephone = (
-        tel_tag.get_text(strip=True) if (tel_tag and isinstance(tel_tag, Tag)) else None
+        tel_tag.get_text(strip=True)
+        if (tel_tag and isinstance(tel_tag, Tag))
+        else None
     )
     if telephone:
         lines.append(f"- Telefon: {telephone}")
@@ -265,16 +267,18 @@ def find_specified_tags(
         """
         # Specific markdown mapping for UMA heading levels
         h_map = {
-            'h1': '# ',
-            'h2': '## ',
-            'h3': '## ',
-            'h4': '### ',
-            'h5': '### ',
-            'h6': '### ',
+            "h1": "# ",
+            "h2": "## ",
+            "h3": "## ",
+            "h4": "### ",
+            "h5": "### ",
+            "h6": "### ",
         }
 
         # Determine markdown heading prefix
-        heading_prefix = h_map.get(h_level.lower(), "") if isinstance(h_level, str) else ""
+        heading_prefix = (
+            h_map.get(h_level.lower(), "") if isinstance(h_level, str) else ""
+        )
 
         # Find all href
         a_tags = element.find_all("a") if isinstance(element, Tag) else []
@@ -318,7 +322,7 @@ def find_specified_tags(
                 )
 
         # Prefix with heading level if provided
-        if heading_prefix == '# ':
+        if heading_prefix == "# ":
             return f"{heading_prefix}[{element_text_md.strip()}]({url})"
         else:
             return f"{heading_prefix}{element_text_md.strip()}"
@@ -411,8 +415,8 @@ def find_specified_tags(
         elif "teaser-link" in class_attr:
             matched_tags.append(parse_href(element))
 
-        # <ul>
-        elif element.name == "ul" and not element.has_attr("class"):
+        # <ul>, <ol>
+        elif element.name in ["ul", "ol"] and not element.has_attr("class"):
             li_elements = (
                 element.find_all("li", recursive=False)
                 if isinstance(element, Tag)
@@ -520,6 +524,7 @@ def process_urls(urls: list[str], output_dir: str = ""):
                 "b",
                 "a",
                 "ul",
+                "ol",
                 "tbody",
                 "table",
                 "strong",
@@ -585,9 +590,19 @@ def process_urls(urls: list[str], output_dir: str = ""):
             # Save markdown file only if changed/new
             written_file = write_markdown_from_url(
                 url, content_single_page, output_dir
-                )
+            )
             if written_file:
                 changed_files.append(written_file)
+
+        if response.status_code == 404:
+            # If markdown file(s) for 404 URL exist locally remove them
+            print(f"[bold]Error 404: {url} not found! Skipping ...")
+            fpath_md = utils.get_markdown_filepath_for_url(url, CRAWL_DIR)
+            fpath_md_proc = utils.get_markdown_filepath_for_url(url, DATA_DIR)
+            for fpath in [fpath_md, fpath_md_proc]:
+                if fpath.exists():
+                    utils.delete_filepath(fpath)
+                    print(f"[bold]Deleted {fpath} as {url} returns 404 ...")
 
     return changed_files
 

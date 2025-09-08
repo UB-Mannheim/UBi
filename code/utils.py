@@ -2,9 +2,9 @@ import datetime
 import hashlib
 import json
 import shutil
+from urllib.parse import urlparse
 import yaml
 from pathlib import Path
-
 from rich import print
 
 
@@ -144,30 +144,30 @@ def extract_openai_response_data(response_obj):
     usage_data = {}
 
     # Extract Result objects from the file search tool call
-    if hasattr(response_obj, 'output') and len(response_obj.output) > 0:
+    if hasattr(response_obj, "output") and len(response_obj.output) > 0:
         # Find the file search tool call in the output
         for output_item in response_obj.output:
             if (
-                hasattr(output_item, 'type')
-                and output_item.type == 'file_search_call'
-                and hasattr(output_item, 'results')
-                ):
+                hasattr(output_item, "type")
+                and output_item.type == "file_search_call"
+                and hasattr(output_item, "results")
+            ):
                 for result in output_item.results:
                     result_info = {
-                        'file_id': result.file_id,
-                        'filename': result.filename,
-                        'score': result.score,
-                        'text': result.text
+                        "file_id": result.file_id,
+                        "filename": result.filename,
+                        "score": result.score,
+                        "text": result.text,
                     }
                     results_data.append(result_info)
                 break
 
     # Extract ResponseUsage data
-    if hasattr(response_obj, 'usage'):
+    if hasattr(response_obj, "usage"):
         usage_data = {
-            'input_tokens': response_obj.usage.input_tokens,
-            'output_tokens': response_obj.usage.output_tokens,
-            'total_tokens': response_obj.usage.total_tokens
+            "input_tokens": response_obj.usage.input_tokens,
+            "output_tokens": response_obj.usage.output_tokens,
+            "total_tokens": response_obj.usage.total_tokens,
         }
 
     return results_data, usage_data
@@ -315,3 +315,29 @@ def parse_yaml_header(md_data: str | Path) -> dict:
     except Exception as e:
         print(f"Error parsing YAML header: {e}")
         return {}
+
+
+def get_markdown_filepath_for_url(url: str, output_dir: str) -> Path:
+    """
+    Construct a markdown filepath for a URL.
+    """
+    url_path = urlparse(url).path.split("/")
+    filename = "_".join([part for part in url_path if part])
+    return Path(output_dir).joinpath(f"{filename}.md")
+
+
+def delete_filepath(filepath: Path | str) -> None:
+    """
+    Delete a file locally.
+    """
+    if not isinstance(filepath, Path):
+        filepath = Path(filepath)
+
+    # Delete filepath
+    try:
+        # Files and symlinks (including symlinks to directories)
+        if filepath.is_file() or filepath.is_symlink():
+            filepath.unlink(missing_ok=True)
+            return
+    except Exception as e:
+        print(f"[bold red]Failed to delete {filepath}: {e}")

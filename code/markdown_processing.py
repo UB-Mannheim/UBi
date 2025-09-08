@@ -4,7 +4,8 @@ import re
 import time
 import mdformat
 from pathlib import Path
-from urllib.parse import urlparse
+
+# from urllib.parse import urlparse
 from typing import Optional
 
 import backoff
@@ -140,14 +141,14 @@ def validate_and_format_markdown(content: str) -> str:
 
     # Remove YAML header from content
     pattern = r"^---\s*\n.*?\n---\s*\n"
-    markdown_raw = re.sub(pattern, '', content, flags=re.MULTILINE | re.DOTALL)
+    markdown_raw = re.sub(pattern, "", content, flags=re.MULTILINE | re.DOTALL)
 
     # Format markdown
     markdown_clean = mdformat.text(markdown_raw)
 
     # Combine YAML header and clean markdown
-    body = '\n'.join(f"{k}: {v}" for k, v in yaml_data.items())
-    markdown_final = f'---\n{body}\n---\n\n{markdown_clean}'
+    body = "\n".join(f"{k}: {v}" for k, v in yaml_data.items())
+    markdown_final = f"---\n{body}\n---\n\n{markdown_clean}"
 
     return markdown_final
 
@@ -160,16 +161,20 @@ def run_markdown_formatting(input_dir: str):
     # Ensure directory exists
     input_path = Path(input_dir)
     if not input_path.exists() or not input_path.is_dir():
-        print(f"[bold yellow]Directory not found or not a directory: {input_dir}")
+        print(
+            f"[bold yellow]Directory not found or not a directory: {input_dir}"
+        )
         return
 
     # Load all .md from input_dir
-    files_to_process = list(Path(input_dir).glob('*.md'))
+    files_to_process = list(Path(input_dir).glob("*.md"))
     if not files_to_process:
         print(f"[bold yellow]No .md files found in {input_dir}.")
         return
 
-    print(f"[bold][Formatting Markdown] {len(files_to_process)} file(s) in {input_dir}")
+    print(
+        f"[bold][Formatting Markdown] {len(files_to_process)} file(s) in {input_dir}"
+    )
 
     count = 0
     for file_path in tqdm(files_to_process, desc="Formatting"):
@@ -192,18 +197,18 @@ def clean_soft_hyphens(text: str) -> str:
     in crawled text. Also normalize non-breaking spaces to regular spaces.
     """
     # Characters to remove
-    SOFT_HYPHEN = "\u00AD"  # SHY
-    ZERO_WIDTH_SPACE = "\u200B"
-    ZERO_WIDTH_NON_JOINER = "\u200C"
-    ZERO_WIDTH_JOINER = "\u200D"
-    ZERO_WIDTH_NBSP = "\uFEFF"
+    SOFT_HYPHEN = "\u00ad"  # SHY
+    ZERO_WIDTH_SPACE = "\u200b"
+    ZERO_WIDTH_NON_JOINER = "\u200c"
+    ZERO_WIDTH_JOINER = "\u200d"
+    ZERO_WIDTH_NBSP = "\ufeff"
     WORD_JOINER = "\u2060"
 
     if not text:
         return text
 
     # Normalize NBSP to regular space
-    cleaned = text.replace("\u00A0", " ")
+    cleaned = text.replace("\u00a0", " ")
 
     # Strip invisible/soft characters
     for ch in (
@@ -231,9 +236,10 @@ def write_markdown_from_url(
     utils.ensure_dir(output_dir)
 
     # Format filename and path
-    url_path = urlparse(url).path.split("/")
-    filename = "_".join([part for part in url_path if part])
-    file_path = Path(output_dir).joinpath(f"{filename}.md")
+    file_path = utils.get_markdown_filepath_for_url(url, output_dir)
+    # url_path = urlparse(url).path.split("/")
+    # filename = "_".join([part for part in url_path if part])
+    # file_path = Path(output_dir).joinpath(f"{filename}.md")
 
     new_content = ""
     for el in content:
@@ -845,7 +851,7 @@ def run_post_processing(
     llm_processing: bool,
     additional_processing: bool,
     format_markdown: bool,
-    write_snapshot:bool,
+    write_snapshot: bool,
     verbose: bool,
 ):
     """
@@ -917,7 +923,9 @@ def run_post_processing(
     # Markdown formatting only
     if format_markdown:
         if not input_dir:
-            print('[bold yellow]Please provide an input_dir for markdown formatting.')
+            print(
+                "[bold yellow]Please provide an input_dir for markdown formatting."
+            )
             return
         run_markdown_formatting(input_dir=input_dir)
 
