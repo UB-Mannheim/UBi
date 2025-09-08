@@ -65,21 +65,25 @@ async def crawl_urls(
         print(f"Error parsing the XML: {e}")
 
 
-def parse_english_url(element) -> list[str]:
+def parse_english_url(element: Tag, url: str) -> list[str]:
     """
     Parse english URL string from <div class="language-selector">
     """
     url_tag_en = element.find("a", attrs={"lang": "en"})
-    if url_tag_en:
-        base_url = "https://www.bib.uni-mannheim.de"
-        url_part = url_tag_en.get("href")
-        markdown_string = f"<en_url>{base_url + url_part}</en_url>"
-        return [markdown_string]
-    else:
+    if not url_tag_en:
         return [""]
 
+    href_val = url_tag_en.get("href")
+    href = str(href_val) if isinstance(href_val, str) else None
+    if not href:
+        return [""]
 
-def parse_uma_address_card(element) -> list[str]:
+    absolute_en_url = urljoin(url, href)
+    markdown_string = f"<en_url>{absolute_en_url}</en_url>"
+    return [markdown_string]
+
+
+def parse_uma_address_card(element: Tag) -> list[str]:
     """
     Helper function for parsing div class "uma-address-card".
     """
@@ -119,7 +123,7 @@ def parse_uma_address_card(element) -> list[str]:
     return lines
 
 
-def parse_uma_address_details(element) -> list[str]:
+def parse_uma_address_details(element: Tag) -> list[str]:
     """
     Helper function for parsing div class "uma-address-details".
     """
@@ -155,7 +159,7 @@ def parse_uma_address_details(element) -> list[str]:
     return lines
 
 
-def parse_uma_address_contact(element) -> list[str]:
+def parse_uma_address_contact(element: Tag) -> list[str]:
     """
     Helper function for parsing UMA address contact information block.
     Extracts telephone, email and ORCID if present.
@@ -200,7 +204,7 @@ def parse_uma_address_contact(element) -> list[str]:
     return lines
 
 
-def parse_email(element):
+def parse_email(element: Tag):
     """
     Helper function to parse e-mail addresses.
     """
@@ -215,7 +219,7 @@ def parse_email(element):
         return None
 
 
-def parse_table(table_element):
+def parse_table(table_element: Tag):
     """
     Parse <tbody> to markdown
     """
@@ -331,7 +335,7 @@ def find_specified_tags(
                 clean_tags.append(tag)
         return clean_tags
 
-    def has_excluded_parent(element):
+    def has_excluded_parent(element: Tag):
         for parent in getattr(element, "parents", []):
             if not isinstance(parent, Tag):
                 continue
@@ -406,21 +410,6 @@ def find_specified_tags(
         # class: teaser-link
         elif "teaser-link" in class_attr:
             matched_tags.append(parse_href(element))
-
-        # class: accordion-content
-        # elif "accordion-content" in class_attr:
-        #     # Try to find possible content candidates (ul)
-        #     ul = element.find("ul")
-        #     if ul and isinstance(ul, Tag):
-        #         li_elements = ul.find_all("li", recursive=False)
-        #         li_elements_clean = []
-        #         for li in li_elements:
-        #             if not isinstance(li, Tag):
-        #                 continue
-        #             li_elements_clean.append(li_to_markdown(li))
-        #         matched_tags.append("\n" + "\n".join(li_elements_clean) + "\n")
-        #     else:
-        #         continue
 
         # <ul>
         elif element.name == "ul" and not element.has_attr("class"):
@@ -564,7 +553,9 @@ def process_urls(urls: list[str], output_dir: str = ""):
                 "div", attrs={"class": "language-selector"}
             )
             if div_language_selector:
-                english_url_markdown = parse_english_url(div_language_selector)
+                english_url_markdown = parse_english_url(
+                    div_language_selector, url
+                )
                 content_single_page.extend(english_url_markdown)
 
             # Get main <div class="page content"> and ignore footer tag
