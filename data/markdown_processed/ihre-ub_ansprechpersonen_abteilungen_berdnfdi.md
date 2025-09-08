@@ -1,5 +1,5 @@
 ---
-title: Kontaktpersonen und Aufgabenbereiche des BERD@NFDI-Teams an der Universitätsbibliothek Mannheim
+title: Ansprechpartner und Aufgaben im Projekt BERD@NFDI an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/berdnfdi/
 category: Kontakt
@@ -7,9 +7,9 @@ tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Recht', 'Infor
 language: de
 ---
 
-# BERD@NFDI – Kontaktpersonen und Aufgabenbereiche
+# Ansprechpartner und Aufgaben im Projekt BERD@NFDI
 
-Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in verschiedenen Bereichen des Forschungsdatenmanagements, Data Science, Recht und Informationskompetenz. Nachfolgend finden Sie die zentralen Ansprechpartnerinnen und Ansprechpartner sowie deren Aufgabenbereiche und Kontaktdaten.
+Das Projekt BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in verschiedenen Bereichen des Forschungsdatenmanagements, Data Science, Recht und Informationskompetenz. Nachfolgend sind die zentralen Ansprechpartner:innen mit ihren Aufgaben und Kontaktdaten aufgeführt.
 
 ## Dr. Ulrich Krieger
 
@@ -47,9 +47,9 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 **Legal Counsel für BERD@NFDI und FDZ**
 
 - Unterstützung von Forschenden
-- Rechtliche Fragestellungen im Bereich Forschungsdatenmanagement
+- Rechtliche Fragestellungen im FDM Bereich
 - Themengebiete: Datenschutz, Urheberrecht, Lizenzrecht
-- BERD Datenschutzkonzept und Plattform-Richtlinien
+- BERD Datenschutzkonzept und Plattform Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)

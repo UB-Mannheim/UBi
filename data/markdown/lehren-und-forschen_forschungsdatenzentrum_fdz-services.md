@@ -1,28 +1,28 @@
 <en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/</en_url>
 
 
-# FDZ-Services (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/)
+# [FDZ-Services](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/)
 
 
 
-## Das FDZ unter­stützt Sie mit verschiedenen Services beim Forschungs­daten­management.
+## Das FDZ unterstützt Sie mit verschiedenen Services beim Forschungsdatenmanagement.
 
-* Daten­management­pläne & RDMO (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)
-* Automatisierte Texterkennung – OCR (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/)
-* Automatisierte Sprach­erkennung (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-spracherkennung/)
-* Lizenzierung von Forschungs­daten (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/)
-* MAObjects – Sammlungen mit digitalen Objekten erstellen (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/)
-* MADATA – Publikations­server für Daten (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/)
-* Datenaustausch in einer geschützten Umgebung (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenaustausch-in-einer-geschuetzten-umgebung/)
-* Knowledge Graph Infrastruktur und Linked Data Services (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/)
-* Data Science Services (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/)
-* Beratung zum Forschungs­daten­management (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/)
-* Research Skills (https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
+- [Datenmanagementpläne & RDMO](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)
+- [Automatisierte Texterkennung – OCR](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/)
+- [Automatisierte Spracherkennung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-spracherkennung/)
+- [Lizenzierung von Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/)
+- [MAObjects – Sammlungen mit digitalen Objekten erstellen](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/)
+- [MADATA – Publikationsserver für Daten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/)
+- [Datenaustausch in einer geschützten Umgebung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenaustausch-in-einer-geschuetzten-umgebung/)
+- [Knowledge Graph Infrastruktur und Linked Data Services](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/)
+- [Data Science Services](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/)
+- [Beratung zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/)
+- [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
 
 
-### Forschungs­datenzentrum (FDZ)
+### Forschungsdatenzentrum (FDZ)
 
 Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
-* Adresse: Universität Mannheim, Universitäts­bibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-* Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungs­datenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
-* E-Mail: forschungsdaten@uni-mannheim.de
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+- E-Mail: forschungsdaten@uni-mannheim.de

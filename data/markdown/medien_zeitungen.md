@@ -1,7 +1,7 @@
 <en_url>https://www.bib.uni-mannheim.de/en/resources/newspapers/</en_url>
 
 
-# Zeitungen (https://www.bib.uni-mannheim.de/medien/zeitungen/)
+# [Zeitungen](https://www.bib.uni-mannheim.de/medien/zeitungen/)
 
 
 
@@ -12,17 +12,17 @@ Um gezielt nach Zeitungen zu suchen, können Sie Ihre Recherche in der**Erweiter
 
 ## Gedruckte Zeitungen
 
-Aktuelle Druckausgaben liegen ca. 8 Wochen in den Bibliotheks­bereichen aus. Ältere gedruckte Ausgaben können Sie über den Katalog Primo (https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) an die Sonderleseplätze im InfoCenter (https://www.bib.uni-mannheim.de/standorte/infocenter/) bestellen und dort einsehen.
-Um Mikrofilme von Zeitungen zu nutzen, wenden Sie sich bitte an das InfoCenter (https://www.bib.uni-mannheim.de/standorte/infocenter/).
+Aktuelle Druckausgaben liegen ca. 8 Wochen in den Bibliotheksbereichen aus. Ältere gedruckte Ausgaben können Sie über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) an die [Sonderleseplätze im InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) bestellen und dort einsehen.
+Um Mikrofilme von Zeitungen zu nutzen, wenden Sie sich bitte an das [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/).
 
 
 ## Online-Zeitungen
 
-Diese Pressearchive und Zeitungs­portale hat die UB für Sie lizenziert.
-F.A.Z.-Bibliotheksportal (https://dbis.ur.de/UBMAN/resources/5333)
-Süddeutsche Zeitung Archiv (https://dbis.ur.de/UBMAN/resources/7881)
-ABI/INFORM Collection (https://dbis.ur.de/UBMAN/resources/8056) Enthält zum Beispiel: The Economist, Financial Times, Wall Street Journal
-Europresse (https://dbis.ur.de/UBMAN/resources/10797) Enthält zum Beispiel: L'Express, Le Figaro, Libération, Le Monde, Le Monde diplomatique
-Factiva (https://dbis.ur.de/UBMAN/resources/4042) Enthält zum Beispiel: The New York Times, Financial Times, The Guardian
-Nexis (https://dbis.ur.de/UBMAN/resources/1670) Enthält zum Beispiel: The New York Times, The Guardian
-WISO (https://dbis.ur.de/UBMAN/resources/1232) Enthält zum Beispiel: Handels­blatt, Wirtschafts­Woche, DIE ZEIT
+Diese Pressearchive und Zeitungsportale hat die UB für Sie lizenziert.
+[F.A.Z.-Bibliotheksportal](https://dbis.ur.de/UBMAN/resources/5333)
+[Süddeutsche Zeitung Archiv](https://dbis.ur.de/UBMAN/resources/7881)
+[ABI/INFORM Collection](https://dbis.ur.de/UBMAN/resources/8056) Enthält zum Beispiel: The Economist, Financial Times, Wall Street Journal
+[Europresse](https://dbis.ur.de/UBMAN/resources/10797) Enthält zum Beispiel: L'Express, Le Figaro, Libération, Le Monde, Le Monde diplomatique
+[Factiva](https://dbis.ur.de/UBMAN/resources/4042) Enthält zum Beispiel: The New York Times, Financial Times, The Guardian
+[Nexis](https://dbis.ur.de/UBMAN/resources/1670) Enthält zum Beispiel: The New York Times, The Guardian
+[WISO](https://dbis.ur.de/UBMAN/resources/1232) Enthält zum Beispiel: Handelsblatt, WirtschaftsWoche, DIE ZEIT

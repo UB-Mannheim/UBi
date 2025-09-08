@@ -1,52 +1,52 @@
 <en_url>https://www.bib.uni-mannheim.de/en/advice/</en_url>
 
 
-# Beratung (https://www.bib.uni-mannheim.de/beratung/)
+# [Beratung](https://www.bib.uni-mannheim.de/beratung/)
 
 
 
-## Sie haben spezielle Fragen oder wünschen eine persönliche Beratung? Die Fach­leute der Universitäts­bibliothek unter­stützen Sie gerne und beraten Sie individuell – etwa zur Recherche in Ihrem Fach, zum wissenschaft­lichen Schreiben und Publizieren und zum Umgang mit Forschungs­daten.
+## Sie haben spezielle Fragen oder wünschen eine persönliche Beratung? Die Fachleute der Universitätsbibliothek unterstützen Sie gerne und beraten Sie individuell – etwa zur Recherche in Ihrem Fach, zum wissenschaftlichen Schreiben und Publizieren und zum Umgang mit Forschungsdaten.
 
-Vor Ort in den Bibliotheks­bereichen sind auch die Kolleginnen und Kollegen an den Infotheken für Sie da: montags bis freitags von 8 bis 18 Uhr. Im Chat ist das Team der UB wochentags von 10 bis 18 Uhr erreichbar.
+Vor Ort in den Bibliotheksbereichen sind auch die Kolleginnen und Kollegen an den Infotheken für Sie da: montags bis freitags von 8 bis 18 Uhr. Im Chat ist das Team der UB wochentags von 10 bis 18 Uhr erreichbar.
 
 
-### InfoCenter (https://www.bib.uni-mannheim.de/standorte/infocenter/)
+### [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/)
 
 InfoCenter
 Ihre zentrale Anlaufstelle für Auskunft und Beratung
 
 
 
-### Schreib­beratung (https://www.bib.uni-mannheim.de/services/schreibberatung/)
+### [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 
-Schreib­beratung
-Sie möchten Ihre wissenschaft­liche Arbeit besser planen, entspannter schreiben oder Text-Feedback erhalten? Die Schreib­beratung steht Studierenden der Universität Mannheim in allen Studien­gängen offen.
-
-
-
-### Literatur­verwaltung (https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
-
-Literatur­verwaltung
-Das Team der UB unter­stützt Sie bei der Nutzung von Zotero.
+Schreibberatung
+Sie möchten Ihre wissenschaftliche Arbeit besser planen, entspannter schreiben oder Text-Feedback erhalten? Die Schreibberatung steht Studierenden der Universität Mannheim in allen Studiengängen offen.
 
 
 
-### Fach­liche Recherche (https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)
+### [Literaturverwaltung](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
 
-Fach­liche Recherche
-Ihre Fragen zu Literatur, Datenbanken und weiteren Sucheinstiegen für Ihr Fach beantworten die Fach­referentinnen und Fach­referenten der UB.
+Literaturverwaltung
+Das Team der UB unterstützt Sie bei der Nutzung von Zotero.
 
 
 
-### Publizieren und Open Access (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/)
+### [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)
+
+Fachliche Recherche
+Ihre Fragen zu Literatur, Datenbanken und weiteren Sucheinstiegen für Ihr Fach beantworten die Fachreferentinnen und Fachreferenten der UB.
+
+
+
+### [Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/)
 
 Publizieren und Open Access
-Die UB berät Sie rund um die Themen Publizieren und Open Access und unter­stützt Sie mit ihren Services.
+Die UB berät Sie rund um die Themen Publizieren und Open Access und unterstützt Sie mit ihren Services.
 
 
 
-### Forschungs­daten (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+### [Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
 
-Forschungs­daten
-Die UB unter­stützt Sie bei Fragen rund um das Thema Forschungs­daten.
+Forschungsdaten
+Die UB unterstützt Sie bei Fragen rund um das Thema Forschungsdaten.
 
