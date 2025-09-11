@@ -18,7 +18,7 @@ Diese Einrichtungen haben einen Kooperationsvertrag mit der Universität Mannhei
 - [Duale Hochschule Baden-Württemberg Mannheim](https://www.mannheim.dhbw.de/service/bibliothek/lernen-arbeiten)
 - Evaluationsagentur Baden-Württemberg (evalag), Mannheim
 - GESIS Mannheim
-- Hochschule Ludwigshafen
+- Hochschule für Wirtschaft und Gesellschaft Ludwigshafen
 - Hochschule der Bundesagentur für Arbeit, Mannheim
 - Institut für Deutsche Sprache (IDS), Mannheim
 - Mannheim Business School

@@ -1,6 +1,7 @@
 import asyncio
 import os
 from pathlib import Path
+from datetime import date
 
 import utils
 from config import DATA_DIR, ENV_PATH
@@ -340,6 +341,11 @@ def initialize_vectorstore():
             if reupload_performed:
                 # If reupload was performed, write hash snapshot and return
                 utils.write_hashes_for_directory(DATA_DIR)
+                set_key(
+                    str(ENV_PATH),
+                    "LAST_UPDATED_DATE",
+                    date.today().strftime("%Y-%m-%d"),
+                )
                 return
 
             # Check for updated files in DATA_DIR
@@ -379,6 +385,11 @@ def initialize_vectorstore():
 
             # Write hash snapshot
             utils.write_hashes_for_directory(DATA_DIR)
+            set_key(
+                str(ENV_PATH),
+                "LAST_UPDATED_DATE",
+                date.today().strftime("%Y-%m-%d"),
+            )
         else:
             print(
                 "[bold green]No changes detected in DATA_DIR since last sync. Skipping vectorstore upload."

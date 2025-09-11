@@ -49,12 +49,15 @@ if USE_OPENAI_VECTORSTORE:
     initialize_vectorstore()
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
     client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    print(f"[bold]🔗 AIMA runs with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}")
+    print(
+        f"[bold]🔗 AIMA runs with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}"
+    )
 
 
 # === Modify Chainlit's HTML template ===
 try:
-    modify_html_template()
+    last_updated_date = os.getenv("LAST_UPDATED_DATE", "")
+    modify_html_template(last_updated_date)
 except Exception as e:
     print(f"[bold]Warning: Could not modify HTML template: {e}")
 
@@ -123,8 +126,8 @@ def prepare_query_for_router(
     query_for_routing = [{"role": "user", "content": user_input}]
     if chat_history:
         query_for_routing = [
-            {"role": "assistant", "content": chat_history[-1]['content']},
-            {"role": "user", "content": user_input}
+            {"role": "assistant", "content": chat_history[-1]["content"]},
+            {"role": "user", "content": user_input},
         ]
     return query_for_routing
 
@@ -181,7 +184,9 @@ async def handle_openai_vectorstore_query(
         )
         async for event in stream:
             if event.type == "response.completed" and DEBUG:
-                results_data, usage_data = extract_openai_response_data(event.response)
+                results_data, usage_data = extract_openai_response_data(
+                    event.response
+                )
                 print_openai_extracted_data(results_data, usage_data)
             if event.type == "response.output_text.delta" and event.delta:
                 token = event.delta
@@ -447,8 +452,7 @@ async def on_message(message: cl.Message):
     )
     if not allowed:
         await cl.Message(
-            content=error_message or "Rate limit exceeded",
-            author="assistant"
+            content=error_message or "Rate limit exceeded", author="assistant"
         ).send()
         return
 
@@ -496,14 +500,12 @@ async def on_message(message: cl.Message):
     detected_language, route, augmented_input = await route_and_augment_query(
         client if USE_OPENAI_VECTORSTORE else None,
         prepare_query_for_router(user_input, chat_history),
-        debug=DEBUG
+        debug=DEBUG,
     )
 
     # "News" Route
     if route and route.lower() == "news":
-        await handle_news_route(
-            detected_language, msg, session_id, user_input
-        )
+        await handle_news_route(detected_language, msg, session_id, user_input)
         return
 
     # "Free seats" Route

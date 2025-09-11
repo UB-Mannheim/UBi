@@ -1,61 +1,52 @@
 ---
-title: Bibliotheksprofil der Universitätsbibliothek Mannheim: Angebote, Zahlen, Sammlungen und Services
+title: Profil der Universitätsbibliothek Mannheim: Angebote, Zahlen, Sammlungen und Services
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/bibliotheksprofil/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/library-profile/
 category: Benutzung
-tags: ['Bibliotheksprofil', 'Universitätsbibliothek', 'Zahlen', 'Medienangebot', 'Publikationsservices', 'Drittmittelprojekte', 'Sammlungen', 'Öffentlichkeitsarbeit']
+tags: ['Bibliotheksprofil', 'Serviceangebot', 'Medien', 'Publikationsservices', 'Drittmittelprojekte', 'Sammlungen', 'Öffentlichkeitsarbeit', 'U-Multirank']
 language: de
 ---
 
 # Bibliotheksprofil der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet eine umfassende Informations- und Forschungsinfrastruktur für Wissenschaft, Lehre und Studium an der Universität Mannheim – sowohl analog als auch digital. Darüber hinaus steht die Bibliothek auch Bürgerinnen und Bürgern, Behörden und Unternehmen der Metropolregion offen.
+Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfrastruktur für Wissenschaft, Lehre und Studium an der Universität Mannheim – analog und digital. Auch Bürgerinnen und Bürger, Behörden und Unternehmen der Metropolregion können die Bibliothek nutzen.
 
 ## Zahlen und Fakten
 
 ### Serviceangebot
 
-Die Bibliotheksbereiche sind an 7 Tagen in der Woche, auch an Wochenenden und Feiertagen, zum Lesen und Lernen geöffnet.
-
 - 5 Bibliotheksbereiche
-- 2.060 Arbeitsplätze
+- Rund 1.850 Arbeitsplätze
+- Zugang an 7 Tagen in der Woche, auch an Wochenenden und Feiertagen
 
 ### Benutzung
 
-Jährliche Nutzung der Angebote der Universitätsbibliothek:
-
-- knapp 2 Millionen Bibliotheksbesuche
-- 6.200 Scanaufträge von Forschenden
-- 263.000 entliehene Medien
-- 2,4 Millionen Downloads
-- 1,1 Millionen Datenbankabfragen
+- Über 2,1 Millionen Bibliotheksbesuche pro Jahr
+- 6.200 Scanaufträge von Forschenden jährlich
+- 113.800 entliehene Medien pro Jahr
+- 2,4 Millionen Downloads jährlich
+- 1,1 Millionen Datenbankabfragen pro Jahr
 
 ### Medienangebot
 
-Die Universitätsbibliothek bietet Literatur, Medien und Datenbanken aus allen Fachgebieten, sowohl zur Ausleihe als auch zur Nutzung vor Ort.
-
 - 2,7 Millionen Medien insgesamt
-- 808.000 Medien im Präsenzbestand
-- 482.000 E-Books
-- 811 laufende Print-Zeitschriften
-- 36.400 E-Journals
-- 553 Datenbanken
+- 860.000 Medien im Präsenzbestand
+- 588.900 E-Books
+- 600 laufende Print-Zeitschriften
+- 48.100 E-Journals
+- 500 Datenbanken
 
 ### Medienzugang
 
-Jährliche Erwerbungen der Universitätsbibliothek:
-
-- 12.000 konventionelle Medien
-- 303.000 digitale Medien
+- 11.600 konventionelle Medienzugänge pro Jahr
+- 44.700 digitale Medienzugänge pro Jahr
 
 ### Kurse und Beratung
 
-Die Universitätsbibliothek bietet ein breites Spektrum an Kursen, Führungen, Online-Tutorials, fachlicher Beratung und Schreibberatung. Fragen werden im Chat und an den Infotheken beantwortet.
-
-- 71.000 Anfragen an den Infotheken pro Jahr
-- 417 Kursstunden
-- 220 Veranstaltungen
-- 4.500 Teilnehmerinnen und Teilnehmer
+- 71.000 Anfragen an den Infotheken jährlich
+- 409 Kursstunden pro Jahr
+- 5.100 Teilnehmerinnen und Teilnehmer an Kursen jährlich
+- Angebote: Kurse, Führungen, Online-Tutorials, fachliche Beratung, Schreibberatung, Chat und Infotheken
 
 ### Drittmittelprojekte
 
@@ -67,7 +58,7 @@ Laufende Projekte der Universitätsbibliothek werden von verschiedenen Instituti
 
 ### Publikationsservices
 
-Die Universitätsbibliothek berät rund um die Themen Publizieren und Open Access und unterstützt mit verschiedenen Services beim Veröffentlichen von Forschungsergebnissen:
+Die Universitätsbibliothek berät rund um die Themen Publizieren und Open Access und unterstützt beim Veröffentlichen von Forschungsergebnissen:
 
 - [MADOC](https://madoc.bib.uni-mannheim.de/)
 - [MADATA](https://madata.bib.uni-mannheim.de/)
@@ -77,7 +68,7 @@ Die Universitätsbibliothek berät rund um die Themen Publizieren und Open Acces
 
 ## Hervorragende Bewertung bei U-Multirank
 
-Im weltweiten Ranking [U-Multirank](https://www.che.de/en/ranking-international/), das die Fachbereiche Sozialwissenschaften, BWL und VWL/Recht bewertet, haben die jeweiligen Bibliotheksausstattungen der Universität Mannheim Spitzenpositionen erreicht.
+Im weltweiten Ranking [U-Multirank](https://www.che.de/en/ranking-international/), in dem die Fachbereiche Sozialwissenschaften, BWL und VWL/Recht bewertet werden, haben die jeweiligen Bibliotheksausstattungen Spitzenpositionen erreicht.
 
 ## Sammlungen
 
@@ -87,9 +78,4 @@ Weitere Informationen: [Sammlungen](https://www.bib.uni-mannheim.de/medien/samml
 
 ## Öffentlichkeitsarbeit
 
-Die Ansprechpersonen der Universitätsbibliothek informieren über Dienstleistungen und das Serviceangebot, organisieren Ausstellungen und Veranstaltungen – oft in Kooperation mit externen Einrichtungen. Weitere Informationen und aktuelle Einblicke finden Sie auf den Social-Media-Kanälen:
-
-- [Ansprechpersonen Öffentlichkeitsarbeit](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/)
-- [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/)
-- [Instagram](https://www.instagram.com/ubmannheim/)
-- [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw)
+Die [Ansprechpersonen für Öffentlichkeitsarbeit](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren über Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), oft in Kooperation mit externen Einrichtungen. Die Universitätsbibliothek ist auch auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw) präsent.

@@ -60,7 +60,7 @@ def backup_original_template(frontend_path):
         shutil.copy2(index_html, backup_path)
 
 
-def create_modified_template(frontend_path):
+def create_modified_template(frontend_path, last_updated_date=""):
     """Create a modified version of index.html with local assets."""
     index_html = frontend_path / "index.html"
 
@@ -100,6 +100,33 @@ def create_modified_template(frontend_path):
         preconnect_links, "<!-- External preconnect links removed -->"
     )
 
+    # Add/update date variable
+    date_script_pattern = re.compile(
+        r'<script>\\s*window\\.lastUpdatedDate\\s*=\\s*".*?";\\s*</script>'
+    )
+    new_date_script = (
+        f'<script>window.lastUpdatedDate = "{last_updated_date}";</script>'
+    )
+
+    if date_script_pattern.search(modified_content):
+        # If it exists, replace it
+        modified_content = date_script_pattern.sub(
+            new_date_script, modified_content
+        )
+    else:
+        # If not, inject it before </head>
+        injection_script = f"\n{new_date_script}\n"
+        modified_content = modified_content.replace(
+            "</head>", f"{injection_script}</head>"
+        )
+
+    # Add bundle.js
+    bundle_js_script = '<script src="/public/bundle.js" defer></script>'
+    if bundle_js_script not in modified_content:
+        modified_content = modified_content.replace(
+            "</head>", f"    {bundle_js_script}\n  </head>"
+        )
+
     # Write the modified template
     with open(index_html, "w", encoding="utf-8") as f:
         f.write(modified_content)
@@ -117,22 +144,13 @@ def restore_original_template(frontend_path):
         print("❌ No backup found to restore")
 
 
-def main():
+def main(last_updated_date=""):
     """Main function to modify the HTML template."""
 
     # Find Chainlit frontend path
     frontend_path = get_chainlit_frontend_path()
     if not frontend_path.exists():
         return False
-
-    backup = frontend_path / "index.html.backup"
-    if backup.exists():
-        read_file = open(frontend_path / "index.html", "r")
-        index = read_file.read()
-        read_file.close()
-        if 'href="https://fonts.' not in index:
-            return
-        print("Rewrite HTML Template")
 
     # Check if we have our local assets
     local_css_path = Path("public/css")
@@ -151,7 +169,7 @@ def main():
 
     # Create backup and modify template
     backup_original_template(frontend_path)
-    create_modified_template(frontend_path)
+    create_modified_template(frontend_path, last_updated_date)
 
     print("\n🎉 Template modification completed!")
 

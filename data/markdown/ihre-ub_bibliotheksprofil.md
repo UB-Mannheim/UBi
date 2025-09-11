@@ -8,6 +8,7 @@
 ## Die Universitätsbibliothek bietet die Informations- und Forschungsinfrastruktur für Wissenschaft, Lehre und Studium an der Universität Mannheim – analog und digital.
 
 Auch Bürgerinnen und Bürgern, Behörden und Unternehmen der Metropolregion steht die Bibliothek offen.
+Zufriedene Nutzerinnen und Nutzer
 
 
 ## Zahlen und Fakten
@@ -27,9 +28,9 @@ In den Bibliotheksbereichen können Sie an 7 Tagen in der Woche lesen und lernen
 
 So werden die Angebote der Universitätsbibliothek über ein Jahr genutzt.
 
-- knapp 2 Millionen Bibliotheksbesuche
+- über 2,1 Millionen Bibliotheksbesuche
 - 6.200 Scanaufträge von Forschenden
-- 263.000 entliehene Medien
+- 113.800 entliehene Medien
 - 2,4 Millionen Downloads
 - 1,1 Millionen Datenbankabfragen
 
@@ -40,11 +41,11 @@ So werden die Angebote der Universitätsbibliothek über ein Jahr genutzt.
 In der Universitätsbibliothek finden Sie Literatur, Medien und Datenbanken aus allen Fachgebieten – ausleihbar oder zum Lesen vor Ort.
 
 - 2,7 Millionen Medien insgesamt
-- 808.000 Medien im Präsenzbestand
-- 482.000 E-Books
-- 811 laufende Print-Zeitschriften
-- 36.400 E-Journals
-- 553 Datenbanken
+- 860.000 Medien im Präsenzbestand
+- 588.900 E-Books
+- 600 laufende Print-Zeitschriften
+- 48.100 E-Journals
+- 500 Datenbanken
 
 
 
@@ -52,8 +53,8 @@ In der Universitätsbibliothek finden Sie Literatur, Medien und Datenbanken aus 
 
 Die UB erwirbt im Lauf eines Jahres
 
-- 12.000 konventionelle Medien
-- 303.000 digitale Medien
+- 11.600 konventionelle Medien
+- 44.700 digitale Medien
 
 
 
@@ -62,9 +63,8 @@ Die UB erwirbt im Lauf eines Jahres
 Die UB bietet Kurse, Führungen, Online-Tutorials, fachliche Beratung und Schreibberatung an und steht im Chat und an den Infotheken für Ihre Fragen bereit. Das bedeutet im Jahr:
 
 - 71.000 Anfragen an den Infotheken
-- 417 Kursstunden
-- 220 Veranstaltungen
-- 4.500 Teilnehmerinnen und Teilnehmer
+- 409 Kursstunden
+- 5.100 Teilnehmerinnen und Teilnehmer
 
 
 

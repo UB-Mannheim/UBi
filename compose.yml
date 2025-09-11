@@ -15,4 +15,5 @@ services:
       - USE_OPENAI_VECTORSTORE=${USE_OPENAI_VECTORSTORE}
       - ROUTER_MODEL=${ROUTER_MODEL}
       - CHAT_MODEL=${CHAT_MODEL}
+      - LAST_UPDATED_DATE=${LAST_UPDATED_DATE}
     restart: unless-stopped
