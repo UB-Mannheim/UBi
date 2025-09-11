@@ -1,6 +1,8 @@
 https://www.bib.uni-mannheim.de/beratung/
 https://www.bib.uni-mannheim.de/dabei-sein/
 https://www.bib.uni-mannheim.de/ihre-ub/
+https://www.bib.uni-mannheim.de/neu-hier/
+https://www.bib.uni-mannheim.de/ezb/
 https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/direktion/
 https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/
 https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/informationskompetenz-und-e-learning/
@@ -33,12 +35,6 @@ https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/ocr-d-kitodo/
 https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/ocr-d-modelltraining/
 https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/optimierter-einsatz-von-ocr-verfahren/
 https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/
-https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/bkl/
-https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/israelitisches-kranken-und-pfruendnerhaus-mannheim/
-https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/partner/
-https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/pressemitteilung/
-https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/provenienzforschung/
-https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/ressource-gesellschaft/
 https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/
 https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/benutzungsordnung/
 https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/
@@ -83,9 +79,7 @@ https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/
 https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-in-den-geschichtswissenschaften/
 https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-policy/
 https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/
-https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/antrag-oa-buecher/
 https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/
-https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/
 https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/
 https://www.bib.uni-mannheim.de/medien/
 https://www.bib.uni-mannheim.de/medien/fachliche-recherche/

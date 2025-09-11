@@ -4,6 +4,7 @@ ABBREVIATIONS = """- UB = Universitätsbibliothek (University Library)
    - DBD = Digitale Bibliotheksdienste (Digital Library Services)
    - FDZ = Forschungsdatenzentrum (Research Data Center)
    - VHT = Abteilung Verwaltung, Haushalt und Technik (Administration, Budget and Technical Services)
+   - EZB = Elektronische Zeitschriftenbibliothek (Electronic Journals Library)
    - HWS = Herbst-/Wintersemester (Fall semester)
    - FSS = Frühjahrs-/Sommersemester (Spring semester)
    - MA = Mannheim

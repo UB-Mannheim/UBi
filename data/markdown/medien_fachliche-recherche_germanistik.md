@@ -1,7 +1,7 @@
 <en_url>https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/german-studies/</en_url>
 
 
-p# [Germanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/germanistik/)
+# [Germanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/germanistik/)
 
 
 
