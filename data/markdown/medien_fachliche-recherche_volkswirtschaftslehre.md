@@ -42,7 +42,7 @@ Allgemeines zu volkswirtschaftlichen Daten, statistischen Informationen und Län
 - [Destatis](https://dbis.ur.de/UBMAN/resources/9514)
 - [Eurostat](https://dbis.ur.de/UBMAN/resources/3364)
 - [OECD](https://dbis.ur.de/UBMAN/resources/9621)
-- [IEA](https://dbis.ur.de/UBMAN/resources/10139), [Terms of Use  (PDF)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Sonstiges/IEA_Terms_of_Use_-_Universities.pdf)
+- [IEA](https://dbis.ur.de/UBMAN/resources/10139), [Terms of Use (PDF)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Sonstiges/IEA_Terms_of_Use_-_Universities.pdf)
 - [Weltbank](https://dbis.ur.de/UBMAN/resources/10211)
 - [Internationaler Währungsfonds](https://dbis.ur.de/UBMAN/resources/11303)
 
@@ -119,7 +119,6 @@ Die UB bietet regelmäßig Schulungen zur Recherche im Fach Volkswirtschaftslehr
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
 **Kurse für das Fach Volkswirtschaftslehre**
-[Wirtschaftswissenschaftliche Literatur finden – Recherche in Datenbanken](https://portal2.uni-mannheim.de/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=31690&periodId=932&navigationPosition=studiesOffered,searchCourses) – Online-Seminar zur Einführung in die Literaturrecherche in wirtschaftswissenschaftlichen Datenbanken am 20. Februar von 12:00 – 13:30 Uhr oder 3. April von 10:15 – 11:45 Uhr.
 [Business Studies and Economics: Literature Search](https://ilias.uni-mannheim.de/goto.php?target=crs_1409930_rcodeMckthgQ2kV&client_id=ILIAS) – englischsprachiger Ilias-Kurs mit Lernvideos und weiteren Materialien zum Selbststudium zur Einführung in die Literaturrecherche in wirtschaftswissenschaftlichen Datenbanken.
 
 

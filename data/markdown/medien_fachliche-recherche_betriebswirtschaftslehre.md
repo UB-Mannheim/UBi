@@ -125,7 +125,6 @@ Die UB bietet regelmäßig Schulungen zur Recherche im Fach Betriebswirtschaftsl
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
 **Kurse für das Fach Betriebswirtschaftslehre**
-[Wirtschaftswissenschaftliche Literatur finden – Recherche in Datenbanken](https://portal2.uni-mannheim.de/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=31690&periodId=932&navigationPosition=studiesOffered,searchCourses) – Online-Seminar zur Einführung in die Literaturrecherche in BWL-Datenbanken am 20. Februar von 12:00 – 13:30 Uhr oder 3. April von 10:15 – 11:45 Uhr.
 [Business Studies and Economics: Literature Search](https://ilias.uni-mannheim.de/goto.php?target=crs_1409930_rcodeMckthgQ2kV&client_id=ILIAS) – englischsprachiger Ilias-Kurs mit Lernvideos und weiteren Materialien zum Selbststudium zur Einführung in die Literaturrecherche in BWL-Datenbanken.
 
 
