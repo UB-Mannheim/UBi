@@ -146,7 +146,7 @@ window.addEventListener("load", function () {
     });
   }
 
-  footer.innerHTML = `<span>© 2025 UB Mannheim ·<a href="https://www.bib.uni-mannheim.de/impressum/" target="_blank">Impressum</a>·<a href="https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/" target="_blank">Datenschutz</a>· v${window.lastUpdatedDate || ""}</span>`;
+  footer.innerHTML = `<span>© 2025 <a href="https://www.bib.uni-mannheim.de/" target="_blank">UB Mannheim</a>·<a href="https://www.bib.uni-mannheim.de/impressum/" target="_blank">Impressum</a>·<a href="https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/" target="_blank">Datenschutz</a>· v${window.lastUpdatedDate || ""}</span>`;
 
   document.body.appendChild(footer);
   updateFooterStyle();
