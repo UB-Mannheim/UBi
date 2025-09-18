@@ -144,6 +144,11 @@ def validate_and_format_markdown(content: str) -> str:
     # Format markdown
     markdown_clean = mdformat.text(markdown_raw)
 
+    # Remove trailing \ from line endings
+    markdown_clean = re.sub(
+        r"\\\s*(?=\n|$)", "", markdown_clean, flags=re.MULTILINE
+    )
+
     # Combine YAML header and clean markdown
     body = "\n".join(f"{k}: {v}" for k, v in yaml_data.items())
     markdown_final = f"---\n{body}\n---\n\n{markdown_clean}"
