@@ -54,6 +54,18 @@ Ressource-Gesellschaft
 Sie haben Fragen zum Projekt? Sprechen Sie uns gerne an.
 
 
+### Ellen Wendel
+
+Wissenschaftliche Mitarbeiterin Provenienzforschung
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
+- Telefon: +49 621 181-3365
+- E-Mail: ellen.wendel@uni-mannheim.de
+
+
+## Projektorganisation
+
+
+
 ### Viktor Boecking, M.A.
 
 Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
