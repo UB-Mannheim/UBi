@@ -3,7 +3,7 @@ title: Profil der Universitätsbibliothek Mannheim: Angebote, Zahlen, Sammlungen
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/bibliotheksprofil/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/library-profile/
 category: Benutzung
-tags: ['Bibliotheksprofil', 'Serviceangebot', 'Medien', 'Publikationsservices', 'Drittmittelprojekte', 'Sammlungen', 'Öffentlichkeitsarbeit', 'U-Multirank']
+tags: ['Universitätsbibliothek', 'Mannheim', 'Bibliotheksprofil', 'Serviceangebot', 'Medien', 'Publikationsservices', 'Sammlungen', 'Drittmittelprojekte']
 language: de
 ---
 
@@ -58,7 +58,7 @@ Laufende Projekte der Universitätsbibliothek werden von verschiedenen Instituti
 
 ### Publikationsservices
 
-Die Universitätsbibliothek berät rund um die Themen Publizieren und Open Access und unterstützt beim Veröffentlichen von Forschungsergebnissen:
+Die Universitätsbibliothek unterstützt beim Publizieren und Open Access:
 
 - [MADOC](https://madoc.bib.uni-mannheim.de/)
 - [MADATA](https://madata.bib.uni-mannheim.de/)
@@ -72,10 +72,12 @@ Im weltweiten Ranking [U-Multirank](https://www.che.de/en/ranking-international/
 
 ## Sammlungen
 
-Die Universitätsbibliothek hat ihren Ursprung in den Institutsbibliotheken und der Zentralbibliothek der 1907 gegründeten Städtischen Handelshochschule. 1932 wurden diese Bibliotheken mit der Städtischen Schloßbücherei vereint, die später als Wissenschaftliche Stadtbibliothek Mannheim ausgegliedert wurde. Nach der Auflösung der Handelshochschule 1933 gingen die Bestände an die Universität Heidelberg, von wo sie 1946 größtenteils an die Staatliche Wirtschaftshochschule Mannheim zurückkehrten. Mit dem Ausbau zur Universität 1967 und der Integration älterer Bestände aus der aufgelösten Wissenschaftlichen Stadtbibliothek Mannheim 1970 wuchs der Bestand weiter. In den letzten 30 Jahren hat sich der Umfang der Buch- und Medienbestände verdoppelt. Der Schwerpunkt bei wissenschaftlichen Zeitschriften und E-Books verschiebt sich zunehmend zu lizenzpflichtigen Online-Angeboten.
+Die Universitätsbibliothek hat ihren Ursprung in den Institutsbibliotheken und der Zentralbibliothek der 1907 gegründeten Städtischen Handelshochschule. 1932 wurden diese Bibliotheken mit der Städtischen Schloßbücherei vereint, die später als Wissenschaftliche Stadtbibliothek Mannheim ausgegliedert wurde. Nach der Auflösung der Handelshochschule 1933 gingen die Bestände an die Universität Heidelberg, von wo sie 1946 größtenteils an die Staatliche Wirtschaftshochschule Mannheim zurückkehrten. Mit dem Ausbau zur Universität 1967 und der Integration von Beständen der aufgelösten Wissenschaftlichen Stadtbibliothek Mannheim 1970 wuchs der Bestand weiter. In den letzten 30 Jahren hat sich der Umfang der Buch- und Medienbestände verdoppelt, mit einem deutlichen Trend zu lizenzpflichtigen Online-Angeboten und E-Books.
 
 Weitere Informationen: [Sammlungen](https://www.bib.uni-mannheim.de/medien/sammlungen/)
 
 ## Öffentlichkeitsarbeit
 
-Die [Ansprechpersonen für Öffentlichkeitsarbeit](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren über Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), oft in Kooperation mit externen Einrichtungen. Die Universitätsbibliothek ist auch auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw) präsent.
+Die [Ansprechpersonen für Öffentlichkeitsarbeit](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren über Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), oft in Kooperation mit externen Einrichtungen.
+
+Folgen Sie der Universitätsbibliothek auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).

@@ -1,9 +1,9 @@
 ---
-title: Konkursdatenbank des Deutschen Kaiserreichs (1879–1914)
+title: Konkursdatenbank – Insolvenzverfahren im Deutschen Kaiserreich (1879–1914)
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/konkursdatenbank/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/data-hosted-by-the-fdz/bankruptcy-database/
 category: Medien
-tags: [Konkursdatenbank, Deutsches Kaiserreich, Insolvenz, Datenbank, Rechtsgeschichte, Open Data, Forschungsdaten, 19. Jahrhundert]
+tags: ['Konkursdatenbank', 'Insolvenz', 'Deutsches Kaiserreich', 'Forschungsdaten', 'Datenbank', 'Rechtshistorie', 'Open Access', 'Universität Mannheim']
 language: de
 ---
 
@@ -15,6 +15,6 @@ Die Datenbank entstand im Rahmen des rechtshistorischen Dissertationsprojekts vo
 
 ## Zugang und Nutzung
 
-Die Datenbank ist unter der [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/) für jedermann nutzbar. Einzige Bedingung ist die Nennung der Quelle.
+Die Datenbank ist unter der Creative Commons Attribution 4.0 International Public License für jedermann nutzbar. Einzige Bedingung ist die Nennung der Quelle.
 
 [Zur Ressource](https://digi.bib.uni-mannheim.de/periodika/konkursdatenbank/)

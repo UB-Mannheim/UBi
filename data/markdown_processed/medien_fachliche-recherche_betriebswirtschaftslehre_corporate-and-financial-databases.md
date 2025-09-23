@@ -1,137 +1,135 @@
 ---
-title: Übersicht und Zugänge zu Corporate und Financial Databases der Universitätsbibliothek Mannheim
+title: Unternehmens- und Finanzdatenbanken – Übersicht und Zugangsoptionen (Universitätsbibliothek Mannheim)
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/corporate-and-financial-databases/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/business-administration/corporate-and-financial-databases/
 category: Medien
-tags: ['Finanzdatenbanken', 'Unternehmensdatenbanken', 'WRDS', 'Orbis', 'LSEG Workspace', 'M&A', 'Mutual Funds', 'Zugang']
-language: de
+tags: ['Finanzdatenbanken', 'Unternehmensdaten', 'WRDS', 'Orbis', 'LSEG Workspace', 'M&A', 'Mutual Funds', 'Zugang']
+language: en
 ---
 
 # Corporate and Financial Databases
 
-Die Universitätsbibliothek Mannheim bietet Zugang zu einer Vielzahl von Datenbanken für betriebswirtschaftliche und finanzwirtschaftliche Forschung. Diese Übersicht zeigt, welche Datenbanken für spezifische Datenarten genutzt werden können und wie der Zugang geregelt ist.
+This page provides an overview of key corporate and financial databases available at the University of Mannheim, including access options, content descriptions, and support resources.
 
-## Übersicht: Wo finde ich welche Daten?
+## Overview: Where to Find Which Data
 
-| Datenart | Relevante Datenbanken |
-|----------------------------------|------------------------------------------------------------------------------------------------------|
-| Analystenprognosen | I/B/E/S (über LSEG Workspace) |
-| Mutual Funds | CRSP Mutual Funds, Institutional (13f) Holdings, Mutual Fund Holdings |
-| Rechnungslegungsdaten | Orbis, COMPUSTAT North America, COMPUSTAT Global, LSEG Workspace |
-| Banken & Finanzdienstleister | Bank Focus, S&P Capital IQ Pro |
-| M&A und Eigentümerstrukturen | Aktienführer-Archiv, Zephyr, SDC Worldwide M&A |
-| Executive-Informationen | Orbis, Dun & Bradstreet Hoovers, COMPUSTAT Execucomp, Aktienführer-Archiv |
+| Data Type | Databases |
+|----------------------------------|------------------------------------------------------------------------------------------|
+| Prices | LSEG Workspace, Aktienführer-Archiv |
+| Analyst forecasts | I/B/E/S (via LSEG Workspace) |
+| Mutual funds | CRSP Mutual Funds, Institutional (13f) Holdings, Mutual Fund Holdings |
+| Accounting data | Orbis, COMPUSTAT North America, COMPUSTAT Global, LSEG Workspace |
+| Banks and financial services | Bank Focus, S&P Capital IQ Pro |
+| M&A and ownership structure | Zephyr, SDC Worldwide M&A, Aktienführer data archive |
+| Executive information | Orbis, Dun & Bradstreet Hoovers, COMPUSTAT Execucomp, Aktienführer data archive |
 
-## Datenbanken im Detail
+## Database Descriptions and Access
 
 ### Wharton Research Data Services (WRDS)
 
-Viele der unten aufgeführten Finanzdatenbanken sind über die webbasierte Oberfläche von WRDS zugänglich. Informationen zu Zugang und Nutzung:
+Many financial databases are accessible via the web-based WRDS interface.
 
-- [Zugangs- und universitätsspezifische Informationen](https://dbis.ur.de/UBMAN/resources/8646)
+- [Access and university specific information](https://dbis.ur.de/UBMAN/resources/8646)
 - [WRDS Website](https://wrds-www.wharton.upenn.edu/login/)
 
-### Aktienführer Datenarchiv
+### Aktienführer Data Archive
 
-Das [Aktienführer Datenarchiv](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php) ist eine bedeutende Quelle für historische Finanzmarktdaten und Unternehmensdaten aus Deutschland (1870–2018). Es enthält standardisierte Berichte zu deutschen und ausländischen Unternehmen, die an deutschen Börsen gehandelt wurden, inklusive Informationen zu Standorten, Management, Investitionen, Eigentümerstruktur und Gewinn- und Verlustrechnungen.
+- **Contents:** Historic German financial market and corporate data (1870–2018), including standardized reports on corporations traded at German stock exchanges.
+- **Available history:** 1956–2016 (Database), 1870–2016 (digitized full-text PDFs)
+- **Access:** [Free access](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php) within the University of Mannheim IP range
 
-- Verfügbare Zeiträume: 1956–2016 (Datenbank), 1870–2016 (digitalisierte Volltexte)
-- Zugang: Frei im IP-Bereich der Universität Mannheim
+### Bank Focus (Bureau van Dijk and Moody's Analytics)
 
-### Bank Focus (Bureau van Dijk und Moody's Analytics)
-
-[Bank Focus](https://bankfocus.bvdinfo.com/ip) bietet umfassende Informationen zu weltweit 44.000 Banken, basierend auf Jahresabschlüssen, Informationsanbietern und Regulierungsquellen. Enthält standardisierte Berichte und Kennzahlen, regelmäßig aktualisiert.
-
-- [Nutzerhandbuch](https://help.bvdinfo.com/mergedProjects/131_EN/Home.htm)
-- Zugang: Über Bureau van Dijk Interface oder [WRDS](https://wrds-www.wharton.upenn.edu/login/) (Registrierung erforderlich)
+- **Contents:** Comprehensive global bank database with detailed, standardized reports and ratios for 44,000 banks.
+- **Help:** [Bank Focus user guide](https://help.bvdinfo.com/mergedProjects/131_EN/Home.htm)
+- **Access:** [Bank Focus](https://bankfocus.bvdinfo.com/ip) (Bureau van Dijk interface), or via [WRDS](https://wrds-www.wharton.upenn.edu/login/) (registration required)
 
 ### COMPUSTAT Execucomp (Standard & Poor's)
 
-Bietet detaillierte Daten zur Vergütung von Führungskräften, direkt aus den jährlichen Proxy-Statements (DEF14A SEC-Formular) der Unternehmen. Enthält Angaben zu Gehalt, Boni, Aktienoptionen, Pensionsplänen und weiteren Vergütungsbestandteilen.
-
-- Zugang: Über [WRDS](https://wrds-www.wharton.upenn.edu/login/) (Registrierung erforderlich)
+- **Contents:** Executive compensation data from annual proxy statements (DEF14A SEC form), including salary, bonus, options, stock awards, and more.
+- **Help:** Documentation available via WRDS.
+- **Access:** [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (registration required)
 
 ### COMPUSTAT Global (Standard & Poor's)
 
-Umfassende Finanz- und Marktdaten zu börsennotierten Unternehmen in über 80 Ländern, mit bis zu 12 Jahren Historie. Die Daten sind international vergleichbar aufbereitet.
-
-- Zugang: Über [WRDS](https://wrds-www.wharton.upenn.edu/login/) (Registrierung erforderlich)
+- **Contents:** Financial and market data for publicly traded companies in over 80 countries, with up to 12 years of annual history.
+- **Help:** Documentation available via WRDS.
+- **Access:** [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (registration required)
 
 ### COMPUSTAT North America (Standard & Poor's)
 
-Fundamentale und Marktdaten zu mehr als 30.000 US- und kanadischen Unternehmen, inklusive umfangreicher Jahres- und Quartalsdaten, Indizes, Branchensegmente, Banken, Marktpreise, Dividenden und Gewinne.
-
-- Zugang: Über [WRDS](https://wrds-www.wharton.upenn.edu/login/) (Registrierung erforderlich)
+- **Contents:** U.S. and Canadian company fundamentals and market information for over 30,000 companies, including indices, industry segments, and more.
+- **Help:** Documentation available via WRDS.
+- **Access:** [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (registration required)
 
 ### CRSP (Center for Research in Security Prices)
 
-CRSP bietet die umfassendste Sammlung von Wertpapierpreisen, Renditen und Volumina für NYSE, AMEX und NASDAQ. Enthält auch Indizes, Portfolios, Anleihen, risikofreie Zinssätze und Mutual Fund Daten.
-
-- Zugang: Über [WRDS](https://wrds-www.wharton.upenn.edu/login/) (Registrierung erforderlich)
+- **Contents:** Security prices, returns, and volume data for NYSE, AMEX, and Nasdaq; includes stock indices, portfolio data, treasury bond, and mutual fund databases.
+- **Help:** Data description and definition guide via WRDS.
+- **Access:** [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (registration required)
 
 ### Dun & Bradstreet Hoovers
 
-[D&B Hoovers](https://dbis.ur.de/UBMAN/resources/105992) vereint über 220 Millionen Unternehmensinformationen aus 190 Ländern, angereichert mit Online- und Signal-Daten, täglich aktualisiert.
+- **Contents:** Over 220 million business records from 30,000 sources in 190 countries, including company data, online sources, and signal information.
+- **Access:** [Dun & Bradstreet Hoovers](https://dbis.ur.de/UBMAN/resources/105992)
 
 ### I/B/E/S
 
-Das Institutional Brokers Estimates System (I/B/E/S) liefert Konsens- und Detailprognosen von Analysten, darunter Gewinn je Aktie, Umsatz, Cashflow, langfristige Wachstumsprognosen und Aktienempfehlungen.
-
-- Zugang: Über [WRDS](https://wrds-www.wharton.upenn.edu/login/) (Registrierung erforderlich)
+- **Contents:** Analyst consensus and detailed forecasts, including earnings per share, revenue, cash flow, growth projections, and stock recommendations.
+- **Help:** Documentation available via WRDS.
+- **Access:** [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (registration required)
 
 ### Institutional (13f) Holdings
 
-Die Thomson/Refinitiv Institutional Holdings (13F) Datenbank enthält Informationen zu Aktienbeständen und Transaktionen institutioneller Investoren mit einem verwalteten Vermögen von mindestens 100 Mio. USD.
+- **Contents:** Institutional Common Stock Holdings and Transactions as reported on SEC Form 13F, for managers with $100 million+ in assets.
+- **Help:** Documentation available via WRDS.
+- **Access:** [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (registration required)
 
-- Zugang: Über [WRDS](https://wrds-www.wharton.upenn.edu/login/) (Registrierung erforderlich)
+### LSEG Workspace (including Datastream and Worldscope)
 
-### LSEG Workspace (inkl. Datastream und Worldscope, ehemals Refinitiv Workspace/EIKON)
-
-[LSEG Workspace](https://www.bib.uni-mannheim.de/medien/zugang-zum-lseg-workspace/) ist eine umfassende Quelle für Unternehmens- und Marktdaten, inklusive Finanzkennzahlen, Börsen-, Anleihen-, Devisen- und Rohstoffdaten. Die meisten Daten sind für den Download verfügbar.
-
-- [LSEG Finance Essentials – eLearning](https://www.lseg.com/en/training/learning-centre/certification/lsegfe-certification)
-- [Online-Tutorials und Kurse](https://www.lseg.com/en/training/learning-centre/)
-- [Excel Add-In Tutorials](https://www.lseg.com/content/lseg/en_us/training/learning-centre/learning-centre-catalogue/video-details.html?id=getting-started-with-refinitiv-workspace-excel-add-in&playlistId=1_6rg1cjpw)
-- [Datastream Datentypen (PDF)](https://www.bwl.uni-mannheim.de/media/Lehrstuehle/bwl/Maug/Database_info/Datastream_dataypes.pdf)
-
-**Zugang:**
-
-- Nur für Angehörige der Universität Mannheim (Studierende, Mitarbeitende, Promovierende)
-- Persönlicher Account für längere Nutzung: [Account beantragen](https://www.bib.uni-mannheim.de/medien/zugang-zum-lseg-workspace/)
-- Kurzfristiger Remote-Zugang über zwei virtuelle Terminals via ILIAS-Gruppe [Finance Databases](https://ilias.uni-mannheim.de/goto.php?target=crs_1227320&client_id=ILIAS)
-- Fragen zum Zugang: [Fachreferent BWL](https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/)
-- Fragen zur ILIAS-Gruppe: [Stefan Scharnowski](https://www.bwl.uni-mannheim.de/theissen/team/postdocs-und-doktoranden/stefan-scharnowski/)
+- **Contents:** Comprehensive company and market data, including financial indicators, stock, bond, money, foreign exchange, and commodity markets.
+- **Help:**
+  - [LSEG Finance Essentials](https://www.lseg.com/en/training/learning-centre/certification/lsegfe-certification)
+  - [LSEG Workspace tutorials](https://www.lseg.com/en/training/learning-centre/)
+  - [Excel Add-In tutorial](https://www.lseg.com/content/lseg/en_us/training/learning-centre/learning-centre-catalogue/video-details.html?id=getting-started-with-refinitiv-workspace-excel-add-in&playlistId=1_6rg1cjpw)
+  - [Datastream datatype description (PDF)](https://www.bwl.uni-mannheim.de/media/Lehrstuehle/bwl/Maug/Database_info/Datastream_dataypes.pdf)
+- **Access:**
+  - Access limited to University of Mannheim faculty and students.
+  - [Request a personal account](https://www.bib.uni-mannheim.de/medien/zugang-zum-lseg-workspace/) for regular use (faculty, doctoral students: semester; students: three months).
+  - Short-term remote access via two virtual terminals managed through the ILIAS group [Finance Databases](https://ilias.uni-mannheim.de/goto.php?target=crs_1227320&client_id=ILIAS).
+  - For access questions, contact the [subject librarian for business administration](https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/). For ILIAS group questions, contact [Stefan Scharnowski](https://www.bwl.uni-mannheim.de/theissen/team/postdocs-und-doktoranden/stefan-scharnowski/).
 
 ### Mutual Fund Holdings
 
-Die Thomson/Refinitiv Mutual Fund Holdings Datenbank bietet Informationen zu Wertpapierbeständen aller bei der SEC gemeldeten US-Mutual Funds sowie 3.000 globalen Fonds.
-
-- Zugang: Über [WRDS](https://wrds-www.wharton.upenn.edu/login/) (Registrierung erforderlich)
+- **Contents:** Security holding information for all registered mutual funds reporting to the SEC, plus 3,000 global funds.
+- **Help:** Documentation available via WRDS.
+- **Access:** [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (registration required)
 
 ### Orbis (Bureau van Dijk)
 
-[Orbis](http://dbis.uni-regensburg.de/warpto.php?bib_id=ubman&color=8&titel_id=12630&url=https%3A%2F%2Forbis4.bvdinfo.com%2Fip) enthält Informationen zu über 275 Millionen Unternehmen weltweit, mit Schwerpunkt auf privaten Unternehmen. Die Daten sind standardisiert und ermöglichen internationale Vergleiche. Erweiterter Zugang für Massendownloads und historische Updates ist für Professoren, wissenschaftliche Mitarbeitende und Abschlussarbeiten möglich. Zugangsdaten werden vom Dekanat der BWL verwaltet, Kontakt: [orbis@uni-mannheim.de](mailto:orbis@uni-mannheim.de).
-
-- [Orbis Nutzerhandbuch](https://help.bvdinfo.com/mergedProjects/68_EN/Home.htm)
+- **Contents:** Information on over 275 million companies worldwide, with a focus on private companies. Enables company research, analysis, and cross-border comparisons.
+- **Help:** [Orbis user guide](https://help.bvdinfo.com/mergedProjects/68_EN/Home.htm)
+- **Access:** [Orbis](http://dbis.uni-regensburg.de/warpto.php?bib_id=ubman&color=8&titel_id=12630&url=https%3A%2F%2Forbis4.bvdinfo.com%2Fip) (Bureau van Dijk interface)
+- **Extended Access:** For bulk downloads and historical updates, professors and academic staff (including supervised student theses) may request special access via orbis@uni-mannheim.de (administered by the Dean's Office of the Business School).
 
 ### SDC Worldwide Mergers, Acquisitions & Alliances (Thomson Financial)
 
-SDC Worldwide M&A bietet Daten zu weltweiten Mergers & Acquisitions, Allianzen und Aktienrückkäufen. Enthält ca. 672.000 globale M&A-Transaktionen ab 1985 (USA ab 1979), Aktienrückkäufe ab 1994.
-
-- Zugang: Über [WRDS](https://wrds-www.wharton.upenn.edu/login/) (Registrierung erforderlich)
+- **Contents:** Data on worldwide mergers, acquisitions, alliances, and stock repurchases, covering 672,000 global M&As from 1985 to present (U.S. data since 1979).
+- **Help:** Documentation available via WRDS.
+- **Access:** [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (registration required)
 
 ### S&P Capital IQ Pro
 
-S&P Capital IQ Pro bietet Finanzdaten, Nachrichten und Analysen zu über 6.500 börsennotierten und mehr als 50.000 privaten Unternehmen aus den Bereichen Banken, Versicherungen und Finanzdienstleistungen.
-
-- Zugang: Nur für Universitätsangehörige, persönliche Registrierung mit Uni-Mannheim-E-Mail über die [S&P Capital IQ Pro Registrierungsseite](https://platform.spgi.spglobal.com/)
+- **Contents:** Financial data, news, and analyses for over 6,500 public and 50,000 private companies in banking, insurance, and financial services.
+- **Help:** After login, click the "Help" button in the database header.
+- **Access:** Restricted to University of Mannheim members; [register](https://platform.spgi.spglobal.com/) with your university email address.
 
 ### Zephyr (Bureau van Dijk)
 
-[Zephyr](https://zephyr.bvdinfo.com/ip) ist eine umfassende Datenbank für M&A-, IPO-, Private-Equity- und Venture-Capital-Deals sowie Gerüchte. Enthält Informationen zu 1,6 Millionen Deals und Gerüchten, jährlich kommen über 100.000 hinzu.
+- **Contents:** M&A, IPO, private equity, and venture capital deal information, with 1.6 million deals and rumors.
+- **Help:** [Zephyr user guide](https://help.bvdinfo.com/mergedProjects/83_EN/Home.htm)
+- **Access:** [Zephyr](https://zephyr.bvdinfo.com/ip) (Bureau van Dijk interface)
 
-- [Zephyr Nutzerhandbuch](https://help.bvdinfo.com/mergedProjects/83_EN/Home.htm)
+## Further Information
 
-## Weitere Informationen
-
-Weitere Hinweise und Koordination zum Datenbankzugang finden Sie in der ILIAS-Gruppe „Finance Databases“ (Lehrstuhl für Corporate Finance, Universität Mannheim). Die Übersicht wurde ursprünglich vom Lehrstuhl für Corporate Finance erstellt.
+For additional details and coordination of database access, consult the ILIAS group "Finance Databases" (Chair of Corporate Finance, University of Mannheim). This overview was originally compiled by the Chair of Corporate Finance.

@@ -1,9 +1,9 @@
 ---
-title: Datenarchivierung und Publikation mit MADATA an der Universität Mannheim
+title: Datenarchivierung und -publikation an der Universität Mannheim: MADATA und weitere Repositorien
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenarchivierung-und-publikation/
 source_url_en: https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenarchivierung-und-publikation-1/
 category: Services
-tags: [MADATA, Forschungsdaten, Datenarchivierung, Datenpublikation, DOI, FAIR, Forschungsdatenrepositorium, Universität Mannheim]
+tags: ['Forschungsdaten', 'Datenarchivierung', 'MADATA', 'Repositorium', 'FAIR', 'DOI', 'Universität Mannheim', 'Forschungsdatenmanagement']
 language: de
 ---
 
@@ -11,7 +11,7 @@ language: de
 
 [MADATA](https://madata.bib.uni-mannheim.de/) ist der Forschungsdatenserver der Universität Mannheim. Er ermöglicht Forscherinnen und Forschern der Universität, ihre Daten sicher abzulegen und nach Bedarf zugänglich zu machen. MADATA hilft dabei, Ihre Daten FAIR (Findable, Accessible, Interoperable, Re-Usable) zu machen.
 
-## Vorteile
+## Vorteile von MADATA
 
 - Speicherung aller Arten von elektronischen Daten und Beschreibung der Daten mit strukturierten, maschinenlesbaren Metadaten
 - Sicherung der Daten für mindestens 10 Jahre auf Servern des Rechenzentrums (gemäß der üblichen Vorgaben von Forschungsförderern)

@@ -114,7 +114,7 @@ Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachref
 ### Christos Sidiropoulos, M.Ed.
 
 Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für Mathematik
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
 - Telefon: +49 621 181-2962
 - E-Mail: christos.sidiropoulos@uni-mannheim.de
 - ORCID-ID: 0009-0001-3341-3149 (https://orcid.org/0009-0001-3341-3149)

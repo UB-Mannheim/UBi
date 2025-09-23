@@ -1,33 +1,34 @@
 ---
-title: Fachliche Recherche Medien- und Kommunikationswissenschaft an der Universitätsbibliothek Mannheim
+title: Fachliche Recherche Medien- und Kommunikationswissenschaft – Literatur, Datenbanken, Beratung und Kurse an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/medien-und-kommunikationswissenschaft/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/media-and-communication-studies/
 category: Medien
-tags: [Medienwissenschaft, Kommunikationswissenschaft, Datenbanken, E-Books, E-Journals, Literaturstandorte, Kurse, Beratung]
+tags: ['Medienwissenschaft', 'Kommunikationswissenschaft', 'Datenbanken', 'E-Books', 'E-Journals', 'Recherche', 'Schulungen', 'Fachberatung']
 language: de
 ---
 
-# Medien- und Kommunikations­wissenschaft
+# Medien- und Kommunikationswissenschaft an der Universitätsbibliothek Mannheim
 
-Für das Fach Medien- und Kommunikations­wissenschaft bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Rechercheeinstiege an. Informationen zur Recherche im Fachgebiet sowie Tipps zum wissenschaftlichen Arbeiten erhalten Sie in den angebotenen [Kursen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/). Individuelle Beratung ist ebenfalls möglich.
+Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikationswissenschaft (MKW) umfassende Literatur, Datenbanken und weitere Recherchezugänge. Neben individueller Beratung stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
 
 ## Recherchieren
 
 ### Datenbanken
 
-Datenbanken zur Medien- und Kommunikations­wissenschaft sowie zu anderen Fachgebieten finden Sie im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/25/). Weitere relevante Angebote:
-
+- [Datenbanken zur Medien- und Kommunikationswissenschaft](https://dbis.ur.de/UBMAN/browse/subjects/25/) im Datenbank-Infosystem (DBIS)
 - [Fachinformationsdienst für die Medien-, Kommunikations- und Filmwissenschaft (adlr.link)](https://katalog.adlr.link/)
 - [Datenbanken mit adlr.link-Lizenz](https://katalog.adlr.link/myresearch/databases)
-- Ergänzend: Datenbanken zu [Allgemeines](https://dbis.ur.de/UBMAN/browse/subjects/) und [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](https://dbis.ur.de/UBMAN/browse/subjects/4/)
+- Ergänzende Datenbanken zu [Allgemeines](https://dbis.ur.de/UBMAN/browse/subjects/) und [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](https://dbis.ur.de/UBMAN/browse/subjects/4/)
 
 ### E-Journals
 
-E-Journals für Medien- und Kommunikationswissenschaft und Publizistik sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=AP) verzeichnet. Ergänzend finden Sie Zeitschriften zu [Allgemeines](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=AZ) und [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=E).
+- E-Journals für Medien- und Kommunikationswissenschaft, Publizistik in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AP)
+- Ergänzende E-Journals zu [Allgemeines](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AZ) und [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=E)
 
 ### E-Books
 
-Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließlich Medien- und Kommunikationswissenschaft. Die E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Netz der Universität Mannheim zugänglich. Weitere Informationen finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+- Breites E-Book-Angebot für alle Fachgebiete, recherchierbar im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
+- Hinweise zur Nutzung: [E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -38,20 +39,17 @@ Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließl
 - [Oxford Research Encyclopedia of Communication](https://oxfordre.com/communication/browse/)
 - [Springer eBooks: Literature, Cultural & Media Studies](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Springer%20eBooks%20Literature,%20Cultural%20%26%20Media%20Studies&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0)
 - [Springer Link 'Communication Studies'](https://link.springer.com/search?facet-content-type=%22Book%22&facet-sub-discipline=%22Communication+Studies%22) (z. B. [Handbuch Politische Kommunikation](https://link.springer.com/book/10.1007/978-3-658-26233-4))
-- [Transcript Verlag Open Access](https://www.transcript-verlag.de/open-access/?f=12320&p=1)
+- [Transcript](https://www.transcript-verlag.de/open-access/?f=12320&p=1)
 
 ### Fachliche Internetquellen
 
-- [Literaturrecherche](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textverstehen](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textproduktion](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textbearbeitung / -korrektur](https://www.vkkiwa.de/ki-ressourcen/)
-
 **Blogs:**
+
 - [Fachinformationsdienst MKW (adlr.link)](https://blog.adlr.link)
 - [Media Research Blog](https://www.hans-bredow-institut.de/de/blog)
 
 **KI-Ressourcen:**
+
 - [Literaturrecherche](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textverstehen](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textproduktion](https://www.vkkiwa.de/ki-ressourcen/)
@@ -59,10 +57,10 @@ Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließl
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Medien- und Kommunikationswissenschaften, die vor Ort genutzt werden kann. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
-- Die vorhandene Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+- [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): Literatur zum Fach Medien- und Kommunikationswissenschaft, frei zugänglich, nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihe nur für wissenschaftliches Personal.
+- [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Weitere Literatur zur Medien- und Kommunikationswissenschaft, ausleihbar mit ecUM oder UB-Chipkarte.
+- Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel: Wichtige Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen, mehrfach vorhanden.
+- Recherche aller Bestände im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### Forschungseinrichtungen vor Ort
 
@@ -71,16 +69,16 @@ Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließl
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche im Fach Medien- und Kommunikationswissenschaft an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Medien- und Kommunikationswissenschaft an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
-- [Kurse für das Fach MKW: speziell für Studierende vor dem Examen](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=1220603)
+- [MKW: speziell für Studierende vor dem Examen](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=1220603)
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
@@ -90,15 +88,18 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 ### Dr. Rudolf Nink, M.A.
 
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
+Vertretung: Politikwissenschaft, Psychologie, Soziologie
 
 **Aufgaben:**
+
 - Literaturauswahl und -erschließung für die genannten Fächer
-- Vertretung Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 
-**Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim  
-**Telefon:** +49 621 181-3053  
-**E-Mail:** [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
+**Kontakt:**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
+- Telefon: +49 621 181-3053
+- E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
 
 **Vertretung:** [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)

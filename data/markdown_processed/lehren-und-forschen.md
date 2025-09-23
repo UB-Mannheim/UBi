@@ -1,67 +1,78 @@
 ---
-title: Lehren und Forschen an der Universitätsbibliothek Mannheim: Publikationsservices, Forschungsdaten und Literaturversorgung
+title: Services und Infrastruktur der Universitätsbibliothek Mannheim für Lehre und Forschung
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/
 category: Services
-tags: [Lehre, Forschung, Open Access, Publikationsservices, Forschungsdaten, Literaturversorgung, Open Science, Repositorien]
+tags: ['Open Access', 'Forschungsdaten', 'Publizieren', 'Literaturversorgung', 'Open Science', 'Urheberrecht', 'Repositorium', 'Texterkennung']
 language: de
 ---
 
-# Lehren und Forschen
+# Lehren und Forschen an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet die Infrastruktur für Lehre und Forschung. Informieren Sie sich über die Publikationsservices der UB, das Forschungsdatenzentrum und die Services zur Literaturversorgung.
+Die Universitätsbibliothek Mannheim bietet umfassende Infrastruktur und Services zur Unterstützung von Lehre und Forschung. Im Folgenden finden Sie eine Übersicht der wichtigsten Angebote und Anlaufstellen.
 
 ## Publizieren und Open Access
 
-[Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/)  
-Beratung zum Veröffentlichen von Forschungsergebnissen, auch im Open Access, zu Fördermöglichkeiten über den Open-Access-Publikationsfonds der Universität und zur Einrichtung einer ORCID-ID.
+Die Universitätsbibliothek berät Sie zum Veröffentlichen Ihrer Forschungsergebnisse, insbesondere im Open Access. Sie informiert über Fördermöglichkeiten, wie den Open-Access-Publikationsfonds der Universität, und unterstützt beim Anlegen einer ORCID-ID.
+
+Weitere Informationen: [Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/)
 
 ## MADOC Publikationsserver
 
-[MADOC Publikationsserver](https://madoc.bib.uni-mannheim.de/)  
-Kostenfreies Publizieren von Forschungsergebnissen in MADOC: Eintragung von Dokumenten in die Universitätsbibliografie oder als frei zugängliche Online-Publikationen.
+Mit dem kostenfreien Publikationsserver MADOC können Sie Ihre Forschungsergebnisse veröffentlichen. Tragen Sie Ihre Dokumente in die Universitätsbibliografie ein oder stellen Sie sie als frei zugängliche Online-Publikationen zur Verfügung.
+
+Mehr erfahren: [MADOC Publikationsserver](https://madoc.bib.uni-mannheim.de/)
 
 ## MAJOURNALS
 
-[MAJOURNALS](https://majournals.bib.uni-mannheim.de/)  
-Herausgabe eigener Open-Access-Zeitschriften mit Unterstützung der UB Mannheim: Plattform, technische Unterstützung und Beratung.
+Die Universitätsbibliothek unterstützt Sie bei der Herausgabe eigener Open-Access-Zeitschriften. Sie bietet eine Plattform, technischen Support und Beratung zur Neueinrichtung.
+
+Details: [MAJOURNALS](https://majournals.bib.uni-mannheim.de/)
 
 ## Open Science Office
 
-[Open Science Office](https://www.uni-mannheim.de/open-science/)  
-Das Open Science Office der Universität Mannheim ist seit Februar 2021 an die Universitätsbibliothek angebunden und Anlaufstelle für alle Fragen rund um Open Science.
+Das Open Science Office der Universität Mannheim ist seit Februar 2021 an die Universitätsbibliothek angebunden. Es dient als zentrale Anlaufstelle für alle Fragen rund um Open Science.
+
+Weitere Informationen: [Open Science Office](https://www.uni-mannheim.de/open-science/)
 
 ## Forschungsdatenzentrum
 
-[Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
-Beratung zur Dokumentation und Archivierung von Forschungsdaten sowie Unterstützung bei Nutzung und Weiterverarbeitung bereitgestellter Daten.
+Das Forschungsdatenzentrum der UB berät zu Dokumentation und Archivierung von Forschungsdaten und unterstützt bei der Nutzung und Weiterverarbeitung bereitgestellter Daten.
 
-## MADATA
+Mehr erfahren: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
 
-[MADATA](https://madata.bib.uni-mannheim.de/)  
-Das Repositorium für Forschungsdaten der Universität Mannheim ermöglicht Wissenschaftler*innen, Daten sicher abzulegen und bedarfsgerecht zugänglich zu machen.
+### MADATA
 
-## MAObjects
+MADATA ist das Repositorium für Forschungsdaten der Universität Mannheim. Es ermöglicht Wissenschaftler\*innen, ihre Daten sicher abzulegen und nach Bedarf zugänglich zu machen.
 
-[MAObjects](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/)  
-Plattform zur Erstellung und Präsentation digitaler Objektsammlungen und virtueller Ausstellungen für Forschende.
+Weitere Informationen: [MADATA](https://madata.bib.uni-mannheim.de/)
 
-## Automatisierte Texterkennung – OCR
+### MAObjects
 
-[Automatisierte Texterkennung – OCR](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/)  
-Maschinelle Texterkennung (OCR) zur automatischen Erfassung von Texten aus digitalen Bildern und Generierung durchsuchbarer, analysierbarer Daten.
+MAObjects bietet Forschenden eine Plattform zur Erstellung und Präsentation digitaler Objektsammlungen und virtueller Ausstellungen.
+
+Mehr erfahren: [MAObjects](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/)
+
+### Automatisierte Texterkennung – OCR
+
+Mit maschineller Texterkennung (OCR) werden Texte aus digitalen Bildern automatisch erfasst, wodurch durchsuchbare und analysierbare Daten entstehen.
+
+Details: [Automatisierte Texterkennung – OCR](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/)
 
 ## Literaturversorgung
 
-[Literaturversorgung](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/)  
-Bestellung von Medien und Daten, Nutzung des Scanservices, Informationen zu Semesterapparaten und Abholvollmachten.
+Bestellen Sie Medien und Daten über die UB, nutzen Sie den Scanservice und informieren Sie sich über Semesterapparate sowie das Ausstellen einer Abholvollmacht.
+
+Weitere Informationen: [Literaturversorgung](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/)
 
 ## Urheberrecht
 
-[Urheberrecht](https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/)  
-Informationen zur rechtssicheren Nutzung von Lehrmaterialien, fremden Publikationen und Forschungsdaten sowie zum offenen Teilen von Inhalten.
+Erhalten Sie Unterstützung bei der Erstellung von Lehrmaterialien, der rechtssicheren Nutzung fremder Publikationen oder Forschungsdaten sowie beim offenen Teilen von Inhalten.
+
+Mehr erfahren: [Urheberrecht](https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/)
 
 ## Research Skills
 
-[Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)  
-Tools und praktische Tipps zu Themen wie effizientes Forschungsdatenmanagement, Datenanalyse, FAIR Data Publication, Open Science und Datenschutz.
+Erfahren Sie mehr über Tools und praktische Tipps zu Themen wie effizientes Forschungsdatenmanagement, Datenanalyse, FAIR Data Publication, Open Science und Datenschutz.
+
+Weitere Informationen: [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)

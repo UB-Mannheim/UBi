@@ -30,7 +30,7 @@ Aufgaben:
 - Softwareentwicklung
 - Serveradministration
 - Kurse
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 281, 68161 Mannheim
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 279, 68161 Mannheim
 - Telefon: +49 621 181-2965
 - E-Mail: joerg.mechnich@uni-mannheim.de
 - ORCID-ID: 0000-0002-6406-4906 (https://orcid.org/0000-0002-6406-4906)

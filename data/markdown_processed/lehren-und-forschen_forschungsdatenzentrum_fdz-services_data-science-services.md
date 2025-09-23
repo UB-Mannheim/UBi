@@ -3,13 +3,13 @@ title: Data Science Services des Forschungsdatenzentrums (FDZ) der Universitäts
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/data-science-services/
 category: Services
-tags: [Data Science, Forschungsdatenzentrum, Beratung, Datenanalyse, Open Source, Infrastruktur, Low-Code, Kooperation]
+tags: ['Data Science', 'Forschungsdatenzentrum', 'Beratung', 'Datenanalyse', 'Open Source', 'Cloud', 'Low-Code', 'Kooperation', 'Universität Mannheim']
 language: de
 ---
 
-# Data Science Services
+# Data Science Services des Forschungsdatenzentrums (FDZ)
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umfassende Data Science Services für Forschende an.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umfassende Data Science Services für Forschende an. Die Angebote unterstützen bei der Planung, Durchführung und Veröffentlichung datenwissenschaftlicher Projekte.
 
 ## Förderanträge
 
@@ -30,7 +30,7 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umf
 
 - Schreiben eines reproduzierbaren Open-Source-Codes (Python, R)
 - Code-Organisation und Dokumentation bei GitHub
-- Überprüfung Ihres Software-Repository
+- Überprüfung Ihres Software-Repositories
 - FAIRes Teilen und Archivieren Ihrer Software in Datenrepositories
 - Beratung zur Veröffentlichung eines Software-Artikels in einer Software-Zeitschrift
 
@@ -50,12 +50,12 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umf
 
 - Unterstützung bei der Suche nach Kooperationspartnern
 - Unterstützung bei der Organisation von Data-Science-Treffen
-- [Mannheim Center for Data Science](https://www.uni-mannheim.de/datascience)
+- Zusammenarbeit mit dem [Mannheim Center for Data Science](https://www.uni-mannheim.de/datascience)
 
 ## Kontakt
 
-**Forschungsdatenzentrum (FDZ)**  
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will  
-Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim  
-Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
+**Forschungsdatenzentrum (FDZ), Universitätsbibliothek Mannheim**
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

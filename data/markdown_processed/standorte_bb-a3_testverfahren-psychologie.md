@@ -1,33 +1,33 @@
 ---
-title: Psychologische Testverfahren und Testlabor im Bibliotheksbereich A3 der Universitätsbibliothek Mannheim
+title: Psychologische Testverfahren: Ausleihe, Nutzung und Zugang im Bibliotheksbereich A3 der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-a3/testverfahren-psychologie/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/a3-library/psychology-test-procedures/
-category: Medien
-tags: [Psychologie, Testverfahren, Testothek, Testlabor, Ausleihe, digitale Tests, Nutzungsbedingungen, Universitätsbibliothek Mannheim]
+category: Services
+tags: ['Psychologie', 'Testverfahren', 'Testothek', 'Testlabor', 'Ausleihe', 'Nutzungsbedingungen', 'Bibliotheksbereich A3', 'Universität Mannheim']
 language: de
 ---
 
-# Testverfahren für die Psychologie
+# Testverfahren für die Psychologie an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim stellt Studierenden der Psychologie verschiedene Testverfahren zur Verfügung. Physische Testverfahren können aus der Testothek ausgeliehen werden. Digitale Testverfahren sind über das Testlabor Psychologie zugänglich.
+Die Universitätsbibliothek Mannheim stellt Studierenden der Psychologie verschiedene Testverfahren zur Verfügung. Physische Testverfahren können aus der Testothek ausgeliehen werden. Eine Reihe digitaler Testverfahren sind über das Testlabor Psychologie zugänglich.
 
 ## Testothek
 
-Die Testothek ist eine Sammlung psychologischer und pädagogischer Tests, die ausschließlich im Rahmen von Forschung und Lehre eingesehen und entliehen werden können. Testverfahren dürfen nicht kopiert, elektronisch vervielfältigt oder an Dritte weitergegeben werden. Alle Tests sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar, indem bei „Erweiterte Suche“ die Zweigstelle „Test“ ausgewählt wird.
+Die Testothek ist eine Sammlung von psychologischen und pädagogischen Tests, die ausschließlich im Rahmen von Forschung und Lehre eingesehen und entliehen werden können. Testverfahren dürfen nicht kopiert, elektronisch vervielfältigt oder an Dritte weitergegeben werden. Alle verfügbaren Tests sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar, indem bei „Erweiterte Suche“ die Zweigstelle „Test“ ausgewählt wird.
 
-## Ausleihe
+### Ausleihe
 
 Ausleihberechtigt sind:
 
 - Psychologinnen und Psychologen sowie Studierende des Fachs Psychologie an der Universität Mannheim.
-- Studierende anderer Fächer und Beschäftigte der Universität Mannheim mit nachgewiesenem wissenschaftlichem Interesse. Hierfür ist eine von einer Dozentin oder einem Dozenten unterschriebene [Bescheinigung zur Ausleihe (PDF, 118 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/DozentenbescheinigungAusleiheMediathek.pdf) erforderlich.
-- Externe Psychologinnen und Psychologen mit Bibliotheksausweis und Abschlusszeugnis.
+- Studierende anderer Fächer sowie Beschäftigte der Universität Mannheim mit nachgewiesenem wissenschaftlichem Interesse. Hierfür ist eine von einer Dozentin oder einem Dozenten unterschriebene [Bescheinigung zur Ausleihe](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/DozentenbescheinigungAusleiheMediathek.pdf) erforderlich.
+- Externe Psychologinnen und Psychologen mit Bibliotheksausweis und Vorlage des Abschlusszeugnisses.
 
 Die Leihfrist beträgt 14 Tage, eine Verlängerung ist auf Nachfrage möglich.
 
 ## Testlabor Psychologie
 
-Im Testlabor Psychologie können Studierende der Psychologie und angrenzender Fachbereiche PC-gestützte Diagnostik in Form von Selbsttests oder Tests mit Probandinnen und Probanden durchführen. Die Nutzung für Qualifikationsarbeiten und Forschungszwecke ist nicht zulässig. Im Testlabor steht das Hogrefe-Testsystem mit einer Auswahl digitaler Testverfahren zur Verfügung.
+Das Testlabor Psychologie bietet Studierenden der Psychologie und angrenzender Fachbereiche die Möglichkeit, PC-gestützte Diagnostik in Form von Selbsttests oder Tests mit Probandinnen und Probanden durchzuführen. Die Nutzung ist ausschließlich zu Übungszwecken gestattet; der Einsatz für Qualifikationsarbeiten und Forschungszwecke ist nicht zulässig. Im Testlabor steht das Hogrefe-Testsystem mit einer Auswahl digitaler Testverfahren zur Verfügung.
 
 ### Über das Testsystem zugängliche Testverfahren
 
@@ -52,34 +52,36 @@ Im Testlabor Psychologie können Studierende der Psychologie und angrenzender Fa
 - FEEL-E
 - MSCEIT
 
-## Nutzung
+## Nutzung des Testlabors
 
-Der Zugang zum Testlabor wird über die Infotheke im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) verwaltet. Raumreservierungen sind dort möglich. Der Zutritt ist Montag bis Freitag zwischen 8 und 18 Uhr möglich, das Testlabor kann auch nach 18 Uhr verlassen werden. Zum [Belegungskalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/testlabor_emb.yml).
+Der Zugang zum Testlabor wird über die Infotheke im Bibliotheksbereich A3 verwaltet. Raumreservierungen können ebenfalls dort vorgenommen werden. Der Zutritt ist Montag bis Freitag zwischen 8 und 18 Uhr möglich; das Testlabor kann auch nach 18 Uhr verlassen werden.
 
-Bei Nutzung des Testlabors sind folgende Bedingungen einzuhalten: Es dürfen nur Testpersonen teilnehmen, denen die Datenschutzhinweise zur Verfügung gestellt wurden und die in die Verarbeitung ihrer personenbezogenen Daten eingewilligt haben.
+Zum [Belegungskalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/testlabor_emb.yml)
 
-Folgende Formulare sind ausgedruckt und unterschrieben an der Infotheke abzugeben:
+### Nutzungsbedingungen und Formulare
 
-- [Nutzungsbedingungen (PDF, 167 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Nutzungsbedingungen.pdf)
-- [Datenschutz und Einwilligung (PDF, 1,01 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Datenschutzhinweise-Einwilligungserklaerung.pdf)
+Die Nutzung des Testlabors setzt voraus, dass nur Testpersonen teilnehmen, denen die Datenschutzhinweise zur Verfügung gestellt wurden und die in die Verarbeitung ihrer personenbezogenen Daten eingewilligt haben. Folgende Formulare sind ausgedruckt und unterschrieben an der Infotheke abzugeben:
 
-Studierende außerhalb der sozialwissenschaftlichen Fakultät reichen zusätzlich das von einer Dozentin oder einem Dozenten unterschriebene [Formular zur Berechtigung (PDF, 151 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Berechtigung.pdf) ein.
+- [Nutzungsbedingungen](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Nutzungsbedingungen.pdf)
+- [Datenschutzhinweise und Einwilligungserklärung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Datenschutzhinweise-Einwilligungserklaerung.pdf)
 
-Eine [Anleitung zur Nutzung des Testsystems (PDF, 3,06 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Anleitung-Nutzung-Testsystem-24-02.pdf) bietet eine Einführung in das installierte Testsystem und die verschiedenen Optionen.
+Studierende, die nicht an der sozialwissenschaftlichen Fakultät studieren, reichen zusätzlich das von einer Dozentin oder einem Dozenten unterschriebene Formular zur [Berechtigung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Berechtigung.pdf) ein.
 
-**Alle Dokumente zum Download:**
+Eine [Anleitung zur Nutzung des Testsystems](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Anleitung-Nutzung-Testsystem-24-02.pdf) bietet eine Einführung in das installierte Testsystem und die verschiedenen Optionen.
 
-- [Bescheinigung zur Ausleihe (PDF, 118 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/DozentenbescheinigungAusleiheMediathek.pdf)
-- [Nutzungsbedingungen (PDF, 167 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Nutzungsbedingungen.pdf)
-- [Datenschutzhinweise und Einwilligungserklärung (PDF, 1,01 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Datenschutzhinweise-Einwilligungserklaerung.pdf)
-- [Berechtigung (PDF, 151 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Berechtigung.pdf)
-- [Anleitung (PDF, 3,06 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Anleitung-Nutzung-Testsystem-24-02.pdf)
+**Alle relevanten Dokumente zum Download:**
+
+- [Bescheinigung zur Ausleihe](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/DozentenbescheinigungAusleiheMediathek.pdf)
+- [Nutzungsbedingungen](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Nutzungsbedingungen.pdf)
+- [Datenschutzhinweise und Einwilligungserklärung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Datenschutzhinweise-Einwilligungserklaerung.pdf)
+- [Berechtigung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Berechtigung.pdf)
+- [Anleitung zur Nutzung des Testsystems](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Anleitung-Nutzung-Testsystem-24-02.pdf)
 
 ## Kontakt
 
-**Bibliotheksbereich A3**  
-Universität Mannheim, Universitätsbibliothek  
-A 3, 6–8, 68159 Mannheim  
-Telefon: +49 621 181-3111  
-E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)  
+**Bibliotheksbereich A3**
+Universität Mannheim, Universitätsbibliothek
+A 3, 6–8, 68159 Mannheim
+Telefon: +49 621 181-3111
+E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)

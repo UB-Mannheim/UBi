@@ -1,9 +1,9 @@
 ---
-title: Projekte des Forschungsdatenzentrums (FDZ) der Universitätsbibliothek Mannheim
+title: Forschungsdatenzentrum (FDZ) – Projekte und Beteiligungen der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-projekte/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/fdz-projects/
 category: Projekte
-tags: [FDZ, Forschungsdatenmanagement, Knowledge Graphs, Data Literacy, OCR, Digitalisierung, NFDI, Projekte]
+tags: ['Forschungsdatenzentrum', 'FDZ', 'Projekte', 'Datenmanagement', 'Knowledge Graph', 'Data Literacy', 'Digitalisierung', 'NFDI']
 language: de
 ---
 
@@ -15,7 +15,7 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 
 ### BERD@NFDI (OCR, Knowledge Graphs, Training)
 
-Das FDZ wirkt beim Aufbau einer Nationalen Forschungsdateninfrastruktur (NFDI) im Rahmen von BERD@NFDI mit, einem Konsortium für unstrukturierte Daten aus den Wirtschaftswissenschaften und verwandten Fachgebieten. Das FDZ übernimmt Aufgaben in den Bereichen:
+Im Rahmen des Konsortiums BERD@NFDI für unstrukturierte Daten aus den Wirtschaftswissenschaften und verwandten Fachgebieten übernimmt das FDZ Aufgaben in den Bereichen:
 
 - OCR (Gewinnung von unstrukturierten und strukturierten Daten aus Bild-Digitalisaten)
 - Knowledge Graph-Entwicklung
@@ -28,35 +28,35 @@ Das FDZ unterstützt die Mannheim Research Group in Culture, Research and Entrep
 
 ### TransforMA (KI, Data Literacy, OCR)
 
-Das FDZ ist am Projekt TransforMA im Teilprojekt 3 „Technologie“ beteiligt. In diesem Projektteil wird insbesondere die Expertise im Bereich KI und Forschungsdatenmanagement eingebracht. Durch die Erstellung von Datenbanken und Chatbots soll die Technologie- und Wissenssuche für die Hochschule Mannheim und die Universität Mannheim erleichtert und damit ein niedrigschwelliger Zugang zu vorhandenem Wissen und Technologien an beiden Hochschulen ermöglicht werden.
+Im Projekt TransforMA ist das FDZ im Teilprojekt 3 „Technologie“ beteiligt. Hier bringt das FDZ seine Expertise im Bereich KI und Forschungsdatenmanagement ein. Durch die Erstellung von Datenbanken und Chatbots wird die Technologie- und Wissenssuche für die Hochschule Mannheim und die Universität Mannheim erleichtert, um einen niedrigschwelligen Zugang zu vorhandenem Wissen und Technologien zu ermöglichen.
 
 ### MaDaLi² (Data Literacy, e-Learning)
 
-Im Projekt „MaDaLi²“ unterstützt das FDZ die Entwicklung eines Data Literacy e-Learning Kurses für Studierende. Mit dem Kurs können Studierende in ihrem eigenen Tempo wichtige Grundlagen im Umgang mit Forschungsdaten erlernen und festigen. Zu diesen Grundlagen gehören die Fähigkeiten, Daten angemessen zu erkunden, zu verstehen und zu kommunizieren.
+Im Projekt „MaDaLi²“ unterstützt das FDZ die Entwicklung eines Data Literacy e-Learning Kurses für Studierende. Der Kurs vermittelt grundlegende Fähigkeiten im Umgang mit Forschungsdaten, wie das Erkunden, Verstehen und Kommunizieren von Daten.
 
 ### KGI4NFDI (Knowledge Graphs)
 
-Das Projekt KGI4NFDI entwickelt eine zentrale Infrastruktur für Knowledge Graphen, um die Interoperabilität zu verbessern und die Ziele der NFDI zu unterstützen. KGI4NFDI bietet Registrierungs- sowie Zugangsdienste an, fördert standardisierte Praktiken und FAIR-Datenprinzipien, ergänzt durch Dokumentations- und Beratungsdienste. Das FDZ unterstützt in diesem Zusammenhang die Beratungsdienste und die Ausarbeitung standardisierter Praktiken zur Erstellung von Knowledge Graphen.
+Das Projekt KGI4NFDI entwickelt eine zentrale Infrastruktur für Knowledge Graphen zur Verbesserung der Interoperabilität und zur Unterstützung der Ziele der NFDI. KGI4NFDI bietet Registrierungs- und Zugangsdienste, fördert standardisierte Praktiken und FAIR-Datenprinzipien und ergänzt dies durch Dokumentations- und Beratungsdienste. Das FDZ unterstützt insbesondere die Beratungsdienste und die Ausarbeitung standardisierter Praktiken zur Erstellung von Knowledge Graphen.
 
 ### ENGAGE.EU (Training)
 
-ENGAGE.EU ist eine Allianz führender europäischer Universitäten, die Bürger*innen mit den Kompetenzen ausstattet, die sie zur Bewältigung gesellschaftlicher Herausforderungen benötigen. Die Allianz fördert Zusammenarbeit und Bildung, um Europa bei der Lösung von Problemen wie Digitalisierung, Klimawandel und demografischem Wandel voranzubringen. Das FDZ bringt seine Expertise im Rahmen von ENGAGE.EU mit Schulungsangeboten zum Forschungsdatenmanagement ein. Darüber hinaus ist das FDZ Teil einer Expertengruppe zu Forschungsdatenmanagement.
+ENGAGE.EU ist eine Allianz führender europäischer Universitäten, die Bürger\*innen Kompetenzen zur Bewältigung gesellschaftlicher Herausforderungen vermittelt. Das FDZ bringt seine Expertise mit Schulungsangeboten zum Forschungsdatenmanagement ein und ist Teil einer Expertengruppe zu Forschungsdatenmanagement.
 
 ### Finance and Business Research from a Long-Term Perspective
 
-Das Projekt „Finance and Business Research from a Long-Term Perspective: Utilizing Historical German Financial Market and Corporate Data (GerHisFin)“ erschließt historische deutsche Finanzmarkt- und Unternehmensdaten seit dem 19. Jahrhundert und macht sie für die Forschung digital nutzbar. Ziel ist es, langfristige wirtschaftliche Entwicklungen besser zu verstehen. Die Universitätsbibliothek Mannheim und das FDZ tragen zur Digitalisierung und Texterkennung (OCR) historischer Quellen bei.
+Das Projekt „Finance and Business Research from a Long-Term Perspective: Utilizing Historical German Financial Market and Corporate Data (GerHisFin)“ erschließt historische deutsche Finanzmarkt- und Unternehmensdaten seit dem 19. Jahrhundert und macht sie digital für die Forschung nutzbar. Die UB Mannheim und das FDZ tragen zur Digitalisierung und Texterkennung (OCR) historischer Quellen bei.
 
 ## Abgeschlossene Projekte (Auswahl)
 
 ### Aktienführer-Datenarchiv (OCR, Datenstrukturierung)
 
-Zwischen 2013 und 2019 hat das FDZ im Rahmen von zwei DFG-Projekten das Aktienführer-Datenarchiv geschaffen. Hierzu wurden alle Aktienführer-Bände aus dem Hoppenstedt-Verlag digitalisiert, die Inhalte strukturiert erfasst und über eine Web-Oberfläche verfügbar gemacht.
+Zwischen 2013 und 2019 hat das FDZ im Rahmen von zwei DFG-Projekten das Aktienführer-Datenarchiv geschaffen. Alle Aktienführer-Bände aus dem Hoppenstedt-Verlag wurden digitalisiert, die Inhalte strukturiert erfasst und über eine Web-Oberfläche verfügbar gemacht.
 
 ## Kontakt
 
 ### Forschungsdatenzentrum (FDZ)
 
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will  
-Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim  
-Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
-E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
+**Team:** Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+**Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+**Web:** [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+**E-Mail:** [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

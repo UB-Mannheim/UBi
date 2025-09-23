@@ -1,5 +1,5 @@
 ---
-title: Ansprechpartner und Aufgaben im Projekt BERD@NFDI an der Universitätsbibliothek Mannheim
+title: Ansprechpartner und Aufgabenbereiche für BERD@NFDI an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/berdnfdi/
 category: Kontakt
@@ -7,27 +7,27 @@ tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Recht', 'Infor
 language: de
 ---
 
-# Ansprechpartner und Aufgaben im Projekt BERD@NFDI
+# Ansprechpartner und Aufgabenbereiche für BERD@NFDI
 
-Das Projekt BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in verschiedenen Bereichen des Forschungsdatenmanagements, Data Science, Recht und Informationskompetenz. Nachfolgend sind die zentralen Ansprechpartner:innen mit ihren Aufgaben und Kontaktdaten aufgeführt.
+Die folgenden Ansprechpersonen sind für das Projekt BERD@NFDI an der Universitätsbibliothek Mannheim zuständig. Sie unterstützen Forschende in verschiedenen Bereichen des Forschungsdatenmanagements, Data Science, Recht und Informationskompetenz.
 
 ## Dr. Ulrich Krieger
 
 **Koordinator und Projektmanager für BERD@NFDI**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim
-- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 - Telefon: +49 621 181-2776
 - E-Mail: [ulrich.krieger@uni-mannheim.de](mailto:ulrich.krieger@uni-mannheim.de)
+- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 
 ## Dr. Regina Jutz
 
 **Projektmanagerin für BERD@NFDI**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim
-- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 - Telefon: +49 621 181-2717
 - E-Mail: [regina.jutz@uni-mannheim.de](mailto:regina.jutz@uni-mannheim.de)
+- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 
 ## Dr. Renat Shigapov
 
@@ -48,7 +48,7 @@ Das Projekt BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forsc
 
 - Unterstützung von Forschenden
 - Rechtliche Fragestellungen im FDM Bereich
-- Themengebiete: Datenschutz, Urheberrecht, Lizenzrecht
+- Themengebiete: Datenschutz, Urheberrecht und Lizenzrecht
 - BERD Datenschutzkonzept und Plattform Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714

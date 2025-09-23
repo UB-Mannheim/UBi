@@ -9,9 +9,9 @@ language: de
 
 # Betriebswirtschaftslehre an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Betriebswirtschaftslehre umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Neben individuellen Beratungen können Sie an Kursen und Tutorials teilnehmen, um Ihre Recherchekompetenzen und Ihr wissenschaftliches Arbeiten zu verbessern.
+Die Universitätsbibliothek Mannheim bietet für das Fach Betriebswirtschaftslehre umfassende Unterstützung bei der Literatur- und Datenbankrecherche, Zugang zu E-Books und E-Journals, Informationen zu Forschungsdaten sowie Schulungen und individuelle Beratung.
 
-## Recherchieren
+## Rechercheangebote
 
 ### Literaturdatenbanken
 
@@ -38,17 +38,15 @@ Datenbanken für aktuelle Presseinformationen:
 - [Weltbank](https://dbis.ur.de/UBMAN/resources/10211)
 - [Internationaler Währungsfonds](https://dbis.ur.de/UBMAN/resources/11303)
 
-#### Weitere Datenbanken
-
 Weitere [Datenbanken zur Betriebswirtschaftslehre](https://dbis.ur.de/UBMAN/browse/subjects/43/?availability-filter-free=on&availability-filter-local=on&sort_by=2&ps=25), insbesondere auch [statistische Datenbanken](https://dbis.ur.de/UBMAN/browse/collections/34/?availability-filter-free=on&availability-filter-local=on), sowie Datenbanken zu anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/).
 
 ### E-Journals
 
-Die E-Journals für das Fach Betriebswirtschaftslehre finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=Q) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+E-Journals für das Fach Betriebswirtschaftslehre finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=Q) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### E-Books
 
-Die E-Books im Fach Wirtschaftswissenschaften sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar. Informationen zu Nutzungsbedingungen finden Sie unter [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Die lizenzierten E-Books im Fach Wirtschaftswissenschaften sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar. Informationen zu Nutzungsbedingungen finden Sie unter [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -63,18 +61,16 @@ Die E-Books im Fach Wirtschaftswissenschaften sind im [Katalog Primo](https://pr
 
 ### Forschungsdaten
 
-Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehbarkeit und wird zunehmend gefordert. Einführungen und Hilfestellungen:
-
-- [forschungsdaten.info](https://www.forschungsdaten.info/)
-- [Auffinden – Zitieren – Dokumentieren](http://auffinden-zitieren-dokumentieren.de/)
-- Repositorien-Suche: [re3data](http://www.re3data.org/)
-- Internationale Datensatzsuche: [DataCite](http://search.datacite.org/)
-- An der Universität Mannheim: [MADATA](https://madata.bib.uni-mannheim.de/)
-- Für Wirtschafts- und Sozialwissenschaften: [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) von GESIS
+- Einführung: [forschungsdaten.info](https://www.forschungsdaten.info/)
+- Publikation: [Auffinden – Zitieren – Dokumentieren](http://auffinden-zitieren-dokumentieren.de/)
+- Repositorien: [re3data](http://www.re3data.org/)
+- Internationale Datensätze: [DataCite](http://search.datacite.org/)
+- Universität Mannheim: [MADATA](https://madata.bib.uni-mannheim.de/)
+- Wirtschafts- und Sozialwissenschaften: [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) (GESIS)
 
 ### Fachliche Internetquellen
 
-#### Wirtschaftswissenschaftliche Fachportale
+**Wirtschaftswissenschaftliche Fachportale:**
 
 - [EconBiz](http://www.econbiz.de/) – Recherche- und Fachportal des [ZBW](http://www.zbw.eu/)
 - [SSRN](https://www.ssrn.com/index.cfm/en/): Social Science Research Network
@@ -82,17 +78,17 @@ Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehb
 - [VHB](https://vhbonline.org/): Verband der Hochschullehrer für Betriebswirtschaft
 - [Sachverständigenrat](https://www.sachverstaendigenrat-wirtschaft.de/) zur Begutachtung der gesamtwirtschaftlichen Entwicklung
 
-#### Internetquellen zur fachlichen Recherche
+**Internetquellen zur fachlichen Recherche:**
 
 - [Recherchetipps](http://www.zbw.eu/de/recherchieren/recherchetipps/) für die Studienarbeit – Materialien des ZBW
 - [STW](http://zbw.eu/stw/versions/latest/about.de.html) – Standard-Thesaurus Wirtschaft
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich Schloss Schneckenhof – Süd](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/) finden Sie Literatur zum Fach Betriebswirtschaftslehre, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Betriebswirtschaftslehre, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
-- Die gesamte Literatur der UB ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+- [Bibliotheksbereich Schloss Schneckenhof – Süd](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/): Literatur zum Fach Betriebswirtschaftslehre, vor Ort nutzbar, nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihe nur für wissenschaftliches Personal.
+- [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Weitere Literatur zur Betriebswirtschaftslehre, ausleihbar mit ecUM oder UB-Chipkarte.
+- Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel: Wichtige Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen.
+- Recherche im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### Forschungseinrichtungen vor Ort
 
@@ -102,9 +98,9 @@ Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehb
 
 ### Journal Ranking
 
-- [JOURQUAL3](https://vhbonline.org/vhb4you/vhb-jourqual/vhb-jourqual-3): Zeitschriften-Ranking des Verbands der Hochschullehrer für Betriebswirtschaft (VHB)
-- [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359): internationale Rankings mit Impact Factors (Web of Science)
-- [Handelsblatt-BWL-Ranking](https://www.forschungsmonitoring.org/ranking/bwl/authors): Ranking von Personen und Fachbereichen, basierend u.a. auf dem [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR) aus der Scopus-Datenbank
+- [JOURQUAL3](https://vhbonline.org/vhb4you/vhb-jourqual/vhb-jourqual-3): Zeitschriften-Ranking des Verbands der Hochschullehrer für Betriebswirtschaft (VHB).
+- [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359): Internationale Rankings mit Impact Factors, Kategorien Business, Finance, Management.
+- [Handelsblatt-BWL-Ranking](https://www.forschungsmonitoring.org/ranking/bwl/authors): Ranking von Personen und Fachbereichen, basierend u.a. auf dem [SCImago Journal Ranking (SJR)](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817).
 
 ## Kurse und Tutorials
 
@@ -114,9 +110,9 @@ Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
-**Kurse für das Fach Betriebswirtschaftslehre:**
+**Fachspezifischer Kurs:**
 
-- [Business Studies and Economics: Literature Search](https://ilias.uni-mannheim.de/goto.php?target=crs_1409930_rcodeMckthgQ2kV&client_id=ILIAS) – englischsprachiger Ilias-Kurs mit Lernvideos und Materialien zur Einführung in die Literaturrecherche in BWL-Datenbanken
+- [Business Studies and Economics: Literature Search](https://ilias.uni-mannheim.de/goto.php?target=crs_1409930_rcodeMckthgQ2kV&client_id=ILIAS) – englischsprachiger Ilias-Kurs mit Lernvideos und Materialien zur Einführung in die Literaturrecherche in BWL-Datenbanken.
 
 ## Wissenschaftliches Arbeiten
 
@@ -140,9 +136,9 @@ Die UB unterstützt Sie mit:
 
 ### Xiuwen Ye, M.Sc.
 
-Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik\
-Universität Mannheim, Universitätsbibliothek\
-Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim\
-Telefon: +49 621 181-3753\
-E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)\
+Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
+Telefon: +49 621 181-3753
+E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
 Vertretung: [Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)

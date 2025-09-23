@@ -9,7 +9,9 @@ language: de
 
 # Germanistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Germanistik umfangreiche Literatur, Datenbanken und Rechercheeinstiege. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
+## Überblick
+
+Für das Fach Germanistik bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und vielfältige Rechercheeinstiege. Es werden regelmäßig Kurse und individuelle Beratungen zur Recherche und zum wissenschaftlichen Arbeiten angeboten.
 
 ## Recherchieren
 
@@ -25,7 +27,8 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Germanistik umfangreic
 
 ### E-Books
 
-Die Universitätsbibliothek bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließlich Germanistik. Die E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Netz der Universität Mannheim zugänglich. Weitere Informationen: [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+- Breites E-Book-Angebot für alle Fachgebiete, einschließlich Germanistik, im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Uni-Netz zugänglich
+- Weitere Informationen: [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -47,40 +50,40 @@ Die Universitätsbibliothek bietet ein breites Angebot an E-Books für alle Fach
 
 ### Fachliche Internetquellen
 
-**Digital Humanities:**
+**Digital Humanities**
 
 - [Clarin-D](http://clarin-d.de/)
 - [DARIAH-DE](http://de.dariah.eu/)
 - [TAPoR](http://tapor.ca)
 - [Textgrid](http://www.textgrid.de/)
 
-**Germanistische Blogs:**
+**Germanistische Blogs**
 
 - [Germanistik im Netz](https://www.germanistik-im-netz.de/informieren/forschung-und-kommunikation/blogs/)
 
-**KI-Ressourcen:**
+**KI-Ressourcen**
 
 - [Literaturrecherche](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textverstehen](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textproduktion](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textbearbeitung / -korrektur](https://www.vkkiwa.de/ki-ressourcen/)
 
-**Linguistikblogs:**
+**Linguistikblogs**
 
 - [Die Engelbart-Galaxis](https://scilogs.spektrum.de/engelbart-galaxis/): Digitale Welten jenseits der Schriftkultur
 
-**Literaturblogs:**
+**Literaturblogs**
 
-- [literaturundfeuilleton.wordpress.com](https://literaturundfeuilleton.wordpress.com/)
-- [tell-review.de](https://tell-review.de/)
-- [kaffeehaussitzer.de](https://www.kaffeehaussitzer.de/)
-- [buchundwort.de](https://www.buchundwort.de)
-- [kulturgeschwaetz.wordpress.com](https://kulturgeschwaetz.wordpress.com/)
-- [nachtundtag.blog](https://nachtundtag.blog/)
-- [leseschatz.com](https://leseschatz.com/)
-- [buecherkaffee.de](https://buecherkaffee.de/)
+- [Literatur und Feuilleton](https://literaturundfeuilleton.wordpress.com/)
+- [Tell Review](https://tell-review.de/)
+- [Kaffeehaussitzer](https://www.kaffeehaussitzer.de/)
+- [Buch und Wort](https://www.buchundwort.de)
+- [Kulturgeschwätz](https://kulturgeschwaetz.wordpress.com/)
+- [Nacht und Tag](https://nachtundtag.blog/)
+- [Leseschatz](https://leseschatz.com/)
+- [Buecherkaffee](https://buecherkaffee.de/)
 
-**Podcasts:**
+**Podcasts**
 
 - [Digitale Lehre Germanistik](https://www.digitale-lehre-germanistik.de/)
 - [Germanistische Linguistik und Sprachgeschichte](https://www.gls-dresden.de/2019/04/28/podcasts-zu-thematischen-vorlesungen-wissenschaftlichen-vortraegen-und-der-reihe-literatur-fuers-studium/)
@@ -94,18 +97,18 @@ Die Universitätsbibliothek bietet ein breites Angebot an E-Books für alle Fach
 - [Tuwort – Linguistik-Podcast](https://podcasts.social/@tuwort)
 - [Wissenschaftspodcasts Germanistik](https://www.digitale-lehre-germanistik.de/ressourcen/-/wiki/Ressourcen/Audio-Materialien)
 
-**Rezensionen:**
+**Rezensionen**
 
 - [Perlentaucher](https://www.perlentaucher.de/buecherschau/)
 - [Zeitschrift für Rezensionen zur germanistischen Sprachwissenschaft](https://www.degruyter.com/journal/key/zrs/html?lang=de#latestIssue)
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Germanistik, die vor Ort genutzt werden kann. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Germanistik, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe zur Verfügung.
+- Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Germanistik, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
+- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Germanistik-Literatur, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
+- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
 - Die an der UB vorhandene Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
-- Das [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/) in Mannheim verfügt über einen herausragenden Bestand zur Linguistik. Die Literatur des IDS ist im [OPAC der Bibliothek des IDS](http://bib-server.ids-mannheim.de/) recherchierbar.
+- Das [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/) in Mannheim bietet einen herausragenden Bestand zur Linguistik. Die Literatur des IDS ist im [OPAC der Bibliothek des IDS](http://bib-server.ids-mannheim.de/) recherchierbar.
 
 ### Forschungseinrichtungen vor Ort
 
@@ -123,7 +126,7 @@ Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche in der 
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt mit Schulungs- und Beratungsangeboten.
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
@@ -137,7 +140,7 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 **Aufgaben:**
 
 - Literaturauswahl und -erschließung für die genannten Fächer
-- Vertretung Politikwissenschaft, Psychologie, Soziologie
+- Vertretung für Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 

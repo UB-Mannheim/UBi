@@ -1,9 +1,9 @@
 ---
-title: Datenspeicherung und -sicherheit im Forschungsdatenmanagement an der Universität Mannheim
+title: Datenspeicherung und -sicherheit: Dienste und Maßnahmen für Forschungsdaten an der Universität Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenspeicherung-und-sicherheit/
 source_url_en: https://www.bib.uni-mannheim.de/en/lehren-und-forschen/fdz-home/fdm-informationen/datenspeicherung-und-sicherheit-1/
 category: Services
-tags: [Datenspeicherung, Datensicherheit, Forschungsdatenmanagement, Fileservice, Cloud-Speicher, OneDrive, bwSync&Share, IT-Sicherheit]
+tags: ['Forschungsdaten', 'Datenspeicherung', 'IT-Sicherheit', 'Cloud-Speicher', 'Fileservice', 'OneDrive', 'bwSync&Share', 'Backup']
 language: de
 ---
 
@@ -11,26 +11,30 @@ language: de
 
 In diesem Abschnitt finden Sie Dienste und Tipps zum Speichern und Organisieren von Daten während des Forschungsprojekts („hot data“).
 
-## Fileservice
+## Speicherdienste der Universität Mannheim
 
-Für universitätsinterne Projekte bietet sich zum Speichern von Daten während der Projektlaufzeit der [Fileservice](https://www.uni-mannheim.de/it/services/digitale-kommunikation/fileservice/) der Universität Mannheim an, der von UNIT auf universitätseigenen Servern bereitgestellt wird. Standardmäßig stehen Beschäftigten der Universität 10 GB zur Verfügung. Virenschutz und regelmäßiges Backup gehören zum Standardservice.
+### Fileservice
 
-## Cloud-Speicher
+Für universitätsinterne Projekte steht der [Fileservice](https://www.uni-mannheim.de/it/services/digitale-kommunikation/fileservice/) der Universität Mannheim zur Verfügung. Dieser wird von UNIT auf universitätseigenen Servern bereitgestellt. Beschäftigte der Universität erhalten standardmäßig 10 GB Speicherplatz. Virenschutz und regelmäßiges Backup sind im Service enthalten.
 
-Die Universität Mannheim hat [Microsoft 365](https://www.uni-mannheim.de/it/services/microsoft-365/) für Mitarbeiterinnen, Mitarbeiter und Studierende lizenziert. Microsoft 365 beinhaltet den Zugang zum Cloud-Speicher OneDrive mit 1 TB Speicherplatz zum Ablegen, Teilen und gemeinsamen Bearbeiten von Dateien. OneDrive bietet Versionstracking und Backups von Dateien. Über Microsoft 365 können Daten auch mit universitätsexternen Projektbeteiligten geteilt werden.
+### Cloud-Speicher: Microsoft 365 / OneDrive
 
-## Speicherdienst
+Die Universität Mannheim stellt [Microsoft 365](https://www.uni-mannheim.de/it/services/microsoft-365/) für Mitarbeitende und Studierende bereit. Darin enthalten ist der Cloud-Speicher OneDrive mit 1 TB Speicherplatz zum Ablegen, Teilen und gemeinsamen Bearbeiten von Dateien. OneDrive bietet Versionstracking und Backups. Über Microsoft 365 können Daten auch mit universitätsexternen Projektbeteiligten geteilt werden.
 
-Über die landesweite Infrastruktur wird der Speicherdienst [bwSync&Share](https://bwsyncandshare.kit.edu/) bereitgestellt, betrieben vom KIT. Sie können sich dort mit Ihrer Uni-ID direkt einloggen. Standardmäßig stehen 50 GB zur Verfügung, auf Anfrage ist eine Speichererweiterung auf 100 GB möglich. Daten und Verzeichnisse können auch mit universitätsexternen und landesexternen Projektbeteiligten geteilt werden.
+### Landesweiter Speicherdienst: bwSync&Share
 
-Das Team von UNIT berät zu weiteren Möglichkeiten in Bezug auf [Speicher und Rechenkapazität](https://www.uni-mannheim.de/it/lehre-forschung-und-verwaltung/) für Ihr Forschungsprojekt.
+Über die landesweite Infrastruktur steht der Speicherdienst [bwSync&Share](https://bwsyncandshare.kit.edu/) zur Verfügung, betrieben vom KIT. Die Anmeldung erfolgt mit der Uni-ID. Standardmäßig sind 50 GB Speicherplatz verfügbar, auf Anfrage ist eine Erweiterung auf 100 GB möglich. Daten und Verzeichnisse können mit universitäts- und landesexternen Projektbeteiligten geteilt werden.
+
+### Beratung zu Speicher und Rechenkapazität
+
+Das Team von UNIT berät zu [weiteren Möglichkeiten in Bezug auf Speicher und Rechenkapazität](https://www.uni-mannheim.de/it/lehre-forschung-und-verwaltung/) für Forschungsprojekte.
 
 ## IT-Sicherheitsmaßnahmen – unabhängig vom Speichermedium
 
-- Vertrauliche Daten sollten verschlüsselt werden, um sie vor unberechtigtem Zugriff zu schützen. Mehr Informationen zu passenden Verschlüsselungsverfahren und -programmen erhalten Sie auf den [Webseiten zur Verschlüsselung](https://www.uni-mannheim.de/informationssicherheit/sicherheitstipps/verschluesselung/) der Stabsstelle zur Informationssicherheit.
+- Vertrauliche Daten sollten verschlüsselt werden, um sie vor unberechtigtem Zugriff zu schützen. Informationen zu geeigneten Verschlüsselungsverfahren und -programmen finden Sie auf den Webseiten zur [Verschlüsselung](https://www.uni-mannheim.de/informationssicherheit/sicherheitstipps/verschluesselung/) der Stabsstelle Informationssicherheit.
 - Der Speicher sollte über ein automatisches Backup verfügen.
-- Zugriffsberechtigungen sollten auf das nötige Minimum beschränkt werden.
+- Zugriffsberechtigungen sollten auf das notwendige Minimum beschränkt werden.
 - Der Virenschutz auf allen Endgeräten sollte stets aktuell sein.
 - Für personenbezogene Daten sollte ein Löschkonzept vorhanden sein.
 
-Die [Stabsstelle Informationssicherheit](https://www.uni-mannheim.de/informationssicherheit/sicherheitstipps/) hat auf ihrer Webseite zur IT-Sicherheit weitere Maßnahmen zusammengestellt und berät Sie gerne auch individuell.
+Weitere Maßnahmen und individuelle Beratung bietet die Stabsstelle Informationssicherheit auf ihrer [Webseite zur IT-Sicherheit](https://www.uni-mannheim.de/informationssicherheit/sicherheitstipps/).

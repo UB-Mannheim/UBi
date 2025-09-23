@@ -13,30 +13,40 @@ Sie möchten die Universitätsbibliothek und ihr Angebot kennenlernen? Hier find
 
 ## Bibliotheksausweis
 
-[Informationen zum Bibliotheksausweis](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/):
-Wie melde ich mich an und welche Services der UB kann ich nutzen? Informationen für Angehörige der Universität Mannheim, Angehörige kooperierender Einrichtungen und Privatpersonen.
+[Informationen zum Bibliotheksausweis](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/)
+
+Erfahren Sie, wie Sie sich anmelden und welche Services der Universitätsbibliothek Sie nutzen können. Informationen für Angehörige der Universität Mannheim, kooperierender Einrichtungen und Privatpersonen.
 
 ## InfoCenter
 
-[InfoCenter – Zentrale Anlaufstelle](https://www.bib.uni-mannheim.de/standorte/infocenter/):
-Ihre zentrale Anlaufstelle für Auskunft und Beratung.
+[InfoCenter – Zentrale Anlaufstelle](https://www.bib.uni-mannheim.de/standorte/infocenter/)
+
+Das InfoCenter ist Ihre zentrale Anlaufstelle für Auskunft und Beratung rund um die Bibliothek.
 
 ## Erstiflyer der UB
 
-[Erstiflyer der UB (PDF, 2,23 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Erstiflyer_2024-08_DE_digit.pdf):
-Infos für den Einstieg finden Sie in unserem Erstiflyer. Herzlich willkommen!
+[Erstiflyer der UB (PDF, 2,23 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Erstiflyer_2024-08_DE_digit.pdf)
+
+Im Erstiflyer finden Sie kompakte Informationen für den Einstieg. Herzlich willkommen!
 
 ## Lageplan
 
-[Lageplan der Universitätsbibliothek](https://www.bib.uni-mannheim.de/footer/lageplan/):
-Wo finde ich den Bibliotheksbereich für mein Fach? Die Standorte der Universitätsbibliothek.
+[Lageplan der Universitätsbibliothek](https://www.bib.uni-mannheim.de/footer/lageplan/)
+
+Hier finden Sie die Standorte der Universitätsbibliothek und erfahren, wo sich der Bibliotheksbereich für Ihr Fach befindet.
 
 ## Internetzugang
 
-[Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/):
-WLAN-Netz eduroam, VPN-Client und Informationen der Universitäts-IT.
+[Internetzugang: WLAN, eduroam, VPN](https://www.bib.uni-mannheim.de/services/internetzugang/)
+
+Informationen zum WLAN-Netz eduroam, zum VPN-Client und zu den Angeboten der Universitäts-IT.
 
 ## Kurse und Tutorials
 
-[Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/):
-Alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials und Angebote für Schulen.
+[Kurse, Führungen und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
+
+Alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials und spezielle Angebote für Schulen.
+
+______________________________________________________________________
+
+Die Bibliotheken an der Universität Mannheim sind inspirierende Orte und werden gerne zur Klausurvorbereitung genutzt.
