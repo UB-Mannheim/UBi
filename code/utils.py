@@ -7,6 +7,43 @@ import yaml
 from pathlib import Path
 from rich import print
 
+STATE_FILE = Path("../data/app_state.json")
+
+
+def read_app_state(key: str, default: any = None) -> any:
+    """
+    Read a value from the app state JSON file.
+    """
+    if not STATE_FILE.exists():
+        return default
+    try:
+        with open(STATE_FILE, "r") as f:
+            state = json.load(f)
+        return state.get(key, default)
+    except (json.JSONDecodeError, IOError) as e:
+        print(f"Error reading state file: {e}")
+        return default
+
+
+def write_app_state(key: str, value: any) -> None:
+    """
+    Write a key-value pair to the app state JSON file.
+    """
+    state = {}
+    if STATE_FILE.exists():
+        try:
+            with open(STATE_FILE, "r") as f:
+                state = json.load(f)
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"Error reading state file, will create new one: {e}")
+
+    state[key] = value
+    try:
+        with open(STATE_FILE, "w") as f:
+            json.dump(state, f, indent=2)
+    except IOError as e:
+        print(f"Error writing to state file: {e}")
+
 
 def ensure_dir(dir) -> None:
     path = Path(dir)
