@@ -281,12 +281,12 @@ Ensure all links follow proper markdown syntax:
 Add the following yaml header WITHOUT markdown code block wrapping:
 <template>
 ---
-title: [Descriptive title optimized for retrieval - be specific about the document's main content]
-source_url_de: [German URL from document]
-source_url_en: [English URL if provided in <en_url> tags, otherwise omit]
-category: [EXACTLY ONE from: Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte, Kontakt]
-tags: [Maximum 8 precise, descriptive German keywords relevant for search]
-language: [de/en/other ISO code]
+title: Descriptive title optimized for retrieval - be specific about the document's main content
+source_url_de: German URL from document
+source_url_en: English URL if provided in <en_url> tags, otherwise omit
+category: EXACTLY ONE from: ['Benutzung', 'Öffnungszeiten', 'Standorte', 'Services', 'Medien', 'Projekte', 'Kontakt']
+tags: List of max. 8 precise, descriptive German keywords relevant for search, e.g. ['Bibliotheksprofil', 'Serviceangebot', 'Medien', 'Publikationsservices', 'Sammlungen', 'Drittmittelprojekte']
+language: de/en/other ISO code
 ---
 </template>
 

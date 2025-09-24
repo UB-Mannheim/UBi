@@ -25,7 +25,11 @@ from rss_reader import get_rss_items
 from session_stats import check_session_warnings, get_session_usage_message
 from terms_conditions import ask_terms_acceptance, check_terms_accepted
 from translations import translate
-from utils import extract_openai_response_data, print_openai_extracted_data
+from utils import (
+    extract_openai_response_data,
+    print_openai_extracted_data,
+    read_app_state,
+)
 
 
 # === .env Configuration ===
@@ -56,7 +60,7 @@ if USE_OPENAI_VECTORSTORE:
 
 # === Modify Chainlit's HTML template ===
 try:
-    last_updated_date = os.getenv("LAST_UPDATED_DATE", "")
+    last_updated_date = read_app_state("LAST_UPDATED_DATE", "")
     modify_html_template(last_updated_date)
 except Exception as e:
     print(f"[bold]Warning: Could not modify HTML template: {e}")

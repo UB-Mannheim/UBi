@@ -341,10 +341,8 @@ def initialize_vectorstore():
             if reupload_performed:
                 # If reupload was performed, write hash snapshot and return
                 utils.write_hashes_for_directory(DATA_DIR)
-                set_key(
-                    str(ENV_PATH),
-                    "LAST_UPDATED_DATE",
-                    date.today().strftime("%Y-%m-%d"),
+                utils.write_app_state(
+                    "LAST_UPDATED_DATE", date.today().strftime("%Y-%m-%d")
                 )
                 return
 
@@ -385,10 +383,8 @@ def initialize_vectorstore():
 
             # Write hash snapshot
             utils.write_hashes_for_directory(DATA_DIR)
-            set_key(
-                str(ENV_PATH),
-                "LAST_UPDATED_DATE",
-                date.today().strftime("%Y-%m-%d"),
+            utils.write_app_state(
+                "LAST_UPDATED_DATE", date.today().strftime("%Y-%m-%d")
             )
         else:
             print(
