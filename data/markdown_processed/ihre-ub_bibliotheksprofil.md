@@ -1,15 +1,15 @@
 ---
-title: Profil der Universitätsbibliothek Mannheim: Angebote, Zahlen, Sammlungen und Services
+title: Bibliotheksprofil der Universitätsbibliothek Mannheim – Angebote, Medien, Projekte und Sammlungen
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/bibliotheksprofil/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/library-profile/
 category: Benutzung
-tags: ['Universitätsbibliothek', 'Mannheim', 'Bibliotheksprofil', 'Serviceangebot', 'Medien', 'Publikationsservices', 'Sammlungen', 'Drittmittelprojekte']
+tags: ['Bibliotheksprofil', 'Serviceangebot', 'Medien', 'Publikationsservices', 'Sammlungen', 'Drittmittelprojekte', 'Nutzungsstatistik', 'Öffentlichkeitsarbeit']
 language: de
 ---
 
 # Bibliotheksprofil der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfrastruktur für Wissenschaft, Lehre und Studium an der Universität Mannheim – analog und digital. Auch Bürgerinnen und Bürger, Behörden und Unternehmen der Metropolregion können die Bibliothek nutzen.
+Die Universitätsbibliothek bietet die Informations- und Forschungsinfrastruktur für Wissenschaft, Lehre und Studium an der Universität Mannheim – analog und digital. Auch Bürgerinnen und Bürger, Behörden und Unternehmen der Metropolregion steht die Bibliothek offen.
 
 ## Zahlen und Fakten
 
@@ -38,19 +38,19 @@ Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfr
 
 ### Medienzugang
 
-- 11.600 konventionelle Medienzugänge pro Jahr
-- 44.700 digitale Medienzugänge pro Jahr
+- 11.600 konventionelle Medien jährlich neu erworben
+- 44.700 digitale Medien jährlich neu erworben
 
 ### Kurse und Beratung
 
-- 71.000 Anfragen an den Infotheken jährlich
-- 409 Kursstunden pro Jahr
-- 5.100 Teilnehmerinnen und Teilnehmer an Kursen jährlich
+- 71.000 Anfragen an den Infotheken pro Jahr
+- 409 Kursstunden jährlich
+- 5.100 Teilnehmerinnen und Teilnehmer an Kursen pro Jahr
 - Angebote: Kurse, Führungen, Online-Tutorials, fachliche Beratung, Schreibberatung, Chat und Infotheken
 
 ### Drittmittelprojekte
 
-Laufende Projekte der Universitätsbibliothek werden von verschiedenen Institutionen gefördert:
+Einige laufende Projekte der UB werden von verschiedenen Institutionen gefördert:
 
 - [Historische Daten besser nutzen](https://safe-frankfurt.de/de/forschung/forschungsprojekte/details/showproject/finance-and-business-research-from-a-long-term-perspective-utilizing-historical-german-financial-market-and-corporate-data-gerhisfin.html)
 - [Entwicklung von Werkzeugen zur rechtssicheren Präsentation multimedialer Objekte mit Kitodo.Presentation](https://gepris.dfg.de/gepris/projekt/554768123?language=de)
@@ -58,7 +58,7 @@ Laufende Projekte der Universitätsbibliothek werden von verschiedenen Instituti
 
 ### Publikationsservices
 
-Die Universitätsbibliothek unterstützt beim Publizieren und Open Access:
+Die Universitätsbibliothek berät rund um die Themen Publizieren und Open Access und unterstützt mit ihren Services beim Veröffentlichen von Forschungsergebnissen:
 
 - [MADOC](https://madoc.bib.uni-mannheim.de/)
 - [MADATA](https://madata.bib.uni-mannheim.de/)
@@ -72,12 +72,10 @@ Im weltweiten Ranking [U-Multirank](https://www.che.de/en/ranking-international/
 
 ## Sammlungen
 
-Die Universitätsbibliothek hat ihren Ursprung in den Institutsbibliotheken und der Zentralbibliothek der 1907 gegründeten Städtischen Handelshochschule. 1932 wurden diese Bibliotheken mit der Städtischen Schloßbücherei vereint, die später als Wissenschaftliche Stadtbibliothek Mannheim ausgegliedert wurde. Nach der Auflösung der Handelshochschule 1933 gingen die Bestände an die Universität Heidelberg, von wo sie 1946 größtenteils an die Staatliche Wirtschaftshochschule Mannheim zurückkehrten. Mit dem Ausbau zur Universität 1967 und der Integration von Beständen der aufgelösten Wissenschaftlichen Stadtbibliothek Mannheim 1970 wuchs der Bestand weiter. In den letzten 30 Jahren hat sich der Umfang der Buch- und Medienbestände verdoppelt, mit einem deutlichen Trend zu lizenzpflichtigen Online-Angeboten und E-Books.
+Die Universitätsbibliothek hat ihren Ursprung in den Institutsbibliotheken und der Zentralbibliothek der 1907 gegründeten Städtischen Handelshochschule. 1932 wurden diese Bibliotheken organisatorisch mit der Städtischen Schloßbücherei vereint, die später als Wissenschaftliche Stadtbibliothek Mannheim ausgegliedert wurde. Nach der Auflösung der Handelshochschule 1933 wurden deren Bestände der Universität Heidelberg übergeben. Die 1946 gegründete Staatliche Wirtschaftshochschule Mannheim erhielt den Großteil dieser Bücher zurück. Mit dem Ausbau zur Universität 1967 wuchs der Bestand weiter, insbesondere durch Zugänge aus der aufgelösten Wissenschaftlichen Stadtbibliothek Mannheim. In den letzten 30 Jahren hat sich der Umfang der Buch- und Medienbestände verdoppelt. Seit rund 10 Jahren verschiebt sich der Schwerpunkt bei wissenschaftlichen Zeitschriften und E-Books zunehmend zu lizenzpflichtigen Online-Angeboten.
 
 Weitere Informationen: [Sammlungen](https://www.bib.uni-mannheim.de/medien/sammlungen/)
 
 ## Öffentlichkeitsarbeit
 
-Die [Ansprechpersonen für Öffentlichkeitsarbeit](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren über Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), oft in Kooperation mit externen Einrichtungen.
-
-Folgen Sie der Universitätsbibliothek auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).
+Die [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren über Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), oft in Kooperation mit externen Einrichtungen. Besuchen Sie die Universitätsbibliothek auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).
