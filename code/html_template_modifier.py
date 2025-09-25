@@ -56,11 +56,16 @@ def backup_original_template(frontend_path):
     index_html = frontend_path / "index.html"
     backup_path = frontend_path / "index.html.backup"
 
-    if index_html.exists() and not backup_path.exists():
+    with open(index_html, "r", encoding="utf-8") as f:
+        content = f.read()
+    # If our marker is not in the file, it's pristine. Back it up.
+    if "<!-- AIMA MODIFICATIONS APPLIED -->" not in content:
         shutil.copy2(index_html, backup_path)
+        return True
+    return False
 
 
-def create_modified_template(frontend_path, last_updated_date=""):
+def create_modified_template(frontend_path):
     """Create a modified version of index.html with local assets."""
     index_html = frontend_path / "index.html"
 
@@ -100,32 +105,22 @@ def create_modified_template(frontend_path, last_updated_date=""):
         preconnect_links, "<!-- External preconnect links removed -->"
     )
 
-    # Add/update date variable
-    date_script_pattern = re.compile(
-        r'<script>\\s*window\\.lastUpdatedDate\\s*=\\s*".*?";\\s*</script>'
-    )
-    new_date_script = (
-        f'<script>window.lastUpdatedDate = "{last_updated_date}";</script>'
-    )
-
-    if date_script_pattern.search(modified_content):
-        # If it exists, replace it
-        modified_content = date_script_pattern.sub(
-            new_date_script, modified_content
-        )
-    else:
-        # If not, inject it before </head>
-        injection_script = f"\n{new_date_script}\n"
-        modified_content = modified_content.replace(
-            "</head>", f"{injection_script}</head>"
-        )
-
     # Add bundle.js
     bundle_js_script = '<script src="/public/bundle.js" defer></script>'
     if bundle_js_script not in modified_content:
         modified_content = modified_content.replace(
-            "</head>", f"    {bundle_js_script}\n  </head>"
+            "</head>", f"  {bundle_js_script}\n  </head>"
         )
+
+    # Add a marker to indicate that our script has modified this file.
+    marker = "\n<!-- AIMA MODIFICATIONS APPLIED -->\n"
+    if marker not in modified_content:
+        # Add it just before the closing </html> tag if it exists
+        if "</html>" in modified_content:
+            modified_content = modified_content.replace("</html>", f"{marker}</html>")
+        else:
+            # Otherwise, just append it
+            modified_content += marker
 
     # Write the modified template
     with open(index_html, "w", encoding="utf-8") as f:
@@ -152,24 +147,15 @@ def main(last_updated_date=""):
     if not frontend_path.exists():
         return False
 
-    # Check if we have our local assets
-    local_css_path = Path("public/css")
-    if not local_css_path.exists():
-        print(f"❌ Local CSS directory not found: {local_css_path}")
-        return False
-
-    required_files = ["fonts.css", "katex.min.css"]
-    missing_files = [
-        f for f in required_files if not (local_css_path / f).exists()
-    ]
-
-    if missing_files:
-        print(f"❌ Missing required files: {missing_files}")
-        return False
-
-    # Create backup and modify template
+    # 1. Create a backup of the original template if it doesn't exist.
     backup_original_template(frontend_path)
-    create_modified_template(frontend_path, last_updated_date)
+
+    # 2. ALWAYS restore from backup to ensure we start with a clean template.
+    # This prevents duplicate script injections on subsequent runs.
+    restore_original_template(frontend_path)
+
+    # 3. Apply our modifications to the clean template.
+    create_modified_template(frontend_path)
 
     print("\n🎉 Template modification completed!")
 

@@ -29,6 +29,7 @@ from utils import (
     extract_openai_response_data,
     print_openai_extracted_data,
     read_app_state,
+    write_last_updated_date,
 )
 
 
@@ -61,7 +62,8 @@ if USE_OPENAI_VECTORSTORE:
 # === Modify Chainlit's HTML template ===
 try:
     last_updated_date = read_app_state("LAST_UPDATED_DATE", "")
-    modify_html_template(last_updated_date)
+    write_last_updated_date(last_updated_date)
+    modify_html_template()
 except Exception as e:
     print(f"[bold]Warning: Could not modify HTML template: {e}")
 
