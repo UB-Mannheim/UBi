@@ -126,6 +126,8 @@ a {
 /* Custom Header Styles */
 #header {
     background-color: #00325d !important;
+    height: 46px !important;
+    padding: 10px 0px 10px 0px !important;
 }
 
 /* Default color for links and buttons inside the header */

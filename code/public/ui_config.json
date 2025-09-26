@@ -10,13 +10,15 @@
     "text": "Testversion des KI-Chats der UB Mannheim",
     "enabled": true,
     "styles": {
-      "font-size": "clamp(9px, 1.2vw + 0.4rem, 18px)",
+      "font-size": "clamp(3px, 1.3vw + 0.25rem, 16px)",
       "color": "rgb(255, 255, 255)",
       "fontFamily": "SFMono-Regular, Menlo, Monaco, Consolas, monospace",
       "text-shadow": "0 0 22px rgba(0, 102, 255, 0.41)",
       "word-wrap": "break-word",
       "overflow-wrap": "anywhere",
-      "line-height": "1.2"
+      "line-height": "1.2",
+      "letter-spacing": "1px",
+      "padding": "12px 0px 10px 0px"
     }
   },
   "footer": {
