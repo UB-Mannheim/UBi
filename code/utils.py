@@ -8,6 +8,7 @@ from pathlib import Path
 from rich import print
 
 STATE_FILE = Path("../data/app_state.json")
+UI_CONFIG_FILE = Path("./public/ui_config.json")
 
 
 def read_app_state(key: str, default: any = None) -> any:
@@ -23,6 +24,28 @@ def read_app_state(key: str, default: any = None) -> any:
     except (json.JSONDecodeError, IOError) as e:
         print(f"Error reading state file: {e}")
         return default
+
+
+def write_last_updated_date(value: any) -> None:
+    """
+    Write a key-value pair to the app state JSON file.
+    """
+    if UI_CONFIG_FILE.exists():
+        try:
+            with open(UI_CONFIG_FILE, "r") as f:
+                ui_config = json.load(f)
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"Error reading state file, will create new one: {e}")
+            return
+    else:
+        print(f"UI config file not found: {UI_CONFIG_FILE}")
+        return
+    ui_config["last_updated"] = value
+    try:
+        with open(UI_CONFIG_FILE, "w") as f:
+            json.dump(ui_config, f, indent=2)
+    except IOError as e:
+        print(f"Error writing to state file: {e}")
 
 
 def write_app_state(key: str, value: any) -> None:

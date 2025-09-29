@@ -1,0 +1,41 @@
+{
+  "last_updated": "2025-09-24",
+  "version": null,
+  "cookieConfig": {
+    "name": "accepted_terms",
+    "durationDays": 365,
+    "path": "/"
+  },
+  "heading": {
+    "text": "Testversion des KI-Chats der UB Mannheim",
+    "enabled": true,
+    "styles": {
+      "font-size": "clamp(3px, 1.3vw + 0.25rem, 16px)",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "SFMono-Regular, Menlo, Monaco, Consolas, monospace",
+      "text-shadow": "0 0 22px rgba(0, 102, 255, 0.41)",
+      "word-wrap": "break-word",
+      "overflow-wrap": "anywhere",
+      "line-height": "1.2",
+      "letter-spacing": "1px",
+      "padding": "12px 0px 10px 0px"
+    }
+  },
+  "footer": {
+    "copyright": "\u00a9 2025",
+    "links": {
+      "ubmannheim": {
+        "text": "UB Mannheim",
+        "href": "https://www.bib.uni-mannheim.de/"
+      },
+      "impressum": {
+        "text": "Impressum",
+        "href": "https://www.bib.uni-mannheim.de/impressum/"
+      },
+      "datenschutz": {
+        "text": "Datenschutz",
+        "href": "https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/"
+      }
+    }
+  }
+}
