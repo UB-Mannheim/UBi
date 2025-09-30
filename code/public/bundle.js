@@ -120,65 +120,40 @@ if (window.aimaBundleLoaded) {
     // This single event listener runs when the entire page is loaded
     window.addEventListener("load", async function initializeAimaUI() {
       try {
-        // 1. Fetch UI configuration
-        const response = await fetch('/public/ui_config.json');
-        if (!response.ok) {
-          console.error('AIMA: Failed to fetch UI config:', response.statusText);
-          return;
+        // 1. Fetch UI configuration files
+        let config = {};
+        let uiVars = {};
+        try {
+            const configResponse = await fetch('/public/ui_config.json');
+            if (configResponse.ok) {
+                config = await configResponse.json();
+            } else {
+                console.error('AIMA: Failed to fetch ui_config.json:', configResponse.statusText);
+            }
+            const varsResponse = await fetch('/public/ui_vars.json');
+            if (varsResponse.ok) {
+                uiVars = await varsResponse.json();
+            }
+        } catch (error) {
+            console.error('AIMA: Error fetching configuration files:', error);
         }
-        const config = await response.json();
 
-        // 2. Apply/merge Cookie Config from JSON
+        // 2. Determine the correct last_updated value with clear priority
+        // Use ui_config.json if it has a non-empty value, otherwise fall back to ui_vars.json
+        const lastUpdated = (config.last_updated && config.last_updated.trim() !== "")
+            ? config.last_updated
+            : uiVars.last_updated;
+
+        // 3. Apply/merge Cookie Config from JSON
         setCookieConfig(config.cookieConfig);
 
-        // 3. Create and configure the footer from JSON
-        footer = document.createElement("div");
-        const footerHeight = 18;
-
-        // Helper functions for footer styling
-        function getIsDarkMode() {
-          return document.documentElement.classList.contains("dark");
-        }
-        function getAppBackgroundColor() {
-          const root = document.querySelector("#root") || document.body;
-          return getComputedStyle(root).backgroundColor;
-        }
-        function updateFooterStyle() {
-          const isDark = getIsDarkMode();
-          Object.assign(footer.style, {
-            position: "fixed", bottom: "0", left: "0", width: "100%",
-            background: getAppBackgroundColor(),
-            color: isDark ? "#ccc" : "#999",
-            borderTop: `0px solid ${isDark ? "#444" : "#eee"}`,
-            fontSize: "12px", zIndex: "1000", height: `${footerHeight}px`,
-            display: "flex", justifyContent: "center", alignItems: "center", gap: "10px"
-          });
-          footer.querySelectorAll("a").forEach(link => {
-            link.style.color = isDark ? "#ccc" : "#999";
-            link.style.margin = "0 5px";
-            link.style.textDecoration = "none";
-          });
+        // 4. Create or Update Footer
+        if (config.footer) {
+            // Pass the config and the definitive lastUpdated value
+            createOrUpdateFooter(config, lastUpdated);
         }
 
-        // Build footer HTML from config
-        let linksHTML = '';
-        if (config.footer && config.footer.links) {
-            linksHTML = Object.values(config.footer.links).map(link =>
-                `·<a href="${link.href}" target="_blank">${link.text}</a>`
-            ).join('');
-        }
-        const versionText = config.last_updated ? `· v${config.last_updated}` : "";
-        const copyrightText = `(config.footer && config.footer.copyright)} ` ? config.footer.copyright : '';
-
-        footer.innerHTML = `<span>${copyrightText}${linksHTML}${versionText}</span>`;
-
-        document.body.appendChild(footer);
-        updateFooterStyle();
-        const themeObserver = new MutationObserver(() => updateFooterStyle());
-        themeObserver.observe(document.documentElement, { attributes: true, attributeFilter: ["class"] });
-        setTimeout(updateFooterStyle, 50);
-
-        // 4. Create and configure the heading from JSON
+        // 5. Create and configure the heading from JSON
         if (config.heading && config.heading.enabled) {
           Heading = document.createElement("div");
           Heading.id = "beta-heading";
@@ -196,7 +171,7 @@ if (window.aimaBundleLoaded) {
           document.body.appendChild(Heading);
         }
 
-        // 5. Set up the logic to show/hide elements when the policy is viewed
+        // 6. Set up the logic to show/hide elements when the policy is viewed
         waitForReadmeButton();
 
       } catch (error) {
@@ -241,3 +216,56 @@ if (window.aimaBundleLoaded) {
       }
     }
 } // End of the main execution block
+
+// 3. Create or Update Footer
+function createOrUpdateFooter(config, lastUpdated) {
+    let footer = document.getElementById("app-footer");
+    if (!footer) {
+        footer = document.createElement("div");
+        footer.id = "app-footer";
+        document.body.appendChild(footer);
+    }
+
+    // Build footer links HTML from config
+    let linksHTML = '';
+    if (config.footer && config.footer.links) {
+        linksHTML = Object.values(config.footer.links).map(link =>
+            `·<a href="${link.href}" target="_blank">${link.text}</a>`
+        ).join('');
+    }
+
+    // Determine the version/date string from the definitive value passed in
+    let versionText = "";
+    if (lastUpdated) {
+        versionText = `· v${lastUpdated}`;
+    }
+    
+    const copyrightText = (config.footer && config.footer.copyright) ? config.footer.copyright : '';
+
+    footer.innerHTML = `<span>${copyrightText}${linksHTML}${versionText}</span>`;
+
+    // Style the footer and its links
+    updateFooterStyle(footer);
+}
+
+// 4. Update Footer Styling (handles dark mode)
+function updateFooterStyle(footerElement) {
+    const footerHeight = 18;
+    const isDark = document.documentElement.classList.contains("dark");
+    const root = document.querySelector("#root") || document.body;
+    const appBackgroundColor = getComputedStyle(root).backgroundColor;
+
+    Object.assign(footerElement.style, {
+        position: "fixed", bottom: "0", left: "0", width: "100%",
+        background: appBackgroundColor,
+        color: isDark ? "#ccc" : "#999",
+        borderTop: `0px solid ${isDark ? "#444" : "#eee"}`,
+        fontSize: "12px", zIndex: "1000", height: `${footerHeight}px`,
+        display: "flex", justifyContent: "center", alignItems: "center", gap: "10px"
+    });
+    footerElement.querySelectorAll("a").forEach(link => {
+        link.style.color = isDark ? "#ccc" : "#999";
+        link.style.margin = "0 5px";
+        link.style.textDecoration = "none";
+    });
+}
