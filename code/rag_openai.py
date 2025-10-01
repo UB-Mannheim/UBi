@@ -341,8 +341,8 @@ def initialize_vectorstore():
             if reupload_performed:
                 # If reupload was performed, write hash snapshot and return
                 utils.write_hashes_for_directory(DATA_DIR)
-                utils.write_app_state(
-                    "LAST_UPDATED_DATE", date.today().strftime("%Y-%m-%d")
+                utils.write_dynamic_ui_var(
+                    "last_updated", date.today().strftime("%Y-%m-%d")
                 )
                 return
 
@@ -383,12 +383,23 @@ def initialize_vectorstore():
 
             # Write hash snapshot
             utils.write_hashes_for_directory(DATA_DIR)
-            utils.write_app_state(
-                "LAST_UPDATED_DATE", date.today().strftime("%Y-%m-%d")
+            utils.write_dynamic_ui_var(
+                "last_updated", date.today().strftime("%Y-%m-%d")
             )
         else:
             print(
                 "[bold green]No changes detected in DATA_DIR since last sync. Skipping vectorstore upload."
             )
+            # If no changes, update the timestamp to the last data check time
+            try:
+                # Corrected path to the hash file
+                print("[bold]Updating last_updated timestamp from md_hashes.json ...")
+                snapshot_path = Path(DATA_DIR) / "snapshot" / "md_hashes.json"
+                if snapshot_path.exists():
+                    last_mod_time = date.fromtimestamp(snapshot_path.stat().st_mtime)
+                    utils.write_dynamic_ui_var("last_updated", last_mod_time.strftime("%Y-%m-%d"))
+            except Exception as e:
+                print(f"Warning: Could not update timestamp from md_hashes.json: {e}")
+
     except Exception as e:
         print(f"Error: {e}")

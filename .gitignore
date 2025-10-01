@@ -6,3 +6,4 @@
 .DS_Store
 __pycache__/
 *~
+/code/public/ui_vars.json
