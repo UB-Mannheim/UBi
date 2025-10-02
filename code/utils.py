@@ -2,10 +2,11 @@ import datetime
 import hashlib
 import json
 import shutil
-from urllib.parse import urlparse
 import yaml
 from pathlib import Path
 from rich import print
+from typing import List
+from urllib.parse import urlparse
 
 UI_VARS_FILE = Path("./public/ui_vars.json")
 
@@ -61,6 +62,64 @@ def backup_dir_with_timestamp(dir_path):
         backup_path = backup_dir / f"{path.name}_backup_{timestamp}"
         shutil.copytree(path, backup_path)
         print(f"[bold cyan][BACKUP] {dir_path} -> {backup_path} ... Done.")
+
+
+def clean_old_backup_dirs(
+    backups_dir: str | Path = "../data/backups",
+    max_age_days: int = 7
+) -> List[Path]:
+    """
+    Delete backup directories older than `max_age_days` from `backups_dir`.
+
+    Returns a list of Paths that were deleted.
+    """
+    deleted: List[Path] = []
+    try:
+        base = Path(backups_dir)
+        if not base.exists() or not base.is_dir():
+            return deleted
+
+        cutoff = datetime.datetime.now() - datetime.timedelta(
+            days=max_age_days
+        )
+
+        for entry in base.iterdir():
+            # Only consider directories
+            if not entry.is_dir():
+                continue
+            try:
+                backup_time = None
+                dir_name = entry.name
+
+                # Look for _backup_YYYYMMDD_HHMMSS pattern
+                if "_backup_" in dir_name:
+                    parts = dir_name.split("_backup_")
+                    if len(parts) == 2:
+                        timestamp_str = parts[1]  # e.g., "20250930_093734"
+                        try:
+                            backup_time = datetime.datetime.strptime(
+                                timestamp_str,
+                                "%Y%m%d_%H%M%S"
+                            )
+                        except ValueError:
+                            pass
+
+                # Fall back to filesystem modification time if parsing failed
+                if backup_time is None:
+                    backup_time = datetime.datetime.fromtimestamp(
+                        entry.stat().st_mtime
+                    )
+
+                # Delete if older than cutoff
+                if backup_time < cutoff:
+                    shutil.rmtree(entry)
+                    deleted.append(entry)
+            except Exception as e:
+                print(f"[bold yellow]Warning: Could not remove {entry}: {e}")
+                continue
+    except Exception as e:
+        print(f"[bold yellow]Warning: Backup cleanup failed: {e}")
+    return deleted
 
 
 def compute_file_hash(file_path):

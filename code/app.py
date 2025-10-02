@@ -28,6 +28,7 @@ from translations import translate
 from utils import (
     extract_openai_response_data,
     print_openai_extracted_data,
+    clean_old_backup_dirs
 )
 
 
@@ -62,6 +63,21 @@ try:
     modify_html_template()
 except Exception as e:
     print(f"[bold]Warning: Could not modify HTML template: {e}")
+
+
+# === Backup Cleanup ===
+try:
+    deleted = clean_old_backup_dirs(
+        "../data/backups",
+        max_age_days=int(os.getenv("DELETE_BACKUPS_AFTER"))
+    )
+    if deleted:
+        print(f"[bold]🧹 Pruned {len(deleted)} old backup(s):")
+        print("\n".join(p.name for p in deleted))
+    else:
+        print("[bold]🧹 No backups to prune")
+except Exception as e:
+    print(f"[bold]Warning: Could not prune backups: {e}")
 
 
 # === Authentication (optional) ===
