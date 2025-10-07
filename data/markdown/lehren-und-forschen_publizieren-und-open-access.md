@@ -114,7 +114,7 @@ Für Publikationen in diesen Zeitschriften können Sie zusätzlich eine Finanzie
 Im Rahmen des [Publish and Read Vertrags](https://benjamins.com/content/authors/read_publish_deals) mit dem Verlag John Benjamins Publishing Company können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim Publikationen im Open Access in allen Zeitschriften des Verlags ohne zusätzliche Kosten veröffentlichen. Dies gilt unter folgenden Voraussetzungen:
 
 - Sie sind mit der Universität Mannheim affiliiert und als „corresponding author“ für den Artikel zuständig
-- Ihr Artikel wurde zwischen dem 1. Januar 2025 und dem 31. Dezember 2025 eingereicht
+- Ihr Artikel wurde zwischen dem 1. Januar 2025 und dem 31. Dezember 2026 eingereicht
 - Der Artikel gehört zum Typ: „research article“, „review“ oder „introductory article“
 
 Verwenden Sie beim Einreichungsprozess die E-Mail-Adresse der Universität und geben Sie in Ihrer Publikation die Universität Mannheim als Affiliation an. Anhand dieser Angaben werden Sie vom Verlag als berechtigt identifiziert.
