@@ -192,3 +192,7 @@ class CustomDataLayer(BaseDataLayer):
                 "tags": tags,
                 "metadata": json.dumps(metadata) if metadata else None,
             }
+
+    async def close(self) -> None:
+        """No-op close hook to satisfy Chainlit 2.8+ data layer contract."""
+        return None

@@ -98,7 +98,7 @@ def get_data_layer():
 
 # === Starter Buttons ===
 @cl.set_starters
-async def set_starters(user=None):
+async def set_starters(user=None, _language=None):
     return [
         cl.Starter(
             label="Öffnungszeiten",

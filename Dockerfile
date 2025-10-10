@@ -7,7 +7,7 @@ WORKDIR /app
 
 COPY ./code/requirements.txt /app
 
-RUN pip install --root-user-action ignore --upgrade pip && \
+RUN pip install --root-user-action ignore --upgrade pip wheel && \
     pip install --root-user-action ignore -r requirements.txt && \
     rm -rf /root/.cache
 
