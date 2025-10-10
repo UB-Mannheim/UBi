@@ -7,9 +7,11 @@ As a collective term, Open Science includes both classical aspects such as Open 
 The University of Mannheim is committed to transparent and replicable research and encourages these goals through research practices of open science (such as e.g. pre-registration, open data, open materials and open source). On a national level the university joined the [German Reproducibility Network](https://reproducibilitynetwork.de/) (GRN) in July 2022. Since autumn 2022, the university's recruitment guidelines (see [Bewerbungsleitfaden ](https://intranet.uni-mannheim.de/arbeitsplatz/personalangelegenheiten/personalabteilung/professorinnen-und-professoren/berufung-und-ernennung/)in the intranet) have included a request for a planned contribution to Open Science as an option in the application documents for professorships. Moreover, it has established an [Open Science Office](https://www.uni-mannheim.de/open-science/open-science-office/) supporting its researchers at all career stages and from all disciplines.
 
 
-### Open Science Office
+### [Open Science Office](https://www.uni-mannheim.de/open-science/open-science-office/)
 
+Open Science Office
 The Open Science Office fosters and supports Open Science approaches of researchers across all academic disciplines at the University of Mannheim.
+
 
 
 ### [Best Practices](https://www.uni-mannheim.de/open-science/best-practices/)
