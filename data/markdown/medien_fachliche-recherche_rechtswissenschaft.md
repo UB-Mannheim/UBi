@@ -71,7 +71,7 @@ Die UB bietet regelmäßig Schulungen zur Recherche im Fach Rechtswissenschaft a
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
 **Kurse für das Fach Rechtswissenschaft**
-[Urteile und Aufsätze finden – Recherchestrategie für Jurastudierende](https://portal2.uni-mannheim.de:443/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79322&periodId=926&navigationPosition=hisinoneLehrorganisation,examEventOverviewOwn)
+[Datenbanken und Recherchestrategie für die Hausarbeit](https://portal2.uni-mannheim.de:443/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79322&periodId=926&navigationPosition=hisinoneLehrorganisation,examEventOverviewOwn)
 
 
 ## Wissenschaftliches Arbeiten

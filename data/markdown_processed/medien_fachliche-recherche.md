@@ -2,20 +2,20 @@
 title: Fachreferentinnen und Fachreferenten der Universitätsbibliothek Mannheim – Fachliche Recherche und Kontaktinformationen
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/
-category: Kontakt
-tags: ['Fachreferenten', 'Fachliche Recherche', 'Universitätsbibliothek', 'Beratung', 'Kontakt', 'Fachgebiete', 'Literatur', 'Datenbanken']
+category: Services
+tags: ['Fachreferenten', 'Fachberatung', 'Literaturrecherche', 'Datenbanken', 'Fachgebiete', 'Kontakt', 'Universitätsbibliothek', 'Informationskompetenz']
 language: de
 ---
 
-# Fachliche Recherche – Fachreferentinnen und Fachreferenten der Universitätsbibliothek Mannheim
+# Fachliche Recherche an der Universitätsbibliothek Mannheim
 
-Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken, weitere Sucheinstiege sowie fachspezifische Recherchekurse. Für individuelle Auskünfte oder Beratung wenden Sie sich bitte an die zuständigen Fachreferentinnen und Fachreferenten.
+Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken, weitere Sucheinstiege sowie fachspezifische Recherchekurse. Für individuelle Auskünfte oder Beratungen stehen Ihnen die Fachreferentinnen und Fachreferenten zur Verfügung.
 
-## Übersicht der Fachreferentinnen und Fachreferenten
+## Fachreferentinnen und Fachreferenten – Zuständigkeiten und Kontakt
 
 ### Dr. Rudolf Nink, M.A.
 
-**Fachgebiete:**
+**Fachreferent für:**
 
 - Allgemeines
 - Allgemeine Sprach- und Literaturwissenschaft
@@ -32,14 +32,10 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 
 ### Viktor Boecking, M.A.
 
-**Fachgebiete:**
+**Leiter der Abteilung Kommunikation | Fachreferent für:**
 
 - Geschichte
 - E-Learning
-
-**Funktion:**
-
-- Leiter der Abteilung Kommunikation
 
 **Kontakt:**
 
@@ -49,13 +45,9 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 
 ### Christos Sidiropoulos, M.Ed.
 
-**Fachgebiete:**
+**Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für:**
 
 - Mathematik
-
-**Funktion:**
-
-- Referent für Forschungsdatenmanagement (Data Literacy)
 
 **Kontakt:**
 
@@ -64,27 +56,41 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 - E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)
 - ORCID: [0009-0001-3341-3149](https://orcid.org/0009-0001-3341-3149)
 
-### Dr. Marion von Francken-Welz
+### Dr. Hendrik Platte
 
-**Fachgebiete:**
+**Fachreferent für:**
 
-- Rechtswissenschaft
-
-**Funktion:**
-
-- Stellvertretende Leiterin der Abteilung Medienbearbeitung
+- Politikwissenschaft
+- Soziologie
+- Psychologie
+- Ansprechpartner EDZ
 
 **Kontakt:**
 
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
-- Telefon: +49 621 181-3024
-- E-Mail: [marion.francken-welz@uni-mannheim.de](mailto:marion.francken-welz@uni-mannheim.de)
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
+- Telefon: +49 621 181-2990
+- E-Mail: [edz.ub@uni-mannheim.de](mailto:edz.ub@uni-mannheim.de)
+
+### Dr. Jorge Murcia Serra
+
+**Informationskompetenz und E-Learning | Fachreferent für:**
+
+- Romanistik
+- Sprachlernmaterialien
+- Education & Training für BERD@NFDI
+
+**Kontakt:**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
+- Telefon: +49 621 181-2997
+- E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
+
+______________________________________________________________________
 
 ## Fachgebiete und Rechercheportale
 
-Für jedes Fachgebiet stehen spezifische Rechercheportale und weiterführende Informationen zur Verfügung:
+Für jedes Fachgebiet stehen eigene Rechercheportale und weiterführende Informationen zur Verfügung:
 
-- [Allgemeine Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/)
 - [Anglistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/)
 - [Betriebswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/)
 - [Germanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/germanistik/)
@@ -99,6 +105,7 @@ Für jedes Fachgebiet stehen spezifische Rechercheportale und weiterführende In
 - [Rechtswissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/rechtswissenschaft/)
 - [Romanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/)
 - [Soziologie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/soziologie/)
+- [Allgemeine Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/)
 - [Volkswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/volkswirtschaftslehre/)
 
-Für weiterführende Informationen und individuelle Beratung wenden Sie sich bitte an die jeweiligen Fachreferentinnen und Fachreferenten.
+Für weitere Informationen und individuelle Beratung wenden Sie sich bitte an die zuständigen Fachreferentinnen und Fachreferenten.

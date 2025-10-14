@@ -128,12 +128,12 @@ Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für Math
 
 
 
-### Dr. Rudolf Nink, M.A.
+### Vanessa Kolb
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
-- Telefon: +49 621 181-3053
-- E-Mail: rudolf.nink@uni-mannheim.de
+Fachreferentin für Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 109, 68159 Mannheim
+- Telefon: +49 621 181-3958
+- E-Mail: vanessa.kolb@uni-mannheim.de
 
 
 ### Pädagogik und Wirtschaftspädagogik

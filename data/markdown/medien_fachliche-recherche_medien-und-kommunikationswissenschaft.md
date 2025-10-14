@@ -102,17 +102,10 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 
 
-### Dr. Rudolf Nink, M.A.
+### Vanessa Kolb
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
-
-Aufgaben:
-
-- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
-- Vertretung Politikwissenschaft, Psychologie, Soziologie
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
-- Telefon: +49 621 181-3053
-- E-Mail: rudolf.nink@uni-mannheim.de
-Vertretung[Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
+Fachreferentin für Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 109, 68159 Mannheim
+- Telefon: +49 621 181-3958
+- E-Mail: vanessa.kolb@uni-mannheim.de
+Vertretung[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
