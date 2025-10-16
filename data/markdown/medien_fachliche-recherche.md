@@ -16,7 +16,7 @@ Bitte wenden Sie sich für eine individuelle Auskunft oder Beratung an unsere Fa
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
+Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de
@@ -32,7 +32,7 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
+Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de
@@ -64,7 +64,7 @@ Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädago
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
+Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de
@@ -162,7 +162,7 @@ Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädago
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
+Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de
@@ -270,7 +270,7 @@ Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachle
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
+Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de

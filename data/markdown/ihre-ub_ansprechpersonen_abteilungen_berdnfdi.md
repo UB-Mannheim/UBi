@@ -25,14 +25,14 @@ Projektmanagerin für BERD@NFDI
 
 ### Dr. Renat Shigapov
 
-Referent für Data Science und Data Scientist im FDZ | Koordinator der NFDI AG „Knowledge Graphs“
+Lead Data Scientist | Projektleiter
 
 Aufgaben:
 
-- Unterstützung von Forschenden bei der Anwendung von Data-Science-Methoden und FAIRem Forschungsdatenmanagement
-- Weiterentwicklung des technischen Forschungsdatenmanagements
-- Vermittlung von Informations- und Datenkompetenz
-- Vertretung des FDZ innerhalb (inter-)nationaler Kooperationsprojekte
+- Strategische Weiterentwicklung des technischen Forschungsdatenmanagements
+- Beratung von Wissenschaftler*innen zu Forschungsdatenmanagement, Data Science und KI-Tools
+- Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI
+- Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
 - E-Mail: renat.shigapov@uni-mannheim.de
@@ -69,3 +69,19 @@ Aufgaben:
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
 - E-Mail: jorge.murcia@uni-mannheim.de
+
+
+### Vanessa Kolb
+
+Fachreferentin für Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für das Fach Medien- und Kommunikationswissenschaft
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Education & Training im Projekt BERD@NFDI
+- Mitarbeit im Team Publikationsservices und Forschungsunterstützung
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 109, 68159 Mannheim
+- Telefon: +49 621 181-3958
+- E-Mail: vanessa.kolb@uni-mannheim.de

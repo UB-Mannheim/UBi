@@ -49,14 +49,14 @@ Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB
 
 ### Dr. Renat Shigapov
 
-Referent für Data Science und Data Scientist im FDZ | Koordinator der NFDI AG „Knowledge Graphs“
+Lead Data Scientist | Projektleiter
 
 Aufgaben:
 
-- Unterstützung von Forschenden bei der Anwendung von Data-Science-Methoden und FAIRem Forschungsdatenmanagement
-- Weiterentwicklung des technischen Forschungsdatenmanagements
-- Vermittlung von Informations- und Datenkompetenz
-- Vertretung des FDZ innerhalb (inter-)nationaler Kooperationsprojekte
+- Strategische Weiterentwicklung des technischen Forschungsdatenmanagements
+- Beratung von Wissenschaftler*innen zu Forschungsdatenmanagement, Data Science und KI-Tools
+- Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI
+- Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
 - E-Mail: renat.shigapov@uni-mannheim.de

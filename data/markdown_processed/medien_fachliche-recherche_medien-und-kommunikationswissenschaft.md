@@ -9,7 +9,7 @@ language: de
 
 # Medien- und Kommunikationswissenschaft an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikationswissenschaft (MKW) ein breites Spektrum an Literatur, Datenbanken und weiteren Recherchetools. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, die beim wissenschaftlichen Arbeiten unterstützen.
+Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikationswissenschaft (MKW) umfassende Literatur, Datenbanken und weitere Recherchezugänge. Neben individueller Beratung stehen regelmäßig Kurse und Tutorials zur Verfügung, die beim wissenschaftlichen Arbeiten und der Recherche unterstützen.
 
 ## Recherchieren
 
@@ -25,7 +25,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikat
 ### E-Journals
 
 - [Elektronische Zeitschriftenbibliothek (EZB) – Medien- und Kommunikationswissenschaft, Publizistik](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AP)
-- Ergänzende E-Journals:
+- Ergänzende Zeitschriften:
   - [Allgemeines](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AZ)
   - [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=E)
 
@@ -43,7 +43,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikat
 - [Oxford Research Encyclopedia of Communication](https://oxfordre.com/communication/browse/)
 - [Springer eBooks: Literature, Cultural & Media Studies](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Springer%20eBooks%20Literature,%20Cultural%20%26%20Media%20Studies&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0)
 - [Springer Link 'Communication Studies'](https://link.springer.com/search?facet-content-type=%22Book%22&facet-sub-discipline=%22Communication+Studies%22) (z. B. [Handbuch Politische Kommunikation](https://link.springer.com/book/10.1007/978-3-658-26233-4))
-- [Transcript Open Access](https://www.transcript-verlag.de/open-access/?f=12320&p=1)
+- [Transcript](https://www.transcript-verlag.de/open-access/?f=12320&p=1)
 
 ### Fachliche Internetquellen
 
@@ -61,7 +61,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikat
 
 ### Literaturstandorte
 
-- [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): Literatur zum Fach Medien- und Kommunikationswissenschaft, frei zugänglich, nach [Themengebieten (RVK)](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihe nur für wissenschaftliches Personal.
+- [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): Literatur zum Fach Medien- und Kommunikationswissenschaften, frei zugänglich, nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihe nur für wissenschaftliches Personal.
 - [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Weitere Literatur, ausleihbar mit ecUM oder UB-Chipkarte.
 - [Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0): Wichtige Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen.
 - Recherche aller Bestände im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
@@ -73,7 +73,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikat
 
 ## Kurse und Tutorials
 
-Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Medien- und Kommunikationswissenschaft an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche im Fach Medien- und Kommunikationswissenschaft an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -91,10 +91,19 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 
 ### Vanessa Kolb
 
-Fachreferentin für Medien- und Kommunikationswissenschaft
-Education & Training für BERD@NFDI
-Publikationsdienste und Forschungsunterstützung
-Universität Mannheim, Universitätsbibliothek, A3 – Raum 109, 68159 Mannheim
-Telefon: +49 621 181-3958
-E-Mail: [vanessa.kolb@uni-mannheim.de](mailto:vanessa.kolb@uni-mannheim.de)
-Vertretung: [Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
+**Fachreferentin für Medien- und Kommunikationswissenschaft**
+Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
+
+**Aufgaben:**
+
+- Literaturauswahl und -erschließung für das Fach Medien- und Kommunikationswissenschaft
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Education & Training im Projekt BERD@NFDI
+- Mitarbeit im Team Publikationsservices und Forschungsunterstützung
+
+**Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 109, 68159 Mannheim
+**Telefon:** +49 621 181-3958
+**E-Mail:** [vanessa.kolb@uni-mannheim.de](mailto:vanessa.kolb@uni-mannheim.de)
+
+**Vertretung:** [Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)

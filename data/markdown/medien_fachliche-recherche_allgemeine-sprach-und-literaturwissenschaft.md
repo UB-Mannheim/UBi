@@ -150,12 +150,12 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
+Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 
 Aufgaben:
 
-- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Medien- und Kommunikationswissenschaft, Philosophie
-- Vertretung Politikwissenschaft, Psychologie, Soziologie
+- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
+- Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
