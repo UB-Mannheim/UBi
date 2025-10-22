@@ -132,11 +132,11 @@ Die an der UB vorhandene Literatur können Sie im [Katalog Primo](https://primo.
 
 ### Forschungseinrichtungen vor Ort
 
+[Anglistisches Seminar](https://www.phil.uni-mannheim.de/anglistik/) der [Universität Mannheim](https://www.phil.uni-mannheim.de/anglistik/)
 [Bibliothek des DAI Heidelberg](https://dai-heidelberg.de/de/unsere-angebote/bibliothek/) – [eBook-Catalogue](https://ebooksusa.overdrive.com/)
 [HULC Lab](https://hulclab.eu/) (Heidelberg)
 [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/bibliothek/) mit einer Spezialbibliothek zur Linguistik
-[Mannheim Eye LAB](https://www.phil.uni-mannheim.de/anglistik/abteilungen/anglistik-i/forschung/ma-eye-lab-a-i/)
-[Universität Mannheim – Anglistisches Seminar](https://www.phil.uni-mannheim.de/anglistik/)
+[Mannheim Eye LAB](https://www.phil.uni-mannheim.de/anglistik/)
 
 
 ## Kurse und Tutorials
