@@ -77,6 +77,14 @@ Aufgaben:
 - ORCID-ID: 0000-0002-0167-3683 (https://orcid.org/0000-0002-0167-3683)
 
 
+### Jan Kamlah
+
+Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)
+- Adresse: Universität Mannheim, Universitätsbibliothek, 68161 Mannheim
+- Telefon: +49 621 181-2777
+- E-Mail: jan.kamlah@uni-mannheim.de
+
+
 ### Dr. Phil Kolbe
 
 Referent für Forschungsdatenmanagement (Sozialwissenschaften)
