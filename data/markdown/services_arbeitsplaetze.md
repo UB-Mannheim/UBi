@@ -27,7 +27,7 @@ Notebooks sind nach Vorbestellung über den Katalog Primo für Universitätsange
 - [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/): Offener Bereich im EG und UG
 - [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/): 6 Räume im 3. OG West
 - [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/): 5 Räume im 2. OG und offener Gruppenarbeitsbereich EG
-- [Bibliotheksbereich Schloss Schneckenhof – Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. OG West
+- [Bibliotheksbereich Schloss Schneckenhof – Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. OG West (vom 10. November bis zum 21. Dezember 2025 Ruhearbeitsbereich)
 - [Bibliotheksbereich Schloss Schneckenhof – ExpLAB](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/): Offener Bereich im EG
 
 
