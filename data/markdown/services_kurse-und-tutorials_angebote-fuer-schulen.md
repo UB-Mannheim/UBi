@@ -12,7 +12,7 @@ Unser Angebot richtet sich an gymnasiale Oberstufen in der Region, insbesondere 
 
 ## Kursangebot
 
-Führungen und Kurse für Schulen bieten wir von**Januar bis April**und von**September bis Oktober**an. Zusätzlich zu den Workshops vor Ort veranstalten wir auch Online-Kurse via Zoom.
+Führungen und Kurse für Schulen bieten wir von**Januar bis April**und von**September bis Oktober**an.
 **Kontakt**
 Unser Schülerkursteam ist gerne für Sie da: schulungen.ub@uni-mannheim.de.
 Bitte melden Sie sich mindestens 14 Tage vorab über unser [Online-Formular](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/anmeldung-fuer-schulen/) an.

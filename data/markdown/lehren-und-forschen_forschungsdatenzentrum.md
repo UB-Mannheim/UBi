@@ -55,7 +55,7 @@ Ein Überblick über Projekte, die das FDZ rund um Forschungsdaten unterstützt.
 ### [German Internet Panel (GIP)](https://www.uni-mannheim.de/gip/)
 
 German Internet Panel (GIP)
-Eine langfristige Studie an der Universität Mannheim zur Untersuchung individueller Einstellungen und Präferenzen.
+Eine Infrastruktur für Befragungen und langfristige Studie an der Universität Mannheim zur Untersuchung individueller Einstellungen und Präferenzen.
 
 
 
