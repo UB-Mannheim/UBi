@@ -5,7 +5,7 @@
 
 
 
-### Viktor Boecking, M.A. (er/ihn)
+### Viktor Boecking, M.A. (er/ihm)
 
 Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
 
