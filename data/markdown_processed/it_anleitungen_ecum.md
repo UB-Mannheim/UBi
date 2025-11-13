@@ -1,9 +1,9 @@
 ---
-title: ecUM Chipkarte der Universität Mannheim – Funktionen, Nutzung, FAQs und Support
+title: ecUM Chipkarte der Universität Mannheim – Funktionen, Nutzung, FAQ und Support
 source_url_de: https://www.uni-mannheim.de/it/anleitungen/ecum/
 source_url_en: https://www.uni-mannheim.de/en/it/instructions/ecum/
 category: Services
-tags: ['ecUM', 'Chipkarte', 'Studierendenausweis', 'Bibliotheksausweis', 'Zutrittskontrolle', 'SB-Terminals', 'Bezahlen', 'Support']
+tags: ['ecUM', 'Chipkarte', 'Studierendenausweis', 'Bibliotheksausweis', 'Zutrittskontrolle', 'SB-Terminals', 'Bezahlen', 'IT-Support']
 language: de
 ---
 
@@ -31,64 +31,61 @@ Ab dem 1. Juli 2025 wird die ecUM standardmäßig ohne Foto ausgestellt. Sie ist
 
 Weitere Informationen zur ecUM als Gasthörendenausweis: [Gasthörendenstudium](https://www.uni-mannheim.de/studium/lebenslanges-lernen/gasthoerendenstudium/#c22202)
 
-# FAQs zur ecUM
+______________________________________________________________________
 
-## Wie erhalte ich als Erstsemester meine ecUM?
+## FAQ zur ecUM
+
+### Wie erhalte ich als Erstsemester meine ecUM?
 
 - Nach Abschluss der Immatrikulation wird die ecUM erstellt und Sie werden per E-Mail benachrichtigt.
-- Die ecUM wird an die hinterlegte deutsche Postanschrift gesendet.
-  **Ab dem 5. September 2025:** Persönliche Abholung [beim IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/).
-- Austauschstudierende oder Studierende mit ausländischer Adresse: Abholung nach Benachrichtigung beim IT Support im InfoCenter des Schloss Schneckenhof.
-- Nach Erhalt der ecUM ist eine einmalige Aktivierung erforderlich.
+- Die ecUM wird an die hinterlegte deutsche Postanschrift gesendet. **Ab dem 5. September 2025** erfolgt keine postalische Zustellung mehr. Ab dann ist die persönliche Abholung beim [IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/) erforderlich.
+- Austauschstudierende oder Studierende mit ausländischer Adresse holen die ecUM nach Benachrichtigung beim IT Support ab.
+- Nach Erhalt muss die ecUM einmalig aktiviert werden.
 
-## Wie aktiviere ich meine ecUM?
+### Wie aktiviere ich meine ecUM?
 
-1. Einmalige Aktivierung auf [MyUni-ID](https://id.uni-mannheim.de) mit Uni-ID und Passwort unter dem Menüpunkt „ecUM“ → „Aktivieren“.
+1. Einmalige Aktivierung auf [MyUni-ID](https://id.uni-mannheim.de) mit Uni-ID und Passwort unter dem Menüpunkt „ecUM“.
 1. Gültigkeit vor Ort an einem der Gültigkeitsdrucker in der Universität aufdrucken lassen.
 
-## Wo kann ich meine ecUM abholen?
+### Wo kann ich meine ecUM abholen?
 
-- **Erstsemester-Studierende:**
-  Bis 5. September 2025 per Post, danach persönliche Abholung beim IT Support im InfoCenter des Schloss Schneckenhof.
-- **Austauschstudierende/Studierende mit ausländischer Adresse:**
-  Abholung nach Benachrichtigung beim IT Support im InfoCenter des Schloss Schneckenhof.
-- **Beschäftigte:**
-  Neue Mitarbeitende erhalten die aktivierte ecUM per Hauspost an das zuständige Institut oder die Einrichtung. Ersatzkarten bei Verlust, Diebstahl oder Statusänderung über den [IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/).
-- **Ersatzkarten für Studierende:**
-  Beantragung und Abholung beim IT Support im InfoCenter gegen Vorlage des Immatrikulationsschreibens und eines gültigen Ausweises.
-- **Gäste:**
-  Nicht personalisierte Karte gegen Pfand an der Infotheke in der Mensa.
+- **Erstsemester-Studierende:** Bis 5. September 2025 per Post, danach persönliche Abholung beim [IT Support im InfoCenter Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/).
+- **Austauschstudierende/ausländische Adresse:** Abholung nach Benachrichtigung beim IT Support.
+- **Beschäftigte:** Neue Mitarbeitende erhalten die aktivierte ecUM per Hauspost an das zuständige Institut oder die Einrichtung. Ersatzkarten bei Verlust, Diebstahl oder Statusänderung erhalten Sie beim IT Support.
+- **Ersatzkarten für Studierende:** Bei Verlust, Diebstahl oder Statusänderung erhalten Sie eine Ersatzkarte beim IT Support gegen Vorlage des Immatrikulationsschreibens und eines gültigen Ausweises.
+- **Gäste:** Nicht personalisierte Karte gegen Pfand an der Infotheke in der Mensa.
 
-## Wie kann ich die Gültigkeit meiner ecUM aufdrucken und verlängern?
+### Wie kann ich die Gültigkeit meiner ecUM aufdrucken und verlängern?
 
 - Die Gültigkeit muss jedes Semester an einem SB-Terminal oder dedizierten Gültigkeitsdrucker aufgedruckt werden.
-- Standorte der dedizierten Gültigkeitsdrucker:
+- Standorte der dedizierten Drucker:
   - A 5 in der Bibliothek
   - A 3 in der Bibliothek im 1. OG
   - Schneckenhof Süd am InfoCenter
   - L 1, 1 Express Service
-  - Ehrenhof West, in der Bibliothek im 2. OG
-- Vorgehen: Karte einstecken, Menü-Button „Rückgabe“ wählen, Karte wird automatisch bedruckt und ausgeworfen.
+  - Ehrenhof West, Bibliothek im 2. OG
+- An SB-Terminals: Karte einstecken, Menü-Button „Rückgabe“ wählen, Karte wird automatisch bedruckt.
+- An dedizierten Druckern: Karte einstecken, sie wird bedruckt und wieder ausgeworfen.
 
-## Wie erhalte ich eine Ersatzkarte?
+### Wie erhalte ich eine Ersatzkarte?
 
-- Bei Verlust, Defekt oder Statuswechsel: Beantragung direkt beim [IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/).
+- Bei Verlust, Defekt oder Statuswechsel: Ersatzkarte direkt beim [IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/) beantragen.
 - Bei Verlust: ecUM schnellstmöglich über [MyUni-ID](http://id.uni-mannheim.de) sperren.
 
-## Was kostet meine ecUM?
+### Was kostet meine ecUM?
 
-- Die Erstausstellung ist kostenlos.
-- Bei Verlust: Gebühr von 15 Euro gemäß [Gebührensatzung der Universität (PDF)](http://www2.uni-mannheim.de/rum/ueber_uns/arbeitsgruppen/itsms/ecum/aktuelles/01_09_2006_neue_gebuehren_fuer_ecum_chipkarten/gebuehrensatzungaktuell.pdf).
-- Bei Namensänderung oder Defekt: Kostenlose Neuausstellung.
+- Die Erstkarte ist kostenlos.
+- Für eine verlorene ecUM wird eine Gebühr von 15 Euro gemäß [Gebührensatzung der Universität (PDF)](http://www2.uni-mannheim.de/rum/ueber_uns/arbeitsgruppen/itsms/ecum/aktuelles/01_09_2006_neue_gebuehren_fuer_ecum_chipkarten/gebuehrensatzungaktuell.pdf) erhoben.
+- Bei Namensänderung oder Defekt wird kostenfrei eine neue ecUM ausgestellt.
 
-## Wofür kann ich die SB-Terminals nutzen?
+### Wofür kann ich die SB-Terminals nutzen?
 
 - Gültigkeits- bzw. Verlängerungsaufdruck der ecUM
 - Druckkonto aufladen
 - Bibliotheksgebühren bezahlen
 
 **Voraussetzungen:**
-ecUM, Uni-ID und Passwort. Für kostenpflichtige Dienste muss vorher Guthaben aufgeladen werden.
+ecUM, Uni-ID, zugehöriges Passwort. Für kostenpflichtige Dienste muss vorher Guthaben aufgeladen werden.
 
 **Standorte der SB-Terminals:**
 
@@ -96,21 +93,19 @@ ecUM, Uni-ID und Passwort. Für kostenpflichtige Dienste muss vorher Guthaben au
 - A 3 in der Bibliothek
 - Westflügel im Ausleihzentrum der Bibliothek
 
-## Bezahlen mit der ecUM: Wo kann ich sie aufladen?
+### Bezahlen mit der ecUM: Wo kann ich sie aufladen?
 
 - Die ecUM kann in Mensen, Cafeterien, Einrichtungen des Studierendenwerks sowie an Kaffee- und Waschautomaten als Zahlungsmittel genutzt werden.
-- In allen Mensen und Cafeterien ist Barzahlung an mindestens einer Kasse möglich, jedoch mit 25% Zuschlag auf den Kartenpreis.
-- Aufladung an Kassen in der Mensa, im Café Soleil und im EO sowie an Autoload-Aufwertern neben den [SB-Terminals](https://www.uni-mannheim.de/it/anleitungen/sb-terminals/).
-- Informationen zu Autoload:
-  [FAQs Autoload ecUM](https://www.stw-ma.de/Essen%2B_%2BTrinken/Bezahlen%2B_%2BAutoload-p-30.html)
-  [Autoload einrichten](https://www.stw-ma.de/essen-trinken/autoload/)
+- In allen Mensen und Cafeterien ist Barzahlung an mindestens einer Kasse möglich, jedoch mit einem Zuschlag von 25 % auf den Kartenpreis.
+- Aufladen der ecUM an Kassen in der Mensa, im Café Soleil und im EO sowie an Autoload-Aufwertern des Studierendenwerks Mannheim (neben den [SB-Terminals](https://www.uni-mannheim.de/it/anleitungen/sb-terminals/)).
+- Informationen zu Autoload: [FAQs Autoload ecUM](https://www.stw-ma.de/Essen%2B_%2BTrinken/Bezahlen%2B_%2BAutoload-p-30.html), [Autoload einrichten](https://www.stw-ma.de/essen-trinken/autoload/).
 
 **Support:**
-Bei Problemen mit den SB-Terminals wenden Sie sich an das InfoCenter der Universitäts-IT im Schloss Schneckenhof Süd.
+Bei Problemen mit SB-Terminals wenden Sie sich an das InfoCenter der Universitäts-IT im Schloss Schneckenhof Süd.
 Telefon: +49 621 181-3027
 E-Mail: [id.unit@uni-mannheim.de](mailto:id.unit@uni-mannheim.de)
 
-## Ich habe meine ecUM verloren oder wiedergefunden. Was jetzt?
+### Ich habe meine ecUM verloren oder wiedergefunden. Was jetzt?
 
 - Bei Verlust: ecUM schnellstmöglich über [MyUni-ID](http://id.uni-mannheim.de) sperren.
 - Bei Wiederfinden: Entsperrung ebenfalls über MyUni-ID möglich.

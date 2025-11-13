@@ -30,8 +30,8 @@ Informationen zur ecUM als Gasthörendenausweis finden Sie unter [Gasthörendens
 
 
 - Sobald Ihre Immatrikulation abgeschlossen ist, erstellen wir die ecUM und benachrichtigen Sie per E-Mail.
-- Wir senden Ihnen die neu erstellte ecUM per Post an die hinterlegte deutsche Postanschrift. Ab dem 5. September 2025 erfolgt die Zustellung nicht mehr postalisch. Bitte holen Sie Ihre ecUM ab dann persönlich [beim IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/) ab.
-- Gehören Sie zur Gruppe der Austauschstudierenden oder haben eine ausländische Adresse angegeben, dann können Sie Ihre ecUM am [beim IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/) abholen, sobald Sie eine Benachrichtigung von uns erhalten haben.
+- Wir senden Ihnen die neu erstellte ecUM per Post an die hinterlegte deutsche Postanschrift. Ab dem 5. September 2025 erfolgt die Zustellung nicht mehr postalisch. Bitte holen Sie Ihre ecUM ab dann persönlich [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/) ab.
+- Gehören Sie zur Gruppe der Austauschstudierenden oder haben eine ausländische Adresse angegeben, dann können Sie Ihre ecUM [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/)) abholen, sobald Sie eine Benachrichtigung von uns erhalten haben.
 - Sobald Sie Ihre ecUM erhalten haben, müssen Sie diese einmalig aktivieren.
 
 
@@ -48,14 +48,14 @@ Sobald Sie Ihre ecUM erhalten haben, müssen Sie:
 ### Wo kann ich meine ecUM abholen?
 
 Erstsemester-StudierendeWir senden Ihnen die neu erstellte ecUM per Post an die hinterlegte deutsche Postanschrift. Ab dem 5. September 2025 erfolgt die Zustellung nicht mehr postalisch. Bitte holen Sie Ihre ecUM ab dann persönlich [beim IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/) ab.
-Gehören Sie zur Gruppe der Austauschstudierenden oder haben eine ausländische Adresse angegeben, dann können Sie Ihre ecUM am [beim IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/) abholen, sobald Sie eine Benachrichtigung von uns erhalten haben.
+Gehören Sie zur Gruppe der Austauschstudierenden oder haben eine ausländische Adresse angegeben, dann können Sie Ihre ecUM am [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/) abholen, sobald Sie eine Benachrichtigung von uns erhalten haben.
 Sobald Sie Ihre ecUM erhalten haben, müssen Sie
 
 - diese in [MyUni-ID](https://id.uni-mannheim.de) einmalig aktivieren.
 - die Gültigkeit vor Ort an einem der SB-Terminals in der Universität aufdrucken lassen. Den Gültigkeitsaufdruck erhalten Sie, indem Sie die Karte einstecken und über den Menü-Button „Rückgabe“ die Chipkarte auswerfen lassen. Die ecUM wird dann automatisch bedruckt.
 
-BeschäftigteNeueingestellte Mitarbeitende erhalten Ihre aktivierte ecUM zusammen mit dem Zulassungsbescheid per Hauspost an das zuständige Institut oder die Einrichtung. Sollten Sie eine Ersatzkarte benötigen, z. B. weil Sie Ihre ecUM verloren haben, diese gestohlen wurde oder sich Ihr Status verändert, wenden Sie sich bitte an den [IT Support im InfoCenter des Schloss Schneckenhof ](https://www.uni-mannheim.de/it/support/).
-Ersatzkarten für StudierendeSollten Sie eine Ersatzkarte benötigen, z. B. weil Sie Ihre ecUM verloren haben, diese gestohlen wurde oder sich Ihr Status verändert, wenden Sie sich bitte an den [IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/) – dort wird die Karte direkt für Sie ausgestellt. Sie können Ihre Ersatzkarte im InfoCenter gegen Vorlage des Immatrikulationsschreibens und gültigen Personalausweises oder Reisepasses abholen.
+BeschäftigteNeueingestellte Mitarbeitende erhalten Ihre aktivierte ecUM zusammen mit dem Zulassungsbescheid per Hauspost an das zuständige Institut oder die Einrichtung. Sollten Sie eine Ersatzkarte benötigen, z. B. weil Sie Ihre ecUM verloren haben, diese gestohlen wurde oder sich Ihr Status verändert, wenden Sie sich bitte an den [IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof) ](https://www.uni-mannheim.de/it/support/).
+Ersatzkarten für StudierendeSollten Sie eine Ersatzkarte benötigen, z. B. weil Sie Ihre ecUM verloren haben, diese gestohlen wurde oder sich Ihr Status verändert, wenden Sie sich bitte an den [IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/) – dort wird die Karte direkt für Sie ausgestellt. Sie können Ihre Ersatzkarte im InfoCenter gegen Vorlage des Immatrikulationsschreibens und gültigen Personalausweises oder Reisepasses abholen.
 **Gäste der Uni Mannheim**Sie erhalten eine nicht personalisierte Karte gegen Pfand an der Infotheke in der Mensa.
 
 
@@ -74,7 +74,7 @@ Den Gültigkeitsaufdruck an den SB-Terminals erhalten Sie, indem Sie die Karte e
 
 ### Wie erhalte ich eine Ersatzkarte?
 
-Bei Verlust, Defekt oder Statuswechsel können Sie eine Ersatzkarte beantragen. Melden Sie sich hierfür bitte direkt  [beim IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/). Bitte sperren Sie Ihre ecUM bei Verlustverdacht schnellstmöglich über die Seite [MyUni-ID](http://id.uni-mannheim.de).
+Bei Verlust, Defekt oder Statuswechsel können Sie eine Ersatzkarte beantragen. Melden Sie sich hierfür bitte direkt  [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/). Bitte sperren Sie Ihre ecUM bei Verlustverdacht schnellstmöglich über die Seite [MyUni-ID](http://id.uni-mannheim.de).
 
 
 ### Was kostet meine ecUM?
