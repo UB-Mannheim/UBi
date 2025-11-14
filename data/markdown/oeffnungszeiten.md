@@ -26,10 +26,6 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgab
 
 ## Bibliotheksbereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof
 
-| Mo‒Fr außer an Feiertagen | 8–23 Uhr |
-| --- | --- |
-| Sa/So/Feiertage | 10–23 Uhr |
-
 **Erweiterte Öffnungszeiten vom 10. November bis einschließlich 21. Dezember 2025**
 | Mo‒So und an Feiertagen | 8–24 Uhr |
 | --- | --- |
