@@ -45,18 +45,19 @@ Mehr Informationen hierzu finden Sie auf der Seite [Hinweise zur E-Book- und Dat
 
 
 
+### Fachliche Repositorien
+
+
+- [media/rep/](https://mediarep.org/home), Open-Access-Repositorium für medienwissenschaftliche Publikationen (auch Forschungsdaten)
+- [mediArXiv](https://mediarxiv.com/), Repositorium für Working Papers und Preprints in der Medienwissenschaft
+
+
+
 ### Fachliche Internetquellen
 
 **Blogs**
-[Fachinformationsdienst MKW ](https://blog.adlr.link)(adlr.link)
+[Fachinformationsdienst MKW ](https://blog.adlr.link)
 [Media Research Blog](https://www.hans-bredow-institut.de/de/blog)
-**KI-Ressourcen**
-
-- [Literaturrecherche ](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textverstehen ](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textproduktion ](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textbearbeitung / -korrektur](https://www.vkkiwa.de/ki-ressourcen/)
-
 
 
 ### Literaturstandorte
