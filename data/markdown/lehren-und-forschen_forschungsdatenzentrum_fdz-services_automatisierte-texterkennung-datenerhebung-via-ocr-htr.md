@@ -11,7 +11,7 @@ Gerne unterstützt das Forschungsdatenzentrum Forschende der Universität Mannhe
 
 
 - Beratung zur maschinellen Texterhebung für Forschungsprojekte
-- [OCR Recommender](https://www.berd-nfdi.de/limesurvey/index.php/996387?lang=de)
+- [OCR Recommender](https://wiki.bib.uni-mannheim.de/limesurvey/index.php/996387) – Empfehlung für geeignete Texterkennungssoftware
 - Offene OCR-Sprechstunde: jeden 2. Donnerstag im Monat, von 15 bis 16 Uhr, ohne Anmeldung (Link zum Zoom-Meeting: [https://ocr-bw.bib.uni-mannheim.de/sprechstunde](https://ocr-bw.bib.uni-mannheim.de/sprechstunde), Meeting ID: 682 8185 1819, Kenncode: 443071)
 
 

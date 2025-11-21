@@ -61,7 +61,7 @@ The Open Science Council serves as a advisory body which suppports the Open Scie
 
 
 
-### Open Access
+### Open Access (course canceled)
 
 
 

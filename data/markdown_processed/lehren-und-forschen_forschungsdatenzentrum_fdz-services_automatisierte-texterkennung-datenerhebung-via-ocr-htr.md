@@ -3,35 +3,36 @@ title: Automatisierte Texterkennung und OCR/HTR-Services des Forschungsdatenzent
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/automated-text-recognition-extracting-data-via-ocr-htr/
 category: Services
-tags: ['Texterkennung', 'OCR', 'HTR', 'Digitalisierung', 'Forschungsdaten', 'Beratung', 'Open Source', 'Transkription']
+tags: ['Texterkennung', 'OCR', 'HTR', 'Digitalisierung', 'Forschungsdaten', 'Beratung', 'Transkription', 'Open Source']
 language: de
 ---
 
 # Automatisierte Texterkennung – Datenerhebung via OCR/HTR
 
-Mithilfe von maschineller Texterkennung (OCR) werden Texte aus digitalen Bildern automatisiert erfasst und so durchsuchbare und analysierbare Daten erzeugt. Die Universitätsbibliothek Mannheim verfügt über langjährige Erfahrung in der Digitalisierung und im Einsatz verschiedener Texterkennungssoftware. Das Forschungsdatenzentrum (FDZ) unterstützt Forschende der Universität Mannheim entlang des gesamten Workflows: von der Digitalisierung über Layout- und Texterkennung, Nachtraining spezialisierter Modelle bis hin zur Datenstrukturierung.
+Mithilfe von maschineller Texterkennung (OCR) werden Texte aus digitalen Bildern automatisiert erfasst und so durchsuchbare und analysierbare Daten erzeugt. Die Universitätsbibliothek Mannheim verfügt über langjährige Erfahrung in der Digitalisierung und im Einsatz verschiedener Texterkennungssoftware. Das Forschungsdatenzentrum (FDZ) unterstützt Forschende der Universität Mannheim entlang des gesamten Workflows: von der Digitalisierung über Layout- und Texterkennung, Nachtraining spezialisierter Modelle bis hin zur Strukturierung der Daten.
 
 ## Services
 
 - Beratung zur maschinellen Texterhebung für Forschungsprojekte
-- [OCR Recommender](https://www.berd-nfdi.de/limesurvey/index.php/996387?lang=de)
+- [OCR Recommender](https://wiki.bib.uni-mannheim.de/limesurvey/index.php/996387) – Empfehlung für geeignete Texterkennungssoftware
 - Offene OCR-Sprechstunde: jeden 2. Donnerstag im Monat, 15–16 Uhr, ohne Anmeldung
-  [Zoom-Meeting](https://ocr-bw.bib.uni-mannheim.de/sprechstunde) (Meeting ID: 682 8185 1819, Kenncode: 443071)
+  [Zoom-Meeting](https://ocr-bw.bib.uni-mannheim.de/sprechstunde)
+  Meeting ID: 682 8185 1819, Kenncode: 443071
 
 ## Auswahl an Texterkennungs- und Transkriptionsplattformen
 
 | Tool | Kostenmodell | Eigenschaften | Besonders geeignet für |
-|------------------|----------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------|
-| ABBYY Finereader | kostenpflichtig/kommerziell | Text- und Layouterkennung; gute Layoutanalyse | Moderne Drucke, komplexes Layout |
-| eScriptorium | Open Source | Grafische Benutzeroberfläche für Kraken; intuitive Nutzung | Historische Drucke und Handschriften, nicht-lateinische Schrift |
-| Google Vision | kostenpflichtig/kommerziell | Texterkennung; Bild- und Videoanalyse; für Handschriften und Drucke | Drucke und Handschriften |
+|-------------------|----------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------|
+| ABBYY Finereader | kostenpflichtig/kommerziell| Text- und Layouterkennung; gute Layoutanalyse | Moderne Drucke, komplexes Layout |
+| eScriptorium | Open Source | Graphische Benutzeroberfläche für Kraken; intuitive Nutzung | Historische Drucke und Handschriften, nicht-lateinische Schrift |
+| Google Vision | kostenpflichtig/kommerziell| Texterkennung; Bild- und Videoanalyse; für Handschriften und Drucke | Drucke und Handschriften |
 | Kraken | Open Source | Kommandozeilenbasierte Texterkennungssoftware; optimiert für historisches und nicht-lateinisches Schriftmaterial | Historische Drucke und Handschriften, nicht-lateinische Schrift |
-| OCR4All | Open Source | Grafische Benutzeroberfläche für verschiedene Open Source Texterkennungsprogramme | Historische Drucke und Handschriften |
-| OCRmyPDF | Open Source | Kommandozeilenprogramm zur Texterkennung von PDF-Dateien; nutzt Tesseract | Historische/moderne Drucke |
+| OCR4All | Open Source | Graphische Benutzeroberfläche für verschiedene Open Source Texterkennungsprogramme | Historische Drucke und Handschriften |
+| OCRmyPDF | Open Source | Kommandozeilenprogramm zur Texterkennung von PDF-Dateien; nutzt Tesseract als OCR-Engine | Historische/moderne Drucke |
 | OCR-D | Open Source | Modular aufgebaute, kommandozeilenbasierte Texterkennungssoftware | Historische Drucke |
-| PERO-OCR | Open Source | Webbasierte Texterkennungsplattform; gute Universalmodelle; kein Nachtraining möglich | Historische/moderne Drucke und Handschriften |
+| PERO-OCR | Open Source | Webbasierte Texterkennungsplattform; gute Universalmodelle; momentan kein Nachtraining möglich | Historische/moderne Drucke und Handschriften |
 | Tesseract | Open Source | Kommandozeilenbasierte Texterkennungssoftware; geeignet für umfangreiche Datensätze | Historische/moderne Drucke |
-| Transkribus | kostenpflichtig/kommerziell | Umfangreiche Texterkennungs- und Transkriptionsplattform; intuitive Benutzeroberfläche | Historische Handschriften und Tabellen |
+| Transkribus | kostenpflichtig/kommerziell| Umfangreiche Texterkennungs- und Transkriptionsplattform; intuitive Benutzeroberfläche | Historische Handschriften und Tabellen |
 
 ## Anleitungen und Materialien zu OCR-Software
 
@@ -62,7 +63,7 @@ Hier finden Sie Anleitungen und Materialien zu verschiedenen Open-Source-Texterk
 
 ## Hinweise zur Erstellung von Ground-Truth (Trainingsdaten)
 
-Im Projekt OCR-D wurden drei Transkriptionsstufen für historische Dokumente in Transkriptionsrichtlinien festgelegt, die sich im Grad der originalgetreuen Wiedergabe unterscheiden. Die Richtlinien sind auf der [OCR-D Projekthomepage](https://ocr-d.de/de/gt-guidelines/trans/index.html) verfügbar. Eine [Leitlinie zur Veröffentlichung eigener Trainingsdaten](https://github.com/OCR-D/gt-repo-template) ist ebenfalls auf Github zu finden.
+Im Projekt OCR-D wurden drei Transkriptionsstufen für die Transkription historischer Dokumente in Transkriptionsrichtlinien festgelegt. Die Stufen unterscheiden sich im Grad der originalgetreuen Wiedergabe. Die Richtlinien sind auf der [OCR-D Projekthomepage](https://ocr-d.de/de/gt-guidelines/trans/index.html) verfügbar. Eine [Leitlinie zur Veröffentlichung eigener Trainingsdaten](https://github.com/OCR-D/gt-repo-template) ist ebenfalls auf Github zu finden.
 
 Ground-Truth-Ressourcen für das Training oder Nachtraining eigener Modelle:
 
@@ -88,5 +89,5 @@ Antworten auf häufig gestellte Fragen zur automatisierten Texterkennung und zur
 
 Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
