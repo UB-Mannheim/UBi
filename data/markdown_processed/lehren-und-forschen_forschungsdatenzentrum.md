@@ -22,7 +22,7 @@ Aktuelle Informationen und Entwicklungen zum Forschungsdatenmanagement und den A
 Das FDZ bietet umfassende Services rund ums Forschungsdatenmanagement, darunter:
 
 - Beratung zum Forschungsdatenmanagement (FDM)
-- Unterstützung bei der Erstellung von Datenmanagementplänen
+- Unterstützung bei Datenmanagementplänen
 - OCR-Services
 - Knowledge Graphs
 - Unterstützung bei der Nutzung von MADATA
@@ -49,82 +49,84 @@ Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine
 
 ## FDZ-Team und Kontakt
 
-### Dr. Irene Schumm
+### Forschungsdatenzentrum (FDZ) – Zentrale Kontaktstelle
 
-Leiterin der Abteilung Forschungsdatenzentrum
-Aufgaben: Betreuung und Koordination des Projekts BERD@NFDI, Beratung und Schulungen im Bereich Forschungsdatenmanagement
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
-Telefon: +49 621 181-2955
-E-Mail: [irene.schumm@uni-mannheim.de](mailto:irene.schumm@uni-mannheim.de)
-ORCID: [0000-0002-0167-3683](https://orcid.org/0000-0002-0167-3683)
+- Team: Dr. Irene Schumm, Jan Kamlah, Dr. Phil Kolbe, Dr. David Philip Morgan, Thomas Schmidt, Dr. Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
+- Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
 
-### Jan Kamlah
+### Teammitglieder
 
-Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
-Telefon: +49 621 181-2777
-E-Mail: [jan.kamlah@uni-mannheim.de](mailto:jan.kamlah@uni-mannheim.de)
+#### Dr. Irene Schumm
 
-### Dr. Phil Kolbe
+- Leiterin der Abteilung Forschungsdatenzentrum
+- Aufgaben: Betreuung und Koordination des Projekts BERD@NFDI, Beratung und Schulungen im Bereich Forschungsdatenmanagement
+- Adresse: Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
+- Telefon: +49 621 181-2955
+- E-Mail: [irene.schumm@uni-mannheim.de](mailto:irene.schumm@uni-mannheim.de)
+- ORCID: [0000-0002-0167-3683](https://orcid.org/0000-0002-0167-3683)
 
-Referent für Forschungsdatenmanagement (Sozialwissenschaften)
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
-Telefon: +49 621 181-2936
-E-Mail: [phil.kolbe@uni-mannheim.de](mailto:phil.kolbe@uni-mannheim.de)
-ORCID: [0009-0009-7362-0781](https://orcid.org/0009-0009-7362-0781)
+#### Jan Kamlah
 
-### Dr. David Philip Morgan
+- Data Scientist, Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)
+- Adresse: Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Telefon: +49 621 181-2777
+- E-Mail: [jan.kamlah@uni-mannheim.de](mailto:jan.kamlah@uni-mannheim.de)
 
-Open Science Officer | Referent für Forschungsdatenmanagement (Sozialwissenschaften)
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
-Telefon: +49 621 181-2990
-E-Mail: [david.morgan@uni-mannheim.de](mailto:david.morgan@uni-mannheim.de)
-ORCID: [0000-0001-8213-451X](https://orcid.org/0000-0001-8213-451X)
+#### Dr. Phil Kolbe
 
-### Thomas Schmidt, M.A.
+- Referent für Forschungsdatenmanagement (Sozialwissenschaften)
+- Adresse: Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
+- Telefon: +49 621 181-2936
+- E-Mail: [phil.kolbe@uni-mannheim.de](mailto:phil.kolbe@uni-mannheim.de)
+- ORCID: [0009-0009-7362-0781](https://orcid.org/0009-0009-7362-0781)
 
-Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
-Telefon: +49 621 181-2954
-E-Mail: [thomas.schmidt@uni-mannheim.de](mailto:thomas.schmidt@uni-mannheim.de)
-ORCID: [0000-0003-3620-3355](https://orcid.org/0000-0003-3620-3355)
+#### Dr. David Philip Morgan
 
-### Dr. Renat Shigapov
+- Open Science Officer, Referent für Forschungsdatenmanagement (Sozialwissenschaften)
+- Adresse: Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
+- Telefon: +49 621 181-2990
+- E-Mail: [david.morgan@uni-mannheim.de](mailto:david.morgan@uni-mannheim.de)
+- ORCID: [0000-0001-8213-451X](https://orcid.org/0000-0001-8213-451X)
 
-Lead Data Scientist | Projektleiter
-Aufgaben: Strategische Weiterentwicklung des technischen Forschungsdatenmanagements, Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools, Konzeption und Koordination von Projekten im Bereich Data Science und KI, Vertretung der UB in Gremien
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
-Telefon: +49 621 181-2718
-E-Mail: [renat.shigapov@uni-mannheim.de](mailto:renat.shigapov@uni-mannheim.de)
-ORCID: [0000-0002-0331-2558](https://orcid.org/0000-0002-0331-2558)
+#### Thomas Schmidt, M.A.
 
-### Christos Sidiropoulos, M.Ed.
+- Referent für Forschungsdatenmanagement (Data Literacy), Management ExpLAB
+- Adresse: Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Telefon: +49 621 181-2954
+- E-Mail: [thomas.schmidt@uni-mannheim.de](mailto:thomas.schmidt@uni-mannheim.de)
+- ORCID: [0000-0003-3620-3355](https://orcid.org/0000-0003-3620-3355)
 
-Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für Mathematik
-Aufgaben: Mitarbeit im Data-Literacy-Projekt MaDaLi², technischer Support und Softwareentwicklung von Content-Management-Systemen, Beratung und Schulungen im Bereich Forschungsdatenmanagement, Literaturauswahl und -erschließung für das Fach Mathematik
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
-Telefon: +49 621 181-2962
-E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)
-ORCID: [0009-0001-3341-3149](https://orcid.org/0009-0001-3341-3149)
+#### Dr. Renat Shigapov
 
-### Vasilka Paunova, LL.M.
+- Lead Data Scientist, Projektleiter
+- Aufgaben: Strategische Weiterentwicklung des technischen Forschungsdatenmanagements, Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools, Projektkonzeption und -koordination, Vertretung der UB in Gremien
+- Adresse: Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Telefon: +49 621 181-2718
+- E-Mail: [renat.shigapov@uni-mannheim.de](mailto:renat.shigapov@uni-mannheim.de)
+- ORCID: [0000-0002-0331-2558](https://orcid.org/0000-0002-0331-2558)
 
-Legal Counsel für BERD@NFDI und FDZ
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
-Telefon: +49 621 181-2714
-E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
+#### Christos Sidiropoulos, M.Ed.
 
-### Larissa Will, M.A.
+- Referent für Forschungsdatenmanagement (Data Literacy), Fachreferent für Mathematik
+- Aufgaben: Mitarbeit im Data-Literacy-Projekt MaDaLi², technischer Support und Softwareentwicklung von Content-Management-Systemen, Beratung und Schulungen im Forschungsdatenmanagement, Literaturauswahl und -erschließung für Mathematik
+- Adresse: Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
+- Telefon: +49 621 181-2962
+- E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)
+- ORCID: [0009-0001-3341-3149](https://orcid.org/0009-0001-3341-3149)
 
-Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
-Telefon: +49 621 181-2754
-E-Mail: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
-ORCID: [0009-0004-6220-8939](https://orcid.org/0009-0004-6220-8939)
+#### Vasilka Paunova, LL.M.
 
-### Kontakt zum FDZ
+- Legal Counsel für BERD@NFDI und FDZ
+- Adresse: Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
+- Telefon: +49 621 181-2714
+- E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
 
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
-Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-Web: [Forschungsdatenzentrum der UB Mannheim](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
-E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
+#### Larissa Will, M.A.
+
+- Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)
+- Adresse: Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
+- Telefon: +49 621 181-2754
+- E-Mail: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
+- ORCID: [0009-0004-6220-8939](https://orcid.org/0009-0004-6220-8939)

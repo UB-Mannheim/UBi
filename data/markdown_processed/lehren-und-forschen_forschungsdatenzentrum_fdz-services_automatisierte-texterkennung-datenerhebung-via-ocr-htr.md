@@ -34,11 +34,11 @@ Mithilfe von maschineller Texterkennung (OCR) werden Texte aus digitalen Bildern
 | Tesseract | Open Source | Kommandozeilenbasierte Texterkennungssoftware; geeignet für umfangreiche Datensätze | Historische/moderne Drucke |
 | Transkribus | kostenpflichtig/kommerziell| Umfangreiche Texterkennungs- und Transkriptionsplattform; intuitive Benutzeroberfläche | Historische Handschriften und Tabellen |
 
-## Nutzung von Transkribus und eScriptorium
+## Zugang und Nutzung von Transkribus und eScriptorium
 
-### User Seat beim Transkribus-Konto der Universitätsbibliothek
+### Transkribus-Account (User Seat)
 
-Die Universitätsbibliothek bietet einen institutionellen Zugang zur Texterkennungs- und Transkriptionsplattform [Transkribus](https://www.transkribus.org/de) an. Für die Vergabe eines User Seats ist die Unterzeichnung der Nutzungsbedingungen erforderlich. Anschließend findet ein kurzes Onboarding-Gespräch statt.
+Die Universitätsbibliothek bietet einen institutionellen Zugang zur Plattform [Transkribus](https://www.transkribus.org/de) an. Für die Vergabe eines User Seats ist die Unterzeichnung der Nutzungsbedingungen erforderlich. Anschließend findet ein kurzes Onboarding-Gespräch statt.
 
 **Onboarding (ca. 30 Minuten, verpflichtend):**
 
@@ -52,13 +52,15 @@ Die Universitätsbibliothek bietet einen institutionellen Zugang zur Texterkennu
 - Vertiefungsmodule wie Training eigener Modelle, Arbeiten mit Tabellen oder weiteren Spezialfunktionen
 - Bearbeitung eigener Beispielsdokumente
 
+Bei Interesse an einem Zugang kontaktieren Sie das FDZ.
+
 ### Zugang zur eScriptorium-Instanz
 
-Mitglieder der Universität Mannheim können einen eigenen Account für die [eScriptorium-Instanz](https://ocr-bw.bib.uni-mannheim.de/escriptorium/) der Universitätsbibliothek erhalten. Nach Kontaktaufnahme per E-Mail wird der Zugang eingerichtet und die entsprechenden [Nutzungshinweise](https://github.com/UB-Mannheim/escriptorium/discussions/9) bereitgestellt. Unterstützung bei den ersten Schritten, Workflows und weiterführenden Funktionen wird angeboten.
+Mitglieder der Universität Mannheim können einen eigenen Account für die [eScriptorium-Instanz](https://ocr-bw.bib.uni-mannheim.de/escriptorium/) der Universitätsbibliothek erhalten. Nach einer kurzen E-Mail wird der Zugang eingerichtet und die entsprechenden [Nutzungshinweise](https://github.com/UB-Mannheim/escriptorium/discussions/9) bereitgestellt. Unterstützung bei den ersten Schritten, Workflows und weiterführenden Funktionen wird angeboten.
 
 ## Anleitungen und Materialien zu OCR-Software
 
-Eine Sammlung von Anleitungen und Materialien zu verschiedenen Open-Source-Texterkennungsprogrammen und Transkriptionsplattformen. Nicht alle Ressourcen wurden von der UB Mannheim selbst erstellt.
+Hier finden Sie Anleitungen und Materialien zu verschiedenen Open-Source-Texterkennungsprogrammen und Transkriptionsplattformen. Nicht alle Ressourcen wurden von der UB Mannheim selbst erstellt.
 
 ### eScriptorium
 
@@ -85,9 +87,9 @@ Eine Sammlung von Anleitungen und Materialien zu verschiedenen Open-Source-Texte
 
 ## Hinweise zur Erstellung von Ground-Truth (Trainingsdaten)
 
-Im Projekt OCR-D wurden drei Transkriptionsstufen für die Transkription historischer Dokumente in Transkriptionsrichtlinien festgelegt. Die Stufen unterscheiden sich im Grad der originalgetreuen Wiedergabe. Die Richtlinien sind auf der [OCR-D Projekthomepage](https://ocr-d.de/de/gt-guidelines/trans/index.html) verfügbar. Eine [Leitlinie zur Veröffentlichung eigener Trainingsdaten](https://github.com/OCR-D/gt-repo-template) ist auf Github zu finden.
+Im Projekt OCR-D wurden drei Transkriptionsstufen für historische Dokumente definiert, die sich im Grad der originalgetreuen Wiedergabe unterscheiden. Die [Transkriptionsrichtlinien](https://ocr-d.de/de/gt-guidelines/trans/index.html) sind auf der OCR-D-Projekthomepage verfügbar. Eine [Leitlinie zur Veröffentlichung eigener Trainingsdaten](https://github.com/OCR-D/gt-repo-template) ist ebenfalls vorhanden.
 
-Ground-Truth-Quellen für das Training/Nachtraining eigener Modelle:
+**Ground-Truth-Ressourcen:**
 
 - [OCR & Ground-Truth-Resources](https://github.com/cneud/ocr-gt)
 - [HTR United](https://htr-united.github.io/)
@@ -96,20 +98,22 @@ Ground-Truth-Quellen für das Training/Nachtraining eigener Modelle:
 - [Ground-Truth für Digitalisate der UB Tübingen](https://github.com/UB-Mannheim/digitue-gt)
 - [IAM Database für Handschriften](https://fki.tic.heia-fr.ch/databases)
 
-Virtuelle Keyboards für verschiedene Transkriptionsplattformen sind auf [Github](https://github.com/tboenig/keyboardGT) verfügbar.
+Virtuelle Keyboards für verschiedene Transkriptionsplattformen finden Sie auf [Github](https://github.com/tboenig/keyboardGT).
 
-Antworten auf häufig gestellte Fragen zur automatisierten Texterkennung und zur im Projekt [OCR-BW](https://ocr-bw.bib.uni-mannheim.de/projektuebersicht/) genutzten Software finden Sie in den [FAQs](https://ocr-bw.bib.uni-mannheim.de/faq/). Für weitere Fragen wenden Sie sich per E-Mail an das FDZ.
+Antworten auf häufig gestellte Fragen zur automatisierten Texterkennung und zur im Projekt [OCR-BW](https://ocr-bw.bib.uni-mannheim.de/projektuebersicht/) genutzten Software finden Sie in den [FAQs](https://ocr-bw.bib.uni-mannheim.de/faq/). Bei weiteren Fragen wenden Sie sich per E-Mail an das FDZ.
 
 ## Projekte und Kooperationen
 
 - Kooperationsprojekt zur Texterkennung und Datenstrukturierung mit dem [Lehrstuhl für Wirtschaftsgeschichte (Prof. Streb)](https://www.vwl.uni-mannheim.de/streb/)
 - Kooperationsprojekt zur Handschriftenerkennung mit dem [Lehrstuhl für Spätmittelalter und Frühe Neuzeit (Prof. Kümper)](https://www.phil.uni-mannheim.de/spaetmittelalter-und-fruehe-neuzeit/)
 
+Bei Unterstützungsbedarf oder Fragen kontaktieren Sie das FDZ.
+
 ## Kontakt
 
 ### Forschungsdatenzentrum (FDZ)
 
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

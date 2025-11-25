@@ -1,15 +1,15 @@
 ---
-title: Data Science Services des Forschungsdatenzentrums (FDZ) der Universitätsbibliothek Mannheim – Angebote und Kontakt
+title: Data Science Services des Forschungsdatenzentrums (FDZ) – Beratung und Unterstützung für datenwissenschaftliche Forschung
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/data-science-services/
 category: Services
-tags: ['Data Science', 'Forschungsdaten', 'Datenanalyse', 'Open Source', 'Datenvisualisierung', 'Cloud Computing', 'Low-Code', 'Beratung']
+tags: ['Data Science', 'Forschungsdaten', 'Beratung', 'Open Source', 'Datenanalyse', 'Datenvisualisierung', 'Infrastruktur', 'Kooperation']
 language: de
 ---
 
-# Data Science Services des Forschungsdatenzentrums (FDZ)
+# Data Science Services
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umfassende Data Science Services für Forschende an. Die Angebote unterstützen bei der Planung, Durchführung und Veröffentlichung datenwissenschaftlicher Projekte.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umfassende Data Science Services zur Unterstützung von Forschungsvorhaben an. Das Angebot richtet sich an Forschende, die datenwissenschaftliche Methoden in ihren Projekten einsetzen möchten.
 
 ## Förderanträge
 
@@ -55,7 +55,7 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umf
 ## Kontakt
 
 **Forschungsdatenzentrum (FDZ), Universitätsbibliothek Mannheim**
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

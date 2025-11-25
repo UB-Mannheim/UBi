@@ -1,9 +1,9 @@
 ---
-title: Knowledge Graph Infrastruktur und Linked Data Services – Services des Forschungsdatenzentrums der Universitätsbibliothek Mannheim
+title: Knowledge Graph Infrastruktur und Linked Data Services – Services und Beratung des Forschungsdatenzentrums
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/knowledge-graph-infrastructure-and-linked-data-services/
 category: Services
-tags: ['Knowledge Graph', 'Linked Data', 'Forschungsdaten', 'FAIR', 'Metadaten', 'Ontologien', 'Wikidata', 'Beratung']
+tags: ['Knowledge Graph', 'Linked Data', 'FAIR', 'Metadaten', 'Ontologien', 'Forschungsdaten', 'Beratung', 'Wissensgraphen']
 language: de
 ---
 
@@ -11,15 +11,15 @@ language: de
 
 Die Mannheim Knowledge Graph Infrastruktur ist ein Dienst zum Erstellen, Erweitern und Hosten von Wissensgraphen. Der Service richtet sich an Wissenschaftlerinnen und Wissenschaftler der Universität Mannheim. Metadaten und Daten in Wissensgraphen sind FAIR, d. h. auffindbar, zugänglich, interoperabel und wiederverwendbar. Maschinell verwertbare Daten in Wissensgraphen ermöglichen datenwissenschaftliche Anwendungen.
 
-Kontaktieren Sie uns und wir helfen Ihnen bei der Erstellung und dem Hosting eines Knowledge Graphen mit Ihren Metadaten und/oder Daten in der [Knowledge Graph Infrastruktur](https://kgi.uni-mannheim.de) der Universität Mannheim.
+Kontaktieren Sie uns – wir unterstützen Sie bei der Erstellung und dem Hosting eines Knowledge Graphen mit Ihren Metadaten und/oder Daten in der [Knowledge Graph Infrastruktur](https://kgi.uni-mannheim.de) der Universität Mannheim.
 
 ## Mannheim Linked Data Services
 
 ### Beratung zu Standards, Terminologien, kontrollierten Vokabularien und Ontologien für Ihre Metadaten
 
-- Standards bei [FAIRSharing](https://fairsharing.org/)
-- [BARTOC registry](https://bartoc.org/registries)
-- [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov)
+- Informationen zu Standards: [FAIRSharing](https://fairsharing.org/)
+- Register für kontrollierte Vokabulare: [BARTOC registry](https://bartoc.org/registries)
+- Linked Open Vocabularies: [LOV](https://lov.linkeddata.es/dataset/lov)
 
 ### Verlinkungsdienst
 
@@ -37,8 +37,9 @@ Beispiel: Profil von Christian Bizer bei [Wikidata](https://www.wikidata.org/wik
 
 ## Kontakt
 
-**Forschungsdatenzentrum (FDZ)**
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+### Forschungsdatenzentrum (FDZ)
+
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
