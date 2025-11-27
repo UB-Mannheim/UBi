@@ -65,5 +65,5 @@ The Open Science Council serves as a advisory body which suppports the Open Scie
 
 
 
-### Open Educational Resources (OER)
+### Open Educational Resources (OER) (course canceled)
 
