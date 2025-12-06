@@ -52,7 +52,7 @@ Gehören Sie zur Gruppe der Austauschstudierenden oder haben eine ausländische 
 Sobald Sie Ihre ecUM erhalten haben, müssen Sie
 
 - diese in [MyUni-ID](https://id.uni-mannheim.de) einmalig aktivieren.
-- die Gültigkeit vor Ort an einem der SB-Terminals in der Universität aufdrucken lassen. Den Gültigkeitsaufdruck erhalten Sie, indem Sie die Karte einstecken und über den Menü-Button „Rückgabe“ die Chipkarte auswerfen lassen. Die ecUM wird dann automatisch bedruckt.
+- die Gültigkeit vor Ort an einem der dedizierten Gültigkeitsdrucker in der Universität aufdrucken lassen. Den Gültigkeitsaufdruck erhalten Sie, indem Sie die Karte einstecken. Die ecUM wird dann automatisch bedruckt.
 
 BeschäftigteNeueingestellte Mitarbeitende erhalten Ihre aktivierte ecUM zusammen mit dem Zulassungsbescheid per Hauspost an das zuständige Institut oder die Einrichtung. Sollten Sie eine Ersatzkarte benötigen, z. B. weil Sie Ihre ecUM verloren haben, diese gestohlen wurde oder sich Ihr Status verändert, wenden Sie sich bitte an den [IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof) ](https://www.uni-mannheim.de/it/support/).
 Ersatzkarten für StudierendeSollten Sie eine Ersatzkarte benötigen, z. B. weil Sie Ihre ecUM verloren haben, diese gestohlen wurde oder sich Ihr Status verändert, wenden Sie sich bitte an den [IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/) – dort wird die Karte direkt für Sie ausgestellt. Sie können Ihre Ersatzkarte im InfoCenter gegen Vorlage des Immatrikulationsschreibens und gültigen Personalausweises oder Reisepasses abholen.
@@ -61,7 +61,7 @@ Ersatzkarten für StudierendeSollten Sie eine Ersatzkarte benötigen, z. B. weil
 
 ### Wie kann ich die Gültigkeit meiner ecUM aufdrucken und verlängern?
 
-Die Gültigkeit Ihrer ecUM muss direkt auf der Karte aufgedruckt und jedes Semester verlängert werden. Der Gültigkeitsaufdruck erfolgt an einem der SB-Terminals oder dedizierten Gültigkeitsdrucker in der Universität. Die Standorte der SB-Terminals finden Sie unter Wofür kann ich die SB-Terminals nutzen? Die Standorte der dedizierten Drucker (nur Gültigkeitsaufdruck) sind:
+Die Gültigkeit Ihrer ecUM muss direkt auf der Karte aufgedruckt und jedes Semester verlängert werden. Der Gültigkeitsaufdruck erfolgt an einem dedizierten Gültigkeitsdrucker in der Universität. Die Standorte der dedizierten Drucker (nur Gültigkeitsaufdruck) sind:
 
 - A 5 in der Bibliothek
 - A 3 in der Bibliothek im 1.OG
@@ -69,7 +69,7 @@ Die Gültigkeit Ihrer ecUM muss direkt auf der Karte aufgedruckt und jedes Semes
 - L 1, 1 Express Service
 - Ehrenhof West, in der Bibliothek im 2.OG
 
-Den Gültigkeitsaufdruck an den SB-Terminals erhalten Sie, indem Sie die Karte einstecken und über den Menü-Button „Rückgabe“ die Chipkarte auswerfen lassen. Die ecUM wird dann automatisch bedruckt. An den dedizierten Drucker müssen Sie die Karte nur einstecken und sie wird bedruckt und wieder ausgeworfen.
+An den dedizierten Drucker müssen Sie die Karte nur einstecken und sie wird bedruckt und wieder ausgeworfen.
 
 
 ### Wie erhalte ich eine Ersatzkarte?
@@ -82,29 +82,6 @@ Bei Verlust, Defekt oder Statuswechsel können Sie eine Ersatzkarte beantragen. 
 Ihre ecUM stellen wir Ihnen grundsätzlich kostenlos zur Verfügung.
 Sie haben Ihre Karte verloren? Für eine verlorene ecUM wird gemäß [Gebührensatzung der Universität (PDF)](http://www2.uni-mannheim.de/rum/ueber_uns/arbeitsgruppen/itsms/ecum/aktuelles/01_09_2006_neue_gebuehren_fuer_ecum_chipkarten/gebuehrensatzungaktuell.pdf) eine Gebühr in Höhe von 15 Euro erhoben.
 **Ihr Name hat sich geändert oder Ihre ecUM ist kaputt?**Gerne erstellen wir Ihnen kostenfrei eine neue ecUM.
-
-
-### Wofür kann ich die SB-Terminals nutzen?
-
-An den SB-Terminals können Studierende folgende Services nutzen:
-
-- Gültigkeits- bzw. Verlängerungsaufdruck Ihrer ecUM
-- Druckkonto aufladen
-- Bibliotheksgebühren bezahlen
-
-Dafür benötigen Sie:
-
-- Ihre ecUM
-- Ihre Uni-ID
-- das zu Ihrer Uni-ID gehörige Passwort
-
-Bitte beachten Sie, dass für kostenpflichtige Dienste zuvor Guthaben auf Ihre ecUM aufgeladen werden muss.
-**Die SB-Terminals finden Sie an folgenden Standorten (bitte beachten Sie die Öffnungszeiten der jeweiligen Gebäude):**
-
-- A 5, 6 Bauteil A im Foyer
-- A 3 in der Bibliothek
-- Westflügel im Ausleihzentrum der Bibliothek
-
 
 
 ### Bezahlen mit der ecUM: Wo kann ich sie aufladen?
