@@ -7,17 +7,37 @@
 
 ## Das FDZ unterstützt Sie mit verschiedenen Services beim Forschungsdatenmanagement.
 
-- [Datenmanagementpläne & RDMO](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)
+
+
+## Gesamtzer Forschungsdatenlebenszyklus
+
+- [Beratung zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/)
+- [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
+
+
+## Projektplanung
+
+- [Datenmanagementpläne und RDMO](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)
+
+
+## Erhebung und Nachnutzung
+
 - [Automatisierte Texterkennung – OCR](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/)
 - [Automatisierte Spracherkennung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-spracherkennung/)
+- [Eye Tracking und Facial Expression Analysis](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/eye-tracking-und-facial-expression-analysis-fea-mit-imotions/)
 - [Lizenzierung von Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/)
+
+
+## Aufbereitung und Analyse
+
+- [Datenaustausch in einer geschützten Umgebung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenaustausch-in-einer-geschuetzten-umgebung/)
+
+
+## Datenpublikation, Teilen und Archivieren
+
 - [MAObjects – Sammlungen mit digitalen Objekten erstellen](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/)
 - [MADATA – Publikationsserver für Daten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/)
 - [Datenaustausch in einer geschützten Umgebung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenaustausch-in-einer-geschuetzten-umgebung/)
-- [Knowledge Graph Infrastruktur und Linked Data Services](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/)
-- [Data Science Services](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/)
-- [Beratung zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/)
-- [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
 
 
 ### Forschungsdatenzentrum (FDZ)
