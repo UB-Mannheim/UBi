@@ -3,11 +3,13 @@
     display: none !important;
 }
 
-html, body {
+html,
+body {
     height: 100%;
     margin: 0;
     padding: 0;
-    overflow: hidden; /* Prevent browser window scrollbar */
+    overflow: hidden;
+    /* Prevent browser window scrollbar */
 }
 
 #root {
@@ -53,7 +55,7 @@ html, body {
 }
 
 /* Dark theme */
-.dark{
+.dark {
     --background: 0 0% 13%;
     --foreground: 0 0% 93%;
 
@@ -131,7 +133,8 @@ a {
 }
 
 /* Default color for links and buttons inside the header */
-#header a, #header button {
+#header a,
+#header button {
     color: #abb8ca !important;
 }
 
@@ -141,8 +144,12 @@ a {
 }
 
 /* Color for active/hover states */
-#header a:hover, #header a:active, #header a:focus,
-#header button:hover, #header button:active, #header button:focus,
+#header a:hover,
+#header a:active,
+#header a:focus,
+#header button:hover,
+#header button:active,
+#header button:focus,
 #header [aria-current="page"] {
     color: white !important;
     /* The framework might add a background color on hover, let's remove it */
@@ -162,10 +169,15 @@ a {
 
 .font-bold {
     font-family: 'Inter', sans-serif !important;
-    font-weight: 700 !important; 
+    font-weight: 700 !important;
 }
 
 /* Hide the "Policy" heading */
 h2.text-lg.font-semibold.leading-none.tracking-tight {
     display: none !important;
+}
+
+.rounded-full.h-5.w-5 {
+    width: 40px !important;
+    height: 40px !important;
 }
