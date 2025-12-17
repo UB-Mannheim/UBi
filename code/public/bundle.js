@@ -352,7 +352,7 @@ function injectWelcomeStyles() {
         }
 
         .header-logo {
-            width: 100%;
+            width: 10%;
             height: 98px;
             background-repeat: no-repeat;
             background-size: contain;
@@ -361,7 +361,7 @@ function injectWelcomeStyles() {
             position: absolute;
             top: 0;
             left: 0;
-            z-index: -50;
+            z-index: 150;
             margin-top: 60px;
             margin-left: 5%;
         }
@@ -399,10 +399,17 @@ function injectHeaderLogo() {
 
     injectWelcomeStyles(); // Ensure styles are loaded
 
+    const link = document.createElement('a');
+    link.href = 'https://www.bib.uni-mannheim.de/';
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+
     const logoDiv = document.createElement('div');
     logoDiv.id = logoId;
     logoDiv.className = 'header-logo';
-    document.body.appendChild(logoDiv);
+
+    link.appendChild(logoDiv);
+    document.body.appendChild(link);
 }
 
 function updateWelcomeText() {
