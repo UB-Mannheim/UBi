@@ -96,6 +96,7 @@ class SessionMemory:
         global_max_requests: int = 1000,
         global_rate_limit_window: int = 600,
         global_block_duration: int = 3600,
+        admin_passphrase: str = "unlock_aima_2025",
     ):
         self.max_turns = max_turns
         self.max_tokens = max_tokens
@@ -112,6 +113,7 @@ class SessionMemory:
         self.global_max_requests = global_max_requests
         self.global_rate_limit_window = global_rate_limit_window
         self.global_block_duration = global_block_duration
+        self.admin_passphrase = admin_passphrase
         self.global_request_timestamps: List[datetime.datetime] = []
         self.global_blocked_until: Optional[datetime.datetime] = None
 
@@ -278,6 +280,12 @@ class SessionMemory:
 
         # === Global Rate Limit Check ===
         
+        # Check for Admin Passphrase
+        if user_input.strip() == self.admin_passphrase:
+            self.global_blocked_until = None
+            self.global_request_timestamps = []
+            return True, "System unlocked."
+        
         # Check if currently blocked
         if self.global_blocked_until:
              if current_time < self.global_blocked_until:
@@ -432,6 +440,7 @@ session_memory = SessionMemory(
     global_max_requests=RATE_LIMIT_CONFIG["global_max_requests"],
     global_rate_limit_window=RATE_LIMIT_CONFIG["global_rate_limit_window"],
     global_block_duration=RATE_LIMIT_CONFIG["global_block_duration"],
+    admin_passphrase=RATE_LIMIT_CONFIG["admin_passphrase"],
 )
 
 

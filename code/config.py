@@ -24,7 +24,8 @@ RATE_LIMIT_CONFIG = {
     "max_turns_per_session": 24,  # Maximum turns per session
     "max_requests_per_minute": 12,  # Maximum requests per minute
     "rate_limit_window": 60,  # Rate limit window in seconds
-    "global_max_requests": 1000,  # Global maximum requests
+    "global_max_requests": 1, #1000,  # Global maximum requests
     "global_rate_limit_window": 600,  # Global rate limit window in seconds (10 minutes)
     "global_block_duration": 3600,  # Duration to block requests if limit exceeded (1 hour)
+    "admin_passphrase": "DEFCON 5",  # Passphrase to unlock global block
 }
