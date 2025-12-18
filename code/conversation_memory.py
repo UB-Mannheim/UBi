@@ -92,6 +92,10 @@ class SessionMemory:
         max_turns_per_session: int = 24,
         max_requests_per_minute: int = 12,
         rate_limit_window: int = 60,
+        # Global rate limiting configuration
+        global_max_requests: int = 1000,
+        global_rate_limit_window: int = 600,
+        global_block_duration: int = 3600,
     ):
         self.max_turns = max_turns
         self.max_tokens = max_tokens
@@ -103,6 +107,13 @@ class SessionMemory:
         self.max_turns_per_session = max_turns_per_session
         self.max_requests_per_minute = max_requests_per_minute
         self.rate_limit_window = rate_limit_window
+        
+        # Global rate limiting
+        self.global_max_requests = global_max_requests
+        self.global_rate_limit_window = global_rate_limit_window
+        self.global_block_duration = global_block_duration
+        self.global_request_timestamps: List[datetime.datetime] = []
+        self.global_blocked_until: Optional[datetime.datetime] = None
 
         # Session storage (cleared when session ends)
         self.sessions: Dict[str, List[ConversationTurn]] = {}
@@ -263,6 +274,32 @@ class SessionMemory:
         if session_id not in self.contexts:
             self.create_session(session_id)
 
+        current_time = datetime.datetime.now()
+
+        # === Global Rate Limit Check ===
+        
+        # Check if currently blocked
+        if self.global_blocked_until:
+             if current_time < self.global_blocked_until:
+                 remaining = int((self.global_blocked_until - current_time).total_seconds() / 60)
+                 return False, f"Systemüberlastung: Bitte versuchen Sie es in {remaining} Minuten erneut."
+             else:
+                 # Block expired
+                 self.global_blocked_until = None
+        
+        # Clean old global timestamps
+        while (
+            self.global_request_timestamps
+            and (current_time - self.global_request_timestamps[0]).total_seconds()
+            > self.global_rate_limit_window
+        ):
+            self.global_request_timestamps.pop(0)
+            
+        # Check if global limit reached
+        if len(self.global_request_timestamps) >= self.global_max_requests:
+            self.global_blocked_until = current_time + datetime.timedelta(seconds=self.global_block_duration)
+            return False, "Systemüberlastung: Zu viele Anfragen. Das System ist für eine Stunde pausiert."
+
         context = self.contexts[session_id]
 
         # Check character limit per request
@@ -294,7 +331,7 @@ class SessionMemory:
             return False, msg
 
         # Check rate limiting (requests per minute)
-        current_time = datetime.datetime.now()
+        # current_time is already defined above
 
         # Remove timestamps older than the window
         while (
@@ -315,8 +352,12 @@ class SessionMemory:
 
     def record_request(self, session_id: str, user_input: str) -> None:
         """Record a successful request for rate limiting"""
+        # Initialize session if not exists
         if session_id not in self.contexts:
             self.create_session(session_id)
+
+        # Record global request
+        self.global_request_timestamps.append(datetime.datetime.now())
 
         context = self.contexts[session_id]
 
@@ -388,6 +429,9 @@ session_memory = SessionMemory(
     max_turns_per_session=RATE_LIMIT_CONFIG["max_turns_per_session"],
     max_requests_per_minute=RATE_LIMIT_CONFIG["max_requests_per_minute"],
     rate_limit_window=RATE_LIMIT_CONFIG["rate_limit_window"],
+    global_max_requests=RATE_LIMIT_CONFIG["global_max_requests"],
+    global_rate_limit_window=RATE_LIMIT_CONFIG["global_rate_limit_window"],
+    global_block_duration=RATE_LIMIT_CONFIG["global_block_duration"],
 )
 
 
