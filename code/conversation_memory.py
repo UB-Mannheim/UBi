@@ -48,6 +48,7 @@ class SessionContext:
     """Represents the current session context"""
 
     session_id: str
+    session_uuid: Optional[str] = None
     topic: Optional[str] = None
     intent: Optional[str] = None
     entities: Optional[Dict[str, Any]] = None
@@ -62,6 +63,8 @@ class SessionContext:
             self.created_at = datetime.datetime.now()
         if self.request_timestamps is None:
             self.request_timestamps = []
+        if self.session_uuid is None and SESSION_MEMORY_CONFIG["annoymize_feedback_log"]:
+            self.session_uuid = str(uuid.uuid4())
 
     def to_dict(self) -> Dict[str, Any]:
         return {
@@ -377,6 +380,15 @@ class SessionMemory:
             * 100,
         }
 
+    def get_logging_id(self, session_id: str) -> str:
+        """
+        Get the ID to be used for logging (UUID if available, else session_id)
+        """
+        context = self.contexts.get(session_id)
+        if context and context.session_uuid:
+            return context.session_uuid
+        return session_id
+
 
 # Global session memory instance
 session_memory = SessionMemory(
@@ -417,3 +429,9 @@ def create_conversation_context(session_id: str) -> List[Dict[str, str]]:
         context_messages.append({"role": role, "content": turn.content})
 
     return context_messages
+
+def get_session_context(session_id: str) -> SessionContext:
+    """
+    Get the conversation context for a specific session.
+    """
+    return session_memory.contexts.get(str(session_id))

@@ -15,6 +15,7 @@ SESSION_MEMORY_CONFIG = {
     "max_turns": 10,  # Maximum conversation turns to remember
     "max_tokens": 4000,  # Maximum tokens in memory
     "context_window": 5,  # Recent turns to include in context
+    "annoymize_feedback_log": True,
 }
 
 # Rate Limiting Configuration

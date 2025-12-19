@@ -17,6 +17,7 @@ from chainlit.types import (
     ThreadFilter,
 )
 from db import save_interaction
+from conversation_memory import get_session_context
 
 
 class CustomDataLayer(BaseDataLayer):
@@ -97,7 +98,11 @@ class CustomDataLayer(BaseDataLayer):
     def _get_session_id(self) -> str:
         """Get the current session ID with fallback to 'unknown'."""
         try:
-            return cl.user_session.get("session_id") or "unknown"
+            session_id = cl.user_session.get("session_id") or "unknown"
+            session_context = get_session_context(session_id)
+            if session_context and session_context.session_uuid:
+                return session_context.session_uuid
+            return cl.user_session.get("session_id", "unknown")
         except Exception:
             return "unknown"
 

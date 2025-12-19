@@ -225,7 +225,7 @@ async def handle_openai_vectorstore_query(
             session_id, MessageRole.ASSISTANT, error_response
         )
         await save_interaction(
-            session_id, user_input, error_response, augmented_input
+            session_memory.get_logging_id(session_id), user_input, error_response, augmented_input
         )
         return False, error_response
 
@@ -242,7 +242,7 @@ async def handle_openai_vectorstore_query(
     # Save interaction
     session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_answer)
     await save_interaction(
-        session_id, user_input, full_answer, augmented_input
+        session_memory.get_logging_id(session_id), user_input, full_answer, augmented_input
     )
     return True, full_answer
 
@@ -293,7 +293,7 @@ async def handle_local_rag_query(
             session_id, MessageRole.ASSISTANT, full_response
         )
         await save_interaction(
-            session_id, user_input, full_response, augmented_input
+            session_memory.get_logging_id(session_id), user_input, full_response, augmented_input
         )
         return True, full_response
 
@@ -312,7 +312,7 @@ async def handle_local_rag_query(
             session_id, MessageRole.ASSISTANT, error_response
         )
         await save_interaction(
-            session_id, user_input, error_response, augmented_input
+            session_memory.get_logging_id(session_id), user_input, error_response, augmented_input
         )
         return False, error_response
 
@@ -342,8 +342,8 @@ async def handle_news_route(
 
     # Add to memory
     session_memory.add_turn(session_id, MessageRole.USER, user_input)
-    session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
-    await save_interaction(session_id, user_input, response)
+    session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)  
+    await save_interaction(session_memory.get_logging_id(session_id), user_input, response)
     return response
 
 
@@ -400,7 +400,7 @@ async def handle_sitzplatz_route(
         session_memory.add_turn(
             session_id, MessageRole.ASSISTANT, error_response
         )
-        await save_interaction(session_id, user_input, error_response)
+        await save_interaction(session_memory.get_logging_id(session_id), user_input, error_response)
         return error_response
 
 
@@ -423,7 +423,7 @@ async def handle_event_route(
     # Add to memory
     session_memory.add_turn(session_id, MessageRole.USER, user_input)
     session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
-    await save_interaction(session_id, user_input, response)
+    await save_interaction(session_memory.get_logging_id(session_id), user_input, response)
     return response
 
 
@@ -452,7 +452,8 @@ async def on_chat_start():
 
 # === Chat Message Handler ===
 @cl.on_message
-async def on_message(message: cl.Message):
+async def on_message(message: cl.Message): 
+
     session_id = cl.user_session.get("session_id") or "unknown"
 
     # Get message content and session_id
@@ -503,7 +504,7 @@ async def on_message(message: cl.Message):
         # Add to memory
         session_memory.add_turn(session_id, MessageRole.USER, user_input)
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
-        await save_interaction(session_id, user_input, response)
+        await save_interaction(session_memory.get_logging_id(session_id), user_input, response)
         return
 
     # Create chat message
