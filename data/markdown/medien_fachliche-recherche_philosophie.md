@@ -18,7 +18,7 @@ Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tip
 
 [Datenbanken zur Philosophie](https://dbis.ur.de/UBMAN/browse/subjects/31/) und zu anderen Fachgebieten finden Sie über das Datenbank-Infosystem (DBIS).
 [Fachinformationsdienst (FID) Philosophie](https://philportal.de/)
-Direktlink zum [Philosopher's Index](https://web.p.ebscohost.com/ehost/search/advanced?vid=2&sid=da9e106c-e993-46bc-87d9-9b6fa7d741ef%40redis)
+Direktlink zum [Philosopher's Index](https://dbis.uni-regensburg.de/UBMAN/resources/1022?lang=de)
 
 
 ### E-Journals

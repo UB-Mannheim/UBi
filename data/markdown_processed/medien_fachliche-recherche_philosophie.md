@@ -1,34 +1,36 @@
 ---
-title: Fachliche Recherche und Services der UB Mannheim für Philosophie – Literatur, Datenbanken, Kurse, Kontakt
+title: Fachliche Recherche und Services der Universitätsbibliothek Mannheim für das Fach Philosophie
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/philosophie/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/philosophy/
 category: Medien
-tags: ['Philosophie', 'Fachrecherche', 'Datenbanken', 'E-Books', 'E-Journals', 'Kurse', 'Wissenschaftliches Arbeiten', 'Kontakt']
+tags: ['Philosophie', 'Fachinformation', 'Datenbanken', 'E-Books', 'E-Journals', 'Recherche', 'Schulungen', 'Kontakt']
 language: de
 ---
 
-# Philosophie – Fachliche Recherche und Services
+# Philosophie an der Universitätsbibliothek Mannheim
 
-Für das Fach Philosophie bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken, E-Books, E-Journals, Internetquellen, Kurse und individuelle Beratung an.
+Die Universitätsbibliothek Mannheim bietet für das Fach Philosophie ein breites Spektrum an Literatur, Datenbanken und Rechercheeinstiegen. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, die beim wissenschaftlichen Arbeiten und der Recherche unterstützen.
 
 ## Recherchieren
 
 ### Datenbanken
 
-- [Datenbanken zur Philosophie (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/31/)
+- [Datenbanken zur Philosophie im DBIS](https://dbis.ur.de/UBMAN/browse/subjects/31/)
 - [Fachinformationsdienst (FID) Philosophie](https://philportal.de/)
-- [Philosopher's Index](https://web.p.ebscohost.com/ehost/search/advanced?vid=2&sid=da9e106c-e993-46bc-87d9-9b6fa7d741ef%40redis)
+- [Philosopher's Index](https://dbis.uni-regensburg.de/UBMAN/resources/1022?lang=de)
 
 ### E-Journals
 
-- Übersicht: [Elektronische Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=CA-CI)
-- Einzelne Zeitschriften: [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
+- Übersicht über E-Journals: [Elektronische Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=CA-CI)
+- Recherche nach einzelnen Zeitschriften: [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
 - [Open-Access-Zeitschriften in der Philosophie](https://www.dgphil.de/die-dgphil/open-access-zeitschriften-1)
 
 ### E-Books
 
+Die Universitätsbibliothek bietet ein umfangreiches E-Book-Angebot für Philosophie. Zugriff erfolgt über das Universitätsnetz.
+
 - Recherche: [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
-- Hinweise: [E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)
+- Hinweise zur Nutzung: [E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -79,7 +81,7 @@ Für das Fach Philosophie bietet die Universitätsbibliothek Mannheim Literatur,
 - [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): Literatur zum Fach Philosophie, frei zugänglich, nach [Themengebieten (RVK)](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/CA%20-%20CK) aufgestellt. Ausleihe nur für wissenschaftliches Personal.
 - [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Weitere Literatur zur Philosophie, ausleihbar mit ecUM oder UB-Chipkarte.
 - Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel: Wichtige Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen, mehrfach vorhanden.
-- Recherche aller Bestände: [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
+- Online-Recherche: [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
 
 ### Forschungseinrichtungen vor Ort
 
@@ -88,12 +90,12 @@ Für das Fach Philosophie bietet die Universitätsbibliothek Mannheim Literatur,
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
-- [Kurs für das Fach Philosophie: speziell für Studierende vor dem Examen](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=1220609)
+- [Kurs für das Fach Philosophie (speziell für Studierende vor dem Examen)](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=1220609)
 
 ## Wissenschaftliches Arbeiten
 
@@ -105,7 +107,7 @@ Beispiele:
 - [Guidelines on Writing a Philosophy Paper](http://www.jimpryor.net/teaching/guidelines/writing.html) (online)
 - [Hübner, Dietmar: Zehn Gebote für das philosophische Schreiben](https://elibrary.utb.de/doi/book/10.36198/9783838540184) (eBook)
 
-Weitere Angebote:
+Unterstützung durch:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
