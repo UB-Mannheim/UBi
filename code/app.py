@@ -473,6 +473,11 @@ async def on_message(message: cl.Message):
             content=error_message or "Rate limit exceeded", author="assistant"
         ).send()
         return
+    if error_message == "System unlocked.":
+        await cl.Message(
+            content="System unlocked. You shall pass, again!", author="assistant"
+        ).send()
+        return
 
     # Record the request if it passes all checks
     session_memory.record_request(session_id, user_input)
