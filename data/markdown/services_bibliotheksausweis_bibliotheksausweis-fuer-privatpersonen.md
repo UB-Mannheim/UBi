@@ -29,7 +29,7 @@ Mit der UB-Chipkarte und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie
 - Wir benachrichtigen Sie nach maximal zwei Werktagen per E-Mail, wann und wo Sie Ihre UB-Chipkarte und Ihre Zugangsdaten abholen können. Bringen Sie zum Abholen Ihren gültigen Personalausweis oder Ihren gültigen Reisepass mit Meldebescheinigung mit und unterschreiben Sie den Antrag vor Ort.
 - Mit der Anmeldung wird eine einmalige Gebühr von 25 EUR fällig. Begleichen Sie die Gebühr bitte direkt nach dem Abholen der Karte per [Überweisung](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/).
 - Für Mitglieder von Absolventum Mannheim entfällt die Bibliotheksgebühr. Bitte legen Sie beim Abholen der UB-Chipkarte Ihren Mitgliedsausweis vor.
-- Minderjährige benötigen eine [Bürgschaftserklärung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/buergschaft.pdf) (PDF, 75 KB) des gesetzlichen Vertreters.
+- Minderjährige benötigen eine [Bürgschaftserklärung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/buergschaft.pdf) (PDF, 75 KB) des gesetzlichen Vertreters. Eine Anmeldung unter 16 Jahren ist im Einzelfall möglich.
 
 
 

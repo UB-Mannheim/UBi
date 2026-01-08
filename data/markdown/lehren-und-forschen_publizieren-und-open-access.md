@@ -39,9 +39,8 @@ Sie möchten Ihren Artikel bei einem Verlag im Open Access publizieren? Profitie
 
 ### ACM (Journals und Proceedings)
 
-Im Rahmen der ACM OPEN Vereinbarung mit dem Verlag Association for Computing Machinery (ACM) können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim in hybriden Zeitschriften (Journals) und Konferenzveröffentlichungen (Proceedings) des Verlags direkt im Open Access publizieren, ohne dass Ihnen dabei Kosten entstehen. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. März 2021 und dem 31. Dezember 2027 veröffentlicht wird.
+Im Rahmen der [ACM OPEN](https://authors.acm.org/open-access) Vereinbarung mit dem Verlag Association for Computing Machinery (ACM) können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim in den Zeitschriften (Journals) und Konferenzveröffentlichungen (Proceedings) des Verlags im Open Access publizieren, ohne dass Ihnen dabei Kosten entstehen. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. März 2021 und dem 31. Dezember 2027 veröffentlicht wird.
 [Informationen beim Verlag zu den Zeitschriften und Proceedings mit Listen von Ausnahmen](https://libraries.acm.org/subscriptions-access/publications-eligible-for-oa)
-[ACM OPEN FAQs](https://libraries.acm.org/subscriptions-access/acmopen-faq)
 Darüber hinaus erhalten Sie im Rahmen der Vereinbarung einen vollen Lesezugriff auf die ACM Digital Library.
 
 

@@ -3,7 +3,7 @@ title: Bibliotheksausweis für Privatpersonen – Anmeldung und Nutzung für Nic
 source_url_de: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/library-card/library-card-for-non-university-members/
 category: Benutzung
-tags: ['Bibliotheksausweis', 'Privatpersonen', 'Anmeldung', 'Gebühren', 'UB-Chipkarte', 'InfoCenter', 'Metropolregion Rhein-Neckar', 'Nutzung']
+tags: ['Bibliotheksausweis', 'Privatpersonen', 'Anmeldung', 'Gebühren', 'Chipkarte', 'InfoCenter', 'Metropolregion Rhein-Neckar', 'Nutzung']
 language: de
 ---
 
@@ -11,7 +11,7 @@ language: de
 
 ## Voraussetzungen und Leistungen
 
-Wenn Sie in der Metropolregion Rhein-Neckar oder in Baden-Württemberg wohnen, arbeiten oder studieren, können Sie für eine einmalige Gebühr von 25 Euro die UB-Chipkarte online beantragen.
+Wenn Sie in der Metropolregion Rhein-Neckar oder in Baden-Württemberg wohnen, arbeiten oder studieren, können Sie die UB-Chipkarte für eine einmalige Gebühr von 25 Euro online beantragen.
 
 Mit der UB-Chipkarte und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 
@@ -23,7 +23,10 @@ Mit der UB-Chipkarte und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 
 [Metropolregion Rhein-Neckar](https://de.wikipedia.org/wiki/Metropolregion_Rhein-Neckar#/media/File:ZMRN.png)
 
-**Hinweis:** Internetnutzung und WLAN sind nur für Angehörige der Universität möglich. Die Lernräume der UB können Sie auch ohne Bibliotheksausweis nutzen.
+**Hinweise:**
+
+- Internetnutzung und WLAN sind nur für Angehörige der Universität möglich.
+- Die Lernräume der UB können ohne Bibliotheksausweis genutzt werden.
 
 ## Anmeldung
 
@@ -31,7 +34,7 @@ Mit der UB-Chipkarte und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 1. Sie werden innerhalb von maximal zwei Werktagen per E-Mail benachrichtigt, wann und wo Sie Ihre UB-Chipkarte und Zugangsdaten abholen können. Bringen Sie dazu Ihren gültigen Personalausweis oder Reisepass mit Meldebescheinigung mit und unterschreiben Sie den Antrag vor Ort.
 1. Die einmalige Gebühr von 25 EUR ist direkt nach Abholung der Karte per [Überweisung](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/) zu begleichen.
 1. Für Mitglieder von Absolventum Mannheim entfällt die Bibliotheksgebühr. Bitte legen Sie beim Abholen der UB-Chipkarte Ihren Mitgliedsausweis vor.
-1. Minderjährige benötigen eine [Bürgschaftserklärung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/buergschaft.pdf) (PDF, 75 KB) des gesetzlichen Vertreters.
+1. Minderjährige benötigen eine [Bürgschaftserklärung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/buergschaft.pdf) (PDF, 75 KB) des gesetzlichen Vertreters. Eine Anmeldung unter 16 Jahren ist im Einzelfall möglich.
 
 ## Ersatz bei Verlust oder Defekt
 
@@ -42,7 +45,7 @@ Bei Verlust oder Defekt Ihrer UB-Chipkarte wenden Sie sich bitte an die Infothek
 - Alle Benachrichtigungen (z. B. Vormerkungen, Mahnungen) werden an die im Formular „Online-Anmeldung für Externe“ angegebene E-Mail-Adresse gesendet.
 - Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dazu Ihren Personalausweis oder alternativ Ihren Reisepass mit Meldebescheinigung mit.
 
-Weitere Informationen:
+## Weitere Informationen
 
 - [Bibliotheksausweis für Angehörige der Universität Mannheim](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/)
 - [Bibliotheksausweis für Angehörige der Uni HD, DHBW, HS MA, HS LU und anderer kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
