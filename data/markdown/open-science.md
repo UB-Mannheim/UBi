@@ -53,17 +53,9 @@ The Open Science Council serves as a advisory body which suppports the Open Scie
 
 
 
-### Open Science Day 2025
+### Using Quarto to Create Reproducible Manuscripts
 
 
 
-### Introduction to Open Science
-
-
-
-### Open Access (course canceled)
-
-
-
-### Open Educational Resources (OER) (course canceled)
+### Research Funding Requirements for Open Science and Research ...
 
