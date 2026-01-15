@@ -17,8 +17,7 @@ Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tip
 ### Datenbanken
 
 [Datenbanken zur Medien- und Kommunikationswissenschaft](https://dbis.ur.de/UBMAN/browse/subjects/25/) sowie zu anderen Fachgebieten finden Sie über das Datenbank-Infosystem (DBIS).
-[Fachinformationsdienst für die Medien-, Kommunikations- und Filmwissenschaft (adlr.link)](https://katalog.adlr.link/)
-[Datenbanken mit adlr.link-Lizenz](https://katalog.adlr.link/myresearch/databases)
+[Datenbanken mit Lizenz des Fachinformationsdienstes MKW](https://katalog.adlr.link/myresearch/databases)
 Beachten Sie ergänzend auch die Datenbanken zu den Fachgebieten [Allgemeines](https://dbis.ur.de/UBMAN/browse/subjects/) sowie [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](https://dbis.ur.de/UBMAN/browse/subjects/4/).
 
 
