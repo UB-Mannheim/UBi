@@ -30,9 +30,8 @@ if (window.aimaBundleLoaded) {
 
     // Check if terms are accepted
     function checkTermsAccepted() {
-        const cookieName = cookieConfig.name;
-        const hasAccepted = document.cookie.split("; ").find(row => row.startsWith(cookieName + "="));
-        return hasAccepted !== undefined;
+        // Always return true to disable terms check
+        return true;
     }
 
     // Load terms.css if cookie is not accepted
@@ -53,8 +52,8 @@ if (window.aimaBundleLoaded) {
 
     // Listen for accept_terms_button action clicks
     document.addEventListener('DOMContentLoaded', function () {
-        // Load terms CSS if cookie is not accepted
-        loadTermsCSS();
+        // Load terms CSS if cookie is not accepted (DISABLED)
+        // loadTermsCSS();
         // Monitor for action button clicks
         const observer = new MutationObserver(function (mutations) {
             mutations.forEach(function (mutation) {
@@ -104,7 +103,7 @@ if (window.aimaBundleLoaded) {
         checkAndToggleVisibility();
     }
 
-    monitorAndHideDiv();
+    // monitorAndHideDiv();
 
     // Global functions to be called from Chainlit
     window.setTermsCookie = setTermsCookie;
@@ -221,70 +220,70 @@ if (window.aimaBundleLoaded) {
             setTimeout(waitForReadmeButton, 100);
         }
     }
-} // End of the main execution block
+    // } // End of the main execution block (Moved to end of file)
 
-// 3. Create or Update Footer
-function createOrUpdateFooter(config, lastUpdated) {
-    let footer = document.getElementById("app-footer");
-    if (!footer) {
-        footer = document.createElement("div");
-        footer.id = "app-footer";
-        document.body.appendChild(footer);
+    // 3. Create or Update Footer
+    function createOrUpdateFooter(config, lastUpdated) {
+        let footer = document.getElementById("app-footer");
+        if (!footer) {
+            footer = document.createElement("div");
+            footer.id = "app-footer";
+            document.body.appendChild(footer);
+        }
+
+        // Build footer links HTML from config
+        let linksHTML = '';
+        if (config.footer && config.footer.links) {
+            linksHTML = Object.values(config.footer.links).map(link =>
+                `·<a href="${link.href}" target="_blank">${link.text}</a>`
+            ).join('');
+        }
+
+        // Determine the version/date string from the definitive value passed in
+        let versionText = "";
+        if (lastUpdated) {
+            versionText = `· v${lastUpdated}`;
+        }
+
+        const copyrightText = (config.footer && config.footer.copyright) ? config.footer.copyright : '';
+
+        footer.innerHTML = `<span>${copyrightText}${linksHTML}${versionText}</span>`;
+
+        // Style the footer and its links
+        updateFooterStyle(footer);
     }
 
-    // Build footer links HTML from config
-    let linksHTML = '';
-    if (config.footer && config.footer.links) {
-        linksHTML = Object.values(config.footer.links).map(link =>
-            `·<a href="${link.href}" target="_blank">${link.text}</a>`
-        ).join('');
+    // 4. Update Footer Styling (handles dark mode)
+    function updateFooterStyle(footerElement) {
+        const footerHeight = 18;
+        const isDark = document.documentElement.classList.contains("dark");
+        const root = document.querySelector("#root") || document.body;
+        const appBackgroundColor = getComputedStyle(root).backgroundColor;
+
+        Object.assign(footerElement.style, {
+            position: "fixed", bottom: "0", left: "0", width: "100%",
+            background: appBackgroundColor,
+            color: isDark ? "#ccc" : "#999",
+            borderTop: `0px solid ${isDark ? "#444" : "#eee"}`,
+            fontSize: "12px", zIndex: "1000", height: `${footerHeight}px`,
+            display: "flex", justifyContent: "center", alignItems: "center", gap: "10px"
+        });
+        footerElement.querySelectorAll("a").forEach(link => {
+            link.style.color = isDark ? "#ccc" : "#999";
+            link.style.margin = "0 5px";
+            link.style.textDecoration = "none";
+        });
     }
 
-    // Determine the version/date string from the definitive value passed in
-    let versionText = "";
-    if (lastUpdated) {
-        versionText = `· v${lastUpdated}`;
-    }
+    // --- Welcome Screen Customization ---
 
-    const copyrightText = (config.footer && config.footer.copyright) ? config.footer.copyright : '';
+    function injectWelcomeStyles() {
+        const styleId = 'welcome-screen-styles';
+        if (document.getElementById(styleId)) return;
 
-    footer.innerHTML = `<span>${copyrightText}${linksHTML}${versionText}</span>`;
-
-    // Style the footer and its links
-    updateFooterStyle(footer);
-}
-
-// 4. Update Footer Styling (handles dark mode)
-function updateFooterStyle(footerElement) {
-    const footerHeight = 18;
-    const isDark = document.documentElement.classList.contains("dark");
-    const root = document.querySelector("#root") || document.body;
-    const appBackgroundColor = getComputedStyle(root).backgroundColor;
-
-    Object.assign(footerElement.style, {
-        position: "fixed", bottom: "0", left: "0", width: "100%",
-        background: appBackgroundColor,
-        color: isDark ? "#ccc" : "#999",
-        borderTop: `0px solid ${isDark ? "#444" : "#eee"}`,
-        fontSize: "12px", zIndex: "1000", height: `${footerHeight}px`,
-        display: "flex", justifyContent: "center", alignItems: "center", gap: "10px"
-    });
-    footerElement.querySelectorAll("a").forEach(link => {
-        link.style.color = isDark ? "#ccc" : "#999";
-        link.style.margin = "0 5px";
-        link.style.textDecoration = "none";
-    });
-}
-
-// --- Welcome Screen Customization ---
-
-function injectWelcomeStyles() {
-    const styleId = 'welcome-screen-styles';
-    if (document.getElementById(styleId)) return;
-
-    const style = document.createElement('style');
-    style.id = styleId;
-    style.textContent = `
+        const style = document.createElement('style');
+        style.id = styleId;
+        style.textContent = `
         .speech-bubble {
             display: inline-block;
             flex: 1;
@@ -388,45 +387,60 @@ function injectWelcomeStyles() {
             }
         }
     `;
-    document.head.appendChild(style);
-}
-
-function injectHeaderLogo() {
-    if (!checkTermsAccepted()) return;
-
-    const logoId = 'global-header-logo';
-    if (document.getElementById(logoId)) return;
-
-    injectWelcomeStyles(); // Ensure styles are loaded
-
-    const link = document.createElement('a');
-    link.href = 'https://www.bib.uni-mannheim.de/';
-    link.target = '_blank';
-    link.rel = 'noopener noreferrer';
-
-    const logoDiv = document.createElement('div');
-    logoDiv.id = logoId;
-    logoDiv.className = 'header-logo';
-
-    link.appendChild(logoDiv);
-    document.body.appendChild(link);
-}
-
-function updateWelcomeText() {
-    const bubble = document.querySelector('.speech-bubble');
-    if (bubble && window.aimaConfig && window.aimaConfig.welcome_message) {
-        // Handle newlines by replacing \n with <br>
-        bubble.innerHTML = window.aimaConfig.welcome_message.replace(/\n/g, '<br>');
-    }
-}
-
-function getWelcomeHTML() {
-    let welcomeMessage = "Hello, i am UBi, the KI-Chatbot of the University Library Mannheim. How can i help you?";
-    if (window.aimaConfig && window.aimaConfig.welcome_message) {
-        welcomeMessage = window.aimaConfig.welcome_message.replace(/\n/g, '<br>');
+        document.head.appendChild(style);
     }
 
-    return `
+    function injectHeaderLogo() {
+        // if (!checkTermsAccepted()) return; // checkTermsAccepted is now always true, but we want logo regardless or logic might need adjustment. 
+        // Assuming we always want logo if it was previously conditional on terms. 
+        // But original code said: "Inject Header Logo if terms accepted". So yes.
+
+        const logoId = 'global-header-logo';
+        if (document.getElementById(logoId)) return;
+
+        injectWelcomeStyles(); // Ensure styles are loaded
+
+        const link = document.createElement('a');
+        link.href = 'https://www.bib.uni-mannheim.de/';
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+
+        const logoDiv = document.createElement('div');
+        logoDiv.id = logoId;
+        logoDiv.className = 'header-logo';
+
+        link.appendChild(logoDiv);
+        document.body.appendChild(link);
+    }
+
+    function parseMarkdown(text) {
+        if (!text) return "";
+        let html = text
+            // Bold (**text**)
+            .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>')
+            // Italic (*text*)
+            .replace(/\*(.*?)\*/g, '<i>$1</i>')
+            // Link ([text](url))
+            .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
+            // Newlines
+            .replace(/\n/g, '<br>');
+        return html;
+    }
+
+    function updateWelcomeText() {
+        const bubble = document.querySelector('.speech-bubble');
+        if (bubble && window.aimaConfig && window.aimaConfig.welcome_message) {
+            bubble.innerHTML = parseMarkdown(window.aimaConfig.welcome_message);
+        }
+    }
+
+    function getWelcomeHTML() {
+        let welcomeMessage = "Hello, i am UBi, the KI-Chatbot of the University Library Mannheim. How can i help you?";
+        if (window.aimaConfig && window.aimaConfig.welcome_message) {
+            welcomeMessage = parseMarkdown(window.aimaConfig.welcome_message);
+        }
+
+        return `
         <div class="custom-welcome-container">
             <div class="welcome-header">
                 <div class="avatar-wrapper">
@@ -438,47 +452,63 @@ function getWelcomeHTML() {
             </div>
         </div>
     `;
-}
+    }
 
-
-function customizeWelcomeScreen() {
-    const allButtons = Array.from(document.querySelectorAll('button'));
-
-    // Find the default starter button (Öffnungszeiten)
-    // Since we are not replacing the container anymore, the default button will be present.
-    const defaultStarter = allButtons.find(btn => btn.textContent.includes("Öffnungszeiten"));
-
-    if (defaultStarter) {
-        const startersContainer = defaultStarter.parentElement;
-        if (startersContainer) {
-            let targetContainer = startersContainer;
-            // Traverse up to find the main container
-            let depth = 0;
-            while (targetContainer && targetContainer.parentElement && !targetContainer.classList.contains('flex-col') && depth < 5) {
-                targetContainer = targetContainer.parentElement;
-                depth++;
+    // Handle Readme Link Clicks
+    document.addEventListener('click', function (e) {
+        // Check if the clicked element is a link with href="/readme"
+        const target = e.target.closest('a');
+        if (target && target.getAttribute('href') === '/readme') {
+            e.preventDefault();
+            const readmeBtn = document.getElementById('readme-button');
+            if (readmeBtn) {
+                readmeBtn.click();
+            } else {
+                console.warn('AIMA: readme-button not found.');
             }
+        }
+    });
 
-            // The structure is usually: Button -> Div (Starters) -> Div (Welcome)
-            const containerToModify = startersContainer.parentElement;
+    // ... existing observer code ...
+    function customizeWelcomeScreen() {
+        const allButtons = Array.from(document.querySelectorAll('button'));
 
-            if (containerToModify && !containerToModify.getAttribute('data-custom-welcome')) {
-                containerToModify.setAttribute('data-custom-welcome', 'true');
-                injectWelcomeStyles();
-                // Prepend the custom welcome header to the existing content
-                containerToModify.insertAdjacentHTML('afterbegin', getWelcomeHTML());
+        // Find the default starter button (Öffnungszeiten)
+        // Since we are not replacing the container anymore, the default button will be present.
+        const defaultStarter = allButtons.find(btn => btn.textContent.includes("Öffnungszeiten"));
 
-                // We don't need setupWelcomeScreenInteractions anymore as we are using default items
+        if (defaultStarter) {
+            const startersContainer = defaultStarter.parentElement;
+            if (startersContainer) {
+                let targetContainer = startersContainer;
+                // Traverse up to find the main container
+                let depth = 0;
+                while (targetContainer && targetContainer.parentElement && !targetContainer.classList.contains('flex-col') && depth < 5) {
+                    targetContainer = targetContainer.parentElement;
+                    depth++;
+                }
+
+                // The structure is usually: Button -> Div (Starters) -> Div (Welcome)
+                const containerToModify = startersContainer.parentElement;
+
+                if (containerToModify && !containerToModify.getAttribute('data-custom-welcome')) {
+                    containerToModify.setAttribute('data-custom-welcome', 'true');
+                    injectWelcomeStyles();
+                    // Prepend the custom welcome header to the existing content
+                    containerToModify.insertAdjacentHTML('afterbegin', getWelcomeHTML());
+
+                    // We don't need setupWelcomeScreenInteractions anymore as we are using default items
+                }
             }
         }
     }
+
+    const welcomeObserver = new MutationObserver((mutations) => {
+        customizeWelcomeScreen();
+    });
+
+    welcomeObserver.observe(document.body, {
+        childList: true,
+        subtree: true
+    });
 }
-
-const welcomeObserver = new MutationObserver((mutations) => {
-    customizeWelcomeScreen();
-});
-
-welcomeObserver.observe(document.body, {
-    childList: true,
-    subtree: true
-});

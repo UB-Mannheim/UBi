@@ -23,7 +23,7 @@ from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
 from rss_reader import get_rss_items
 from session_stats import check_session_warnings, get_session_usage_message
-from terms_conditions import ask_terms_acceptance, check_terms_accepted
+
 from translations import translate
 from utils import (
     extract_openai_response_data,
@@ -433,14 +433,6 @@ async def on_chat_start():
     session_id = cl.user_session.get("id") or "unknown"
     cl.user_session.set("session_id", session_id)
 
-    # Check if terms are accepted
-    terms_accepted = check_terms_accepted()
-
-    if not terms_accepted:
-        await ask_terms_acceptance()
-        # Don't proceed until terms are accepted
-        return
-
     # Clear any existing session memory for this user
     session_memory.clear_session(session_id)
 
@@ -457,12 +449,6 @@ async def on_message(message: cl.Message):
 
     # Get message content and session_id
     user_input = message.content.strip()
-
-    # Check if Terms of Use are accepted
-    terms_accepted = check_terms_accepted()
-    if not terms_accepted:
-        await ask_terms_acceptance()
-        return
 
     # Check rate limits
     allowed, error_message = session_memory.check_rate_limits(

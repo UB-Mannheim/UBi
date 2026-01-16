@@ -21,7 +21,7 @@
       "padding": "12px 0px 10px 0px"
     }
   },
-  "welcome_message": "Hallo, ich bin <i>UBi</i>,\n der KI-Chatbot der <a style='color: #232e58; font-weight: bold; text-decoration: none; text-decoration-line: none !important;' target='_blank' href='https://www.bib.uni-mannheim.de/'>Universitätsbibliothek Mannheim</a>.\nDu kannst mir Fragen zu unseren Services stellen.\nFür Literaturrecherchen nutze bitte unseren <a style='color: #232e58; font-weight: bold; text-decoration: none; text-decoration-line: none !important;' target='_blank' href='https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB'>Bibliothekskatalog</a>.\n\n Wie kann ich dir helfen? – <i>How can I help you?</i>",
+  "welcome_message": "Hallo, ich bin <i>UBi</i>,\n der KI-Chatbot der <a style='color: #232e58; font-weight: bold; text-decoration: none !important;' target='_blank' href='https://www.bib.uni-mannheim.de/'>Universitätsbibliothek Mannheim</a>.\nDu kannst mir Fragen zu unseren Services stellen.\nPersonenbezogene Daten dürfen nicht eingegeben werden.\nEs gelten die <a href='/readme'>Nutzungsbedingungen</a>.\nFür Literaturrecherchen nutze bitte unseren <a style='color: #232e58; font-weight: bold; text-decoration: none !important;' target='_blank' href='https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB'>Bibliothekskatalog</a>.",
   "footer": {
     "copyright": "\u00a9 2025",
     "links": {
