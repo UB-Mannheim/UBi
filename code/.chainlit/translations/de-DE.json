@@ -57,7 +57,7 @@
     },
     "chat": {
         "input": {
-            "placeholder": "Geben Sie hier Ihre Nachricht ein...",
+            "placeholder": "Wie kann ich dir helfen? - How can I help you?",
             "actions": {
                 "send": "Nachricht senden",
                 "stop": "Aufgabe beenden",
