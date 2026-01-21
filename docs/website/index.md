@@ -1,6 +1,6 @@
-# 🤖 AIMA – Artificially Intelligent Mannheim Assistant
+# 🤖 UBi – Agentic AI-Chatbot of UB Mannheim
 
-*AIMA* is an AI-powered assistant for the [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de). Here we collect information about our experience on building it.
+*UBi* is an AI-powered assistant for the [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de). Here we collect information about our experience on building it.
 
 ## Data Collection and Processing
 

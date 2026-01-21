@@ -7,7 +7,7 @@ from rich import print
 import time
 from typing import Optional
 
-# === AIMA imports ===
+# === UBi imports ===
 from config import ENV_PATH
 from conversation_memory import (
     MessageRole,
@@ -54,7 +54,7 @@ if USE_OPENAI_VECTORSTORE:
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
     client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     print(
-        f"[bold]🔗 AIMA runs with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}"
+        f"[bold]🔗 UBi runs with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}"
     )
 
 

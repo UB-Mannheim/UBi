@@ -1,6 +1,6 @@
 services:
   app:
-    image: localhost/aima:latest
+    image: localhost/ubi:latest
     build: .
     volumes:
       - /etc/localtime:/etc/localtime:ro

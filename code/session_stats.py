@@ -1,5 +1,5 @@
 """
-Session Statistics Module for AIMA
+Session Statistics Module for UBi
 Provides user-friendly session statistics and usage information
 """
 

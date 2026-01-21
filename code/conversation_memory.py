@@ -1,5 +1,5 @@
 """
-Conversation Memory Module for AIMA
+Conversation Memory Module for UBi
 Handles session-based conversation state and context management
 """
 

@@ -1,6 +1,6 @@
-# 🤖 AIMA – Agentic Intelligent Mannheim Assistant
+# 🤖 UBi – Agentic AI-Chatbot of UB Mannheim
 
-*AIMA* is an agentic AI-powered assistant for the [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de), built with Chainlit and LangChain. It combines large language models (LLMs) with data from the library website to deliver context-aware answers.
+*UBi* is an agentic AI-powered assistant for the [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de), built with Chainlit and LangChain. It combines large language models (LLMs) with data from the library website to deliver context-aware answers.
 
 ## 🚀 Features
 
@@ -31,8 +31,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/UB-Mannheim/AIMA.git
-cd AIMA/code
+git clone https://github.com/UB-Mannheim/UBi.git
+cd UBi/code
 ```
 
 ### 2. Move `.env.template` to `.env` and add your OpenAI API key
