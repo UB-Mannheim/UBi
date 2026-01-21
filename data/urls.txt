@@ -111,10 +111,10 @@ https://www.bib.uni-mannheim.de/medien/weitere-kataloge/
 https://www.bib.uni-mannheim.de/medien/zeitungen/
 https://www.bib.uni-mannheim.de/oeffnungszeiten/
 https://www.bib.uni-mannheim.de/services/
-https://www.bib.uni-mannheim.de/services/arbeitsplaetze/
-https://www.bib.uni-mannheim.de/services/arbeitsplaetze/palma-team-monitore/
-https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schliessfaecher/
-https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schulungsraum-m-218/
+https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/
+https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/
+https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schliessfaecher/
+https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/
 https://www.bib.uni-mannheim.de/services/bibliotheksausweis/
 https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/
 https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/
