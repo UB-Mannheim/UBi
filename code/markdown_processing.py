@@ -12,7 +12,6 @@ import utils
 from config import CRAWL_DIR, DATA_DIR
 from langchain_openai import ChatOpenAI
 from prompts import PROMPT_POST_PROCESSING
-from rich import print
 from tqdm import tqdm
 
 
@@ -89,10 +88,10 @@ def safe_remove_file(
         file_path.unlink()
         if processed_files is not None:
             processed_files.add(file_path.name)
-        print(f"[bold blue]Removed {file_path.name} after successful merge.")
+        utils.print_info(f"[bold blue]Removed {file_path.name} after successful merge.")
         return True
     except Exception as e:
-        print(f"[bold yellow]Warning: Could not remove {file_path.name}: {e}")
+        utils.print_err(f"[bold yellow]Warning: Could not remove {file_path.name}: {e}")
         return False
 
 
@@ -164,7 +163,7 @@ def run_markdown_formatting(input_dir: str):
     # Ensure directory exists
     input_path = Path(input_dir)
     if not input_path.exists() or not input_path.is_dir():
-        print(
+        utils.print_err(
             f"[bold yellow]Directory not found or not a directory: {input_dir}"
         )
         return
@@ -172,24 +171,24 @@ def run_markdown_formatting(input_dir: str):
     # Load all .md from input_dir
     files_to_process = list(Path(input_dir).glob("*.md"))
     if not files_to_process:
-        print(f"[bold yellow]No .md files found in {input_dir}.")
+        utils.print_info(f"[bold yellow]No .md files found in {input_dir}.")
         return
 
-    print(
+    utils.print_info(
         f"[bold][Formatting Markdown] {len(files_to_process)} file(s) in {input_dir}"
     )
 
     count = 0
-    for file_path in tqdm(files_to_process, desc="Formatting"):
+    for file_path in tqdm(files_to_process, desc="Formatting", disable=utils.is_quiet_mode()):
         try:
             raw_content = file_path.read_text(encoding="utf-8")
             formatted_content = validate_and_format_markdown(raw_content)
             file_path.write_text(formatted_content, encoding="utf-8")
             count += 1
         except Exception as e:
-            print(f"❌ Error formatting {file_path.name}: {e}")
+            utils.print_err(f"❌ Error formatting {file_path.name}: {e}")
 
-    print(
+    utils.print_info(
         f"[bold green]Formatted {count}/{len(files_to_process)} file(s) in {input_dir}"
     )
 
@@ -271,7 +270,7 @@ async def process_single_file_async(
     """
     content = file_path.read_text(encoding="utf-8")
 
-    print(f"[bold]Processing {file_path} ...")
+    utils.print_info(f"[bold]Processing {file_path} ...")
 
     # LLM interaction
     messages = create_llm_messages(prompt, content)
@@ -317,7 +316,7 @@ def process_markdown_files_with_llm(
         if len(input_files) != len(files_to_process):
             missing_files = [f for f in files_to_process if not f.exists()]
             for missing_file in missing_files:
-                print(f"[bold yellow]Warning: File not found: {missing_file}")
+                utils.print_err(f"[bold yellow]Warning: File not found: {missing_file}")
     else:
         input_files = list(Path(input_dir).glob("*.md"))
 
@@ -332,7 +331,7 @@ def process_markdown_files_with_llm(
         max_retries=2,
     )
 
-    print(f"[bold][Processing Markdown Files with {model_name}]")
+    utils.print_info(f"[bold][Processing Markdown Files with {model_name}]")
 
     # For single file or small batches, use sequential processing to avoid async overhead
     if len(input_files) <= 2:
@@ -353,7 +352,7 @@ def process_markdown_files_with_llm(
                         await asyncio.sleep(delay_between_requests)
                     return result
                 except Exception as e:
-                    print(f"❌ Error processing {file_path.name}: {e}")
+                    utils.print_err(f"❌ Error processing {file_path.name}: {e}")
                     return None
 
         # Create tasks for all files
@@ -367,6 +366,7 @@ def process_markdown_files_with_llm(
             asyncio.as_completed(tasks),
             total=len(tasks),
             desc="LLM Processing",
+            disable=utils.is_quiet_mode(),
         ):
             result = await coro
             if result:
@@ -377,13 +377,13 @@ def process_markdown_files_with_llm(
     # Run the async processing
     try:
         completed_count = asyncio.run(process_files_async())
-        print(
+        utils.print_info(
             f"[bold green]Successfully processed {completed_count}/{len(input_files)} files"
         )
     except Exception as e:
-        print(f"[bold red]Error during batch processing: {e}")
+        utils.print_err(f"[bold red]Error during batch processing: {e}")
         # Fallback to sequential processing
-        print("[bold yellow]Falling back to sequential processing...")
+        utils.print_info("[bold yellow]Falling back to sequential processing...")
         process_markdown_files_sequential(llm, input_files, output_path)
 
 
@@ -391,9 +391,9 @@ def process_markdown_files_sequential(llm, input_files, output_path):
     """
     Fallback sequential processing if async fails.
     """
-    for file_path in tqdm(input_files, desc="LLM Processing"):
+    for file_path in tqdm(input_files, desc="LLM Processing", disable=utils.is_quiet_mode()):
         try:
-            print(f"[bold]Processing {file_path} ...")
+            utils.print_info(f"[bold]Processing {file_path} ...")
             content = file_path.read_text(encoding="utf-8")
 
             # LLM interaction
@@ -411,10 +411,10 @@ def process_markdown_files_sequential(llm, input_files, output_path):
             time.sleep(0.2)
 
         except Exception as e:
-            print(f"❌ Error processing {file_path.name}: {e}")
+            utils.print_err(f"❌ Error processing {file_path.name}: {e}")
 
 
-def process_standorte(data_path: Path, verbose: bool = False):
+def process_standorte(data_path: Path):
     """
     Post-processing function that finds standorte markdown files and appends
     related contact information from linked pages.
@@ -424,11 +424,10 @@ def process_standorte(data_path: Path, verbose: bool = False):
     standorte_files = list(data_path.glob("standorte*.md"))
 
     if not standorte_files:
-        print("[bold]No standorte files found for contact processing.")
+        utils.print_info("[bold]No standorte files found for contact processing.")
         return
 
-    if verbose:
-        print("[bold][Processing Standorte Contacts]")
+    utils.print_info("[bold][Processing Standorte Contacts]")
 
     # Group files by their base name (e.g., "bb-a3", "bb-a5" ...)
     file_groups = {}
@@ -462,14 +461,13 @@ def process_standorte(data_path: Path, verbose: bool = False):
             contact_link_pattern = r"\[.*?Ansprechpersonen.*?\]\((https://www\.bib\.uni-mannheim\.de/[^)]+)\)"
             matches = re.findall(contact_link_pattern, content, re.IGNORECASE)
 
-            if not matches and verbose:
-                print(
+            if not matches:
+                utils.print_info(
                     f"[bold yellow]No 'Ansprechpersonen' found in {shortest_file.name}"
                 )
                 continue
 
-            if verbose:
-                print(
+            utils.print_info(
                     f"[bold]Found {len(matches)} contact links in {shortest_file.name}"
                 )
 
@@ -480,17 +478,15 @@ def process_standorte(data_path: Path, verbose: bool = False):
 
                 # Skip if this contact file has already been processed
                 if contact_filename in processed_contacts:
-                    if verbose:
-                        print(
-                            f"[bold yellow]Skipping {contact_filename} - already processed"
+                    utils.print_info(
+                        f"[bold yellow]Skipping {contact_filename} - already processed"
                         )
-                        continue
+                    continue
 
                 if contact_file_path.exists():
-                    if verbose:
-                        print(
-                            f"[bold]Appending content from {contact_filename}"
-                        )
+                    utils.print_info(
+                        f"[bold]Appending content from {contact_filename}"
+                    )
 
                     # Read contact content
                     contact_content = contact_file_path.read_text(
@@ -520,39 +516,37 @@ def process_standorte(data_path: Path, verbose: bool = False):
                         # Write back to file
                         shortest_file.write_text(new_content, encoding="utf-8")
                         processed_count += 1
-                        print(
+                        utils.print_info(
                             f"[bold green]Appended contact information to {shortest_file.name}"
                         )
 
                         # Remove the contact file after successful merge
                         safe_remove_file(contact_file_path, processed_contacts)
 
-                        print(
+                        utils.print_info(
                             f"[bold green]Done. Processed {processed_count} contact files."
                         )
                     else:
-                        if verbose:
-                            print(
-                                f"[bold red]Error: No content found in {contact_filename}"
-                            )
-                else:
-                    if verbose:
-                        print(
-                            f"[bold red]Contact file not found: {contact_filename}"
+                        utils.print_err(
+                            f"[bold red]Error: No content found in {contact_filename}"
                         )
+                else:
+                    utils.print_err(
+                        f"[bold red]Contact file not found: {contact_filename}"
+                    )
 
         except Exception as e:
-            print(f"[bold red]Error processing {shortest_file.name}: {e}")
+            utils.print_err(f"[bold red]Error processing {shortest_file.name}: {e}")
 
 
-def process_direktion(data_path: Path, verbose: bool = False):
+def process_direktion(data_path: Path):
     """
-    Augemnt "ihre-ub_ansprechpersonen_direktion.md"
+    Augment "ihre-ub_ansprechpersonen_direktion.md"
     """
     # Find "direktion" markdown
     direktion_md = list(data_path.glob("*direktion.md"))
     if not direktion_md:
-        print("[bold ]No '*direktion.md' for processing.")
+        utils.print_info("[bold ]No '*direktion.md' for processing.")
         return
 
     try:
@@ -581,13 +575,13 @@ def process_direktion(data_path: Path, verbose: bool = False):
         # Write augmented file
         direktion_md[0].write_text(md_data, encoding="utf-8")
 
-        print("[bold green]Done. Augmented 'Direktion' markdown page.")
+        utils.print_info("[bold green]Done. Augmented 'Direktion' markdown page.")
 
     except Exception as e:
-        print(f"[bold red]Error processing Direktionen files: {e}")
+        utils.print_err(f"[bold red]Error processing Direktionen files: {e}")
 
 
-def process_semesterapparat(data_path: Path, verbose: bool = False):
+def process_semesterapparat(data_path: Path):
     """
     Post-processing function that finds the semesterapparat application file
     and appends its content to the parent semesterapparat file.
@@ -599,7 +593,7 @@ def process_semesterapparat(data_path: Path, verbose: bool = False):
     ]
 
     if not semesterapparat_files:
-        print("[bold]No parent semesterapparat file found for processing.")
+        utils.print_info("[bold]No parent semesterapparat file found for processing.")
         return
 
     parent_file = semesterapparat_files[0]
@@ -612,10 +606,9 @@ def process_semesterapparat(data_path: Path, verbose: bool = False):
 
     antrag_file = antrag_files[0]
 
-    if verbose:
-        print("[bold][Processing Semesterapparat Application]")
-        print(f"[bold]Parent file: {parent_file.name}")
-        print(f"[bold]Application file: {antrag_file.name}")
+    utils.print_info("[bold][Processing Semesterapparat Application]")
+    utils.print_info(f"[bold]Parent file: {parent_file.name}")
+    utils.print_info(f"[bold]Application file: {antrag_file.name}")
 
     try:
         # Read parent file content
@@ -659,27 +652,26 @@ def process_semesterapparat(data_path: Path, verbose: bool = False):
 
             # Write back to parent file
             parent_file.write_text(new_content, encoding="utf-8")
-            print(
+            utils.print_info(
                 f"[bold green]Appended application information to {parent_file.name}"
             )
 
             # Remove the application file after successful merge
             safe_remove_file(antrag_file)
 
-            print(
+            utils.print_info(
                 "[bold green]Done. Processed semesterapparat application file."
             )
         else:
-            if verbose:
-                print(
-                    f"[bold red]Error: No content found in {antrag_file.name}"
-                )
+            utils.print_err(
+                f"[bold red]Error: No content found in {antrag_file.name}"
+            )
 
     except Exception as e:
-        print(f"[bold red]Error processing semesterapparat files: {e}")
+        utils.print_err(f"[bold red]Error processing semesterapparat files: {e}")
 
 
-def process_shibboleth(data_path: Path, verbose: bool = False):
+def process_shibboleth(data_path: Path):
     """
     Appends the content from the shibboleth markdown file to the parent
     e-books-e-journals-und-datenbanken.md file, placing the parent's
@@ -692,7 +684,7 @@ def process_shibboleth(data_path: Path, verbose: bool = False):
         )
     )
     if not parent_files:
-        print(
+        utils.print_info(
             "[bold]No parent e-books-e-journals-und-datenbanken file found for processing."
         )
         return
@@ -709,10 +701,9 @@ def process_shibboleth(data_path: Path, verbose: bool = False):
 
     shib_file = shib_files[0]
 
-    if verbose:
-        print("[bold][Processing Shibboleth Append]")
-        print(f"[bold]Parent file: {parent_file.name}")
-        print(f"[bold]Shibboleth file: {shib_file.name}")
+    utils.print_info("[bold][Processing Shibboleth Append]")
+    utils.print_info(f"[bold]Parent file: {parent_file.name}")
+    utils.print_info(f"[bold]Shibboleth file: {shib_file.name}")
 
     try:
         # Read parent file content
@@ -748,44 +739,41 @@ def process_shibboleth(data_path: Path, verbose: bool = False):
                 new_content = parent_content + separator + adjusted_content
 
             parent_file.write_text(new_content, encoding="utf-8")
-            print(
+            utils.print_info(
                 f"[bold green]Appended shibboleth information to {parent_file.name}"
             )
 
             # Remove the shibboleth file after successful merge
             safe_remove_file(shib_file)
 
-            print("[bold green]Done. Processed shibboleth file.")
+            utils.print_info("[bold green]Done. Processed shibboleth file.")
         else:
-            if verbose:
-                print(f"[bold red]Error: No content found in {shib_file.name}")
+            utils.print_err(f"[bold red]Error: No content found in {shib_file.name}")
 
     except Exception as e:
-        print(f"[bold red]Error processing shibboleth files: {e}")
+        utils.print_err(f"[bold red]Error processing shibboleth files: {e}")
 
 
-def additional_post_processing(
-    data_dir: str = str(DATA_DIR), verbose: bool = False
-):
+def additional_post_processing(data_dir: str = str(DATA_DIR)):
     """
     Additional post-processing for already LLM processed markdown files.
     """
     data_path = Path(data_dir)
     if not data_path.exists():
-        print(f"[bold red]Data directory {data_dir} does not exist!")
+        utils.print_err(f"[bold red]Data directory {data_dir} does not exist!")
         return
 
     # Process "standorte" files
-    process_standorte(data_path=data_path, verbose=verbose)
+    process_standorte(data_path=data_path)
 
     # Augment "direktion" markdown
-    process_direktion(data_path=data_path, verbose=verbose)
+    process_direktion(data_path=data_path)
 
     # Process "semesterapparat" application file
-    process_semesterapparat(data_path=data_path, verbose=verbose)
+    process_semesterapparat(data_path=data_path)
 
     # Process "shibboleth" file
-    process_shibboleth(data_path=data_path, verbose=verbose)
+    process_shibboleth(data_path=data_path)
 
 
 @click.command()
@@ -793,7 +781,7 @@ def additional_post_processing(
     "--input-dir",
     "-i",
     default=None,
-    help="Input directory containing markdown files to process (default: CRAWL_DIR).",
+    help="Input directory containing markdown files to process (Default: CRAWL_DIR).",
 )
 @click.option(
     "--files",
@@ -805,43 +793,47 @@ def additional_post_processing(
     "--model-name",
     "-m",
     default="gpt-4.1-2025-04-14",
-    help="Model name for LLM postprocessing. (default: gpt-4.1-2025-04-14)",
+    help="Model name for LLM postprocessing. (Default: gpt-4.1-2025-04-14)",
 )
 @click.option(
     "--temperature",
     "-t",
     default=0,
-    help="LLM temperature for post-processing. (default: 0)",
+    help="LLM temperature for post-processing. (Default: 0)",
 )
 @click.option(
     "--llm-processing/--no-llm-processing",
     "-llm",
     default=True,
-    help="Run LLM post-processing on markdown files. (default: True)",
+    help="Run LLM post-processing on markdown files. (Default: True)",
 )
 @click.option(
     "--additional-processing/--no-additional-processing",
     "-add",
     default=True,
-    help="Run additional post-processing on markdown files. (default: True)",
+    help="Run additional post-processing on markdown files. (Default: True)",
 )
 @click.option(
     "--format-markdown/--no-format-markdown",
     "-format",
     default=False,
-    help="Run only markdown formatting for all files in input_dir. (default: False)",
+    help="Run only markdown formatting for all files in input_dir. (Default: False)",
 )
 @click.option(
     "--write-snapshot/--no-write-snapshot",
     "-snapshot",
     default=True,
-    help="Write a hash snapshot to input_dir. (default: True)",
+    help="Write a hash snapshot to input_dir. (Default: True)",
 )
 @click.option(
-    "--verbose/--no-verbose",
-    "-v",
+    "--quiet",
+    "-q",
+    is_flag=True,
     default=False,
-    help="Enable verbose output during post-processing. (default: False)",
+    help=(
+        "Only print errors to stdout. Suppresses progress bars "
+        "and info messages. (Default: True)"
+    ),
 )
 def run_post_processing(
     input_dir: str,
@@ -852,11 +844,15 @@ def run_post_processing(
     additional_processing: bool,
     format_markdown: bool,
     write_snapshot: bool,
-    verbose: bool,
+    quiet: bool
 ):
     """
     CLI for post-processing markdown files.
     """
+    # Set quiet mode
+    if quiet or utils.is_quiet_mode():
+        utils.set_quiet_mode(True)
+
     # Determine which files to process
     files_to_process = []
 
@@ -882,16 +878,17 @@ def run_post_processing(
             if file_path.exists():
                 files_to_process.append(file_path)
             else:
-                print(f"[bold yellow]Warning: File not found: {f}")
+                utils.print_err(f"[bold yellow]Warning: File not found: {f}")
 
-        print(
-            f"[bold]Processing {len(files_to_process)} markdown file(s):\n{', '.join(str(f) for f in files_to_process)}"
+        utils.print_info(
+            f"[bold]Processing {len(files_to_process)} markdown file(s):\n"
+            f"{', '.join(str(f) for f in files_to_process)}"
         )
 
     # input_dir option
     elif input_dir:
         files_to_process = list(Path(input_dir).glob("*.md"))
-        print(
+        utils.print_info(
             f"[bold]Processing {len(files_to_process)} markdown files in {input_dir}."
         )
 
@@ -903,7 +900,7 @@ def run_post_processing(
         )
 
     if not files_to_process:
-        print("[bold yellow]No files to process. Exiting.")
+        utils.print_info("[bold yellow]No files to process. Exiting.")
         return
 
     # Post-processing with LLM
@@ -918,12 +915,12 @@ def run_post_processing(
 
     # Additional post-processing
     if additional_processing:
-        additional_post_processing(data_dir=str(DATA_DIR), verbose=verbose)
+        additional_post_processing(data_dir=str(DATA_DIR))
 
     # Markdown formatting only
     if format_markdown:
         if not input_dir:
-            print(
+            utils.print_info(
                 "[bold yellow]Please provide an input_dir for markdown formatting."
             )
             return

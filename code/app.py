@@ -3,7 +3,6 @@ import os
 import chainlit as cl
 from dotenv import load_dotenv
 from fastapi import Request, Response
-from rich import print
 import time
 from typing import Optional
 
@@ -23,21 +22,22 @@ from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
 from rss_reader import get_rss_items
 from session_stats import check_session_warnings, get_session_usage_message
-
 from translations import translate
 from utils import (
     extract_openai_response_data,
     print_openai_extracted_data,
-    clean_old_backup_dirs
+    clean_old_backup_dirs,
+    print_info,
+    print_err
 )
 
 
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
-USE_OPENAI_VECTORSTORE = (
-    True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" else False
-)
-DEBUG = True if os.getenv("DEBUG") == "True" else False
+USE_OPENAI_VECTORSTORE = os.getenv(
+    "USE_OPENAI_VECTORSTORE", "False"
+    ).lower() == "true"
+_quiet_mode = os.getenv("QUIET_MODE", "False").lower() == "true"
 
 
 # === Conditional Imports for OpenAI vectorstore / RAG logic ===
@@ -53,7 +53,7 @@ if USE_OPENAI_VECTORSTORE:
     initialize_vectorstore()
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
     client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    print(
+    print_info(
         f"[bold]🔗 UBi runs with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}"
     )
 
@@ -62,7 +62,7 @@ if USE_OPENAI_VECTORSTORE:
 try:
     modify_html_template()
 except Exception as e:
-    print(f"[bold]Warning: Could not modify HTML template: {e}")
+    print_err(f"[bold]Warning: Could not modify HTML template: {e}")
 
 
 # === Backup Cleanup ===
@@ -72,12 +72,12 @@ try:
         max_age_days=int(os.getenv("DELETE_BACKUPS_AFTER"))
     )
     if deleted:
-        print(f"[bold]🧹 Pruned {len(deleted)} old backup(s):")
-        print("\n".join(p.name for p in deleted))
+        print_info(f"[bold]🧹 Pruned {len(deleted)} old backup(s):")
+        print_info("\n".join(p.name for p in deleted))
     else:
-        print("[bold]🧹 No backups to prune")
+        print_info("[bold]🧹 No backups to prune")
 except Exception as e:
-    print(f"[bold]Warning: Could not prune backups: {e}")
+    print_err(f"[bold]Warning: Could not prune backups: {e}")
 
 
 # === Authentication (optional) ===
@@ -180,8 +180,7 @@ async def handle_openai_vectorstore_query(
         # Start new chat_history
         chat_history = [{"role": "user", "content": augmented_input}]
 
-    if DEBUG:
-        print(f"💬 Chat history: {chat_history}")
+    print_info(f"💬 Chat history: {chat_history}")
 
     full_answer = ""
     try:
@@ -195,13 +194,13 @@ async def handle_openai_vectorstore_query(
                     "max_num_results": 6,
                 }
             ],
-            include=["file_search_call.results"] if DEBUG else None,
+            include=["file_search_call.results"] if not _quiet_mode else None,
             instructions=get_instructions(detected_language),
             stream=True,
             temperature=0,
         )
         async for event in stream:
-            if event.type == "response.completed" and DEBUG:
+            if event.type == "response.completed" and not _quiet_mode:
                 results_data, usage_data = extract_openai_response_data(
                     event.response
                 )
@@ -261,7 +260,7 @@ async def handle_local_rag_query(
     """
     rag_chain = cl.user_session.get("rag_chain")
     if not rag_chain:
-        rag_chain = await create_rag_chain(debug=DEBUG)
+        rag_chain = await create_rag_chain(debug=False)
         cl.user_session.set("rag_chain", rag_chain)
 
     try:
@@ -438,7 +437,7 @@ async def on_chat_start():
 
     # If using RAG, load the chain
     if not USE_OPENAI_VECTORSTORE:
-        rag_chain = await create_rag_chain(debug=DEBUG)
+        rag_chain = await create_rag_chain(debug=False)
         cl.user_session.set("rag_chain", rag_chain)
 
 
@@ -504,7 +503,7 @@ async def on_message(message: cl.Message):
     detected_language, route, augmented_input = await route_and_augment_query(
         client if USE_OPENAI_VECTORSTORE else None,
         prepare_query_for_router(user_input, chat_history),
-        debug=DEBUG,
+        quiet=_quiet_mode,
     )
 
     # "News" Route

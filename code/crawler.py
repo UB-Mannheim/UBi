@@ -1,19 +1,18 @@
+import aiohttp
 import asyncio
+import click
 import re
+import requests
 import xml.etree.ElementTree as ET
+from bs4 import BeautifulSoup, Tag
 from pathlib import Path
 from typing import Optional
 from urllib.parse import urljoin
+from tqdm import tqdm
 
-import aiohttp
-import click
-import requests
 import utils
-from bs4 import BeautifulSoup, Tag
 from config import CRAWL_DIR, DATA_DIR, URLS_TO_CRAWL
 from markdown_processing import write_markdown_from_url
-from rich import print
-from tqdm import tqdm
 
 
 # === Crawler Funtions ===
@@ -60,9 +59,9 @@ async def crawl_urls(
                     file.write(url + "\n")
         return clean_urls
     except aiohttp.ClientError as e:
-        print(f"Error fetching the XML: {e}")
+        utils.error_print(f"[bold red]Error fetching the XML: {e}")
     except ET.ParseError as e:
-        print(f"Error parsing the XML: {e}")
+        utils.error_print(f"[bold red]Error parsing the XML: {e}")
 
 
 def parse_english_url(element: Tag, url: str) -> list[str]:
@@ -494,18 +493,23 @@ def find_specified_tags(
     return clean_tags
 
 
-def process_urls(urls: list[str], output_dir: str = ""):
+def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = None):
     """
     Processes a list of URLs by fetching their content and extracting specific
     HTML tags and classes. The extracted content can be saved into individual
     or a single markdown file. Returns a list of changed/new filenames.
+
+    Args:
+        urls: List of URLs to process.
+        output_dir: Directory to save markdown files.
+        quiet: If True, disable progress bar. Defaults to QUIET_MODE env var.
     """
     # Backup output_dir if it exists
     if output_dir:
         utils.backup_dir_with_timestamp(output_dir)
 
     changed_files = []
-    for url in tqdm(urls, desc="Crawling URLs"):
+    for url in tqdm(urls, desc="Crawling URLs", disable=quiet):
         response = requests.get(url)
         content_single_page = []
 
@@ -566,8 +570,8 @@ def process_urls(urls: list[str], output_dir: str = ""):
             # Get main <div class="page content"> and ignore footer tag
             page_content = soup.find("div", id="page-content")
             if page_content is None:
-                print(
-                    f"[bold]Error: page_content not found! Skipping {url} ..."
+                utils.error_print(
+                    f"[bold red]Error: page_content not found! Skipping {url} ..."
                 )
                 continue
 
@@ -596,28 +600,39 @@ def process_urls(urls: list[str], output_dir: str = ""):
 
         if response.status_code == 404:
             # If markdown file(s) for 404 URL exist locally remove them
-            print(f"[bold]Error 404: {url} not found! Skipping ...")
+            utils.print_err(f"[bold red]Error 404: {url} not found! Skipping ...")
             fpath_md = utils.get_markdown_filepath_for_url(url, CRAWL_DIR)
             fpath_md_proc = utils.get_markdown_filepath_for_url(url, DATA_DIR)
             for fpath in [fpath_md, fpath_md_proc]:
                 if fpath.exists():
                     utils.delete_filepath(fpath)
-                    print(f"[bold]Deleted {fpath} as {url} returns 404 ...")
+                    utils.print_err(f"[bold red]Deleted {fpath} as {url} returns 404 ...")
 
     return changed_files
 
 
 @click.command()
 @click.option(
-    "--write-hashes-only/--no-write-hashes-only",
+    "--quiet",
+    "-q",
+    is_flag=True,
+    default=False,
+    help="Only print errors to stdout. Suppresses progress bars and info messages.",
+)
+@click.option(
+    "--write-hashes-only",
     "-w",
     default=False,
     help="Only write file hashes for CRAWL_DIR and exit.",
 )
-def main(write_hashes_only) -> Optional[list[str] | list[Path]]:
+def main(quiet: bool, write_hashes_only: bool) -> Optional[list[str] | list[Path]]:
     """
     Main crawling function.
     """
+    # Set quiet mode
+    if quiet:
+        utils.set_quiet_mode(True)
+
     # Write hashes only and exit
     if write_hashes_only:
         utils.write_hashes_for_directory(CRAWL_DIR)
@@ -626,12 +641,12 @@ def main(write_hashes_only) -> Optional[list[str] | list[Path]]:
     # Crawl URLs
     file_path = URLS_TO_CRAWL
     if file_path.exists():
-        print(f"[bold]Using {str(URLS_TO_CRAWL)} to crawl URLs.")
+        utils.print_info(f"[bold]Using {str(URLS_TO_CRAWL)} to crawl URLs.")
         with file_path.open("r", encoding="utf-8") as f:
             urls = [line.strip() for line in f if line.strip()]
     else:
         sitemap_url = "https://www.bib.uni-mannheim.de/xml-sitemap/"
-        print(f"[bold]Crawling all URLs from {sitemap_url}")
+        utils.print_info(f"[bold]Crawling all URLs from {sitemap_url}")
         urls = asyncio.run(
             crawl_urls(
                 sitemap_url=sitemap_url,
@@ -660,9 +675,10 @@ def main(write_hashes_only) -> Optional[list[str] | list[Path]]:
         process_urls(
             urls=urls,
             output_dir=CRAWL_DIR,
+            quiet=quiet or utils.is_quiet_mode(),
         )
     else:
-        print("[bold red]No URLs found to crawl. Exiting.")
+        utils.print_err("[bold red]No URLs found to crawl. Exiting.")
         return
 
     # Hash-based file change detection in CRAWL_DIR
@@ -670,13 +686,13 @@ def main(write_hashes_only) -> Optional[list[str] | list[Path]]:
 
     if changed_files:
         changed_files_str = "\n".join(str(f) for f in changed_files)
-        print(
+        utils.print_info(
             f"[bold green]{len(changed_files)} changed file(s) detected in {CRAWL_DIR}:"
         )
-        print(f"[bold green]{changed_files_str}")
+        utils.print_info(f"[bold green]{changed_files_str}")
         return changed_files
     else:
-        print("[bold]No markdown files changed.")
+        utils.print_info("[bold]No markdown files changed.")
 
 
 if __name__ == "__main__":
