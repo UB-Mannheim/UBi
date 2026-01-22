@@ -115,6 +115,9 @@ class CustomDataLayer(BaseDataLayer):
     async def delete_step(self, step_id: str) -> None:
         self.steps.pop(step_id, None)
 
+    async def get_favorite_steps(self) -> List["StepDict"]:
+        return []
+
     async def get_thread_author(self, thread_id: str) -> str:
         return self.threads.get(thread_id, {}).get("userId", "Unknown")
 
