@@ -52,6 +52,11 @@ if (window.aimaBundleLoaded) {
 
     // Listen for accept_terms_button action clicks
     document.addEventListener('DOMContentLoaded', function () {
+        // Normalize markup to avoid validator complaints from dynamic UI
+        scheduleMarkupNormalization();
+        ensureWelcomeLinkStyles();
+        applyPolicyLinkStyling();
+
         // Load terms CSS if cookie is not accepted (DISABLED)
         // loadTermsCSS();
         // Monitor for action button clicks
@@ -68,6 +73,9 @@ if (window.aimaBundleLoaded) {
                                     setTermsCookie();
                                 });
                             }
+                            scheduleMarkupNormalization();
+                            ensureWelcomeLinkStyles();
+                            applyPolicyLinkStyling();
                         }
                     });
                 }
@@ -104,6 +112,154 @@ if (window.aimaBundleLoaded) {
     }
 
     // monitorAndHideDiv();
+
+    function normalizeMarkup(root) {
+        const scope = root || document;
+        // Remove obsolete style type attributes to satisfy validators.
+        scope.querySelectorAll('style[type]').forEach((styleEl) => {
+            styleEl.removeAttribute('type');
+        });
+        // Ensure button children are phrasing content.
+        scope.querySelectorAll('button').forEach((button) => {
+            Array.from(button.children).forEach((child) => {
+                if (child.tagName === 'DIV' || child.tagName === 'P') {
+                    const span = document.createElement('span');
+                    Array.from(child.attributes).forEach((attr) => {
+                        span.setAttribute(attr.name, attr.value);
+                    });
+                    while (child.firstChild) {
+                        span.appendChild(child.firstChild);
+                    }
+                    child.replaceWith(span);
+                }
+            });
+        });
+        // Ensure span children are phrasing content.
+        scope.querySelectorAll('span').forEach((span) => {
+            Array.from(span.children).forEach((child) => {
+                if (child.tagName === 'P' || child.tagName === 'DIV') {
+                    const inlineSpan = document.createElement('span');
+                    Array.from(child.attributes).forEach((attr) => {
+                        inlineSpan.setAttribute(attr.name, attr.value);
+                    });
+                    while (child.firstChild) {
+                        inlineSpan.appendChild(child.firstChild);
+                    }
+                    child.replaceWith(inlineSpan);
+                }
+            });
+        });
+        // Remove aria-controls pointing to non-existent IDs.
+        scope.querySelectorAll('[aria-controls]').forEach((el) => {
+            const targetId = el.getAttribute('aria-controls');
+            if (targetId && !document.getElementById(targetId)) {
+                el.removeAttribute('aria-controls');
+            }
+        });
+    }
+
+    let normalizeQueued = false;
+    function scheduleMarkupNormalization() {
+        if (normalizeQueued) return;
+        normalizeQueued = true;
+        window.requestAnimationFrame(() => {
+            normalizeQueued = false;
+            normalizeMarkup(document);
+            if (window.cl_shadowRootElement) {
+                normalizeMarkup(window.cl_shadowRootElement);
+            }
+            ensureWelcomeLinkStyles();
+            applyPolicyLinkStyling();
+        });
+    }
+
+    function ensureWelcomeLinkStyles() {
+        const styleId = 'ubi-welcome-link-style';
+        const css = [
+            '.ubi-welcome-link {',
+            '  color: #232e58 !important;',
+            '  font-weight: 700 !important;',
+            '  text-decoration: none !important;',
+            '  position: relative !important;',
+            '  padding-left: 1.1em !important;',
+            '  display: inline-block !important;',
+            '}',
+            '.ubi-welcome-link::before {',
+            '  content: "" !important;',
+            '  position: absolute !important;',
+            '  left: 0 !important;',
+            '  top: 0.15em !important;',
+            '  width: 0.9em !important;',
+            '  height: 0.9em !important;',
+            '  background-repeat: no-repeat !important;',
+            '  background-size: contain !important;',
+            '  background-image: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'%23232e58\' stroke-width=\'2\' stroke-linecap=\'round\' stroke-linejoin=\'round\'><path d=\'M10 13a5 5 0 0 1 0-7l2-2a5 5 0 1 1 7 7l-2 2\'/><path d=\'M14 11a5 5 0 0 1 0 7l-2 2a5 5 0 1 1-7-7l2-2\'/></svg>") !important;',
+            '}',
+            '.ubi-welcome-link--external::before {',
+            '  background-image: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'%23232e58\' stroke-width=\'2\' stroke-linecap=\'round\' stroke-linejoin=\'round\'><path d=\'M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\'/><path d=\'M15 3h6v6\'/><path d=\'M10 14 21 3\'/></svg>") !important;',
+            '}',
+            '.ubi-welcome-link:hover, .ubi-welcome-link:focus {',
+            '  text-decoration-line: underline !important;',
+            '  text-decoration-thickness: 2px !important;',
+            '  text-decoration-style: solid !important;',
+            '}'
+            ,
+            '.ubi-welcome-link:active, .ubi-welcome-link:visited {',
+            '  text-decoration: none !important;',
+            '}'
+        ].join('\n');
+
+        const inject = (root) => {
+            if (!root) return;
+            const existing = root.getElementById
+                ? root.getElementById(styleId)
+                : root.querySelector(`#${styleId}`);
+            if (existing) return;
+            const styleEl = document.createElement('style');
+            styleEl.id = styleId;
+            styleEl.textContent = css;
+            if (root.head) {
+                root.head.appendChild(styleEl);
+            } else {
+                root.appendChild(styleEl);
+            }
+        };
+
+        inject(document);
+        if (window.cl_shadowRootElement) {
+            inject(window.cl_shadowRootElement);
+        }
+    }
+
+    function applyPolicyLinkStyling() {
+        const applyInRoot = (root) => {
+            if (!root || !root.querySelectorAll) return;
+            const headings = Array.from(root.querySelectorAll('h1, h2, h3'));
+            const policyHeading = headings.find((heading) => {
+                const text = heading.textContent || '';
+                return text.toLowerCase().includes('nutzungsbedingungen');
+            });
+            if (!policyHeading) return;
+            const container =
+                policyHeading.closest('[role="dialog"]') ||
+                policyHeading.closest('article') ||
+                policyHeading.closest('section') ||
+                policyHeading.parentElement;
+            if (!container) return;
+            container.querySelectorAll('a').forEach((link) => {
+                link.classList.add('ubi-welcome-link');
+                const href = link.getAttribute('href') || '';
+                if (/^https?:\/\//i.test(href)) {
+                    link.classList.add('ubi-welcome-link--external');
+                }
+            });
+        };
+
+        applyInRoot(document);
+        if (window.cl_shadowRootElement) {
+            applyInRoot(window.cl_shadowRootElement);
+        }
+    }
 
     // Global functions to be called from Chainlit
     window.setTermsCookie = setTermsCookie;
@@ -287,7 +443,7 @@ if (window.aimaBundleLoaded) {
         .speech-bubble {
             display: inline-block;
             flex: 1;
-            padding: 12px 16px;
+            padding: 12px 12px;
             background: #e8e8e8;
             border-radius: 12px;
             font-family: system-ui, sans-serif;

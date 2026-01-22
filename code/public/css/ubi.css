@@ -125,6 +125,44 @@ a {
     text-decoration-style: solid !important;
 }
 
+/* Welcome message links */
+.ubi-welcome-link {
+    color: #232e58 !important;
+    font-weight: 700 !important;
+    text-decoration: none !important;
+    position: relative !important;
+    padding-left: 1.1em !important;
+    display: inline-block !important;
+}
+
+.ubi-welcome-link::before {
+    content: "" !important;
+    position: absolute !important;
+    left: 0 !important;
+    top: 0.15em !important;
+    width: 0.9em !important;
+    height: 0.9em !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23232e58' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M10 13a5 5 0 0 1 0-7l2-2a5 5 0 1 1 7 7l-2 2'/><path d='M14 11a5 5 0 0 1 0 7l-2 2a5 5 0 1 1-7-7l2-2'/></svg>") !important;
+}
+
+.ubi-welcome-link--external::before {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23232e58' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6'/><path d='M15 3h6v6'/><path d='M10 14 21 3'/></svg>") !important;
+}
+
+.ubi-welcome-link:hover,
+.ubi-welcome-link:focus {
+    text-decoration-line: underline !important;
+    text-decoration-thickness: 2px !important;
+    text-decoration-style: solid !important;
+}
+
+.ubi-welcome-link:active,
+.ubi-welcome-link:visited {
+    text-decoration: none !important;
+}
+
 /* Custom Header Styles */
 #header {
     background-color: #00325d !important;
