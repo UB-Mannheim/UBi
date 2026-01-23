@@ -11,6 +11,7 @@ import re
 import sys
 
 import chainlit as cl
+import utils
 
 
 def get_chainlit_frontend_path():
@@ -134,9 +135,9 @@ def restore_original_template(frontend_path):
 
     if backup_path.exists():
         shutil.copy2(backup_path, index_html)
-        print(f"✅ Restored original template: {index_html}")
+        utils.print_info(f"✅ Restored original template: {index_html}")
     else:
-        print("❌ No backup found to restore")
+        utils.print_err("❌ No backup found to restore")
 
 
 def main(last_updated_date=""):
@@ -157,6 +158,6 @@ def main(last_updated_date=""):
     # 3. Apply our modifications to the clean template.
     create_modified_template(frontend_path)
 
-    print("\n🎉 Template modification completed!")
+    utils.print_info("\n🎉 Template modification completed!")
 
     return True

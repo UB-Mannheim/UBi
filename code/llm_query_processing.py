@@ -4,15 +4,19 @@ import re
 import json_repair
 from openai import AsyncOpenAI
 from prompts import ROUTER_AUGMENTOR_PROMPT
-from rich import print
-from utils import is_valid_json
+from utils import (
+    is_valid_json,
+    set_quiet_mode,
+    print_info,
+    print_err
+)
 
 
 async def route_and_augment_query(
     client: AsyncOpenAI | None,
     user_input: list[dict],
     model: str = os.getenv("ROUTER_MODEL", "gpt-4.1-nano-2025-04-14"),
-    debug: bool = False,
+    quiet: bool = False,
 ) -> tuple[str, str, str]:
     """
     Function to route, detect the language and augment a user's query.
@@ -24,6 +28,10 @@ async def route_and_augment_query(
     If parsing fails the function will fallback to:
         ("German", "message", user_input)
     """
+    # Set quiet mode
+    if quiet:
+        set_quiet_mode(True)
+
     if not client:
         client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
@@ -56,27 +64,23 @@ async def route_and_augment_query(
                     augmented_query = json_data.get(
                         "augmented_query", user_input
                     )
-                    if debug:
-                        print(
-                            "🚦 [bold]LLM Router classified and augmented query:"
-                        )
-                        print(f"   - Query: {user_input[-1]['content']}")
-                        print(f"   - Detected Language: {language}")
-                        print(f"   - Detected Route Category: {category}")
-                        print(f"   - Augmented Query: {augmented_query}")
+                    print_info(
+                        "🚦 [bold]LLM Router classified and augmented query:"
+                    )
+                    print_info(f"   - Query: {user_input[-1]['content']}")
+                    print_info(f"   - Detected Language: {language}")
+                    print_info(f"   - Detected Route Category: {category}")
+                    print_info(f"   - Augmented Query: {augmented_query}")
                     return language, category, augmented_query
                 else:
-                    if debug:
-                        print(
-                            "⚠️  LLM response is not valid JSON. Returning fallback."
-                        )
+                    print_err(
+                        "⚠️  LLM response is not valid JSON. Returning fallback."
+                    )
             except Exception as e:
-                if debug:
-                    print(f"⚠️  Warning: Could not parse response json: {e}")
+                print_err(f"⚠️  Warning: Could not parse response json: {e}")
         else:
-            if debug:
-                print("⚠️  No content in LLM response. Returning fallback.")
+            print_err("⚠️  No content in LLM response. Returning fallback.")
         return ("German", "message", user_input)
     except Exception as e:
-        print(f"⚠️  Warning: Could not route query: {e}")
+        print_err(f"⚠️  Warning: Could not route query: {e}")
         return ("German", "message", user_input)

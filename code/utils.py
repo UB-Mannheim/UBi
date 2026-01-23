@@ -1,14 +1,53 @@
 import datetime
 import hashlib
 import json
+import os
 import shutil
 import yaml
+from dotenv import load_dotenv
 from pathlib import Path
 from rich import print
 from typing import List
 from urllib.parse import urlparse
 
+from config import ENV_PATH
+
+
 UI_VARS_FILE = Path("./public/ui_vars.json")
+
+# === Global Quiet Mode ===
+load_dotenv(ENV_PATH)
+_quiet_mode = os.getenv("QUIET_MODE", "False").lower() == "true"
+
+
+def set_quiet_mode(quiet: bool) -> None:
+    """
+    Set the global quiet mode flag (allows CLI to override env var).
+    """
+    global _quiet_mode
+    _quiet_mode = quiet
+
+
+def is_quiet_mode() -> bool:
+    """
+    Return the current quiet mode state.
+    """
+    return _quiet_mode
+
+
+def print_err(*args, **kwargs) -> None:
+    """
+    Print error messages (always shown, even in quiet mode).
+    """
+    print(*args, **kwargs)
+
+
+def print_info(*args, **kwargs) -> None:
+    """
+    Print info messages (suppressed in quiet mode).
+    """
+    if not _quiet_mode:
+        print(*args, **kwargs)
 
 
 def write_dynamic_ui_var(key: str, value: any) -> None:
@@ -21,14 +60,14 @@ def write_dynamic_ui_var(key: str, value: any) -> None:
             with open(UI_VARS_FILE, "r") as f:
                 vars = json.load(f)
         except (json.JSONDecodeError, IOError) as e:
-            print(f"Error reading state file, will create new one: {e}")
+            print_err(f"Error reading state file, will create new one: {e}")
 
     vars[key] = value
     try:
         with open(UI_VARS_FILE, "w") as f:
             json.dump(vars, f, indent=2)
     except IOError as e:
-        print(f"Error writing to state file: {e}")
+        print_err(f"Error writing to state file: {e}")
 
 
 def ensure_dir(dir) -> None:
@@ -45,7 +84,7 @@ def is_valid_json(json_string):
         json.loads(json_string)
         return True
     except json.JSONDecodeError as e:
-        print(f"... Invalid JSON: {e}")
+        print_err(f"... Invalid JSON: {e}")
         return False
 
 
@@ -61,7 +100,7 @@ def backup_dir_with_timestamp(dir_path):
             backup_dir.mkdir(exist_ok=True, parents=True)
         backup_path = backup_dir / f"{path.name}_backup_{timestamp}"
         shutil.copytree(path, backup_path)
-        print(f"[bold cyan][BACKUP] {dir_path} -> {backup_path} ... Done.")
+        print_info(f"[bold cyan][BACKUP] {dir_path} -> {backup_path} ... Done.")
 
 
 def clean_old_backup_dirs(
@@ -115,10 +154,10 @@ def clean_old_backup_dirs(
                     shutil.rmtree(entry)
                     deleted.append(entry)
             except Exception as e:
-                print(f"[bold yellow]Warning: Could not remove {entry}: {e}")
+                print_err(f"[bold yellow]Warning: Could not remove {entry}: {e}")
                 continue
     except Exception as e:
-        print(f"[bold yellow]Warning: Backup cleanup failed: {e}")
+        print_err(f"[bold yellow]Warning: Backup cleanup failed: {e}")
     return deleted
 
 
@@ -151,7 +190,7 @@ def write_hashes_for_directory(directory, hash_file="md_hashes.json"):
     with open(hash_path, "w") as f:
         json.dump(hash_dict, f, indent=2)
 
-    print(f"[bold green]Hash snapshot written to {hash_path}")
+    print_info(f"[bold green]Hash snapshot written to {hash_path}")
 
 
 def load_hash_snapshot(directory, hash_file="md_hashes.json") -> dict:
@@ -258,30 +297,30 @@ def print_openai_extracted_data(results_data, usage_data):
     """
     Print the extracted data in a formatted way
     """
-    print("=" * 40)
-    print("RETRIEVED VECTORESTORE DOCS / CHUNKS")
-    print("=" * 40)
+    print_info("=" * 40)
+    print_info("RETRIEVED VECTORESTORE DOCS / CHUNKS")
+    print_info("=" * 40)
 
     # Print Results data
-    print(f"\nRESULTS ({len(results_data)} items):")
-    print("-" * 40)
+    print_info(f"\nRESULTS ({len(results_data)} items):")
+    print_info("-" * 40)
 
     for i, result in enumerate(results_data, 1):
-        print(f"[bold]\nResult {i}:")
-        print(f"  [bold]File ID[/]: {result['file_id']}")
-        print(f"  [bold]Filename[/]: {result['filename']}")
-        print(f"  [bold]Score[/]: {result['score']}")
-        print(f"  [bold]Text[/]: [green]{result['text']}[/]")
-        print()
-        print("=" * 40)
-        print()
+        print_info(f"[bold]\nResult {i}:")
+        print_info(f"  [bold]File ID[/]: {result['file_id']}")
+        print_info(f"  [bold]Filename[/]: {result['filename']}")
+        print_info(f"  [bold]Score[/]: {result['score']}")
+        print_info(f"  [bold]Text[/]: [green]{result['text']}[/]")
+        print_info()
+        print_info("=" * 40)
+        print_info()
 
     # Print Usage data
-    print("\n[bold]RESPONSE USAGE:")
-    print("-" * 40)
-    print(f"[bold]Input Tokens[/]: {usage_data.get('input_tokens', 'N/A')}")
-    print(f"[bold]Output Tokens[/]: {usage_data.get('output_tokens', 'N/A')}")
-    print(f"[bold]Total Tokens[/]: {usage_data.get('total_tokens', 'N/A')}")
+    print_info("\n[bold]RESPONSE USAGE:")
+    print_info("-" * 40)
+    print_info(f"[bold]Input Tokens[/]: {usage_data.get('input_tokens', 'N/A')}")
+    print_info(f"[bold]Output Tokens[/]: {usage_data.get('output_tokens', 'N/A')}")
+    print_info(f"[bold]Total Tokens[/]: {usage_data.get('total_tokens', 'N/A')}")
 
 
 def escape_colons_in_yaml_values(line: str) -> str:
@@ -394,7 +433,7 @@ def parse_yaml_header(md_data: str | Path) -> dict:
         return yaml_data if yaml_data else {}
 
     except Exception as e:
-        print(f"Error parsing YAML header: {e}")
+        print_err(f"Error parsing YAML header: {e}")
         return {}
 
 
@@ -421,4 +460,4 @@ def delete_filepath(filepath: Path | str) -> None:
             filepath.unlink(missing_ok=True)
             return
     except Exception as e:
-        print(f"[bold red]Failed to delete {filepath}: {e}")
+        print_err(f"[bold red]Failed to delete {filepath}: {e}")

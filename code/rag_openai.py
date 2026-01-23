@@ -7,7 +7,6 @@ import utils
 from config import DATA_DIR, ENV_PATH
 from dotenv import load_dotenv, set_key
 from openai import OpenAI
-from rich import print
 from tqdm import tqdm
 
 
@@ -73,12 +72,12 @@ async def async_delete_files_from_vectorstore(
                 vector_store_id=str(vectorstore_id),
                 file_id=remote_file_id,
             )
-            print(f"[bold]Deleted {filename} from vectorstore.")
+            utils.print_info(f"[bold]Deleted {filename} from vectorstore.")
             await asyncio.to_thread(
                 client.files.delete, file_id=remote_file_id
             )
         except Exception as e:
-            print(
+            utils.print_err(
                 f"[bold]Error deleting {filename} from vectorstore/OpenAI storage: {e}"
             )
         pbar_del.update(1)
@@ -114,12 +113,12 @@ async def async_upload_files_to_vectorstore(
                     file_id=vectorstore_file_id,
                 )
                 # Delete file from vectorstore
-                print(f"[bold]Deleting old {filename} from vectorstore ...")
+                utils.print_info(f"[bold]Deleting old {filename} from vectorstore ...")
                 await asyncio.to_thread(
                     client.files.delete, file_id=vectorstore_file_id
                 )
             except Exception as e:
-                print(f"[bold]Error deleting {filename} from vectorstore: {e}")
+                utils.print_err(f"[bold]Error deleting {filename} from vectorstore: {e}")
 
         # File Upload
         try:
@@ -127,7 +126,7 @@ async def async_upload_files_to_vectorstore(
             yaml_data = utils.parse_yaml_header(md_file)
 
             # Upload the updated local file to vectorstore
-            print(f"[bold]Uploading updated {filename} to vectorstore ...")
+            utils.print_info(f"[bold]Uploading updated {filename} to vectorstore ...")
             with open(md_file, "rb") as f:
                 uploaded_file = await asyncio.to_thread(
                     client.files.create, file=f, purpose="user_data"
@@ -141,7 +140,7 @@ async def async_upload_files_to_vectorstore(
                 attributes=yaml_data if yaml_data else None,
             )
         except Exception as e:
-            print(f"Error uploading {filename}: {e}")
+            utils.print_err(f"Error uploading {filename}: {e}")
         pbar_up.update(1)
 
     await asyncio.gather(*(upload_file(md_file) for md_file in md_files))
@@ -190,7 +189,7 @@ async def async_sync_files_with_vectorstore(
 
     # Only fetch vectorstore files if not provided (empty dict)
     if not vectorstore_filenames:
-        print("[bold]Retrieving filenames from vectorstore ...")
+        utils.print_info("[bold]Retrieving filenames from vectorstore ...")
         vectorstore_filenames = await get_vectorstore_fileids_and_metadata(
             client, vectorstore_id
         )
@@ -210,11 +209,11 @@ async def async_sync_files_with_vectorstore(
         )
 
     # Upload new or updated files to vectorstore
-    print(f"🔄 Uploading {len(md_files)} files to OpenAI vectorstore ...")
+    utils.print_info(f"🔄 Uploading {len(md_files)} files to OpenAI vectorstore ...")
     await async_upload_files_to_vectorstore(
         client, vectorstore_id, vectorstore_filenames, md_files
     )
-    print("✅ Finished.")
+    utils.print_info("✅ Finished.")
 
 
 async def check_and_reupload_if_attributes_empty(
@@ -236,7 +235,7 @@ async def check_and_reupload_if_attributes_empty(
     Returns:
         tuple[bool, dict]: (True if reupload was performed, vectorstore_filenames dict)
     """
-    print("[bold]Checking vectorstore file attributes...")
+    utils.print_info("[bold]Checking vectorstore file attributes...")
 
     # Get all files from vectorstore with their metadata if not provided
     if vectorstore_filenames is None:
@@ -245,7 +244,7 @@ async def check_and_reupload_if_attributes_empty(
         )
 
     if not vectorstore_filenames:
-        print("[bold]No files found in vectorstore. Nothing to check.")
+        utils.print_err("[bold]No files found in vectorstore. Nothing to check.")
         return False, {}
 
     # Check if any files have empty attributes
@@ -256,15 +255,15 @@ async def check_and_reupload_if_attributes_empty(
             files_with_empty_attributes.append(filename)
 
     if files_with_empty_attributes:
-        print(
+        utils.print_info(
             f"[bold yellow]Found {len(files_with_empty_attributes)} files with empty attributes:"
         )
         for filename in files_with_empty_attributes[:5]:  # Show first 5
-            print(f"  - {filename}")
+            utils.print_info(f"  - {filename}")
         if len(files_with_empty_attributes) > 5:
-            print(f"  ... and {len(files_with_empty_attributes) - 5} more")
+            utils.print_info(f"  ... and {len(files_with_empty_attributes) - 5} more")
 
-        print("[bold]Reuploading all files to set attributes correctly...")
+        utils.print_info("[bold]Reuploading all files to set attributes correctly...")
 
         # Get all local markdown files
         all_local_files = [f.name for f in upload_dir.glob("*.md")]
@@ -277,10 +276,10 @@ async def check_and_reupload_if_attributes_empty(
             vectorstore_filenames=vectorstore_filenames,
         )
 
-        print("[bold green]✅ All files reuploaded with proper attributes.")
+        utils.print_info("[bold green]✅ All files reuploaded with proper attributes.")
         return True, vectorstore_filenames
     else:
-        print("[bold green]✅ All vectorstore files have proper attributes.")
+        utils.print_info("[bold green]✅ All vectorstore files have proper attributes.")
         return False, vectorstore_filenames
 
 
@@ -295,18 +294,18 @@ def initialize_vectorstore():
         True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" else False
     )
     if not USE_OPENAI_VECTORSTORE:
-        print("[bold]Aborting: OpenAI vectorstore is disabled in .env")
+        utils.print_err("[bold]Aborting: OpenAI vectorstore is disabled in .env")
         return
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
 
     try:
         if not OPENAI_VECTORSTORE_ID:
             # Create a new OpenAI vectorstore
-            print(
+            utils.print_info(
                 "[bold]No OPENAI_VECTORSTORE_ID found. Creating new OpenAI vectorstore..."
             )
             vectorstore = create_openAI_vectorstore()
-            print(f"[bold]Created new vectorstore with ID: {vectorstore.id}")
+            utils.print_info(f"[bold]Created new vectorstore with ID: {vectorstore.id}")
 
             # Reload .env and OPENAI_VECTORSTORE_ID after creation
             load_dotenv(str(ENV_PATH))
@@ -317,8 +316,8 @@ def initialize_vectorstore():
             files_to_delete = set()
             vectorstore_filenames = {}
         else:
-            print(f"[bold]Using OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}")
-            print("[bold]Syncing local files to vectorstore ...")
+            utils.print_info(f"[bold]Using OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}")
+            utils.print_info("[bold]Syncing local files to vectorstore ...")
 
             client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
@@ -356,18 +355,18 @@ def initialize_vectorstore():
             all_local_files_set = set([f.name for f in DATA_DIR.glob("*.md")])
             files_to_delete = vectorstore_filenames_set - all_local_files_set
 
-            print(
+            utils.print_info(
                 f"[bold]{len(vectorstore_filenames)} files in vectorstore: {OPENAI_VECTORSTORE_ID}"
             )
 
         # Only skip if there are truly no changes (no upload, no delete)
         if files_to_upload or files_to_delete:
             if files_to_upload:
-                print(
+                utils.print_info(
                     f"[bold]Uploading {len(files_to_upload)} changed/new files to vectorstore ..."
                 )
             if files_to_delete:
-                print(
+                utils.print_info(
                     f"[bold]Deleting {len(files_to_delete)} files from vectorstore ..."
                 )
 
@@ -387,19 +386,19 @@ def initialize_vectorstore():
                 "last_updated", date.today().strftime("%Y-%m-%d")
             )
         else:
-            print(
+            utils.print_info(
                 "[bold green]No changes detected in DATA_DIR since last sync. Skipping vectorstore upload."
             )
             # If no changes, update the timestamp to the last data check time
             try:
                 # Corrected path to the hash file
-                print("[bold]Updating last_updated timestamp from md_hashes.json ...")
+                utils.print_info("[bold]Updating last_updated timestamp from md_hashes.json ...")
                 snapshot_path = Path(DATA_DIR) / "snapshot" / "md_hashes.json"
                 if snapshot_path.exists():
                     last_mod_time = date.fromtimestamp(snapshot_path.stat().st_mtime)
                     utils.write_dynamic_ui_var("last_updated", last_mod_time.strftime("%Y-%m-%d"))
             except Exception as e:
-                print(f"Warning: Could not update timestamp from md_hashes.json: {e}")
+                utils.print_err(f"Warning: Could not update timestamp from md_hashes.json: {e}")
 
     except Exception as e:
-        print(f"Error: {e}")
+        utils.print_err(f"Error: {e}")

@@ -16,4 +16,5 @@ services:
       - ROUTER_MODEL=${ROUTER_MODEL}
       - CHAT_MODEL=${CHAT_MODEL}
       - DELETE_BACKUPS_AFTER=${DELETE_BACKUPS_AFTER}
+      - QUIET_MODE=${QUIET_MODE}
     restart: unless-stopped
