@@ -15,6 +15,29 @@ from config import CRAWL_DIR, DATA_DIR, URLS_TO_CRAWL
 from markdown_processing import write_markdown_from_url
 
 
+# === URL Domain Validation ===
+ALLOWED_DOMAINS = {
+    "orcid": ["orcid.org"],
+    "uni": ["uni-mannheim.de"],
+    "bib": ["bib.uni-mannheim.de"],
+}
+
+
+def is_allowed_domain(url: str, domain_key: str) -> bool:
+    """Check if URL's hostname matches an allowed domain."""
+    try:
+        hostname = urlparse(url).hostname
+        if hostname is None:
+            return False
+        allowed = ALLOWED_DOMAINS.get(domain_key, [])
+        return any(
+            hostname == domain or hostname.endswith(f".{domain}")
+            for domain in allowed
+        )
+    except Exception:
+        return False
+
+
 # === Crawler Funtions ===
 async def crawl_urls(
     sitemap_url: str,
@@ -184,14 +207,7 @@ def parse_uma_address_contact(element: Tag) -> list[str]:
 
     orcid_tag = element.find(
         "a",
-        href=lambda x: (
-            isinstance(x, str)
-            and (
-                (lambda h: h == "orcid.org" or (h is not None and h.endswith(".orcid.org")))(
-                    urlparse(x).hostname
-                )
-            )
-        ),
+        href=lambda x: isinstance(x, str) and is_allowed_domain(x, "orcid"),
     )
     orcid = (
         orcid_tag.get_text(strip=True)
@@ -308,11 +324,11 @@ def find_specified_tags(
 
             # Match relative URLs
             elif href.startswith("/"):
-                if url.startswith("https://www.uni"):
+                if is_allowed_domain(url, "uni"):
                     href_url_md = (
                         f"[{href_text}](https://www.uni-mannheim.de{href})"
                     )
-                elif url.startswith("https://www.bib"):
+                elif is_allowed_domain(url, "bib"):
                     href_url_md = (
                         f"[{href_text}](https://www.bib.uni-mannheim.de{href})"
                     )
