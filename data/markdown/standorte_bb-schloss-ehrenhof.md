@@ -18,7 +18,6 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
 
-Von Freitag, 2. Januar, bis Dienstag, 6. Januar, ist der Bibliotheksbereich Schloss Ehrenhof nur über den**Eingang Ost zugänglich**.
 **Eingang Ost**
 | Mo–Fr | 8–23 Uhr |
 | --- | --- |
@@ -27,7 +26,6 @@ Von Freitag, 2. Januar, bis Dienstag, 6. Januar, ist der Bibliotheksbereich Schl
 **Eingang West**
 | Mo–Fr | 8–18 Uhr |
 | --- | --- |
-| Sa/So/Feiertage | 10–18 Uhr |
 
 
 

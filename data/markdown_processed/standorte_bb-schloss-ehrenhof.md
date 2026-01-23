@@ -11,11 +11,9 @@ language: de
 
 Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim umfasst die Hasso-Plattner-Bibliothek – Fachbibliothek für Rechtswissenschaft, Volkswirtschaftslehre und Geschichte sowie die Bibliothek für Accounting, Business Taxation and Tax Law.
 
-## Nutzung und Ausstattung
+Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
 
-- Die Medien sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar.
-- Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
-- Ein [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/) steht zur Verfügung.
+Weitere Informationen zu Lern- und Arbeitsplätzen finden Sie im [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/).
 
 ## Öffnungszeiten
 
@@ -23,27 +21,28 @@ Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim umf
 
 | Tag | Öffnungszeiten |
 |----------------------|----------------|
-| Mo–Fr | 8–23 Uhr |
-| Sa/So/Feiertage | 10–23 Uhr |
+| Montag–Freitag | 8–23 Uhr |
+| Samstag/Sonntag/Feiertage | 10–23 Uhr |
 
 **Eingang Ost**
-Von Freitag, 2. Januar, bis Dienstag, 6. Januar, ist der Zugang ausschließlich über den Eingang Ost möglich.
 
 | Tag | Öffnungszeiten |
 |----------------------|----------------|
-| Mo–Fr | 8–23 Uhr |
-| Sa/So/Feiertage | 10–23 Uhr |
+| Montag–Freitag | 8–23 Uhr |
+| Samstag/Sonntag/Feiertage | 10–23 Uhr |
 
 **Eingang West**
 
 | Tag | Öffnungszeiten |
 |----------------------|----------------|
-| Mo–Fr | 8–18 Uhr |
-| Sa/So/Feiertage | 10–18 Uhr |
+| Montag–Freitag | 8–18 Uhr |
 
-## Services und Recherche
+## Fachliche Recherche und Services
 
-- Individuelle Beratung durch [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)
+Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) unterstützen Sie bei der Recherche und beraten individuell zu Ihrem Thema.
+
+Weitere Services:
+
 - [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
 - [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
 - [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
@@ -54,10 +53,8 @@ Von Freitag, 2. Januar, bis Dienstag, 6. Januar, ist der Zugang ausschließlich 
 ## Kontakt
 
 **Bibliotheksbereich Schloss Ehrenhof**
-Universität Mannheim
-Universitätsbibliothek
-Schloss Ehrenhof
-68161 Mannheim
+Universität Mannheim, Universitätsbibliothek
+Schloss Ehrenhof, 68161 Mannheim
 Telefon: +49 621 181-3000
 E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/)
