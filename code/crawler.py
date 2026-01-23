@@ -7,7 +7,7 @@ import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup, Tag
 from pathlib import Path
 from typing import Optional
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from tqdm import tqdm
 
 import utils
@@ -183,7 +183,15 @@ def parse_uma_address_contact(element: Tag) -> list[str]:
         lines.append(f"- E-Mail: {email}")
 
     orcid_tag = element.find(
-        "a", href=lambda x: isinstance(x, str) and "orcid.org" in x
+        "a",
+        href=lambda x: (
+            isinstance(x, str)
+            and (
+                (lambda h: h == "orcid.org" or (h is not None and h.endswith(".orcid.org")))(
+                    urlparse(x).hostname
+                )
+            )
+        ),
     )
     orcid = (
         orcid_tag.get_text(strip=True)
