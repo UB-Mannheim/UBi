@@ -252,6 +252,13 @@ if (window.aimaBundleLoaded) {
                 if (/^https?:\/\//i.test(href)) {
                     link.classList.add('ubi-welcome-link--external');
                 }
+                const isDark = document.documentElement.classList.contains('dark');
+                if (isDark) {
+                    link.style.setProperty('color', '#ffffff', 'important');
+                } else {
+                    link.style.removeProperty('color');
+                }
+                const existingIcons = link.querySelectorAll('.policy-link-icon');
             });
         };
 
@@ -412,22 +419,35 @@ if (window.aimaBundleLoaded) {
     // 4. Update Footer Styling (handles dark mode)
     function updateFooterStyle(footerElement) {
         const footerHeight = 18;
-        const isDark = document.documentElement.classList.contains("dark");
         const root = document.querySelector("#root") || document.body;
         const appBackgroundColor = getComputedStyle(root).backgroundColor;
+        const footerColor = "rgb(102, 102, 102)";
 
         Object.assign(footerElement.style, {
             position: "fixed", bottom: "0", left: "0", width: "100%",
             background: appBackgroundColor,
-            color: isDark ? "#ccc" : "#999",
-            borderTop: `0px solid ${isDark ? "#444" : "#eee"}`,
+            color: footerColor,
+            borderTop: "0px solid transparent",
             fontSize: "12px", zIndex: "1000", height: `${footerHeight}px`,
             display: "flex", justifyContent: "center", alignItems: "center", gap: "10px"
         });
         footerElement.querySelectorAll("a").forEach(link => {
-            link.style.color = isDark ? "#ccc" : "#999";
+            link.style.color = footerColor;
             link.style.margin = "0 5px";
-            link.style.textDecoration = "none";
+            link.style.setProperty("text-decoration", "none", "important");
+            link.style.fontWeight = "700";
+            link.style.position = "relative";
+            link.style.paddingLeft = "1.1em";
+            link.style.backgroundRepeat = "no-repeat";
+            link.style.backgroundSize = "0.9em 0.9em";
+            link.style.backgroundPosition = "left 50%";
+            link.style.backgroundImage = "url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23666' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6'/><path d='M15 3h6v6'/><path d='M10 14 21 3'/></svg>\")";
+            link.onmouseenter = () => {
+                link.style.setProperty("text-decoration", "underline", "important");
+            };
+            link.onmouseleave = () => {
+                link.style.setProperty("text-decoration", "none", "important");
+            };
         });
     }
 
