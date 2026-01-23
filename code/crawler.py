@@ -38,7 +38,7 @@ def is_allowed_domain(url: str, domain_key: str) -> bool:
         return False
 
 
-# === Crawler Funtions ===
+# === Crawler Functions ===
 async def crawl_urls(
     sitemap_url: str,
     filters: list[str],
