@@ -13,6 +13,7 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 
 ## Öffnungszeiten
 
+Am**23. Januar**ist der**Bibliotheksbereich A5**wegen Wartungsarbeiten**geschlossen**.
 **Bibliotheksbereich A5**
 | Mo‒Fr | 8–23 Uhr |
 | --- | --- |
