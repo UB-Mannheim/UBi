@@ -30,4 +30,3 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgab
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
 
-Am**23. Januar**ist der**Bibliotheksbereich A5**wegen Wartungsarbeiten**geschlossen**.

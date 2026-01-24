@@ -1,5 +1,5 @@
 ---
-title: Bibliotheksbereich A5 – Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik, EDZ und MZES
+title: Bibliotheksbereich A5 – Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik, EDZ, MZES
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-a5/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/a5-library/
 category: Standorte
@@ -9,30 +9,23 @@ language: de
 
 # Bibliotheksbereich A5
 
-## Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik, EDZ, MZES
+Der Bibliotheksbereich A5 ist die Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik. Zudem beherbergt er das Europäische Dokumentationszentrum (EDZ) und die Bibliothek des Mannheimer Zentrums für Europäische Sozialforschung (MZES).
 
-Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können hier ausleihen.
+Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien aus diesem Bereich ausleihen.
 
 - [Europäisches Dokumentationszentrum (EDZ)](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/)
 - [Bibliothek des Mannheimer Zentrums für Europäische Sozialforschung (MZES)](http://www.mzes.uni-mannheim.de/d7/de/pages/bibliothek)
 
 ## Öffnungszeiten
 
-**Bibliotheksbereich A5**
-
-| Wochentag | Öffnungszeiten |
-|--------------------------|---------------|
+| Tag | Uhrzeit |
+|----------------------|-------------|
 | Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertag | 10–23 Uhr |
+| Samstag/Sonntag/Feiertage | 10–23 Uhr |
 
-**Hinweis:** Am 23. Januar ist der Bibliotheksbereich A5 wegen Wartungsarbeiten geschlossen.
+## Services und Recherche
 
-## Fachliche Recherche und Services
-
-Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beantworten gerne Ihre Fragen und beraten Sie individuell zu Ihrem Thema.
-
-Weitere Services:
-
+- [Fachliche Recherche – Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/): Individuelle Beratung und Unterstützung bei fachlichen Fragen.
 - [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
 - [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
 - [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
