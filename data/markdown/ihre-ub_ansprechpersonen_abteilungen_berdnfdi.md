@@ -79,9 +79,9 @@ Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)
 - E-Mail: jan.kamlah@uni-mannheim.de
 
 
-### Vanessa Kolb
+### Ellis Kolb
 
-Fachreferentin für Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
+Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
 
 Aufgaben:
 

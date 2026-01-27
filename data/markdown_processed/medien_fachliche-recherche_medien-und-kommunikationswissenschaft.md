@@ -1,15 +1,15 @@
 ---
-title: Fachliche Recherche und Services der UB Mannheim für Medien- und Kommunikationswissenschaft
+title: Fachrecherche und Services der UB Mannheim für Medien- und Kommunikationswissenschaft
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/medien-und-kommunikationswissenschaft/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/media-and-communication-studies/
 category: Medien
-tags: ['Medien- und Kommunikationswissenschaft', 'Fachinformation', 'Datenbanken', 'E-Books', 'E-Journals', 'Recherche', 'Kurse', 'Publikationsdienste']
+tags: ['Medien- und Kommunikationswissenschaft', 'Fachrecherche', 'Datenbanken', 'E-Books', 'E-Journals', 'Kurse', 'Wissenschaftliches Arbeiten', 'Kontakt']
 language: de
 ---
 
 # Medien- und Kommunikationswissenschaft an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikationswissenschaft ein breites Spektrum an Literatur, Datenbanken und weiteren Rechercheeinstiegen. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
+Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikationswissenschaft ein breites Spektrum an Literatur, Datenbanken und weiteren Recherchetools. Neben individuellen Beratungen stehen auch regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
 
 ## Recherchieren
 
@@ -30,8 +30,8 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikat
 
 ### E-Books
 
-- E-Books für alle Fachgebiete, einschließlich MKW, sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Universitätsnetz zugänglich.
-- Weitere Informationen: [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)
+- Recherche im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
+- Hinweise zur Nutzung: [E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -46,7 +46,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikat
 
 ### Fachliche Repositorien
 
-- [media/rep/](https://mediarep.org/home): Open-Access-Repositorium für medienwissenschaftliche Publikationen (inkl. Forschungsdaten)
+- [media/rep/](https://mediarep.org/home): Open-Access-Repositorium für medienwissenschaftliche Publikationen und Forschungsdaten
 - [mediArXiv](https://mediarxiv.com/): Repositorium für Working Papers und Preprints in der Medienwissenschaft
 
 ### Fachliche Internetquellen
@@ -59,10 +59,10 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Medien- und Kommunikat
 ### Literaturstandorte
 
 - [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): Literatur zum Fach Medien- und Kommunikationswissenschaften, vor Ort nutzbar, nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihe nur für wissenschaftliches Personal.
-- [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Weitere Literatur zur Medien- und Kommunikationswissenschaft, ausleihbar mit ecUM oder UB-Chipkarte.
+- [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Weitere Literatur, ausleihbar mit ecUM oder UB-Chipkarte.
 - [Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0): Wichtige Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen.
 
-Die gesamte an der UB vorhandene Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+Die gesamte Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
 
 ### Forschungseinrichtungen vor Ort
 
@@ -76,22 +76,22 @@ Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
-- [Kurse für das Fach MKW: speziell für Studierende vor dem Examen](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=1220603)
+- [Kurs für das Fach MKW: speziell für Studierende vor dem Examen](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=1220603)
 
 ## Wissenschaftliches Arbeiten
 
 Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580.
 
-Die UB unterstützt Sie mit folgenden Angeboten:
+Unterstützungsangebote:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
 
 ## Kontakt
 
-### Vanessa Kolb
+### Ellis Kolb
 
-**Fachreferentin für Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung**
+Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
 
 **Aufgaben:**
 

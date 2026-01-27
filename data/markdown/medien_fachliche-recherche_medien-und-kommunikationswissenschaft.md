@@ -102,9 +102,9 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 
 
-### Vanessa Kolb
+### Ellis Kolb
 
-Fachreferentin für Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
+Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
 
 Aufgaben:
 

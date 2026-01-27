@@ -53,30 +53,6 @@ Fachreferent für:
 **E-Mail:** [philipp.zumstein@uni-mannheim.de](mailto:philipp.zumstein@uni-mannheim.de)
 **ORCID:** [0000-0002-6485-9434](https://orcid.org/0000-0002-6485-9434)
 
-### Viktor Boecking, M.A.
-
-Leiter der Abteilung Kommunikation
-Fachreferent für:
-
-- Geschichte
-- E-Learning
-
-**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-**Telefon:** +49 621 181-2938
-**E-Mail:** [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
-
-### Vanessa Kolb
-
-Fachreferentin für:
-
-- Medien- und Kommunikationswissenschaft
-  Education & Training für BERD@NFDI
-  Publikationsdienste und Forschungsunterstützung
-
-**Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
-**Telefon:** +49 621 181-3958
-**E-Mail:** [vanessa.kolb@uni-mannheim.de](mailto:vanessa.kolb@uni-mannheim.de)
-
 ### Dr. Hendrik Platte
 
 Fachreferent für:
@@ -101,6 +77,18 @@ Fachreferentin für:
 **Telefon:** +49 621 181-3024
 **E-Mail:** [marion.francken-welz@uni-mannheim.de](mailto:marion.francken-welz@uni-mannheim.de)
 
+### Viktor Boecking, M.A.
+
+Leiter der Abteilung Kommunikation
+Fachreferent für:
+
+- Geschichte
+  E-Learning
+
+**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
+**Telefon:** +49 621 181-2938
+**E-Mail:** [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
+
 ### Dr. Jorge Murcia Serra
 
 Fachreferent für:
@@ -113,6 +101,18 @@ Fachreferent für:
 **Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 **Telefon:** +49 621 181-2997
 **E-Mail:** [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
+
+### Ellis Kolb
+
+Fachreferat für:
+
+- Medien- und Kommunikationswissenschaft
+  Education & Training für BERD@NFDI
+  Publikationsdienste und Forschungsunterstützung
+
+**Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
+**Telefon:** +49 621 181-3958
+**E-Mail:** [vanessa.kolb@uni-mannheim.de](mailto:vanessa.kolb@uni-mannheim.de)
 
 ## Fachgebiete und Rechercheportale
 
