@@ -398,8 +398,8 @@ if (window.aimaBundleLoaded) {
         let linksHTML = '';
         if (config.footer && config.footer.links) {
             linksHTML = Object.values(config.footer.links).map(link =>
-                `·<a href="${link.href}" target="_blank">${link.text}</a>`
-            ).join('');
+                `<a href="${link.href}" target="_blank">${link.text}</a>`
+            ).join(' · ');
         }
 
         // Determine the version/date string from the definitive value passed in
@@ -408,7 +408,7 @@ if (window.aimaBundleLoaded) {
             versionText = `· v${lastUpdated}`;
         }
 
-        const copyrightText = (config.footer && config.footer.copyright) ? config.footer.copyright : '';
+        const copyrightText = (config.footer && config.footer.copyright) ? config.footer.copyright + ' · ' : '';
 
         footer.innerHTML = `<span>${copyrightText}${linksHTML}${versionText}</span>`;
 
