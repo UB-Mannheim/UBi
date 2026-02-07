@@ -46,6 +46,21 @@ Open Science Officer | Referent für Forschungsdatenmanagement (Sozialwissenscha
 - ORCID-ID: 0000-0001-8213-451X (https://orcid.org/0000-0001-8213-451X)
 
 
+### Vasilka Paunova, LL.M.
+
+Legal Counsel für BERD@NFDI und FDZ
+
+Aufgaben:
+
+- Unterstützung von Forschenden
+- Rechtliche Fragestellungen im FDM Bereich
+- Themengebiete Datenschutz, Urheberrecht und Lizenzrecht
+- BERD Datenschutzkonzept und Plattform Richtlinien
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
+- Telefon: +49 621 181-2714
+- E-Mail: vasilka.paunova@uni-mannheim.de
+
+
 ### Thomas Schmidt, M.A.
 
 Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB

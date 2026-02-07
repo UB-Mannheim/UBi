@@ -1,17 +1,17 @@
 ---
-title: Forschungsdatenzentrum – Ansprechpartner und Aufgaben an der Universitätsbibliothek Mannheim
+title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Data Science', 'Open Science', 'Digital Humanities', 'Data Literacy', 'Beratung', 'Universitätsbibliothek']
+tags: ['Forschungsdatenmanagement', 'Ansprechpartner', 'Open Science', 'Data Science', 'Digital Humanities', 'Rechtsberatung', 'Data Literacy', 'Projekte']
 language: de
 ---
 
-# Forschungsdatenzentrum
+# Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim.
+Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim. Das Team bietet Beratung, Schulungen und Unterstützung in verschiedenen Bereichen des Forschungsdatenmanagements, Open Science, Data Science, Digitalisierung und rechtlichen Fragestellungen.
 
-## Ansprechpartner und Aufgaben
+## Ansprechpartner und Aufgabenbereiche
 
 ### Dr. Irene Schumm
 
@@ -50,6 +50,18 @@ Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt 
 - E-Mail: [david.morgan@uni-mannheim.de](mailto:david.morgan@uni-mannheim.de)
 - ORCID: [0000-0001-8213-451X](https://orcid.org/0000-0001-8213-451X)
 
+### Vasilka Paunova, LL.M.
+
+**Legal Counsel für BERD@NFDI und FDZ**
+
+- Unterstützung von Forschenden
+- Rechtliche Fragestellungen im FDM-Bereich
+- Themengebiete: Datenschutz, Urheberrecht und Lizenzrecht
+- BERD Datenschutzkonzept und Plattform Richtlinien
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
+- Telefon: +49 621 181-2714
+- E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
+
 ### Thomas Schmidt, M.A.
 
 **Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB**
@@ -64,7 +76,7 @@ Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt 
 **Lead Data Scientist | Projektleiter**
 
 - Strategische Weiterentwicklung des technischen Forschungsdatenmanagements
-- Beratung von Wissenschaftler\*innen zu Forschungsdatenmanagement, Data Science und KI-Tools
+- Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools
 - Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI
 - Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
