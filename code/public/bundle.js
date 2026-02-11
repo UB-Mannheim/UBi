@@ -6,20 +6,6 @@ if (window.aimaBundleLoaded) {
     window.aimaBundleLoaded = true;
 
     // Terms and Conditions Cookie Handler
-    // --- Matomo Tracking ---
-    var _paq = window._paq = window._paq || [];
-    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function () {
-        var u = "https://ub-monitor.bib.uni-mannheim.de/matomo/";
-        _paq.push(['setTrackerUrl', u + 'matomo.php']);
-        _paq.push(['setSiteId', '52']);
-        var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
-        g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
-    })();
-    // -----------------------
-
     // Initialize with default values. These will be overwritten by ui_config.json if it loads.
     let cookieConfig = {
         name: "accepted_terms",
@@ -356,6 +342,9 @@ if (window.aimaBundleLoaded) {
             // 7. Inject Header Logo if terms accepted
             injectHeaderLogo();
 
+            // 8. Initialize Matomo Tracking if configured
+            initializeMatomo(config);
+
         } catch (error) {
             // On error, the default cookieConfig will be used.
             console.error('UBi: Error initializing UI from config:', error);
@@ -374,6 +363,28 @@ if (window.aimaBundleLoaded) {
     }
     function showFooter() {
         if (footer) footer.style.display = "flex";
+    }
+
+    // Initialize Matomo Tracking
+    function initializeMatomo(config) {
+        if (config && config.matomo && config.matomo.url && config.matomo.siteId) {
+            var _paq = window._paq = window._paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function () {
+                var u = config.matomo.url;
+                // Ensure URL ends with a slash if not present, though config usually has it.
+                if (!u.endsWith('/')) u += '/';
+                _paq.push(['setTrackerUrl', u + 'matomo.php']);
+                _paq.push(['setSiteId', config.matomo.siteId]);
+                var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+                g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+            })();
+            // console.log("UBi: Matomo tracking initialized.");
+        } else {
+            // console.warn("UBi: Matomo configuration missing or incomplete. Tracking disabled.");
+        }
     }
 
     // Waits for the readme button to exist, then sets up an observer
