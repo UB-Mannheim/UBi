@@ -1,6 +1,10 @@
 {
   "last_updated": "",
   "version": null,
+  "matomo": {
+    "url": "https://ub-monitor.bib.uni-mannheim.de/matomo/",
+    "siteId": "52"
+  },
   "cookieConfig": {
     "name": "accepted_terms",
     "durationDays": 365,
