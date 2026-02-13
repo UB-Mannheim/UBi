@@ -3,7 +3,7 @@ title: Nutzungsbedingungen für den UBi (KI-Chatbot) der Universitätsbibliothek
 source_url_de: https://chat.bib.uni-mannheim.de/public/docs/ubi_policy.pdf
 source_url_en: https://chat.bib.uni-mannheim.de/public/docs/ubi_policy.pdf
 category: Services
-tags: ['Nutzungsbedingungen UBi', 'KI-Chatbot der Universitätsbibliothek Mannheim', 'UBi', 'Serviceangebot', 'Rechtliches']
+tags: ['Nutzungsbedingungen UBi', 'KI-Chatbot der Universitätsbibliothek Mannheim', 'UBi', 'Serviceangebot', 'Rechtliches', 'Chatbot der UB']
 language: de
 ---
 
