@@ -91,6 +91,23 @@ Lehrende können ihren Studierenden begleitend zur Lehrveranstaltung wichtige Li
 - Informationen zu Open Educational Resources (OER) auf [OERinfo](https://open-educational-resources.de/).
 - OER-Plattform: [OER Commons](https://www.oercommons.org/).
 
+## Antrag auf Einrichtung eines Semesterapparats
+
+## Antrag auf Einrichtung eines Semesterapparats
+
+Um einen Semesterapparat einzurichten, sind die Angaben in den Pflichtfeldern des Antragsformulars erforderlich.
+
+Bitte beachten Sie:
+
+- Medien im Semesterapparat sind **nicht entleihbar**.
+
+Weitere Hinweise:
+
+- Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) wurden bereitgestellt.
+- Spezifische Datenschutzinformationen für die Universitätsbibliothek finden Sie [hier](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/).
+
+Weitere Informationen und das Antragsformular finden Sie auf der [Webseite der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/semesterapparat/antrag-auf-einrichtung-eines-semesterapparats/).
+
 ## Kontakt
 
 ### Lernplattform ILIAS – Beratung

@@ -63,9 +63,6 @@ Bei Fragen oder Problemen wenden Sie sich an das Team E-Medien: [e-medien.ub@uni
 - Versuchen Sie einen anderen Browser oder öffnen Sie ein privates Fenster.
 - Überprüfen Sie Ihre Datenschutzeinstellungen. Tracking-Schutz („Bounce Tracking Protection“) kann verhindern, dass Sie als Angehörige\*r der Universität Mannheim erkannt werden.
 
-
-## Shibboleth-Zugang zu digitalen Medien
-
 ## Shibboleth
 
 ### Fernzugriff auf digitale Medien für Studierende und Mitarbeitende
@@ -83,3 +80,23 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 ### Übersicht der Anbieter
 
 *Eine aktuelle Liste der unterstützten Anbieter finden Sie auf der Website der Universitätsbibliothek Mannheim.*
+
+## Shibboleth-Zugang zu digitalen Medien
+
+## Shibboleth-Zugang zu digitalen Medien
+
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ohne VPN.
+
+Shibboleth ist ein Authentifizierungsverfahren, das den Zugriff auf lizenzierte elektronische Angebote auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus ermöglicht. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
+
+Um sich anzumelden, wählen Sie auf der Plattform des Anbieters die Universität Mannheim aus einer Liste aus. Anschließend erfolgt die Anmeldung über die Uni-ID auf einer Anmeldemaske der Universität Mannheim.
+
+**Beispiel:** Cambridge University Press
+
+Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Der Shibboleth-Zugang über die Universitätsbibliothek Mannheim ist aktuell auf ausgewählten Plattformen möglich.
+
+### Übersicht der Anbieter
+
+Eine aktuelle Liste der unterstützten Anbieter finden Sie auf der Website der Universitätsbibliothek Mannheim.
+
+[Weitere Informationen zu Shibboleth auf der UB Mannheim](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/)
