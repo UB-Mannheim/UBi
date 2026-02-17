@@ -81,8 +81,6 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 
 *Eine aktuelle Liste der unterstützten Anbieter finden Sie auf der Website der Universitätsbibliothek Mannheim.*
 
-## Shibboleth-Zugang zu digitalen Medien
-
 ## Shibboleth
 
 ### Fernzugriff auf digitale Medien für Studierende und Mitarbeitende
@@ -102,3 +100,32 @@ Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Der Shibb
 Eine aktuelle Liste der unterstützten Anbieter finden Sie auf der Website der Universitätsbibliothek Mannheim.
 
 [Weitere Informationen zu Shibboleth und unterstützten Anbietern](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/)
+
+## Shibboleth-Zugang zu digitalen Medien
+
+## Shibboleth-Zugang zu lizenzierten E-Medien
+
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren Shibboleth nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ohne VPN.
+
+Shibboleth ermöglicht den Zugriff auf lizenzierte elektronische Angebote auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
+
+### Anmeldung mit Shibboleth
+
+1. Wählen Sie auf der Plattform des Anbieters die Universität Mannheim aus einer Liste aus.
+1. Melden Sie sich anschließend über die Anmeldemaske der Universität mit Ihrer Uni-ID an.
+
+**Beispiel:** Cambridge University Press
+
+Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen.
+
+### Unterstützte Anbieter
+
+Der Shibboleth-Zugang über die Universitätsbibliothek Mannheim ist aktuell auf ausgewählten Plattformen möglich. Eine aktuelle Übersicht der unterstützten Anbieter finden Sie auf der Website der Universitätsbibliothek Mannheim.
+
+[Weitere Informationen zu Shibboleth und unterstützten Anbietern](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/)
+
+### Hinweise
+
+- Der Zugang zu lizenzierten elektronischen Medien über Shibboleth steht ausschließlich Angehörigen der Universität Mannheim zur Verfügung.
+- Für den Zugang benötigen Sie Ihre persönliche Uni-ID.
+- Bei Fragen oder Problemen wenden Sie sich bitte an den IT-Service der Universität Mannheim.

@@ -35,24 +35,24 @@ Die Ausstellung ist täglich während der [Öffnungszeiten des Ausleihzentrums](
 ### Foto- und Drehgenehmigungen
 
 Foto- und Filmaufnahmen innerhalb der Bibliotheksbereiche der Universitätsbibliothek Mannheim sowie deren Veröffentlichung erfordern eine vorherige Genehmigung durch die Kommunikationsabteilung. Sehr gerne beraten wir Sie zu Drehorten und -möglichkeiten in den Räumlichkeiten der Universitätsbibliothek.
-Bitte planen Sie bei Ihrer Drehanfrage genügend Vorlaufzeit ein und geben Sie die folgenden Informationen an:
+Bitte planen Sie bei Ihrer Drehanfrage genügend Vorlaufzeit ein und geben Sie folgende Informationen an:
 
 - Auftraggeber
 - Ansprechpartner*in
 - E-Mail
-- Telefon
-- Art und den Anlass der Aufnahmen
-- Gewünschte(r) Termin(e) und Zeitraum
-- Gewünschte Aufnahmeorte
+- Telefonnummer
+- Art und Anlass der Aufnahmen
+- gewünschte(r) Termin(e) und Zeitraum
+- gewünschte Aufnahmeorte
 
 
 
 ### Auslage von Printmedien
 
-Die Auslage von Printmedien und das Aufhängen von Plakaten in den Bibliotheksbereichen der Universitätsibliothek Mannheim erfordert eine vorherige Genehmigung durch die Kommunikationsabteilung.
+Die Auslage von Printmedien und das Aufhängen von Plakaten in den Bibliotheksbereichen ist nur nach Genehmigung durch die Kommunikationsabteilung möglich.
 Bitte senden Sie Printmedien zur Auslage an:
 Abteilung KommunikationUniversitätsbibliothek MannheimUniversität MannheimSchloss Schneckenhof West68161 Mannheim
-Bitte senden Sie uns, wenn möglich, vorab eine digitale Version der Printmedien zu. Die Entscheidung zur Auslage von Printmedien oder dem Aufhängen von Plakaten trifft die Kommunikationsabteilung der Universitätsbibliothek. Eine selbstständige Auslage von Printmedien innerhalb der Bibliotheksbereiche insbesondere auf den Arbeitsplätzen ist grundsätzlich untersagt.
+Bitte senden Sie uns, wenn möglich, vorab eine digitale Version der Printmedien zu. Die Entscheidung zur Auslage von Printmedien und zum Aufhängen von Plakaten trifft die Kommunikationsabteilung der Universitätsbibliothek. Eine selbstständige Auslage von Printmedien innerhalb der Bibliotheksbereiche insbesondere auf den Arbeitsplätzen ist grundsätzlich untersagt.
 
 
 ## Kontakt
@@ -76,9 +76,9 @@ Aufgaben:
 - E-Mail: kommunikation.ub@uni-mannheim.de
 
 
-### Christina Schüßler, M.A.
+### Christina Schüßler, M.A. (sie/ihr)
 
-Kommunikation | Webredaktion
+Kommunikation | Online-Redaktion
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 275, 68161 Mannheim
 - Telefon: +49 621 181-2935
 - E-Mail: kommunikation.ub@uni-mannheim.de

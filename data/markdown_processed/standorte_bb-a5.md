@@ -47,35 +47,36 @@ E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort.
 
-#### Ansprechpartner
+#### Ansprechpartnerinnen
 
 ##### Gunhild Schenk
 
-- Teamleiterin Bibliotheksbereich A5
-- Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 126, 68159 Mannheim
-- Telefon: +49 621 181-3031
-- E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
+Teamleiterin Bibliotheksbereich A5
+Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 126, 68159 Mannheim
+Telefon: +49 621 181-3031
+E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 ##### Sylvia Zander
 
-- Stellvertretende Teamleiterin Bibliotheksbereich A5
-- Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 127, 68159 Mannheim
-- Telefon: +49 621 181-3032
-- E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
+Stellvertretende Teamleiterin Bibliotheksbereich A5
+Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 127, 68159 Mannheim
+Telefon: +49 621 181-3032
+E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
-#### Europäisches Dokumentationszentrum (EDZ)
+______________________________________________________________________
+
+### Europäisches Dokumentationszentrum (EDZ)
 
 Das Europäische Dokumentationszentrum (EDZ) ist im Bibliotheksbereich A5 angesiedelt und bietet spezialisierte Informationsdienste zu europäischen Themen.
 
+#### Ansprechpartner
+
 ##### Dr. Hendrik Platte
 
-- Fachreferent für Politikwissenschaft, Soziologie und Psychologie
-- Ansprechpartner EDZ
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
-- Telefon: +49 621 181-2990
-- E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
+Fachreferent für Politikwissenschaft, Soziologie und Psychologie
+Ansprechpartner EDZ
 
-###### Aufgabenbereiche
+**Aufgaben:**
 
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
@@ -85,4 +86,6 @@ Das Europäische Dokumentationszentrum (EDZ) ist im Bibliotheksbereich A5 angesi
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
 
-[Weitere Informationen zum Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a5/)
+Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
+Telefon: +49 621 181-2990
+E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
