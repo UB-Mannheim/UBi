@@ -322,10 +322,47 @@ if (window.aimaBundleLoaded) {
             if (config.heading && config.heading.enabled) {
                 Heading = document.createElement("div");
                 Heading.id = "beta-heading";
-                Heading.textContent = config.heading.text;
+                Heading.id = "beta-heading";
+                // Create mobile logo link
+                const mobileLogoLink = document.createElement("a");
+                mobileLogoLink.href = "https://www.bib.uni-mannheim.de/";
+                mobileLogoLink.target = "_blank";
+                mobileLogoLink.className = "mobile-heading-logo-link";
+
+                const mobileLogo = document.createElement("img");
+                mobileLogo.src = "/public/logo_dark.png";
+                mobileLogo.alt = "UB Mannheim";
+                mobileLogo.className = "mobile-heading-logo";
+
+                mobileLogoLink.appendChild(mobileLogo);
+                Heading.appendChild(mobileLogoLink);
+
+                const textSpan = document.createElement("span");
+                textSpan.textContent = config.heading.text;
+                Heading.appendChild(textSpan);
+
+                // Inject styles for the mobile logo in heading
+                const headingLogoStyle = document.createElement("style");
+                headingLogoStyle.textContent = `
+                    .mobile-heading-logo-link {
+                        display: none;
+                    }
+                    .mobile-heading-logo {
+                        height: 24px;
+                        width: auto;
+                        vertical-align: middle;
+                    }
+                     @media (max-width: 768px) {
+                        .mobile-heading-logo-link {
+                            display: inline-block !important;
+                            margin-right: 10px;
+                        }
+                    }
+                `;
+                document.head.appendChild(headingLogoStyle);
                 const defaultHeadingStyles = {
-                    position: "fixed", top: "0", left: "50%", width: "50%",
-                    transform: "translateX(-50%)", textAlign: "center", fontWeight: "bold",
+                    position: "fixed", top: "0", width: "50%",
+                    transform: "translateX(40px)", textAlign: "left", fontWeight: "bold",
                     zIndex: "10", padding: "18px 0 4px 0", letterSpacing: "1px"
                 };
                 const combinedStyles = { ...defaultHeadingStyles, ...config.heading.styles };
@@ -543,6 +580,7 @@ if (window.aimaBundleLoaded) {
 
         .avatar {
             transition: transform 0.3s ease-in-out;
+            z-index: 100;
         }
 
         .avatar:hover {
@@ -551,6 +589,10 @@ if (window.aimaBundleLoaded) {
         }
         .logo {
             display: none;
+        }
+
+        .message-composer {
+            margin-bottom: 80px !important;
         }
 
         .header-logo {
@@ -563,7 +605,7 @@ if (window.aimaBundleLoaded) {
             position: absolute;
             top: 0;
             left: 0;
-            z-index: -150;
+            z-index: 10;
             margin-top: 60px;
             margin-left: 5%;
         }
@@ -583,9 +625,6 @@ if (window.aimaBundleLoaded) {
                 height: 49px;
             }
         }
-        #message-composer {
-            margin-bottom: 20px !important;
-        }
 
         @media (max-width: 768px) {
             .avatar {
@@ -596,11 +635,11 @@ if (window.aimaBundleLoaded) {
                 margin-left: 0 !important;
             }
             .header-logo {
-                height: 40px;
-                margin-top: 80px !important; /* Push below the 66px header */
+                height: 5px;
+                display: none !important; /* Hide global logo on mobile */
             }
             .custom-welcome-container {
-                padding-top: 140px; /* Push content below the logo */
+                padding-top: 40px; /* Push content below the logo */
             }
             #message-composer {
                 margin-bottom: 80px !important;
