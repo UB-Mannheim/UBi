@@ -15,3 +15,4 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 
 ### Übersicht der Anbieter
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

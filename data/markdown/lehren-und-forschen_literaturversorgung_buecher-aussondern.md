@@ -18,3 +18,4 @@ Wenn Sie Bücher aussondern möchten, wenden Sie sich bitte telefonisch oder per
 BB A5
 BB Schloss Ehrenhof
 BB Schloss Schneckenhof
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

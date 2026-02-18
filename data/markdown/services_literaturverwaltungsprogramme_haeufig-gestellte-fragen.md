@@ -51,3 +51,4 @@ Eine Anleitung finden Sie unter [https://www.zotero.org/support/kb/transferring_
 ### Können fehlerhafte Einträge bereinigt werden?
 
 Sichern Sie Ihre Daten zunächst durch ein Backup. Nun können Sie ein batch-editing durchführen. Eine Anleitung zum weiteren Vorgehen finden Sie unter [https://www.zotero.org/support/dev/client_coding/javascript_api#examplebatch_editing](https://www.zotero.org/support/dev/client_coding/javascript_api#examplebatch_editing).
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

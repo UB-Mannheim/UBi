@@ -24,3 +24,4 @@ Diese Open Access Policy beeinträchtigt nicht die freie Wahl des Publikationswe
 gez. Prof. Dr. Ernst-Ludwig von Thadden – Rektor05. Dezember 2017
 Weitere Informationen zum [Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/) der UB Mannheim
 Weitere Informationen zum [Publizieren](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/) der Universität Mannheim
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

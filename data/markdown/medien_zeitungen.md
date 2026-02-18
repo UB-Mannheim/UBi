@@ -29,3 +29,4 @@ Diese Pressearchive und Zeitungsportale hat die UB für Sie lizenziert.
 [The Economist](https://dbis.ur.de/UBMAN/resources/6842)
 [The New York Times](https://dbis.ur.de/UBMAN/resources/102727)
 [WISO](https://dbis.ur.de/UBMAN/resources/1232)Enthält zum Beispiel: Handelsblatt, WirtschaftsWoche, DIE ZEIT
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

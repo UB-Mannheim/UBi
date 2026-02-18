@@ -26,3 +26,4 @@ Die wachsende Vernetzung von digitalen Informationssystemen und ihren Ressourcen
 - Boland, K. Links generated in the InFoLiS project: data basis and characteristics. (2014).
 - Mathiak, B. & Boland, K. Challenges in Matching Dataset Citation Strings to Datasets in Social Science.D-Lib Magazine21, (2015).
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

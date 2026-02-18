@@ -1,9 +1,9 @@
 ---
-title: Übersicht und Zugang zu weiteren Bibliothekskatalogen (national & international) – Universitätsbibliothek Mannheim
+title: Übersicht und Zugang zu weiteren Katalogen und Suchportalen – Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/medien/weitere-kataloge/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/other-catalogs/
 category: Medien
-tags: ['Kataloge', 'Fernleihe', 'Bibliotheksverbund', 'Zeitschriften', 'Datenbanken', 'Regionalkatalog', 'Digitale Bibliothek', 'Recherche']
+tags: ['Kataloge', 'Recherche', 'Bibliotheksverbünde', 'Datenbanken', 'Zeitschriften', 'Regionale Bibliotheken', 'Digitale Bibliotheken', 'Suchportale']
 language: de
 ---
 
@@ -25,7 +25,7 @@ Recherchieren Sie weiter in den Beständen anderer Bibliotheken oder über Suchp
 - [MADOC](https://madoc.bib.uni-mannheim.de/): Publikationsserver und Universitätsbibliographie der Universität Mannheim.
 - [Europäisches Dokumentationszentrum (EDZ)](http://edz.bib.uni-mannheim.de/): Dokumentationszentrum an der Universität Mannheim.
 - [Inkunabelkatalog (INKA)](http://www.inka.uni-tuebingen.de/): Verzeichnet auch Mannheimer Inkunabeln.
-- [Katalog der Bibliothek des Mannheimer Vereins für Naturkunde](https://madoc.bib.uni-mannheim.de/1085/)
+- [Katalog der Bibliothek des Mannheimer Vereins für Naturkunde](https://madoc.bib.uni-mannheim.de/1085/).
 - [Mannheimer Zentrum für Europäische Sozialforschung (MZES)](http://www.mzes.uni-mannheim.de/d7/de/pages/bibliothek): Die Bestände der Bibliothek des MZES können Sie im Katalog Primo recherchieren.
 
 ## Kataloge anderer Mannheimer Einrichtungen
@@ -52,3 +52,5 @@ Recherchieren Sie weiter in den Beständen anderer Bibliotheken oder über Suchp
 ## Hilfe
 
 In einigen Katalogen, zum Beispiel dem Karlsruher Virtuellen Katalog, werden Bibliotheken nur mit ihren Kurzbezeichnungen, dem Sigel, angegeben. Den Namen und die Anschrift einer Bibliothek können Sie mithilfe des [Sigelverzeichnisses](https://sigel.staatsbibliothek-berlin.de/suche) auflösen.
+
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

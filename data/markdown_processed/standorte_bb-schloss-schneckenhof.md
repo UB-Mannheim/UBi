@@ -9,25 +9,23 @@ language: de
 
 # Bibliotheksbereich Schloss Schneckenhof
 
-Der Bibliotheksbereich Schloss Schneckenhof ist die Fachbibliothek für Betriebswirtschaftslehre an der Universitätsbibliothek Mannheim. Die Medien sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können hier ausleihen.
+Der Bibliotheksbereich Schloss Schneckenhof ist die Fachbibliothek für Betriebswirtschaftslehre an der Universitätsbibliothek Mannheim. Die Medien sind frei zugänglich, systematisch aufgestellt und vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
 
 ## Öffnungszeiten
 
-**Bibliotheksbereich Schloss Schneckenhof**
-
-| Wochentag | Öffnungszeiten |
-|--------------------------|---------------|
+| Tag | Uhrzeit |
+|--------------------|-------------|
 | Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertag | 10–23 Uhr |
+| Samstag/Sonntag/Feiertage | 10–23 Uhr |
 
 ## Services und Angebote
 
-- [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/): Fachreferentinnen und Fachreferenten beantworten Fragen und beraten individuell zu Ihrem Thema.
+- [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/): Fachreferentinnen und Fachreferenten beraten individuell zu Ihrem Thema.
 - [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
 - [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
 - [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
 - [Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)
-- Services für Lehrende: siehe [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/)
+- Services für Lehrende: [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/)
 - [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
 ## Kontakt
@@ -41,21 +39,25 @@ E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de
 
 ### Weitere Ansprechpersonen
 
-[Zur Webseite des Bibliotheksbereichs Schloss Schneckenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)
+Der Bibliotheksbereich Schloss Schneckenhof der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort. Die Leitung und stellvertretende Leitung stehen als Ansprechpartnerinnen zur Verfügung.
 
 #### Ansprechpartnerinnen
 
 ##### Beate Ulbrich
 
-- Teamleiterin Bibliotheksbereich Schloss Schneckenhof
+- Funktion: Teamleiterin Bibliotheksbereich Schloss Schneckenhof
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim
+- Telefon: +49 621 181-2972
+- E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
 
 ##### Elisabeth Wagner
 
-- Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof
-
-**Kontakt für beide Ansprechpartnerinnen:**
-
+- Funktion: Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim
-- Telefon Beate Ulbrich: +49 621 181-2972
-- Telefon Elisabeth Wagner: +49 621 181-2835
+- Telefon: +49 621 181-2835
 - E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
+- Service: [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+
+#### Kontakt
+
+Für allgemeine Anfragen zum Bibliotheksbereich Schloss Schneckenhof wenden Sie sich bitte an das Team per E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de) oder telefonisch an die oben genannten Ansprechpartnerinnen. Der KI-Chatbot steht ebenfalls für Auskünfte zur Verfügung.

@@ -42,3 +42,4 @@ Sachgebietsleiterin Digitalisierung/Historische Sammlungen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2977
 - E-Mail: tuende.gottschling@uni-mannheim.de
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

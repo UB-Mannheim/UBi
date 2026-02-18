@@ -50,3 +50,4 @@ Kurse und Tutorials
 Alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials und Angebote für Schulen
 
 Die Bibliotheken an der Universität Mannheim haben mich sehr beeindruckt. Sie sind inspirierende Orte und ich gehe gerne zur Klausurvorbereitung dorthin.
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

@@ -117,3 +117,4 @@ Aufgaben:
 - Telefon: +49 621 181-3958
 - E-Mail: vanessa.kolb@uni-mannheim.de
 Vertretung[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

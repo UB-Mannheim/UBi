@@ -9,3 +9,4 @@ Mit Kitodo steht seit mehreren Jahren eine lizenzfreie Software zur Unterstützu
 In Zusammenarbeit mit der SLUB Dresden und der Universitätsbibliothek Braunschweig beteiligt sich die Universitätsbibliothek Mannheim an dem Vorhaben, OCR-D und Kitodo wechselseitig zu integrieren. OCR-D soll dabei für den verteilten Betrieb auf einem Web-Server nutzbar gemacht werden. Volltexte können dann im DFG-Viewer dargestellt und „on demand“ bereitgestellt werden.
 Ein weiteres Ziel ist es, den Workflow für OCR-D zu optimieren und verstärkt zu automatisieren. So sollen unter anderem Community-Workshops durchgeführt und ein prototypischer Aufbau für einen allgemein verfügbaren OCR-Dienst innerhalb der Kitodo-Community erstellt werden.
 [Projektseite DFG](https://gepris.dfg.de/gepris/projekt/460478737)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

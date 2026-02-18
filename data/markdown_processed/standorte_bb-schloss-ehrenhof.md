@@ -9,37 +9,31 @@ language: de
 
 # Bibliotheksbereich Schloss Ehrenhof
 
-Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim umfasst die Hasso-Plattner-Bibliothek – Fachbibliothek für Rechtswissenschaft, Volkswirtschaftslehre und Geschichte sowie die Bibliothek für Accounting, Business Taxation and Tax Law.
+Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim umfasst die Hasso-Plattner-Bibliothek – Fachbibliothek für Rechtswissenschaft, Volkswirtschaftslehre und Geschichte sowie die Bibliothek für Accounting, Business Taxation and Tax Law. Die Medien sind frei zugänglich, systematisch aufgestellt und vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können Medien ausleihen.
 
-Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
+Weitere Informationen:
 
-Weitere Informationen zu Lern- und Arbeitsplätzen finden Sie im [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/).
+- [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/)
 
 ## Öffnungszeiten
 
 **Bibliotheksbereich Schloss Ehrenhof**
 
-| Tag | Öffnungszeiten |
-|----------------------|----------------|
-| Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertage | 10–23 Uhr |
+- Montag bis Freitag: 8–23 Uhr
+- Samstag, Sonntag und Feiertage: 10–23 Uhr
 
 **Eingang Ost**
 
-| Tag | Öffnungszeiten |
-|----------------------|----------------|
-| Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertage | 10–23 Uhr |
+- Montag bis Freitag: 8–23 Uhr
+- Samstag, Sonntag und Feiertage: 10–23 Uhr
 
 **Eingang West**
 
-| Tag | Öffnungszeiten |
-|----------------------|----------------|
-| Montag–Freitag | 8–18 Uhr |
+- Montag bis Freitag: 8–18 Uhr
 
 ## Fachliche Recherche und Services
 
-Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) unterstützen Sie bei der Recherche und beraten individuell zu Ihrem Thema.
+Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) unterstützen bei fachlichen Fragen und beraten individuell zu verschiedenen Themen.
 
 Weitere Services:
 
@@ -61,7 +55,7 @@ E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim ist zentraler Anlaufpunkt für Nutzerinnen und Nutzer. Hier finden Sie die wichtigsten Ansprechpartnerinnen für diesen Bereich.
+Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim ist zentraler Anlaufpunkt für Nutzerinnen und Nutzer. Hier finden Sie die wichtigsten Ansprechpartnerinnen und Kontaktmöglichkeiten.
 
 #### Ansprechpartnerinnen
 
@@ -78,5 +72,8 @@ E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
 Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 206, 68161 Mannheim
 Telefon: +49 621 181-3020
 E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
+Weitere Unterstützung: [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
-Weitere Informationen finden Sie auf der [Webseite des Bibliotheksbereichs Schloss Ehrenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/).
+#### Kontakt
+
+Für allgemeine Anfragen zum Bibliotheksbereich Schloss Ehrenhof wenden Sie sich bitte an [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de) oder nutzen Sie den [KI-Chatbot](https://chat.bib.uni-mannheim.de/).

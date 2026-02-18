@@ -108,3 +108,4 @@ Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanitie
 - Telefon: +49 621 181-2754
 - E-Mail: larissa.will@uni-mannheim.de
 - ORCID-ID: 0009-0004-6220-8939 (https://orcid.org/0009-0004-6220-8939)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

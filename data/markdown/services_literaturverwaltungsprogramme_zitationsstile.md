@@ -50,3 +50,4 @@ Bisher haben wir diese hauseigenen Zitationsstile gesammelt:
 - Romanistik – Literatur- und Medienwissenschaften: [Citavi-Styledatei](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Services/SMW_ROM.ccs) (zuletzt aktualisiert am 2022-07-21)
 - Juristischer Zitierstil: [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/juristische-zitierweise-stuber-german-universitat-mannheim.csl) (zuletzt aktualisiert am 2018-08-31T12:44:57+00:00)
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

@@ -53,3 +53,4 @@ Das Team der Schreibberatung unterstützt Sie bei Fragen zu Ihrem Schreibprojekt
 Literaturverwaltungsprogramme
 Informationen, Beratung und Kurse zu Zotero
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

@@ -15,3 +15,4 @@ Information der Universitäts-IT zu [eduroam](https://www.uni-mannheim.de/it/anl
 
 Angehörige der Universität Mannheim können den VPN-Client der Universitäts-IT installieren. Damit können Sie von außerhalb des Campus auf lizenzierte elektronische Medien zugreifen. Ein Teil der lizenzierten elektronischen Medien steht auch ohne VPN-Client über [Shibboleth](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/) im Fernzugriff zur Verfügung.
 [VPN-Client](https://www.uni-mannheim.de/it/anleitungen/vpn/)[Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

@@ -46,3 +46,4 @@ Beauftragen Sie andere Personen, Medien für Sie auszuleihen.
 Bücher aussondern
 Sie möchten Ihren Handapparat aufräumen und Bücher aussortieren?
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

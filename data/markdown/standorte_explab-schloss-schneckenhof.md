@@ -123,3 +123,4 @@ Wie in allen Bibliotheksbereichen ist das Essen im ExpLAB außerhalb von Veranst
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
 - Telefon: +49 621 181-2948
 - E-Mail: explab.ub@uni-mannheim.de
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

@@ -1,9 +1,9 @@
 ---
-title: Bibliotheksausweis der Universitätsbibliothek Mannheim – Nutzung, Ersatz und Kontaktinformationen
+title: Bibliotheksausweis der Universitätsbibliothek Mannheim – Nutzung, Ersatz und Kontakt
 source_url_de: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/library-card/
 category: Benutzung
-tags: ['Bibliotheksausweis', 'ecUM', 'Nutzung', 'Ersatzkarte', 'Mitgliedschaft', 'Kontakt', 'Fernleihe', 'Schließfächer']
+tags: ['Bibliotheksausweis', 'ecUM', 'Nutzung', 'Ersatzkarte', 'Kontakt', 'Universitätsbibliothek', 'Mitgliedschaft', 'Service']
 language: de
 ---
 
@@ -11,18 +11,20 @@ language: de
 
 ## Für Mitglieder der Universität Mannheim
 
-Die elektronische Chipkarte **ecUM** dient gleichzeitig als Bibliotheksausweis. Als Mitglied der Universität Mannheim können Sie mit der ecUM und Ihren Zugangsdaten folgende Services nutzen:
+Die elektronische Chipkarte ecUM dient gleichzeitig als Bibliotheksausweis.
 
-- Zugang zu den Bibliotheksbereichen
-- Ausleihe von Medien im Ausleihzentrum Westflügel
-- Drucken, Kopieren und Scannen
-- Bestellung von Medien über die Fernleihe
-- Nutzung lizenzierter elektronischer Medien, auch im Fernzugriff mit [VPN-Client](https://www.uni-mannheim.de/it/anleitungen/vpn/)
-- Campusweiter [Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/)
-- Nutzung von Schließfächern
+Mit der ecUM und Ihren Zugangsdaten können Sie:
 
-**Hinweis zur ecUM ab 1. Juli 2025:**
-Ab dem 1. Juli 2025 erhält die ecUM ein neues Design ohne Foto auf der Vorderseite. Stattdessen wird ein QR-Code abgebildet. Diese Änderung betrifft alle ab diesem Datum neu ausgestellten Karten. Bereits vorhandene Karten bleiben weiterhin gültig.
+- die Bibliotheksbereiche besuchen
+- Medien im Ausleihzentrum Westflügel ausleihen
+- drucken, kopieren und scannen
+- Medien über die Fernleihe bestellen
+- lizenzierte elektronische Medien nutzen, mit [VPN-Client](https://www.uni-mannheim.de/it/anleitungen/vpn/) auch im Fernzugriff
+- campusweit [Internet](https://www.bib.uni-mannheim.de/services/internetzugang/) nutzen
+- Schließfächer benutzen
+
+**ecUM ab 1. Juli 2025 ohne Foto:**
+Ab dem 1. Juli 2025 erhalten neu ausgestellte ecUM-Karten ein neues Design ohne Foto auf der Vorderseite. Stattdessen befindet sich dort ein QR-Code. Bestandskarten behalten weiterhin ihre Gültigkeit.
 
 ## Für Nicht-Mitglieder der Universität Mannheim
 
@@ -31,18 +33,19 @@ Ab dem 1. Juli 2025 erhält die ecUM ein neues Design ohne Foto auf der Vorderse
 
 ## Ersatz bei Verlust oder Defekt
 
-Bei Verlust oder Defekt Ihrer ecUM können Sie eine Ersatzkarte über das [Studierendenportal](https://portal2.uni-mannheim.de/portal2/) beantragen. Melden Sie sich dazu mit Ihrer Uni-ID und Ihrem Passwort an. Die Gebühr für eine Ersatzkarte beträgt 15 Euro.
+Bei Verlust oder Defekt Ihrer ecUM können Sie eine Ersatzkarte über das [Studierendenportal](https://portal2.uni-mannheim.de/portal2/) beantragen. Melden Sie sich mit Ihrer Uni-ID und Ihrem Passwort an. Die Gebühr für eine Ersatzkarte beträgt 15 Euro.
 
 ## Benachrichtigungen und Adressänderungen
 
-- Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an Ihre universitäre E-Mail-Adresse gesendet.
-- Adressänderungen können an den ecUM-Terminals und in den Studienbüros vorgenommen werden.
+- Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an Ihre universitäre E-Mail-Adresse geschickt.
+- Adressänderungen sind an den ecUM-Terminals und in den Studienbüros möglich.
 
 ## Kontakt
 
-### InfoCenter der Universitätsbibliothek Mannheim
+### InfoCenter
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
 - Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
 - Telefon: +49 621 181-2948
 - E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

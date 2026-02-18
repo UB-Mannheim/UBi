@@ -100,3 +100,4 @@ Aufgaben:
 - Telefon: +49 621 181-2938
 - E-Mail: viktor.boecking@uni-mannheim.de
 Vertretung[Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

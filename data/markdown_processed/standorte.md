@@ -1,9 +1,9 @@
 ---
-title: Standorte der Universitätsbibliothek Mannheim – Übersicht und Angebote
+title: Standorte der Universitätsbibliothek Mannheim – Übersicht und Angebote aller Bibliotheksbereiche
 source_url_de: https://www.bib.uni-mannheim.de/standorte/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/
 category: Standorte
-tags: ['Standorte', 'Arbeitsplätze', 'Ausleihe', 'Bibliotheksbereiche', 'Gruppenarbeit', 'Lernorte', 'Universitätsbibliothek', 'Mannheim']
+tags: ['Standorte', 'Arbeitsplätze', 'Ausleihe', 'Lernräume', 'Bibliotheksbereiche', 'Gruppenarbeit', 'Serviceangebote', 'Medien']
 language: de
 ---
 
@@ -29,9 +29,7 @@ Ausleihe, Lehrbuchsammlung und Fernleihe.
 
 - Sprach- und Literaturwissenschaften
 - Medien- und Kommunikationswissenschaften
-- Pädagogik
-- Philosophie
-- Psychologie und Theologie
+- Pädagogik, Philosophie, Psychologie und Theologie
 - Mediathek, Testothek und Testlabor Psychologie
 - Ausstellungen
 
@@ -55,11 +53,10 @@ Ausleihe, Lehrbuchsammlung und Fernleihe.
 
 ### [Learning Center Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/)
 
-- Gruppenarbeit und Lounge
+Gruppenarbeit und Lounge.
 
 ### [ExpLAB Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/)
 
-- Kreatives Lernen und Arbeiten
-- Virtual Reality
-- Eye Tracking
-- Design Thinking
+Kreatives Lernen und Arbeiten, Virtual Reality, Eye Tracking und Design Thinking.
+
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

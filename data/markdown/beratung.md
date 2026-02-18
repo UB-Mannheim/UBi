@@ -50,3 +50,4 @@ Die UB berät Sie rund um die Themen Publizieren und Open Access und unterstütz
 Forschungsdaten
 Die UB unterstützt Sie bei Fragen rund um das Thema Forschungsdaten.
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

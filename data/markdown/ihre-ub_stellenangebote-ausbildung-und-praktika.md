@@ -91,3 +91,4 @@ Aufgaben:
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
 - Telefon: +49 621 181-2920
 - E-Mail: jessica.kaiser@uni-mannheim.de
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

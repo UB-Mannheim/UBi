@@ -30,3 +30,4 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgab
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

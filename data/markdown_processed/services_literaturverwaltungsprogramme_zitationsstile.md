@@ -1,9 +1,9 @@
 ---
-title: Zitationsstile und hausinterne Zitierstandards an der Universitätsbibliothek Mannheim
+title: Zitationsstile und Unterstützung bei Literaturverwaltungsprogrammen an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zitationsstile/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/reference-management-software/citation-styles/
 category: Services
-tags: ['Zitationsstile', 'Literaturverwaltung', 'Zitieren', 'Zotero', 'Citavi', 'Hausstile', 'Universität Mannheim', 'Zitierleitfaden']
+tags: ['Zitationsstile', 'Literaturverwaltungsprogramme', 'Zotero', 'Citavi', 'Hausstile', 'Wissenschaftliches Arbeiten', 'Publikationsservices', 'Beratung']
 language: de
 ---
 
@@ -24,42 +24,47 @@ Eine Einführung zum Zitieren finden Sie im [Zitierleitfaden](https://mediatum.u
 - **American Marketing Association**
   [Journals Reference Style Examples](https://www.ama.org/american-marketing-association-journals-reference-style-examples/)
 
-In den Literaturverwaltungsprogrammen sind diese Stile vorinstalliert oder können einfach hinzugefügt werden. Eigene Zitationsstile einzelner Zeitschriften findet man über den Namen der Zeitschrift.
+Diese Stile sind in den meisten Literaturverwaltungsprogrammen vorinstalliert oder können einfach hinzugefügt werden. Eigene Zitationsstile einzelner Zeitschriften finden Sie meist über den Namen der Zeitschrift.
 
 ## Zitationsstile verwenden
 
 ### Zotero
 
-Nutzen Sie das [CSL-Repositorium](https://www.zotero.org/styles/) oder suchen Sie anhand von [Beispielen](https://editor.citationstyles.org/searchByExample/). Eine [Anleitung zum Installieren von Zitationsstilen](https://www.zotero.org/support/styles) ist verfügbar.
+- Nutzen Sie das [CSL-Repositorium](https://www.zotero.org/styles/) oder suchen Sie anhand von [Beispielen](https://editor.citationstyles.org/searchByExample/).
+- [Anleitung zum Installieren von Zitationsstilen](https://www.zotero.org/support/styles)
 
 ## Zitationsstile erstellen und ändern
 
-Sie können einen eigenen Zitationsstil für Ihr Literaturverwaltungsprogramm erstellen, einen bereits bestehenden Zitationsstil ändern oder mit einer Variante eines offiziellen Stils arbeiten. In den Kursen für Fortgeschrittene gibt die Universitätsbibliothek hierzu Hilfestellung und berät Sie gerne.
+Sie können eigene Zitationsstile für Ihr Literaturverwaltungsprogramm erstellen, bestehende Stile anpassen oder Varianten offizieller Stile nutzen. In den Kursen für Fortgeschrittene bietet die Universitätsbibliothek hierzu Hilfestellung und Beratung.
 
 ## Zitationsstile an der Universität Mannheim
 
-An Fakultäten oder Lehrstühlen werden insbesondere für Abschlussarbeiten unterschiedliche Anforderungen an Zitationen und an das Literaturverzeichnis gestellt. Es wird empfohlen, einen etablierten Zitationsstil zu verwenden. Die Vorgabe, einen Stil nach der Harvard Methode oder [Autor-Jahr-Zitierweise](https://de.wikipedia.org/wiki/Autor-Jahr-Zitierweise) zu nutzen, lässt Spielraum, um auf bereits existierende Zitationsstile in den Literaturverwaltungsprogrammen zurückzugreifen.
+An den Fakultäten und Lehrstühlen der Universität Mannheim bestehen unterschiedliche Anforderungen an Zitationen und Literaturverzeichnisse, insbesondere für Abschlussarbeiten. Es wird empfohlen, etablierte Zitationsstile zu verwenden. Vorgaben wie die Harvard Methode oder die [Autor-Jahr-Zitierweise](https://de.wikipedia.org/wiki/Autor-Jahr-Zitierweise) ermöglichen die Nutzung bereits existierender Stile in Literaturverwaltungsprogrammen.
 
-Falls ein individueller Stil benötigt wird, können Sie einen eigenen Zitationsstil erstellen oder einen bestehenden anpassen. Die Universitätsbibliothek unterstützt Sie dabei, sammelt und pflegt diese Hausstile nach Möglichkeit. Fehler oder neue Stile können an [literaturverwaltung.ub@uni-mannheim.de](mailto:literaturverwaltung.ub@uni-mannheim.de) gemeldet oder gesendet werden.
+Falls ein individueller Stil benötigt wird, können Sie diesen selbst erstellen oder anpassen. Die Universitätsbibliothek unterstützt Sie dabei, sammelt und pflegt hausinterne Stile und nimmt gerne Ihre erstellten Zitationsstile entgegen. Fehler oder neue Stile können an [literaturverwaltung.ub@uni-mannheim.de](mailto:literaturverwaltung.ub@uni-mannheim.de) gemeldet werden.
 
-### Gesammelte hauseigene Zitationsstile
+### Gesammelte Zitationsstile der Universität Mannheim
 
 - **BWL, Prof. Homburg, deutsche Arbeiten:**
-  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-lehrstuhl-prof-homburg.csl) (zuletzt aktualisiert am 2014-10-06T10:59:59Z)
+  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-lehrstuhl-prof-homburg.csl) (zuletzt aktualisiert am 2014-10-06)
 - **BWL, Prof. Homburg, englische Arbeiten:**
-  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-lehrstuhl-prof-homburg-en.csl) (zuletzt aktualisiert am 2015-03-13T18:05:35Z)
+  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-lehrstuhl-prof-homburg-en.csl) (zuletzt aktualisiert am 2015-03-13)
 - **BWL, Prof. Helmig:**
-  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-lehrstuhl-prof-helmig.csl) (zuletzt aktualisiert am 2014-09-30T09:50:21Z)
+  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-lehrstuhl-prof-helmig.csl) (zuletzt aktualisiert am 2014-09-30)
 - **BWL, Prof. Weber (deutsch und englisch):**
-  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-lehrstuhl-prof-weber.csl) (zuletzt aktualisiert am 2016-07-30T12:54:54+00:00)
+  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-lehrstuhl-prof-weber.csl) (zuletzt aktualisiert am 2016-07-30)
 - **Politikwissenschaften:**
-  [Citavi-Stil in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitaet-mannheim-politikwissenschaft.ccs) (zuletzt aktualisiert am 2014-11-13T15:22:46Z),
-  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-politikwissenschaft.csl) (zuletzt aktualisiert am 2019-04-01T13:51:00+00:00)
+  [Citavi-Stil in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitaet-mannheim-politikwissenschaft.ccs) (zuletzt aktualisiert am 2014-11-13),
+  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-politikwissenschaft.csl) (zuletzt aktualisiert am 2019-04-01)
 - **Romanistik – Literatur- und Medienwissenschaften:**
-  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-literatur-und-medienwissenschaften.csl) (zuletzt aktualisiert am 2017-12-19T11:54:00+00:00),
+  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-literatur-und-medienwissenschaften.csl) (zuletzt aktualisiert am 2017-12-19),
   [Citavi-Styledatei](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Services/LMW_ROM.ccs) (zuletzt aktualisiert am 2022-07-21)
 - **Romanistik – Sprach- und Medienwissenschaften:**
-  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-sprach-und-medienwissenschaften.csl) (zuletzt aktualisiert am 2017-12-21T13:22:09+00:00),
+  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-sprach-und-medienwissenschaften.csl) (zuletzt aktualisiert am 2017-12-21),
   [Citavi-Styledatei](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Services/SMW_ROM.ccs) (zuletzt aktualisiert am 2022-07-21)
 - **Juristischer Zitierstil:**
-  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/juristische-zitierweise-stuber-german-universitat-mannheim.csl) (zuletzt aktualisiert am 2018-08-31T12:44:57+00:00)
+  [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/juristische-zitierweise-stuber-german-universitat-mannheim.csl) (zuletzt aktualisiert am 2018-08-31)
+
+## Weitere Unterstützung
+
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/) – Unterstützung bei Fragen zu Zitationsstilen und Literaturverwaltungsprogrammen

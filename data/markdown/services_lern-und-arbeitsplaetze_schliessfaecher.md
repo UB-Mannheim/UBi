@@ -12,3 +12,4 @@ Nutzen Sie die Schließfächer nicht für die Aufbewahrung von Geld oder Wertsac
 **Zu Ihrer Sicherheit**
 Prüfen Sie unbedingt, ob das von Ihnen belegte Schließfach korrekt verschlossen ist.
 Schließfächer zur Vergabe für ein Semester werden in den Bibliotheksbereichen A3, A5, Schloss Schneckenhof und Schloss Ehrenhof angeboten. Bitte wenden Sie sich an die Infotheke Ihres Bibliotheksbereichs.
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

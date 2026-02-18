@@ -21,3 +21,4 @@ Sexueller Missbrauch im Bistum Speyer seit 1946
 
 MaConf – Mannheim Conference Series
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

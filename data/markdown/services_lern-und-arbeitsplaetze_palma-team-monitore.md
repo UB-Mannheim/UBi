@@ -15,3 +15,4 @@ Melden Sie sich über [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/
 Kurzanleitung PalMA
 Kurzanleitung für die Bildschirmfreigabe (Windows)
 Kurzanleitung für die Bildschirmfreigabe (MAC)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

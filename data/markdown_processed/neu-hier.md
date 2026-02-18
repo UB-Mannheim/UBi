@@ -3,7 +3,7 @@ title: Einstieg und Angebote für neue Nutzer:innen der Universitätsbibliothek 
 source_url_de: https://www.bib.uni-mannheim.de/neu-hier/
 source_url_en: https://www.bib.uni-mannheim.de/en/getting-started/
 category: Benutzung
-tags: ['Bibliotheksausweis', 'InfoCenter', 'Erstiflyer', 'Lageplan', 'Internetzugang', 'Kurse', 'Tutorials', 'Einstieg']
+tags: ['Bibliotheksausweis', 'InfoCenter', 'Lageplan', 'Internetzugang', 'Kurse', 'Erstsemester', 'Führungen', 'Tutorials']
 language: de
 ---
 
@@ -39,7 +39,7 @@ Hier finden Sie die Standorte der Universitätsbibliothek und erfahren, wo sich 
 
 [Internetzugang: WLAN, eduroam, VPN](https://www.bib.uni-mannheim.de/services/internetzugang/)
 
-Informationen zum WLAN-Netz eduroam, zum VPN-Client und zu den Angeboten der Universitäts-IT.
+Informationen zum WLAN-Netz eduroam, zum VPN-Client und zu Angeboten der Universitäts-IT.
 
 ## Kurse und Tutorials
 
@@ -49,4 +49,5 @@ Alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials und spezielle Ange
 
 ______________________________________________________________________
 
-Die Bibliotheken an der Universität Mannheim sind inspirierende Orte und werden gerne zur Klausurvorbereitung genutzt.
+> Die Bibliotheken an der Universität Mannheim haben mich sehr beeindruckt. Sie sind inspirierende Orte und ich gehe gerne zur Klausurvorbereitung dorthin.
+> – [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

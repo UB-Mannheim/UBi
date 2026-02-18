@@ -107,3 +107,4 @@ In den letzten 30 Jahren hat sich der Umfang der Buch- und Medienbestände in de
 ## Öffentlichkeitsarbeit
 
 Unsere [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren Sie über die Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Außerdem organisieren sie [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/) – oft auch in Kooperation mit externen Einrichtungen. Besuchen Sie uns auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

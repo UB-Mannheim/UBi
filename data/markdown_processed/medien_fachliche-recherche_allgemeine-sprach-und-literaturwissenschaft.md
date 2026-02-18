@@ -3,32 +3,30 @@ title: Fachliche Recherche und Ressourcen für Allgemeine Sprach- und Literaturw
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/general-linguistics-and-literary-studies/
 category: Medien
-tags: ['Allgemeine Sprachwissenschaft', 'Literaturwissenschaft', 'Datenbanken', 'E-Books', 'Fachinformation', 'Kurse', 'Digital Humanities', 'Kontakt']
+tags: ['Allgemeine Sprachwissenschaft', 'Literaturwissenschaft', 'Datenbanken', 'E-Books', 'Fachinformation', 'Digital Humanities', 'Kurse', 'Kontakt']
 language: de
 ---
 
 # Allgemeine Sprach- und Literaturwissenschaft an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet umfassende Literatur, Datenbanken und Recherchezugänge für die Allgemeine Sprach- und Literaturwissenschaft. Neben individueller Beratung stehen regelmäßig Kurse und Tutorials zur Verfügung, die beim wissenschaftlichen Arbeiten und der Recherche im Fachgebiet unterstützen.
+Die Universitätsbibliothek Mannheim bietet umfassende Literatur, Datenbanken und Recherchezugänge für die Allgemeine Sprach- und Literaturwissenschaft. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
 
-## Recherchemöglichkeiten
+## Recherchieren
 
 ### Datenbanken
 
-- [Datenbanken zur Allgemeinen Sprach- und Literaturwissenschaft (DBIS)](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=3)
-- [JSTOR](https://www.jstor.org/)
-- [MLA International Bibliography](https://dbis.ur.de/UBMAN/resources/76)
+- [Datenbanken zur Allgemeinen Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=3) (DBIS)
+- Direktzugang zu [JSTOR](https://www.jstor.org/) und [MLA](https://dbis.ur.de/UBMAN/resources/76)
 - [Fachinformationsdienst Allgemeine und Vergleichende Literaturwissenschaft (FID AVL)](https://www.avldigital.de/de/recherchieren/)
 - [Fachinformationsdienst Linguistik](https://www.linguistik.de/de/)
 
 ### E-Journals
 
-- [Elektronische Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=G)
-- [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
+- Zugang zu E-Journals über die [Elektronische Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=G) und den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### E-Books
 
-Die Universitätsbibliothek bietet ein breites Angebot an E-Books für die Allgemeine Sprach- und Literaturwissenschaft. Zugriff erfolgt über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) aus dem Universitätsnetz. Weitere Hinweise zur Nutzung finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Die UB bietet ein breites Angebot an E-Books für die Allgemeine Sprach- und Literaturwissenschaft. Recherche und Zugriff erfolgen über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB). Weitere Hinweise zur Nutzung finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -93,10 +91,10 @@ Die Universitätsbibliothek bietet ein breites Angebot an E-Books für die Allge
 
 ## Literaturstandorte
 
-- Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zur Allgemeinen Sprach- und Literaturwissenschaft, die vor Ort genutzt werden kann. Die Medien sind thematisch aufgestellt. Ausleihen sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) steht weitere Literatur zur Verfügung, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- In der [Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) stehen wichtige Lehrbücher für Studierende bereit.
-- Die Literatur der UB ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+- Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zur Allgemeinen Sprach- und Literaturwissenschaft, die vor Ort genutzt werden kann. Die Medien sind frei zugänglich und thematisch aufgestellt. Ausleihen sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
+- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
+- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
+- Die vorhandene Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
 - Das [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/) in Mannheim bietet einen herausragenden Bestand zur Linguistik. Recherche im [OPAC der Bibliothek des IDS](https://ids-mannheim.bsz-bw.de/).
 
 ## Forschungseinrichtungen vor Ort
@@ -107,7 +105,7 @@ Die Universitätsbibliothek bietet ein breites Angebot an E-Books für die Allge
 
 ## Kurse und Tutorials
 
-Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche in der Allgemeinen Sprach- und Literaturwissenschaft an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche in der Allgemeinen Sprach- und Literaturwissenschaft an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -116,7 +114,7 @@ Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche in der 
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z.B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0). Die UB unterstützt mit Schulungs- und Beratungsangeboten.
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z.B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt mit Schulungs- und Beratungsangeboten.
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
@@ -135,7 +133,9 @@ Vertretung für Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psy
 - Durchführung von Schulungen im Fachbereich
 
 **Kontakt:**
-Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
-Telefon: +49 621 181-3053
-E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
-Vertretung: [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
+- Telefon: +49 621 181-3053
+- E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
+- Vertretung: [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

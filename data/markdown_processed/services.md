@@ -1,9 +1,9 @@
 ---
-title: Übersicht der Services der Universitätsbibliothek Mannheim – Ausweis, Arbeitsplätze, Internet, Druck, Kurse, Schreibberatung, Literaturverwaltung
+title: Übersicht der Services der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/services/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/
 category: Services
-tags: ['Bibliotheksausweis', 'Arbeitsplätze', 'Internetzugang', 'Drucken', 'Kurse', 'Schreibberatung', 'Literaturverwaltung', 'Serviceangebot']
+tags: ['Bibliotheksausweis', 'Arbeitsplätze', 'Internetzugang', 'Drucken', 'Kopieren', 'Scannen', 'Kurse', 'Schreibberatung']
 language: de
 ---
 
@@ -11,30 +11,48 @@ language: de
 
 Informieren Sie sich über die vielfältigen Services der Universitätsbibliothek Mannheim. Hier finden Sie Angebote rund um Bibliotheksausweis, Arbeitsplätze, Internetzugang, Drucken, Kopieren und Scannen, Kurse und Tutorials, Schreibberatung sowie Literaturverwaltungsprogramme.
 
-## [Bibliotheksausweis](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/)
+## Bibliotheksausweis
 
-Erfahren Sie, wie Sie sich anmelden und welche Services der UB Sie nutzen können. Informationen für Angehörige der Universität Mannheim, kooperierender Einrichtungen und Privatpersonen.
+Erfahren Sie, wie Sie sich anmelden und welche Services der UB Sie nutzen können. Informationen stehen bereit für Angehörige der Universität Mannheim, kooperierender Einrichtungen und Privatpersonen.
 
-## [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
+Weitere Informationen: [Bibliotheksausweis](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/)
+
+## Arbeitsplätze
 
 Die UB bietet Einzel- und Gruppenarbeitsplätze, Informationen zur Belegung, technische Ausstattung, Schulungsräume, Sonderleseplätze und Schließfächer.
 
-## [Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/)
+Weitere Informationen: [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
 
-Nutzen Sie das WLAN-Netz eduroam, den VPN-Client und weitere Angebote der Universitäts-IT.
+## Internetzugang
 
-## [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
+Nutzen Sie das WLAN-Netz eduroam, den VPN-Client und erhalten Sie weiterführende Informationen der Universitäts-IT.
 
-Drucken Sie von Benutzer-PCs der UB oder von mobilen Geräten. Verwalten Sie Ihr virtuelles Druckkonto und finden Sie Anleitungen zum Drucken, Kopieren und Scannen.
+Weitere Informationen: [Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/)
 
-## [Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
+## Drucken, Kopieren und Scannen
+
+Drucken Sie von Benutzer-PCs der UB oder von mobilen Geräten, verwalten Sie Ihr virtuelles Druckkonto und finden Sie Anleitungen zum Drucken, Kopieren und Scannen.
+
+Weitere Informationen: [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
+
+## Kurse und Tutorials
 
 Die UB bietet verschiedene Kurse, die Kursreihe Study Skills, Führungen, Tutorials und spezielle Angebote für Schulen.
 
-## [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
+Weitere Informationen: [Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
+
+## Schreibberatung
 
 Das Team der Schreibberatung unterstützt Sie bei allen Fragen zu Ihrem Schreibprojekt – von der Themenfindung bis zur Endüberarbeitung.
 
-## [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+Weitere Informationen: [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 
-Erhalten Sie Informationen, Beratung und Kurse zu Literaturverwaltungsprogrammen, insbesondere zu Zotero.
+## Literaturverwaltungsprogramme
+
+Erhalten Sie Informationen, Beratung und Kurse zu Literaturverwaltungsprogrammen wie Zotero.
+
+Weitere Informationen: [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+
+## KI-Chatbot
+
+Nutzen Sie den [KI-Chatbot](https://chat.bib.uni-mannheim.de/) für schnelle Hilfe und Auskünfte zu den Services der Universitätsbibliothek.

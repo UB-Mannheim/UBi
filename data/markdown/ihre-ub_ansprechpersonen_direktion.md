@@ -41,3 +41,4 @@ Sekretariat
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 280, 68161 Mannheim
 - Telefon: +49 621 181-2940
 - E-Mail: sekretariat.ub@uni-mannheim.de
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

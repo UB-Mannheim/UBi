@@ -7,3 +7,4 @@ Ihre Angaben in den Pflichtfeldern sind erforderlich, um einen Semesterapparat e
 Bitte beachten Sie: Medien im Semesterapparat sind NICHT entleihbar!
 
 Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/) wurden mir zur Verfügung gestellt.
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

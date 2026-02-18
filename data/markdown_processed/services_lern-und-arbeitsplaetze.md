@@ -44,3 +44,7 @@ Für Medien, die nicht nach Hause ausgeliehen werden können, stehen Sonderlesep
 ## Schließfächer
 
 In allen Bibliotheksbereichen stehen [Schließfächer](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schliessfaecher/) zur Verfügung, die mit der ecUM oder UB-Chipkarte genutzt werden können.
+
+## Weitere Informationen
+
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

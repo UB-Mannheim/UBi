@@ -3,13 +3,13 @@ title: Fachliche Recherche und Ressourcen für Soziologie an der Universitätsbi
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/soziologie/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/sociology/
 category: Medien
-tags: ['Soziologie', 'Fachinformation', 'Datenbanken', 'E-Books', 'Forschungsdaten', 'Literaturstandorte', 'Kurse', 'Wissenschaftliches Arbeiten']
+tags: ['Soziologie', 'Fachrecherche', 'Datenbanken', 'E-Books', 'Forschungsdaten', 'Kurse', 'Literaturstandorte', 'Kontakt']
 language: de
 ---
 
 # Soziologie an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Soziologie ein breites Spektrum an gedruckter und digitaler Literatur, Zugang zu fachspezifischen Datenbanken sowie weitere Recherche- und Sucheinstiege. Ergänzt wird das Angebot durch Kurse und Beratungen, die Studium, Lehre und Forschung im Fach Soziologie umfassend unterstützen.
+Die Universitätsbibliothek Mannheim bietet für das Fach Soziologie ein breites Spektrum an gedruckter und digitaler Literatur, den Zugang zu fachspezifischen Datenbanken sowie weitere Recherche- und Sucheinstiege. Zusätzlich werden Kurse und Beratungen angeboten, die bei Studium, Lehre und Forschung im Fach Soziologie umfassend unterstützen.
 
 ## Recherchieren
 
@@ -19,7 +19,7 @@ Eine Übersicht der verfügbaren Datenbanken (Aufsatz-, Fakten-, Referenz- und V
 
 - [Web of Science/Social Sciences Citation Index](https://dbis.uni-regensburg.de/UBMAN/resources/360): Enthält u. a. Informationen zu Zitationszahlen und Journal Impact Factoren.
 - [Sociological Abstracts](https://dbis.uni-regensburg.de/UBMAN/resources/373): Internationale Fachbibliografie zur theoretischen und angewandten Soziologie sowie zu angrenzenden Disziplinen.
-- [SocioHub – Fachinformationsdienst Soziologie](https://dbis.uni-regensburg.de/UBMAN/resources/102695): Zentrales Online-Portal mit Recherchemodul, Kollaborationsportal und Open Access-Komponente für die soziologische Forschung in Deutschland.
+- [SocioHub – Fachinformationsdienst Soziologie](https://dbis.uni-regensburg.de/UBMAN/resources/102695): Zentrales Online-Portal mit Recherchemodul, Kollaborationsportal und Open Access Komponente für die soziologische Forschung in Deutschland.
 - [WISO](https://dbis.uni-regensburg.de/UBMAN/resources/1232): Zugang zu Fachzeitschriften, E-Books und Zeitungsartikeln aus den Sozial- und Wirtschaftswissenschaften, u. a. Handelsblatt, WirtschaftsWoche, DIE ZEIT, Der Spiegel.
 
 Datenbanken für aktuelle Presseinformationen:
@@ -31,13 +31,11 @@ Datenbanken für aktuelle Presseinformationen:
 
 ### E-Journals
 
-E-Journals sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://ezb.uni-regensburg.de) verzeichnet. Nach einzelnen E-Journals können Sie außerdem im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchieren. Bei der Zeitschriftensuche empfiehlt sich die Nutzung der erweiterten Suchmaske und die Eingrenzung auf die Materialart „Zeitschriften“.
+E-Journals sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://ezb.uni-regensburg.de) verzeichnet. Nach einzelnen E-Journals können Sie außerdem im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchieren. Bei der Zeitschriftensuche im Katalog empfiehlt sich die Nutzung der erweiterten Suchmaske und die Eingrenzung auf die Materialart „Zeitschriften“.
 
 ### E-Books
 
-Die Universitätsbibliothek hat ein umfangreiches E-Book-Angebot an Fachpublikationen lizenziert. Für Soziologie wurden u. a. E-Book-Pakete der Verlage [Nomos](https://www.inlibra.com/de/topic/86a566a2-061e-473b-ab41-469ff56ff547), [Palgrave](http://link.springer.com/search?facet-discipline=%22Social+Sciences%22&facet-content-type=%22Book%22) und [Springer](https://link.springer.com/search?facet-discipline=%22Social+Sciences%22&facet-content-type=%22Book%22) lizenziert. Weitere E-Books sind über die Datenbank [WISO](https://www.wiso-net.de/dosearch/%3A3%3AEBOOKS?searchlater=t&selectedNavigationPath=%3A3%3AEBOOKS) zugänglich.
-
-Alle an der UB Mannheim verfügbaren E-Books sind über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar. E-Books erkennen Sie an der Information „Online Zugriff frei“ oder am Reiter „Ansehen“. Bei thematischer Recherche können Sie die Treffermenge mithilfe der Facetten „Bücher“ und „Online-Ressourcen“ auf „E-Books“ eingrenzen. Weitere Informationen finden Sie auf der Seite [Hinweise zur E-Book Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Die Universitätsbibliothek hat ein umfangreiches E-Book-Angebot an Fachpublikationen lizenziert. Für Soziologie sind u. a. E-Book-Pakete der Verlage [Nomos](https://www.inlibra.com/de/topic/86a566a2-061e-473b-ab41-469ff56ff547), [Palgrave](http://link.springer.com/search?facet-discipline=%22Social+Sciences%22&facet-content-type=%22Book%22) und [Springer](https://link.springer.com/search?facet-discipline=%22Social+Sciences%22&facet-content-type=%22Book%22) verfügbar. Weitere E-Books finden Sie über [WISO](https://www.wiso-net.de/dosearch/%3A3%3AEBOOKS?searchlater=t&selectedNavigationPath=%3A3%3AEBOOKS). Alle verfügbaren E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar. E-Books erkennen Sie an der Information „Online Zugriff frei“ oder am Reiter „Ansehen“. Weitere Hinweise finden Sie auf der Seite [Hinweise zur E-Book Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 ### Forschungsdaten
 
@@ -52,24 +50,13 @@ Für die Soziologie relevante Statistikdatenbanken und Forschungsdatenquellen si
 - [GESIS Datensuche](https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D): Forschungsdatensammlung des Leibniz Instituts für Sozialwissenschaften
 - [MADATA](https://madata.bib.uni-mannheim.de/): Forschungsdatenserver der Universität Mannheim
 
-Die Universitätsbibliothek unterstützt Wissenschaftlerinnen und Wissenschaftler beim Forschungsdatenmanagement, insbesondere beim strukturierten Sammeln und Publizieren von Forschungsdaten. Forschungsdaten können im institutionellen Forschungsdatenrepositorium [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de) gesichert und archiviert werden.
-
-Weitere nationale und internationale fachliche Forschungsdatenrepositorien:
-
-- [Archivierung BASIS](https://data.gesis.org/sharing/#!Home) des [GESIS – Leibniz-Institut für Sozialwissenschaften](http://www.gesis.org): Eigenständige Dokumentation, Sicherung und Veröffentlichung von Forschungsdaten.
-- [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/sites/icpsr/home): Eines der weltweit größten Datenarchive für Sozialwissenschaften. Für die Datennutzung auf dem Campus der Universität Mannheim ist eine persönliche Registrierung und Anerkennung der Nutzungsbedingungen erforderlich.
-- [Consortium of European Social Data Archives (CESSDA)](http://cessda.net/): Zusammenschluss europäischer sozialwissenschaftlicher Repositorien.
-- [Registry of Research Data Repositories](http://www.re3data.org): Verzeichnis von Forschungsdatenrepositorien aus allen Fachgebieten.
-- [DataCite](https://www.datacite.org/): Zugang zu wissenschaftlichen Forschungsdaten.
+Die Universitätsbibliothek unterstützt beim Forschungsdatenmanagement, d. h. beim strukturierten Sammeln und Publizieren von Forschungsdaten. Forschungsdaten können im institutionellen Forschungsdatenrepositorium [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de) gesichert und archiviert werden. Weitere nationale und internationale Repositorien sind z. B. [Archivierung BASIS](https://data.gesis.org/sharing/#!Home) des [GESIS – Leibniz-Institut für Sozialwissenschaften](http://www.gesis.org), das [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/sites/icpsr/home) und das [Consortium of European Social Data Archives (CESSDA)](http://cessda.net/). Einen Überblick über Forschungsdatenrepositorien bietet das [Registry of Research Data Repositories](http://www.re3data.org). Zugang zu wissenschaftlichen Forschungsdaten erhalten Sie über [DataCite](https://www.datacite.org/).
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/) finden Sie Literatur zum Fach Soziologie, die vor Ort genutzt werden kann. Die Medien sind nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für das wissenschaftliche Personal der Universität Mannheim möglich.
-- Printzeitschriften ab Erscheinungsjahr 1990: Signaturen 400/MN 1000 bis 400/MN 9999. Ältere Jahrgänge können aus dem geschlossenen Magazin zur Ansicht im Sonderlesesaal des InfoCenters über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) bestellt werden.
-- Bücher für Soziologie: Signaturen 400/MP... bis 400/MS... im Bereich A5.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Soziologie, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe zur Verfügung.
-- Die gesamte Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+Im [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/) finden Sie Literatur zum Fach Soziologie, die vor Ort genutzt werden kann. Die Medien sind nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für das wissenschaftliche Personal der Universität Mannheim möglich. Printzeitschriften ab Erscheinungsjahr 1990 finden Sie unter den Signaturen 400/MN 1000 bis 400/MN 9999. Ältere Jahrgänge können aus dem geschlossenen Magazin zur Ansicht im Sonderlesesaal des InfoCenters über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) bestellt werden. Bücher für das Fach Soziologie sind unter den Signaturen 400/MP... bis 400/MS... aufgestellt.
+
+Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Soziologie, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann. In der Lehrbuchsammlung im Ausleihzentrum stehen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe zur Verfügung. Die gesamte Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
 
 ### Forschungseinrichtungen vor Ort
 
@@ -85,13 +72,11 @@ Im Fach Soziologie werden wissenschaftliche Zeitschriften häufig anhand des Imp
 - [OOIR-Ranking](https://ooir.org/journals.php?category=sociology)
 - [Google Scholar Ranking](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=soc_sociology)
 
-Impact Factoren und Kontextinformationen finden Sie auch in der Datenbank [Web of Science/Social Sciences Citation Index](https://dbis.uni-regensburg.de/UBMAN/resources/360) oder direkt in [Journal Citation Reports](https://dbis.uni-regensburg.de/UBMAN/resources/359).
-
-Für weiterführende Informationen zur Recherche oder zum wissenschaftlichen Arbeiten stehen Kurse und individuelle Beratungen zur Verfügung.
+Impact Factoren und Kontextinformationen finden Sie auch in [Web of Science/Social Sciences Citation Index](https://dbis.uni-regensburg.de/UBMAN/resources/360) oder in den [Journal Citation Reports](https://dbis.uni-regensburg.de/UBMAN/resources/359).
 
 ## Kurse und Tutorials
 
-Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Soziologie an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist ebenfalls möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Soziologie an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -137,10 +122,13 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
 
-**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
-**Telefon:** +49 621 181-3388
-**E-Mail:** [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
-**ORCID:** [0000-0001-7916-2659](https://orcid.org/0000-0001-7916-2659)
+**Kontakt:**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
+- Telefon: +49 621 181-3388
+- E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
+- ORCID: [0000-0001-7916-2659](https://orcid.org/0000-0001-7916-2659)
 
 **Vertretung:**
 [Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
+[KI-Chatbot](https://chat.bib.uni-mannheim.de/)

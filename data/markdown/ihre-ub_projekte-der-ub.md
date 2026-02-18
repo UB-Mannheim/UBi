@@ -211,3 +211,4 @@ DFG-Projekt | Laufzeit 2007–2009
 
 DFG-Projekt | Laufzeit 2006–2007
 Zentrale Ziele des Projekts waren eine stärkere Ausrichtung der Organisation auf die Bedürfnisse der Kundinnen und Kunden und die Entwicklung eines Steuerungsinstruments zur Optimierung der Kundenzufriedenheit. Mit dem im Rahmen des Projekts installierten [Weblog](https://blog.bib.uni-mannheim.de/Aktuelles/) bieten wir ein interaktives Portal als niedrigschwelligen Anlaufpunkt für Anfragen, Beschwerden oder Wünsche. Wir werten die Kundenkommentare im Hinblick auf die Anpassung von Services aus und können somit sehr schnell auf Kritik oder Wünsche eingehen und gegebenenfalls steuernd nachbessern.
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

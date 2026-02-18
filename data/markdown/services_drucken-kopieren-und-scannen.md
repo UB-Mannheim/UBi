@@ -51,3 +51,4 @@ Studierende der Universität Mannheim können den [Scanservice](https://www.bib.
 ## An den Kopierern
 
 Für die Anmeldung am Kopierer benötigen Sie Ihre ecUM oder UB-Chipkarte und ein Guthaben auf Ihrem virtuellen Druckkonto. Halten Sie Ihre ecUM oder UB-Chipkarte an die Schaltfäche am Gerät. Bei der ersten Nutzung werden Sie nach Ihrer Uni-ID und Ihrem Passwort gefragt.
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

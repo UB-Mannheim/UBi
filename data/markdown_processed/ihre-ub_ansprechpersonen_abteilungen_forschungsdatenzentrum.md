@@ -1,15 +1,15 @@
 ---
-title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche an der Universitätsbibliothek Mannheim
+title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenmanagement', 'Ansprechpartner', 'Open Science', 'Data Science', 'Digital Humanities', 'Rechtsberatung', 'Data Literacy', 'Projekte']
+tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Ansprechpartner', 'Open Science', 'Data Literacy', 'Digital Humanities', 'Rechtsberatung', 'Universitätsbibliothek']
 language: de
 ---
 
 # Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim. Das Team bietet Beratung, Schulungen und Unterstützung in verschiedenen Bereichen des Forschungsdatenmanagements, Open Science, Data Science, Digitalisierung und rechtlichen Fragestellungen.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und rechtliche Unterstützung im Bereich Forschungsdatenmanagement (FDM), Data Science, Open Science und Digitalisierung.
 
 ## Ansprechpartner und Aufgabenbereiche
 
@@ -56,8 +56,8 @@ Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt 
 
 - Unterstützung von Forschenden
 - Rechtliche Fragestellungen im FDM-Bereich
-- Themengebiete: Datenschutz, Urheberrecht und Lizenzrecht
-- BERD Datenschutzkonzept und Plattform Richtlinien
+- Themengebiete: Datenschutz, Urheberrecht, Lizenzrecht
+- BERD Datenschutzkonzept und Plattform-Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
@@ -104,3 +104,8 @@ Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt 
 - Telefon: +49 621 181-2754
 - E-Mail: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
 - ORCID: [0009-0004-6220-8939](https://orcid.org/0009-0004-6220-8939)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+
+## Kontakt und weitere Informationen
+
+Für alle Anliegen rund um Forschungsdatenmanagement, rechtliche Fragen, Data Science, Open Science und Digitalisierung steht das Team des Forschungsdatenzentrums der Universitätsbibliothek Mannheim zur Verfügung. Weitere Informationen finden Sie auf der [Webseite des Forschungsdatenzentrums](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/).

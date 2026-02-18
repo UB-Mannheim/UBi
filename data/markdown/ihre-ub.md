@@ -61,3 +61,4 @@ Publikationen von Mitarbeiterinnen und Mitarbeitern der UB Mannheim
 Rechtliche Grundlagen
 Die Benutzungsordnung der UB, die Bibliotheksgebührenordnung und weitere rechtliche Grundlagen
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

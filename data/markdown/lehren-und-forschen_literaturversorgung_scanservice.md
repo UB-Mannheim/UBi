@@ -17,3 +17,4 @@ Elektronisch verfügbare Publikationen sind vom Scanservice ausgenommen.
 Einen Scanauftrag können Sie aufgeben, wenn Sie an Ihrem Bibliothekskonto angemeldet sind.
 Suchen Sie das Buch oder die Zeitschrift im Katalog Primo. Bei Büchern finden Sie in der Einzelansicht im Abschnitt „Standorte/Bestellen“ den Link „Scanauftrag“. Bei Zeitschriften wählen Sie unter „Standorte/Bestellen“ erst den Standort und den Jahrgang aus und klicken dann auf „Scanauftrag“.
 [Zum Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

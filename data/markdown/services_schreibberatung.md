@@ -47,3 +47,4 @@ Online-Tutorials führen Sie umfassend und interaktiv in das wissenschaftliche S
 - Krings, Hans P./Holz, Peter/Siekmeyer, Anne (2011): [Der Bremer Schreibcoach](https://blogs.uni-bremen.de/schreibportalfb910/schreibprozess/der-bremer-schreibcoach/)
 - ULB-Lotse: [Arbeiten schreiben](https://www.ulb.uni-muenster.de/lotse/wiss_arbeiten/index.html). ULB Münster
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

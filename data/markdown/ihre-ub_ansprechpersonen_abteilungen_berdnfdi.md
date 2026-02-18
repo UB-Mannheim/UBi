@@ -93,3 +93,4 @@ Aufgaben:
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
 - E-Mail: vanessa.kolb@uni-mannheim.de
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

@@ -131,3 +131,4 @@ Dr. Philipp Zumstein
 - Lauscher, Anne und Glavaš, Goran und Eckert, Kai (2017) [University of Mannheim @ CLSciSumm-17: Citation-Based Summarization of Scientific Articles Using Semantic Textual Similarity.](https://ub-madoc.bib.uni-mannheim.de/42867) In: 2nd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries 2017 [Conference publication]
 - Retter, Regina und Wilke, Christian (2017) [Zitationsdaten extrahieren: halbautomatisch, offen, vernetzt](https://doi.org/10.11588/ip.2017.2.43235). In: Informationspraxis, Bd. 3, Nr. 2 [Workshop report]
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

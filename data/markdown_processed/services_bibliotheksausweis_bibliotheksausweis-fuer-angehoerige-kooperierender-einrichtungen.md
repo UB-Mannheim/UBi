@@ -15,7 +15,7 @@ Angehörige von Einrichtungen, die mit der Universität Mannheim einen Kooperati
 
 Folgende Einrichtungen haben einen Kooperationsvertrag mit der Universität Mannheim:
 
-- Absolventum Mannheim (Bitte im [Antragsformular](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) unter „Einrichtung“ „Privatperson“ auswählen.)
+- Absolventum Mannheim (im [Antragsformular](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) unter „Einrichtung“ bitte „Privatperson“ auswählen)
 - Alanus Hochschule
 - [Duale Hochschule Baden-Württemberg Mannheim](https://www.mannheim.dhbw.de/service/bibliothek/lernen-arbeiten)
 - Evaluationsagentur Baden-Württemberg (evalag), Mannheim
@@ -35,18 +35,18 @@ Folgende Einrichtungen haben einen Kooperationsvertrag mit der Universität Mann
 Mit der ecUM und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 
 - Medien im Ausleihzentrum Westflügel ausleihen
-- Drucken, kopieren, scannen
+- drucken, kopieren, scannen
 - Medien über die Fernleihe bestellen
-- Lizenzierte elektronische Medien an den PCs der UB nutzen (kein Fernzugriff möglich)
+- lizenzierte elektronische Medien an den PCs der UB nutzen (kein Fernzugriff möglich)
 - Internet über [eduroam](https://www.uni-mannheim.de/it/services/internet-und-server/internetzugang/) oder an den PCs der UB nutzen (für Absolventum-Mitglieder kein Internet-Zugang)
 - Schließfächer benutzen
 
-Die Lernräume der UB können ohne Bibliotheksausweis genutzt werden.
+Die Lernräume der Universitätsbibliothek können ohne Bibliotheksausweis genutzt werden.
 
 ## Anmeldung
 
 1. Das [Anmeldeformular](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) ausfüllen, speichern, ausdrucken und unterschreiben. Sie erhalten die ausgefüllte Anmeldung zusätzlich als PDF an Ihre E-Mail-Adresse.
-1. Den Ausdruck zusammen mit Ihrem Personalausweis (oder Reisepass mit Meldebescheinigung) einscannen und per E-Mail an [itsupport@uni-mannheim.de](mailto:itsupport@uni-mannheim.de) senden.
+1. Den Ausdruck zusammen mit Ihrem Personalausweis (alternativ Reisepass mit Meldebescheinigung) einscannen und per E-Mail an [itsupport@uni-mannheim.de](mailto:itsupport@uni-mannheim.de) senden.
 1. Studierende fügen einen Scan des aktuellen Studierendenausweises bei.
 1. Mitarbeitende einer kooperierenden Einrichtung lassen die Zugehörigkeit durch einen Stempel der Einrichtung auf dem Anmeldeformular bestätigen.
 1. Sie erhalten eine E-Mail mit Ihren Zugangsdaten.
@@ -65,7 +65,7 @@ Bei Verlust oder Defekt der ecUM kann im InfoCenter bei der UNIT eine neue Karte
 ## Benachrichtigungen und Adressänderungen
 
 - Alle Benachrichtigungen (z. B. Vormerkungen, Mahnungen) werden an Ihre universitäre E-Mail-Adresse gesendet.
-- Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dazu Ihren Personalausweis (oder Reisepass mit Meldebescheinigung) mit.
+- Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dafür Ihren Personalausweis (alternativ Reisepass mit Meldebescheinigung) mit.
 
 ## Weitere Informationen
 
@@ -74,8 +74,10 @@ Bei Verlust oder Defekt der ecUM kann im InfoCenter bei der UNIT eine neue Karte
 
 ## Kontakt
 
-**InfoCenter der Universitätsbibliothek Mannheim**
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
-Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
-Telefon: +49 621 181-2948
-E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
+### InfoCenter
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
+- Telefon: +49 621 181-2948
+- E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

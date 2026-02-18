@@ -82,3 +82,4 @@ Kommunikation | Online-Redaktion
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 275, 68161 Mannheim
 - Telefon: +49 621 181-2935
 - E-Mail: kommunikation.ub@uni-mannheim.de
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

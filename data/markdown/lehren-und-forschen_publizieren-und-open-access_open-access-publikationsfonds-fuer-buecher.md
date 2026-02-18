@@ -67,3 +67,4 @@ Aufgaben:
 - Telefon: +49 621 181-3006
 - E-Mail: philipp.zumstein@uni-mannheim.de
 - ORCID-ID: 0000-0002-6485-9434 (https://orcid.org/0000-0002-6485-9434)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

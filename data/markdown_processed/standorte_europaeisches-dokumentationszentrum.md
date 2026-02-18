@@ -1,9 +1,9 @@
 ---
-title: Europäisches Dokumentationszentrum (EDZ) an der Universitätsbibliothek Mannheim – Informationen, Sammlung, Datenbanken und Kontakt
+title: Europäisches Dokumentationszentrum (EDZ) an der Universitätsbibliothek Mannheim – Informationen, Sammlung und Kontakt
 source_url_de: https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/european-documentation-centre/
 category: Standorte
-tags: ['Europäische Union', 'EDZ', 'Datenbanken', 'Politikwissenschaft', 'Fachberatung', 'Sammlungen', 'EU-Dokumente', 'Informationsquellen']
+tags: ['Europäische Union', 'EDZ', 'Informationsdienst', 'Datenbanken', 'Politikwissenschaft', 'Fachberatung', 'Sammlung', 'Publikationsservices']
 language: de
 ---
 
@@ -37,7 +37,7 @@ Im [EDZ-Tutorial: EU-Informationsquellen und Datenbanken](http://lernbar.uni-fra
 
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
 
-**Aufgabenbereiche:**
+**Aufgaben:**
 
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
@@ -47,8 +47,7 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
 
-**Kontakt:**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
-- Telefon: +49 621 181-2990
-- E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
+**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
+**Telefon:** +49 621 181-2990
+**E-Mail:** [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
+[KI-Chatbot](https://chat.bib.uni-mannheim.de/)

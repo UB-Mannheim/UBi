@@ -57,3 +57,4 @@ Bei Fragen oder Problemen hilft Ihnen das Team E-Medien gerne weiter. Schreiben 
 - Versuchen Sie es über einen anderen Browser oder öffnen Sie in Ihrem Browser ein privates Fenster.
 - Prüfen Sie Ihre Datenschutzeinstellungen. Tracking-Schutz („Bounce Tracking Protection“) kann verhindern, dass Sie als Angehörige*r der Universität Mannheim erkannt werden.
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

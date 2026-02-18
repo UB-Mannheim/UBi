@@ -9,7 +9,7 @@ language: de
 
 # Bibliotheksbereich A3
 
-Der Bibliotheksbereich A3 ist die Fachbibliothek für Sprach- und Literaturwissenschaften, Medien- und Kommunikationswissenschaften, Pädagogik, Philosophie, Psychologie und Theologie. Zusätzlich umfasst er eine Mediathek, eine Testothek sowie ein Testlabor für Psychologie.
+Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim ist die Fachbibliothek für Sprach- und Literaturwissenschaften, Medien- und Kommunikationswissenschaften, Pädagogik, Philosophie, Psychologie und Theologie. Zusätzlich beherbergt er eine Mediathek, eine Testothek sowie ein Testlabor für Psychologie.
 
 Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
 
@@ -30,7 +30,7 @@ Weitere Informationen:
 
 ## Fachliche Recherche und Services
 
-Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten individuell zu allen Themenbereichen des Bibliotheksbereichs A3.
+Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten individuell zu allen Themen der im Bibliotheksbereich A3 vertretenen Fachgebiete.
 
 Weitere Services:
 
@@ -53,22 +53,25 @@ E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim ist zentraler Anlaufpunkt für Nutzerinnen und Nutzer dieses Standorts. Für alle Anliegen rund um den Bibliotheksbereich A3 stehen folgende Ansprechpersonen zur Verfügung:
+Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim ist zentraler Anlaufpunkt für Nutzerinnen und Nutzer. Hier finden Sie die wichtigsten Ansprechpartnerinnen für alle Anliegen rund um diesen Bereich.
 
-#### Teamleitung
+#### Ansprechpartnerinnen
 
 ##### Barbara Dreisiebner
 
-- Teamleiterin Bibliotheksbereich A3
+Teamleiterin Bibliotheksbereich A3
+Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
+Telefon: +49 621 181-2989
+E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 
 ##### Isabelle Otto
 
-- Stellvertretende Teamleiterin Bibliotheksbereich A3
+Stellvertretende Teamleiterin Bibliotheksbereich A3
+Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
+Telefon: +49 621 181-3058
+E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
+[KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
-**Kontakt für beide Ansprechpersonen:**
+#### Kontakt
 
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
-- Telefon: +49 621 181-2989 (Barbara Dreisiebner), +49 621 181-3058 (Isabelle Otto)
-- E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
-
-Weitere Informationen zum Bibliotheksbereich A3 finden Sie auf der [Webseite des Bibliotheksbereichs A3](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/).
+Für allgemeine Anfragen zum Bibliotheksbereich A3 wenden Sie sich bitte an die oben genannten Ansprechpartnerinnen. Alle Anfragen werden zentral über die E-Mail-Adresse [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de) bearbeitet.

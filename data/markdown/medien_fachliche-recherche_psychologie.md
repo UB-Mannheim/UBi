@@ -185,3 +185,4 @@ Aufgaben:
 ## Vertretung
 
 [Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

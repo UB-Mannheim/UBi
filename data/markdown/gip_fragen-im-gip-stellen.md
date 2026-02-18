@@ -114,5 +114,5 @@ Wir besprechen mit Ihnen, wie und wann die Fragen Ihres geplanten Projektes in d
 ### German Internet Panel
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
-- Web: [Bluesky-Profil GIP](https://bsky.app/profile/gip-uni-mannheim.bsky.social)
+- Web: [Bluesky-Profil GIP](https://bsky.app/profile/gip.uni-mannheim.de)
 - E-Mail: gip@uni-mannheim.de

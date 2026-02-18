@@ -13,3 +13,4 @@ Zu Ihrer Information stellt die Universitätsbibliothek auf dieser Seite einige 
 - [Gemeinsame Entleih- und Gebührenordnung der Universitäts-IT und der Universitätsbibliothek Mannheim für Mobile Endgeräte](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Entleih-undGebuehrenordnungMobileEndgeraete.pdf) (PDF, 346 KB)
 - [Leihverkehrsordnung](https://wiki.bsz-bw.de/display/FERNLEIHE/Leihverkehrsordnung)
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

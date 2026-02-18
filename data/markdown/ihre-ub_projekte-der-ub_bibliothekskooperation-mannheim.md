@@ -44,3 +44,4 @@ Leiterin der Abteilung Benutzungsdienste | Stellvertretende Leiterin Aus- und Fo
 Bibliothek der Hochschule MannheimTel: +49 621 292 6141E-Mail:  m.klein@hs-mannheim.de
 **Frank Krosta**
 Bibliothek der DHBW MannheimTel: +49 621 4105 1147E-Mail:  frank.krosta@dhbw-mannheim.de
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

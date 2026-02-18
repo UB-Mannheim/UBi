@@ -93,3 +93,4 @@ Sehen Sie ein Tutorial zur [Citation Style Language CSL](https://youtu.be/jxxSyv
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss, Schneckenhof West, 68161 Mannheim
 - Web: [www.bib.uni-mannheim.de/literaturverwaltungsprogramme](/services/literaturverwaltungsprogramme/)
 - E-Mail: litverw.ub@uni-mannheim.de
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

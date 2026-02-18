@@ -190,3 +190,4 @@ Aufgaben:
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de
 Vertretung[Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

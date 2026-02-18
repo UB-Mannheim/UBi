@@ -22,3 +22,4 @@ Universität Mannheim Baden-Württembergische BankIBAN: DE13 6005 0101 7496 5010
 
 **Bitte beachten Sie:**
 Verbindliche Grundlage für die Erhebung von Bibliotheksgebühren ist die [Bibliotheksgebührenordnung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Bibliotheksgebuehrenordnung_ab_2024.pdf) (PDF, 880 KB).
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

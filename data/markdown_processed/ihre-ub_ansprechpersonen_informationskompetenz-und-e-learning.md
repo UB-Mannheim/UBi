@@ -13,8 +13,8 @@ language: de
 
 **Rolle:**
 
+- Betreuung des Bereichs Informationskompetenz und E-Learning
 - Fachreferent für Romanistik und Sprachlernmaterialien
-- Betreuung Informationskompetenz und E-Learning
 - Education & Training für BERD@NFDI
 
 **Aufgaben:**
@@ -23,7 +23,6 @@ language: de
 - Auswahl und Erschließung von Sprachlernmaterialien
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
-- Betreuung des Bereichs Informationskompetenz und E-Learning
 - Education & Training im Projekt BERD@NFDI
 
 **Kontakt:**
@@ -56,3 +55,4 @@ ______________________________________________________________________
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
 - E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

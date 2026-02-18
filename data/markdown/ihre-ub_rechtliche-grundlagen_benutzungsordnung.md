@@ -211,3 +211,4 @@ Genehmigt und ausgefertigt:
 Mannheim, 06. Nov. 2009
 gez. Prof. Dr. Hans-Wolfgang Arndt
 Rektor
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

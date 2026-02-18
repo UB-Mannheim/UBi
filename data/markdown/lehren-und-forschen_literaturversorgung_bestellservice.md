@@ -62,3 +62,4 @@ Die Rechnung wird mit dem Leitkriterium der UB angefordert und im XRechnungsform
 Falls die Rechnung abweichend davon in FIORI bei Ihrer Einrichtung eingeht, ändern Sie die Aufwandsart bei der Feststellung in „Literatur, Daten, Open Access (UB)“. Die UB bestätigt anschließend in FIORI, dass sie beteiligt wurde.
 Weitere Informationen finden Sie in der [Beschaffungsrichtlinie der Universität](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/vergabe-und-beschaffung/bezug-bestimmter-waren-und-leistungen/literatur-medien-fakten-datenbanken-und-datensaetzen/).
 Bei Fragen unterstützen wir Sie gerne: erwerbungsleitung.ub@uni-mannheim.de.
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

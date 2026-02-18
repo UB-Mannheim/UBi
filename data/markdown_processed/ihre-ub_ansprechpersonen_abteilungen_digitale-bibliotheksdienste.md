@@ -7,42 +7,37 @@ tags: ['Digitale Bibliotheksdienste', 'Ansprechpartner', 'Digitalisierung', 'Sof
 language: de
 ---
 
-# Digitale Bibliotheksdienste – Ansprechpartner
+# Digitale Bibliotheksdienste
 
-Die Abteilung Digitale Bibliotheksdienste der Universitätsbibliothek Mannheim ist für Projekte, Digitalisierung, Softwareentwicklung, Serveradministration und fachliche Beratung zuständig. Nachfolgend finden Sie die zentralen Ansprechpartner und deren Aufgabenbereiche.
+Die Abteilung Digitale Bibliotheksdienste der Universitätsbibliothek Mannheim ist für Projekte, Digitalisierung, Softwareentwicklung, Serveradministration sowie fachliche Beratung und Schulungen zuständig. Nachfolgend finden Sie die Ansprechpartner und deren Aufgabenbereiche.
 
-## Stefan Weil
+## Ansprechpartner und Aufgaben
+
+### Stefan Weil
 
 **Leiter der Abteilung Digitale Bibliotheksdienste**
 **Stellvertretender Fachreferent für Mathematik und Informatik**
+
+**Aufgaben:**
 
 - Projekte
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 282, 68161 Mannheim
+**Kontakt:**
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SN 282, 68161 Mannheim
 Telefon: +49 621 181-2946
 E-Mail: [stefan.weil@uni-mannheim.de](mailto:stefan.weil@uni-mannheim.de)
 ORCID: [0000-0002-0524-9898](https://orcid.org/0000-0002-0524-9898)
 
-## Jörg Mechnich
-
-**Stellvertretender Leiter der Abteilung Digitale Bibliotheksdienste**
-
-- Projekte
-- Softwareentwicklung
-- Serveradministration
-- Kurse
-
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 279, 68161 Mannheim
-Telefon: +49 621 181-2965
-E-Mail: [joerg.mechnich@uni-mannheim.de](mailto:joerg.mechnich@uni-mannheim.de)
-ORCID: [0000-0002-6406-4906](https://orcid.org/0000-0002-6406-4906)
-
-## Tünde Gottschling
+### Tünde Gottschling
 
 **Sachgebietsleiterin Digitalisierung/Historische Sammlungen**
 
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
+**Kontakt:**
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 Telefon: +49 621 181-2977
 E-Mail: [tuende.gottschling@uni-mannheim.de](mailto:tuende.gottschling@uni-mannheim.de)
+[KI-Chatbot](https://chat.bib.uni-mannheim.de/)

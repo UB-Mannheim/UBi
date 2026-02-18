@@ -9,13 +9,13 @@ language: de
 
 # Anglistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Anglistik umfassende Literatur, Datenbanken und Rechercheeinstiege. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, die das wissenschaftliche Arbeiten und die Recherche im Fachgebiet unterstützen.
+Die Universitätsbibliothek Mannheim bietet für das Fach Anglistik umfassende Literatur, Datenbanken und Rechercheeinstiege. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, die beim wissenschaftlichen Arbeiten und der Recherche unterstützen.
 
 ## Recherchieren
 
 ### Datenbanken
 
-- [Datenbanken zur Anglistik](https://dbis.ur.de/UBMAN/browse/subjects/5/?availability-filter-free=on&availability-filter-local=on) und weitere Fachgebiete im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/)
+- [Datenbanken zur Anglistik](https://dbis.ur.de/UBMAN/browse/subjects/5/?availability-filter-free=on&availability-filter-local=on) sowie weitere Fachgebiete über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/)
 - [Fachinformationsdienst Allgemeine und Vergleichende Literaturwissenschaft (FID AVL)](https://www.avldigital.de/de/recherchieren/)
 - [Fachinformationsdienst Linguistik](https://www.linguistik.de/de/)
 - Ergänzende Datenbanken zu [Allgemeines](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=2), [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=3), [Medien- und Kommunikationswissenschaften](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=22), [Pädagogik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=26)
@@ -120,13 +120,13 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Anglistik umfassende L
 ### Literaturstandorte
 
 - Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zur Anglistik, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
-- Weitere Literatur zur Anglistik im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/), ausleihbar mit ecUM oder UB-Chipkarte.
+- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Anglistik, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
 - In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
-- Recherche aller Bestände im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+- Die gesamte Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
 
 ### Forschungseinrichtungen vor Ort
 
-- [Anglistisches Seminar](https://www.phil.uni-mannheim.de/anglistik/) der [Universität Mannheim](https://www.phil.uni-mannheim.de/anglistik/)
+- [Anglistisches Seminar](https://www.phil.uni-mannheim.de/anglistik/) der Universität Mannheim
 - [Bibliothek des DAI Heidelberg](https://dai-heidelberg.de/de/unsere-angebote/bibliothek/) – [eBook-Catalogue](https://ebooksusa.overdrive.com/)
 - [HULC Lab](https://hulclab.eu/) (Heidelberg)
 - [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/bibliothek/) mit Spezialbibliothek zur Linguistik
@@ -134,7 +134,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Anglistik umfassende L
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche in der Anglistik an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche in der Anglistik an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -158,11 +158,11 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 ### Dr. Rudolf Nink, M.A.
 
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
-Vertretung für Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
 
 **Aufgaben:**
 
-- Literaturauswahl und -erschließung für die genannten Fächer
+- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+- Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 
@@ -171,5 +171,5 @@ Vertretung für Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psy
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
-
-**Vertretung:** [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
+- Vertretung: [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

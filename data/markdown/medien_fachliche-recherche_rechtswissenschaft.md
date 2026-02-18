@@ -106,3 +106,4 @@ Aufgaben:
 - Telefon: +49 621 181-3024
 - E-Mail: marion.francken-welz@uni-mannheim.de
 Vertretung[Jessica Kaiser](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/jessica-kaiser/)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

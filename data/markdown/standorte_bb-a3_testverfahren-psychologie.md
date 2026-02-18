@@ -91,3 +91,4 @@ Diese [Anleitung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universita
 - Telefon: +49 621 181-3111
 - E-Mail: a3.ub@uni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

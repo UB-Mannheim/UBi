@@ -9,7 +9,7 @@ language: de
 
 # InfoCenter der Universitätsbibliothek Mannheim
 
-Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Auskunft und Beratung zu allen Bibliotheksservices. Es wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und der Universitätsbibliothek betrieben.
+Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Auskunft, Beratung und zahlreiche Bibliotheksservices. Es wird in Kooperation mit der [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) betrieben.
 
 Hier erhalten Sie:
 
@@ -30,8 +30,8 @@ Angehörige der Universität Mannheim können an der Infotheke im InfoCenter Not
 Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze
 
 | Wochentag | Uhrzeit |
-|--------------------------|------------|
-| Mo‒Fr (außer an Feiertagen) | 9–16 Uhr |
+|---------------------------|------------|
+| Mo–Fr (außer an Feiertagen) | 9–16 Uhr |
 
 Weitere Hinweise: [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
@@ -43,4 +43,4 @@ Schloss Schneckenhof, 68161 Mannheim
 Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
 Telefon: +49 621 181-2948
 E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
-Weitere Ansprechpersonen: [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)
+[Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)

@@ -2,22 +2,24 @@
 title: Bibliotheksgebühren der Universitätsbibliothek Mannheim – Übersicht und Zahlungsmodalitäten
 source_url_de: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/borrow-request-renew/library-fees/
-category: Services
-tags: ['Bibliotheksgebühren', 'Zahlungsmodalitäten', 'Mahngebühren', 'Fernleihe', 'Bibliotheksausweis', 'ecUM', 'Chipkarte', 'Gebührenordnung']
+category: Benutzung
+tags: ['Gebühren', 'Ausleihe', 'Mahngebühren', 'Fernleihe', 'Bibliotheksausweis', 'Zahlungsmodalitäten', 'ecUM', 'Chipkarte']
 language: de
 ---
 
-# Bibliotheksgebühren der Universitätsbibliothek Mannheim
+# Bibliotheksgebühren
 
-Bibliotheksgebühren können Sie mit Ihrer ecUM oder UB-Chipkarte an der Infotheke im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) oder per Überweisung bezahlen.
+Bibliotheksgebühren können mit Ihrer ecUM oder UB-Chipkarte an der Infotheke im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) oder per Überweisung bezahlt werden.
 
 Bei Zahlung per Banküberweisung kann es bis zu 5 Werktage dauern, bis Ihr Bibliothekskonto entlastet ist. Sobald die Gebühren dem Bibliothekskonto gutgeschrieben wurden, erhalten Sie eine E-Mail. Bitte geben Sie bei der Überweisung die Nummer Ihrer ecUM oder UB-Chipkarte an und nutzen Sie folgende Bankverbindung:
 
-- **Empfänger:** Universität Mannheim
-- **Bank:** Baden-Württembergische Bank
-- **IBAN:** DE13 6005 0101 7496 5010 68
-- **BIC:** SOLADEST600
-- **Verwendungszweck:** z. B. „Mahngebühren UB“ und Ihre ecUM- oder Chipkartennummer
+**Bankverbindung:**
+
+- Empfänger: Universität Mannheim
+- Bank: Baden-Württembergische Bank
+- IBAN: DE13 6005 0101 7496 5010 68
+- BIC: SOLADEST600
+- Verwendungszweck: z. B. „Mahngebühren UB“ und Ihre ecUM- oder Chipkartennummer
 
 ## Die wichtigsten Gebühren im Überblick
 
@@ -34,3 +36,5 @@ Bei Zahlung per Banküberweisung kann es bis zu 5 Werktage dauern, bis Ihr Bibli
 
 **Bitte beachten Sie:**
 Verbindliche Grundlage für die Erhebung von Bibliotheksgebühren ist die [Bibliotheksgebührenordnung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Bibliotheksgebuehrenordnung_ab_2024.pdf) (PDF, 880 KB).
+
+Weitere Unterstützung bietet der [KI-Chatbot](https://chat.bib.uni-mannheim.de/).

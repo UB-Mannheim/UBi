@@ -46,3 +46,4 @@ Sie schreiben Ihre Bachelorarbeit oder Dissertation und wissen nicht mehr weiter
 - Telefon: +49 621 181-2948
 - E-Mail: info.ub@uni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

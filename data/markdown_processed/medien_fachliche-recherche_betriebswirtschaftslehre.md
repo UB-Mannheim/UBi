@@ -3,15 +3,15 @@ title: Fachliche Recherche und Services der UB Mannheim für Betriebswirtschafts
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/business-administration/
 category: Medien
-tags: ['Betriebswirtschaftslehre', 'Datenbanken', 'E-Books', 'Fachberatung', 'Literaturrecherche', 'Forschungsdaten', 'Kurse', 'Wissenschaftliches Arbeiten']
+tags: ['Betriebswirtschaftslehre', 'Datenbanken', 'E-Books', 'E-Journals', 'Forschungsdaten', 'Literaturrecherche', 'Kurse', 'Kontakt']
 language: de
 ---
 
-# Betriebswirtschaftslehre an der Universitätsbibliothek Mannheim
+# Betriebswirtschaftslehre – Fachliche Recherche und Services
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Betriebswirtschaftslehre ein umfassendes Angebot an Literatur, Datenbanken und weiteren Recherchetools. Neben individueller Beratung stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
+Die Universitätsbibliothek Mannheim bietet für das Fach Betriebswirtschaftslehre umfassende Unterstützung bei der Literatur- und Informationsrecherche, Zugang zu Datenbanken, E-Books, E-Journals, Forschungsdaten sowie Beratungs- und Schulungsangebote.
 
-## Recherchieren
+## Literatur und Recherche
 
 ### Datenbanken
 
@@ -29,7 +29,8 @@ Wissenschaftliche Literatur, insbesondere Zeitschriftenartikel:
 - [Nexis Uni](https://dbis.ur.de/UBMAN/resources/1670)
 
 **Statistische Datenbanken**
-Überblick und Zugang zu [Corporate and financial databases](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/corporate-and-financial-databases/). Publikationen von statistischen Ämtern und internationalen Organisationen:
+Überblick und Zugang zu [Corporate and financial databases](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/corporate-and-financial-databases/).
+Publikationen von statistischen Ämtern und internationalen Organisationen:
 
 - [Destatis](https://dbis.ur.de/UBMAN/resources/9514)
 - [Eurostat](https://dbis.ur.de/UBMAN/resources/3364)
@@ -43,12 +44,12 @@ Weitere [Datenbanken zur Betriebswirtschaftslehre](https://dbis.ur.de/UBMAN/brow
 
 ### E-Journals
 
-E-Journals für das Fach Betriebswirtschaftslehre sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=Q) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) verfügbar.
+E-Journals für das Fach Betriebswirtschaftslehre finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=Q) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### E-Books
 
-Lizenzierte E-Books im Fach Wirtschaftswissenschaften finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
-Weitere Informationen zu Nutzungsbedingungen: [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Die lizenzierten E-Books im Fach Wirtschaftswissenschaften finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+Mehr Informationen zu den Nutzungsbedingungen: [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -64,24 +65,25 @@ Weitere Informationen zu Nutzungsbedingungen: [Hinweise zur E-Book-Nutzung](http
 ### Forschungsdaten
 
 Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehbarkeit.
-Einführungen und Tools:
+Einführungen und Hilfen:
 
 - [forschungsdaten.info](https://www.forschungsdaten.info/)
 - [Auffinden – Zitieren – Dokumentieren](http://auffinden-zitieren-dokumentieren.de/)
 - [re3data](http://www.re3data.org/) – Repositorien-Suche
 - [DataCite](http://search.datacite.org/) – internationale Datensatzsuche
-- [MADATA](https://madata.bib.uni-mannheim.de/) – Forschungsdatenrepositorium der Universität Mannheim
-- [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) – Plattform für Wirtschafts- und Sozialwissenschaften (GESIS)
+
+An der Universität Mannheim steht [MADATA](https://madata.bib.uni-mannheim.de/) für die Veröffentlichung von Forschungsdaten zur Verfügung.
+Für Wirtschafts- und Sozialwissenschaften: [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) von GESIS.
 
 ### Fachliche Internetquellen
 
 **Wirtschaftswissenschaftliche Fachportale**
 
 - [EconBiz](http://www.econbiz.de/) – Recherche- und Fachportal des [ZBW](http://www.zbw.eu/)
-- [SSRN](https://www.ssrn.com/index.cfm/en/) – Social Science Research Network
+- [SSRN](https://www.ssrn.com/index.cfm/en/): Social Science Research Network
 - [Fraunhofer-Institut für Arbeitswirtschaft und Organisation](https://www.iao.fraunhofer.de/)
-- [VHB](https://vhbonline.org/) – Verband der Hochschullehrer für Betriebswirtschaft
-- [Sachverständigenrat](https://www.sachverstaendigenrat-wirtschaft.de/) – zur Begutachtung der gesamtwirtschaftlichen Entwicklung
+- [VHB](https://vhbonline.org/): Verband der Hochschullehrer für Betriebswirtschaft
+- [Sachverständigenrat](https://www.sachverstaendigenrat-wirtschaft.de/) zur Begutachtung der gesamtwirtschaftlichen Entwicklung
 
 **Internetquellen zur fachlichen Recherche**
 
@@ -103,19 +105,19 @@ Einführungen und Tools:
 
 ### Journal Ranking
 
-- [JOURQUAL3](https://vhbonline.org/vhb4you/vhb-jourqual/vhb-jourqual-3) – Zeitschriften-Ranking des Verbands der Hochschullehrer für Betriebswirtschaft (VHB)
-- [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359) – internationale Rankings mit Impact Factors (Web of Science)
-- [Handelsblatt-BWL-Ranking](https://www.forschungsmonitoring.org/ranking/bwl/authors) – Ranking von Personen und Fachbereichen, u.a. basierend auf dem [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR)
+- [JOURQUAL3](https://vhbonline.org/vhb4you/vhb-jourqual/vhb-jourqual-3): Zeitschriften-Ranking des Verbands der Hochschullehrer für Betriebswirtschaft (VHB)
+- [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359): internationale Rankings mit Impact Factors (Web of Science)
+- [Handelsblatt-BWL-Ranking](https://www.forschungsmonitoring.org/ranking/bwl/authors): Ranking von Personen und Fachbereichen, u.a. basierend auf dem [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR)
 
 ## Kurse und Tutorials
 
-Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Betriebswirtschaftslehre an. Tutorials stehen jederzeit online zur Verfügung. Individuelle Beratung ist möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche im Fach Betriebswirtschaftslehre an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
-**Kurse für das Fach Betriebswirtschaftslehre:**
+**Fachspezifischer Online-Kurs:**
 [Business Studies and Economics: Literature Search](https://ilias.uni-mannheim.de/goto.php?target=crs_1409930_rcodeMckthgQ2kV&client_id=ILIAS) – englischsprachiger Ilias-Kurs mit Lernvideos und Materialien zur Einführung in die Literaturrecherche in BWL-Datenbanken.
 
 ## Wissenschaftliches Arbeiten
@@ -146,3 +148,4 @@ Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 Telefon: +49 621 181-3753
 E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
 Vertretung: [Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)
+[KI-Chatbot](https://chat.bib.uni-mannheim.de/)

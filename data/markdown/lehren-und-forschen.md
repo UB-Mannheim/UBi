@@ -83,3 +83,4 @@ Sie möchten Lehrmaterialien erstellen, fremde Publikationen oder Forschungsdate
 Research Skills
 Learn about tools and practical tips on topics such as efficient research data management, data analysis, FAIR data publication, Open Science and data protection.
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

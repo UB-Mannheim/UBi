@@ -15,3 +15,4 @@ Die Daten werden dabei zum einen im Volltext strukturiert und maschinenlesbar er
 - Schumm (29.5.2015): [Stand bei der VHB Jahrestagung]
 - Zumstein (11.3.2016): Die Bibliothek als Daten-Jongleur: Services für datenzentrierte Forschung. Vortrag beim [BibCast](https://bibcast.openbiblio.eu/die-bibliothek-als-daten-jongleur-services-fuer-datenzentrierte-forschung/).
 
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

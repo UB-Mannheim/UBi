@@ -36,3 +36,4 @@ Notebooks zur Teilnahme an digitalen Prüfungen (e-Prüfung) werden durch die UN
 | --- | --- |
 
 [Merkblatt Notebookausleihe (de/en)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Merkblatt_Notebookausleihe_de_en_2023.pdf) (PDF, 374 KB)[Entleih- und Gebührenordnung für mobile Endgeräte](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Entleih-undGebuehrenordnungMobileEndgeraete.pdf) (PDF, 347 KB)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

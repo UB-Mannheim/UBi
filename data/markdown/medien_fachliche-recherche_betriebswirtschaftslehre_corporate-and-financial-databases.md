@@ -159,3 +159,4 @@ Access: [Zephyr](https://zephyr.bvdinfo.com/ip) (via Bureau van Dijk interface)
 ## Further information
 
 Also check the Ilias group „Finance Databases“ (Chair of Corporate Finance, University of Mannheim) for further information and coordination of database access. This overview was originally composed by the Chair of Corporate Finance.
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

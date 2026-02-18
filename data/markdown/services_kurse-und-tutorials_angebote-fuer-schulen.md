@@ -63,3 +63,4 @@ Bitte melden Sie sich mindestens 14 Tage vorab über unser [Online-Formular](htt
 Sinnvoll ist es, wenn Sie die Schülerinnen und Schüler auf den Lernort Universitätsbibliothek vorbereiten. Zur Vor- und Nachbereitung empfehlen wir unsere [Online-Tutorials](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw) sowie das Tutorial [„Informationskompetenz“](http://www.wlb-stuttgart.de/tutorial-informationskompetenz/index.html).
 Wir freuen uns auf Ihren Besuch!
 E-Mail: schulungen.ub@uni-mannheim.de[Anmeldung für Schulen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/anmeldung-fuer-schulen/)[Tutorials der Universitätsbibliothek](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw)[Tutorial „Informationskompetenz“](http://www.wlb-stuttgart.de/tutorial-informationskompetenz/index.html)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
