@@ -10,7 +10,7 @@ def get_occupancy_data():
     return response.json()
 
 
-def make_plotly_figure(areas, detected_language: str = "German"):
+def make_plotly_figure(areas, detected_language: str = "German", absolute_values: str = False):
     """
     Plot seat availability.
     """
@@ -41,16 +41,17 @@ def make_plotly_figure(areas, detected_language: str = "German"):
             colors.append("#002F5C")  # cooler green
 
         percent_text.append(f"{percent}%")
-        top_annotations.append(
-            dict(
-                x=name,
-                y=percent + 4,
-                text=f"{occupied} / {capacity}",
-                showarrow=False,
-                font=dict(size=14),
-                yanchor="bottom",
+        if absolute_values:
+            top_annotations.append(
+                dict(
+                    x=name,
+                    y=percent + 4,
+                    text=f"{occupied} / {capacity}",
+                    showarrow=False,
+                    font=dict(size=14),
+                    yanchor="bottom",
+                )
             )
-        )
 
     fig = go.Figure(
         data=[
