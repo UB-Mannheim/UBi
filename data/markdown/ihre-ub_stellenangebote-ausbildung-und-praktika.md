@@ -11,14 +11,7 @@
 
 ## Aktuelle Stellenangebote
 
-
-
-## Bibliotheksmitarbeiter*in (m/w/d)
-
-An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als Bibliotheksmitarbeiter*in (m/w/d) (TV-L BW E6) zu besetzen.
-Bewerbungsschluss ist der 18. Februar 2026.
-Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_422_E6_AuFl_BB_bef.pdf) (PDF, 429 KB).
-Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet-mannheim/stellenanzeigen/datenschutz-bei-bewerbungen/).
+Vielen Dank für Ihr Interesse. Zur Zeit haben wir keine Stellen zu besetzen.
 
 
 ## Ausbildung

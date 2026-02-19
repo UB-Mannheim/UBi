@@ -60,7 +60,7 @@ Ersatzkarten für StudierendeSollten Sie eine Ersatzkarte benötigen, z. B. weil
 
 ### Wie kann ich die Gültigkeit meiner ecUM aufdrucken und verlängern?
 
-Die Gültigkeit Ihrer ecUM muss direkt auf der Karte aufgedruckt und jedes Semester verlängert werden. Der Gültigkeitsaufdruck erfolgt an einem dedizierten Gültigkeitsdrucker in der Universität. Die Standorte der dedizierten Drucker (nur Gültigkeitsaufdruck) sind:
+Die Gültigkeit Ihrer ecUM muss direkt auf der Karte aufgedruckt und nach Ablauf des Semesters verlängert werden. Der Gültigkeitsaufdruck erfolgt an einem dedizierten Gültigkeitsdrucker in der Universität. Die Standorte der dedizierten Drucker (nur Gültigkeitsaufdruck) sind:
 
 - A 5 in der Bibliothek
 - A 3 in der Bibliothek im 1.OG

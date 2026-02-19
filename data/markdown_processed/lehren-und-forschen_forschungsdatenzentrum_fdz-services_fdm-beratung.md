@@ -3,20 +3,20 @@ title: Beratung und Services zum Forschungsdatenmanagement (FDM) – Universitä
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/
 source_url_en: https://www.bib.uni-mannheim.de/en/lehren-und-forschen/fdz-home/fdz-services/fdm-beratung-1/
 category: Services
-tags: ['Forschungsdatenmanagement', 'FDM-Beratung', 'Forschungsdatenzentrum', 'Datenmanagementplan', 'Datenarchivierung', 'Datenlizenzierung', 'Open Science', 'Datenorganisation']
+tags: ['Forschungsdatenmanagement', 'FDM', 'Beratung', 'FDZ', 'Datenmanagementplan', 'Datenarchivierung', 'Open Science', 'Datenlizenzierung']
 language: de
 ---
 
 # Beratung zum Forschungsdatenmanagement
 
-Forschungsdatenmanagement (FDM) umfasst zahlreiche Aspekte und ist in allen Phasen des Forschungsprozesses – von der Planung über die Durchführung bis zum Abschluss eines Projekts – relevant. Das Team des Forschungsdatenzentrums (FDZ) unterstützt bei allen Fragen rund um das Thema FDM.
+Forschungsdatenmanagement (FDM) umfasst zahlreiche Aspekte und ist in allen Phasen des Forschungsprozesses – von der Planung über die Durchführung bis zum Abschluss eines Projekts – relevant. Das Team des Forschungsdatenzentrums (FDZ) unterstützt Sie bei allen Fragen rund um das Thema FDM.
 
-Jeden vierten Donnerstag im Monat von 14:00 bis 15:00 Uhr findet eine offene FDM-Sprechstunde statt. Eine vorherige Anmeldung ist nicht erforderlich.
-**Zoom-Zugang zur FDM-Sprechstunde:** [https://fdz.bib.uni-mannheim.de/sprechstunde](https://fdz.bib.uni-mannheim.de/sprechstunde)
+Jeden vierten Donnerstag im Monat von 14:00 bis 15:00 Uhr findet eine offene FDZ-Sprechstunde statt. Eine vorherige Anmeldung ist nicht erforderlich.
+**Zoom-Zugang zur FDZ-Sprechstunde:** [https://fdz.bib.uni-mannheim.de/sprechstunde](https://fdz.bib.uni-mannheim.de/sprechstunde)
 Meeting-ID: 634 4362 2069
 Kenncode: 884516
 
-## Themen und häufige Fragen
+## Häufige Fragen und Themen
 
 - Wo kann ich nach [fachspezifischen Daten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) suchen und wo finde ich das [Datenangebot des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/)?
 - Wie [lizenziere](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/) ich Daten?
