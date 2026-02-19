@@ -57,7 +57,7 @@ Ein Überblick über Projekte, die das FDZ rund um Forschungsdaten unterstützt.
 German Internet Panel (GIP)
 Eine Infrastruktur für Befragungen und langfristige Studie an der Universität Mannheim zur Untersuchung individueller Einstellungen und Präferenzen.
 
-Jeden vierten Donnerstag im Monat von 14:00 bis 15:00 Uhr findet eine offene FDM-Sprechstunde statt. Eine vorherige Anmeldung ist nicht erforderlich. Zoom-Zugang zur FDM-Sprechstunde: [https://fdz.bib.uni-mannheim.de/sprechstunde](https://fdz.bib.uni-mannheim.de/sprechstunde); Meeting-ID: 634 4362 2069; Kenncode: 884516
+Jeden vierten Donnerstag im Monat von 14:00 bis 15:00 Uhr findet eine offene FDZ-Sprechstunde statt. Eine vorherige Anmeldung ist nicht erforderlich. Zoom-Zugang zur FDZ-Sprechstunde: [https://fdz.bib.uni-mannheim.de/sprechstunde](https://fdz.bib.uni-mannheim.de/sprechstunde); Meeting-ID: 634 4362 2069; Kenncode: 884516
 
 
 ## Das FDZ-Team – Kontakt
