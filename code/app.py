@@ -198,6 +198,7 @@ async def handle_openai_vectorstore_query(
             instructions=get_instructions(detected_language),
             stream=True,
             temperature=0,
+            service_tier="priority",
         )
         async for event in stream:
             if event.type == "response.completed" and not _quiet_mode:
