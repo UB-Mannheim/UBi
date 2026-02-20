@@ -128,12 +128,12 @@ Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachref
 
 
 
-### Ellis Kolb
+### Ellis Kolb (keine/they/sie)
 
 Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
-- E-Mail: vanessa.kolb@uni-mannheim.de
+- E-Mail: ellis.kolb@uni-mannheim.de
 
 
 ### Pädagogik und Wirtschaftspädagogik

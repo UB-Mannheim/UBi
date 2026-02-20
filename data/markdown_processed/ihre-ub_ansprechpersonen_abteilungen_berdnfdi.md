@@ -1,35 +1,35 @@
 ---
-title: Kontakt und Team von BERD@NFDI an der Universitätsbibliothek Mannheim
+title: BERD@NFDI – Ansprechpartner und Aufgaben an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/berdnfdi/
 category: Kontakt
-tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Rechtsberatung', 'Informationskompetenz', 'Publikationsservices', 'Universitätsbibliothek', 'Team']
+tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Rechtsberatung', 'Informationskompetenz', 'Publikationsservices', 'Schulungen', 'Universitätsbibliothek']
 language: de
 ---
 
-# BERD@NFDI – Kontakt und Team
+# BERD@NFDI – Ansprechpartner und Aufgaben
 
-Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in den Bereichen Forschungsdatenmanagement, Data Science, rechtliche Fragestellungen, Informationskompetenz und Publikationsdienste. Nachfolgend finden Sie die zentralen Ansprechpersonen und deren Aufgabenbereiche.
+Die Universitätsbibliothek Mannheim ist im Rahmen des Projekts BERD@NFDI (Business, Economic and Related Data – Nationale Forschungsdateninfrastruktur) mit einem interdisziplinären Team aktiv. Die folgenden Personen sind zentrale Ansprechpartner für verschiedene Aufgabenbereiche rund um Forschungsdatenmanagement, Data Science, rechtliche Fragestellungen, Informationskompetenz und Publikationsdienste.
 
-## Team und Ansprechpartner
+## Ansprechpartner und Aufgabenbereiche
 
 ### Dr. Ulrich Krieger
 
 **Koordinator und Projektmanager für BERD@NFDI**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim
-- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 - Telefon: +49 621 181-2776
 - E-Mail: [ulrich.krieger@uni-mannheim.de](mailto:ulrich.krieger@uni-mannheim.de)
+- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 
 ### Dr. Regina Jutz
 
 **Projektmanagerin für BERD@NFDI**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim
-- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 - Telefon: +49 621 181-2717
 - E-Mail: [regina.jutz@uni-mannheim.de](mailto:regina.jutz@uni-mannheim.de)
+- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 
 ### Dr. Renat Shigapov
 
@@ -78,7 +78,7 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 - Telefon: +49 621 181-2777
 - E-Mail: [jan.kamlah@uni-mannheim.de](mailto:jan.kamlah@uni-mannheim.de)
 
-### Ellis Kolb
+### Ellis Kolb (keine/they/sie)
 
 **Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung**
 
@@ -89,9 +89,9 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
-- E-Mail: [vanessa.kolb@uni-mannheim.de](mailto:vanessa.kolb@uni-mannheim.de)
+- E-Mail: [ellis.kolb@uni-mannheim.de](mailto:ellis.kolb@uni-mannheim.de)
 - [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
-______________________________________________________________________
+## Weitere Informationen
 
-Für weitere Informationen besuchen Sie die [Webseite von BERD@NFDI](http://www.berd-nfdi.de).
+Weitere Details zum Projekt BERD@NFDI finden Sie auf der offiziellen Webseite: [www.berd-nfdi.de](http://www.berd-nfdi.de)
