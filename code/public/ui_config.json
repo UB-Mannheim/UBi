@@ -28,6 +28,9 @@
   "welcome_message": "Hallo, ich bin <i>UBi</i>,\n der KI-Chatbot der <a class='ubi-welcome-link ubi-welcome-link--external' target='_blank' href='https://www.bib.uni-mannheim.de/'>Universitätsbibliothek&nbsp;Mannheim.</a>\nDu kannst mir Fragen zu unseren Services stellen.\nPersonenbezogene Daten dürfen nicht eingegeben werden.\nEs gelten die <span style='white-space: nowrap;'><a class='ubi-welcome-link' href='/readme'>Nutzungsbedingungen</a></span>.\nFür Literaturrecherchen nutze bitte unseren <span style='white-space: nowrap;'><a class='ubi-welcome-link ubi-welcome-link--external' target='_blank' href='https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB'>Bibliothekskatalog</a>.</span>",
   "footer": {
     "copyright": "",
+    "github": {
+      "link": "https://github.com/UB-Mannheim/UBi"
+    },
     "links": {
       "ubmannheim": {
         "text": "UB Mannheim",
