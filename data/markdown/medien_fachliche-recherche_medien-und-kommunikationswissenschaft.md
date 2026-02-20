@@ -102,7 +102,7 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 
 
-### Ellis Kolb
+### Ellis Kolb (keine/they/sie)
 
 Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
 
@@ -115,6 +115,6 @@ Aufgaben:
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
-- E-Mail: vanessa.kolb@uni-mannheim.de
+- E-Mail: ellis.kolb@uni-mannheim.de
 Vertretung[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
 - [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
