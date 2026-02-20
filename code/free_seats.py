@@ -10,7 +10,7 @@ def get_occupancy_data():
     return response.json()
 
 
-def make_plotly_figure(areas, detected_language: str = "German", absolute_values: str = False):
+def make_plotly_figure(areas, detected_language: str = "German", absolute_values: bool = False):
     """
     Plot seat availability.
     """
