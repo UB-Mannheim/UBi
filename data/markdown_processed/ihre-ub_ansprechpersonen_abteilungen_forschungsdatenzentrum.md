@@ -3,13 +3,13 @@ title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche der Unive
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Ansprechpartner', 'Open Science', 'Data Literacy', 'Digital Humanities', 'Rechtsberatung', 'Universitätsbibliothek']
+tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Open Science', 'Data Science', 'Digital Humanities', 'Rechtsberatung', 'Data Literacy', 'Projektmanagement']
 language: de
 ---
 
 # Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und rechtliche Unterstützung im Bereich Forschungsdatenmanagement (FDM), Data Science, Open Science und Digitalisierung.
+Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim. Das Team bietet Beratung, Schulungen und Unterstützung in verschiedenen Bereichen des Forschungsdatenmanagements, Data Science, Open Science, rechtlichen Fragestellungen und Digitalisierung.
 
 ## Ansprechpartner und Aufgabenbereiche
 
@@ -56,15 +56,15 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 
 - Unterstützung von Forschenden
 - Rechtliche Fragestellungen im FDM-Bereich
-- Themengebiete: Datenschutz, Urheberrecht, Lizenzrecht
-- BERD Datenschutzkonzept und Plattform-Richtlinien
+- Themengebiete: Datenschutz, Urheberrecht und Lizenzrecht
+- BERD Datenschutzkonzept und Plattform Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
 
 ### Thomas Schmidt, M.A.
 
-**Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB**
+**Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
@@ -76,7 +76,7 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 **Lead Data Scientist | Projektleiter**
 
 - Strategische Weiterentwicklung des technischen Forschungsdatenmanagements
-- Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools
+- Beratung von Wissenschaftler\*innen zu Forschungsdatenmanagement, Data Science und KI-Tools
 - Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI
 - Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
@@ -106,6 +106,13 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 - ORCID: [0009-0004-6220-8939](https://orcid.org/0009-0004-6220-8939)
 - [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
-## Kontakt und weitere Informationen
+## Themenschwerpunkte des Forschungsdatenzentrums
 
-Für alle Anliegen rund um Forschungsdatenmanagement, rechtliche Fragen, Data Science, Open Science und Digitalisierung steht das Team des Forschungsdatenzentrums der Universitätsbibliothek Mannheim zur Verfügung. Weitere Informationen finden Sie auf der [Webseite des Forschungsdatenzentrums](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/).
+- Forschungsdatenmanagement (FDM) in den Sozialwissenschaften und Digital Humanities
+- Beratung und Schulungen zu Open Science und Data Literacy
+- Unterstützung bei rechtlichen Fragestellungen (Datenschutz, Urheberrecht, Lizenzrecht)
+- Entwicklung und Management von Projekten im Bereich Data Science, KI und Digitalisierung
+- Technischer Support und Softwareentwicklung für Content-Management-Systeme
+- Strategische Weiterentwicklung des Forschungsdatenmanagements an der Universitätsbibliothek Mannheim
+
+Für weitere Informationen oder individuelle Beratung wenden Sie sich bitte an die jeweiligen Ansprechpartner.
