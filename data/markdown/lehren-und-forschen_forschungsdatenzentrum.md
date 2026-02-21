@@ -114,7 +114,7 @@ Legal Counsel für BERD@NFDI und FDZ
 
 ### Thomas Schmidt, M.A.
 
-Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB
+Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
 - E-Mail: thomas.schmidt@uni-mannheim.de

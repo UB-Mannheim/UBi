@@ -93,4 +93,13 @@ Aufgaben:
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
 - E-Mail: ellis.kolb@uni-mannheim.de
+
+
+### Thomas Schmidt, M.A.
+
+Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Telefon: +49 621 181-2954
+- E-Mail: thomas.schmidt@uni-mannheim.de
+- ORCID-ID: 0000-0003-3620-3355 (https://orcid.org/0000-0003-3620-3355)
 - [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
