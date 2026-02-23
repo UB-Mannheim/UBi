@@ -474,7 +474,7 @@ if (window.aimaBundleLoaded) {
         let versionText = "";
         // Only show version on desktop/tablet > 768px
         if (lastUpdated && window.innerWidth > 768) {
-            versionText = ` · v${lastUpdated}`;
+            versionText = ` · <a href="https://github.com/UB-Mannheim/UBi/tree/v${lastUpdated}/data/markdown_processed" target="_blank">v${lastUpdated}</a>`;
         }
 
         const copyrightText = (config.footer && config.footer.copyright) ? config.footer.copyright + ' · ' : '';
