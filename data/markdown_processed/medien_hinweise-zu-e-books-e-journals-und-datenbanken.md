@@ -120,18 +120,21 @@ Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Derzeit i
 
 ## Shibboleth-Zugang zu digitalen Medien
 
-## Shibboleth-Zugang zu digitalen Medien
+## Shibboleth – Authentifizierungsverfahren für den externen Zugriff auf digitale Medien
 
-Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ohne VPN.
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um komfortabel von außerhalb des Campus auf lizenzierte digitale Medien zuzugreifen – ganz ohne VPN.
 
-Shibboleth ist ein Authentifizierungsverfahren, das den Zugriff auf lizenzierte elektronische Angebote auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus ermöglicht. Der Zugang wird auf den Seiten der Anbieter beispielsweise als **Institutionelles Login** bezeichnet.
+Shibboleth ist ein Authentifizierungsverfahren, das den Zugang zu elektronischen Angeboten auf Plattformen von Verlagen oder anderen Anbietern ermöglicht. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
 
-Als Angehörige der Universität Mannheim wählen Sie auf der jeweiligen Anbieterplattform die Universität Mannheim aus einer Liste aus. Anschließend melden Sie sich über die Anmeldemaske der Universität mit Ihrer Uni-ID an.
+### So funktioniert der Zugang
+
+1. Wählen Sie auf der Plattform des Anbieters die Universität Mannheim aus einer Liste aus.
+1. Melden Sie sich anschließend über die Anmeldemaske der Universität mit Ihrer Uni-ID an.
 
 **Beispiel:** Cambridge University Press
 
-Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Derzeit ist der Shibboleth-Zugang über die Universitätsbibliothek Mannheim auf ausgewählten Plattformen möglich.
+Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Der Shibboleth-Zugang über die Universitätsbibliothek Mannheim ist aktuell auf ausgewählten Plattformen möglich.
 
-### Übersicht der Anbieter
+### Übersicht der Anbieter mit Shibboleth-Zugang
 
 - [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

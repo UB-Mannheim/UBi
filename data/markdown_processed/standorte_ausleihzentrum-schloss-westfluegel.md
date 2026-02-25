@@ -55,6 +55,4 @@ Telefon: +49 621 181-3166
 E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
 [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
-______________________________________________________________________
-
-Für alle Anliegen rund um Ausleihe und Fernleihe wenden Sie sich bitte an Michael Wagner, den Teamleiter für diesen Bereich.
+Michael Wagner ist Ansprechpartner für alle Fragen rund um die Ausleihe und Fernleihe an der Universitätsbibliothek Mannheim.
