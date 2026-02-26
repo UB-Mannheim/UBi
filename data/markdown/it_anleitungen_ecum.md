@@ -79,7 +79,7 @@ Bei Verlust, Defekt oder Statuswechsel können Sie eine Ersatzkarte beantragen. 
 ### Was kostet meine ecUM?
 
 Ihre ecUM stellen wir Ihnen grundsätzlich kostenlos zur Verfügung.
-Sie haben Ihre Karte verloren? Für eine verlorene ecUM wird gemäß [Gebührensatzung der Universität (PDF)](http://www2.uni-mannheim.de/rum/ueber_uns/arbeitsgruppen/itsms/ecum/aktuelles/01_09_2006_neue_gebuehren_fuer_ecum_chipkarten/gebuehrensatzungaktuell.pdf) eine Gebühr in Höhe von 15 Euro erhoben.
+Sie haben Ihre Karte verloren? Für eine verlorene ecUM wird gemäß [Gebührensatzung der Universität](https://www.uni-mannheim.de/media/Einrichtungen/it/Benutzerordnung_und_wichtige_Dokumente/ecUM_Gebuehrensatzung2006.pdf) (PDF) eine Gebühr in Höhe von 15 Euro erhoben.
 **Ihr Name hat sich geändert oder Ihre ecUM ist kaputt?**Gerne erstellen wir Ihnen kostenfrei eine neue ecUM. Bringen Sie dafür bitte Ihre bisherige ecUM mit.
 
 
