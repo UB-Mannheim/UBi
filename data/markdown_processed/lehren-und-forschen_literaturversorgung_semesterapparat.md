@@ -119,6 +119,7 @@ Um einen Semesterapparat einzurichten, sind die Angaben in den Pflichtfeldern er
 
 Weitere Hinweise:
 
-- Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) wurden bereitgestellt.
-- Zusätzliche Datenschutzinformationen finden Sie unter: [Universitätsbibliothek Hinweise](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/)
-- Bei Fragen steht der [KI-Chatbot](https://chat.bib.uni-mannheim.de/) zur Verfügung.
+- Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) stehen zur Verfügung.
+- Die [Informationen zum Datenschutz der Universitätsbibliothek](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/) wurden bereitgestellt.
+
+Für weitere Unterstützung steht der [KI-Chatbot](https://chat.bib.uni-mannheim.de/) zur Verfügung.

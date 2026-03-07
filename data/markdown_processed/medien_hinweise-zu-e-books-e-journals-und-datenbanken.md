@@ -225,7 +225,7 @@ Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim kö
 
 Shibboleth ermöglicht den Zugang zu elektronischen Angeboten auf Plattformen von Verlagen oder anderen Anbietern. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
 
-### Anmeldung
+### Anmeldung mit Shibboleth
 
 1. Wählen Sie auf der Plattform des Anbieters die Universität Mannheim aus einer Liste aus.
 1. Melden Sie sich anschließend mit Ihrer Uni-ID über die Anmeldemaske der Universität an.

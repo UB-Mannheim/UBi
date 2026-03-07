@@ -39,31 +39,24 @@ E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich Schloss Schneckenhof der Universitätsbibliothek Mannheim bietet zentrale Anlaufstellen für Nutzerinnen und Nutzer. Die Leitung und stellvertretende Leitung stehen für alle Fragen rund um den Bibliotheksbereich zur Verfügung.
+Der Bibliotheksbereich Schloss Schneckenhof der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort.
 
 #### Ansprechpartnerinnen
 
 ##### Beate Ulbrich
 
-**Teamleiterin Bibliotheksbereich Schloss Schneckenhof**
-Universität Mannheim
-Universitätsbibliothek
-Schloss Schneckenhof West – Raum SW 287
-68161 Mannheim
-Telefon: +49 621 181-2972
-E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
+- Teamleiterin Bibliotheksbereich Schloss Schneckenhof
 
 ##### Elisabeth Wagner
 
-**Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof**
-Universität Mannheim
-Universitätsbibliothek
-Schloss Schneckenhof West – Raum SW 287
-68161 Mannheim
-Telefon: +49 621 181-2835
-E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof
 
-#### Kontakt
+**Kontakt für beide Ansprechpartnerinnen:**
 
-Für allgemeine Anfragen zum Bibliotheksbereich Schloss Schneckenhof wenden Sie sich bitte an die oben genannten Ansprechpartnerinnen oder nutzen Sie den [KI-Chatbot](https://chat.bib.uni-mannheim.de/).
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim
+- Telefon Beate Ulbrich: +49 621 181-2972
+- Telefon Elisabeth Wagner: +49 621 181-2835
+- E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+
+Weitere Informationen zum Bibliotheksbereich Schloss Schneckenhof finden Sie auf der [offiziellen Webseite](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/).

@@ -53,25 +53,25 @@ E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort.
+Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer. Für alle Anliegen rund um den Bibliotheksbereich A3 stehen folgende Ansprechpartnerinnen zur Verfügung:
 
-#### Ansprechpartner
+#### Ansprechpartnerinnen
 
 ##### Barbara Dreisiebner
 
-- Teamleiterin Bibliotheksbereich A3
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
-- Telefon: +49 621 181-2989
-- E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
+Teamleiterin Bibliotheksbereich A3
+Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
+Telefon: +49 621 181-2989
+E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 
 ##### Isabelle Otto
 
-- Stellvertretende Teamleiterin Bibliotheksbereich A3
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
-- Telefon: +49 621 181-3058
-- E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+Stellvertretende Teamleiterin Bibliotheksbereich A3
+Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
+Telefon: +49 621 181-3058
+E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
+Weitere Unterstützung: [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
-#### Kontakt
+#### Kontaktmöglichkeiten
 
-Für allgemeine Anfragen zum Bibliotheksbereich A3 wenden Sie sich bitte an das Team per E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de) oder telefonisch unter den oben genannten Nummern. Weitere Unterstützung bietet der [KI-Chatbot](https://chat.bib.uni-mannheim.de/).
+Für allgemeine Anfragen zum Bibliotheksbereich A3 wenden Sie sich bitte per E-Mail an [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de) oder nutzen Sie den [KI-Chatbot](https://chat.bib.uni-mannheim.de/) für schnelle Hilfe.
