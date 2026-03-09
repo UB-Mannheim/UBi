@@ -219,23 +219,18 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 
 ## Shibboleth-Zugang zu digitalen Medien
 
-## Shibboleth-Zugang zu digitalen Medien
+## Shibboleth
 
-Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren Shibboleth nutzen, um komfortabel von außerhalb des Campus auf lizenzierte digitale Medien zuzugreifen – ohne VPN.
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ohne VPN.
 
-Shibboleth ermöglicht den Zugang zu elektronischen Angeboten auf Plattformen von Verlagen oder anderen Anbietern. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
+Shibboleth ist ein Authentifizierungsverfahren, das den Zugriff auf lizenzierte elektronische Angebote auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus ermöglicht. Der Zugang wird auf den Seiten der Anbieter beispielsweise als **Institutionelles Login** bezeichnet.
 
-### Anmeldung mit Shibboleth
-
-1. Wählen Sie auf der Plattform des Anbieters die Universität Mannheim aus einer Liste aus.
-1. Melden Sie sich anschließend mit Ihrer Uni-ID über die Anmeldemaske der Universität an.
+Um sich anzumelden, wählen Sie auf der Plattform des Anbieters die Universität Mannheim aus einer Liste aus. Anschließend erfolgt die Anmeldung über die Uni-ID in einer Anmeldemaske der Universität Mannheim.
 
 **Beispiel:** Cambridge University Press
 
-Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen.
+Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Derzeit ist der Shibboleth-Zugang über die Universitätsbibliothek Mannheim auf folgenden Plattformen möglich:
 
-### Unterstützte Plattformen
-
-Aktuell ist der Shibboleth-Zugang über die Universitätsbibliothek Mannheim auf folgenden Plattformen möglich:
+### Übersicht der Anbieter
 
 - [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
