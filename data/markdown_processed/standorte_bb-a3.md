@@ -70,8 +70,8 @@ E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
 Telefon: +49 621 181-3058
 E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+Weitere Unterstützung: [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
 #### Kontakt
 
-Für allgemeine Anfragen zum Bibliotheksbereich A3 wenden Sie sich bitte an die oben genannten Ansprechpartnerinnen. Alle Anfragen werden zentral über die E-Mail-Adresse [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de) bearbeitet.
+Für allgemeine Anfragen zum Bibliotheksbereich A3 wenden Sie sich bitte an die oben genannten Ansprechpartnerinnen oder nutzen Sie den KI-Chatbot für schnelle Hilfe.
