@@ -50,6 +50,19 @@ In [Cambridge-Zeitschriften (hybrid + gold OA)](https://www.cambridge.org/core/s
 Dazu müssen Sie zuerst die üblichen Schritte zum Einreichen eines Manuskriptes durchlaufen. Nach der Annahme des Manuskriptes bei Cambridge müssen Sie das Open-Access-Veröffentlichungslizenz-Formular ausfüllen.
 
 
+### Cogitatio Press
+
+Im Rahmen des Vertrags mit dem Verlag [Cogitatio Press](https://www.cogitatiopress.com/) können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim Publikationen im Open Access in allen Zeitschriften des Verlags ohne zusätzliche Kosten veröffentlichen. Dies gilt unter folgenden Voraussetzungen:
+
+- Sie sind mit der Universität Mannheim affiliiert und als „corresponding author“ für den Artikel zuständig
+- Ihr Artikel wurde zwischen dem 1. Januar 2026 und dem 31. Dezember 2028 eingereicht
+- Der Artikel gehört zum Typ: „research article“, „editorial“, „commentary“, „short notes“ oder „book reviews“
+
+Verwenden Sie beim Einreichungsprozess die E-Mail-Adresse der Universität und geben Sie in Ihrer Publikation die Universität Mannheim als Affiliation an. Anhand dieser Angaben werden Sie vom Verlag als berechtigt identifiziert.
+Sprachredaktionsdienste oder zusätzliche Gebühren (z. B. bei Überlänge) fallen nicht unter den Vertrag.
+Ein Antrag auf die Übernahme aus dem Open-Access-Publikationsfonds ist für den Zeitraum des Vertrags nicht nötig.
+
+
 ### De Gruyter
 
 Der Publish and Read Vertrag mit dem Verlag De Gruyter bringt neben dem Zugriff auf die Zeitschriften in den Bereichen „Humanities and Social Sciences (HSS)“ und Wirtschaft Vorteile beim Publizieren im Open Access. Davon können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim profitieren, wenn Sie bei einem Artikel folgende Voraussetzungen erfüllen:
