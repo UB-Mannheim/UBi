@@ -42,7 +42,7 @@ E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer. Die Leitung und stellvertretende Leitung stehen als Ansprechpartnerinnen zur Verfügung.
+Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort. Die Leitung und stellvertretende Leitung stehen als Ansprechpartnerinnen zur Verfügung.
 
 #### Ansprechpartnerinnen
 
@@ -62,7 +62,7 @@ E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 ### Europäisches Dokumentationszentrum (EDZ)
 
-Das Europäische Dokumentationszentrum (EDZ) ist Teil der Universitätsbibliothek Mannheim und bietet spezialisierte Unterstützung und Beratung zu europäischen Themen.
+Das Europäische Dokumentationszentrum (EDZ) ist Teil der Universitätsbibliothek Mannheim und bietet spezialisierte Literatur und Beratung zu europäischen Themen.
 
 #### Ansprechpartner
 
