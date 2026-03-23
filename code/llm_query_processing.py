@@ -52,9 +52,12 @@ async def route_and_augment_query(
         ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
         ollama_model = os.getenv("OLLAMA_MODEL", "llama3.2")
         ollama_client = ChatOllama(
+            format="json",
             model=ollama_model,
+            # validate_model_on_init=True,
             base_url=ollama_base_url,
             temperature=0,
+            # num_predict=256,
         )
         try:
             from langchain_core.messages import HumanMessage, SystemMessage
@@ -100,7 +103,7 @@ async def route_and_augment_query(
                 {"role": "system", "content": ROUTER_AUGMENTOR_PROMPT},
             ] + user_input,
             temperature=0,
-            service_tier="priority",
+            # service_tier="priority",
         )
 
         if response.choices and response.choices[0].message.content:
