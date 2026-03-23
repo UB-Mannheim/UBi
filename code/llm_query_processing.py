@@ -74,7 +74,7 @@ async def route_and_augment_query(
                     json_data = json.loads(json_str)
                     language = json_data.get("language", "German")
                     category = json_data.get("category", "message")
-                    augmented_query = json_data.get("augmented_query", user_input)
+                    augmented_query = json_data.get("augmented_query") or user_input[-1]["content"]
                     print_info("🚦 [bold]LLM Router classified and augmented query:")
                     last_content = user_input[-1]["content"] if user_input else ""
                     print_info(f"   - Query: {last_content}")
@@ -120,9 +120,7 @@ async def route_and_augment_query(
                     json_data = json.loads(json_str)
                     language = json_data.get("language", "German")
                     category = json_data.get("category", "message")
-                    augmented_query = json_data.get(
-                        "augmented_query", user_input
-                    )
+                    augmented_query = json_data.get("augmented_query") or user_input[-1]["content"]
                     print_info(
                         "🚦 [bold]LLM Router classified and augmented query:"
                     )
