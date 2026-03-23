@@ -102,6 +102,7 @@ Antwort:""",
 
     if use_ollama:
         llm = ChatOllama(
+            # format="json",
             model=ollama_chat_model,
             base_url=ollama_base_url,
             temperature=0,
