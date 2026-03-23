@@ -136,7 +136,7 @@ Assistant: "I don't have information about that in my current resources. For fur
 - Deviating from the uniform fallback response
 - Including source lists or bibliographies"""
 
-# === Router, Langauge Detection and Prompt Augmentation ===
+# === Router, Language Detection and Prompt Augmentation ===
 ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the chatbot of the Mannheim University Library (UB Mannheim)). You will analyze user queries and provide structured output that includes language detection, category routing, and query augmentation - all in a single response.
 
 # Your Tasks:
