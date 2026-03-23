@@ -15,5 +15,5 @@ Requests~=2.32.5
 tqdm~=4.67.1
 unstructured~=0.18.4
 json-repair~=0.50.0
-wheel~=0.46.2
+wheel~=0.46.3
 mdformat~=0.7.22
