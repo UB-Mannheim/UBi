@@ -88,7 +88,7 @@ async def route_and_augment_query(
                 print_err(f"⚠️  Warning: Could not parse response json: {e}")
         except Exception as e:
             print_err(f"⚠️  Warning: Could not route query via Ollama: {e}")
-        return ("German", "message", user_input)
+        return ("German", "message", user_input[-1]["content"])
 
     if not client:
         client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
