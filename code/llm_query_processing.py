@@ -103,7 +103,7 @@ async def route_and_augment_query(
                 {"role": "system", "content": ROUTER_AUGMENTOR_PROMPT},
             ] + user_input,
             temperature=0,
-            # service_tier="priority",
+            service_tier="priority",
         )
 
         if response.choices and response.choices[0].message.content:
