@@ -8,7 +8,7 @@ Fragen zu rechtlichen und ethischen Themen im Zusammenhang mit Forschungsdaten z
 
 **Verschiedene Stellen an der Universität unterstützen Sie bei diesen Fragen**
 
-- [Servicestelle Datenschutz](https://www.uni-mannheim.de/universitaet/organisation/stabsstellen/servicestelle-datenschutz/): berät universitäre Projekte bei Fragen rund um personenbezogene Daten.
+- [Servicestelle Datenschutz](https://www.uni-mannheim.de/universitaet/organisation/stabs-und-servicestellenservicestelle-datenschutz/): berät universitäre Projekte bei Fragen rund um personenbezogene Daten.
 - [Ethikkommission](https://www.uni-mannheim.de/universitaet/organisation/organe-und-gremien/kommissionen-und-ausschuesse/ethikkommission/#c324209): Beratung und Beurteilung zu ethischen und rechtlichen Aspekten in der Forschung am Menschen, der Forschung mit personenbezogenen Daten sowie in sicherheitsrelevanten Fällen in Forschungsprojekten der Universität Mannheim.
 - [Dezernat I](https://www.uni-mannheim.de/universitaet/organisation/verwaltung/dezernat-i/#c193679): Beratung zu und Abschluss von Kooperationsverträgen mit universitätsexternen Projektpartner*innen in Verbundprojekten.
 - UB: Beratung zu und Abschluss von [Lizenz-/Datennutzungsverträgen](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/), Beratung zum Thema [Urheberrecht](https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/) (Text- und Data Mining).

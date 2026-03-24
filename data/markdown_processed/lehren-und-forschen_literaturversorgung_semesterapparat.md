@@ -115,10 +115,16 @@ E-Mail: [marion.francken-welz@uni-mannheim.de](mailto:marion.francken-welz@uni-m
 
 ## Antrag auf Einrichtung eines Semesterapparats
 
-Um einen Semesterapparat einzurichten, sind die Angaben in den Pflichtfeldern des Antragsformulars erforderlich. Bitte beachten Sie, dass Medien im Semesterapparat **nicht entleihbar** sind.
+Um einen Semesterapparat einzurichten, sind die Angaben in den Pflichtfeldern des Antragsformulars erforderlich.
+
+Bitte beachten Sie:
+
+- Medien im Semesterapparat sind **nicht entleihbar**.
 
 Weitere Hinweise:
 
-- Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) stehen zur Verfügung.
-- Die [Datenschutzinformationen der Universitätsbibliothek](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/) wurden bereitgestellt.
-- Bei Fragen oder für Unterstützung steht der [KI-Chatbot](https://chat.bib.uni-mannheim.de/) zur Verfügung.
+- Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) sowie die [Hinweise der Universitätsbibliothek zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/) wurden zur Verfügung gestellt.
+
+Zusätzlicher Service:
+
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/) – Unterstützung und Auskünfte der Universitätsbibliothek Mannheim

@@ -86,4 +86,4 @@ Weitere Unterstützung: [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
 #### Kontakt
 
-Für allgemeine Anfragen zum Bibliotheksbereich Schloss Ehrenhof wenden Sie sich bitte an das Team per E-Mail an [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de) oder telefonisch unter den oben genannten Nummern.
+Für allgemeine Anfragen zum Bibliotheksbereich Schloss Ehrenhof wenden Sie sich bitte an das Team per E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de) oder telefonisch unter den oben genannten Nummern.
