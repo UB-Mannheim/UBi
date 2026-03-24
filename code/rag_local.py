@@ -33,7 +33,7 @@ async def create_rag_chain(debug=False):
             ) from exc
 
         ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-        ollama_model = os.getenv("OLLAMA_MODEL", "llama3.2")
+        ollama_chat_model = os.getenv("OLLAMA_CHAT_MODEL", "llama3.2")
         ollama_embedding_model = os.getenv("OLLAMA_EMBEDDING_MODEL", "nomic-embed-text")
 
         embedding_model = OllamaEmbeddings(
@@ -98,7 +98,7 @@ Antwort:"""
     if use_ollama:
         llm = ChatOllama(
             # format="json",
-            model=ollama_model,
+            model=ollama_chat_model,
             base_url=ollama_base_url,
             temperature=0,
         )

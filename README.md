@@ -65,7 +65,7 @@ You can choose between two ways of running the app:
 > ollama pull llama3.2
 > ollama pull nomic-embed-text
 > ```
-> You can customise the models and the Ollama URL via the `OLLAMA_MODEL`, `OLLAMA_EMBEDDING_MODEL`, and `OLLAMA_BASE_URL` variables in `.env`.
+> You can customise the models and the Ollama URL via the `OLLAMA_ROUTER_MODEL`, `OLLAMA_CHAT_MODEL`, `OLLAMA_EMBEDDING_MODEL`, and `OLLAMA_BASE_URL` variables in `.env`.
 
 ##### Start the app
 
