@@ -290,6 +290,7 @@ def find_specified_tags(
             element.get_text() if isinstance(element, Tag) else str(element)
         )
 
+        warned_empty_hrefs: set[str] = set()
         for a_tag in a_tags:
             href = a_tag.get("href") if isinstance(a_tag, Tag) else None
             if not (isinstance(href, str) and href):
@@ -301,6 +302,11 @@ def find_specified_tags(
             # Skip anchors with empty text to avoid str.replace("", ...) inserting
             # the link between every character of the surrounding text
             if not href_text:
+                if href not in warned_empty_hrefs:
+                    utils.print_err(
+                        f"[bold yellow]Warning: empty anchor text for href={href!r} in {url}"
+                    )
+                    warned_empty_hrefs.add(href)
                 continue
 
             # Match absolute URLs
