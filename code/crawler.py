@@ -298,6 +298,11 @@ def find_specified_tags(
                 a_tag.get_text() if isinstance(a_tag, Tag) else str(a_tag)
             )
 
+            # Skip anchors with empty text to avoid str.replace("", ...) inserting
+            # the link between every character of the surrounding text
+            if not href_text:
+                continue
+
             # Match absolute URLs
             if href.startswith("http"):
                 href_md = f"[{href_text}]({href})"
