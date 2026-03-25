@@ -4,8 +4,8 @@ from operator import itemgetter
 
 import chromadb.config
 from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
-from langchain import hub
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_core.prompts import ChatPromptTemplate
 from langchain_chroma import Chroma
 from langchain_community.document_loaders import UnstructuredMarkdownLoader
 from langchain_core.output_parsers import StrOutputParser
@@ -57,17 +57,21 @@ async def create_rag_chain(debug=False):
     retriever = vectorstore.as_retriever(
         search_type="similarity", search_kwargs={"k": 4}
     )
-    prompt = hub.pull("rlm/rag-prompt")
     today = datetime.datetime.now().strftime("%B %d, %Y %H:%M:%S")
-    prompt.messages[
-        0
-    ].prompt.template = f"""{BASE_SYSTEM_PROMPT.format(today=today)}
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            (
+                "human",
+                f"""{BASE_SYSTEM_PROMPT.format(today=today)}
 **Konversationsverlauf:**
 {{conversation_context}}
 
 Frage: {{question}}
 Kontext: {{context}}
-Antwort:"""
+Antwort:""",
+            )
+        ]
+    )
 
     llm = ChatOpenAI(
         model_name="gpt-4o-mini-2024-07-18",
