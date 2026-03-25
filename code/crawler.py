@@ -439,6 +439,7 @@ def find_specified_tags(
                 "Freie Sitzplätze",
                 "Auskunft und Beratung",
                 "Chat Mo–Fr",
+                "KI-Chatbot",
             ]
             icon_text = element.get_text(strip=True)
             if any(phrase in icon_text for phrase in footer_phrases):
