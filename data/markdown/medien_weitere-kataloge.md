@@ -56,4 +56,3 @@
 ## Hilfe
 
 In einigen Katalogen, zum Beispiel dem Karlsruher Virtuellen Katalog, werden Bibliotheken nur mit ihren Kurzbezeichnungen, dem Sigel, angegeben. Den Namen und die Anschrift einer Bibliothek können Sie mithilfe des [Sigelverzeichnisses](https://sigel.staatsbibliothek-berlin.de/suche) auflösen.
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

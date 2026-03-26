@@ -68,7 +68,7 @@ In einem Forschungsprojekt digitalisierte die UB Mannheim ausgewählte deutsche 
 
 LinguaPix ist eine Datenbank für Bildbenennungsstandards, die im Rahmen einer von der Fritz Thyssen Stiftung finanzierten Crowdsourcing-Megastudie entwickelt wurde. In der Megastudie wurden 1.620 Farbfotografien von Gegenständen aus 43 semantischen Kategorien von einer Gruppe von deutschen, niederländischen, englischen, polnischen und kantonesischen Sprecher*innen benannt und bewertet. Auf diese Weise konnten linguistische Standards wie z. B. Sprechbeginn, Begriffsübereinstimmung, visuelle Komplexität und Emotionalität ermittelt werden. Die Datenbank enthält neben Fotos und sprachlichen Normen auch Audiodateien, was sie zu einer der größten Datenbank dieser Art macht. Weitere Details finden sich in der Publikation von [Krautz und Keuleers (2022)](https://link.springer.com/article/10.3758/s13428-021-01651-0).
 **Zugang und Nutzung**
-Die Bilder der Datenbank LinguaPix dürfen nur für nicht-kommerzielle Zwecke in Forschung, Studium und Lehre verwendet werden. Es gibt zwei Zugangsmöglichkeiten. Der Basic Access ist durch eine Anmeldung auf dieser Seite möglich. Für einen Full Access muss ein Lizenzvertrag abgeschlossen werden; kontaktieren Sie dafür bitte die Universitätsbibliothek (erwerbungsleitung.ub@uni-mannheim.de).
+Die Bilder der Datenbank LinguaPix dürfen nur für nicht-kommerzielle Zwecke in Forschung, Studium und Lehre verwendet werden. Es gibt zwei Zugangsmöglichkeiten. Der Basic Access ist durch eine Anmeldung auf dieser Seite möglich. Für einen Full Access muss ein Lizenzvertrag abgeschlossen werden; kontaktieren Sie dafür bitte die Universitätsbibliothek (erwerbungsleitung.ubuni-mannheim.de).
 **Zur LinguaPix Datenbank:**
 [https://linguapix.uni-mannheim.de/frontend/web/index.php](https://linguapix.uni-mannheim.de/frontend/web/index.php)
 
@@ -123,4 +123,4 @@ KG GUI: [https://hbag.kgi.uni-mannheim.de](https://hbag.kgi.uni-mannheim.de)
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 - Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
-- E-Mail: forschungsdaten@uni-mannheim.de
+- E-Mail: forschungsdatenuni-mannheim.de

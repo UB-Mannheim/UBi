@@ -39,9 +39,8 @@ Sie haben Fragen zum Projekt? Sie lehren an der Universität Mannheim und Virtua
 Leiterin der Abteilung Benutzungsdienste | Stellvertretende Leiterin Aus- und Fortbildung
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
 - Telefon: +49 621 181-2920
-- E-Mail: jessica.kaiser@uni-mannheim.de
+- E-Mail: jessica.kaiseruni-mannheim.de
 **Maria Klein**
-Bibliothek der Hochschule MannheimTel: +49 621 292 6141E-Mail:  m.klein@hs-mannheim.de
+Bibliothek der Hochschule MannheimTel: +49 621 292 6141E-Mail:  m.kleinhs-mannheim.de
 **Frank Krosta**
-Bibliothek der DHBW MannheimTel: +49 621 4105 1147E-Mail:  frank.krosta@dhbw-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+Bibliothek der DHBW MannheimTel: +49 621 4105 1147E-Mail:  frank.krostadhbw-mannheim.de

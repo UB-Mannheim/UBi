@@ -98,5 +98,4 @@ Bei bereits vorhandenen Schäden melden Sie sich bitte unverzüglich, damit sie 
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Westflügel, 68161 Mannheim
 - Telefon: +49 621 181-2949
-- E-Mail: ausleihe.ub@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- E-Mail: ausleihe.ubuni-mannheim.de

@@ -3,18 +3,18 @@ title: InfoCenter der Universitätsbibliothek Mannheim – Zentrale Anlaufstelle
 source_url_de: https://www.bib.uni-mannheim.de/standorte/infocenter/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/infocenter/
 category: Standorte
-tags: ['InfoCenter', 'Bibliotheksausweis', 'Beratung', 'Sonderleseplätze', 'Geräteausleihe', 'Öffnungszeiten', 'Kontakt', 'Universitätsbibliothek']
+tags: ['InfoCenter', 'Bibliotheksausweis', 'Serviceangebot', 'Sonderleseplätze', 'Geräteausleihe', 'Beratung', 'Universitätsbibliothek', 'Öffnungszeiten']
 language: de
 ---
 
 # InfoCenter der Universitätsbibliothek Mannheim
 
-Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Auskunft, Beratung und zahlreiche Bibliotheksservices. Es wird in Kooperation mit der [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) betrieben.
+Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Auskunft und Beratung zu Bibliotheksausweis, Literaturrecherche und weiteren Bibliotheksservices. Es wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und der Universitätsbibliothek betrieben.
 
 Hier erhalten Sie:
 
-- [Elektronische Chipkarte ecUM](https://www.uni-mannheim.de/it/anleitungen/ecum/)
-- Bibliotheksausweis: [UB-Chipkarte für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
+- Die [elektronische Chipkarte ecUM](https://www.uni-mannheim.de/it/anleitungen/ecum/)
+- Den Bibliotheksausweis [UB-Chipkarte für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
 
 ## Sonderleseplätze
 
@@ -30,7 +30,7 @@ Angehörige der Universität Mannheim können an der Infotheke im InfoCenter Not
 Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze
 
 | Wochentag | Uhrzeit |
-|---------------------------|------------|
+|--------------------------|------------|
 | Mo–Fr (außer an Feiertagen) | 9–16 Uhr |
 
 Weitere Hinweise: [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)

@@ -3,125 +3,78 @@ title: Fragen im German Internet Panel (GIP) stellen – Informationen zur Daten
 source_url_de: https://www.uni-mannheim.de/gip/fragen-im-gip-stellen/
 source_url_en: https://www.uni-mannheim.de/en/gip/ask-questions-in-the-gip/
 category: Services
-tags: ['German Internet Panel', 'Onlinepanel', 'Befragungsdaten', 'Sozialwissenschaften', 'Datenerhebung', 'Forschungsinfrastruktur', 'Datenschutz', 'GESIS']
+tags: ['German Internet Panel', 'Onlinepanel', 'Befragungsdaten', 'Sozialwissenschaften', 'Datenerhebung', 'Forschungsinfrastruktur', 'Datenschutz', 'Universitätsbibliothek']
 language: de
 ---
 
 # Fragen im German Internet Panel (GIP) stellen
 
-Das German Internet Panel (GIP) ist das am längsten laufende Onlinepanel auf Basis einer Zufallsstichprobe in Deutschland. Seit 2012 werden die Teilnehmer*innen alle zwei Monate befragt. Das GIP ermöglicht Wissenschaftler*innen, eigene zitierfähige Daten für ihre Forschung zu erheben, die höchsten wissenschaftlichen Standards entsprechen. Das Survey-Team betreut den gesamten Erhebungsprozess – von der Erstellung des Fragebogens bis zur Veröffentlichung der Daten.
+Das German Internet Panel (GIP) ist das am längsten laufende Onlinepanel auf Basis einer Zufallsstichprobe in Deutschland. Seit 2012 werden die Teilnehmer*innen alle zwei Monate befragt. Das GIP ermöglicht Wissenschaftler*innen, eigene zitierfähige Daten für ihre Forschung zu erheben, die höchsten wissenschaftlichen Standards entsprechen. Das Survey-Team betreut den gesamten Erhebungsprozess – von der Erstellung des Fragebogens bis zur Veröffentlichung der Daten – und gewährleistet höchste Qualitätsstandards. Die Teilnehmer\*innen wurden ausschließlich offline auf Basis einer Zufallsstichprobe der Allgemeinbevölkerung in Deutschland im Alter von 16 bis 75 Jahren rekrutiert.
 
-Die Teilnehmer\*innen des GIP wurden ausschließlich offline auf Basis einer Zufallsstichprobe der Allgemeinbevölkerung in Deutschland im Alter von 16 bis 75 Jahren rekrutiert.
-
-## Zielgruppe
+## Zielgruppe und Fachbereiche
 
 Eine Erhebung von Befragungsdaten mit dem GIP steht allen Wissenschaftler*innen der Universität Mannheim sowie externen Wissenschaftler*innen anderer Hochschulen und nicht-kommerzieller Forschungseinrichtungen offen.
 
-## Fachbereiche und Themen
+Das GIP ist eine sozialwissenschaftliche Forschungsinfrastruktur, die insbesondere Forschenden aus Politikwissenschaft, Soziologie, Wirtschaftswissenschaften, Psychologie und angrenzenden Bereichen offensteht. Thematisch werden individuelle Einstellungen und Präferenzen der Bevölkerung in Deutschland erhoben, z. B. zu Reformpolitik, Sozialstaat, deutscher und EU-Politik, Zufriedenheit, Wohlbefinden, Migration, sozialer Ungleichheit, Bildung und Beschäftigung.
 
-Das GIP ist eine sozialwissenschaftliche Forschungsinfrastruktur der Universität Mannheim. Wissenschaftler\*innen aus Politikwissenschaft, Soziologie, Wirtschaftswissenschaften, Psychologie und benachbarten Forschungsbereichen können Befragungsdaten erheben. Themenschwerpunkte sind u. a.:
-
-- Einstellungen zur Reformpolitik, Sozialstaat, deutsche und EU-Politik
-- Zufriedenheit, Wohlbefinden, Migration, soziale Ungleichheit, Bildung, Beschäftigung
-
-Das GIP versteht sich zudem als Methodenforschungsprojekt im Bereich Data Science und entwickelt neue Methoden oder verbessert bestehende. Es werden regelmäßig operationelle Experimente und methodische Untersuchungen durchgeführt.
-
-Das GIP führt ausschließlich Forschungsprojekte mit wissenschaftlichen Interessen durch. Marktforschung oder kommerzielle Forschung werden nicht unterstützt.
+Das GIP versteht sich zudem als Methodenforschungsprojekt im Bereich Data Science und entwickelt neue Methoden oder verbessert bestehende. Es werden regelmäßig operationelle Experimente durchgeführt und methodische Zusammenhänge erforscht. Das GIP führt ausschließlich Forschungsprojekte mit wissenschaftlichen Interessen durch; Marktforschung oder kommerzielle Forschung werden nicht angeboten.
 
 ## Kosten
 
-- Für Mitglieder der Universität Mannheim: ca. 2.200 Euro pro Befragungsminute (ca. 3 Fragen), inkl. Incentives und Programmierung. Die Infrastrukturkosten übernimmt die Universität Mannheim.
-- Für externe Auftraggeber: höhere Kosten, individuelle Kalkulation auf Anfrage.
-
-Für eine konkrete Kostenkalkulation wenden Sie sich an [gip@uni-mannheim.de](mailto:gip@uni-mannheim.de).
+Für Mitglieder der Universität Mannheim beträgt der Preis pro Befragungsminute (ca. 3 Fragen) etwa 2.200 Euro, womit direkte Befragungskosten (Incentives, Programmierung) abgedeckt sind. Die Infrastrukturkosten übernimmt die Universität Mannheim. Für externe Auftraggeber fallen höhere Kosten an. Eine konkrete Kostenkalkulation für Ihr Projekt erhalten Sie auf Anfrage per E-Mail an [gip@uni-mannheim.de](mailto:gip@uni-mannheim.de).
 
 ## Umfang und Ablauf der Befragung
 
-- Maximale Umfragedauer pro Welle: 25 Minuten (davon ca. 5 Minuten für GIP-eigene Module)
-- Eingereichte Themenmodule: 3–20 Minuten (inkl. 1 Minute für GIP-Evaluationsfragen)
-- Ca. drei einfache Survey-Items pro Minute; komplexe Aufgaben werden individuell bewertet
+- **Umfragedauer pro Welle:** Maximal 25 Minuten, davon ca. 5 Minuten für GIP-eigene Module reserviert. Die restliche Zeit steht für eingereichte Themenmodule zur Verfügung (Einzelmodul: 3–20 Minuten inkl. 1 Minute für Evaluationsfragen).
+- **Fragenanzahl:** Ca. drei einfache Survey-Items pro Minute; bei komplexen Aufgaben oder längeren Texten erfolgt eine Einzelfallentscheidung.
+- **Teilnehmerzahl:** Über 3.500 Personen (Stand Mai 2024) nehmen an den zweimonatlichen Befragungen teil. Befragungen von Teilstichproben oder Subpopulationen sind möglich.
+- **Experimente:** Sowohl Querschnitt- als auch Längsschnittdaten sowie komplexe experimentelle Designs (z. B. randomisierte Fragenreihenfolgen, Vignettenstudien) sind möglich.
 
-## Experimente
+## Antragstellung und Unterstützung
 
-Das GIP ermöglicht sowohl Querschnitt- als auch Längsschnittdaten. Komplexe experimentelle Designs sind möglich, z. B. experimentelle Zuteilung von Fragen/Treatments, randomisierte Reihenfolgen, Vignettenstudien.
+Um eine Datenerhebung zu beantragen, senden Sie eine E-Mail an [gip@uni-mannheim.de](mailto:gip@uni-mannheim.de) mit einer möglichst detaillierten Skizze Ihres Vorhabens (Thema, Zeitplan, Zielstichprobe, Fragenanzahl, geplante Experimente, Wiederholungsbefragungen). Das GIP-Team unterstützt Sie während des gesamten Prozesses – von der Fragebogenentwicklung bis zum zitierfähigen Datensatz – und berät zu Machbarkeit, Formulierungen, wissenschaftlichen Standards und Filterführung.
 
-## Panelgröße
+Der Fragebogen wird nach Entwicklung an einen Dienstleister zur Programmierung übergeben. Nach Abschluss der Programmierung steht der Online-Fragebogen für einen Testlauf zur Verfügung, der sowohl von den Wissenschaftler\*innen als auch vom GIP-Team durchgeführt wird. Während der Feldzeit überwacht das GIP-Team den Ablauf und reagiert auf technische Probleme oder Feedback der Teilnehmenden.
 
-Derzeit nehmen über 3.500 Personen (Stand Mai 2024) an den zweimonatlichen Befragungen teil. Befragungen von Teilstichproben oder Subpopulationen sind möglich.
-
-## Antragstellung
-
-Anfragen zur Datenerhebung richten Sie bitte per E-Mail an [gip@uni-mannheim.de](mailto:gip@uni-mannheim.de). Bitte skizzieren Sie Ihr Vorhaben mit Angaben zu:
-
-- Thema
-- Zeitplan
-- Zielstichprobe (Gesamt-/Teilstichprobe, Subpopulation)
-- Fragenanzahl
-- Geplante Experimente
-- Wiederholungsbefragungen (falls zutreffend)
-
-Das GIP-Team bespricht anschließend mit Ihnen die Umsetzung und beantwortet offene Fragen.
-
-## Unterstützung und Leistungen des GIP-Teams
-
-Das GIP-Team begleitet Sie während des gesamten Prozesses:
-
-- Beratung und Entwicklung des Fragebogens (Machbarkeit, Formulierung, wissenschaftliche Standards, Filterführung)
-- Übergabe des Fragebogens zur Programmierung an einen Dienstleister
-- Testläufe durch die Wissenschaftler\*innen und das GIP-Team
-- Überwachung des Befragungsablaufs während der Feldzeit
-- Prüfung, Aufbereitung und Bereitstellung der Daten ca. einen Monat nach Feldende, inkl. Dokumentation und Standardrepertoire soziodemografischer Variablen (Alter, Geschlecht, Haushaltsgröße, Bundesland, Schul- und Berufsabschluss, Erwerbsstatus etc.)
-- Evaluationsbericht zum Fragebogen
-- Für sensitive Informationen: Nutzung vor Ort im Data Cube der Universitätsbibliothek Mannheim
+Die erhobenen Daten werden geprüft, aufbereitet und ca. einen Monat nach Ende der Feldzeit samt Dokumentation in anonymisierter Form zur Verfügung gestellt. Zusätzlich erhalten Sie einen Evaluationsbericht zu Ihrem Fragebogen. Für sensitive Informationen, die nicht für eine Veröffentlichung in Scientific Use Files geeignet sind, bietet die Universität Mannheim eine Nutzung vor Ort im Data Cube der Universitätsbibliothek an.
 
 ## Zeitplan
 
-- Erstkontakt: mindestens 3–4 Monate vor geplanter Feldzeit
-- Fragebogenprogrammierung: ca. 2 Monate vor Feldstart
-- Erste Daten: ca. 1 Monat nach Feldende
-- Veröffentlichung der Scientific Use Files im GESIS-Datenarchiv: 6–12 Monate nach Feldende
+- **Erstkontakt:** Mindestens 3–4 Monate vor geplanter Feldzeit
+- **Programmierung:** Fragebögen gehen ca. 2 Monate vor Feldstart in die Programmierung
+- **Datenbereitstellung:** Erste Daten ca. einen Monat nach Ende der Feldzeit
+- **Veröffentlichung:** Scientific Use Files werden 6–12 Monate nach Feldzeit im GESIS-Datenarchiv veröffentlicht
 
-Das GIP bietet auch kurzfristige Erhebungen zu aktuellen Ereignissen („Notfallmodul“).
+Das GIP ermöglicht auch kurzfristige Datenerhebungen zu aktuellen Ereignissen im Rahmen eines „Notfallmoduls“.
 
-## Datenzugang und Veröffentlichung
+## Datenzugang und Nutzung
 
-- Datenbereitstellung an Wissenschaftler\*innen ca. 1 Monat nach Feldende, nach Abschluss eines Datennutzungsvertrags
-- Alle GIP-Erhebungswellen werden 6–12 Monate nach Feldzeit als Scientific Use Files mit Dokumentation über das GESIS-Datenarchiv bereitgestellt
-- Gebühren für Fragesteller\*innen beim GESIS-Datenarchiv entfallen
-- Frei zugängliche Dokumentation auf [paneldata.org](https://paneldata.org)
-- Für sensitive Daten: On-Site Data Access im Data Cube der Universitätsbibliothek Mannheim
+Die Daten werden nach Prüfung und Aufbereitung ca. einen Monat nach Feldzeit bereitgestellt. Nach Abschluss eines Datennutzungsvertrags erhalten Wissenschaftler*innen Zugang zu den Daten. Alle GIP-Erhebungswellen werden 6–12 Monate nach Feldzeit als Scientific Use Files mit Dokumentation über das GESIS Leibniz-Institut für Sozialwissenschaften für die wissenschaftliche Sekundärnutzung veröffentlicht. Gebühren beim GESIS-Datenarchiv entfallen für Fragesteller*innen. Eine frei zugängliche Dokumentation ist auf [paneldata.org](https://paneldata.org) verfügbar.
+
+Für besonders sensitive Daten besteht die Möglichkeit zum [On-Site Data Access](https://www.uni-mannheim.de/gip/gip-daten-nutzen/on-site-data-access/) im Data Cube der Universitätsbibliothek.
 
 ## Verknüpfung mit früheren GIP-Daten
 
-- Umfangreiche Hintergrundinformationen zu allen Teilnehmer\*innen (Soziodemografie, Haushaltszusammensetzung, Parteipräferenzen, bis zu 70 Erhebungswellen)
-- Zugang zu veröffentlichten GIP-Daten über das GESIS-Datenarchiv im Rahmen einer separaten Datennutzungsvereinbarung
-- Möglichkeit zum [On-Site Data Access](https://www.uni-mannheim.de/gip/gip-daten-nutzen/on-site-data-access/) für besonders sensitive Daten
+Von allen Teilnehmer\*innen liegen umfangreiche Hintergrundinformationen vor (z. B. Soziodemografie, Haushaltszusammensetzung, Parteipräferenzen, Wahlabsicht). Je nach Stichprobe und Veröffentlichung können bis zu 70 Erhebungswellen über 5–11 Jahre verknüpft werden. Zugang zu bereits veröffentlichten Befragungsdaten aus dem GIP erfolgt über eine Datennutzungsvereinbarung mit dem GESIS-Datenarchiv. Besonders sensitive und schützenswerte Daten können vor Ort im Data Cube genutzt werden.
 
-## Soziodemografische Variablen
+## Standardmäßig verfügbare soziodemografische Variablen
 
 Jedem GIP-Datensatz wird der aktuelle Stand eines Standardrepertoires soziodemografischer Variablen (Alter, Geschlecht, Haushaltsgröße, Bundesland, Schul- und Berufsabschluss, Erwerbsstatus etc.) hinzugefügt.
 
 ## Datenschutz
 
-- Vor Veröffentlichung als Scientific Use Files: Prüfung auf datenschutzrelevante Merkmale, Vergröberung, Pseudonymisierung oder Entfernung identifizierender Merkmale
-- Einige differenzierte Informationen und Paradaten werden aus Datenschutzgründen nicht veröffentlicht, sondern stehen nur im Rahmen des [On-Site Data Access](https://www.uni-mannheim.de/gip/gip-daten-nutzen/on-site-data-access/) zur Verfügung
+Vor Veröffentlichung als Scientific Use Files werden die Daten auf datenschutzrelevante Merkmale überprüft. Identifizierende Merkmale werden vergröbert, pseudonymisiert oder entfernt. Einige differenzierte Informationen und Paradaten werden aus Datenschutzgründen nicht im GESIS-Datenarchiv veröffentlicht. Für diese Daten ist ein [On-Site Data Access](https://www.uni-mannheim.de/gip/gip-daten-nutzen/on-site-data-access/) im Data Cube möglich.
 
 ## Vorteile des GIP
 
 - Längstes Online-Panel in Deutschland auf Basis einer Zufallsstichprobe der Allgemeinbevölkerung
-- Ideal für Forschung mit Anspruch auf repräsentative Bevölkerungsabbildung
-- Offline-Rekrutierung der Panelist\*innen mit strengen statistischen Verfahren
-- Ermöglicht hochwertige Quer- und Längsschnittforschung sowie randomisierte Experimente
-- Schnelle Reaktion auf aktuelle Ereignisse durch kurzfristige Erhebungen
-- Umfangreiche Hintergrunddaten und Verknüpfungsmöglichkeiten über viele Erhebungswellen
-- Open Science: Alle Wellen als Scientific Use Files im GESIS-Datenarchiv, inkl. Dokumentation
-- Keine zusätzlichen Gebühren für Fragesteller\*innen bei GESIS
-
-## Vorteile für Forschende der Universität Mannheim
-
-- Etablierte Forschungsinfrastruktur seit 2012 mit effizienten Prozessen
-- Keine Vergabeverfahren für universitätsinterne Projekte
-- Unterstützung bei Integration und Kostenklärung
+- Ideal für Forschung mit repräsentativer Abbildung der Bevölkerung
+- Offline-Rekrutierung der Panel-Teilnehmer\*innen mit strengen statistischen Verfahren
+- Ermöglicht Quer- und Längsschnittforschung sowie randomisierte Experimente
+- Schnelle Reaktion auf aktuelle Ereignisse durch kurzfristige Datenerhebung
+- Umfangreiche Hintergrundinformationen und Verknüpfung mit früheren Wellen möglich
+- Open Science Standards: Alle Erhebungswellen als Scientific Use Files mit Dokumentation im GESIS-Datenarchiv
+- Für Forschende der Universität Mannheim: Etablierte Prozesse, keine Vergabeverfahren notwendig
 
 ## Kontakt
 

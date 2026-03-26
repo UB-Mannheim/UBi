@@ -9,50 +9,75 @@ language: de
 
 # Services der Universitätsbibliothek Mannheim
 
-Informieren Sie sich über die vielfältigen Services der Universitätsbibliothek Mannheim. Hier finden Sie Angebote rund um Bibliotheksausweis, Arbeitsplätze, Internetzugang, Drucken, Kopieren und Scannen, Kurse und Tutorials, Schreibberatung sowie Literaturverwaltungsprogramme.
+Die Universitätsbibliothek Mannheim bietet eine Vielzahl von Services rund um die Nutzung der Bibliothek und die Unterstützung beim wissenschaftlichen Arbeiten. Im Folgenden finden Sie eine Übersicht der wichtigsten Angebote:
 
 ## Bibliotheksausweis
 
-Erfahren Sie, wie Sie sich anmelden und welche Services der UB Sie nutzen können. Informationen stehen bereit für Angehörige der Universität Mannheim, kooperierender Einrichtungen und Privatpersonen.
+Erfahren Sie, wie Sie sich anmelden und welche Services der Universitätsbibliothek Sie nutzen können. Informationen stehen bereit für:
+
+- Angehörige der Universität Mannheim
+- Angehörige kooperierender Einrichtungen
+- Privatpersonen
 
 Weitere Informationen: [Bibliotheksausweis](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/)
 
 ## Arbeitsplätze
 
-Die UB bietet Einzel- und Gruppenarbeitsplätze, Informationen zur Belegung, technische Ausstattung, Schulungsräume, Sonderleseplätze und Schließfächer.
+Die Bibliothek stellt verschiedene Arbeitsplätze zur Verfügung:
+
+- Einzel- und Gruppenarbeitsplätze
+- Belegung und Reservierungsmöglichkeiten
+- Technische Ausstattung
+- Schulungsräume
+- Sonderleseplätze
+- Schließfächer
 
 Weitere Informationen: [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
 
 ## Internetzugang
 
-Nutzen Sie das WLAN-Netz eduroam, den VPN-Client und erhalten Sie weiterführende Informationen der Universitäts-IT.
+Zugang zum Internet in der Bibliothek:
+
+- WLAN-Netz eduroam
+- VPN-Client
+- Informationen der Universitäts-IT
 
 Weitere Informationen: [Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/)
 
 ## Drucken, Kopieren und Scannen
 
-Drucken Sie von Benutzer-PCs der UB oder von mobilen Geräten, verwalten Sie Ihr virtuelles Druckkonto und finden Sie Anleitungen zum Drucken, Kopieren und Scannen.
+Nutzungsmöglichkeiten für Druck- und Kopierdienste:
+
+- Drucken von Benutzer-PCs der UB und von mobilen Geräten
+- Verwaltung des virtuellen Druckkontos
+- Anleitungen zum Drucken, Kopieren und Scannen
 
 Weitere Informationen: [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
 
 ## Kurse und Tutorials
 
-Die UB bietet verschiedene Kurse, die Kursreihe Study Skills, Führungen, Tutorials und spezielle Angebote für Schulen.
+Die Bibliothek bietet ein breites Kursangebot:
+
+- Allgemeine Kurse
+- Kursreihe Study Skills
+- Führungen
+- Tutorials
+- Angebote für Schulen
 
 Weitere Informationen: [Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 
 ## Schreibberatung
 
-Das Team der Schreibberatung unterstützt Sie bei allen Fragen zu Ihrem Schreibprojekt – von der Themenfindung bis zur Endüberarbeitung.
+Das Team der Schreibberatung unterstützt bei allen Fragen rund um das wissenschaftliche Schreiben:
+
+- Unterstützung von der Themenfindung bis zur Endüberarbeitung
 
 Weitere Informationen: [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 
 ## Literaturverwaltungsprogramme
 
-Erhalten Sie Informationen, Beratung und Kurse zu Literaturverwaltungsprogrammen wie Zotero.
+Informationen und Beratung zu Literaturverwaltungsprogrammen:
+
+- Beratung und Kurse zu Zotero
 
 Weitere Informationen: [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
-
-## KI-Chatbot
-
-Nutzen Sie den [KI-Chatbot](https://chat.bib.uni-mannheim.de/) für schnelle Hilfe und Auskünfte zu den Services der Universitätsbibliothek.

@@ -81,4 +81,3 @@ Erkunden Sie unsere digitalen Sammlungen – von Alten Drucken bis zu Statistisc
 Weitere Kataloge
 Kataloge der Universität Mannheim und weiterer Mannheimer Einrichtungen, regionale und überregionale Bibliothekskataloge
 
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

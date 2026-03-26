@@ -3,7 +3,7 @@ title: MADATA – Forschungsdatenserver der Universität Mannheim: Nutzung, Zuga
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/madata/
 category: Services
-tags: ['Forschungsdaten', 'Datenserver', 'MADATA', 'DOI', 'FAIR-Prinzipien', 'Universität Mannheim', 'FDZ', 'Datenpublikation']
+tags: ['Forschungsdaten', 'MADATA', 'Datenserver', 'DOI', 'FAIR-Prinzipien', 'Universität Mannheim', 'FDZ', 'Datenpublikation']
 language: de
 ---
 
@@ -16,9 +16,9 @@ language: de
 - Die Nutzung ist je nach Datensatz individuell geregelt.
 - Eintragungen sind nur für Forschende der Universität Mannheim möglich.
 - MADATA-Beiträge werden auf FAIRness (Findability, Accessibility, Interoperability and Reproducibility) geprüft, bevor dem Datensatz ein DOI zugewiesen wird. Diese Prüfung ist in der Regel innerhalb von 5 Arbeitstagen abgeschlossen.
-- Für eine frühere DOI-Zuweisung kontaktieren Sie bitte das Team unter [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de).
+- Für eine frühere DOI-Zuweisung kontaktieren Sie das Forschungsdatenzentrum per E-Mail.
 
-**Zur Ressource:** [https://madata.bib.uni-mannheim.de/](https://madata.bib.uni-mannheim.de/)
+[Zur Ressource MADATA](https://madata.bib.uni-mannheim.de/)
 
 ## Kontakt
 

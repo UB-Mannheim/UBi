@@ -3,7 +3,7 @@ title: OCR-D: Workflow für werkspezifisches Training und Ground-Truth-Aufwertun
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/ocr-d-modelltraining/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/ocr-d-modelltraining/
 category: Projekte
-tags: ['OCR-D', 'Volltexterkennung', 'Digitalisierung', 'Ground Truth', 'Modelltraining', 'DFG-Projekt', 'Bibliothek', 'KI']
+tags: ['OCR-D', 'Volltexterkennung', 'Digitalisierung', 'Ground Truth', 'Modelltraining', 'DFG-Projekt', 'Bibliotheksprojekte', 'Texterkennung']
 language: de
 ---
 
@@ -23,7 +23,4 @@ Mit Hilfe generischer Modelle, die bereits mit unterschiedlichen Sprachen und Sc
 
 Ziel des Projektes ist es, dass Einrichtungen unterschiedlicher Größe möglichst einfach die Module des OCR-D-Workflows nachtrainieren können, sodass bessere Erkennungsraten für spezifische Werke erreicht werden. Die Anwender sollen dabei durch softwaretechnische Werkzeuge Anleitungen erhalten und durch Best-Practice-Empfehlungen unterstützt werden. Außerdem wird ein zentrales und öffentliches Modellrepositorium erstellt, um die Auffindbarkeit der Modelle zu gewährleisten.
 
-Weitere Informationen:
-
-- [Projektseite DFG](https://gepris.dfg.de/gepris/projekt/460547474?context=projekt&task=showDetail&id=460547474&)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+Weitere Informationen: [Projektseite DFG](https://gepris.dfg.de/gepris/projekt/460547474?context=projekt&task=showDetail&id=460547474&)

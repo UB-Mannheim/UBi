@@ -9,7 +9,7 @@ language: de
 
 # Volkswirtschaftslehre – Fachliche Recherche und Services
 
-Für das Fach Volkswirtschaftslehre bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Recherchezugänge. Sie können an Kursen teilnehmen oder individuelle Beratung erhalten, um Ihre Recherchefähigkeiten zu verbessern und Unterstützung beim wissenschaftlichen Arbeiten zu bekommen.
+Für das Fach Volkswirtschaftslehre bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Recherchezugänge. Sie können an Kursen teilnehmen oder individuelle Beratung erhalten, um Ihre Recherchefähigkeiten zu vertiefen und Unterstützung beim wissenschaftlichen Arbeiten zu bekommen.
 
 ## Recherchieren
 
@@ -56,7 +56,7 @@ E-Journals für Volkswirtschaftslehre finden Sie in der [Elektronischen Zeitschr
 ### E-Books
 
 Lizenzierte E-Books im Fach Wirtschaftswissenschaften finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
-Informationen zu Nutzungsbedingungen: [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Mehr Informationen zu den Nutzungsbedingungen: [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -79,7 +79,7 @@ Einführungen und Hilfen:
 - Repositorien-Suche: [re3data](http://www.re3data.org/)
 - Internationale Datensatzsuche: [DataCite](http://search.datacite.org/)
 - An der Universität Mannheim: [MADATA](https://madata.bib.uni-mannheim.de/)
-- Für Wirtschafts- und Sozialwissenschaften: [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home)
+- Für Wirtschafts- und Sozialwissenschaften: [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) von GESIS
 
 ### Fachliche Internetquellen
 
@@ -102,7 +102,7 @@ Einführungen und Hilfen:
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) (Hasso-Plattner-Bibliothek) finden Sie Literatur zum Fach Volkswirtschaftslehre, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal möglich.
+- Im [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) (Hasso-Plattner-Bibliothek) finden Sie Literatur zum Fach Volkswirtschaftslehre, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
 - Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Volkswirtschaftslehre, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
 - In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
 - Die gesamte Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
@@ -115,7 +115,7 @@ Einführungen und Hilfen:
 ### Journal Ranking
 
 - Rankings in den [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359) mit jährlich neu berechneten „Impact Factors“. Fächer wie Economics über „Select Categories“ auswählen.
-- Umfassendes Ranking von Personen und Fachbereichen: [Handelsblatt-Ranking](https://www.forschungsmonitoring.org/ranking/vwl/authors), basierend u.a. auf Publikationstätigkeit und dem [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817).
+- [Handelsblatt-Ranking](https://www.forschungsmonitoring.org/ranking/vwl/authors) für Personen und Fachbereiche, basierend u.a. auf Publikationstätigkeit und dem [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR) aus der Scopus-Datenbank.
 
 ## Kurse und Tutorials
 
@@ -156,4 +156,3 @@ Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 Telefon: +49 621 181-3753
 E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
 Vertretung: [Katharina Selzer](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/katharina-selzer/)
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)

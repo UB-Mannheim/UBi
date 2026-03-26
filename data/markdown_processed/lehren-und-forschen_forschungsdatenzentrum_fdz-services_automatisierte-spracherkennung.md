@@ -3,7 +3,7 @@ title: Automatisierte Spracherkennung mit whisply – Services des Forschungsdat
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-spracherkennung/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/automated-speech-recognition/
 category: Services
-tags: ['Spracherkennung', 'Transkription', 'Forschungsdatenzentrum', 'whisply', 'Audioverarbeitung', 'Untertitel', 'Beratung', 'Automatisierung']
+tags: ['Spracherkennung', 'Transkription', 'Forschungsdatenzentrum', 'whisply', 'Audio-to-Text', 'Untertitel', 'Datenverarbeitung', 'Beratung']
 language: de
 ---
 
@@ -11,7 +11,7 @@ language: de
 
 Durch automatisierte Transkription können Sprachinhalte aus gängigen Audio- und Videodateien in Textform extrahiert und anschließend weiterverarbeitet und genutzt werden. Das Forschungsdatenzentrum (FDZ) unterstützt Sie dabei im gesamten Workflow.
 
-Mit dem Tool [whisply](https://github.com/tsmdt/whisply), das auf [whisper](https://github.com/openai/whisper) basiert, können Sie über die Server der Universitätsbibliothek Mannheim auch große Datenmengen in kurzer Zeit bearbeiten und transkribieren. whisply ist sprachagnostisch und kann eine Vielzahl von Sprachen transkribieren.
+Mit dem Tool [whisply](https://github.com/tsmdt/whisply), das auf [whisper](https://github.com/openai/whisper) basiert, können Sie über die Server der Universitätsbibliothek Mannheim auch große Datenmengen in kurzer Zeit bearbeiten und transkribieren. Das Tool ist sprachagnostisch und kann eine Vielzahl von Sprachen transkribieren.
 
 **Funktionen von whisply:**
 

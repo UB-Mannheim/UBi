@@ -9,32 +9,29 @@ language: de
 
 # German Internet Panel (GIP)
 
-Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine langfristige Studie an der Universität Mannheim. Das GIP untersucht individuelle Einstellungen und Präferenzen, die in politischen und wirtschaftlichen Entscheidungsprozessen relevant sind. Seit 2012 werden regelmäßig in ganz Deutschland über 4.000 Personen zu verschiedensten Themen online befragt. Im November 2025 hat das German Internet Panel bereits seine 80. Befragungswelle erhoben.
+Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine langfristige Studie an der Universität Mannheim. Das GIP untersucht individuelle Einstellungen und Präferenzen, die in politischen und wirtschaftlichen Entscheidungsprozessen relevant sind. Seit 2012 werden regelmäßig in ganz Deutschland über 4.000 Personen zu verschiedensten Themen online befragt. Im November 2025 wurde bereits die 80. Befragungswelle durchgeführt.
 
-In den zweimonatlich stattfindenden GIP-Befragungen werden sowohl Forschungsfragen von Wissenschaftler*innen der Universität Mannheim als auch von externen Wissenschaftler*innen erhoben. Interessierte können das GIP nutzen, um Daten für eigene Forschungsarbeiten zu erheben. Kontaktieren Sie das GIP-Team, um zu besprechen, wie und wann die Fragen Ihres geplanten Projektes in das GIP integriert werden können und welche Kosten dafür anfallen.
-Weitere Informationen: [mehr Informationen](https://www.uni-mannheim.de/gip/fragen-im-gip-stellen/)
+Die zweimonatlich stattfindenden GIP-Befragungen beinhalten Forschungsfragen von Wissenschaftler\*innen der Universität Mannheim sowie von externen Forschenden. Interessierte können eigene Forschungsfragen in das GIP integrieren lassen. Die Integration und die anfallenden Kosten werden individuell besprochen.
+
+Weitere Informationen: [Fragen im GIP stellen](https://www.uni-mannheim.de/gip/fragen-im-gip-stellen/)
 
 ## Das GIP im Überblick
 
 ### [GIP-Daten nutzen](https://www.uni-mannheim.de/gip/gip-daten-nutzen/)
 
-Informationen zur Datennutzung und zum Datenzugang.
+Informationen zur Datennutzung und zum Zugang zu den GIP-Daten.
 
 ### [Fragen im GIP stellen](https://www.uni-mannheim.de/gip/fragen-im-gip-stellen/)
 
-Informationen zum weiteren Vorgehen für das Einbringen eigener Forschungsfragen.
+Informationen zum Vorgehen, um eigene Forschungsfragen im GIP zu platzieren.
 
 ### [Ergebnisse mit dem GIP](https://www.uni-mannheim.de/gip/ergebnisse-mit-dem-gip/)
 
-Publikationen und ausgewählte Ergebnisse der GIP-Befragungen.
+Publikationen und ausgewählte Ergebnisse aus den GIP-Befragungen.
 
 ### [Über uns](https://www.uni-mannheim.de/gip/ueber-uns/)
 
 Informationen zur Arbeit und zum Team des GIP.
-
-## Aktuelles
-
-(Aktuelle Informationen werden auf der Website bereitgestellt.)
 
 ## Kontakt
 

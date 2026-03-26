@@ -28,6 +28,5 @@ Den gesamten Bestand der Filme auf DVD finden Sie, indem Sie bei**„Erweiterte 
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, A 3, 6–8, 68159 Mannheim
 - Telefon: +49 621 181-3111
-- E-Mail: a3.ub@uni-mannheim.de
+- E-Mail: a3.ubuni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

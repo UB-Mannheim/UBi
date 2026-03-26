@@ -59,7 +59,7 @@ Sie haben Fragen zum Projekt? Sprechen Sie uns gerne an.
 Wissenschaftliche Mitarbeiterin Provenienzforschung
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-3365
-- E-Mail: ellen.wendel@uni-mannheim.de
+- E-Mail: ellen.wendeluni-mannheim.de
 
 
 ## Projektorganisation
@@ -71,5 +71,4 @@ Wissenschaftliche Mitarbeiterin Provenienzforschung
 Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
-- E-Mail: viktor.boecking@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- E-Mail: viktor.boeckinguni-mannheim.de

@@ -10,7 +10,7 @@
 Stellvertretende Direktorin der Universitätsbibliothek | Leiterin der Abteilung Medienbearbeitung
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 279, 68161 Mannheim
 - Telefon: +49 621 181-2975
-- E-Mail: annette.klein@uni-mannheim.de
+- E-Mail: annette.kleinuni-mannheim.de
 - ORCID-ID: 0000-0001-8825-6446 (https://orcid.org/0000-0001-8825-6446)
 
 
@@ -26,7 +26,7 @@ Aufgaben:
 - Unterstützung bei urheberrechtlichen Fragen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
 - Telefon: +49 621 181-3024
-- E-Mail: marion.francken-welz@uni-mannheim.de
+- E-Mail: marion.francken-welzuni-mannheim.de
 
 
 ### Barbara Dreisiebner
@@ -34,7 +34,7 @@ Aufgaben:
 Sachgebietsleiterin Medienbearbeitung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/, 108, 68159 Mannheim
 - Telefon: +49 621 181-2989
-- E-Mail: e-medien.ub@uni-mannheim.de
+- E-Mail: e-medien.ubuni-mannheim.de
 
 
 ### Imme Surkamp
@@ -42,5 +42,4 @@ Sachgebietsleiterin Medienbearbeitung
 Dissertationen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 286, 68161 Mannheim
 - Telefon: +49 621 181-2933
-- E-Mail: diss.ub@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- E-Mail: diss.ubuni-mannheim.de

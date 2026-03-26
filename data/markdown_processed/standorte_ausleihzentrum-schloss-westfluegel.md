@@ -1,9 +1,9 @@
 ---
-title: Ausleihzentrum Schloss Westflügel – Zentrale Ausleihe und Fernleihe der Universitätsbibliothek Mannheim
+title: Ausleihzentrum Schloss Westflügel – Zentrale Ausleihe, Fernleihe und Services der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/central-lending-library-schloss-westfluegel/
 category: Standorte
-tags: ['Ausleihe', 'Fernleihe', 'Lehrbücher', 'Öffnungszeiten', 'Arbeitsplätze', 'Rückgabe', 'Service', 'Universitätsbibliothek']
+tags: ['Ausleihzentrum', 'Fernleihe', 'Lehrbuchsammlung', 'Öffnungszeiten', 'Arbeitsplätze', 'Serviceangebot', 'Rückgabe', 'Universitätsbibliothek']
 language: de
 ---
 
@@ -11,7 +11,7 @@ language: de
 
 Das Ausleihzentrum Schloss Westflügel ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Ausleihen und Fernleihen. Studierende der Universität Mannheim sowie Angehörige kooperierender Einrichtungen können hier die wichtigsten Lehrbücher ausleihen.
 
-Sie entnehmen die gewünschten Bücher aus dem Regal und buchen sie an den Selbstverbuchern auf Ihr Konto. Bestellte oder vorgemerkte Medien finden Sie im Abholraum. Fernleihen werden an der Infotheke ausgegeben.
+Sie entnehmen die gewünschten Bücher direkt aus dem Regal und buchen sie an den Selbstverbuchern auf Ihr Konto. Bestellte oder vorgemerkte Medien stehen im Abholraum zur Verfügung. Fernleihen erhalten Sie an der Infotheke.
 
 Weitere Informationen zur Ausleihe finden Sie unter: [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/)
 
@@ -45,29 +45,24 @@ E-Mail: [ausleihe.ub@uni-mannheim.de](mailto:ausleihe.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-#### Teamleitung Ausleihe und Fernleihe
+#### Teamleitung
 
-**Michael Wagner**
-Teamleiter Ausleihe und Fernleihe
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 047, 68161 Mannheim
+##### Michael Wagner
+
+**Teamleiter Ausleihe und Fernleihe**
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum S 047
+68161 Mannheim
 Telefon: +49 621 181-3166
 E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
 
-**Stephanie Pellkofer**
-Stellvertretende Teamleiterin Ausleihe und Fernleihe
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 063, 68161 Mannheim
+##### Stephanie Pellkofer
+
+**Stellvertretende Teamleiterin Ausleihe und Fernleihe**
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum S 063
+68161 Mannheim
 Telefon: +49 621 181-2720
 E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
-**Zuständigkeitsbereich:**
-
-- Ausleihe
-- Fernleihe
-
-**Kontakt für alle Anfragen rund um Ausleihe und Fernleihe:**
-[westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
-Telefon: +49 621 181-3166 (Teamleitung), +49 621 181-2720 (Stellvertretung)
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West, 68161 Mannheim
-
-Weitere Informationen und digitale Unterstützung erhalten Sie über den [KI-Chatbot](https://chat.bib.uni-mannheim.de/).
+Weitere Informationen finden Sie auf der [Webseite der Ausleihe und Fernleihe](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/ausleihe-und-fernleihe/).

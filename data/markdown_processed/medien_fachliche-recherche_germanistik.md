@@ -9,13 +9,13 @@ language: de
 
 # Germanistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Germanistik ein breites Spektrum an Literatur, Datenbanken und Rechercheeinstiegen. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, die beim wissenschaftlichen Arbeiten und der Recherche im Fachgebiet unterstützen.
+Die Universitätsbibliothek Mannheim bietet für das Fach Germanistik umfangreiche Literatur, Datenbanken und Rechercheeinstiege. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
 
 ## Recherchieren
 
 ### Datenbanken
 
-- [Datenbanken zur Germanistik](https://dbis.ur.de/UBMAN/browse/subjects/16/) und zu anderen Fachgebieten im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/)
+- [Datenbanken zur Germanistik](https://dbis.ur.de/UBMAN/browse/subjects/16/) sowie zu weiteren Fachgebieten über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/)
 - [Fachinformationsdienst Allgemeine und Vergleichende Literaturwissenschaft (FID AVL)](https://www.avldigital.de/de/recherchieren/)
 - [Fachinformationsdienst Linguistik](https://www.linguistik.de/de/)
 
@@ -25,7 +25,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Germanistik ein breite
 
 ### E-Books
 
-Die Universitätsbibliothek bietet ein umfangreiches E-Book-Angebot für alle Fachgebiete, einschließlich Germanistik. Die E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Universitätsnetz zugänglich. Weitere Informationen: [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließlich Germanistik. Die E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Netz der Universität Mannheim zugänglich. Weitere Informationen: [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -71,14 +71,14 @@ Die Universitätsbibliothek bietet ein umfangreiches E-Book-Angebot für alle Fa
 
 **Literaturblogs**
 
-- [literaturundfeuilleton.wordpress.com](https://literaturundfeuilleton.wordpress.com/)
-- [tell-review.de](https://tell-review.de/)
-- [kaffeehaussitzer.de](https://www.kaffeehaussitzer.de/)
-- [buchundwort.de](https://www.buchundwort.de)
-- [kulturgeschwaetz.wordpress.com](https://kulturgeschwaetz.wordpress.com/)
-- [nachtundtag.blog](https://nachtundtag.blog/)
-- [leseschatz.com](https://leseschatz.com/)
-- [buecherkaffee.de](https://buecherkaffee.de/)
+- [Literatur und Feuilleton](https://literaturundfeuilleton.wordpress.com/)
+- [Tell Review](https://tell-review.de/)
+- [Kaffeehaussitzer](https://www.kaffeehaussitzer.de/)
+- [Buch und Wort](https://www.buchundwort.de/)
+- [Kulturgeschwätz](https://kulturgeschwaetz.wordpress.com/)
+- [Nacht und Tag](https://nachtundtag.blog/)
+- [Leseschatz](https://leseschatz.com/)
+- [Bücherkaffee](https://buecherkaffee.de/)
 
 **Podcasts**
 
@@ -102,10 +102,10 @@ Die Universitätsbibliothek bietet ein umfangreiches E-Book-Angebot für alle Fa
 ### Literaturstandorte
 
 - Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zur Germanistik, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Germanistik, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- Die [Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bietet Studierenden die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe.
-- Die an der UB vorhandene Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
-- Das [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/) in Mannheim verfügt über einen herausragenden Bestand zur Linguistik. Die Literatur ist im [OPAC der Bibliothek des IDS](http://bib-server.ids-mannheim.de/) recherchierbar.
+- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Germanistik-Literatur, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
+- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
+- Die gesamte Literatur der UB ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+- Das [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/) in Mannheim bietet einen herausragenden Bestand zur Linguistik. Recherche im [OPAC der Bibliothek des IDS](http://bib-server.ids-mannheim.de/).
 
 ### Forschungseinrichtungen vor Ort
 
@@ -114,7 +114,7 @@ Die Universitätsbibliothek bietet ein umfangreiches E-Book-Angebot für alle Fa
 
 ## Kurse und Tutorials
 
-Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche in der Germanistik an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche in der Germanistik an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -123,7 +123,7 @@ Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche in der 
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt mit Schulungs- und Beratungsangeboten:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
@@ -132,8 +132,20 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
-Vertretung für Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
+**Fachreferent für:**
+
+- Allgemeines
+- Allgemeine Sprach- und Literaturwissenschaft
+- Anglistik/Amerikanistik
+- Germanistik
+- Philosophie
+
+**Vertretung für:**
+
+- Medien- und Kommunikationswissenschaft
+- Politikwissenschaft
+- Psychologie
+- Soziologie
 
 **Aufgaben:**
 
@@ -146,5 +158,5 @@ Vertretung für Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psy
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
-- Vertretung: [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+
+**Vertretung:** [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)

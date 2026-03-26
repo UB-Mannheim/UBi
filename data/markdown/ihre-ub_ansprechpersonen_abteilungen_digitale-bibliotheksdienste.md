@@ -16,7 +16,7 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 282, 68161 Mannheim
 - Telefon: +49 621 181-2946
-- E-Mail: stefan.weil@uni-mannheim.de
+- E-Mail: stefan.weiluni-mannheim.de
 - ORCID-ID: 0000-0002-0524-9898 (https://orcid.org/0000-0002-0524-9898)
 
 
@@ -32,7 +32,7 @@ Aufgaben:
 - Kurse
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 279, 68161 Mannheim
 - Telefon: +49 621 181-2965
-- E-Mail: joerg.mechnich@uni-mannheim.de
+- E-Mail: joerg.mechnichuni-mannheim.de
 - ORCID-ID: 0000-0002-6406-4906 (https://orcid.org/0000-0002-6406-4906)
 
 
@@ -41,5 +41,4 @@ Aufgaben:
 Sachgebietsleiterin Digitalisierung/Historische Sammlungen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2977
-- E-Mail: tuende.gottschling@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- E-Mail: tuende.gottschlinguni-mannheim.de

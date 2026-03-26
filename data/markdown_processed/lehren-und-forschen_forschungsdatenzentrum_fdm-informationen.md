@@ -1,15 +1,15 @@
 ---
-title: Informationen zum Forschungsdatenmanagement an der Universitätsbibliothek Mannheim – Angebote, Anlaufstellen und Kontakt
+title: Informationen zum Forschungsdatenmanagement an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/information-on-research-data-management/
 category: Services
-tags: ['Forschungsdatenmanagement', 'Forschungsdatenzentrum', 'Datenmanagementplan', 'Datenarchivierung', 'Datenspeicherung', 'Digital Humanities', 'Datenorganisation', 'Universitätsbibliothek']
+tags: ['Forschungsdatenmanagement', 'Forschungsdatenzentrum', 'Datenmanagementplan', 'Datenarchivierung', 'Datensicherheit', 'Digital Humanities', 'Datenorganisation', 'Publikationsservices']
 language: de
 ---
 
 # Informationen zum Forschungsdatenmanagement
 
-Die Universitätsbibliothek Mannheim bietet umfassende Informationen und Unterstützung zum Forschungsdatenmanagement (FDM). Innerhalb und außerhalb der Universität gibt es weitere Anlaufstellen rund um Forschungsdaten.
+Die Universitätsbibliothek Mannheim bietet umfassende Informationen und Unterstützung zum Forschungsdatenmanagement (FDM). Innerhalb und außerhalb der Universität gibt es zahlreiche Anlaufstellen rund um Forschungsdaten.
 
 ## Weiterführende Informationen und Angebote
 
@@ -21,9 +21,9 @@ Die Universitätsbibliothek Mannheim bietet umfassende Informationen und Unterst
 - [Datenarchivierung und -publikation](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenarchivierung-und-publikation/)
 - [Digital Humanities](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/)
 
-## Forschungsdatenzentrum (FDZ) – Kontakt
+## Forschungsdatenzentrum (FDZ)
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim ist zentrale Anlaufstelle für Fragen rund um das Forschungsdatenmanagement.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim ist zentrale Anlaufstelle für Fragen rund um das Forschungsdatenmanagement. Das Team unterstützt Forschende bei allen Aspekten des Umgangs mit Forschungsdaten, von der Planung über die Organisation bis zur Archivierung und Publikation.
 
 **Team:** Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 **Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim

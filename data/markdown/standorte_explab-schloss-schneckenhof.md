@@ -53,7 +53,7 @@ Der große Präsentationsmonitor mit optionalem Konferenzsystem ermöglicht hybr
 
 ## Raumbuchung
 
-Nutzen Sie für die Raumbuchung bitte die Online-Raumanfrage oder schreiben Sie uns eine E-Mail: explab.ub@uni-mannheim.de.
+Nutzen Sie für die Raumbuchung bitte die Online-Raumanfrage oder schreiben Sie uns eine E-Mail: explab.ubuni-mannheim.de.
 [Zum Belegungskalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/explab_emb.yml)
 
 
@@ -94,7 +94,7 @@ Das ExpLAB kann für Veranstaltungen innerhalb der Öffnungszeiten der Bibliothe
 
 ### Kann das ExpLAB auch am Wochenende oder an Feiertagen reserviert werden?
 
-Wenn Sie eine Veranstaltung am Wochenende oder an einem Feiertag planen, sprechen Sie uns bitte vorab an: explab.ub@uni-mannheim.de.
+Wenn Sie eine Veranstaltung am Wochenende oder an einem Feiertag planen, sprechen Sie uns bitte vorab an: explab.ubuni-mannheim.de.
 
 
 ### Ist es möglich, bei einer Veranstaltung im ExpLAB Catering anzubieten?
@@ -106,7 +106,7 @@ Während einer Veranstaltung kann im ExpLAB Catering angeboten werden. Die Organ
 
 Für die eingeständige Nutzung steht folgende Ausstattung zur freien Verfügung: mobiler Clevertouchmonitor, Design-Thinking-Materialien, Whiteboards und Flipcharts. Der Präsentationsmonitor kann im Rahmen von Veranstaltungen (auch am Wochenende) genutzt werden; die Ausgabe der Fernbedienung nach Absprache vorab erfolgt am InfoCenter im Bibliotheksbereich Schloss Schneckenhof.
 Für die Nutzung des VR-Equipments ist eine [VR License](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/virtual-reality/#c367023) Voraussetzung.
-Sprechen Sie uns für die Nutzung der Eye-Tracking-Station direkt an: explab.ub@uni-mannheim.de.
+Sprechen Sie uns für die Nutzung der Eye-Tracking-Station direkt an: explab.ubuni-mannheim.de.
 
 
 ### Ist Essen und Trinken im ExpLAB erlaubt?
@@ -122,5 +122,4 @@ Wie in allen Bibliotheksbereichen ist das Essen im ExpLAB außerhalb von Veranst
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
 - Telefon: +49 621 181-2948
-- E-Mail: explab.ub@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- E-Mail: explab.ubuni-mannheim.de

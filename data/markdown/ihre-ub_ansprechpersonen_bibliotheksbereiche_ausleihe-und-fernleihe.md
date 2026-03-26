@@ -10,7 +10,7 @@
 Teamleiter Ausleihe und Fernleihe
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 047, 68161 Mannheim
 - Telefon: +49 621 181-3166
-- E-Mail: westfluegel.ub@uni-mannheim.de
+- E-Mail: westfluegel.ubuni-mannheim.de
 
 
 ### Stephanie Pellkofer
@@ -18,5 +18,4 @@ Teamleiter Ausleihe und Fernleihe
 Stellvertretende Teamleiterin Ausleihe und Fernleihe
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 063, 68161 Mannheim
 - Telefon: +49 621 181-2720
-- E-Mail: westfluegel.ub@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- E-Mail: westfluegel.ubuni-mannheim.de

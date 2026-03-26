@@ -144,6 +144,5 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 - Telefon: +49 621 181-3753
-- E-Mail: xiuwen.ye@uni-mannheim.de
+- E-Mail: xiuwen.yeuni-mannheim.de
 Vertretung[Katharina Selzer](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/katharina-selzer/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

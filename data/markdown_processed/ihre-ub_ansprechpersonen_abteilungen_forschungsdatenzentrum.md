@@ -1,17 +1,17 @@
 ---
-title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche der Universitätsbibliothek Mannheim
+title: Forschungsdatenzentrum der Universitätsbibliothek Mannheim – Team, Aufgaben und Kontaktinformationen
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Open Science', 'Data Science', 'Digital Humanities', 'Rechtsberatung', 'Data Literacy', 'Projektmanagement']
+tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Open Science', 'Data Science', 'Digital Humanities', 'Datenschutz', 'Beratung', 'Universitätsbibliothek']
 language: de
 ---
 
 # Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim. Das Team bietet Beratung, Schulungen und Unterstützung in verschiedenen Bereichen des Forschungsdatenmanagements, Data Science, Open Science, rechtlichen Fragestellungen und Digitalisierung.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und rechtliche Unterstützung im Bereich Forschungsdatenmanagement (FDM), Data Science, Open Science und Digitalisierung.
 
-## Ansprechpartner und Aufgabenbereiche
+## Team und Kontakt
 
 ### Dr. Irene Schumm
 
@@ -55,7 +55,7 @@ Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt 
 **Legal Counsel für BERD@NFDI und FDZ**
 
 - Unterstützung von Forschenden
-- Rechtliche Fragestellungen im FDM-Bereich
+- Rechtliche Fragestellungen im FDM Bereich
 - Themengebiete: Datenschutz, Urheberrecht und Lizenzrecht
 - BERD Datenschutzkonzept und Plattform Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
@@ -104,15 +104,7 @@ Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt 
 - Telefon: +49 621 181-2754
 - E-Mail: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
 - ORCID: [0009-0004-6220-8939](https://orcid.org/0009-0004-6220-8939)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
-## Themenschwerpunkte des Forschungsdatenzentrums
+______________________________________________________________________
 
-- Forschungsdatenmanagement (FDM) in den Sozialwissenschaften und Digital Humanities
-- Beratung und Schulungen zu Open Science und Data Literacy
-- Unterstützung bei rechtlichen Fragestellungen (Datenschutz, Urheberrecht, Lizenzrecht)
-- Entwicklung und Management von Projekten im Bereich Data Science, KI und Digitalisierung
-- Technischer Support und Softwareentwicklung für Content-Management-Systeme
-- Strategische Weiterentwicklung des Forschungsdatenmanagements an der Universitätsbibliothek Mannheim
-
-Für weitere Informationen oder individuelle Beratung wenden Sie sich bitte an die jeweiligen Ansprechpartner.
+Weitere Informationen zum Forschungsdatenzentrum finden Sie auf der [Webseite des FDZ](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/).

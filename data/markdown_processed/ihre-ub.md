@@ -3,11 +3,11 @@ title: Überblick und Angebote der Universitätsbibliothek Mannheim – Profil, 
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/
 category: Benutzung
-tags: ['Bibliotheksprofil', 'Serviceangebot', 'Projekte', 'Ausstellungen', 'Publikationen', 'Rechtliche Grundlagen', 'Stellenangebote', 'Kontakt']
+tags: ['Bibliotheksprofil', 'Serviceangebot', 'Projekte', 'Ausstellungen', 'Publikationen', 'Rechtliche Grundlagen', 'Ansprechpersonen', 'Stellenangebote']
 language: de
 ---
 
-# Ihre Universitätsbibliothek Mannheim
+# Ihre Universitätsbibliothek Mannheim – Überblick
 
 Wichtiges und Interessantes aus Ihrer Universitätsbibliothek: Informieren Sie sich über Stellenangebote, erfahren Sie alles zu Projekten und Ausstellungen der UB, oder finden Sie die Ansprechperson für Ihr Fach und für spezielle Fragen.
 
@@ -42,7 +42,3 @@ Wichtiges und Interessantes aus Ihrer Universitätsbibliothek: Informieren Sie s
 ## Rechtliche Grundlagen
 
 [Die Benutzungsordnung der UB, die Bibliotheksgebührenordnung und weitere rechtliche Grundlagen.](https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/)
-
-## Digitaler Service
-
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

@@ -130,7 +130,6 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
-- E-Mail: philipp.zumstein@uni-mannheim.de
+- E-Mail: philipp.zumsteinuni-mannheim.de
 - ORCID-ID: 0000-0002-6485-9434 (https://orcid.org/0000-0002-6485-9434)
 VertretungFachreferat für Mathematik und Informatik: [Stefan Weil](https://www.bib.uni-mannheim.de/stefan-weil/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

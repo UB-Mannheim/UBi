@@ -11,7 +11,7 @@ Koordinator und Projektmanager für BERD@NFDI
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim
 - Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 - Telefon: +49 621 181-2776
-- E-Mail: ulrich.krieger@uni-mannheim.de
+- E-Mail: ulrich.kriegeruni-mannheim.de
 
 
 ### Dr. Regina Jutz
@@ -20,7 +20,7 @@ Projektmanagerin für BERD@NFDI
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim
 - Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 - Telefon: +49 621 181-2717
-- E-Mail: regina.jutz@uni-mannheim.de
+- E-Mail: regina.jutzuni-mannheim.de
 
 
 ### Dr. Renat Shigapov
@@ -35,7 +35,7 @@ Aufgaben:
 - Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
-- E-Mail: renat.shigapov@uni-mannheim.de
+- E-Mail: renat.shigapovuni-mannheim.de
 - ORCID-ID: 0000-0002-0331-2558 (https://orcid.org/0000-0002-0331-2558)
 
 
@@ -51,7 +51,7 @@ Aufgaben:
 - BERD Datenschutzkonzept und Plattform Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
-- E-Mail: vasilka.paunova@uni-mannheim.de
+- E-Mail: vasilka.paunovauni-mannheim.de
 
 
 ### Dr. Jorge Murcia Serra
@@ -68,7 +68,7 @@ Aufgaben:
 - Education & Training im ProjektBERD@NFDI
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
-- E-Mail: jorge.murcia@uni-mannheim.de
+- E-Mail: jorge.murciauni-mannheim.de
 
 
 ### Jan Kamlah
@@ -76,7 +76,7 @@ Aufgaben:
 Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2777
-- E-Mail: jan.kamlah@uni-mannheim.de
+- E-Mail: jan.kamlahuni-mannheim.de
 
 
 ### Ellis Kolb (keine/they/sie)
@@ -92,7 +92,7 @@ Aufgaben:
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
-- E-Mail: ellis.kolb@uni-mannheim.de
+- E-Mail: ellis.kolbuni-mannheim.de
 
 
 ### Thomas Schmidt, M.A.
@@ -100,6 +100,5 @@ Aufgaben:
 Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
-- E-Mail: thomas.schmidt@uni-mannheim.de
+- E-Mail: thomas.schmidtuni-mannheim.de
 - ORCID-ID: 0000-0003-3620-3355 (https://orcid.org/0000-0003-3620-3355)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

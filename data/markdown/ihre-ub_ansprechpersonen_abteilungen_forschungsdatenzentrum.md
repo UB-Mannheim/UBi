@@ -16,7 +16,7 @@ Aufgaben:
 - Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
 - Telefon: +49 621 181-2955
-- E-Mail: irene.schumm@uni-mannheim.de
+- E-Mail: irene.schummuni-mannheim.de
 - ORCID-ID: 0000-0002-0167-3683 (https://orcid.org/0000-0002-0167-3683)
 
 
@@ -25,7 +25,7 @@ Aufgaben:
 Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2777
-- E-Mail: jan.kamlah@uni-mannheim.de
+- E-Mail: jan.kamlahuni-mannheim.de
 
 
 ### Dr. Phil Kolbe
@@ -33,7 +33,7 @@ Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)
 Referent für Forschungsdatenmanagement (Sozialwissenschaften)
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
 - Telefon: +49 621 181-2936
-- E-Mail: phil.kolbe@uni-mannheim.de
+- E-Mail: phil.kolbeuni-mannheim.de
 - ORCID-ID: 0009-0009-7362-0781 (https://orcid.org/0009-0009-7362-0781)
 
 
@@ -42,7 +42,7 @@ Referent für Forschungsdatenmanagement (Sozialwissenschaften)
 Open Science Officer | Referent für Forschungsdatenmanagement (Sozialwissenschaften)
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: david.morgan@uni-mannheim.de
+- E-Mail: david.morganuni-mannheim.de
 - ORCID-ID: 0000-0001-8213-451X (https://orcid.org/0000-0001-8213-451X)
 
 
@@ -58,7 +58,7 @@ Aufgaben:
 - BERD Datenschutzkonzept und Plattform Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
-- E-Mail: vasilka.paunova@uni-mannheim.de
+- E-Mail: vasilka.paunovauni-mannheim.de
 
 
 ### Thomas Schmidt, M.A.
@@ -66,7 +66,7 @@ Aufgaben:
 Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
-- E-Mail: thomas.schmidt@uni-mannheim.de
+- E-Mail: thomas.schmidtuni-mannheim.de
 - ORCID-ID: 0000-0003-3620-3355 (https://orcid.org/0000-0003-3620-3355)
 
 
@@ -82,7 +82,7 @@ Aufgaben:
 - Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
-- E-Mail: renat.shigapov@uni-mannheim.de
+- E-Mail: renat.shigapovuni-mannheim.de
 - ORCID-ID: 0000-0002-0331-2558 (https://orcid.org/0000-0002-0331-2558)
 
 
@@ -97,7 +97,7 @@ Aufgaben:
 - Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
 - Telefon: +49 621 181-2962
-- E-Mail: christos.sidiropoulos@uni-mannheim.de
+- E-Mail: christos.sidiropoulosuni-mannheim.de
 - ORCID-ID: 0009-0001-3341-3149 (https://orcid.org/0009-0001-3341-3149)
 
 
@@ -106,6 +106,5 @@ Aufgaben:
 Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2754
-- E-Mail: larissa.will@uni-mannheim.de
+- E-Mail: larissa.willuni-mannheim.de
 - ORCID-ID: 0009-0004-6220-8939 (https://orcid.org/0009-0004-6220-8939)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

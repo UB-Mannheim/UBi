@@ -89,7 +89,7 @@ Für eine Veröffentlichung müssen Sie zuerst die üblichen Schritte zum Einrei
 
 - Ihr Artikel wird unter Open-Access-Bedingungen veröffentlicht.
 
-Bei Fragen unterstützen wir Sie gerne: publikationsdienste@uni-mannheim.de.
+Bei Fragen unterstützen wir Sie gerne: publikationsdiensteuni-mannheim.de.
 
 
 ### DEAL-Vertrag mit Wiley
@@ -120,7 +120,7 @@ Um diese Open-Access-Publikationsmöglichkeit zu nutzen, wählen Sie nach Annahm
 Als Lizenz empfehlen wir die Creative Commons Attribution License (CC-BY), die mit den Anforderungen vieler Forschungsförderer konform ist.
 **Mehr Informationen**
 [Open Access bei Wiley durch den DEAL-Vertrag](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/affiliation-policies-payments/german-projekt-deal-agreement.html)
-Bei Fragen unterstützen wir Sie gerne: publikationsdienste@uni-mannheim.de.
+Bei Fragen unterstützen wir Sie gerne: publikationsdiensteuni-mannheim.de.
 
 
 ### DEAL-Vertrag mit Springer Nature
@@ -153,7 +153,7 @@ Für Publikationen in reinen Open-Access-Zeitschriften können Sie zusätzlich e
 **Weitere Informationen**
 [Springer Nature Open-Access-Vereinbarung für Deutschland](https://www.springernature.com/gp/open-research/institutional-agreements/oaforgermany-de)
 [Zeitschriftenliste](https://keeper.mpdl.mpg.de/f/a6dc1e1ed4fc4becb194/?dl=1) (XLSX, 209 KB)
-Bei Fragen unterstützen wir Sie gerne: publikationsdienste@uni-mannheim.de.
+Bei Fragen unterstützen wir Sie gerne: publikationsdiensteuni-mannheim.de.
 
 
 ### Vertrag mit SAGE
@@ -225,7 +225,7 @@ Wenn Sie Artikel in Open-Access-Zeitschriften veröffentlichen, können Publikat
 ### Open-Access-Bücher
 
 Gebühren für Open Access Bücher, sogenannte Book Processing Charges (BPC), können teilweise seitens der Universitätsbibliothek anteilig gefördert werden.
-Wenden Sie sich gerne an uns, wenn Sie konkrete Buchprojekte planen und nach Finanzierungsmöglichkeiten für die Open-Access-Veröffentlichung suchen: publikationsdienste@uni-mannheim.de.
+Wenden Sie sich gerne an uns, wenn Sie konkrete Buchprojekte planen und nach Finanzierungsmöglichkeiten für die Open-Access-Veröffentlichung suchen: publikationsdiensteuni-mannheim.de.
 
 
 ### Publikationsserver MADOC
@@ -257,5 +257,4 @@ Aufgaben:
 - Konzipierung von Ausstellungen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
-- E-Mail: viktor.boecking@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- E-Mail: viktor.boeckinguni-mannheim.de

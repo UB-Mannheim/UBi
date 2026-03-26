@@ -134,4 +134,4 @@ Wenn wir Sie unterstützen können oder Sie Fragen haben, zögern Sie nicht uns 
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 - Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
-- E-Mail: forschungsdaten@uni-mannheim.de
+- E-Mail: forschungsdatenuni-mannheim.de

@@ -35,4 +35,3 @@ Alle Interessierten sind herzlich eingeladen. Entdecken Sie unser Programm!
 Kurse und Tutorials
 Alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials und Angebote für Schulen
 
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

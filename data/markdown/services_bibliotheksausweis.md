@@ -45,5 +45,4 @@ Bei Verlust oder Defekt Ihrer ecUM können Sie eine Ersatzkarte über das [Studi
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
 - Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
 - Telefon: +49 621 181-2948
-- E-Mail: info.ub@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- E-Mail: info.ubuni-mannheim.de

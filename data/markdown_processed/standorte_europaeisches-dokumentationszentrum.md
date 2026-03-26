@@ -3,7 +3,7 @@ title: Europäisches Dokumentationszentrum (EDZ) an der Universitätsbibliothek 
 source_url_de: https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/european-documentation-centre/
 category: Standorte
-tags: ['Europäische Union', 'EDZ', 'Informationsdienst', 'Datenbanken', 'Politikwissenschaft', 'Fachberatung', 'Sammlung', 'Publikationsservices']
+tags: ['Europäisches Dokumentationszentrum', 'EU-Informationen', 'Datenbanken', 'Politikwissenschaft', 'Sammlungen', 'Fachberatung', 'Publikationsservices', 'Open Science']
 language: de
 ---
 
@@ -17,11 +17,8 @@ Das Anfrageformular für die EDZ-Datenbank wird derzeit überarbeitet.
 
 - Recherchieren Sie den Bestand des EDZ Mannheim in der [EDZ-Datenbank (Stand: März 2023)](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/edz-datenbank/). Die Datenbank wird nicht mehr aktualisiert.
 - Der Printbestand des EDZ befindet sich im Bibliotheksbereich A5 im Untergeschoss.
-
-Weitere Informationen und Zugänge:
-
-- [Amtliche EU-Dokumente](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/amtliche-eu-dokumente/)
-- [Themenbezogene EU-Datenbanken](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/themenbezogene-eu-datenbanken/)
+- Weitere Informationen und Zugang zu amtlichen EU-Dokumenten: [Amtliche EU-Dokumente](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/amtliche-eu-dokumente/)
+- Informationen und Zugang zu themenbezogenen EU-Datenbanken: [Themenbezogene EU-Datenbanken](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/themenbezogene-eu-datenbanken/)
 
 ## Datenbanken der EU
 
@@ -29,7 +26,7 @@ Die EU-Einrichtungen bieten zahlreiche Datenbanken, auf die über das Datenbank-
 
 ## EDZ-Tutorial: EU-Informationsquellen und Datenbanken
 
-Im [EDZ-Tutorial: EU-Informationsquellen und Datenbanken](http://lernbar.uni-frankfurt.de/courses/2601/4186/index.html?id=0d8041b4284964e5831b267976b3338bc746a8) finden Sie einen Überblick zu relevanten Informationsquellen und Datenbanken der EU. Videotutorials zeigen, wie Sie in den einzelnen Datenbanken recherchieren können.
+Im [EDZ-Tutorial: EU-Informationsquellen und Datenbanken](http://lernbar.uni-frankfurt.de/courses/2601/4186/index.html?id=0d8041b4284964e5831b267976b3338bc746a8) finden Sie einen Überblick zu relevanten Informationsquellen und Datenbanken der EU und lernen durch Videotutorials, wie Sie in den einzelnen Datenbanken recherchieren können.
 
 ## Kontakt
 
@@ -37,7 +34,7 @@ Im [EDZ-Tutorial: EU-Informationsquellen und Datenbanken](http://lernbar.uni-fra
 
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
 
-**Aufgaben:**
+**Aufgabenbereiche:**
 
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
@@ -47,7 +44,8 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
 
-**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
-**Telefon:** +49 621 181-2990
-**E-Mail:** [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+**Kontakt:**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
+- Telefon: +49 621 181-2990
+- E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)

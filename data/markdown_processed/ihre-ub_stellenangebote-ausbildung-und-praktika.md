@@ -1,9 +1,9 @@
 ---
-title: Stellenangebote, Ausbildung und Praktika an der Universitätsbibliothek Mannheim – Übersicht und Kontakt
+title: Stellenangebote, Ausbildung und Praktika an der Universitätsbibliothek Mannheim – Übersicht zu Jobs, Ausbildungsmöglichkeiten und Praktika
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/job-offers-training-and-internships/
 category: Benutzung
-tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Fachangestellte', 'Bibliotheksdienst', 'Berufsorientierung', 'Kontakt', 'Universitätsbibliothek']
+tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Fachangestellte', 'Bibliotheksdienst', 'Berufsorientierung', 'Benutzungsdienste', 'Schulungen']
 language: de
 ---
 
@@ -70,4 +70,3 @@ Aufgaben:
 Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
 Telefon: +49 621 181-2920
 E-Mail: [jessica.kaiser@uni-mannheim.de](mailto:jessica.kaiser@uni-mannheim.de)
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)

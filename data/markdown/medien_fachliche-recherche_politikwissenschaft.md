@@ -155,11 +155,10 @@ Aufgaben:
 - Analysen im Bereich Bibliometrie
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
 - Telefon: +49 621 181-3388
-- E-Mail: hendrik.platte@uni-mannheim.de
+- E-Mail: hendrik.platteuni-mannheim.de
 - ORCID-ID: 0000-0001-7916-2659 (https://orcid.org/0000-0001-7916-2659)
 
 
 ## Vertretung
 
 [Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

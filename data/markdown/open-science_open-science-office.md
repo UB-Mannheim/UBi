@@ -63,7 +63,7 @@ The Open Science Office also works nationally and internationally for the Univer
 Open Science Officer | Referent für Forschungsdatenmanagement (Sozialwissenschaften)
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: david.morgan@uni-mannheim.de
+- E-Mail: david.morganuni-mannheim.de
 - ORCID-ID: 0000-0001-8213-451X (https://orcid.org/0000-0001-8213-451X)
 
 
@@ -72,7 +72,7 @@ Open Science Officer | Referent für Forschungsdatenmanagement (Sozialwissenscha
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: hendrik.platte@uni-mannheim.de
+- E-Mail: hendrik.platteuni-mannheim.de
 
 
 ### Dr. Philipp Zumstein
@@ -80,5 +80,5 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 Open-Access-Beauftragter der Universität Mannheim
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
-- E-Mail: philipp.zumstein@uni-mannheim.de
+- E-Mail: philipp.zumsteinuni-mannheim.de
 - ORCID-ID: 0000-0002-6485-9434 (https://orcid.org/0000-0002-6485-9434)

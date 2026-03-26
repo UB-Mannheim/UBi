@@ -3,7 +3,7 @@ title: Standorte der Universitätsbibliothek Mannheim – Übersicht und Angebot
 source_url_de: https://www.bib.uni-mannheim.de/standorte/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/
 category: Standorte
-tags: ['Standorte', 'Arbeitsplätze', 'Ausleihe', 'Lernräume', 'Bibliotheksbereiche', 'Gruppenarbeit', 'Serviceangebote', 'Medien']
+tags: ['Bibliotheksstandorte', 'Arbeitsplätze', 'Ausleihe', 'Lernräume', 'Fachbereiche', 'Gruppenarbeit', 'Medien', 'Serviceangebote']
 language: de
 ---
 
@@ -11,52 +11,52 @@ language: de
 
 Wo finde ich was? Arbeitsplätze, erste Infos, Gruppenarbeit, Ausleihe oder Lernen in den Bibliotheksbereichen: alle Standorte der Universitätsbibliothek auf einen Blick.
 
-## Übersicht der Standorte und Angebote
+## Freie Sitzplätze
 
-### [Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzplaetze/)
-
+[Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzplaetze/)
 Die Ampel zeigt Ihnen, wo es freie Arbeitsplätze gibt.
 
-### [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/)
+## InfoCenter
 
+[InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/)
 Ihre zentrale Anlaufstelle für Auskunft und Beratung.
 
-### [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/)
+## Ausleihzentrum Schloss Westflügel
 
+[Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/)
 Ausleihe, Lehrbuchsammlung und Fernleihe.
 
-### [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/)
+## Bibliotheksbereich A3
 
-- Sprach- und Literaturwissenschaften
-- Medien- und Kommunikationswissenschaften
-- Pädagogik, Philosophie, Psychologie und Theologie
-- Mediathek, Testothek und Testlabor Psychologie
-- Ausstellungen
+[Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/)
+Sprach- und Literaturwissenschaften, Medien- und Kommunikationswissenschaften, Pädagogik, Philosophie, Psychologie und Theologie.
+Mediathek, Testothek und Testlabor Psychologie.
+Ausstellungen.
 
-### [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/)
+## Bibliotheksbereich A5
 
-- Soziologie
-- Politikwissenschaft
-- Mathematik und Informatik
-- EDZMZES
+[Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/)
+Soziologie, Politikwissenschaft, Mathematik und Informatik.
+EDZMZES.
 
-### [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/)
+## Bibliotheksbereich Schloss Ehrenhof
 
-- Rechtswissenschaft
-- Volkswirtschaftslehre und Geschichte
-- Ernst & Young Bibliothek für Accounting, Business Taxation and Tax Law
-- Schulungsraum
+[Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/)
+Rechtswissenschaft, Volkswirtschaftslehre und Geschichte.
+Ernst & Young Bibliothek für Accounting, Business Taxation and Tax Law.
+Schulungsraum.
 
-### [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/)
+## Bibliotheksbereich Schloss Schneckenhof
 
-- Betriebswirtschaftslehre
+[Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/)
+Betriebswirtschaftslehre.
 
-### [Learning Center Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/)
+## Learning Center Schloss Schneckenhof
 
+[Learning Center Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/)
 Gruppenarbeit und Lounge.
 
-### [ExpLAB Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/)
+## ExpLAB Schloss Schneckenhof
 
+[ExpLAB Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/)
 Kreatives Lernen und Arbeiten, Virtual Reality, Eye Tracking und Design Thinking.
-
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

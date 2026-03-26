@@ -34,6 +34,5 @@ Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/me
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
 - Telefon: +49 621 181-3005
-- E-Mail: schneckenhof.ub@uni-mannheim.de
+- E-Mail: schneckenhof.ubuni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

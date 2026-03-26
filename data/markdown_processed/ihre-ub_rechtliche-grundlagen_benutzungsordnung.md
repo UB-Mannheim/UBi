@@ -1,13 +1,13 @@
 ---
-title: Benutzungsordnung der Universitätsbibliothek Mannheim (Stand: 6. November 2009) – Regelungen zur Nutzung, Ausleihe und Services
+title: Benutzungsordnung der Universitätsbibliothek Mannheim (Stand: 6. November 2009) – Rechte, Pflichten und Regelungen zur Bibliotheksnutzung
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/benutzungsordnung/
 source_url_en: https://www.bib.uni-mannheim.de/en/
 category: Benutzung
-tags: ['Benutzungsordnung', 'Nutzungsbedingungen', 'Ausleihe', 'Gebühren', 'Bibliotheksservices', 'Informationskompetenz', 'Rechtliche Grundlagen', 'Universitätsbibliothek']
+tags: ['Benutzungsordnung', 'Bibliotheksregeln', 'Ausleihe', 'Gebühren', 'Nutzungsbedingungen', 'Fernleihe', 'Informationskompetenz', 'Rechtliche Grundlagen']
 language: de
 ---
 
-# Benutzungsordnung der Universitätsbibliothek Mannheim
+# Benutzungsordnung der Universitätsbibliothek Mannheim vom 6. November 2009
 
 [Benutzungsordnung der Universitätsbibliothek Mannheim (PDF, 8,08 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Benutzungsordnung/Benutzungsordnung_der_Universitaetsbibliothek_Mannheim.pdf)
 
@@ -15,90 +15,81 @@ Aufgrund von § 19 Abs. 1 Satz 2 Nr.10 des Landshochschulgesetzes (LHG) hat der 
 
 ## Inhaltsverzeichnis
 
-- I Allgemeines
-- II Benutzung innerhalb der Bibliothek
-- III Benutzung außerhalb der Bibliothek
-- IV Sonstige Benutzung
+I. Allgemeines
+II. Benutzung innerhalb der Bibliothek
+III. Benutzung außerhalb der Bibliothek
+IV. Sonstige Benutzung
 
-## II Benutzung innerhalb der Bibliothek
+## II. Benutzung innerhalb der Bibliothek
 
-### § 12 Benutzung im Lesesaal Schloss Schneckenhof West
+**§ 12 Benutzung im Lesesaal Schloss Schneckenhof West**
 
-- Präsenzbestände und wertvolle/alte Bücher sind nur dort benutzbar.
-- Medien aus dem Magazin können zur Lesesaalnutzung bestellt werden.
-- Medien sind bei Verlassen des Lesesaals vorzuzeigen.
+- Präsenzbestände und wertvolle/alte Bücher sind nur im Lesesaal nutzbar.
+- Medien aus dem Magazin können zur Lesesaalnutzung bestellt werden; Rückgabe am selben Tag.
+- Beim Verlassen des Lesesaals sind alle Medien der Aufsicht vorzuzeigen.
 
-### § 13 Benutzung in den Bereichen A3, A5, BWL, Schloss Ehrenhof
+**§ 13 Benutzung in den Bibliotheksbereichen A3, A5, BWL und Schloss Ehrenhof**
 
-- Medien sind grundsätzlich nur vor Ort benutzbar.
-- Nach Gebrauch sind Medien an den richtigen Standort zurückzustellen.
-- Medien sind beim Verlassen vorzuzeigen.
+- Medien sind grundsätzlich nur vor Ort benutzbar und nach Gebrauch zurückzustellen.
+- Beim Verlassen sind alle Medien der Aufsicht vorzuzeigen.
 
-### § 14 Benutzung von Handschriften und Sonderbeständen
+**§ 14 Benutzung von Handschriften und Sonderbeständen**
 
-- Nutzung ist auf wissenschaftliche Zwecke beschränkt und nur an bestimmten Plätzen möglich.
-- Urheber- und persönlichkeitsrechtliche Bestimmungen sind zu beachten.
-- Reproduktionen sind bei der Bibliothek zu beantragen.
-- Nutzung kann aus konservatorischen Gründen eingeschränkt werden.
+- Nutzung ist auf wissenschaftliche Zwecke beschränkt und nur im Lesesaal oder Diensträumen möglich.
+- Urheber- und persönlichkeitsrechtliche Bestimmungen sind zu beachten; Reproduktionen sind bei der Bibliothek zu beauftragen.
+- Nutzung kann aus konservatorischen Gründen eingeschränkt oder verweigert werden.
 
-### § 15 Benutzung der Computerarbeitsplätze
+**§ 15 Benutzung der Computerarbeitsplätze**
 
-- Computerarbeitsplätze stehen in allen Bereichen zur Verfügung.
-- Nutzung darf nicht gegen Gesetze oder Sitten verstoßen.
+- Computerarbeitsplätze stehen in allen Bereichen zur Verfügung; Nutzung darf nicht gegen Gesetze oder Sitten verstoßen.
 - Anweisungen zur Nutzung sind einzuhalten; Manipulationen sind untersagt.
-- Haftung für Schäden durch unsachgemäße Nutzung.
-- Keine Haftung für Datenqualität oder Schäden durch Datenexport.
-- Verwaltungs- und Benutzungsordnung für Informationsverarbeitungssysteme der Universität Mannheim gilt ergänzend.
+- Benutzer haften für Schäden durch Manipulationen; Mängel sind unverzüglich zu melden.
+- Keine Haftung für Datenqualität, Virenfreiheit oder Folgen von Internetaktivitäten.
+- Es gilt ergänzend die Verwaltungs- und Benutzungsordnung für Informationsverarbeitungssysteme der Universität Mannheim.
 
-## IV Sonstige Benutzung
+## IV. Sonstige Benutzung
 
-### § 23 Auskunft und Information
+**§ 23 Auskunft und Information**
 
-- Bibliothek erteilt mündliche und schriftliche Auskünfte.
-- Kosten für weitergehende Informationsdienste sind zu ersetzen.
-- Keine Gewähr für Richtigkeit und Vollständigkeit.
-- Schätzung von Buchwerten gehört nicht zu den Aufgaben.
+- Die Bibliothek erteilt mündliche und schriftliche Auskünfte über ihr Informationsangebot.
+- Keine Gewähr für Richtigkeit und Vollständigkeit der Auskünfte.
+- Schätzung von Buch- und Handschriftenwerten gehört nicht zu den Aufgaben.
 
-### § 24 Benutzerführungen, Informationskompetenz
+**§ 24 Benutzerführungen, Informationskompetenz**
 
-- Bibliotheksführungen und Schulungen werden angeboten.
+- Bibliotheksführungen und Nutzerschulungen werden angeboten.
 - Veranstaltungen zur Informationskompetenz finden in Kooperation mit Lehrkräften statt.
-- Ankündigung erfolgt per Aushang und Internet; Anmeldung ist notwendig.
-- Individuelle Veranstaltungen ab fünf Personen auf Anfrage.
+- Führungen und Schulungen werden rechtzeitig bekannt gemacht; Anmeldung ist erforderlich.
+- Individuelle Veranstaltungen ab fünf Personen auf Anfrage möglich.
 
-### § 25 Technische Geräte
+**§ 25 Technische Geräte**
 
-- Bereitstellung von Scannern, Kopierern, Mikrofilmgeräten, PCs und weiteren Geräten.
-- Benutzer müssen sich vom ordnungsgemäßen Zustand überzeugen und Mängel melden.
-- Haftung für Schäden durch unsachgemäße Behandlung.
+- Dokumentenscanner, Kopiergeräte, Mikrofilm-/Mikrofichelesegeräte, Readerprinter, Geräte zur Wiedergabe von Tonträgern, PCs und weitere Geräte stehen zur Verfügung.
+- Benutzer müssen sich vom ordnungsgemäßen Zustand überzeugen und Mängel melden; für Schäden durch unsachgemäße Behandlung haftet der Benutzer.
 
-### § 26 Reproduktion
+**§ 26 Reproduktion**
 
-- Vervielfältigungen für den eigenen Gebrauch an geeigneten Geräten möglich.
-- Auf Antrag fertigt die Bibliothek Vervielfältigungen gegen Gebühr an.
+- Vervielfältigungen für den eigenen Gebrauch sind an geeigneten Geräten möglich.
+- Auf Antrag fertigt die Bibliothek Vervielfältigungen gegen Gebühr an, soweit zulässig und technisch möglich.
 - Bestimmte Medien können von der Vervielfältigung ausgeschlossen werden.
-- Aufnahmen aus wertvollen Beständen sind bei der Bibliothek zu beantragen.
-- Benutzer sind für die Einhaltung urheberrechtlicher Bestimmungen verantwortlich.
-- Gewerbliche Vervielfältigung bedarf gesonderter Vereinbarung.
+- Aufnahmen aus wertvollen Beständen sind grundsätzlich bei der Bibliothek zu beauftragen.
+- Benutzer sind für die Einhaltung urheber- und persönlichkeitsrechtlicher Bestimmungen verantwortlich.
+- Gewerbliche oder umfangreiche Vervielfältigung bedarf gesonderter Vereinbarung.
 - Gebühren richten sich nach der Gebührenordnung.
 
-### § 27 Ausschluss von der Benutzung
+**§ 27 Ausschluss von der Benutzung**
 
-- Bei schwerwiegenden oder wiederholten Verstößen kann der Benutzer ausgeschlossen werden.
-- Widerspruch gegen den Ausschluss ist innerhalb eines Monats möglich.
+- Bei schwerwiegenden oder wiederholten Verstößen kann der Benutzer vorübergehend oder dauerhaft ausgeschlossen werden.
+- Gegen den Ausschluss kann innerhalb eines Monats Widerspruch eingelegt werden.
 
-### § 28 Ergänzung der Benutzungsordnung
+**§ 28 Ergänzung der Benutzungsordnung**
 
-- Die Bibliotheksleitung kann Ausführungsbestimmungen erlassen.
+- Die Leitung der Bibliothek kann Ausführungsbestimmungen erlassen.
 
-### § 29 Inkrafttreten
+**§ 29 Inkrafttreten**
 
 - Die Benutzungsordnung tritt am Tag der Bekanntgabe in Kraft. Frühere Fassungen treten außer Kraft.
 
 Genehmigt und ausgefertigt:
 Mannheim, 06. Nov. 2009
 gez. Prof. Dr. Hans-Wolfgang Arndt, Rektor
-
-______________________________________________________________________
-
-[KI-Chatbot der Universitätsbibliothek Mannheim](https://chat.bib.uni-mannheim.de/)

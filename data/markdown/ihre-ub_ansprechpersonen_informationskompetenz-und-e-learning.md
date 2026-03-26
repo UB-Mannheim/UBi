@@ -19,7 +19,7 @@ Aufgaben:
 - Education & Training im ProjektBERD@NFDI
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
-- E-Mail: jorge.murcia@uni-mannheim.de
+- E-Mail: jorge.murciauni-mannheim.de
 
 
 ### Viktor Boecking, M.A.
@@ -36,5 +36,4 @@ Aufgaben:
 - Konzipierung von Ausstellungen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
-- E-Mail: viktor.boecking@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- E-Mail: viktor.boeckinguni-mannheim.de

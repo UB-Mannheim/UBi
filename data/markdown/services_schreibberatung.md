@@ -13,7 +13,7 @@ Die Schreibberatung steht Studierenden der Universität Mannheim in allen Studie
 ## Die Schreibberatung leistet Hilfe zur Selbsthilfe und unterstützt Sie zum Beispiel bei diesen Fragen:
 
 **Kontakt**
-Aktuell beraten wir Sie gerne per E-Mail oder in einem persönlichen Gespräch über Videokonferenz. Schreiben Sie uns Ihr Anliegen: schreibberatung.ub@uni-mannheim.de.
+Aktuell beraten wir Sie gerne per E-Mail oder in einem persönlichen Gespräch über Videokonferenz. Schreiben Sie uns Ihr Anliegen: schreibberatung.ubuni-mannheim.de.
 [„Studium: Eine Abschlussarbeit ist keine Religion“](https://www.faz.net/aktuell/karriere-hochschule/studium-eine-abschlussarbeit-ist-keine-religion-18024769-p2.html) – Interview mit Jessica Kaiser für die Kolumne UNI LIVE (Frankfurter Allgemeine Zeitung vom 13. Mai 2022)
 
 
@@ -47,4 +47,3 @@ Online-Tutorials führen Sie umfassend und interaktiv in das wissenschaftliche S
 - Krings, Hans P./Holz, Peter/Siekmeyer, Anne (2011): [Der Bremer Schreibcoach](https://blogs.uni-bremen.de/schreibportalfb910/schreibprozess/der-bremer-schreibcoach/)
 - ULB-Lotse: [Arbeiten schreiben](https://www.ulb.uni-muenster.de/lotse/wiss_arbeiten/index.html). ULB Münster
 
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

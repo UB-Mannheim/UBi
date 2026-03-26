@@ -57,4 +57,3 @@ Lehrkräfte und Schülergruppen lernen die UB kennen und erhalten eine Einführu
 Fake News in der Wissenschaft
 Fake News können in Form von manipulierten Forschungsergebnissen, gefälschten Studien oder irreführenden Interpretationen von Daten auftreten.
 
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

@@ -64,9 +64,9 @@ Experimente eignen sich für die Untersuchung von Kausalbeziehungen, um beispiel
 
 | Name | Anwendung | Kontakt | Informationen |
 | --- | --- | --- | --- |
-| GIP | Erhebung für Forschung | gip@uni-mannheim.de | https://www.uni-mannheim.de/gip/ |
-| SoSci | Erhebung für Forschung | IT-Support (itsupport@uni-mannheim.de) undsupport@sowi.uni-mannheim.de | https://www.soscisurvey.de/,https://sosci.sowi.uni-mannheim.de/admin/ |
-| mLab | Laborexperimente | infoexpe@mail.uni-mannheim.de | https://www.experiment.uni-mannheim.de/orsee/public/index.php |
+| GIP | Erhebung für Forschung | gipuni-mannheim.de | https://www.uni-mannheim.de/gip/ |
+| SoSci | Erhebung für Forschung | IT-Support (itsupportuni-mannheim.de) undsupportsowi.uni-mannheim.de | https://www.soscisurvey.de/,https://sosci.sowi.uni-mannheim.de/admin/ |
+| mLab | Laborexperimente | infoexpemail.uni-mannheim.de | https://www.experiment.uni-mannheim.de/orsee/public/index.php |
 
 
 

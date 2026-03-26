@@ -73,7 +73,7 @@ Aufgaben:
 - Konzipierung von Ausstellungen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
-- E-Mail: kommunikation.ub@uni-mannheim.de
+- E-Mail: kommunikation.ubuni-mannheim.de
 
 
 ### Christina Schüßler, M.A. (sie/ihr)
@@ -81,5 +81,4 @@ Aufgaben:
 Kommunikation | Online-Redaktion
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 275, 68161 Mannheim
 - Telefon: +49 621 181-2935
-- E-Mail: kommunikation.ub@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+- E-Mail: kommunikation.ubuni-mannheim.de

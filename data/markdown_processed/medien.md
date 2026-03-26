@@ -7,53 +7,53 @@ tags: ['Medien', 'Recherche', 'Datenbanken', 'E-Books', 'Ausleihe', 'Fernleihe',
 language: de
 ---
 
-# Medienangebot der Universitätsbibliothek Mannheim
+# Medien der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim verfügt über mehr als 2,6 Millionen Medien. Das Angebot umfasst sowohl konventionelle Medien als auch digitale Ressourcen wie E-Books, E-Journals und Datenbanken, die kontinuierlich erweitert werden. Nachfolgend finden Sie die wichtigsten Recherche- und Nutzungsmöglichkeiten.
+Die Universitätsbibliothek Mannheim verfügt über mehr als 2,6 Millionen Medien. Das Angebot umfasst sowohl konventionelle Medien als auch digitale Ressourcen wie E-Books, E-Journals und Datenbanken, die kontinuierlich erweitert werden. Nachfolgend finden Sie Informationen zur Recherche und Nutzung der Medien.
 
 ## Kataloge und Recherche
 
 ### [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
 
-Suche nach Print- und E-Medien, Aufsätzen und Datenbanken im Bestand der Universitätsbibliothek sowie in wissenschaftlichen Bibliotheken deutschlandweit.
+Recherchieren Sie nach Print- und E-Medien, Aufsätzen und Datenbanken im Bestand der Universitätsbibliothek sowie in wissenschaftlichen Bibliotheken deutschlandweit.
 
 ### [Weitere Kataloge](https://www.bib.uni-mannheim.de/medien/weitere-kataloge/)
 
-Kataloge der Universität Mannheim und weiterer Mannheimer Einrichtungen sowie regionale und überregionale Bibliothekskataloge.
+Zugang zu Katalogen der Universität Mannheim, weiterer Mannheimer Einrichtungen sowie zu regionalen und überregionalen Bibliothekskatalogen.
 
 ### [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)
 
-Datenbanken, Literatur und weitere Sucheinstiege für Ihr Fach. Die Universitätsbibliothek bietet Schulungen und individuelle Beratung durch Fachreferentinnen und Fachreferenten.
+Fachspezifische Datenbanken, Literatur und weitere Rechercheeinstiege für Ihr Fach. Die Universitätsbibliothek bietet Schulungen und individuelle Beratung durch Fachreferentinnen und Fachreferenten an.
 
 ### [Primo-Suchtipps](https://www.bib.uni-mannheim.de/medien/primo-suchtipps/)
 
-Hilfestellungen und Tipps zur Recherche im Katalog Primo.
+Hilfestellungen und Tipps zur effektiven Recherche im Katalog Primo.
 
-## Digitale Angebote
+## Digitale Angebote und Datenbanken
 
 ### [Datenbanken](https://dbis.ur.de/UBMAN/browse/subjects/)
 
-Finden Sie Datenbanken nach Fächern oder alphabetisch im Datenbank-Infosystem (DBIS).
+Finden Sie relevante Datenbanken nach Fachgebieten oder alphabetisch im Datenbank-Infosystem (DBIS).
 
 ### [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)
 
-Informationen zum Zugang zu digitalen Angeboten und zu den Nutzungsbedingungen.
+Informationen zum Zugang und zu den Nutzungsbedingungen der digitalen Angebote der Universitätsbibliothek.
 
 ## Ausleihe und Fernleihe
 
 ### [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/)
 
-Alle Informationen zum Bestellen, Ausleihen, Zurückgeben, Vormerken und Verlängern von Medien.
+Alle wichtigen Informationen zum Bestellen, Ausleihen, Zurückgeben, Vormerken und Verlängern von Medien.
 
 ### [Fernleihe](https://www.bib.uni-mannheim.de/medien/fernleihe/)
 
-Bestellen und Ausleihen von Medien aus anderen Bibliotheken.
+Bestellen und Ausleihen von Medien aus anderen Bibliotheken über die Fernleihe.
 
 ### [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
 
-Falls ein gewünschtes Medium nicht im Bestand der Universitätsbibliothek vorhanden ist, können Sie hier Titel zur Anschaffung vorschlagen.
+Falls ein gewünschtes Medium nicht im Bestand der Universitätsbibliothek vorhanden ist, können Sie hier einen Anschaffungsvorschlag einreichen.
 
-## Spezielle Medien und Sammlungen
+## Zeitungen und Sammlungen
 
 ### [Zeitungen](https://www.bib.uni-mannheim.de/medien/zeitungen/)
 
@@ -61,8 +61,4 @@ Zugang zu gedruckten Zeitungen, Mannheimer Zeitungen und Online-Zeitungsportalen
 
 ### [Sammlungen](https://www.bib.uni-mannheim.de/medien/sammlungen/)
 
-Digitale Sammlungen der Universitätsbibliothek – von Alten Drucken bis zu Statistischen Jahrbüchern – sowie Informationen zur Geschichte der historischen Sammlungen.
-
-## Weitere Services
-
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/) – Digitaler Assistent für Ihre Fragen zur Bibliothek und ihren Angeboten.
+Erkunden Sie die digitalen Sammlungen der Universitätsbibliothek – von Alten Drucken bis zu Statistischen Jahrbüchern – sowie die Geschichte der historischen Sammlungen.

@@ -221,7 +221,7 @@ Als Lizenz empfehlen wir die Creative Commons Attribution License (CC-BY), die m
 In reinen Open-Access-Zeitschriften erhalten Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim unter oben genannten Voraussetzungen 20 Prozent Rabatt auf die Publikationsgebühr (APC).
 Für die Publikation in reinen Open-Access-Zeitschriften können Sie eine Finanzierung aus dem [Open-Access-Publikationsfonds der Universität Mannheim](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) beantragen.
 [Weitere Informationen bei Wiley](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/affiliation-policies-payments/german-projekt-deal-agreement.html)
-Bei Fragen unterstützen wir Sie gerne: publikationsdienste@uni-mannheim.de
+Bei Fragen unterstützen wir Sie gerne: publikationsdiensteuni-mannheim.de
 
 
 ## Open-Access-Publikationsfonds
@@ -275,7 +275,7 @@ Als Forschende der Universität Mannheim können Sie hier Ihre eigene Open-Acces
 ## Beratung
 
 Bei Fragen zum Publizieren oder zu Open Access hilft Ihnen das Publikationsdienste-Team gerne weiter.
-Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an publikationsdienste@uni-mannheim.de.
+Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an publikationsdiensteuni-mannheim.de.
 
 
 ## Kontakt
@@ -294,6 +294,5 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
-- E-Mail: philipp.zumstein@uni-mannheim.de
+- E-Mail: philipp.zumsteinuni-mannheim.de
 - ORCID-ID: 0000-0002-6485-9434 (https://orcid.org/0000-0002-6485-9434)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

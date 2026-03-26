@@ -115,6 +115,5 @@ Aufgaben:
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
-- E-Mail: ellis.kolb@uni-mannheim.de
+- E-Mail: ellis.kolbuni-mannheim.de
 Vertretung[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

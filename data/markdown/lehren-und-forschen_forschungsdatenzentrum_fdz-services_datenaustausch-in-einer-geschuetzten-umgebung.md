@@ -21,8 +21,8 @@ Wenn Sie sensible Daten, z. B. aus einer eigenen Erhebung, in einer geschützten
 Die Nutzung des Data Cube ist von Montag bis Freitag von 09:00 bis 18:00 Uhr möglich. Samstags und sonntags sowie an Feiertagen ist die Nutzung des Data Cube nicht möglich.
 Weitere Informationen zur Nutzung des Data Cube:
 
-- Um Daten des GIP zu nutzen kontaktieren Sie bitte gip@uni-mannheim.de
-- Um Daten des GBP zu nutzen kontaktieren Sie bitte forschungsdaten@uni-mannheim.de
+- Um Daten des GIP zu nutzen kontaktieren Sie bitte gipuni-mannheim.de
+- Um Daten des GBP zu nutzen kontaktieren Sie bitte forschungsdatenuni-mannheim.de
 - Termine zur Nutzung des Data Cube werden nur auf Anfrage vergeben
 - Eine Terminübersicht finden Sie in diesem [Kalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml)
 
@@ -43,4 +43,4 @@ Weitere Informationen erhalten Sie auf der Seite des [GIP](https://www.uni-mannh
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 - Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
-- E-Mail: forschungsdaten@uni-mannheim.de
+- E-Mail: forschungsdatenuni-mannheim.de

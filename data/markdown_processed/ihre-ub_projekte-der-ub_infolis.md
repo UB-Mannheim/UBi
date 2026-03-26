@@ -3,7 +3,7 @@ title: InFoLiS-Projekt – Integration von Forschungsdaten und Publikationen an 
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/infolis/
 category: Projekte
-tags: ['Forschungsdaten', 'Metadaten', 'Text Mining', 'Bibliothekskatalog', 'DFG-Projekt', 'Datenintegration', 'Sozialwissenschaften', 'Publikationen']
+tags: ['Forschungsdaten', 'Metadaten', 'Text Mining', 'Bibliothekskatalog', 'Linked Data', 'DFG-Projekt', 'Sozialwissenschaften', 'Datenintegration']
 language: de
 ---
 
@@ -13,24 +13,26 @@ language: de
 **Laufzeit:** 2011–2013
 **Projektpartner:** Lehrstuhl für Künstliche Intelligenz der Universität Mannheim, GESIS – Leibniz-Institut für Sozialwissenschaften
 
-Die wachsende Vernetzung von digitalen Informationssystemen und ihren Ressourcen spielt im digitalen Zeitalter eine wichtige Rolle und stellt ein zentrales Erfordernis für die wissenschaftliche Informationsversorgung dar. Stehen die Ressourcen unverbunden nebeneinander, müssen Wissenschaftlerinnen und Wissenschaftler in den empirisch ausgerichteten Sozialwissenschaften die mit den Publikationen verbundenen Forschungsdaten in den jeweiligen Volltexten suchen, in denen sie nicht standardisiert zitiert sind. Daher ist es notwendig, die Metadaten der Forschungsdaten mit den bibliothekarischen Titeldaten zu verknüpfen, sodass sie bereits in den Recherchesystemen der Fachinformationszentren und Universitätsbibliotheken auffindbar sind. Das InFoLiS-Projekt greift diese Aspekte auf und setzt sie um.
+Die wachsende Vernetzung von digitalen Informationssystemen und ihren Ressourcen spielt im digitalen Zeitalter eine wichtige Rolle und stellt ein zentrales Erfordernis für die wissenschaftliche Informationsversorgung dar. Stehen die Ressourcen unverbunden nebeneinander, müssen Wissenschaftlerinnen und Wissenschaftler in den empirisch ausgerichteten Sozialwissenschaften die mit den Publikationen verbundenen Forschungsdaten in den jeweiligen Volltexten suchen, in denen sie nicht standardisiert zitiert sind. Daher ist es notwendig, dass die Metadaten der Forschungsdaten mit den bibliothekarischen Titeldaten verknüpft sind und bereits in den Recherchesystemen der Fachinformationszentren und Universitätsbibliotheken gefunden werden. Im Rahmen des InFoLiS-Projekts werden diese Aspekte aufgegriffen und umgesetzt.
 
 ## Projektziele
 
-1. **Extraktion von Referenzen aus Forschungsdaten und Publikationen**
-   Die Metadaten der Forschungsdaten und die Volltexte von Publikationen enthalten jeweils Referenzen auf die andere Publikationsform. Mit Methoden des Text Mining werden diese Informationen extrahiert und für den weiteren Datenaustausch maschinell aufbereitet.
+Das InFoLiS-Projekt verfolgt fünf zentrale Ziele:
 
-1. **Anreicherung der bibliographischen Metadaten von GESIS und der UB Mannheim mit Forschungsdaten**
-   Die bibliographischen Metadaten der GESIS und der UB Mannheim werden um Hinweise mit Links zu vorhandenen Forschungsdaten im Datenbestandskatalog der GESIS ergänzt und in die Recherchesysteme Primo der UB Mannheim sowie SOLIS bzw. sowiport der GESIS eingespielt.
+1. **Extraktion von Referenzen aus Forschungsdaten und Publikationen**
+   Die Metadaten der Forschungsdaten und die Volltexte von Publikationen verfügen jeweils über Referenzen auf die andere Publikationsform. Mit Methoden des Text Mining werden diese Informationen aus den Daten extrahiert und für den weiteren Datenaustausch maschinell aufbereitet.
+
+1. **Anreicherung der bibliographischen Metadaten der GESIS und der UB Mannheim mit Forschungsdaten**
+   Die bibliographischen Metadaten der GESIS und der UB Mannheim werden um einen Hinweis mit Link zu eventuell vorhandenen Forschungsdaten im Datenbestandskatalog der GESIS angereichert und in die Recherchesysteme Primo der UB Mannheim und SOLIS bzw. sowiport der GESIS eingespielt.
 
 1. **Eigenständige Abbildung von Forschungsdaten**
-   Forschungsdaten werden als eigenständige Publikationen definiert und auf gleicher hierarchischer Ebene wie Titeldaten von Aufsätzen, Büchern und Zeitschriften in das Recherchesystem „Primo“ eingebracht.
+   Forschungsdaten werden als eigenständige Publikationen definiert und auf gleicher hierarchischer Ebene wie die Titeldaten von Aufsätzen, Büchern und Zeitschriften in das Recherchesystem „Primo“ eingebracht.
 
 1. **Automatische Erschließung von Forschungsdaten und Publikationen durch einen Thesaurus**
    Forschungsdaten und Publikationen werden durch einen kohärenten Thesaurus inhaltlich erschlossen. Dadurch können verschieden benannte, aber inhaltlich verwandte Forschungsdaten im Recherchesystem „Primo“ bzw. im Fachportal sowiport gefunden werden.
 
 1. **Verknüpfung von Forschungsdaten und Publikationen mit dem Linkresolver SFX**
-   Die bibliographischen Metadaten in Primo werden dynamisch mit den Metadaten des Datenbestandskatalogs der GESIS verlinkt. Hierbei kommt der Linkresolver SFX zum Einsatz, der bibliothekarische Titeldaten mit den Volltexten von Verlagen und Zeitschriftenaggregatoren verknüpft.
+   Die bibliographischen Metadaten in Primo werden dynamisch mit den Metadaten des Datenbestandskatalogs der GESIS verlinkt. Dabei kommt der Linkresolver SFX zum Einsatz, der bibliothekarische Titeldaten mit den Volltexten von Verlagen und Zeitschriftenaggregatoren verknüpft.
 
 ## Veröffentlichungen
 
@@ -44,7 +46,3 @@ Die wachsende Vernetzung von digitalen Informationssystemen und ihren Ressourcen
 - Mathiak, B. & Boland, K. Challenges in Matching Dataset Citation Strings to Datasets in Social Science. (2014).
 - Boland, K. Links generated in the InFoLiS project: data basis and characteristics. (2014).
 - Mathiak, B. & Boland, K. Challenges in Matching Dataset Citation Strings to Datasets in Social Science. D-Lib Magazine 21, (2015).
-
-## Weitere Informationen
-
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

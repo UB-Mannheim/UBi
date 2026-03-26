@@ -27,7 +27,7 @@ Für die Fächer Mathematik und Informatik bietet die Universitätsbibliothek Ma
 - [DBLP](http://dblp.uni-trier.de/)
 - [SpringerLink](http://link.springer.com/)
 
-Weitere Datenbanken zu [Mathematik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=21&libconnect%5Bsort%5D=alph), [Informatik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=15&libconnect%5Bsort%5D=alph) und anderen Fachgebieten finden Sie im Datenbank-Infosystem (DBIS).
+Weitere Datenbanken zur [Mathematik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=21&libconnect%5Bsort%5D=alph), [Informatik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=15&libconnect%5Bsort%5D=alph) und zu anderen Fachgebieten finden Sie über das Datenbank-Infosystem (DBIS).
 
 ### E-Journals
 
@@ -40,7 +40,7 @@ sowie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?
 
 ### E-Books
 
-**Springer E-Book Pakete:**
+Springer E-Book Pakete:
 
 - [Lecture Notes of Computer Science](https://link.springer.com/bookseries/558)
 - [Technik & Informatik](https://rd.springer.com/search?package=11774)
@@ -55,11 +55,11 @@ Weitere E-Books:
 - [SafariTech Books Online](https://dbis.uni-regensburg.de//detail.php?titel_id=3415)
 - Morgan Claypool: [Computer & Information Science Collections](https://www.morganclaypool.com/page/csc)
 
-Alle E-Books sind auch im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+Diese und weitere E-Books finden Sie auch im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### Forschungsdaten
 
-Bekannte Anlaufstellen für Forschungsdaten:
+Bekannte und viel genutzte Anlaufstellen für Forschungsdaten:
 
 - [CKAN](https://ckan.org/)
 - [Web Data Commons](http://webdatacommons.org/)
@@ -69,16 +69,16 @@ Bekannte Anlaufstellen für Forschungsdaten:
 - [Wolfram Alpha](https://www.wolframalpha.com/) – semantische Suchmaschine (auf Mathematica basierend)
 - [Virtuelle Fachbibliothek Mathematik](https://fidmath.de/) – Rechercheportal
 - [MathGuide](http://www.mathguide.de/index.html) – Internetführer Mathematik der SUB Göttingen
-- [Oberwolfach Photo Collection](https://opc.mfo.de/) – Fotos von Mathematikern aus aller Welt
+- [Oberwolfach Photo Collection](https://opc.mfo.de/) – Photos von Mathematikern aus aller Welt
 - [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php) – „mathematische Abstammung“ erforschen
-- [Thesis Guide – Advice for great computer science thesis projects (TU München)](http://webdatacommons.org/)
+- [Thesis Guide](http://webdatacommons.org/) – Advice for great computer science thesis projects (TUM München)
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/) finden Sie Literatur zu Mathematik und Informatik, die vor Ort genutzt werden kann. Die Medien sind nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
+- Im [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/) finden Sie Literatur zu Mathematik und Informatik, die vor Ort genutzt werden kann. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
 - Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden und kooperierenden Einrichtungen die wichtigsten Lehrbücher zur Ausleihe zur Verfügung.
-- Die gesamte Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe zur Verfügung.
+- Die an der UB vorhandene Literatur können Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchieren.
 
 ### Forschungseinrichtungen vor Ort
 
@@ -87,8 +87,8 @@ Bekannte Anlaufstellen für Forschungsdaten:
 
 ## Kurse und Tutorials
 
-- Regelmäßiger Kurs im Bereich Informatik für Studierende im Master Wirtschaftsinformatik und Mannheim Master in Data Science (auf Englisch): [Scientific Research](https://ilias.uni-mannheim.de/goto.php?target=crs_1074660&client_id=ILIAS)
-- Weitere Schulungen im Bereich Mathematik finden unregelmäßig oder auf Anfrage statt. Präsentationen vergangener Veranstaltungen:
+- Regelmäßig: Kurs für Studierende im Master Wirtschaftsinformatik und Mannheim Master in Data Science (auf Englisch): [Scientific Research](https://ilias.uni-mannheim.de/goto.php?target=crs_1074660&client_id=ILIAS)
+- Unregelmäßig oder auf Anfrage: Weitere Schulungen im Bereich Mathematik. Präsentationen vergangener Veranstaltungen:
   - Literatur- und Informationsrecherche für die Abschlussarbeit
   - How to write good mathematical articles?
 - Allgemeine Kurse und Online-Tutorials der UB:
@@ -96,9 +96,11 @@ Bekannte Anlaufstellen für Forschungsdaten:
   - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
   - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
+Individuelle Beratung ist möglich.
+
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B.:
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, zum Beispiel:
 
 - Brink, A. (2013). [Anfertigung wissenschaftlicher Arbeiten](https://link.springer.com/book/10.1007%2F978-3-658-02511-3). Wiesbaden: Springer Fachmedien Wiesbaden. Signatur: [120 AK 39540 B858(5)](https://primo.bib.uni-mannheim.de/permalink/f/17313ps/MAN_ALMA21132225730002561)
 - Teichert, A. (2013). [Erfolgreich recherchieren – Mathematik](https://www.degruyter.com/view/title/125880). Berlin, Boston: De Gruyter Saur. Signatur: [2013 A 2729](https://primo.bib.uni-mannheim.de/permalink/f/17313ps/MAN_ALMA21142414670002561)
@@ -114,28 +116,18 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 
 ### Dr. Philipp Zumstein
 
-Leiter der Abteilung Publikationsservices und Forschungsunterstützung
-Fachreferent für Mathematik und (Wirtschafts-)Informatik
-Open-Access-Beauftragter der Universität Mannheim
+Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für Mathematik und (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
 
 **Aufgaben:**
 
-- Literaturauswahl und -erschließung für Mathematik und Informatik
+- Literaturauswahl und -erschließung für die Fächer Mathematik und Informatik
 - Fachliche Beratung bei Recherchefragen
-- Beratung zu Publizieren, Open Access und Forschungsunterstützung
+- Beratung bei Fragen zu Publizieren, Open Access und Forschungsunterstützung
 - Durchführung von Schulungen im Fachbereich
 
-**Adresse:**
-Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SN 269.1
-68161 Mannheim
-
+**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 **Telefon:** +49 621 181-3006
 **E-Mail:** [philipp.zumstein@uni-mannheim.de](mailto:philipp.zumstein@uni-mannheim.de)
 **ORCID:** [0000-0002-6485-9434](https://orcid.org/0000-0002-6485-9434)
 
-**Vertretung:**
-Fachreferat für Mathematik und Informatik: [Stefan Weil](https://www.bib.uni-mannheim.de/stefan-weil/)
-
-**Weitere Unterstützung:**
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+**Vertretung:** Fachreferat für Mathematik und Informatik: [Stefan Weil](https://www.bib.uni-mannheim.de/stefan-weil/)

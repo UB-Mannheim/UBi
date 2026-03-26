@@ -26,7 +26,7 @@ Das GIP implementiert in einem zweimonatigen Zyklus Befragungswellen und stellt 
 ### Ich möchte Analysen mit Daten durchführen, die sich nicht im GIP-Datenarchiv befinden. Können Sie mir weiterhelfen?
 
 Das GIP erfasst zahlreiche, differenzierte Informationen sowie Paradaten, die aus Datenschutzgründen nicht in Scientific Use Files bereitgestellt werden können. Um Wissenschaftler*innen dennoch die Arbeit an diesen Daten zu ermöglichen, bietet das GIP einen Arbeitsplatz im [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/infocenter/) an. Im ODA können wir auf Anfrage beispielsweise kleinräumige Informationen, das Geburtsjahr, offene Angaben, ECSP erhobene Paradaten, sowie bei Veröffentlichung vergröberte Daten zur kontrollierten Analyse zur Verfügung stellen.
-Bei Fragen zum On-Site Data Access, kontaktieren Sie uns unter gip@uni-mannheim.de.
+Bei Fragen zum On-Site Data Access, kontaktieren Sie uns unter gipuni-mannheim.de.
 
 
 ### An wen kann ich mich wenden, wenn ich Probleme beim Datenzugang habe?
@@ -36,7 +36,7 @@ Sollten Sie Probleme beim Datenzugang haben, [wenden Sie sich bitte an GESIS](ht
 
 ### Ich glaube, einen Fehler in den Daten gefunden zu haben. Wie kann ich Sie erreichen?
 
-Sollten Sie einen Fehler auf unserer Website oder in den Daten finden, schreiben Sie gern eine E-Mail an gip@uni-mannheim.de.
+Sollten Sie einen Fehler auf unserer Website oder in den Daten finden, schreiben Sie gern eine E-Mail an gipuni-mannheim.de.
 
 
 ## Ihre Frage war nicht dabei?
@@ -48,4 +48,4 @@ Kontaktieren Sie uns gerne.
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
 - Web: [Bluesky-Profil GIP](https://bsky.app/profile/gip.uni-mannheim.de)
-- E-Mail: gip@uni-mannheim.de
+- E-Mail: gipuni-mannheim.de

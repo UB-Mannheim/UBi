@@ -33,7 +33,7 @@ Bei Fragen rund um das Urheberrecht hilft Ihnen die Ansprechpartnerin der UB ger
 Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Rechtswissenschaft
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
 - Telefon: +49 621 181-3024
-- E-Mail: marion.francken-welz@uni-mannheim.de
+- E-Mail: marion.francken-welzuni-mannheim.de
 
 
 ## Inhalte lizenzieren
@@ -52,4 +52,3 @@ Open Educational Resources (OER) unter freien Lizenzen können Sie über die Ein
 - Muuß-Merholz, Jöran (2018): [Freie Unterrichtsmaterialien finden, rechtssicher einsetzen, selbst machen und teilen: Alles über Open Educational Resources](https://www.was-ist-oer.de/wp-content/uploads/sites/17/2018/01/Joeran-Muuss-Merholz-Freie-Unterrichtsmaterialien-Beltz-2018.pdf), (PDF, 4,39 MB)
 - [OERinfo](https://open-educational-resources.de/)
 
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

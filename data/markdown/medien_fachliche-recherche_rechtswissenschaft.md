@@ -104,6 +104,5 @@ Aufgaben:
 - Unterstützung bei urheberrechtlichen Fragen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
 - Telefon: +49 621 181-3024
-- E-Mail: marion.francken-welz@uni-mannheim.de
+- E-Mail: marion.francken-welzuni-mannheim.de
 Vertretung[Jessica Kaiser](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/jessica-kaiser/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

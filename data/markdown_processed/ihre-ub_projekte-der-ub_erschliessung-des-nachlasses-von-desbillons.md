@@ -3,7 +3,7 @@ title: Erschließung des Nachlasses von François-Joseph Terrasse Desbillons –
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/erschliessung-des-nachlasses-von-desbillons/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/erschliessung-des-nachlasses-von-desbillons/
 category: Projekte
-tags: ['Nachlass', 'Digitalisierung', 'Desbillons', 'Kalliope', 'Sammlungen', 'Aufklärung', 'Kurpfalz', 'Bibliotheksprojekte']
+tags: ['Nachlass', 'Digitalisierung', 'Kalliope', 'Desbillons', 'Sammlungen', 'Aufklärung', 'Korrespondenz', 'Regionalgeschichte']
 language: de
 ---
 
@@ -15,18 +15,10 @@ Der Nachlass von François-Joseph Terrasse Desbillons zählt mit 151 handschrift
 
 Das Ziel des Projekts ist die wissenschaftliche Aufarbeitung und öffentliche Bereitstellung des Nachlasses. Hierzu werden sämtliche Dokumente neu strukturiert, digitalisiert und in der Nachlassdatenbank [Kalliope](https://kalliope-verbund.info/eac?eac.id=119493705) erschlossen.
 
+Das Projekt wird durch die [Stiftung Kulturgut Baden-Württemberg](https://www.service-bw.de/web/guest/organisationseinheit/-/sbw-oe/Stiftung+Kulturgut+BadenWuerttemberg+beim+Ministerium+fuer+Wissenschaft+Forschung+und+Kunst+BadenWuerttemberg-6002422-organisationseinheit-0#sp-js-textContent-title?tab=0) gefördert, die seit 2011 Digitalisierungsprojekte von Archiv- und Bibliotheksgut mit Landesbezug unterstützt. Die Laufzeit des Projekts war von 2018 bis 2020.
+
 In einer ersten Projektphase wurde die Korrespondenz Desbillons bereits vollständig erschlossen und in der [Digitalen Sammlung](https://digi.bib.uni-mannheim.de/sammlungen/nachlass-desbillons/) der Universitätsbibliothek Mannheim veröffentlicht.
-
-## Förderung
-
-Das Projekt wird durch die [Stiftung Kulturgut Baden-Württemberg](https://www.service-bw.de/web/guest/organisationseinheit/-/sbw-oe/Stiftung+Kulturgut+BadenWuerttemberg+beim+Ministerium+fuer+Wissenschaft+Forschung+und+Kunst+BadenWuerttemberg-6002422-organisationseinheit-0#sp-js-textContent-title?tab=0) gefördert, die seit 2011 Digitalisierungsprojekte von Archiv- und Bibliotheksgut mit Landesbezug unterstützt.
-
-**Laufzeit:** 2018–2020
 
 ## Kontakt
 
 Viktor Boecking
-
-## Weitere Informationen
-
-- [KI-Chatbot der Universitätsbibliothek Mannheim](https://chat.bib.uni-mannheim.de/)

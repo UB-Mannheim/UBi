@@ -15,9 +15,9 @@ Unter [Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzpl
 
 ## Ausstattung
 
-- WLAN [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/) steht an allen Arbeitsplätzen für Universitätsangehörige und Studierende anderer Hochschulen zur Verfügung.
-- PC-Arbeitsplätze sind mit aktueller Software, MS-Office-Paket und LibreOffice ausgestattet. Rechercheergebnisse und Downloads aus Volltextdatenbanken können bearbeitet und auf einem USB-Stick gespeichert werden. Mit eigenen Kopfhörern können multimediale Angebote genutzt werden.
-- Monitore mit HDMI-Anschluss stehen in allen Bibliotheksbereichen bereit, um Laptops zu verbinden.
+- WLAN [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/) ist an allen Arbeitsplätzen mit Uni-ID nutzbar und steht auch Studierenden anderer Hochschulen zur Verfügung.
+- PC-Arbeitsplätze sind mit aktueller Software, MS-Office-Paket und LibreOffice ausgestattet. Rechercheergebnisse und Downloads aus Volltextdatenbanken können bearbeitet und auf USB-Stick gespeichert werden. Mit eigenen Kopfhörern können multimediale Angebote genutzt werden.
+- Monitore mit HDMI-Anschluss stehen in allen Bereichen zur Verfügung, um Laptops zu verbinden.
 - Universitätsangehörige können im InfoCenter Notebooks nach Vorbestellung über den Katalog Primo [ausleihen](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/).
 - [Kopierer, Scanner und Aufladestationen für das Druckkonto](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/) sind in allen Bereichen vorhanden.
 - In Gruppenarbeitsbereichen unterstützen [PalMA-Team-Monitore](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/) und Flipcharts kollaboratives Arbeiten.
@@ -48,7 +48,3 @@ Für Medien, die nicht nach Hause ausgeliehen werden können, stehen Sonderlesep
 ## Wasserspender
 
 In den Bibliotheksbereichen Schloss Ehrenhof, Schloss Schneckenhof und A5 stehen Wasserspender zum Auffüllen von Trinkflaschen zur Verfügung.
-
-## Weitere Informationen
-
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

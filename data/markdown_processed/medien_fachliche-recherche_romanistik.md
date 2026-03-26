@@ -3,13 +3,13 @@ title: Fachliche Recherche und Services der UB Mannheim für Romanistik
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/romance-studies/
 category: Medien
-tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Journals', 'E-Books', 'Schulungen', 'Wissenschaftliches Arbeiten', 'Kontakt']
+tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Books', 'E-Journals', 'Schulungen', 'Informationskompetenz', 'Kontakt']
 language: de
 ---
 
 # Romanistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchetools. Für individuelle Beratung oder Unterstützung beim wissenschaftlichen Arbeiten stehen Ihnen verschiedene Angebote zur Verfügung.
+Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für Unterstützung bei der Recherche oder beim wissenschaftlichen Arbeiten stehen verschiedene Kurse und individuelle Beratung zur Verfügung.
 
 ## Recherchieren
 
@@ -72,7 +72,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreich
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
@@ -85,7 +85,7 @@ Die UB bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutor
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum [wissenschaftlichen Arbeiten](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,%22wissenschaftliches%20Arbeiten%22&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0). Empfehlenswert für die Romanistik sind insbesondere:
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum [wissenschaftlichen Arbeiten](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,%22wissenschaftliches%20Arbeiten%22&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0). Besonders empfehlenswert für die Romanistik:
 
 - [Arbeitstechniken für Romanisten: Eine Anleitung für den Bereich Linguistik](https://primo-49man.hosted.exlibrisgroup.com/permalink/f/17313ps/MAN_GRUYTER9783110311792)
 - [Erfolgreich recherchieren – Romanistik](https://primo-49man.hosted.exlibrisgroup.com/permalink/f/17313ps/MAN_ALMA51155563480002561)
@@ -95,7 +95,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum [wissenschaftlichen Arbeite
 - [Arbeitstechniken des literaturwissenschaftlichen Studiums: Eine Einführung](https://primo-49man.hosted.exlibrisgroup.com/permalink/f/19ojnqi/MAN_ALMA21222644190002561)
 - [Online-Tutorials des Fachinformationsdienstes (FID) Romanistik](https://www.fid-romanistik.de/recherchewerkzeuge/online-tutorials/)
 
-Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
+Die UB unterstützt mit Schulungs- und Beratungsangeboten:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
@@ -115,10 +115,7 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 - Betreuung des Bereichs Informationskompetenz und E-Learning
 - Education & Training im Projekt BERD@NFDI
 
-**Kontakt:**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
-- Telefon: +49 621 181-2997
-- E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
-- Vertretung: [Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+**Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
+**Telefon:** +49 621 181-2997
+**E-Mail:** [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
+**Vertretung:** [Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/)

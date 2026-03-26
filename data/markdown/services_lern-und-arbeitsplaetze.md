@@ -54,4 +54,3 @@ In den Bibliotheksbereichen stehen Ihnen [Schließfächer](https://www.bib.uni-m
 ## Wasserspender
 
 In den Bibliotheksbereichen Schloss Ehrenhof, Schloss Schneckenhof und A5 stehen Ihnen Wasserspender zum Auffüllen von Trinkflaschen zur Verfügung.
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

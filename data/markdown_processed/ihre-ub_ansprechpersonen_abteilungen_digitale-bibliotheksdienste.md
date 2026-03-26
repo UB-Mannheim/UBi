@@ -1,19 +1,17 @@
 ---
-title: Digitale Bibliotheksdienste – Ansprechpartner und Aufgaben der Universitätsbibliothek Mannheim
+title: Ansprechpartner und Aufgaben der Abteilung Digitale Bibliotheksdienste – Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/digitale-bibliotheksdienste/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/digital-library-services/
 category: Kontakt
-tags: ['Digitale Bibliotheksdienste', 'Ansprechpartner', 'Digitalisierung', 'Softwareentwicklung', 'Projekte', 'Schulungen', 'Serveradministration', 'Historische Sammlungen']
+tags: ['Digitale Bibliotheksdienste', 'Ansprechpartner', 'Digitalisierung', 'Softwareentwicklung', 'Projekte', 'Schulungen', 'Historische Sammlungen', 'Universitätsbibliothek']
 language: de
 ---
 
-# Digitale Bibliotheksdienste
+# Digitale Bibliotheksdienste – Ansprechpartner und Aufgaben
 
-Die Abteilung Digitale Bibliotheksdienste der Universitätsbibliothek Mannheim ist für Projekte, Digitalisierung, Softwareentwicklung, Serveradministration sowie fachliche Beratung und Schulungen zuständig. Nachfolgend finden Sie die Ansprechpartner und deren Aufgabenbereiche.
+Die Abteilung Digitale Bibliotheksdienste der Universitätsbibliothek Mannheim ist für Projekte, Digitalisierung, Softwareentwicklung, Serveradministration sowie fachliche Beratung und Schulungen zuständig. Nachfolgend finden Sie die zentralen Ansprechpartner und deren Aufgabenbereiche.
 
-## Ansprechpartner und Aufgaben
-
-### Stefan Weil
+## Stefan Weil
 
 **Leiter der Abteilung Digitale Bibliotheksdienste**
 **Stellvertretender Fachreferent für Mathematik und Informatik**
@@ -26,18 +24,38 @@ Die Abteilung Digitale Bibliotheksdienste der Universitätsbibliothek Mannheim i
 
 **Kontakt:**
 Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SN 282, 68161 Mannheim
+Schloss Schneckenhof West – Raum SN 282
+68161 Mannheim
 Telefon: +49 621 181-2946
 E-Mail: [stefan.weil@uni-mannheim.de](mailto:stefan.weil@uni-mannheim.de)
 ORCID: [0000-0002-0524-9898](https://orcid.org/0000-0002-0524-9898)
 
-### Tünde Gottschling
+## Jörg Mechnich
+
+**Stellvertretender Leiter der Abteilung Digitale Bibliotheksdienste**
+
+**Aufgaben:**
+
+- Projekte
+- Softwareentwicklung
+- Serveradministration
+- Kurse
+
+**Kontakt:**
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SN 279
+68161 Mannheim
+Telefon: +49 621 181-2965
+E-Mail: [joerg.mechnich@uni-mannheim.de](mailto:joerg.mechnich@uni-mannheim.de)
+ORCID: [0000-0002-6406-4906](https://orcid.org/0000-0002-6406-4906)
+
+## Tünde Gottschling
 
 **Sachgebietsleiterin Digitalisierung/Historische Sammlungen**
 
 **Kontakt:**
 Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
+Schloss Schneckenhof West – Raum SW 273
+68161 Mannheim
 Telefon: +49 621 181-2977
 E-Mail: [tuende.gottschling@uni-mannheim.de](mailto:tuende.gottschling@uni-mannheim.de)
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)

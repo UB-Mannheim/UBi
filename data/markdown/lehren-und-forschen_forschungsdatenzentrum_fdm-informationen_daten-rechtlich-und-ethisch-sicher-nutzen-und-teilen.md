@@ -8,7 +8,7 @@ Fragen zu rechtlichen und ethischen Themen im Zusammenhang mit Forschungsdaten z
 
 **Verschiedene Stellen an der Universität unterstützen Sie bei diesen Fragen**
 
-- [Servicestelle Datenschutz](https://www.uni-mannheim.de/universitaet/organisation/stabs-und-servicestellenservicestelle-datenschutz/): berät universitäre Projekte bei Fragen rund um personenbezogene Daten.
+- [Servicestelle Datenschutz](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/datenschutz/): berät universitäre Projekte bei Fragen rund um personenbezogene Daten.
 - [Ethikkommission](https://www.uni-mannheim.de/universitaet/organisation/organe-und-gremien/kommissionen-und-ausschuesse/ethikkommission/#c324209): Beratung und Beurteilung zu ethischen und rechtlichen Aspekten in der Forschung am Menschen, der Forschung mit personenbezogenen Daten sowie in sicherheitsrelevanten Fällen in Forschungsprojekten der Universität Mannheim.
 - [Dezernat I](https://www.uni-mannheim.de/universitaet/organisation/verwaltung/dezernat-i/#c193679): Beratung zu und Abschluss von Kooperationsverträgen mit universitätsexternen Projektpartner*innen in Verbundprojekten.
 - UB: Beratung zu und Abschluss von [Lizenz-/Datennutzungsverträgen](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/), Beratung zum Thema [Urheberrecht](https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/) (Text- und Data Mining).
@@ -41,14 +41,14 @@ Fragen zu rechtlichen und ethischen Themen im Zusammenhang mit Forschungsdaten z
 ### Datenschutz und Consent
 
 
-- Intranetseite „[Datenschutz in der Forschung – an alles gedacht?](https://intranet.uni-mannheim.de/organisation/beauftragte/datenschutzbeauftragte/datenschutz-in-der-forschung-an-alles-gedacht/)“ der Servicestelle Datenschutz der Universität Mannheim für universitäre Forschungsprojekte.
+- Intranetseite „[Datenschutz in der Forschung – an alles gedacht?](https://intranet.uni-mannheim.de/organisation/verwaltung/justitiariat/datenschutz/datenschutz-in-der-forschung-an-alles-gedacht/)“ der Servicestelle Datenschutz der Universität Mannheim für universitäre Forschungsprojekte.
 - [Infoserver der Zentralen Datenschutzstelle der baden-württembergischen Universitäten](https://www.zendas.de/) (ZENDAS).
 - [interaktiver Virtuelle Assistent – Anwendbarkeit der DSGVO](https://wiki.bib.uni-mannheim.de/xerte/play.php?template_id=224): der Assistent hilft dabei, zu einer Einschätzung zu kommen, ob vorliegende Forschungsdaten personenbezogen sind.
 - [Interaktiver Virtueller Assistent – Einwilligung:](https://wiki.bib.uni-mannheim.de/xerte/play.php?template_id=228) der Assistent hilft dabei einzuschätzen, ob für vorliegende personenbezogene Forschungsdaten eine wirksame Einwilligung in deren Verarbeitung besteht.
 - [Ethics and Data Protection Decision Tree](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html): Entscheidungsbaum der EU zum Thema Ethik und Datenschutz
 - [Handreichung Datenschutz](https://www.konsortswd.de/aktuelles/publikation/handreichung-datenschutz-2/) (Stand: 2020) des RatSWD
 - Information zu „[Informierte Einwilligung](https://www.forschungsdaten-bildung.de/einwilligung)“ vom Verbund Forschungsdaten Bildung inklusive Checklisten und Formulierungsbeispielen
-- [Die informierte Einwilligung als Voraussetzung für die (Nach-)nutzung von Forschungsdaten (PDF)](https://www.forschungsdaten-bildung.de/files/RatSWD_WP_264.pdf) (462 KB) von Katrin Schaar / RatSWD Working Paper (Stand: 2017)
+- [Die informierte Einwilligung als Voraussetzung für die (Nach-)nutzung von Forschungsdaten (PDF)](https://www.konsortswd.de/wp-content/uploads/RatSWD_WP_264.pdf) (462 KB) von Katrin Schaar / RatSWD Working Paper (Stand: 2017)
 - [DARIAH ELDAH Consent Form Wizard](https://consent.dariah.eu/) der Digital Research Infrastructure for the Arts and Humanities (DARIAH) – Assistent für die Formulierung einer Einverständniserklärung zur Erhebung personenbezogener Daten (Stand: 2021)
 - Datenschutz Factsheets von der NFDI Sektion „Ethical, Legal and Social Aspects“: [Factsheet 1 – Einwilligung: FAIR und datenschutzkonform](https://doi.org/10.5281/zenodo.15912755); [Factsheet 2 – Methoden zum FAIRen und datenschutzkonformen Umgang mit personenbezogenen Daten](https://doi.org/10.5281/zenodo.15916957); [Factsheet 3 – Data Linkage: FAIR und datenschutzkonform](https://doi.org/10.5281/zenodo.15917014)
 

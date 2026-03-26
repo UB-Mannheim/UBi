@@ -3,13 +3,13 @@ title: Rechtliche Grundlagen der Universitätsbibliothek Mannheim – Übersicht
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/rules-and-regulations/
 category: Benutzung
-tags: ['Rechtliche Grundlagen', 'Benutzungsordnung', 'Gebührenordnung', 'Hausordnung', 'Leihverkehr', 'Universitätsbibliothek', 'Regelungen', 'Ordnungen']
+tags: ['Rechtliche Grundlagen', 'Benutzungsordnung', 'Hausordnung', 'Gebührenordnung', 'Entleihordnung', 'Leihverkehr', 'Universitätsbibliothek', 'Regelungen']
 language: de
 ---
 
 # Rechtliche Grundlagen der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim stellt auf dieser Seite zentrale rechtliche Grundlagen für ihre Arbeit zur Verfügung. Diese Ordnungen und Regelungen bilden die Basis für die Nutzung der Bibliothek und ihrer Services.
+Die Universitätsbibliothek Mannheim stellt auf dieser Seite zentrale rechtliche Grundlagen für ihre Arbeit zur Verfügung. Diese Ordnungen und Regelungen bilden die Basis für die Nutzung der Bibliothek und ihrer Dienstleistungen.
 
 ## Wichtige Ordnungen und Regelungen
 
@@ -21,8 +21,4 @@ Die Universitätsbibliothek Mannheim stellt auf dieser Seite zentrale rechtliche
 - [Gemeinsame Entleih- und Gebührenordnung der Universitäts-IT und der Universitätsbibliothek Mannheim für Mobile Endgeräte (PDF, 346 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Entleih-undGebuehrenordnungMobileEndgeraete.pdf)
 - [Leihverkehrsordnung](https://wiki.bsz-bw.de/display/FERNLEIHE/Leihverkehrsordnung)
 
-## Weitere Informationen
-
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/) – Unterstützung bei Fragen zur Bibliothek und ihren Regelungen
-
-Diese Zusammenstellung dient der Information über die wichtigsten rechtlichen Rahmenbedingungen der Universitätsbibliothek Mannheim.
+Diese Dokumente regeln die Nutzung, Ausleihe, Gebühren sowie das Verhalten in den Räumlichkeiten der Universitätsbibliothek Mannheim. Sie sind für alle Nutzerinnen und Nutzer verbindlich.

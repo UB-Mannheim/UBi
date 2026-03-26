@@ -1,9 +1,9 @@
 ---
-title: Bibliotheksbereich A3 – Fachbibliothek für Sprach- und Literaturwissenschaften, Medien, Pädagogik, Philosophie, Psychologie und Theologie
+title: Bibliotheksbereich A3 – Fachbibliothek für Geistes- und Sozialwissenschaften, Mediathek und Testothek der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-a3/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/a3-library/
 category: Standorte
-tags: ['Bibliotheksbereich A3', 'Sprachwissenschaften', 'Literaturwissenschaften', 'Medienwissenschaften', 'Psychologie', 'Mediathek', 'Testothek', 'Öffnungszeiten']
+tags: ['Bibliotheksbereich A3', 'Sprachwissenschaften', 'Literaturwissenschaften', 'Mediathek', 'Testothek', 'Öffnungszeiten', 'Arbeitsplätze', 'Kontakt']
 language: de
 ---
 
@@ -23,22 +23,19 @@ Weitere Informationen:
 
 **Bibliotheksbereich A3**
 
-| Wochentag | Öffnungszeiten |
-|--------------------------|---------------|
+| Tag | Öffnungszeiten |
+|----------------------|---------------|
 | Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertag | 10–23 Uhr |
+| Samstag/Sonntag/Feiertage | 10–23 Uhr |
 
-## Fachliche Recherche und Services
+## Services und Angebote
 
-Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten individuell zu allen Themen der im Bibliotheksbereich A3 vertretenen Fachgebiete.
-
-Weitere Services:
-
-- [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
+- [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/): Die Fachreferentinnen und Fachreferenten beraten individuell zu allen Themenbereichen.
+- [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/): Informationen zu Lern- und Arbeitsplätzen.
 - [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
-- [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
-- [Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)
-- Services für Lehrende: [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/)
+- [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/): Vorschläge für neue Medien.
+- [Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/): Informationen zur Fernleihe und zum Bestellservice.
+- Services für Lehrende: Siehe [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/).
 - [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
 ## Kontakt
@@ -48,12 +45,12 @@ Universität Mannheim, Universitätsbibliothek
 A 3, 6–8
 68159 Mannheim
 Telefon: +49 621 181-3111
-E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
+E-Mail: [a3@ub.uni-mannheim.de](mailto:a3@ub.uni-mannheim.de)
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim bietet Service und Beratung vor Ort. Für alle Anliegen rund um den Standort A3 stehen folgende Ansprechpartnerinnen zur Verfügung:
+Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer. Die Leitung und stellvertretende Leitung stehen als Ansprechpartnerinnen zur Verfügung.
 
 #### Ansprechpartnerinnen
 
@@ -70,8 +67,3 @@ Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim bietet Service un
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
 - Telefon: +49 621 181-3058
 - E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
-
-#### Kontakt
-
-Für allgemeine Anfragen zum Bibliotheksbereich A3 wenden Sie sich bitte an das Team per E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de) oder telefonisch an die oben genannten Ansprechpartnerinnen. Weitere Informationen finden Sie auf der [Webseite des Bibliotheksbereichs A3](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/).

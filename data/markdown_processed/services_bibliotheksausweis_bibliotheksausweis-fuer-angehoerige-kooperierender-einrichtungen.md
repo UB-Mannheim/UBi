@@ -15,7 +15,7 @@ Angehörige von Einrichtungen, die mit der Universität Mannheim einen Kooperati
 
 Folgende Einrichtungen haben einen Kooperationsvertrag mit der Universität Mannheim:
 
-- Absolventum Mannheim (im [Antragsformular](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) unter „Einrichtung“ bitte „Privatperson“ auswählen)
+- Absolventum Mannheim (Bitte im [Antragsformular](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) unter „Einrichtung“ „Privatperson“ auswählen.)
 - Alanus Hochschule
 - [Duale Hochschule Baden-Württemberg Mannheim](https://www.mannheim.dhbw.de/service/bibliothek/lernen-arbeiten)
 - Evaluationsagentur Baden-Württemberg (evalag), Mannheim
@@ -35,18 +35,18 @@ Folgende Einrichtungen haben einen Kooperationsvertrag mit der Universität Mann
 Mit der ecUM und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 
 - Medien im Ausleihzentrum Westflügel ausleihen
-- drucken, kopieren, scannen
+- Drucken, kopieren, scannen
 - Medien über die Fernleihe bestellen
-- lizenzierte elektronische Medien an den PCs der UB nutzen (kein Fernzugriff möglich)
+- Lizenzierte elektronische Medien an den PCs der UB nutzen (kein Fernzugriff möglich)
 - Internet über [eduroam](https://www.uni-mannheim.de/it/services/internet-und-server/internetzugang/) oder an den PCs der UB nutzen (für Absolventum-Mitglieder kein Internet-Zugang)
 - Schließfächer benutzen
 
 Die Lernräume der Universitätsbibliothek können ohne Bibliotheksausweis genutzt werden.
 
-## Anmeldung
+## Anmeldung – Schritt für Schritt
 
 1. Das [Anmeldeformular](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) ausfüllen, speichern, ausdrucken und unterschreiben. Sie erhalten die ausgefüllte Anmeldung zusätzlich als PDF an Ihre E-Mail-Adresse.
-1. Den Ausdruck zusammen mit Ihrem Personalausweis (alternativ Reisepass mit Meldebescheinigung) einscannen und per E-Mail an [itsupport@uni-mannheim.de](mailto:itsupport@uni-mannheim.de) senden.
+1. Den Ausdruck zusammen mit Ihrem Personalausweis (alternativ Reisepass mit Meldebescheinigung) einscannen und per E-Mail an den Support der Universitäts-IT senden: [itsupport@uni-mannheim.de](mailto:itsupport@uni-mannheim.de).
 1. Studierende fügen einen Scan des aktuellen Studierendenausweises bei.
 1. Mitarbeitende einer kooperierenden Einrichtung lassen die Zugehörigkeit durch einen Stempel der Einrichtung auf dem Anmeldeformular bestätigen.
 1. Sie erhalten eine E-Mail mit Ihren Zugangsdaten.
@@ -56,7 +56,7 @@ Die Lernräume der Universitätsbibliothek können ohne Bibliotheksausweis genut
 
 ### Änderung ab 1. Juli 2025
 
-Ab dem 1. Juli 2025 erhält die ecUM ein neues Design ohne Foto auf der Vorderseite. Stattdessen wird ein QR-Code abgebildet. Die Änderung betrifft alle ab diesem Datum neu ausgestellten Karten; Bestandskarten bleiben weiterhin gültig.
+Ab dem 1. Juli 2025 erhält die ecUM ein neues Design ohne Foto auf der Vorderseite. Stattdessen wird ein QR-Code abgebildet. Die Änderung betrifft alle ab diesem Datum neu ausgestellten Karten; bestehende Karten bleiben weiterhin gültig.
 
 ## Ersatz bei Verlust oder Defekt
 
@@ -65,7 +65,7 @@ Bei Verlust oder Defekt der ecUM kann im InfoCenter bei der UNIT eine neue Karte
 ## Benachrichtigungen und Adressänderungen
 
 - Alle Benachrichtigungen (z. B. Vormerkungen, Mahnungen) werden an Ihre universitäre E-Mail-Adresse gesendet.
-- Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dafür Ihren Personalausweis (alternativ Reisepass mit Meldebescheinigung) mit.
+- Adressänderungen sind ausschließlich persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dazu Ihren Personalausweis (alternativ Reisepass mit Meldebescheinigung) mit.
 
 ## Weitere Informationen
 
@@ -80,4 +80,3 @@ Bei Verlust oder Defekt der ecUM kann im InfoCenter bei der UNIT eine neue Karte
 - Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
 - Telefon: +49 621 181-2948
 - E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

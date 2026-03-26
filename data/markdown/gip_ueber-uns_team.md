@@ -10,7 +10,7 @@
 Operative Leitung
 - Adresse: Universität Mannheim, UB, Research Data Center, GIP, Schloss – Raum SN 270, 68161 Mannheim
 - Telefon: +49 621 181-2921
-- E-Mail: tobias.rettig@uni-mannheim.de
+- E-Mail: tobias.rettiguni-mannheim.de
 
 
 ### Dr. Anne Balz
@@ -18,14 +18,14 @@ Operative Leitung
 Survey Expert
 - Adresse: Universität Mannheim, UB, Research Data Center, GIP, Schloss – Raum SN 270, 68161 Mannheim
 - Telefon: +49 621 181-2901
-- E-Mail: anne.balz@uni-mannheim.de
+- E-Mail: anne.balzuni-mannheim.de
 
 
 ### Dr. Jan Delcker
 
 Survey Expert
 - Adresse: Universität Mannheim, UB, Research Data Center, GIP, Schloss – Raum SN 270, 68161 Mannheim
-- E-Mail: jan.delcker@uni-mannheim.de
+- E-Mail: jan.delckeruni-mannheim.de
 - ORCID-ID: 0000-0002-0113-4970 (https://orcid.org/0000-0002-0113-4970)
 
 
@@ -34,7 +34,7 @@ Survey Expert
 Survey Expert
 - Adresse: Universität Mannheim, UB, Research Data Center, GIP, Schloss – Raum SN 271, 68161 Mannheim
 - Telefon: +49 621 181-2996
-- E-Mail: benjamin.groebe@uni-mannheim.de
+- E-Mail: benjamin.groebeuni-mannheim.de
 
 
 ### Carolin Bahm
@@ -42,7 +42,7 @@ Survey Expert
 Survey Expert
 - Adresse: Universität Mannheim, UB, Research Data Center, GIP, Schloss – Raum SN 271, 68161 Mannheim
 - Telefon: +49 621 181-2925
-- E-Mail: carolin.bahm@uni-mannheim.de
+- E-Mail: carolin.bahmuni-mannheim.de
 
 
 ### Stefanie Schmidt
@@ -50,7 +50,7 @@ Survey Expert
 Assistenz im Projekt- und Umfragemanagement
 - Adresse: Universität Mannheim, UB, Research Data Center, GIP, Schloss – Raum SN 271, 68161 Mannheim
 - Telefon: +49 621 181-2995
-- E-Mail: stefanie.schmidt@uni-mannheim.de
+- E-Mail: stefanie.schmidtuni-mannheim.de
 
 
 ## Wissenschaftliche Leitung
@@ -60,4 +60,4 @@ Assistenz im Projekt- und Umfragemanagement
 ### Prof. Dr. Richard Traunmüller
 
 Universität MannheimSchool of Social SciencesA 5, 6Building A – Raum 33268159 Mannheim
-E-Mail: traunmueller@uni-mannheim.de
+E-Mail: traunmuelleruni-mannheim.de

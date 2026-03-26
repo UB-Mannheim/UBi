@@ -160,6 +160,5 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
-- E-Mail: rudolf.nink@uni-mannheim.de
+- E-Mail: rudolf.ninkuni-mannheim.de
 Vertretung[Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

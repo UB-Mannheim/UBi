@@ -70,4 +70,3 @@ Gruppenarbeit und Lounge
 ExpLAB Schloss Schneckenhof
 Kreatives Lernen und Arbeiten, Virtual Reality, Eye Tracking und Design Thinking
 
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
