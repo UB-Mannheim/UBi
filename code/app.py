@@ -9,6 +9,7 @@ import time
 from typing import Optional
 
 # === UBi imports ===
+from catalog_search import search_catalog
 from config import ENV_PATH
 from conversation_memory import (
     MessageRole,
@@ -526,6 +527,24 @@ async def on_message(message: cl.Message):
         await handle_event_route(
             detected_language, msg, session_id, user_input
         )
+        return
+
+    # "Katalog" Route
+    if route and route.lower() == "katalog":
+        results = await search_catalog(augmented_input)
+        if results:
+            response = f"Ich habe folgende Treffer im Katalog gefunden:\n\n{results}"
+        else:
+            response = "Dazu habe ich leider nichts im Katalog gefunden. Möchten Sie eine andere Suche versuchen?"
+
+        await msg.stream_token("")
+        for char in response:
+            await msg.stream_token(char)
+        await msg.update()
+
+        session_memory.add_turn(session_id, MessageRole.USER, user_input)
+        session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
+        await save_interaction(session_id, user_input, response)
         return
 
     # Add user message to memory (after getting context)
