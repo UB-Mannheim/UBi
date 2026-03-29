@@ -210,13 +210,39 @@ def parse_uma_address_contact(element: Tag) -> list[str]:
     return lines
 
 
+def deobfuscate_email_elements(element: Tag) -> None:
+    """
+    Helper function to deobfuscate email addresses in-place by:
+    1. Replacing <span class="commat"></span> with "@"
+    2. Removing <span style="display:none">mail-</span> elements
+
+    This modifies the element tree directly before text extraction.
+    """
+    if not isinstance(element, Tag):
+        return
+
+    # Replace all <span class="commat"> with @ symbol
+    for commat_span in element.find_all("span", class_="commat"):
+        commat_span.replace_with("@")
+
+    # Remove all hidden <span style="display:none">mail-</span> elements
+    for hidden_span in element.find_all(
+        "span", style=lambda x: x and re.search(r"display\s*:\s*none\b", x) is not None
+    ):
+        if hidden_span.get_text(strip=True) == "mail-":
+            hidden_span.decompose()
+
+
 def parse_email(element: Tag):
     """
     Helper function to parse e-mail addresses.
+    Handles both old (mail- replacement) and new (<span class="commat">) obfuscation methods.
     """
     if not isinstance(element, Tag):
         return None
-    email_tag = element.find("a", href="#")
+    element_copy = element.__copy__()
+    deobfuscate_email_elements(element_copy)
+    email_tag = element_copy.find("a", href="#")
     email = "".join(email_tag.stripped_strings) if email_tag else None
     if email:
         email = re.sub(r"mail-", "@", email)
@@ -231,7 +257,9 @@ def parse_table(table_element: Tag):
     """
     markdown_table = ""
 
-    rows = table_element.find_all("tr")
+    table_copy = table_element.__copy__()
+    deobfuscate_email_elements(table_copy)
+    rows = table_copy.find_all("tr")
     for row in rows:
         cells = row.find_all(["th", "td"])
         row_content = (
