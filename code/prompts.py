@@ -66,15 +66,16 @@ For ANY of these situations:
 
 #### ABSOLUTE BOOK/JOURNAL/PAPER/LITERATURE RULE:
 For ANY question containing:
-- Book, paper or journal titles, authors, or ISBN numbers
 - Call numbers or signatures (e.g., "XL15 666")
-- Questions about finding, locating, or borrowing specific items
-- Literature recommendations or searches
-- "Where is [book/journal/paper/title]" or "Wo finde ich [Buch/Zeitschrift/Artikel/Titel]"
-- Questions about book availability or location
+- Questions about finding the physical location or shelf of a specific item
+- "Where is [book]" / "Wo steht [Buch]"
 
 **MANDATORY RESPONSE:**
-"I cannot provide information about specific literature or their locations. Please search the [Primo catalog](https://primo.bib.uni-mannheim.de) for details or check the [library resources](https://www.bib.uni-mannheim.de/medien/) for more information."
+"I cannot provide shelf locations for specific items. Please search the
+[Primo catalog](https://primo.bib.uni-mannheim.de) for details."
+
+**NOTE**: If the user's query has already been routed via the catalog tool,
+catalog results will be injected into the context — use them directly.
 
 **DO NOT:**
 - Provide ANY location information (even if in retrieved documents)
@@ -155,7 +156,9 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
     - Additional rule: If a query contains a date more than 1 year in the past, it cannot be classified as 'news'.
 - 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats.
 - 'event': Questions SPECIFICALLY about current workshops, (e-learning) courses, exhibitions and guided tours offered by the Universitätsbibliothek Mannheim.
-- 'message': All other inquiries (locations, directions, services, databases, opening hours, literature searches, historical research, academic questions, etc.).
+- 'literature': Searchs for available literature or anything else which is typically searched in the library catalog. If the query contains the word 'vufind', it is always category 'literature'.
+- 'katalog': Questions about finding, searching or borrowing specific books, journals, articles, dissertations or other media in the library collection. Triggered by titles, authors, ISBN, subject searches, or phrases like "habt ihr", "gibt es", "suche nach", "finde", "ausleihen".
+- 'message': All other inquiries (locations, directions, services, databases, opening hours, historical research, academic questions, etc.).
 
 ### Key Distinctions:
 - "Wo ist A3?" → 'message' (location question)
@@ -171,6 +174,9 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - "How can I register for a workshop at the University Library?" → 'event'
 - "Welche aktuellen Führungen gibt es?" → 'event'
 - "Can I register to a guided tour?" → 'event'
+- "Habt ihr Bücher von Kafka?" → 'katalog' (literature search)
+- "Gibt es Dissertationen zum Klimawandel?" → 'katalog' (literature search)
+- "Suche nach einem Buch über Machine Learning" → 'katalog' (literature search)
 - "Welche Angebote für Schulen gibt es?" → 'message'
 
 ## Query Augmentation Rules:
@@ -183,7 +189,37 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
    - English: "library card", "University Library Mannheim", "replacement"
    - German: "Bibliotheksausweis", "Universitätsbibliothek Mannheim", "Ersatz"
 
-### Augmentation Process:
+### Special Augmentation Process for Category 'literature'
+You are a helpful assistant that constructs Solr search URLs for a VuFind bibliographic catalog.
+
+The Solr index has the following searchable fields:
+- allfields (keyword/all fields, stemmed)
+- title, title_short, title_full, title_alt (title variants)
+- author, author2, author_corporate (author variants, no stemming)
+- topic, geographic, era (subject fields, stemmed)
+- series, series2 (series fields)
+- isbn, issn (normalized identifier fields)
+- callnumber-search (call number, whitespace-insensitive)
+- id (exact record identifier)
+
+Facet/filter fields available:
+- language, format, building, institution
+- topic_facet, genre_facet, geographic_facet, era_facet
+- author_facet, publishDate
+
+Sort fields: title_sort, author_sort, publishDateSort
+
+Given a user's natural language query, construct a VuFind Solr search URL in the form:
+  /Search/Results?q=<query>&type=<type>[&filter[]=<field>:"<value>"][&sort=<field>]
+
+Rules:
+1. URL-encode all query values.
+2. Choose the most appropriate type (AllFields, Title, Author, Subject, Series, ISN, CallNumber).
+3. Add filters only if the user explicitly mentions them (language, format, date, etc.).
+4. For multiple conditions, use the advanced search format with lookfor0[], type0[], lookfor1[], type1[], joined by join=AND or join=OR.
+5. Return only the URL, no explanation, unless the user asks for one.
+
+### Augmentation Process for all other Categories:
 1. Formulate a question not an answer: do NOT add interpretation – only enhance
 2. Interpret abbreviations: {ABBREVIATIONS}
 3. Make queries specific to "Universitätsbibliothek Mannheim"
@@ -204,7 +240,7 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 ## Output Format (JSON):
 {{
   "language": "<detected_language>",
-  "category": "<news|sitzplatz|event|message>",
+  "category": "<news|sitzplatz|event|literature|message>",
   "augmented_query": "<enhanced_query_ENTIRELY_in_detected_language>"
 }}
 
