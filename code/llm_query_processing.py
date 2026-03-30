@@ -15,7 +15,7 @@ from utils import (
 async def route_and_augment_query(
     client: AsyncOpenAI | None,
     user_input: list[dict],
-    model: str = os.getenv("ROUTER_MODEL", "gpt-4.1-nano-2025-04-14"),
+    model: str = os.getenv("ROUTER_MODEL", "gpt-5.4-nano"),
     quiet: bool = False,
 ) -> tuple[str, str, str]:
     """
@@ -41,6 +41,7 @@ async def route_and_augment_query(
             messages=[
                 {"role": "system", "content": ROUTER_AUGMENTOR_PROMPT},
             ] + user_input,
+            reasoning_effort="none",
             temperature=0,
             service_tier="priority",
         )

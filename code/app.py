@@ -185,7 +185,7 @@ async def handle_openai_vectorstore_query(
     full_answer = ""
     try:
         stream = await client.responses.create(
-            model=os.getenv("CHAT_MODEL", "gpt-4.1-mini-2025-04-14"),
+            model=os.getenv("CHAT_MODEL", "gpt-5.4-mini"),
             input=chat_history,
             tools=[
                 {
@@ -197,6 +197,7 @@ async def handle_openai_vectorstore_query(
             include=["file_search_call.results"] if not _quiet_mode else None,
             instructions=get_instructions(detected_language),
             stream=True,
+            reasoning={"effort": "low"},
             temperature=0,
             service_tier="priority",
         )
