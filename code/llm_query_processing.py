@@ -26,7 +26,7 @@ async def route_and_augment_query(
     error/debug output.
 
     If parsing fails the function will fallback to:
-        ("German", "message", user_input)
+        ("German", "message", user_input[-1]["content"])
     """
     # Set quiet mode
     if quiet:
@@ -50,9 +50,9 @@ async def route_and_augment_query(
             try:
                 # Remove any trailing Markdown code block markers (```json and ```)
                 json_str = re.sub(
-                    r"```json\\s*", "", json_str, flags=re.IGNORECASE
+                    r"```json\s*", "", json_str, flags=re.IGNORECASE
                 )
-                json_str = re.sub(r"```\\s*", "", json_str)
+                json_str = re.sub(r"```\s*", "", json_str)
 
                 # Repair other json errors
                 json_str = json_repair.repair_json(json_str)
@@ -81,7 +81,7 @@ async def route_and_augment_query(
                 print_err(f"⚠️  Warning: Could not parse response json: {e}")
         else:
             print_err("⚠️  No content in LLM response. Returning fallback.")
-        return ("German", "message", user_input)
+        return ("German", "message", user_input[-1]["content"])
     except Exception as e:
         print_err(f"⚠️  Warning: Could not route query: {e}")
-        return ("German", "message", user_input)
+        return ("German", "message", user_input[-1]["content"])
