@@ -133,7 +133,7 @@ The crawler extracts content from the `<div id="page-content">` section of each 
 
 - **Link resolution**: Relative URLs are converted to absolute URLs.
 - **English URL extraction**: The English page URL is parsed from `<div class="language-selector">` and stored as `<en_url>` metadata for the LLM post-processing step.
-- **Email parsing**: Obfuscated email addresses (`mail-` → `@`) are decoded.
+- **Email parsing**: Obfuscated email addresses are decoded. Two obfuscation methods are handled: the legacy method (`mail-` → `@`) and the current method using `<span class="commat"></span>` (replaced with `@`) combined with a hidden `<span style="display:none">mail-</span>` decoy (removed).
 - **Address formatting**: Structured parsing of `uma-address-*` contact blocks (name, position, street, phone, email, ORCID).
 - **Table conversion**: HTML tables are converted to markdown table format.
 - **Profile integration**: For elements with class `button`, linked profile pages are fetched and "Aufgaben" (tasks) sections are extracted and appended.

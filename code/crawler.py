@@ -210,16 +210,47 @@ def parse_uma_address_contact(element: Tag) -> list[str]:
     return lines
 
 
+def deobfuscate_email_elements(element: Tag) -> None:
+    """
+    Helper function to deobfuscate email addresses in-place by:
+    1. Replacing <span class="commat"></span> with "@"
+    2. Removing <span style="display:none">mail-</span> elements
+
+    This modifies the element tree directly before text extraction.
+    """
+    if not isinstance(element, Tag):
+        return
+
+    # Replace all <span class="commat"> with @ symbol
+    for commat_span in element.find_all("span", class_="commat"):
+        commat_span.replace_with("@")
+
+    # Remove all hidden <span style="display:none">mail-</span> elements
+    for hidden_span in element.find_all(
+        "span", style=lambda x: x and re.search(r"display\s*:\s*none\b", x) is not None
+    ):
+        if hidden_span.get_text(strip=True) == "mail-":
+            hidden_span.decompose()
+
+
 def parse_email(element: Tag):
     """
-    Helper function to parse e-mail addresses.
+    Helper function to parse e-mail addresses. Handles both `mail-` replacement
+    and obfuscation methods (<span class="commat">).
     """
     if not isinstance(element, Tag):
         return None
-    email_tag = element.find("a", href="#")
+
+    # Create a copy of the element and run email deobfuscation
+    element_copy = element.__copy__()
+    deobfuscate_email_elements(element_copy)
+
+    # Check for old email obfuscation (mail- replacement)
+    email_tag = element_copy.find("a", href="#")
     email = "".join(email_tag.stripped_strings) if email_tag else None
     if email:
-        email = re.sub(r"mail-", "@", email)
+        if "@" not in email:
+            email = re.sub(r"mail-", "@", email)
         return email
     else:
         return None
@@ -231,7 +262,11 @@ def parse_table(table_element: Tag):
     """
     markdown_table = ""
 
-    rows = table_element.find_all("tr")
+    # Deobfuscate possible email elements
+    table_copy = table_element.__copy__()
+    deobfuscate_email_elements(table_copy)
+
+    rows = table_copy.find_all("tr")
     for row in rows:
         cells = row.find_all(["th", "td"])
         row_content = (
@@ -240,6 +275,7 @@ def parse_table(table_element: Tag):
             + " |"
         )
         markdown_table += row_content + "\n"
+
         # Add header separator after first row
         if row.find("th") and rows.index(row) == 0:
             header_sep = "| " + " | ".join(["---"] * len(cells)) + " |"
@@ -247,6 +283,7 @@ def parse_table(table_element: Tag):
         elif not row.find("th") and rows.index(row) == 0:
             header_sep = "| " + " | ".join(["---"] * len(cells)) + " |"
             markdown_table += header_sep + "\n"
+
     return markdown_table
 
 
@@ -269,6 +306,10 @@ def find_specified_tags(
         returned text with a markdown heading level (h_level) based on the
         provided heading tag name (e.g., "h1", "h2").
         """
+        # Deobfuscate email addresses before text extraction
+        element = element.__copy__()
+        deobfuscate_email_elements(element)
+
         # Specific markdown mapping for UMA heading levels
         h_map = {
             "h1": "# ",
@@ -418,8 +459,10 @@ def find_specified_tags(
         elif "teaser-link" in class_attr:
             matched_tags.append(parse_href(element))
 
-        # <ul>, <ol>
-        elif element.name in ["ul", "ol"] and not element.has_attr("class"):
+        # <ul>, <ul class="ce-bullets"> or <ol>
+        elif (element.name in ["ul", "ol"]
+              and (not element.has_attr("class") or "ce-bullets" in class_attr)
+              ):
             li_elements = (
                 element.find_all("li", recursive=False)
                 if isinstance(element, Tag)
