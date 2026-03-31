@@ -36,7 +36,7 @@ Zitationsstile für Zotero
 ## Zitationsstile an der Universität Mannheim
 
 An Fakultäten oder Lehrstühlen werden insbesondere für Abschlussarbeiten unterschiedliche Anforderungen an Zitationen und an das Literaturverzeichnis gestellt. Sie sollten nach Möglichkeit einen etablierten Zitationsstil verwenden. Die Vorgabe, einen Stil nach der Harvard Methode oder [Autor-Jahr-Zitierweise](https://de.wikipedia.org/wiki/Autor-Jahr-Zitierweise) zu verwenden, lässt zum Beispiel Spielraum, um auf bereits existierende Zitationsstile in den Literaturverwaltungsprogrammen zurückzugreifen.
-Andernfalls müssen Sie einen eigenen Zitationsstil erstellen oder für Ihre Vorgaben anpassen. Wir unterstützen Sie dabei und sammeln und pflegen diese Hausstile nach Möglichkeit. Bitte melden Sie uns Fehler und schicken Sie uns gerne Ihre erstellten Zitationsstile zum weiteren Teilen an literaturverwaltung.ubuni-mannheim.de.
+Andernfalls müssen Sie einen eigenen Zitationsstil erstellen oder für Ihre Vorgaben anpassen. Wir unterstützen Sie dabei und sammeln und pflegen diese Hausstile nach Möglichkeit. Bitte melden Sie uns Fehler und schicken Sie uns gerne Ihre erstellten Zitationsstile zum weiteren Teilen an literaturverwaltung.ub@uni-mannheim.de.
 Bisher haben wir diese hauseigenen Zitationsstile gesammelt:
 
 - BWL, Prof. Homburg, deutsche Arbeiten: [CSL in unserem Repo](https://cdn.rawgit.com/UB-Mannheim/UniMA-styles/master/universitat-mannheim-lehrstuhl-prof-homburg.csl) (zuletzt aktualisiert am 2014-10-06T10:59:59Z)

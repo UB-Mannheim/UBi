@@ -1,5 +1,5 @@
 ---
-title: Urheberrecht in Lehre und Forschung – Rechtssichere Nutzung, Lizenzen und Open Content an der Universitätsbibliothek Mannheim
+title: Urheberrecht in Lehre und Forschung – Rechtssichere Nutzung und offene Inhalte an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/urheberrecht/
 category: Services
@@ -7,13 +7,13 @@ tags: ['Urheberrecht', 'Lehrmaterialien', 'Open Access', 'Lizenzen', 'Forschungs
 language: de
 ---
 
-# Urheberrecht an der Universitätsbibliothek Mannheim
+# Urheberrecht in Lehre und Forschung
 
-Die Universitätsbibliothek Mannheim unterstützt Lehrende, Forschende und Studierende bei der rechtssicheren Nutzung von Lehrmaterialien, fremden Publikationen und Forschungsdaten sowie beim Teilen und Erstellen offener Inhalte. Dabei sind insbesondere die rechtlichen Rahmenbedingungen und das Urheberrecht zu beachten.
+Die Universitätsbibliothek Mannheim unterstützt Lehrende, Forschende und Studierende bei der rechtssicheren Nutzung von Lehrmaterialien, fremden Publikationen und Forschungsdaten sowie beim Teilen von Inhalten. Dabei sind die rechtlichen Rahmenbedingungen, insbesondere das Urheberrecht, zu beachten.
 
-## Urheberrecht in Lehre und Forschung
+## Rechtliche Rahmenbedingungen
 
-Die Nutzung von Text und Data Mining, das Einbinden fremder Abbildungen, Fotos oder Texte in Präsentationen, das Bereitstellen von Materialien auf ILIAS oder das Zeigen von Filmausschnitten in Lehrveranstaltungen ist nur im Rahmen des Urheberrechts zulässig. Das Bundesministerium für Bildung und Forschung (BMBF) bietet gezielte Informationen für Lehrende und Forschende:
+Für die Nutzung von Text und Data Mining, das Einbinden fremder Abbildungen, Fotos oder Texte in Präsentationen, das Bereitstellen von Materialien auf ILIAS oder das Zeigen von Filmausschnitten in Lehrveranstaltungen gelten die Grenzen des Urheberrechts. Das Bundesministerium für Bildung und Forschung (BMBF) bietet gezielte Informationen für Lehrende und Forschende:
 
 - [Bundesministerium für Bildung und Forschung (BMBF): Urheberrecht in der Wissenschaft](https://www.bmftr.bund.de/SharedDocs/Publikationen/DE/1/31518_Urheberrecht_in_der_Wissenschaft.html?templateQueryString=Urheberrecht+in+der+Wissenschaft)
 
@@ -25,12 +25,12 @@ Weitere Informationen zum digitalen [Semesterapparat](https://www.bib.uni-mannhe
 - Kreutzer, Till/Hirche, Tom (Oktober 2017): [Rechtsfragen zur Digitalisierung in der Lehre: Praxisleitfaden zum Recht bei E-Learning, OER und Open Content](https://opus4.kobv.de/opus4-whu/files/585/Leitfaden_Rechtsfragen_Digitalisierung_in_der_Lehre_2017-UrhWissG.pdf) (PDF, 865 KB)
 - Verch, Ulrike (2022): Das Bildzitat – Fotos und Abbildungen richtig zitieren, API Magazin 3(1), [https://doi.org/10.15460/apimagazin.2022.3.1.107](https://doi.org/10.15460/apimagazin.2022.3.1.107)
 
-Bei Fragen rund um das Urheberrecht steht Ihnen die Ansprechpartnerin der Universitätsbibliothek zur Verfügung.
+## Beratung und Kontakt
 
-## Kontakt
+Bei Fragen rund um das Urheberrecht steht Ihnen die Ansprechpartnerin der Universitätsbibliothek zur Verfügung:
 
 **Dr. Marion von Francken-Welz**
-Stellvertretende Leiterin der Abteilung Medienbearbeitung, Fachreferentin für Rechtswissenschaft
+Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Rechtswissenschaft
 Universität Mannheim, Universitätsbibliothek
 Schloss Ehrenhof – Raum M 305, 68161 Mannheim
 Telefon: +49 621 181-3024
@@ -38,15 +38,15 @@ E-Mail: [marion.francken-welz@uni-mannheim.de](mailto:marion.francken-welz@uni-m
 
 ## Inhalte lizenzieren
 
-Die Universitätsbibliothek unterstützt Sie bei der Beschaffung digitaler Medien oder Forschungsdaten, verhandelt Datennutzungsverträge und berät zu Lizenzbedingungen. Anschaffungsvorschläge für die Bibliothek können über das [Formular](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/) eingereicht werden. Weitere Informationen zum Bestellservice finden Sie [hier](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/).
+Die Universitätsbibliothek unterstützt Sie bei der Lizenzierung digitaler Medien und Forschungsdaten, verhandelt Datennutzungsverträge und berät zu Lizenzbedingungen. Für Anschaffungsvorschläge steht ein [Formular](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/) zur Verfügung. Weitere Unterstützung bietet der [Bestellservice](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/).
 
 ## Offene Inhalte erstellen und nutzen
 
-Offene Lizenzen wie Creative Commons sind bei Open-Access-Publikationen zentral. Auch bei Open-Access-Zweitveröffentlichungen sind rechtliche Aspekte zu beachten. Die Universitätsbibliothek bietet umfassende Services rund um [Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/). Das Open Science Office und das Forschungsdatenzentrum unterstützen beim Management und der Archivierung von Forschungsdaten.
+Offene Lizenzen wie Creative Commons sind bei Open-Access-Publikationen und Open-Access-Zweitveröffentlichungen relevant. Die Universitätsbibliothek bietet Services rund um [Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/). Das Open Science Office und das Forschungsdatenzentrum unterstützen beim Management und der Archivierung von Forschungsdaten.
 
 Open Educational Resources (OER) unter freien Lizenzen können im Rahmen der Lizenzbedingungen genutzt werden. OER werden beispielsweise über die Plattform [OER Commons](https://www.oercommons.org/) angeboten.
 
-### Weiterführende Informationen zu offenen Inhalten
+### Weitere Informationen zu offenen Inhalten
 
 - Kreutzer, Till/Hirche, Tom (Oktober 2017): [Rechtsfragen zur Digitalisierung in der Lehre: Praxisleitfaden zum Recht bei E-Learning, OER und Open Content](https://opus4.kobv.de/opus4-whu/files/585/Leitfaden_Rechtsfragen_Digitalisierung_in_der_Lehre_2017-UrhWissG.pdf) (PDF, 865 KB)
 - Kreutzer, Till/ Lahmann, Henning (2019): Rechtsfragen bei Open Science: Ein Leitfaden, 2. Aufl., [https://doi.org/10.15460/HUP.195](https://doi.org/10.15460/HUP.195)

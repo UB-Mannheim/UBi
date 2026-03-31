@@ -10,7 +10,7 @@
 [Digizeitschriften](http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&titel_id=2790) Das Deutsche Digitale Zeitschriftenarchiv umfasst ca. 90 Titel von wissenschaftlicher Bedeutung.
 [Deutsche Literatur des 18. Jahrhunderts Online](http://www.bibliothek.uni-regensburg.de/dbinfo/frontdoor.php?titel_id=7673) Die Online-Edition Deutsche Literatur des 18. Jahrhunderts macht Erstausgaben und historische Gesamtausgaben von 642 deutschsprachigen Autoren im Volltext zugänglich.
 Editions Sedes Titel: [Langue française](http://www.revues.armand-colin.com/lettres-langue/langue-francaise); [Le français aujourd'hui](http://www.revues.armand-colin.com/lettres-langue/francais-aujourdhui); [Littérature](https://www.revues.armand-colin.com/lettres-langue/litterature); [Romantisme](http://www.revues.armand-colin.com/lettres-langue/romantisme); [Langages](http://www.revues.armand-colin.com/lettres-langue/langages) Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
-| Login: | zeitschriften.ubuni-mannheim.de |
+| Login: | zeitschriften.ub@uni-mannheim.de |
 | --- | --- |
 | Passwort: | Zss_a3n |
 
@@ -73,13 +73,13 @@ Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
 [Sage Journals Online](http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&titel_id=8073) Laufendes Abos des Verlags Sage
 [Schweizer Monat](http://www.schweizermonat.ch/) Verlag: SMH Verlag AG
 Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
-| Login: | zeitschriften.ubuni-mannheim.de |
+| Login: | zeitschriften.ub@uni-mannheim.de |
 | --- | --- |
 | Passwort: | zssa33sm |
 
 [Schweizerische Zeitschrift für Sozialversicherung und berufliche Vorsorge (SZS)](http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?bibid=UBMAN&colors=3&lang=de&jour_id=42218) Verlag: Stämpfli
 Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
-| Login: | michael.voegeleuni-mannheim.de |
+| Login: | michael.voegele@uni-mannheim.de |
 | --- | --- |
 | Passwort: | 68131 |
 
@@ -131,4 +131,4 @@ Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof, 68161 Mannheim
 - Telefon: +49 621 181-2989
-- E-Mail: zeitschriften.ubuni-mannheim.de
+- E-Mail: zeitschriften.ub@uni-mannheim.de

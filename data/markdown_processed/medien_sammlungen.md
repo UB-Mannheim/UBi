@@ -1,9 +1,9 @@
 ---
-title: Digitale und historische Sammlungen der Universitätsbibliothek Mannheim – Nutzung, Digitalisierung und Ansprechpartner
+title: Historische Sammlungen und Digitalisierungsservice der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/medien/sammlungen/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/collections/
-category: Sammlungen
-tags: ['Digitale Sammlungen', 'Alte Drucke', 'Digitalisierung', 'Nutzungsregeln', 'Sonderbestände', 'Fachreferat Geschichte', 'Schadstoffe', 'Bibliotheksservice']
+category: Medien
+tags: ['Sammlungen', 'Digitalisierung', 'Alte Drucke', 'Nutzung', 'Sonderbestände', 'Geschichte', 'Bibliotheksservice', 'Schadstoffe']
 language: de
 ---
 
@@ -11,11 +11,11 @@ language: de
 
 ## Überblick
 
-Die Universitätsbibliothek Mannheim bietet Zugang zu besonderen Sammlungen, darunter alte Drucke und statistische Jahrbücher. Viele dieser historischen Bestände werden digitalisiert und online zugänglich gemacht. Entdecken Sie die [digitalen Sammlungen](https://digi.bib.uni-mannheim.de/) sowie die [Geschichte der historischen Sammlungen](<http://fabian.sub.uni-goettingen.de/fabian?Universitaetsbibliothek_(Mannheim)>).
+Die Universitätsbibliothek Mannheim bietet Zugang zu besonderen Sammlungen, darunter alte Drucke und statistische Jahrbücher. Viele dieser historischen Bestände werden digitalisiert und online zugänglich gemacht. Nutzer können in den [digitalen Sammlungen](https://digi.bib.uni-mannheim.de/) stöbern und sich über die [Geschichte der historischen Sammlungen](<http://fabian.sub.uni-goettingen.de/fabian?Universitaetsbibliothek_(Mannheim)>) informieren.
 
 ## Digitalisierung
 
-Die Universitätsbibliothek digitalisiert relevante historische Bücher nach aktuellen Standards und den Empfehlungen der DFG. Vor einer Bestellung im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) empfiehlt es sich zu prüfen, ob das gewünschte Werk bereits als Digitalisat verfügbar ist. Die digitalisierten Bestände stehen unter der [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/deed.de) zur freien Nachnutzung bereit. Soweit möglich, werden durchsuchbare Volltexte erstellt.
+Die Universitätsbibliothek digitalisiert relevante historische Bücher nach aktuellen Standards und den Empfehlungen der DFG. Vor einer Bestellung im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) sollte geprüft werden, ob das gewünschte Buch bereits als Digitalisat verfügbar ist. Die digitalisierten Bestände stehen unter der [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/deed.de) zur freien Nachnutzung bereit. Soweit möglich, werden durchsuchbare Volltexte erstellt.
 
 ### Digitalisierungsservice
 
@@ -36,11 +36,11 @@ Für die Nutzung im Sonderlesebereich gelten besondere Regeln. Ohne vorherige R�
 - Einlegen von Zetteln oder anderen Gegenständen
 - Schreiben in oder auf den Objekten, Durchpausen, Durchreiben von Einbandstempeln
 
-Bei beschädigten oder eng gebundenen Einbänden sowie bei großen und schweren Büchern sind Buchstützen zu verwenden, die am Sonderleseplatz bereitstehen.
+Bei beschädigten oder eng gebundenen Einbänden sowie bei großen und schweren Büchern müssen Buchstützen verwendet werden. Diese stehen am Sonderleseplatz zur Verfügung.
 
-### Gesundheitsschutz und Vorsichtsmaßnahmen
+### Gesundheitsschutz beim Umgang mit historischen Büchern
 
-Historische Bücher können mit Schadstoffen wie Schimmel, Feinstaub, Schwermetallen, Bakterien und Viren belastet sein. Besonders bei Büchern mit grünen Einbänden, Buchschnitten, Spiegeln oder Vorsatzblättern aus dem 19. Jahrhundert besteht die Möglichkeit einer Arsenbelastung.
+Historische Bücher können mit Schadstoffen wie Schimmel, Feinstaub, Schwermetallen, Bakterien und Viren belastet sein. Besonders bei Büchern mit grünen Einbänden, Buchschnitten, Spiegeln oder Vorsatzblättern aus dem 19. Jahrhundert besteht die Möglichkeit einer Arsenbelastung. Schadstoffe können beim Einatmen oder Kontakt mit Mund und Augen gesundheitsschädlich sein.
 
 Empfohlene Vorsichtsmaßnahmen:
 
@@ -48,14 +48,15 @@ Empfohlene Vorsichtsmaßnahmen:
 - Während der Nutzung nicht ins Gesicht oder an die Schleimhäute fassen
 - Finger nicht mit der Zunge anfeuchten und nicht an den Büchern riechen
 
-Am Sonderleseplatz stehen Einmal-Gummihandschuhe zur Verfügung. Bitte wenden Sie sich dazu an das Bibliothekspersonal im InfoCenter.
+Am Sonderleseplatz stehen Einmal-Gummihandschuhe als Schutzmaßnahme zur Verfügung. Bei Bedarf wenden Sie sich bitte an das Bibliothekspersonal im InfoCenter.
 
 ## Ansprechpartner für Sonderbestände
 
-Bei Fragen zu Sonderbeständen und deren Nutzung steht das Fachreferat Geschichte zur Verfügung:
+Bei Fragen zu Sonderbeständen und deren Nutzung steht das Fachreferat Geschichte zur Verfügung.
 
-**Viktor Boecking, M.A.**
-Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
+### Viktor Boecking, M.A.
+
+Leiter der Abteilung Kommunikation, Fachreferent für Geschichte, E-Learning
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 Telefon: +49 621 181-2938

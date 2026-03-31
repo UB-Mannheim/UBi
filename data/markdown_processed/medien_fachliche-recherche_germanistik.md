@@ -9,13 +9,13 @@ language: de
 
 # Germanistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Germanistik umfangreiche Literatur, Datenbanken und Rechercheeinstiege. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
+Die Universitätsbibliothek Mannheim bietet für das Fach Germanistik ein umfassendes Angebot an Literatur, Datenbanken und Rechercheeinstiegen. Neben individueller Beratung stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
 
 ## Recherchieren
 
 ### Datenbanken
 
-- [Datenbanken zur Germanistik](https://dbis.ur.de/UBMAN/browse/subjects/16/) sowie zu weiteren Fachgebieten über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/)
+- [Datenbanken zur Germanistik](https://dbis.ur.de/UBMAN/browse/subjects/16/) und zu anderen Fachgebieten im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/)
 - [Fachinformationsdienst Allgemeine und Vergleichende Literaturwissenschaft (FID AVL)](https://www.avldigital.de/de/recherchieren/)
 - [Fachinformationsdienst Linguistik](https://www.linguistik.de/de/)
 
@@ -47,40 +47,40 @@ Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließl
 
 ### Fachliche Internetquellen
 
-**Digital Humanities**
+**Digital Humanities:**
 
 - [Clarin-D](http://clarin-d.de/)
 - [DARIAH-DE](http://de.dariah.eu/)
 - [TAPoR](http://tapor.ca)
 - [Textgrid](http://www.textgrid.de/)
 
-**Germanistische Blogs**
+**Germanistische Blogs:**
 
 - [Germanistik im Netz](https://www.germanistik-im-netz.de/informieren/forschung-und-kommunikation/blogs/)
 
-**KI-Ressourcen**
+**KI-Ressourcen:**
 
 - [Literaturrecherche](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textverstehen](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textproduktion](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textbearbeitung / -korrektur](https://www.vkkiwa.de/ki-ressourcen/)
 
-**Linguistikblogs**
+**Linguistikblogs:**
 
 - [Die Engelbart-Galaxis](https://scilogs.spektrum.de/engelbart-galaxis/): Digitale Welten jenseits der Schriftkultur
 
-**Literaturblogs**
+**Literaturblogs:**
 
-- [Literatur und Feuilleton](https://literaturundfeuilleton.wordpress.com/)
-- [Tell Review](https://tell-review.de/)
-- [Kaffeehaussitzer](https://www.kaffeehaussitzer.de/)
-- [Buch und Wort](https://www.buchundwort.de/)
-- [Kulturgeschwätz](https://kulturgeschwaetz.wordpress.com/)
-- [Nacht und Tag](https://nachtundtag.blog/)
-- [Leseschatz](https://leseschatz.com/)
-- [Bücherkaffee](https://buecherkaffee.de/)
+- [https://literaturundfeuilleton.wordpress.com/](https://literaturundfeuilleton.wordpress.com/)
+- [https://tell-review.de/](https://tell-review.de/)
+- [https://www.kaffeehaussitzer.de](https://www.kaffeehaussitzer.de/)
+- [https://www.buchundwort.de/](https://www.buchundwort.de)
+- [https://kulturgeschwaetz.wordpress.com/](https://kulturgeschwaetz.wordpress.com/)
+- [https://nachtundtag.blog/](https://nachtundtag.blog/)
+- [https://leseschatz.com/](https://leseschatz.com/)
+- [https://buecherkaffee.de/](https://buecherkaffee.de/)
 
-**Podcasts**
+**Podcasts:**
 
 - [Digitale Lehre Germanistik](https://www.digitale-lehre-germanistik.de/)
 - [Germanistische Linguistik und Sprachgeschichte](https://www.gls-dresden.de/2019/04/28/podcasts-zu-thematischen-vorlesungen-wissenschaftlichen-vortraegen-und-der-reihe-literatur-fuers-studium/)
@@ -90,11 +90,11 @@ Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließl
 - [Kommunikative Praktiken im Wissenschaftspodcast (PDF)](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/11491/file/Herzberg_Kommunikative_Praktiken_2023.pdf)
 - [Linguistik-Podcasts](https://www.linguistik.uzh.ch/de/easyling/podcast.html)
 - [Medieval German Studies Podcast](https://podcasts.ox.ac.uk/series/medieval-german-studies)
-- [RaDiHum20](http://wordpress-202005011515.p552970.webspaceconfig.de/) – RAdio for DIgital HUManities
+- [RaDiHum20](http://wordpress-202005011515.p552970.webspaceconfig.de/) RAdio for DIgital HUManities
 - [Tuwort – Linguistik-Podcast](https://podcasts.social/@tuwort)
 - [Wissenschaftspodcasts Germanistik](https://www.digitale-lehre-germanistik.de/ressourcen/-/wiki/Ressourcen/Audio-Materialien)
 
-**Rezensionen**
+**Rezensionen:**
 
 - [Perlentaucher](https://www.perlentaucher.de/buecherschau/)
 - [Zeitschrift für Rezensionen zur germanistischen Sprachwissenschaft](https://www.degruyter.com/journal/key/zrs/html?lang=de#latestIssue)
@@ -104,7 +104,7 @@ Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließl
 - Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zur Germanistik, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
 - Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Germanistik-Literatur, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
 - In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
-- Die gesamte Literatur der UB ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+- Die vorhandene Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
 - Das [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/) in Mannheim bietet einen herausragenden Bestand zur Linguistik. Recherche im [OPAC der Bibliothek des IDS](http://bib-server.ids-mannheim.de/).
 
 ### Forschungseinrichtungen vor Ort
@@ -123,7 +123,7 @@ Die UB bietet regelmäßig Schulungen zur Recherche in der Germanistik an. Tutor
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt mit Schulungs- und Beratungsangeboten:
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt mit Schulungs- und Beratungsangeboten.
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
@@ -132,24 +132,12 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 
 ### Dr. Rudolf Nink, M.A.
 
-**Fachreferent für:**
-
-- Allgemeines
-- Allgemeine Sprach- und Literaturwissenschaft
-- Anglistik/Amerikanistik
-- Germanistik
-- Philosophie
-
-**Vertretung für:**
-
-- Medien- und Kommunikationswissenschaft
-- Politikwissenschaft
-- Psychologie
-- Soziologie
+Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 
 **Aufgaben:**
 
-- Literaturauswahl und -erschließung für die genannten Fächer
+- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+- Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 

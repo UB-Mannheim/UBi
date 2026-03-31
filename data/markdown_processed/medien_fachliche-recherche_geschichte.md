@@ -7,11 +7,11 @@ tags: ['Geschichte', 'Fachrecherche', 'Datenbanken', 'E-Books', 'E-Journals', 'S
 language: de
 ---
 
-# Geschichte – Fachliche Recherche und Services
+# Geschichte an der Universitätsbibliothek Mannheim
 
-Für das Fach Geschichte bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Rechercheeinstiege. Bei Fragen zur Recherche oder zum wissenschaftlichen Arbeiten stehen Schulungen und individuelle Beratung zur Verfügung.
+Die Universitätsbibliothek Mannheim bietet für das Fach Geschichte ein umfassendes Angebot an Literatur, Datenbanken und weiteren Recherchetools. Studierende und Forschende erhalten Unterstützung durch individuelle Beratung, Schulungen und Online-Tutorials.
 
-## Recherchieren
+## Rechercheangebote
 
 ### Datenbanken
 
@@ -23,23 +23,21 @@ Für das Fach Geschichte bietet die Universitätsbibliothek Mannheim Literatur, 
 
 ### E-Journals
 
-Die E-Journals für das Fach Geschichte finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubman&colors=15&ocolors=40&lett=f&gebiete=26) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+- Die E-Journals für das Fach Geschichte finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubman&colors=15&ocolors=40&lett=f&gebiete=26) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### E-Books
 
-Die für das Fach Geschichte lizenzierten E-Books finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB). Informationen zu Nutzungsbedingungen: [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
-
-**Ausgewählte E-Book-Pakete:**
-
-- [De Gruyter Online Geschichte](https://www.degruyter.com/browse?t1=HI)
-- [Kritische Studien zur Geschichtswissenschaft](http://www.vr-elibrary.de/series/ksgw)
-- [Oxford Scholarship Online History](http://www.oxfordscholarship.com/browse?t=OSO:history)
+- Die lizenzierten E-Books im Fach Geschichte sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+- Informationen zu Nutzungsbedingungen: [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+- Ausgewählte E-Book-Pakete:
+  - [De Gruyter Online Geschichte](https://www.degruyter.com/browse?t1=HI)
+  - [Kritische Studien zur Geschichtswissenschaft](http://www.vr-elibrary.de/series/ksgw)
+  - [Oxford Scholarship Online History](http://www.oxfordscholarship.com/browse?t=OSO:history)
 
 ### Literaturstandorte
 
 - Im [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) finden Sie frei zugängliche Literatur zum Fach Geschichte, aufgestellt nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online). Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Geschichte, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
+- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere ausleihbare Literatur zur Geschichte. Die wichtigsten Lehrbücher stehen in der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Verfügung.
 - Die gesamte an der UB vorhandene Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
 
 ### Forschungseinrichtungen vor Ort
@@ -50,7 +48,7 @@ Die für das Fach Geschichte lizenzierten E-Books finden Sie im [Katalog Primo](
 
 ## Kurse und Tutorials
 
-Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Geschichte an. Tutorials stehen jederzeit online zur Verfügung. Individuelle Beratung ist möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Geschichte an. Tutorials stehen jederzeit online zur Verfügung. Individuelle Beratung ist ebenfalls möglich.
 
 - [Kurse](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -66,7 +64,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber, z. B.:
 
 - [Standop, Ewald: Die Form der wissenschaftlichen Arbeit](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21106572450002561)
 
-Die UB unterstützt mit Schulungs- und Beratungsangeboten:
+Weitere Unterstützungsangebote:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)

@@ -9,9 +9,9 @@ language: de
 
 # Ausleihzentrum Schloss Westflügel
 
-Das Ausleihzentrum Schloss Westflügel ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Ausleihen und Fernleihen. Studierende der Universität Mannheim sowie Angehörige kooperierender Einrichtungen können hier die wichtigsten Lehrbücher ausleihen.
+Das Ausleihzentrum Schloss Westflügel ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Ausleihen und Fernleihen. Studierende der Universität Mannheim sowie Angehörige kooperierender Einrichtungen können hier die wichtigsten Lehrbücher und weitere Medien ausleihen.
 
-Sie entnehmen die gewünschten Bücher direkt aus dem Regal und buchen sie an den Selbstverbuchern auf Ihr Konto. Bestellte oder vorgemerkte Medien stehen im Abholraum zur Verfügung. Fernleihen erhalten Sie an der Infotheke.
+Sie entnehmen die gewünschten Bücher selbst aus dem Regal und buchen sie an den Selbstverbuchern auf Ihr Bibliothekskonto. Bestellte oder vorgemerkte Medien stehen im Abholraum zur Verfügung. Fernleihen erhalten Sie an der Infotheke.
 
 Weitere Informationen zur Ausleihe finden Sie unter: [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/)
 
@@ -47,8 +47,7 @@ E-Mail: [ausleihe.ub@uni-mannheim.de](mailto:ausleihe.ub@uni-mannheim.de)
 
 #### Teamleitung
 
-##### Michael Wagner
-
+**Michael Wagner**
 Teamleiter Ausleihe und Fernleihe
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum S 047
@@ -56,11 +55,12 @@ Schloss Schneckenhof West – Raum S 047
 Telefon: +49 621 181-3166
 E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
 
-##### Stephanie Pellkofer
-
+**Stephanie Pellkofer**
 Stellvertretende Teamleiterin Ausleihe und Fernleihe
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum S 063
 68161 Mannheim
 Telefon: +49 621 181-2720
 E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
+
+Weitere Informationen finden Sie auf der [Webseite der Ausleihe und Fernleihe](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/ausleihe-und-fernleihe/).

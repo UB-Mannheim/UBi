@@ -24,7 +24,7 @@ Das GIP führt ausschließlich Forschungsprojekte mit rein wissenschaftlichen In
 
 ### Wie hoch sind die Kosten?
 
-Für Mitglieder der Universität Mannheim liegt der Preis pro Befragungsminute (ca. 3 Fragen) bei ca. 2.200 Euro, wodurch die direkten Befragungskosten, also Incentives und Programmierung, abgedeckt sind. Die Infrastrukturkosten übernimmt die Universität Mannheim. Für externe Auftraggeber fallen entsprechend höhere Kosten an.Eine konkrete Kostenkalkulation für Ihr geplantes Projekt erhalten Sie auf Anfrage. Wenden Sie sich dafür gerne an gipuni-mannheim.de.
+Für Mitglieder der Universität Mannheim liegt der Preis pro Befragungsminute (ca. 3 Fragen) bei ca. 2.200 Euro, wodurch die direkten Befragungskosten, also Incentives und Programmierung, abgedeckt sind. Die Infrastrukturkosten übernimmt die Universität Mannheim. Für externe Auftraggeber fallen entsprechend höhere Kosten an.Eine konkrete Kostenkalkulation für Ihr geplantes Projekt erhalten Sie auf Anfrage. Wenden Sie sich dafür gerne an gip@uni-mannheim.de.
 
 
 ### Wie viele Fragen können pro Welle gestellt werden?
@@ -45,7 +45,7 @@ Derzeit nehmen über 3.500 Personen (Stand Mai 2024) an den zwei-monatlichen Bef
 
 ### Wie kann eine Datenerhebung beantragt werden?
 
-Schicken Sie Ihre Anfrage per Mail an gipuni-mannheim.de. Skizzieren Sie dabei bitte möglichst detailliert Ihr Vorhaben inkl. folgender Angaben: Thema, angestrebter Zeitplan, Zielstichprobe (Gesamt-/Teilstichprobe, Subpopulation), Fragenanzahl, ggf. vorgesehene Experimente, ggf. Wiederholungsbefragungen.
+Schicken Sie Ihre Anfrage per Mail an gip@uni-mannheim.de. Skizzieren Sie dabei bitte möglichst detailliert Ihr Vorhaben inkl. folgender Angaben: Thema, angestrebter Zeitplan, Zielstichprobe (Gesamt-/Teilstichprobe, Subpopulation), Fragenanzahl, ggf. vorgesehene Experimente, ggf. Wiederholungsbefragungen.
 Gerne besprechen wir im Anschluss gemeinsam Ihr Vorhaben und gehen dabei auf Ihre offenen Fragen zur Umsetzung ein.
 
 
@@ -103,7 +103,7 @@ Das GIP arbeitet nach Open Science Standards. Alle GIP Erhebungswellen werden al
 ### Welche Vorteile bietet das German Internet Panel für Forschende der Universität Mannheim?
 
 Das GIP bietet Wissenschaftler*innen eine seit 2012 bestehende Forschungsinfrastruktur mit etablierten Prozessen, die auch kurzfristig und effizient die gewünschten Daten in hoher Qualität für Ihr Forschungsvorhaben liefern kann. Aufgrund der universitätsinternen Verortung des GIP müssen Erhebungsprojekte von Forschenden der Universität Mannheim auch kein Vergabeverfahren o. ä. durchlaufen, wenn sie mit dem GIP realisiert werden.
-Wenn Sie daran interessiert sind, die Daten für Ihre Forschungsarbeiten über das GIP zu erheben, kontaktieren Sie uns: gipuni-mannheim.de.
+Wenn Sie daran interessiert sind, die Daten für Ihre Forschungsarbeiten über das GIP zu erheben, kontaktieren Sie uns: gip@uni-mannheim.de.
 Wir besprechen mit Ihnen, wie und wann die Fragen Ihres geplanten Projektes in das GIP integriert werden können und welche Kosten dafür anfallen.
 
 
@@ -115,4 +115,4 @@ Wir besprechen mit Ihnen, wie und wann die Fragen Ihres geplanten Projektes in d
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
 - Web: [Bluesky-Profil GIP](https://bsky.app/profile/gip.uni-mannheim.de)
-- E-Mail: gipuni-mannheim.de
+- E-Mail: gip@uni-mannheim.de

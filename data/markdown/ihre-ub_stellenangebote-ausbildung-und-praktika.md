@@ -69,7 +69,7 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 273, 68161 Mannheim
 - Telefon: +49 621 181-3335
-- E-Mail: angela.leichtweissuni-mannheim.de
+- E-Mail: angela.leichtweiss@uni-mannheim.de
 
 
 ### Jessica Kaiser
@@ -83,4 +83,4 @@ Aufgaben:
 - Schreibberatung
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
 - Telefon: +49 621 181-2920
-- E-Mail: jessica.kaiseruni-mannheim.de
+- E-Mail: jessica.kaiser@uni-mannheim.de

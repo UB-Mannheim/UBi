@@ -1,5 +1,5 @@
 ---
-title: Ansprechpartnerinnen der Abteilung Benutzungsdienste – Universitätsbibliothek Mannheim
+title: Ansprechpartnerinnen und Aufgaben der Abteilung Benutzungsdienste – Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/benutzungsdienste/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/library-services/
 category: Kontakt
@@ -7,16 +7,14 @@ tags: ['Benutzungsdienste', 'Ansprechpartner', 'Schulungen', 'Rechercheberatung'
 language: de
 ---
 
-# Ansprechpartnerinnen der Abteilung Benutzungsdienste
-
-Die Abteilung Benutzungsdienste der Universitätsbibliothek Mannheim ist für die fachliche Beratung, Schulungen und weitere Serviceleistungen zuständig. Nachfolgend finden Sie die zentralen Ansprechpartnerinnen mit ihren Aufgabenbereichen und Kontaktdaten.
+# Benutzungsdienste – Ansprechpartnerinnen und Aufgaben
 
 ## Jessica Kaiser
 
 **Leiterin der Abteilung Benutzungsdienste**
 **Stellvertretende Leiterin Aus- und Fortbildung**
 
-**Aufgabenbereiche:**
+**Aufgaben:**
 
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
@@ -34,7 +32,7 @@ E-Mail: [jessica.kaiser@uni-mannheim.de](mailto:jessica.kaiser@uni-mannheim.de)
 **Stellvertretende Leiterin der Abteilung Benutzungsdienste**
 **Leiterin Aus- und Fortbildung**
 
-**Aufgabenbereiche:**
+**Aufgaben:**
 
 - Bestandsmanagement Mediathek
 - Fachliche Beratung bei Recherchefragen

@@ -1,9 +1,9 @@
 ---
-title: Ansprechpartner und Aufgaben der Abteilung Digitale Bibliotheksdienste – Universitätsbibliothek Mannheim
+title: Ansprechpartner und Aufgaben der Abteilung Digitale Bibliotheksdienste der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/digitale-bibliotheksdienste/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/digital-library-services/
 category: Kontakt
-tags: ['Digitale Bibliotheksdienste', 'Ansprechpartner', 'Digitalisierung', 'Softwareentwicklung', 'Projekte', 'Schulungen', 'Historische Sammlungen', 'Universitätsbibliothek']
+tags: ['Digitale Bibliotheksdienste', 'Ansprechpartner', 'Digitalisierung', 'Softwareentwicklung', 'Projekte', 'Schulungen', 'Serveradministration', 'Historische Sammlungen']
 language: de
 ---
 

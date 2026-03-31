@@ -1,17 +1,17 @@
 ---
-title: Fachliche Recherche und Services für Rechtswissenschaft an der Universitätsbibliothek Mannheim
+title: Fachliche Recherche und Services der Universitätsbibliothek Mannheim für Rechtswissenschaft
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/rechtswissenschaft/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/law/
 category: Medien
-tags: ['Rechtswissenschaft', 'Datenbanken', 'Fachberatung', 'Literaturstandorte', 'Kurse', 'Wissenschaftliches Arbeiten', 'E-Journals', 'Schreibberatung']
+tags: ['Rechtswissenschaft', 'Datenbanken', 'Fachliteratur', 'Recherche', 'Kurse', 'Schulungen', 'Beratung', 'Juristische Arbeitstechnik']
 language: de
 ---
 
 # Rechtswissenschaft an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Rechtswissenschaft umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Neben individuellen Beratungen stehen auch regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
+Die Universitätsbibliothek Mannheim bietet für das Fach Rechtswissenschaft umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
 
-## Rechercheangebote
+## Recherchieren
 
 ### Datenbanken
 
@@ -37,33 +37,37 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Rechtswissenschaft umf
 
 - **Weitere Datenbanken**
 
-  - [Weitere Datenbanken zur Rechtswissenschaft](https://dbis.ur.de/UBMAN/browse/subjects/35/?filter-subjects%5B%5D=Rechtswissenschaft&q=&availability-filter-free=on&availability-filter-local=on&top-databases-filter=on&filter-publication-date-start=&filter-publication-date-end=&filter-report-date-start=&filter-report-date-end=&sort_by=2&ps=25) und zu anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/).
+  - [Datenbanken zur Rechtswissenschaft](https://dbis.ur.de/UBMAN/browse/subjects/35/?filter-subjects%5B%5D=Rechtswissenschaft&q=&availability-filter-free=on&availability-filter-local=on&top-databases-filter=on&filter-publication-date-start=&filter-publication-date-end=&filter-report-date-start=&filter-report-date-end=&sort_by=2&ps=25) und zu anderen Fachgebieten über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/).
 
 ### E-Journals
 
-- Elektronische Zeitschriften für Rechtswissenschaft sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](https://ezb.uni-regensburg.de/) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) verfügbar.
+- Elektronische Zeitschriften für Rechtswissenschaft finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](https://ezb.uni-regensburg.de/) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### Fachliche Internetquellen
 
 - [Virtuelle Fachbibliothek Recht](http://vifa-recht.de/): Internationale und interdisziplinäre Rechtsforschung, inkl. [Blog-Aggregator](https://vifa-recht.de/informieren/blog-aggregator/).
 - [Gesetze im Internet](http://www.gesetze-im-internet.de/): Bundesrecht bereitgestellt vom Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesamt für Justiz.
-- [Rechtsprechung im Internet](https://www.rechtsprechung-im-internet.de/): Ausgewählte Entscheidungen des Bundesverfassungsgerichts, der obersten Gerichte des Bundes und des Bundespatentgerichts ab 2010.
+- [Rechtsprechung im Internet](https://www.rechtsprechung-im-internet.de/): Ausgewählte Entscheidungen des Bundesverfassungsgerichts, der obersten Bundesgerichte und des Bundespatentgerichts ab 2010.
 - [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/): Verwaltungsvorschriften der obersten Bundesbehörden.
 - [CURIA](https://curia.europa.eu/): Gerichtshof der Europäischen Union.
-- **Rechtswissenschaftliche Blogs**
-  - [Verfassungsblog](https://verfassungsblog.de/)
-  - [Völkerrechtsblog](https://voelkerrechtsblog.org/de/)
-- **Quellen zum internationalen und ausländischen Recht**
-  - [Law Library of Congress](http://www.loc.gov/law/): [Guide to Law Online](http://www.loc.gov/law/help/guide.php), [ausländische Rechtsordnungen](http://www.loc.gov/law/help/guide/nations.php)
-  - [GlobaLex](https://www.nyulawglobal.org/globalex/): Research Guides zu ausländischen Rechtsordnungen.
-  - [Constitute Project](https://www.constituteproject.org/): Recherche zum vergleichenden Verfassungsrecht.
+
+**Rechtswissenschaftliche Blogs**
+
+- [Verfassungsblog](https://verfassungsblog.de/)
+- [Völkerrechtsblog](https://voelkerrechtsblog.org/de/)
+
+**Quellen zum internationalen und ausländischen Recht**
+
+- [Law Library of Congress](http://www.loc.gov/law/): [Guide to Law Online](http://www.loc.gov/law/help/guide.php), [ausländische Rechtsordnungen](http://www.loc.gov/law/help/guide/nations.php)
+- [GlobaLex](https://www.nyulawglobal.org/globalex/): Research Guides zu ausländischen Rechtsordnungen.
+- [Constitute Project](https://www.constituteproject.org/): Recherche zum vergleichenden Verfassungsrecht.
 
 ### Literaturstandorte
 
-- **Bibliotheksbereich Schloss Ehrenhof**: Literatur zum Fach Rechtswissenschaft, vor Ort nutzbar, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihe nur für wissenschaftliches Personal der Universität Mannheim.
-- **Ausleihzentrum Schloss Westflügel**: Weitere Literatur zur Rechtswissenschaft, ausleihbar mit ecUM oder UB-Chipkarte.
-- **Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel**: Wichtige Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen, mehrfach vorhanden und ausleihbar.
-- **Virtuelle Lehrbuchsammlung**: [Im Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/collectionDiscovery?vid=MAN_UB) verfügbar.
+- Im [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) finden Sie Literatur zum Fach Rechtswissenschaft zur Nutzung vor Ort. Die Medien sind nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
+- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Rechtswissenschaft, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
+- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe für Studierende der Universität Mannheim und kooperierender Einrichtungen bereit.
+- Die [virtuelle Lehrbuchsammlung](https://primo.bib.uni-mannheim.de/primo-explore/collectionDiscovery?vid=MAN_UB) ist im Katalog Primo verfügbar.
 
 ## Kurse und Tutorials
 
@@ -80,7 +84,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 - [Mann, Thomas/Tettinger, Peter (Begr.), Einführung in die juristische Arbeitstechnik: Klausuren, Hausarbeiten, Seminararbeiten, Dissertationen, 5. Aufl., München 2015](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21141579640002561)
 - [Möllers, Thomas M. J., Juristische Arbeitstechnik und wissenschaftliches Arbeiten: Klausur, Hausarbeit, Seminararbeit, Studienarbeit, Staatsexamen, Dissertation, 9. Aufl., München 2018](https://primo.bib.uni-mannheim.de/primo-explore/fulldisplay?docid=MAN_ALMA21202980900002561&context=L&vid=MAN_UB&search_scope=MAN_ALMA&isFrbr=true&tab=default_tab&lang=de_DE)
 
-Weitere Unterstützungsangebote:
+Unterstützung bietet die UB durch:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)

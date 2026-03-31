@@ -1,17 +1,17 @@
 ---
-title: Kontakt und Team von BERD@NFDI an der Universitätsbibliothek Mannheim
+title: BERD@NFDI – Ansprechpartner und Aufgaben an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/berdnfdi/
 category: Kontakt
-tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Rechtsberatung', 'Informationskompetenz', 'Publikationsservices', 'Projektmanagement', 'Universitätsbibliothek']
+tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Projektmanagement', 'Rechtsberatung', 'Informationskompetenz', 'Publikationsservices', 'Universitätsbibliothek']
 language: de
 ---
 
-# BERD@NFDI – Kontakt und Team
+# BERD@NFDI – Ansprechpartner und Aufgaben
 
-Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in den Bereichen Forschungsdatenmanagement, Data Science, Recht, Informationskompetenz und Publikationsdienste. Nachfolgend finden Sie die zentralen Ansprechpartner\*innen, ihre Aufgabenbereiche und Kontaktdaten.
+Die Universitätsbibliothek Mannheim ist im Rahmen des Projekts BERD@NFDI (Business, Economic and Related Data – Nationale Forschungsdateninfrastruktur) mit einem interdisziplinären Team aktiv. Nachfolgend finden Sie die zentralen Ansprechpartner\*innen, deren Aufgabenbereiche und Kontaktdaten.
 
-## Team und Ansprechpartner\*innen
+## Ansprechpartner\*innen und Aufgabenbereiche
 
 ### Dr. Ulrich Krieger
 
@@ -36,7 +36,7 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 **Lead Data Scientist | Projektleiter**
 
 - Strategische Weiterentwicklung des technischen Forschungsdatenmanagements
-- Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools
+- Beratung von Wissenschaftler\*innen zu Forschungsdatenmanagement, Data Science und KI-Tools
 - Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI
 - Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
@@ -49,9 +49,9 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 **Legal Counsel für BERD@NFDI und FDZ**
 
 - Unterstützung von Forschenden
-- Rechtliche Fragestellungen im FDM-Bereich
-- Themengebiete: Datenschutz, Urheberrecht, Lizenzrecht
-- BERD Datenschutzkonzept und Plattform-Richtlinien
+- Rechtliche Fragestellungen im FDM Bereich
+- Themengebiete: Datenschutz, Urheberrecht und Lizenzrecht
+- BERD Datenschutzkonzept und Plattform Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
@@ -93,13 +93,11 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 
 ### Thomas Schmidt, M.A.
 
-**Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB**
+**Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy)**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
 - E-Mail: [thomas.schmidt@uni-mannheim.de](mailto:thomas.schmidt@uni-mannheim.de)
 - ORCID: [0000-0003-3620-3355](https://orcid.org/0000-0003-3620-3355)
 
-______________________________________________________________________
-
-Weitere Informationen zum Projekt finden Sie auf der offiziellen Webseite: [www.berd-nfdi.de](http://www.berd-nfdi.de)
+Weitere Informationen zum Projekt finden Sie unter [www.berd-nfdi.de](http://www.berd-nfdi.de).

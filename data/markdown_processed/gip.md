@@ -1,9 +1,9 @@
 ---
-title: German Internet Panel (GIP) – Langfristige Online-Befragungsinfrastruktur an der Universität Mannheim
+title: German Internet Panel (GIP) – Langfristige Online-Befragungsinfrastruktur der Universität Mannheim
 source_url_de: https://www.uni-mannheim.de/gip/
 source_url_en: https://www.uni-mannheim.de/en/gip/
 category: Projekte
-tags: ['German Internet Panel', 'Online-Befragung', 'Langzeitstudie', 'Datenzugang', 'Forschungsinfrastruktur', 'Sozialforschung', 'Publikationen', 'Universität Mannheim']
+tags: ['German Internet Panel', 'Online-Befragung', 'Datenzugang', 'Forschungsinfrastruktur', 'Langzeitstudie', 'Sozialforschung', 'Publikationen', 'Universität Mannheim']
 language: de
 ---
 
@@ -11,7 +11,7 @@ language: de
 
 Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine langfristige Studie an der Universität Mannheim. Das GIP untersucht individuelle Einstellungen und Präferenzen, die in politischen und wirtschaftlichen Entscheidungsprozessen relevant sind. Seit 2012 werden regelmäßig in ganz Deutschland über 4.000 Personen zu verschiedensten Themen online befragt. Im November 2025 wurde bereits die 80. Befragungswelle durchgeführt.
 
-Die zweimonatlich stattfindenden GIP-Befragungen beinhalten Forschungsfragen von Wissenschaftler\*innen der Universität Mannheim sowie von externen Forschenden. Interessierte können eigene Forschungsfragen in das GIP integrieren lassen. Die Integration und die anfallenden Kosten werden individuell besprochen.
+Die zweimonatlich stattfindenden GIP-Befragungen beinhalten Forschungsfragen von Wissenschaftler\*innen der Universität Mannheim sowie von externen Forschenden. Interessierte können eigene Forschungsfragen in das GIP integrieren lassen. Für Informationen zur Integration von Fragen und zu den anfallenden Kosten kontaktieren Sie das GIP-Team per E-Mail.
 
 Weitere Informationen: [Fragen im GIP stellen](https://www.uni-mannheim.de/gip/fragen-im-gip-stellen/)
 
@@ -31,7 +31,7 @@ Publikationen und ausgewählte Ergebnisse aus den GIP-Befragungen.
 
 ### [Über uns](https://www.uni-mannheim.de/gip/ueber-uns/)
 
-Informationen zur Arbeit und zum Team des GIP.
+Informationen zur Arbeit und zum Team des German Internet Panel.
 
 ## Kontakt
 

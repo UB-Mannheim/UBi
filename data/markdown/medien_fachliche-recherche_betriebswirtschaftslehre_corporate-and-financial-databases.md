@@ -132,7 +132,7 @@ In addition to that, extended access to Orbis is available, including bulk-downl
 - [Orbis user guide](https://help.bvdinfo.com/mergedProjects/68_EN/Home.htm)
 
 Access: [Orbis](http://dbis.uni-regensburg.de/warpto.php?bib_id=ubman&color=8&titel_id=12630&url=https%3A%2F%2Forbis4.bvdinfo.com%2Fip) (via Bureau van Dijk interface)
-Extended Access: For bulk download of large datasets („Orbis Generics“) as well as for historic updates an extended access option is available for Orbis. Extended access can be used by professors and academic staff of Mannheim University, including student thesis supervised by these persons. For usage a special username/password is required, which is administered by the Dean's Office of the Business School. Please contact orbisuni-mannheim.de to reserve access.
+Extended Access: For bulk download of large datasets („Orbis Generics“) as well as for historic updates an extended access option is available for Orbis. Extended access can be used by professors and academic staff of Mannheim University, including student thesis supervised by these persons. For usage a special username/password is required, which is administered by the Dean's Office of the Business School. Please contact orbis@uni-mannheim.de to reserve access.
 
 
 ## SDC Worldwide Mergers, Acquisitions & Alliances (Thomson Financial)

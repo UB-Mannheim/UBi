@@ -45,7 +45,7 @@ Bei Bedarf bieten wir nach Vereinbarung gerne zusätzliche Kurse an.
 [Literaturverwaltung mit Zotero (Video, Präsentation – Deutsch)](https://cloud.bib.uni-mannheim.de/s/aWFdsESpmsqCsik)
 [Reference Management with Zotero (Video, Presentation, Worksheet – English)](https://cloud.bib.uni-mannheim.de/s/na5n3GdCT8Qtf3A)
 **Kontakt**
-Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an litverw.ubuni-mannheim.de.
+Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an litverw.ub@uni-mannheim.de.
 
 
 ## Anleitungen
@@ -92,4 +92,4 @@ Sehen Sie ein Tutorial zur [Citation Style Language CSL](https://youtu.be/jxxSyv
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss, Schneckenhof West, 68161 Mannheim
 - Web: [www.bib.uni-mannheim.de/literaturverwaltungsprogramme](/services/literaturverwaltungsprogramme/)
-- E-Mail: litverw.ubuni-mannheim.de
+- E-Mail: litverw.ub@uni-mannheim.de

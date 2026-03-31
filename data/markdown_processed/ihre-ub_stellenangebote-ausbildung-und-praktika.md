@@ -1,9 +1,9 @@
 ---
-title: Stellenangebote, Ausbildung und Praktika an der Universitätsbibliothek Mannheim – Übersicht zu Jobs, Ausbildungsmöglichkeiten und Praktika
+title: Stellenangebote, Ausbildung und Praktika an der Universitätsbibliothek Mannheim – Übersicht und Kontakt
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/job-offers-training-and-internships/
 category: Benutzung
-tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Fachangestellte', 'Bibliotheksdienst', 'Berufsorientierung', 'Benutzungsdienste', 'Schulungen']
+tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Fachangestellte', 'Bibliotheksdienst', 'Benutzungsdienste', 'Schulpraktikum', 'Kontakt']
 language: de
 ---
 
@@ -37,7 +37,7 @@ Für Schülerinnen und Schüler ab der 9. Jahrgangsstufe und dem 14. Lebensjahr 
 
 ### Pflichtpraktikum im Rahmen der Ausbildung zum/zur Fachangestellten für Medien- und Informationsdienste (FaMI)
 
-Du bist gerade in der FaMI-Ausbildung und möchtest die Arbeit an einer wissenschaftlichen Bibliothek kennenlernen? Bei uns kannst du in einem ein- bis zweiwöchigen Praktikum die verschiedenen Arbeitsbereiche und Tätigkeitsfelder der Universitätsbibliothek Mannheim näher unter die Lupe nehmen. Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung und mehr – freue dich auf einen interessanten Einblick in unseren Arbeitsalltag!
+Du bist gerade in der FaMI-Ausbildung und möchtest die Arbeit an einer wissenschaftlichen Bibliothek kennenlernen? Bei uns kannst du in einem ein- bis zweiwöchigen Praktikum die verschiedenen Arbeitsbereiche und Tätigkeitsfelder der Universitätsbibliothek Mannheim näher kennenlernen. Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung und mehr – freue dich auf einen interessanten Einblick in unseren Arbeitsalltag!
 
 ### Pflichtpraktikum im Rahmen von bibliotheks- und informationswissenschaftlichen Studiengängen
 
@@ -45,28 +45,22 @@ Sie möchten im Rahmen Ihres informationswissenschaftlichen Studiengangs ein meh
 
 ## Kontakt
 
-### Angela Leichtweiß
+### Ansprechpartnerinnen für Ausbildung und Praktika
 
-Stellvertretende Leiterin der Abteilung Benutzungsdienste | Leiterin Aus- und Fortbildung
-Aufgaben:
+#### Angela Leichtweiß
 
-- Bestandsmanagement Mediathek
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
+- Stellvertretende Leiterin der Abteilung Benutzungsdienste
+- Leiterin Aus- und Fortbildung
+- Aufgaben: Bestandsmanagement Mediathek, fachliche Beratung bei Recherchefragen, Durchführung von Schulungen im Fachbereich
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 273, 68161 Mannheim
+- Telefon: +49 621 181-3335
+- E-Mail: [angela.leichtweiss@uni-mannheim.de](mailto:angela.leichtweiss@uni-mannheim.de)
 
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 273, 68161 Mannheim
-Telefon: +49 621 181-3335
-E-Mail: [angela.leichtweiss@uni-mannheim.de](mailto:angela.leichtweiss@uni-mannheim.de)
+#### Jessica Kaiser
 
-### Jessica Kaiser
-
-Leiterin der Abteilung Benutzungsdienste | Stellvertretende Leiterin Aus- und Fortbildung
-Aufgaben:
-
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
-- Schreibberatung
-
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
-Telefon: +49 621 181-2920
-E-Mail: [jessica.kaiser@uni-mannheim.de](mailto:jessica.kaiser@uni-mannheim.de)
+- Leiterin der Abteilung Benutzungsdienste
+- Stellvertretende Leiterin Aus- und Fortbildung
+- Aufgaben: Fachliche Beratung bei Recherchefragen, Durchführung von Schulungen im Fachbereich, Schreibberatung
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
+- Telefon: +49 621 181-2920
+- E-Mail: [jessica.kaiser@uni-mannheim.de](mailto:jessica.kaiser@uni-mannheim.de)

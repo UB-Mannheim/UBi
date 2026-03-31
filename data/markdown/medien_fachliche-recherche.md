@@ -19,7 +19,7 @@ Bitte wenden Sie sich für eine individuelle Auskunft oder Beratung an unsere Fa
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
-- E-Mail: rudolf.ninkuni-mannheim.de
+- E-Mail: rudolf.nink@uni-mannheim.de
 
 
 ### Anglistik
@@ -35,7 +35,7 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
-- E-Mail: rudolf.ninkuni-mannheim.de
+- E-Mail: rudolf.nink@uni-mannheim.de
 
 
 ### Betriebswirtschaftslehre
@@ -51,7 +51,7 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 - Telefon: +49 621 181-3753
-- E-Mail: xiuwen.yeuni-mannheim.de
+- E-Mail: xiuwen.ye@uni-mannheim.de
 
 
 ### Germanistik
@@ -67,7 +67,7 @@ Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädago
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
-- E-Mail: rudolf.ninkuni-mannheim.de
+- E-Mail: rudolf.nink@uni-mannheim.de
 
 
 ### Geschichte
@@ -83,7 +83,7 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
-- E-Mail: viktor.boeckinguni-mannheim.de
+- E-Mail: viktor.boecking@uni-mannheim.de
 
 
 ### Informatik
@@ -99,7 +99,7 @@ Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
 Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für Mathematik und (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
-- E-Mail: philipp.zumsteinuni-mannheim.de
+- E-Mail: philipp.zumstein@uni-mannheim.de
 - ORCID-ID: 0000-0002-6485-9434 (https://orcid.org/0000-0002-6485-9434)
 
 
@@ -116,7 +116,7 @@ Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachref
 Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für Mathematik und (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
-- E-Mail: philipp.zumsteinuni-mannheim.de
+- E-Mail: philipp.zumstein@uni-mannheim.de
 - ORCID-ID: 0000-0002-6485-9434 (https://orcid.org/0000-0002-6485-9434)
 
 
@@ -133,7 +133,7 @@ Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachref
 Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
-- E-Mail: ellis.kolbuni-mannheim.de
+- E-Mail: ellis.kolb@uni-mannheim.de
 
 
 ### Pädagogik und Wirtschaftspädagogik
@@ -149,7 +149,7 @@ Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für B
 Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 - Telefon: +49 621 181-3753
-- E-Mail: xiuwen.yeuni-mannheim.de
+- E-Mail: xiuwen.ye@uni-mannheim.de
 
 
 ### Philosophie
@@ -165,7 +165,7 @@ Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädago
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
-- E-Mail: rudolf.ninkuni-mannheim.de
+- E-Mail: rudolf.nink@uni-mannheim.de
 
 
 ### Politikwissenschaft
@@ -181,7 +181,7 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: hendrik.platteuni-mannheim.de
+- E-Mail: hendrik.platte@uni-mannheim.de
 
 
 ### Psychologie
@@ -197,7 +197,7 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: hendrik.platteuni-mannheim.de
+- E-Mail: hendrik.platte@uni-mannheim.de
 
 
 ### Rechtswissenschaft
@@ -213,7 +213,7 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Rechtswissenschaft
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
 - Telefon: +49 621 181-3024
-- E-Mail: marion.francken-welzuni-mannheim.de
+- E-Mail: marion.francken-welz@uni-mannheim.de
 
 
 ### Romanistik
@@ -229,7 +229,7 @@ Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für 
 Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
-- E-Mail: jorge.murciauni-mannheim.de
+- E-Mail: jorge.murcia@uni-mannheim.de
 
 
 ### Soziologie
@@ -245,7 +245,7 @@ Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachle
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: hendrik.platteuni-mannheim.de
+- E-Mail: hendrik.platte@uni-mannheim.de
 
 
 ### Sprachpraxis
@@ -257,7 +257,7 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
-- E-Mail: jorge.murciauni-mannheim.de
+- E-Mail: jorge.murcia@uni-mannheim.de
 
 
 ### Allgemeine Sprach- und Literaturwissenschaft
@@ -273,7 +273,7 @@ Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachle
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
-- E-Mail: rudolf.ninkuni-mannheim.de
+- E-Mail: rudolf.nink@uni-mannheim.de
 
 
 ### Volkswirtschaftslehre
@@ -289,4 +289,4 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 - Telefon: +49 621 181-3753
-- E-Mail: xiuwen.yeuni-mannheim.de
+- E-Mail: xiuwen.ye@uni-mannheim.de

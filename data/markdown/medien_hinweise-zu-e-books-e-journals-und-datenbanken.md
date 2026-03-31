@@ -46,7 +46,7 @@ Information der Universitäts-IT zu [eduroam](https://www.uni-mannheim.de/it/anl
 Ihre persönlichen Zugangsdaten dürfen Sie nicht an Dritte weitergeben.
 Sie dürfen lizenzierte Inhalte nur zum persönlichen Gebrauch oder zu Forschungszwecken speichern und ausdrucken. Die Nutzung der E-Medien unterliegt dem [Urheberrecht](https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/). Beachten Sie auch die Nutzungsbedingungen der Verlage und Anbieter.
 Der technische Schutzmechanismus eines Verlages darf nicht umgangen werden. Der systematische Download von lizenzierten Inhalten ist nur im Rahmen des Urheberrechts und mit Hilfe der vom Anbieter vorgesehenen Funktionalitäten zulässig. Lizenzierte Inhalte dürfen weder elektronisch noch in gedruckter Form an Dritte weitergegeben oder in Systeme Dritter (zum Beispiel ChatGPT) eingespeist werden.
-Bei Fragen oder Problemen hilft Ihnen das Team E-Medien gerne weiter. Schreiben Sie eine E-Mail an e-medien.ubuni-mannheim.de.
+Bei Fragen oder Problemen hilft Ihnen das Team E-Medien gerne weiter. Schreiben Sie eine E-Mail an e-medien.ub@uni-mannheim.de.
 
 
 ## Sie können nicht auf E-Medien der Universitätsbibliothek Mannheim zugreifen?

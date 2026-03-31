@@ -3,7 +3,7 @@ title: Learning Center Schloss Schneckenhof – Arbeitsplätze, Kurse und Beratu
 source_url_de: https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/learning-center-schloss-schneckenhof/
 category: Standorte
-tags: ['Arbeitsplätze', 'Lernzentrum', 'Schreibberatung', 'Study Skills', 'Gruppenarbeit', 'Öffnungszeiten', 'Beratung', 'Schulungen']
+tags: ['Learning Center', 'Arbeitsplätze', 'Gruppenarbeit', 'Schreibberatung', 'Study Skills', 'Öffnungszeiten', 'Schloss Schneckenhof', 'Beratung']
 language: de
 ---
 
@@ -15,16 +15,15 @@ Im Learning Center befindet sich jeweils ein Präsenzexemplar von jedem Buch, da
 
 ## Kurse und Beratung
 
-Das Learning Center bietet regelmäßige Beratungs- und Schulungsangebote.
+Das Learning Center bietet regelmäßige Beratungs- und Schulungsangebote an.
 
 ### Kursreihe Study Skills
 
-In der Kursreihe Study Skills erhalten Sie nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben.
-Weitere Informationen und das aktuelle [Programm](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/).
+In der Kursreihe Study Skills erhalten Sie nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben. Weitere Informationen und das aktuelle Programm finden Sie [hier](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/).
 
 ### Schreibberatung
 
-Unterstützung beim Schreiben von Bachelorarbeiten oder Dissertationen bietet die [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/).
+Für Studierende, die an ihrer Bachelorarbeit oder Dissertation arbeiten und Unterstützung benötigen, bietet die Universitätsbibliothek eine [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/) an.
 
 ## Öffnungszeiten
 
@@ -37,9 +36,11 @@ Unterstützung beim Schreiben von Bachelorarbeiten oder Dissertationen bietet di
 
 ## Kontakt
 
-Learning Center Schloss Schneckenhof
-Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof, 68161 Mannheim
+**Learning Center Schloss Schneckenhof**
+Universität Mannheim
+Universitätsbibliothek
+Schloss Schneckenhof
+68161 Mannheim
 Telefon: +49 621 181-2948
-E-Mail: [info@ub.uni-mannheim.de](mailto:info@ub.uni-mannheim.de)
+E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)

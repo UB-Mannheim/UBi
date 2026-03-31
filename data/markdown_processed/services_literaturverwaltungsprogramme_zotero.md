@@ -1,5 +1,5 @@
 ---
-title: Zotero – Literaturverwaltungssoftware: Funktionen, Anleitungen, Kurse und Kontakt der Universitätsbibliothek Mannheim
+title: Zotero – Literaturverwaltungssoftware: Funktionen, Anleitungen, Kurse und Kontakt an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zotero/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/reference-management-software/zotero/
 category: Services
@@ -16,15 +16,10 @@ language: de
 - Bibliographische Daten während der Internetrecherche speichern
 - Literaturnachweise sammeln, ordnen, mit Tags versehen und annotieren
 - Volltexte speichern und durchsuchen
-- Zitationen in Microsoft Word, LibreOffice und GoogleDocs einfügen, Literaturverzeichnisse automatisch erstellen
-- Zitationsstil auswählen oder anpassen
+- Zitationen in Microsoft Word, LibreOffice und GoogleDocs einfügen; automatische Erstellung von Literaturverzeichnissen
+- Auswahl und Anpassung von Zitationsstilen
 - RSS-Feeds abonnieren
-
-Mit einem optionalen Online-Benutzerkonto können Sie:
-
-- Von jedem PC online auf Ihre Daten zugreifen
-- Daten zwischen verschiedenen Geräten synchronisieren
-- Kollaborativ in Gruppen arbeiten
+- Optional: Online-Benutzerkonto für Zugriff von überall, Synchronisation zwischen Geräten und kollaboratives Arbeiten in Gruppen
 
 ## Download und Installation
 
@@ -34,10 +29,12 @@ Mit einem optionalen Online-Benutzerkonto können Sie:
 
 Aktuelle Kurstermine finden Sie auf der [Events-Seite der UB](https://www.bib.uni-mannheim.de/ihre-ub/aktuelles/events/). Zusätzliche Kurse werden nach Vereinbarung angeboten.
 
-## Aufzeichnungen
+### Aufzeichnungen
 
 - [Literaturverwaltung mit Zotero (Video, Präsentation – Deutsch)](https://cloud.bib.uni-mannheim.de/s/aWFdsESpmsqCsik)
 - [Reference Management with Zotero (Video, Presentation, Worksheet – English)](https://cloud.bib.uni-mannheim.de/s/na5n3GdCT8Qtf3A)
+
+Für individuelle Beratung oder Fragen: [litverw.ub@uni-mannheim.de](mailto:litverw.ub@uni-mannheim.de)
 
 ## Anleitungen
 
@@ -53,7 +50,5 @@ Aktuelle Kurstermine finden Sie auf der [Events-Seite der UB](https://www.bib.un
 ### Team Literaturverwaltung
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss, Schneckenhof West, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de/literaturverwaltungsprogramme](/services/literaturverwaltungsprogramme/)
-- E-Mail: [litverw@ub.uni-mannheim.de](mailto:litverw@ub.uni-mannheim.de)
-
-Für Beratungstermine oder Fragen wenden Sie sich bitte an das Team Literaturverwaltung.
+- Web: [www.bib.uni-mannheim.de/literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- E-Mail: [litverw.ub@uni-mannheim.de](mailto:litverw.ub@uni-mannheim.de)

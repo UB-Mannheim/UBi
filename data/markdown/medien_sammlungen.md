@@ -57,4 +57,4 @@ Bei Fragen rund um das Thema Sonderbestände und deren Benutzung an der Universi
 Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
-- E-Mail: viktor.boeckinguni-mannheim.de
+- E-Mail: viktor.boecking@uni-mannheim.de

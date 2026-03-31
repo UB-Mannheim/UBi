@@ -10,7 +10,7 @@
 Teamleiterin Bibliotheksbereich A5
 - Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 126, 68159 Mannheim
 - Telefon: +49 621 181-3031
-- E-Mail: a5.ubuni-mannheim.de
+- E-Mail: a5.ub@uni-mannheim.de
 
 
 ### Sylvia Zander
@@ -18,7 +18,7 @@ Teamleiterin Bibliotheksbereich A5
 Stellvertretende Teamleiterin Bibliotheksbereich A5
 - Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 127, 68159 Mannheim
 - Telefon: +49 621 181-3032
-- E-Mail: a5.ubuni-mannheim.de
+- E-Mail: a5.ub@uni-mannheim.de
 
 
 ## Europäisches Dokumentationszentrum (EDZ)
@@ -40,4 +40,4 @@ Aufgaben:
 - Analysen im Bereich Bibliometrie
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: hendrik.platteuni-mannheim.de
+- E-Mail: hendrik.platte@uni-mannheim.de

@@ -3,13 +3,13 @@ title: Fachliche Recherche und Services der UB Mannheim für Volkswirtschaftsleh
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/volkswirtschaftslehre/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/economics/
 category: Medien
-tags: ['Volkswirtschaftslehre', 'Datenbanken', 'E-Books', 'Fachberatung', 'Forschungsdaten', 'Literaturrecherche', 'Schulungen', 'Wissenschaftliches Arbeiten']
+tags: ['Volkswirtschaftslehre', 'Datenbanken', 'E-Books', 'Fachberatung', 'Forschungsdaten', 'Literaturrecherche', 'Kurse', 'Wissenschaftliches Arbeiten']
 language: de
 ---
 
 # Volkswirtschaftslehre – Fachliche Recherche und Services
 
-Für das Fach Volkswirtschaftslehre bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Recherchezugänge. Sie können an Kursen teilnehmen oder individuelle Beratung erhalten, um Ihre Recherchefähigkeiten zu vertiefen und Unterstützung beim wissenschaftlichen Arbeiten zu bekommen.
+Für das Fach Volkswirtschaftslehre bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Recherchezugänge. Sie können an Kursen teilnehmen oder individuelle Beratung erhalten, um Ihre Recherchefähigkeiten zu verbessern und Unterstützung beim wissenschaftlichen Arbeiten zu bekommen.
 
 ## Recherchieren
 
@@ -71,15 +71,14 @@ Mehr Informationen zu den Nutzungsbedingungen: [Hinweise zur E-Book- und Datenba
 
 ### Forschungsdaten
 
-Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehbarkeit und wird zunehmend gefordert.
-Einführungen und Hilfen:
+Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehbarkeit und wird zunehmend von Universitäten, Verlagen und Förderern erwartet.
 
-- [forschungsdaten.info](https://www.forschungsdaten.info/)
-- [„Auffinden – Zitieren – Dokumentieren“](https://auffinden-zitieren-dokumentieren.de/)
+- Einführung: [forschungsdaten.info](https://www.forschungsdaten.info/)
+- Publikation: [„Auffinden – Zitieren – Dokumentieren“](https://auffinden-zitieren-dokumentieren.de/)
 - Repositorien-Suche: [re3data](http://www.re3data.org/)
 - Internationale Datensatzsuche: [DataCite](http://search.datacite.org/)
-- An der Universität Mannheim: [MADATA](https://madata.bib.uni-mannheim.de/)
-- Für Wirtschafts- und Sozialwissenschaften: [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) von GESIS
+- Universität Mannheim: [MADATA](https://madata.bib.uni-mannheim.de/)
+- Für Wirtschafts- und Sozialwissenschaften: [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) (GESIS)
 
 ### Fachliche Internetquellen
 
@@ -102,10 +101,10 @@ Einführungen und Hilfen:
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) (Hasso-Plattner-Bibliothek) finden Sie Literatur zum Fach Volkswirtschaftslehre, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Volkswirtschaftslehre, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
-- Die gesamte Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+- [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/), Hasso-Plattner-Bibliothek: Literatur zum Fach Volkswirtschaftslehre, vor Ort nutzbar, nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihe nur für wissenschaftliches Personal.
+- [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Weitere Literatur zur Volkswirtschaftslehre, ausleihbar mit ecUM oder UB-Chipkarte.
+- Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel: Wichtige Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen, mehrfach vorhanden.
+- Recherche im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### Forschungseinrichtungen vor Ort
 
@@ -114,8 +113,8 @@ Einführungen und Hilfen:
 
 ### Journal Ranking
 
-- Rankings in den [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359) mit jährlich neu berechneten „Impact Factors“. Fächer wie Economics über „Select Categories“ auswählen.
-- [Handelsblatt-Ranking](https://www.forschungsmonitoring.org/ranking/vwl/authors) für Personen und Fachbereiche, basierend u.a. auf Publikationstätigkeit und dem [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR) aus der Scopus-Datenbank.
+- [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359): Rankings mit jährlich neu berechneten „Impact Factors“. Fächer über „Select Categories“ auswählen.
+- [Handelsblatt-Ranking](https://www.forschungsmonitoring.org/ranking/vwl/authors): Ranking von Personen und Fachbereichen, basierend u.a. auf Publikationstätigkeit und [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR) aus der Scopus-Datenbank.
 
 ## Kurse und Tutorials
 
@@ -125,8 +124,9 @@ Die UB bietet regelmäßig Schulungen zur Recherche im Fach Volkswirtschaftslehr
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
-**Kurse für das Fach Volkswirtschaftslehre:**
-[Business Studies and Economics: Literature Search](https://ilias.uni-mannheim.de/goto.php?target=crs_1409930_rcodeMckthgQ2kV&client_id=ILIAS) – englischsprachiger Ilias-Kurs mit Lernvideos und Materialien zur Einführung in die Literaturrecherche in wirtschaftswissenschaftlichen Datenbanken.
+**Kurse für das Fach Volkswirtschaftslehre**
+
+- [Business Studies and Economics: Literature Search](https://ilias.uni-mannheim.de/goto.php?target=crs_1409930_rcodeMckthgQ2kV&client_id=ILIAS) – englischsprachiger Ilias-Kurs mit Lernvideos und Materialien zur Einführung in die Literaturrecherche in wirtschaftswissenschaftlichen Datenbanken.
 
 ## Wissenschaftliches Arbeiten
 
@@ -141,7 +141,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 
 Weitere Anleitungen zur Literatursuche und zum wissenschaftlichen Arbeiten im Fach Volkswirtschaftslehre:
 
-- [Recherchetipps des ZBW](https://www.zbw.eu/de/recherchieren/recherchetipps/)
+- [Recherchetipps beim ZBW](https://www.zbw.eu/de/recherchieren/recherchetipps/)
 - [Schreibberatung der Abteilung VWL](https://www.vwl.uni-mannheim.de/studium/bachelorstudium/schreibberatung/)
 - [Schreibberatung der UB](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)

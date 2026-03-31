@@ -46,7 +46,7 @@ Wir erwarten von den Verlagen, dass den [Qualitätsstandards für Open-Access-B�
 
 Die UB weist das Buch in der Universitätsbibliographie auf dem Publikationsserver MADOC nach. Der Volltext wird auf MADOC archiviert und zur Verfügung gestellt. Die Publikationsdaten und Kosteninformationen werden außerdem an [openAPC](https://treemaps.intact-project.org/apcdata/openapc/) und an die DFG übermittelt.
 [Antrag auf Übernahme von Open-Access-Publikationskosten (Bücher)](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/antrag-oa-buecher/)
-Bei Fragen unterstützen wir Sie gerne: publikationsdiensteuni-mannheim.de.
+Bei Fragen unterstützen wir Sie gerne: publikationsdienste@uni-mannheim.de.
 
 
 ## Kontakt
@@ -65,5 +65,5 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
-- E-Mail: philipp.zumsteinuni-mannheim.de
+- E-Mail: philipp.zumstein@uni-mannheim.de
 - ORCID-ID: 0000-0002-6485-9434 (https://orcid.org/0000-0002-6485-9434)

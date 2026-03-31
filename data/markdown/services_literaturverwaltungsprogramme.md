@@ -25,4 +25,4 @@ Aufzeichnungen
 **Links**
 [Literaturverwaltungsprogramme im Vergleich](https://mediatum.ub.tum.de/doc/1316333/1316333.pdf) (PDF, 414 KB)[Zitationsstile ](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zitationsstile/)[Häufig gestellte Fragen](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/haeufig-gestellte-fragen/)
 **Kontakt**
-Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an litverw.ubuni-mannheim.de.
+Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an litverw.ub@uni-mannheim.de.

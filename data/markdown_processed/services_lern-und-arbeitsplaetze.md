@@ -3,7 +3,7 @@ title: Lern- und Arbeitsplätze in den Bibliotheksbereichen der Universitätsbib
 source_url_de: https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/study-and-work-spaces/
 category: Services
-tags: ['Arbeitsplätze', 'Gruppenarbeit', 'Ausstattung', 'Schulungsräume', 'Sonderleseplätze', 'Schließfächer', 'Wasserspender', 'Bibliotheksbereiche']
+tags: ['Arbeitsplätze', 'Gruppenarbeit', 'Ausstattung', 'Schließfächer', 'Wasserspender', 'Schulungsräume', 'Sonderleseplätze', 'Bibliotheksbereiche']
 language: de
 ---
 
@@ -43,7 +43,7 @@ Für Medien, die nicht nach Hause ausgeliehen werden können, stehen Sonderlesep
 
 ## Schließfächer
 
-[Schließfächer](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schliessfaecher/) sind in den Bibliotheksbereichen vorhanden und können mit der ecUM oder UB-Chipkarte genutzt werden.
+[Schließfächer](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schliessfaecher/) sind in den Bibliotheksbereichen vorhanden und können mit der ecUM oder UB-Chipkarte genutzt werden. Das Mitnehmen von Taschen und Jacken in die Bibliotheksbereiche ist erlaubt.
 
 ## Wasserspender
 

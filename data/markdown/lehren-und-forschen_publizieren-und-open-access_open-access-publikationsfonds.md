@@ -52,7 +52,7 @@ Die Rechnung muss folgende Angaben enthalten:
 
 Die UB weist den Artikel in der Universitätsbibliographie auf dem Publikationsserver MADOC nach und kennzeichnet ihn als geförderten Artikel. Der Volltext wird auf MADOC archiviert und zur Verfügung gestellt. Die Daten werden außerdem an [openAPC](https://treemaps.intact-project.org/apcdata/openapc/) und an die DFG übermittelt.
 [Antrag auf Übernahme von Open-Access-Publikationskosten ](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/)
-Bei Fragen unterstützen wir Sie gerne: publikationsdiensteuni-mannheim.de.
+Bei Fragen unterstützen wir Sie gerne: publikationsdienste@uni-mannheim.de.
 
 
 ## Kontakt
@@ -71,5 +71,5 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
-- E-Mail: philipp.zumsteinuni-mannheim.de
+- E-Mail: philipp.zumstein@uni-mannheim.de
 - ORCID-ID: 0000-0002-6485-9434 (https://orcid.org/0000-0002-6485-9434)

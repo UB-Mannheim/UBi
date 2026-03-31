@@ -1,17 +1,17 @@
 ---
-title: Forschungsdatenzentrum der Universitätsbibliothek Mannheim – Team, Aufgaben und Kontaktinformationen
+title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Open Science', 'Data Science', 'Digital Humanities', 'Datenschutz', 'Beratung', 'Universitätsbibliothek']
+tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Ansprechpartner', 'Open Science', 'Data Science', 'Digital Humanities', 'Datenschutz', 'BERD@NFDI']
 language: de
 ---
 
 # Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und rechtliche Unterstützung im Bereich Forschungsdatenmanagement (FDM), Data Science, Open Science und Digitalisierung.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt Forschende bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und rechtliche Unterstützung im Bereich Forschungsdatenmanagement (FDM), Data Science, Open Science und Digitalisierung.
 
-## Team und Kontakt
+## Ansprechpartner und Aufgabenbereiche
 
 ### Dr. Irene Schumm
 
@@ -64,7 +64,7 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 
 ### Thomas Schmidt, M.A.
 
-**Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB**
+**Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy)**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
@@ -104,7 +104,3 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 - Telefon: +49 621 181-2754
 - E-Mail: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
 - ORCID: [0009-0004-6220-8939](https://orcid.org/0009-0004-6220-8939)
-
-______________________________________________________________________
-
-Weitere Informationen zum Forschungsdatenzentrum finden Sie auf der [Webseite des FDZ](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/).

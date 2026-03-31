@@ -3,35 +3,36 @@ title: Schreibberatung der Universitätsbibliothek Mannheim – Unterstützung b
 source_url_de: https://www.bib.uni-mannheim.de/services/schreibberatung/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/academic-writing-consultancy/
 category: Services
-tags: ['Schreibberatung', 'Wissenschaftliches Schreiben', 'Studierende', 'Beratung', 'Handouts', 'Lernvideos', 'Online-Tutorials', 'Textfeedback']
+tags: ['Schreibberatung', 'Wissenschaftliches Schreiben', 'Studierende', 'Handouts', 'Lernvideos', 'Online-Tutorials', 'Textfeedback', 'Themenfindung']
 language: de
 ---
 
 # Schreibberatung der Universitätsbibliothek Mannheim
 
-Die Schreibberatung der Universitätsbibliothek Mannheim unterstützt Studierende aller Studiengänge bei der Planung, dem Schreibprozess und der Überarbeitung wissenschaftlicher Arbeiten – von der Themenfindung bis zur Endkorrektur. Die Beratung ist offen für Hausarbeiten, Bachelor- und Masterarbeiten und findet auf Deutsch oder Englisch statt.
+Die Schreibberatung der Universitätsbibliothek Mannheim unterstützt Studierende aller Studiengänge der Universität Mannheim beim wissenschaftlichen Schreiben – von der Themenfindung bis zur Endüberarbeitung, unabhängig davon, ob es sich um Hausarbeiten, Bachelor- oder Masterarbeiten handelt. Die Beratung erfolgt in deutscher oder englischer Sprache.
 
-## Beratungsangebot
+## Unterstützung und Themen der Schreibberatung
 
-Die Schreibberatung bietet Hilfe zur Selbsthilfe und unterstützt Sie beispielsweise bei folgenden Anliegen:
+Die Schreibberatung bietet Hilfe zur Selbsthilfe und unterstützt Sie unter anderem bei folgenden Fragen:
 
-- Strukturierung und Planung wissenschaftlicher Arbeiten
-- Entwicklung von Schreibstrategien
-- Überwindung von Schreibblockaden
-- Feedback zu Texten und Argumentationsaufbau
-- Fragen zum wissenschaftlichen Zitieren und Exzerpieren
+- Organisation des Schreibprojekts
+- Einstieg ins Schreiben
+- Themeneingrenzung und -erweiterung
+- Auswertung und korrekte Einbindung von Quellen
+- Umgang mit Schreibblockaden und Schwierigkeiten im Schreibprozess
+- Überarbeitung des eigenen Textes
 
 ## Kontakt
 
-Die Beratung erfolgt aktuell per E-Mail oder in einem persönlichen Gespräch über Videokonferenz. Schreiben Sie Ihr Anliegen an: [schreibberatung@ub.uni-mannheim.de](mailto:schreibberatung@ub.uni-mannheim.de).
+Die Beratung findet aktuell per E-Mail oder in einem persönlichen Gespräch über Videokonferenz statt. Schreiben Sie Ihr Anliegen an: [schreibberatung.ub@uni-mannheim.de](mailto:schreibberatung.ub@uni-mannheim.de)
 
-Weiterführend: [„Studium: Eine Abschlussarbeit ist keine Religion“ – Interview mit Jessica Kaiser für die Kolumne UNI LIVE (Frankfurter Allgemeine Zeitung, 13. Mai 2022)](https://www.faz.net/aktuell/karriere-hochschule/studium-eine-abschlussarbeit-ist-keine-religion-18024769-p2.html)
+Weiterführend: [„Studium: Eine Abschlussarbeit ist keine Religion“](https://www.faz.net/aktuell/karriere-hochschule/studium-eine-abschlussarbeit-ist-keine-religion-18024769-p2.html) – Interview mit Jessica Kaiser für die Kolumne UNI LIVE (Frankfurter Allgemeine Zeitung, 13. Mai 2022)
 
 ## Materialien und Links
 
 ### Handouts
 
-Nützliche Übersichten und Arbeitsmaterialien zu Gliederung, Exzerpieren, Zitieren, Schreibtechniken und weiteren Themen rund um das wissenschaftliche Schreiben:
+Nützliche Übersichten und Materialien zu Gliederung, Exzerpieren, Zitieren, Schreibtechniken und weiteren Themen rund um das wissenschaftliche Schreiben:
 
 - EconBiz: [Schreib Deine beste Hausarbeit](https://www.econbiz.de/eb/fileadmin/ik_broschuere/schreibe_deine_beste_hausarbeit_booklet_ccby.pdf) (PDF, 3,8 MB), ZBW – Leibniz-Informationszentrum Wirtschaft
 - Universität Konstanz, Schreibzentrum: [Übungen und Arbeitsmaterialien](https://www.uni-konstanz.de/schreibzentrum/materialien-und-links/uebungen/)

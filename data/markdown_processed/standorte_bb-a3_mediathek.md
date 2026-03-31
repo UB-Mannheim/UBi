@@ -3,13 +3,13 @@ title: Mediathek im Bibliotheksbereich A3 – DVD-Filmsammlung und Ausleihbeding
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-a3/mediathek/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/a3-library/media-center/
 category: Standorte
-tags: ['Mediathek', 'DVD', 'Filme', 'Ausleihe', 'Bibliotheksbereich A3', 'Netzwerk Mediatheken', 'Arbeitsplätze', 'Hausarbeitszeit']
+tags: ['Mediathek', 'DVD', 'Filme', 'Ausleihe', 'Bibliotheksbereich A3', 'Netzwerk Mediatheken', 'Arbeitsplätze', 'Hausarbeit']
 language: de
 ---
 
 # Mediathek im Bibliotheksbereich A3
 
-Im Bibliotheksbereich A3 der Universitätsbibliothek Mannheim steht eine umfangreiche Sammlung von Filmen auf DVD zur Verfügung.
+Im Bibliotheksbereich A3 der Universitätsbibliothek Mannheim finden Sie eine umfangreiche Sammlung von Filmen auf DVD.
 
 ## Filme auf DVD
 
@@ -19,7 +19,7 @@ Im Bibliotheksbereich A3 der Universitätsbibliothek Mannheim steht eine umfangr
 
 Die Universitätsbibliothek Mannheim ist Mitglied im [Netzwerk Mediatheken](https://www.netzwerk-mediatheken.de/).
 
-Den gesamten Bestand der Filme auf DVD finden Sie, indem Sie bei der **Erweiterten Suche** die **Zweigstelle „medio“** auswählen.
+Den gesamten Bestand der Filme auf DVD finden Sie, indem Sie bei der **Erweiterten Suche** die **Zweigstelle „medio“** eingeben.
 
 ## Kontakt
 

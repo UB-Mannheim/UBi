@@ -10,7 +10,7 @@
 Teamleiterin Bibliotheksbereich A3
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/, 108, 68159 Mannheim
 - Telefon: +49 621 181-2989
-- E-Mail: a3.ubuni-mannheim.de
+- E-Mail: a3.ub@uni-mannheim.de
 
 
 ### Isabelle Otto
@@ -18,4 +18,4 @@ Teamleiterin Bibliotheksbereich A3
 Stellvertretende Teamleiterin Bibliotheksbereich A3
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/, 108, 68159 Mannheim
 - Telefon: +49 621 181-3058
-- E-Mail: a3.ubuni-mannheim.de
+- E-Mail: a3.ub@uni-mannheim.de

@@ -53,4 +53,4 @@ Aufgaben:
 - Analysen im Bereich Bibliometrie
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: hendrik.platteuni-mannheim.de
+- E-Mail: hendrik.platte@uni-mannheim.de

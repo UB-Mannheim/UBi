@@ -19,12 +19,12 @@ Alle universitären Einrichtungen können gedruckte und elektronische Bücher un
 - vergünstigte Lieferkonditionen für gedruckte Literatur
 
 Bestellungen können Sie telefonisch oder per E-Mail an Ihren Bibliotheksbereich oder an das Team E-Medien übermitteln.
-| BB A3 | +49 621 181-2989 | erwerbung.a3.ubuni-mannheim.de |
+| BB A3 | +49 621 181-2989 | erwerbung.a3.ub@uni-mannheim.de |
 | --- | --- | --- |
-| BB A5 | +49 621 181-3031 | erwerbung.a5.ubuni-mannheim.de |
-| BB Schloss Ehrenhof | +49 621 181-3020 | erwerbung.ehrenhof.ubuni-mannheim.de |
-| BB Schloss Schneckenhof | +49 621 181-2972 | erwerbung.schneckenhof.ubuni-mannheim.de |
-| Team E-Medien |  | e-medien.ubuni-mannheim.de |
+| BB A5 | +49 621 181-3031 | erwerbung.a5.ub@uni-mannheim.de |
+| BB Schloss Ehrenhof | +49 621 181-3020 | erwerbung.ehrenhof.ub@uni-mannheim.de |
+| BB Schloss Schneckenhof | +49 621 181-2972 | erwerbung.schneckenhof.ub@uni-mannheim.de |
+| Team E-Medien |  | e-medien.ub@uni-mannheim.de |
 
 BB A3
 BB A5
@@ -32,7 +32,7 @@ BB Schloss Ehrenhof
 BB Schloss Schneckenhof
 Team E-Medien
 Die Rechnung leitet die UB in FIORI mit dem Kommentar „Bestellung über UB“ zur Feststellung an Sie weiter.
-Auch ältere bereits laufende Bestellungen, die nicht über die UB ausgeführt wurden, kann die UB nachträglich übernehmen. Das erleichtert Ihnen die Rechnungsbearbeitung in FIORI – insbesondere entfällt die Erklärung nach Nr. 1.1.2 der Beschaffungsrichtlinie. Bei Interesse nehmen Sie bitte Kontakt auf mit zeitschriften.ubuni-mannheim.de.
+Auch ältere bereits laufende Bestellungen, die nicht über die UB ausgeführt wurden, kann die UB nachträglich übernehmen. Das erleichtert Ihnen die Rechnungsbearbeitung in FIORI – insbesondere entfällt die Erklärung nach Nr. 1.1.2 der Beschaffungsrichtlinie. Bei Interesse nehmen Sie bitte Kontakt auf mit zeitschriften.ub@uni-mannheim.de.
 
 
 ## Datenbanken und Datennutzungsverträge
@@ -42,7 +42,7 @@ Möchten Sie eine spezielle Datenbank oder Forschungsdaten bestellen? Dazu ist d
 
 ## 1. Verhandlungsauftrag
 
-Um die UB mit der Verhandlung und dem Abschluss eines Lizenzvertrags zu beauftragen, nutzen Sie das Formular „Verhandlungsauftrag“.  Senden Sie das Formular ausgefüllt und unterschrieben per Hauspost an die Leitung der Abteilung Medienbearbeitung und gerne auch als Scan vorab an erwerbungsleitung.ubuni-mannheim.de.
+Um die UB mit der Verhandlung und dem Abschluss eines Lizenzvertrags zu beauftragen, nutzen Sie das Formular „Verhandlungsauftrag“.  Senden Sie das Formular ausgefüllt und unterschrieben per Hauspost an die Leitung der Abteilung Medienbearbeitung und gerne auch als Scan vorab an erwerbungsleitung.ub@uni-mannheim.de.
 [Verhandlungsauftrag für Datenbanken und Datennutzungsverträge](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Verhandlungsauftrag-2020.rtf) (Word, 1,58 MB)
 
 
@@ -58,7 +58,7 @@ Wenn das gewünschte Produkt zur Verfügung steht, teilt Ihnen die UB die Zugang
 
 ## 4. Rechnung
 
-Die Rechnung wird mit dem Leitkriterium der UB angefordert und im XRechnungsformat oder übergangsweise als PDF-Dokument per E-Mail an rechnungseinganguni-mannheim.de gesendet. Die UB versieht die Rechnung dann mit einem Bearbeitungsvermerk und leitet sie in FIORI mit der Aufwandsart Sonstiges (Kürzel SO) zur Feststellung an Sie weiter. Nehmen Sie in diesem Fall bitte keine Änderungen an der Aufwandsart vor.
+Die Rechnung wird mit dem Leitkriterium der UB angefordert und im XRechnungsformat oder übergangsweise als PDF-Dokument per E-Mail an rechnungseingang@uni-mannheim.de gesendet. Die UB versieht die Rechnung dann mit einem Bearbeitungsvermerk und leitet sie in FIORI mit der Aufwandsart Sonstiges (Kürzel SO) zur Feststellung an Sie weiter. Nehmen Sie in diesem Fall bitte keine Änderungen an der Aufwandsart vor.
 Falls die Rechnung abweichend davon in FIORI bei Ihrer Einrichtung eingeht, ändern Sie die Aufwandsart bei der Feststellung in „Literatur, Daten, Open Access (UB)“. Die UB bestätigt anschließend in FIORI, dass sie beteiligt wurde.
 Weitere Informationen finden Sie in der [Beschaffungsrichtlinie der Universität](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/beschaffung/bezug-bestimmter-waren-und-leistungen/literatur-medien-fakten-datenbanken-und-datensaetzen/).
-Bei Fragen unterstützen wir Sie gerne: erwerbungsleitung.ubuni-mannheim.de.
+Bei Fragen unterstützen wir Sie gerne: erwerbungsleitung.ub@uni-mannheim.de.

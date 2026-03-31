@@ -3,7 +3,7 @@ title: Bibliotheksausweis der Universitätsbibliothek Mannheim – Nutzung, Ersa
 source_url_de: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/library-card/
 category: Benutzung
-tags: ['Bibliotheksausweis', 'ecUM', 'Nutzung', 'Ersatzkarte', 'Kontakt', 'Universität Mannheim', 'Benachrichtigungen', 'Studierendenportal']
+tags: ['Bibliotheksausweis', 'ecUM', 'Nutzung', 'Ersatzkarte', 'Kontakt', 'Universität Mannheim', 'Fernleihe', 'Schließfächer']
 language: de
 ---
 
@@ -11,23 +11,23 @@ language: de
 
 ## Für Mitglieder der Universität Mannheim
 
-Die elektronische Chipkarte ecUM dient gleichzeitig als Bibliotheksausweis. Als Mitglied der Universität Mannheim können Sie mit der ecUM und Ihren Zugangsdaten folgende Services nutzen:
+Die elektronische Chipkarte ecUM dient gleichzeitig als Bibliotheksausweis. Mit der ecUM und Ihren Zugangsdaten können Sie:
 
-- Zugang zu den Bibliotheksbereichen
-- Ausleihe von Medien im Ausleihzentrum Westflügel
-- Drucken, Kopieren und Scannen
-- Bestellung von Medien über die Fernleihe
-- Nutzung lizenzierter elektronischer Medien, auch im Fernzugriff mit [VPN-Client](https://www.uni-mannheim.de/it/anleitungen/vpn/)
-- Campusweiter [Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/)
-- Nutzung von Schließfächern
+- die Bibliotheksbereiche besuchen
+- Medien im Ausleihzentrum Westflügel ausleihen
+- drucken, kopieren und scannen
+- Medien über die Fernleihe bestellen
+- lizenzierte elektronische Medien nutzen, mit [VPN-Client](https://www.uni-mannheim.de/it/anleitungen/vpn/) auch im Fernzugriff
+- campusweit [Internet](https://www.bib.uni-mannheim.de/services/internetzugang/) nutzen
+- Schließfächer benutzen
 
 **Hinweis zur ecUM ab 1. Juli 2025:**
-Ab dem 1. Juli 2025 erhalten neu ausgestellte ecUM-Karten kein Foto mehr auf der Vorderseite. Stattdessen wird ein QR-Code abgebildet. Diese Änderung betrifft alle ab diesem Datum neu ausgestellten Karten. Bereits vorhandene Karten behalten ihre Gültigkeit.
+Ab dem 1. Juli 2025 erhalten neu ausgestellte ecUM-Karten ein neues Design ohne Foto auf der Vorderseite. Stattdessen wird ein QR-Code abgebildet. Bereits ausgestellte Karten behalten ihre Gültigkeit.
 
 ## Für Nicht-Mitglieder der Universität Mannheim
 
 - [Bibliotheksausweis für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
-- [Bibliotheksausweis für Angehörige kooperierender Einrichtungen (Uni HD, DHBW, HS MA, HS LU u.a.)](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
+- [Bibliotheksausweis für Angehörige der Uni HD, DHBW, HS MA, HS LU und anderer kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
 
 ## Ersatz bei Verlust oder Defekt
 
@@ -35,8 +35,8 @@ Bei Verlust oder Defekt Ihrer ecUM können Sie eine Ersatzkarte über das [Studi
 
 ## Benachrichtigungen und Adressänderungen
 
-- Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an Ihre universitäre E-Mail-Adresse gesendet.
-- Adressänderungen können an den ecUM-Terminals und in den Studienbüros vorgenommen werden.
+- Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an Ihre universitäre E-Mail-Adresse geschickt.
+- Adressänderungen sind an den ecUM-Terminals und in den Studienbüros möglich.
 
 ## Kontakt
 

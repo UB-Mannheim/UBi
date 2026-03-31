@@ -32,7 +32,7 @@ Die Universitätsbibliothek und das Mannheimer Zentrum für Europäische Sozialf
 ### 4. Kostengrenze
 
 - Eine Publikationsgebühr von bis zu 2.000 Euro zuzüglich Mehrwertsteuer pro Artikel kann vollständig übernommen werden.
-- Bei höheren Gebühren werden anteilig 2.000 Euro zuzüglich Mehrwertsteuer übernommen; darüber hinausgehende Kosten sind von den Antragstellenden zu tragen.
+- Bei höheren Gebühren werden anteilig 2.000 Euro zuzüglich Mehrwertsteuer übernommen; darüber hinausgehende Kosten tragen die Antragstellenden.
 
 ### 5. Rechnung
 
@@ -46,12 +46,12 @@ Die Universitätsbibliothek und das Mannheimer Zentrum für Europäische Sozialf
 ### 6. Nachweis in MADOC
 
 - Die Universitätsbibliothek weist den Artikel in der Universitätsbibliographie auf dem Publikationsserver MADOC nach und kennzeichnet ihn als geförderten Artikel.
-- Der Volltext wird auf MADOC archiviert und zur Verfügung gestellt.
-- Die Daten werden außerdem an [openAPC](https://treemaps.intact-project.org/apcdata/openapc/) und an die DFG übermittelt.
+- Der Volltext wird auf MADOC archiviert und bereitgestellt.
+- Die Daten werden zudem an [openAPC](https://treemaps.intact-project.org/apcdata/openapc/) und an die DFG übermittelt.
 
 [Antrag auf Übernahme von Open-Access-Publikationskosten](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/)
 
-Bei Fragen: [publikationsdienste@uni-mannheim.de](mailto:publikationsdienste@uni-mannheim.de)
+Bei Fragen wenden Sie sich gerne an: [publikationsdienste@uni-mannheim.de](mailto:publikationsdienste@uni-mannheim.de)
 
 ## Kontakt
 

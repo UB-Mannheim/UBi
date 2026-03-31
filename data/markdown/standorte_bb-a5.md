@@ -35,5 +35,5 @@ Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/me
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, A5, Gebäudeteil A, 68159 Mannheim
 - Telefon: +49 621 181-3030
-- E-Mail: a5.ubuni-mannheim.de
+- E-Mail: a5.ub@uni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a5/)

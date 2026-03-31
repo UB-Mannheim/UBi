@@ -3,7 +3,7 @@ title: Literaturverwaltungsprogramme und Zotero-Support an der Universitätsbibl
 source_url_de: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/reference-management-software/
 category: Services
-tags: ['Literaturverwaltungsprogramme', 'Zotero', 'Citavi', 'Beratung', 'Kurse', 'Zitationsstile', 'FAQ', 'Universitätsbibliothek']
+tags: ['Literaturverwaltung', 'Zotero', 'Citavi', 'Kurse', 'Beratung', 'Zitationsstile', 'FAQ', 'Universitätsbibliothek']
 language: de
 ---
 
@@ -13,7 +13,8 @@ Mit Literaturverwaltungsprogrammen sammeln und verwalten Sie Ihre Literaturstell
 
 Die Universitätsbibliothek unterstützt Sie mit Beratung und Kursen bei der Literaturverwaltung mit der Open-Source-Software Zotero.
 
-Die Landes-Campuslizenz für das Literaturverwaltungsprogramm Citavi ist zum 31. März 2024 ausgelaufen und wurde aufgrund der aktuellen Anbieterkonditionen nicht verlängert. [Weitere Informationen](https://blog.bib.uni-mannheim.de/Aktuelles/?p=25758)
+Die Landes-Campuslizenz für das Literaturverwaltungsprogramm Citavi ist zum 31. März 2024 ausgelaufen und wurde aufgrund der aktuellen Anbieterkonditionen nicht verlängert.
+[Weitere Informationen](https://blog.bib.uni-mannheim.de/Aktuelles/?p=25758)
 [Anleitung zum Umstieg auf Zotero (PDF, 419 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Literaturverwaltung/Anleitung-Citavi-Zotero-Umstieg.pdf)
 
 ## Zotero
@@ -35,4 +36,4 @@ Mit der Open-Source-Software [Zotero](https://www.bib.uni-mannheim.de/services/l
 
 ## Kontakt
 
-Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an [litverw@ub.uni-mannheim.de](mailto:litverw@ub.uni-mannheim.de).
+Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an [litverw.ub@uni-mannheim.de](mailto:litverw.ub@uni-mannheim.de).

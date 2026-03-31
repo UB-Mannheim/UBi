@@ -12,8 +12,17 @@ Die Schreibberatung steht Studierenden der Universität Mannheim in allen Studie
 
 ## Die Schreibberatung leistet Hilfe zur Selbsthilfe und unterstützt Sie zum Beispiel bei diesen Fragen:
 
+
+- Wie organisiere ich mein Schreibprojekt?
+- Wie finde ich ins Schreiben?
+- Wie grenze ich mein Thema ein, wenn ich vor lauter Bäumen den Wald nicht mehr sehe?
+- Wie weite ich mein Thema aus, wenn es zu klein ist?
+- Wie werte ich Quellen aus und binde sie korrekt in meinen Text ein?
+- Was mache ich, wenn ich auf der Stelle trete und mit einer Aufgabe nicht weiterkomme?
+- Wie überarbeite ich meinen Text?
+
 **Kontakt**
-Aktuell beraten wir Sie gerne per E-Mail oder in einem persönlichen Gespräch über Videokonferenz. Schreiben Sie uns Ihr Anliegen: schreibberatung.ubuni-mannheim.de.
+Aktuell beraten wir Sie gerne per E-Mail oder in einem persönlichen Gespräch über Videokonferenz. Schreiben Sie uns Ihr Anliegen: schreibberatung.ub@uni-mannheim.de.
 [„Studium: Eine Abschlussarbeit ist keine Religion“](https://www.faz.net/aktuell/karriere-hochschule/studium-eine-abschlussarbeit-ist-keine-religion-18024769-p2.html) – Interview mit Jessica Kaiser für die Kolumne UNI LIVE (Frankfurter Allgemeine Zeitung vom 13. Mai 2022)
 
 

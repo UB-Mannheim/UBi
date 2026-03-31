@@ -44,7 +44,7 @@ Die Lernräume der UB können Sie ohne Bibliotheksausweis nutzen.
 
 
 - Das [Anmeldeformular](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) bitte ausfüllen, speichern, ausdrucken und unterschreiben. Sie bekommen die ausgefüllte Anmeldung zusätzlich als PDF an Ihre E-Mail-Adresse geschickt.
-- Diesen Ausdruck scannen Sie zusammen mit Ihrem Personalausweis (alternativ Ihrem Reisepass mit Meldebescheinigung) ein und senden die Unterlagen per E-Mail an den Support der Universitäts-IT: itsupportuni-mannheim.de.
+- Diesen Ausdruck scannen Sie zusammen mit Ihrem Personalausweis (alternativ Ihrem Reisepass mit Meldebescheinigung) ein und senden die Unterlagen per E-Mail an den Support der Universitäts-IT: itsupport@uni-mannheim.de.
 - Studierende senden zusätzlich einen Scan Ihres aktuellen Studierendenausweises mit.
 - Als Mitarbeiterin oder Mitarbeiter einer kooperierenden Einrichtung lassen Sie Ihre Zugehörigkeit durch einen Stempel Ihrer Einrichtung auf dem Anmeldeformular bestätigen.
 - Sie erhalten eine E-Mail mit Ihren Zugangsdaten.
@@ -78,4 +78,4 @@ Bei Verlust oder Defekt Ihrer ecUM können Sie sich im InfoCenter bei der UNIT e
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
 - Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
 - Telefon: +49 621 181-2948
-- E-Mail: info.ubuni-mannheim.de
+- E-Mail: info.ub@uni-mannheim.de

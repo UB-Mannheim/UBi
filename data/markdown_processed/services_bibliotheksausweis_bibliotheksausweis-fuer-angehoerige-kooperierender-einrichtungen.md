@@ -43,10 +43,10 @@ Mit der ecUM und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 
 Die Lernräume der Universitätsbibliothek können ohne Bibliotheksausweis genutzt werden.
 
-## Anmeldung – Schritt für Schritt
+## Anmeldung
 
 1. Das [Anmeldeformular](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) ausfüllen, speichern, ausdrucken und unterschreiben. Sie erhalten die ausgefüllte Anmeldung zusätzlich als PDF an Ihre E-Mail-Adresse.
-1. Den Ausdruck zusammen mit Ihrem Personalausweis (alternativ Reisepass mit Meldebescheinigung) einscannen und per E-Mail an den Support der Universitäts-IT senden: [itsupport@uni-mannheim.de](mailto:itsupport@uni-mannheim.de).
+1. Den Ausdruck zusammen mit Ihrem Personalausweis (alternativ Reisepass mit Meldebescheinigung) einscannen und per E-Mail an [itsupport@uni-mannheim.de](mailto:itsupport@uni-mannheim.de) senden.
 1. Studierende fügen einen Scan des aktuellen Studierendenausweises bei.
 1. Mitarbeitende einer kooperierenden Einrichtung lassen die Zugehörigkeit durch einen Stempel der Einrichtung auf dem Anmeldeformular bestätigen.
 1. Sie erhalten eine E-Mail mit Ihren Zugangsdaten.
@@ -56,7 +56,7 @@ Die Lernräume der Universitätsbibliothek können ohne Bibliotheksausweis genut
 
 ### Änderung ab 1. Juli 2025
 
-Ab dem 1. Juli 2025 erhält die ecUM ein neues Design ohne Foto auf der Vorderseite. Stattdessen wird ein QR-Code abgebildet. Die Änderung betrifft alle ab diesem Datum neu ausgestellten Karten; bestehende Karten bleiben weiterhin gültig.
+Ab dem 1. Juli 2025 erhält die ecUM ein neues Design ohne Foto auf der Vorderseite. Stattdessen wird ein QR-Code abgebildet. Die Änderung betrifft alle ab diesem Datum neu ausgestellten Karten; Bestandskarten bleiben weiterhin gültig.
 
 ## Ersatz bei Verlust oder Defekt
 
@@ -64,8 +64,8 @@ Bei Verlust oder Defekt der ecUM kann im InfoCenter bei der UNIT eine neue Karte
 
 ## Benachrichtigungen und Adressänderungen
 
-- Alle Benachrichtigungen (z. B. Vormerkungen, Mahnungen) werden an Ihre universitäre E-Mail-Adresse gesendet.
-- Adressänderungen sind ausschließlich persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dazu Ihren Personalausweis (alternativ Reisepass mit Meldebescheinigung) mit.
+- Alle Benachrichtigungen (z. B. Vormerkungen, Mahnungen) werden an die universitäre E-Mail-Adresse gesendet.
+- Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dazu Ihren Personalausweis (alternativ Reisepass mit Meldebescheinigung) mit.
 
 ## Weitere Informationen
 

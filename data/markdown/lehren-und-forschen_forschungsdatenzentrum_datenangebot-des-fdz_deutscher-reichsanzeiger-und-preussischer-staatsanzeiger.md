@@ -1,4 +1,4 @@
-
+<en_url>https://www.bib.uni-mannheim.de/en/</en_url>
 
 
 # [Deutscher Reichsanzeiger und Preußischer Staatsanzeiger](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/deutscher-reichsanzeiger-und-preussischer-staatsanzeiger/)

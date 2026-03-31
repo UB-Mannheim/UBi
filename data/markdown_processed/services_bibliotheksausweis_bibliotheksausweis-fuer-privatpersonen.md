@@ -11,11 +11,11 @@ language: de
 
 ## Voraussetzungen und Leistungen
 
-Wenn Sie in der Metropolregion Rhein-Neckar oder in Baden-Württemberg wohnen, arbeiten oder studieren, können Sie für eine einmalige Gebühr von 25 Euro die UB-Chipkarte online beantragen.
+Wenn Sie in der Metropolregion Rhein-Neckar oder in Baden-Württemberg wohnen, arbeiten oder studieren, können Sie die UB-Chipkarte für eine einmalige Gebühr von 25 Euro online beantragen.
 
 Mit der UB-Chipkarte und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 
-- Medien im Ausleihzentrum Westflügel ausleihen (ausgenommen Lehrbuchsammlung)
+- Medien im Ausleihzentrum Westflügel ausleihen (außer aus der Lehrbuchsammlung)
 - drucken, kopieren, scannen
 - Medien über die Fernleihe bestellen
 - lizenzierte elektronische Medien an den PCs der UB nutzen (kein Fernzugriff möglich)
@@ -39,19 +39,18 @@ Bei Verlust oder Defekt Ihrer UB-Chipkarte wenden Sie sich bitte an die Infothek
 
 ## Benachrichtigungen und Adressänderungen
 
-- Alle Benachrichtigungen (z. B. Vormerkungen, Mahnungen) werden an die im Formular „Online-Anmeldung für Externe“ angegebene E-Mail-Adresse gesendet.
+- Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an die im Formular „Online-Anmeldung für Externe“ angegebene E-Mail-Adresse gesendet.
 - Adressänderungen sind ausschließlich persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dazu Ihren Personalausweis oder alternativ Ihren Reisepass mit Meldebescheinigung mit.
 
 Weitere Informationen:
 
 - [Bibliotheksausweis für Angehörige der Universität Mannheim](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/)
-- [Bibliotheksausweis für Angehörige kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
+- [Bibliotheksausweis für Angehörige der Uni HD, DHBW, HS MA, HS LU und anderer kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
 
 ## Kontakt
 
-### InfoCenter
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
-- Telefon: +49 621 181-2948
-- E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
+**InfoCenter**
+Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
+Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
+Telefon: +49 621 181-2948
+E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)

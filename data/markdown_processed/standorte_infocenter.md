@@ -3,13 +3,13 @@ title: InfoCenter der Universitätsbibliothek Mannheim – Zentrale Anlaufstelle
 source_url_de: https://www.bib.uni-mannheim.de/standorte/infocenter/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/infocenter/
 category: Standorte
-tags: ['InfoCenter', 'Bibliotheksausweis', 'Serviceangebot', 'Sonderleseplätze', 'Geräteausleihe', 'Beratung', 'Universitätsbibliothek', 'Öffnungszeiten']
+tags: ['InfoCenter', 'Bibliotheksausweis', 'Beratung', 'Sonderleseplätze', 'Geräteausleihe', 'Öffnungszeiten', 'Kontakt', 'Universitätsbibliothek']
 language: de
 ---
 
 # InfoCenter der Universitätsbibliothek Mannheim
 
-Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Auskunft und Beratung zu Bibliotheksausweis, Literaturrecherche und weiteren Bibliotheksservices. Es wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und der Universitätsbibliothek betrieben.
+Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Auskunft, Beratung und verschiedene Bibliotheksservices. Es wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und der Universitätsbibliothek betrieben.
 
 Hier erhalten Sie:
 
@@ -43,4 +43,4 @@ Schloss Schneckenhof, 68161 Mannheim
 Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
 Telefon: +49 621 181-2948
 E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
-[Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)
+Weitere Ansprechpersonen: [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)

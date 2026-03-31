@@ -9,7 +9,7 @@ language: de
 
 # Fernleihe
 
-Literatur, die an keiner Mannheimer Bibliothek vorhanden ist, erhalten Sie über die Fernleihe. Das gewünschte Medium oder eine Aufsatzkopie wird in circa zwei bis drei Wochen aus einer anderen Bibliothek beschafft. Für diesen Service fällt eine Bearbeitungspauschale von 1,50 Euro an. Sie benötigen Ihre Zugangsdaten.
+Literatur, die an keiner Mannheimer Bibliothek vorhanden ist, erhalten Sie über die Fernleihe. Das gewünschte Medium oder eine Aufsatzkopie wird Ihnen in circa zwei bis drei Wochen aus einer anderen Bibliothek besorgt. Für diesen Service fällt eine Bearbeitungspauschale von 1,50 Euro an. Sie benötigen Ihre Zugangsdaten.
 
 ## Bestellen
 
@@ -36,19 +36,19 @@ Kopien vollständiger Beiträge aus Zeitungen oder „Kioskzeitschriften“ kön
 
 Sie werden per E-Mail über den Zugang zu Ihrer Fernleihbestellung informiert.
 
-**Kopien** (z. B. Zeitschriftenartikel oder Buchkapitel) werden in der Regel ausschließlich elektronisch über einen Download-Link per E-Mail bereitgestellt. Die in der E-Mail genannte Downloadfrist von **7 Tagen** ist zu beachten.
+**Kopien** (z. B. Zeitschriftenartikel oder über die Fernleihe bestellte Buchkapitel) werden in der Regel ausschließlich elektronisch über einen Download-Link per E-Mail geliefert. Die in der E-Mail genannte Downloadfrist von 7 Tagen ist zu beachten.
 
-**Medien** wie Bücher können am nächsten Tag nach Benachrichtigung an der Infotheke im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) abgeholt werden. Manche Fernleihen sind nur an den [Sonderleseplätzen](https://www.bib.uni-mannheim.de/standorte/infocenter/) im InfoCenter einsehbar.
+**Medien** wie beispielsweise Bücher, die über die Fernleihe bestellt wurden, können am nächsten Tag nach Benachrichtigung an der Infotheke im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) abgeholt werden. Manche Fernleihen sind nur an den [Sonderleseplätzen](https://www.bib.uni-mannheim.de/standorte/infocenter/) im InfoCenter einsehbar.
 
-Die Leihfrist für Fernleihen beträgt in der Regel **40 Tage**. Eine Verlängerung ist nicht möglich.
+Die Leihfrist für Fernleihen beträgt in der Regel 40 Tage. Eine Verlängerung ist nicht möglich.
 
 ## Alternativen zur Fernleihe
 
 Die folgenden Lieferdienste können von Ihnen als Privatperson genutzt werden:
 
-- [Subito](https://www.subito-doc.de/): Lieferung von Literatur innerhalb von 72 Stunden gegen Gebühr. Aufsätze werden als PDF-Datei per E-Mail verschickt. Die Preise variieren je nach Bestellwunsch.
-- [British Library On Demand](https://www.bl.uk/research/): Lieferung von Aufsatzkopien gegen Gebühr.
-- [Ingenta](http://www.ingentaconnect.com/): Dokumentenlieferdienst mit Zugriff auf über 11.000 Volltexte gegen Gebühr.
+- [Subito](https://www.subito-doc.de/): Liefert Literatur innerhalb von 72 Stunden gegen Gebühr. Aufsätze werden als PDF-Datei per E-Mail verschickt. Die Preise variieren je nach Bestellwunsch.
+- [British Library On Demand](https://www.bl.uk/research/): Liefert gegen Gebühr Aufsatzkopien.
+- [Ingenta](http://www.ingentaconnect.com/): Bietet gegen Gebühr Zugriff auf über 11.000 Volltexte.
 
 ## Kontakt
 

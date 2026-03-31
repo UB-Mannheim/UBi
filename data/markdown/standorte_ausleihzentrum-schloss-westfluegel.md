@@ -33,5 +33,5 @@ Sie holen die Bücher aus dem Regal und buchen sie an den Selbstverbuchern auf I
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Westflügel, 68161 Mannheim
 - Telefon: +49 621 181-2949
-- E-Mail: ausleihe.ubuni-mannheim.de
+- E-Mail: ausleihe.ub@uni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/ausleihe-und-fernleihe/)

@@ -9,7 +9,7 @@ language: de
 
 # Data Science und KI Services des FDZ
 
-Die Data Science Services des Forschungsdatenzentrums (FDZ) der Universitätsbibliothek Mannheim bieten umfassende Unterstützung in allen Phasen von Data-Science- und KI-Projekten – von der Datenerhebung und -analyse bis hin zur Visualisierung und Veröffentlichung. Das FDZ unterstützt zudem bei der Code-Entwicklung, der Wahl geeigneter Infrastruktur, Low-Code/No-Code-Ansätzen sowie der Vernetzung mit Expert*innen und Partner*innen. Projektideen und Fragen können jederzeit mit dem FDZ besprochen werden.
+Die Data Science Services des Forschungsdatenzentrums (FDZ) der Universitätsbibliothek Mannheim bieten umfassende Unterstützung in allen Phasen von Data-Science- und KI-Projekten – von der Datenerhebung und -analyse bis zur Visualisierung und Veröffentlichung. Das FDZ unterstützt zudem bei der Code-Entwicklung, der Wahl geeigneter Infrastruktur, Low-Code/No-Code-Ansätzen sowie der Vernetzung mit Expert*innen und Partner*innen. Projektideen und Fragen können jederzeit mit dem FDZ besprochen werden.
 
 ## Leistungen des Data Science Service
 
@@ -40,24 +40,24 @@ Das FDZ unterstützt bei der Entwicklung reproduzierbarer und transparenter Fors
 
 ### Infrastruktur für Data Science
 
-Beratung zur Auswahl und Nutzung geeigneter Rechenressourcen, einschließlich High Performance Computing (HPC) und kostenloser Cloud-Infrastrukturen wie:
+Das FDZ berät bei der Auswahl und Nutzung geeigneter Rechenressourcen, einschließlich High Performance Computing (HPC) und kostenloser Cloud-Infrastrukturen wie:
 
 - bwCloud, bwSync&Share, bwHPC, GWDG-Cloud
 - Kaggle, Google Colab, Google Cloud for Education, TPU Research Cloud
 
-Zusätzlich bietet das FDZ Beratung zum effizienten Einsatz von Deep-Learning-Modellen in Produktionsumgebungen.
+Zusätzlich gibt es Beratung zum effizienten Einsatz von Deep-Learning-Modellen in Produktionsumgebungen.
 
 ### Low-Code- und No-Code-Data Science
 
-Das FDZ berät zu Low-Code- und No-Code-Ansätzen, die komplexe Data-Science-Projekte mit minimalem Programmieraufwand ermöglichen:
+Das FDZ unterstützt bei der Auswahl und Anwendung von Low-Code- und No-Code-Tools für Data Science:
 
 - Low-Code-Bibliotheken: PyCaret, H2O AutoML, Auto-ViML, TPOT, AutoKeras
 - No-Code-Tools: Google Cloud Auto ML, ML KIT, Runway AI, Lobe, CreateML, RapidMiner, DataRobot
-- Beratung zum Einsatz von Chatbots wie ChatGPT und Alternativen für Rechercheaufgaben und Datenanalysen
+- Beratung zum Einsatz von Chatbots wie ChatGPT und Alternativen für Recherche und Datenanalyse
 
 ### Vernetzung
 
-Das FDZ unterstützt bei der Suche nach Kooperationspartnern und der Organisation von Data-Science-Treffen zur Förderung des Wissens- und Erfahrungsaustauschs innerhalb der Community. Ein wichtiger Partner ist das [Mannheim Center for Data Science](https://www.uni-mannheim.de/datascience/).
+Das FDZ unterstützt bei der Suche nach Kooperationspartnern und der Organisation von Data-Science-Treffen zur Förderung des Wissens- und Erfahrungsaustauschs. Ein wichtiger Partner ist das [Mannheim Center for Data Science](https://www.uni-mannheim.de/datascience/).
 
 ## Kontakt
 
