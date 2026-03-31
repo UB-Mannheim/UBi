@@ -1,4 +1,4 @@
-aiosqlite~=0.21.0
+aiosqlite~=0.22.1
 beautifulsoup4~=4.14.3
 chainlit~=2.9.6
 chromadb~=1.0.20
