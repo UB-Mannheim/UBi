@@ -95,7 +95,7 @@ reaction_on_message_received = false
 
 [UI]
 # Name of the assistant.
-name = "KI-Chatbot der UB Mannheim"
+name = "UBi"
 # Description of the assistant. This is used for HTML tags.
 description = "KI-Chatbot der UB Mannheim"
 favicon = "/public/avatars/assistant.png"
