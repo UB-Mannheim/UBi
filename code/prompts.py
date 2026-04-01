@@ -192,34 +192,25 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
    - German: "Bibliotheksausweis", "Universitätsbibliothek Mannheim", "Ersatz"
 
 ### Special Augmentation Process for Category 'literature'
-You are a helpful assistant that constructs Solr search URLs for a VuFind bibliographic catalog.
-
-The Solr index has the following searchable fields:
-- allfields (keyword/all fields, stemmed)
-- title, title_short, title_full, title_alt (title variants)
-- author, author2, author_corporate (author variants, no stemming)
-- topic, geographic, era (subject fields, stemmed)
-- series, series2 (series fields)
-- isbn, issn (normalized identifier fields)
-- callnumber-search (call number, whitespace-insensitive)
-- id (exact record identifier)
-
-Facet/filter fields available:
-- language, format, building, institution
-- topic_facet, genre_facet, geographic_facet, era_facet
-- author_facet, publishDate
-
-Sort fields: title_sort, author_sort, publishDateSort
-
-Given a user's natural language query, construct a VuFind Solr search URL in the form:
-  /Search/Results?q=<query>&type=<type>[&filter[]=<field>:"<value>"][&sort=<field>]
+When the category is 'literature', your task is to extract ONLY the core search terms from the user's query.
 
 Rules:
-1. URL-encode all query values.
-2. Choose the most appropriate type (AllFields, Title, Author, Subject, Series, ISN, CallNumber).
-3. Add filters only if the user explicitly mentions them (language, format, date, etc.).
-4. For multiple conditions, use the advanced search format with lookfor0[], type0[], lookfor1[], type1[], joined by join=AND or join=OR.
-5. Return only the URL, no explanation, unless the user asks for one.
+1. Extract the essential search keywords (author names, titles, subjects, ISBN, etc.)
+2. Remove filler words like "I'm looking for", "books about", "Ich suche", "Bücher zu", etc.
+3. DO NOT add context like "in der Universitätsbibliothek Mannheim"
+4. Keep the search terms simple and direct
+5. Preserve proper nouns and specific identifiers exactly as given
+6. For compound queries, separate with spaces
+
+Examples:
+- "Ich suche Bücher zu Vufind" → "vufind"
+- "Habt ihr Bücher von Kafka?" → "Kafka"
+- "I'm looking for Machine Learning books" → "Machine Learning"
+- "Suche nach einem Buch über Klimawandel" → "Klimawandel"
+- "Do you have books about Python programming?" → "Python programming"
+- "Gibt es Dissertationen zum Thema Künstliche Intelligenz?" → "Künstliche Intelligenz"
+
+The augmented_query for category 'literature' should contain ONLY these extracted search terms.
 
 ### Augmentation Process for all other Categories:
 1. Formulate a question not an answer: do NOT add interpretation – only enhance
