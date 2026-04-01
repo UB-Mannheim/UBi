@@ -106,6 +106,7 @@ https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/
 https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/
 https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/
 https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/
+https://www.bib.uni-mannheim.de/medien/primo-suchtipps/
 https://www.bib.uni-mannheim.de/medien/sammlungen/
 https://www.bib.uni-mannheim.de/medien/weitere-kataloge/
 https://www.bib.uni-mannheim.de/medien/zeitungen/
