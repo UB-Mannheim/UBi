@@ -8,12 +8,19 @@ from typing import Optional
 import backoff
 import click
 import mdformat
+from langchain_core.language_models.chat_models import BaseChatModel
 from langchain_openai import ChatOpenAI
 from tqdm import tqdm
 
 import utils
 from config import CRAWL_DIR, CUSTOM_DOCS_DIR, DATA_DIR
 from prompts import PROMPT_POST_PROCESSING
+
+try:
+    from langchain_ollama import ChatOllama
+    OLLAMA_AVAILABLE = True
+except ImportError:
+    OLLAMA_AVAILABLE = False
 
 
 # === Processing Functions ===
@@ -322,7 +329,7 @@ def write_markdown_from_url(
 
 @backoff.on_exception(backoff.expo, Exception, max_tries=3)
 async def process_single_file_async(
-    llm: ChatOpenAI, file_path, output_path, prompt
+    llm: BaseChatModel, file_path, output_path, prompt
 ):
     """
     Process a single markdown file with retry logic.
@@ -352,6 +359,7 @@ def process_markdown_files_with_llm(
     files_to_process: list | None = None,
     max_concurrent: int = 3,
     delay_between_requests: float = 0.5,
+    provider: str = "openai",
 ):
     """
     Post-process markdown files with LLM and add YAML header.
@@ -360,10 +368,11 @@ def process_markdown_files_with_llm(
     Args:
         input_dir: Directory containing markdown files
         output_dir: Directory to write processed files
-        model_name: OpenAI model to use
+        model_name: LLM model to use
         files_to_process: List of specific files to process
         max_concurrent: Maximum concurrent API requests
         delay_between_requests: Delay between requests in seconds
+        provider: LLM provider to use ("openai" or "ollama")
     """
     # Backup output_dir if it exists
     if output_dir:
@@ -383,12 +392,25 @@ def process_markdown_files_with_llm(
     output_path.mkdir(parents=True, exist_ok=True)
 
     # Initialize the LLM
-    llm = ChatOpenAI(
-        model=model_name,
-        temperature=temperature,
-        api_key=os.getenv("OPENAI_API_KEY"),
-        max_retries=2,
-    )
+    if provider == "ollama":
+        if not OLLAMA_AVAILABLE:
+            utils.print_err(
+                "[bold red]Error: langchain_ollama is not installed. "
+                "Install it with: pip install langchain-ollama"
+            )
+            return
+        llm = ChatOllama(
+            model=model_name,
+            temperature=temperature,
+            base_url=os.getenv("OLLAMA_BASE_URL", "http://localhost:11434"),
+        )
+    else:  # openai
+        llm = ChatOpenAI(
+            model=model_name,
+            temperature=temperature,
+            api_key=os.getenv("OPENAI_API_KEY"),
+            max_retries=2,
+        )
 
     utils.print_info(f"[bold][Processing Markdown Files with {model_name}]")
 
@@ -994,8 +1016,12 @@ def additional_post_processing(data_dir: str = str(DATA_DIR)):
 @click.option(
     "--model-name",
     "-m",
-    default="gpt-4.1-2025-04-14",
-    help="Model name for LLM postprocessing. (Default: gpt-4.1-2025-04-14)",
+    default=None,
+    help=(
+        "Model name for LLM postprocessing. "
+        "For OpenAI defaults to gpt-4.1-2025-04-14. "
+        "For Ollama defaults to the OLLAMA_CHAT_MODEL environment variable or llama3."
+    ),
 )
 @click.option(
     "--temperature",
@@ -1038,16 +1064,27 @@ def additional_post_processing(data_dir: str = str(DATA_DIR)):
         "and info messages. (Default: True)"
     ),
 )
+@click.option(
+    "--provider",
+    "-p",
+    type=click.Choice(["openai", "ollama"], case_sensitive=False),
+    default=None,
+    help=(
+        "LLM provider to use for post-processing. "
+        "Defaults to ollama if OPENAI_API_KEY is not set, otherwise openai."
+    ),
+)
 def run_post_processing(
     input_dir: str,
     files: tuple,
-    model_name: str,
+    model_name: str | None,
     temperature: float,
     llm_processing: bool,
     additional_processing: bool,
     format_markdown: bool,
     write_snapshot: bool,
-    quiet: bool
+    quiet: bool,
+    provider: str | None,
 ):
     """
     CLI for post-processing markdown files.
@@ -1055,6 +1092,17 @@ def run_post_processing(
     # Set quiet mode
     if quiet or utils.is_quiet_mode():
         utils.set_quiet_mode(True)
+
+    # Auto-select provider: use ollama if OPENAI_API_KEY is absent and no explicit choice was made
+    if provider is None:
+        provider = "openai" if os.getenv("OPENAI_API_KEY") else "ollama"
+
+    # Resolve default model name based on provider
+    if model_name is None:
+        if provider == "ollama":
+            model_name = os.getenv("OLLAMA_CHAT_MODEL", "llama3")
+        else:
+            model_name = "gpt-4.1-2025-04-14"
 
     # Determine which files to process
     files_to_process = []
@@ -1129,6 +1177,7 @@ def run_post_processing(
                 files_to_process=files_to_process,
                 model_name=model_name,
                 temperature=temperature,
+                provider=provider,
             )
 
         # Additional post-processing
