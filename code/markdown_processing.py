@@ -1016,8 +1016,12 @@ def additional_post_processing(data_dir: str = str(DATA_DIR)):
 @click.option(
     "--model-name",
     "-m",
-    default="gpt-4.1-2025-04-14",
-    help="Model name for LLM postprocessing. (Default: gpt-4.1-2025-04-14)",
+    default=None,
+    help=(
+        "Model name for LLM postprocessing. "
+        "For OpenAI defaults to gpt-4.1-2025-04-14. "
+        "For Ollama defaults to the OLLAMA_CHAT_MODEL environment variable or llama3."
+    ),
 )
 @click.option(
     "--temperature",
@@ -1064,20 +1068,23 @@ def additional_post_processing(data_dir: str = str(DATA_DIR)):
     "--provider",
     "-p",
     type=click.Choice(["openai", "ollama"], case_sensitive=False),
-    default="openai",
-    help="LLM provider to use for post-processing. (Default: openai)",
+    default=None,
+    help=(
+        "LLM provider to use for post-processing. "
+        "Defaults to ollama if OPENAI_API_KEY is not set, otherwise openai."
+    ),
 )
 def run_post_processing(
     input_dir: str,
     files: tuple,
-    model_name: str,
+    model_name: str | None,
     temperature: float,
     llm_processing: bool,
     additional_processing: bool,
     format_markdown: bool,
     write_snapshot: bool,
     quiet: bool,
-    provider: str,
+    provider: str | None,
 ):
     """
     CLI for post-processing markdown files.
@@ -1085,6 +1092,17 @@ def run_post_processing(
     # Set quiet mode
     if quiet or utils.is_quiet_mode():
         utils.set_quiet_mode(True)
+
+    # Auto-select provider: use ollama if OPENAI_API_KEY is absent and no explicit choice was made
+    if provider is None:
+        provider = "openai" if os.getenv("OPENAI_API_KEY") else "ollama"
+
+    # Resolve default model name based on provider
+    if model_name is None:
+        if provider == "ollama":
+            model_name = os.getenv("OLLAMA_CHAT_MODEL", "llama3")
+        else:
+            model_name = "gpt-4.1-2025-04-14"
 
     # Determine which files to process
     files_to_process = []
