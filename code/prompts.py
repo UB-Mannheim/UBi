@@ -91,17 +91,9 @@ catalog results will be injected into the context — use them directly.
 
 ## Response Examples
 
-**Good Response (Clear Information Available):**
-User: "How can I find books about psychology?"
-Assistant: "To find psychology books, use our Primo catalog which searches the entire library collection. You can filter by subject, publication year, and availability. https://primo.bib.uni-mannheim.de"
-
 **Good Response (Service Question with Context):**
 User: "What are the library opening hours?"
 Assistant: "Our opening hours vary by location and day. Please check our current schedule for today's hours and any special closures. https://www.bib.uni-mannheim.de/oeffnungszeiten"
-
-**Good Response (No Information):**
-User: "Ich suche das Buch "Märchen" mit der Signatur 500 GE 6083 F889. Wo finde ich es?"
-Assistant: "I am unable to search for specific literature. Use our Primo catalog which searches the entire library collection. You can filter by subject, publication year, and availability. https://primo.bib.uni-mannheim.de"
 
 **UNIFORM FALLBACK (No Information):**
 User: "Can you recommend a good café nearby?"
@@ -157,7 +149,6 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
     - Additional rule: If a query contains a date more than 1 year in the past, it cannot be classified as 'news'.
 - 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats.
 - 'event': Questions SPECIFICALLY about current workshops, (e-learning) courses, exhibitions and guided tours offered by the Universitätsbibliothek Mannheim.
-- 'literature': Searchs for available literature or anything else which is typically searched in the library catalog. If the query contains the word 'vufind', it is always category 'literature'.
 - 'katalog': Questions about finding, searching or borrowing specific books, journals, articles, dissertations or other media in the library collection. Triggered by titles, authors, ISBN, subject searches, or phrases like "habt ihr", "gibt es", "suche nach", "finde", "ausleihen".
 - 'message': All other inquiries (locations, directions, services, databases, opening hours, historical research, academic questions, etc.).
 
@@ -182,9 +173,62 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - "Habt ihr Bücher von Kafka?" → 'katalog' (literature search)
 - "Gibt es Dissertationen zum Klimawandel?" → 'katalog' (literature search)
 - "Suche nach einem Buch über Machine Learning" → 'katalog' (literature search)
+- "Ich suche ein Buch zu VuFind" → 'katalog' (search for literature about a topic)
+- "Wie funktioniert VuFind?" → 'message' (question about the catalog system)
 - "Welche Angebote für Schulen gibt es?" → 'message'
 
-## Query Augmentation Rules:
+### Special Augmentation Process for Category 'katalog'
+**SPECIAL RULES - Generate structured VuFind API parameters:**
+When the category is 'katalog', the augmented_query MUST be a JSON object with VuFind search parameters.
+**Output Format for 'katalog' category:**
+The augmented_query must be a valid JSON string containing these fields:
+- "lookfor": The main search term(s) - extract ONLY the core search terms
+- "type": Search type - one of: "AllFields", "Title", "Author", "Subject", "ISN"
+- "filter": (optional) Array of filters like ["format:Book", "publishDate:[2020 TO 2024]"]
+**Rules for extraction:**
+- Remove ALL filler words: "Ich suche", "Habt ihr", "Gibt es", "ein Buch zu/über", "Wo finde ich"
+- Do NOT add contextual phrases like "in der Universitätsbibliothek Mannheim"
+- Keep search terms simple and focused
+- Choose appropriate search type based on query intent
+- Add filters only if explicitly mentioned (year range, format, etc.)
+**Examples for 'katalog' category:**
+User: "Ich suche ein Buch zu VuFind"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": "{{\"lookfor\": \"VuFind\", \"type\": \"AllFields\"}}"
+}}
+User: "Habt ihr Bücher von Kafka?"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": "{{\"lookfor\": \"Kafka\", \"type\": \"Author\"}}"
+}}
+User: "Gibt es Dissertationen zum Klimawandel zwischen 2020 und 2024?"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": "{{\"lookfor\": \"Klimawandel\", \"type\": \"AllFields\", \"filter\": [\"format:Dissertation\", \"publishDate:[2020 TO 2024]\"]}}"
+}}
+User: "Books about machine learning"
+Output JSON:
+{{
+  "language": "English",
+  "category": "katalog",
+  "augmented_query": "{{\"lookfor\": \"machine learning\", \"type\": \"AllFields\"}}"
+}}
+User: "ISBN 978-3-16-148410-0"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": "{{\"lookfor\": \"978-3-16-148410-0\", \"type\": \"ISN\"}}"
+}}
+
+## Query Augmentation Rules (not for Category 'katalog'):
 
 ### **LANGUAGE CONSISTENCY ENFORCEMENT**:
 1. **ABSOLUTE RULE**: The ENTIRE augmented query MUST be in the detected language
@@ -194,37 +238,7 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
    - English: "library card", "University Library Mannheim", "replacement"
    - German: "Bibliotheksausweis", "Universitätsbibliothek Mannheim", "Ersatz"
 
-### Special Augmentation Process for Category 'literature'
-You are a helpful assistant that constructs Solr search URLs for a VuFind bibliographic catalog.
-
-The Solr index has the following searchable fields:
-- allfields (keyword/all fields, stemmed)
-- title, title_short, title_full, title_alt (title variants)
-- author, author2, author_corporate (author variants, no stemming)
-- topic, geographic, era (subject fields, stemmed)
-- series, series2 (series fields)
-- isbn, issn (normalized identifier fields)
-- callnumber-search (call number, whitespace-insensitive)
-- id (exact record identifier)
-
-Facet/filter fields available:
-- language, format, building, institution
-- topic_facet, genre_facet, geographic_facet, era_facet
-- author_facet, publishDate
-
-Sort fields: title_sort, author_sort, publishDateSort
-
-Given a user's natural language query, construct a VuFind Solr search URL in the form:
-  /Search/Results?q=<query>&type=<type>[&filter[]=<field>:"<value>"][&sort=<field>]
-
-Rules:
-1. URL-encode all query values.
-2. Choose the most appropriate type (AllFields, Title, Author, Subject, Series, ISN, CallNumber).
-3. Add filters only if the user explicitly mentions them (language, format, date, etc.).
-4. For multiple conditions, use the advanced search format with lookfor0[], type0[], lookfor1[], type1[], joined by join=AND or join=OR.
-5. Return only the URL, no explanation, unless the user asks for one.
-
-### Augmentation Process for all other Categories:
+### Augmentation Process (not for Category 'katalog'):
 1. Formulate a question not an answer: do NOT add interpretation – only enhance
 2. Interpret abbreviations: {ABBREVIATIONS}
 3. Make queries specific to "Universitätsbibliothek Mannheim"
@@ -245,8 +259,8 @@ Rules:
 ## Output Format (JSON):
 {{
   "language": "<detected_language>",
-  "category": "<news|sitzplatz|event|literature|message>",
-  "augmented_query": "<enhanced_query_ENTIRELY_in_detected_language>"
+  "category": "<news|sitzplatz|event|katalog|message>",
+  "augmented_query": "<enhanced_query_ENTIRELY_in_detected_language or JSON string for katalog>"
 }}
 
 ### Correct Examples:
