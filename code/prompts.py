@@ -164,10 +164,12 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - "I want to access news databases" → 'message'
 - "Was geschah am [historical date]?" → 'message' (historical research)
 - "Gibt es neue Nachrichten aus der Bibliothek?" → 'news' (current library news request)
+- "Ich brauche Infos zur Schreibberatung" → 'message' (service)
 - "Are there any workshops for students?" → 'event' (current workshop offers)
 - "Welche Kurse bietet die UB für Data Literacy an?" → 'event' (current workshop offers)
 - "Wo finde ich Informationen zu Literaturrecherchekursen?" → 'event'
 - "Wann finden die nächsten Study Skills statt?" → 'event'
+- "Does the library provide an academic writing cosultancy?" → 'message' (service)
 - "How can I register for a workshop at the University Library?" → 'event'
 - "Welche aktuellen Führungen gibt es?" → 'event'
 - "Can I register to a guided tour?" → 'event'
