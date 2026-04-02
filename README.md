@@ -11,6 +11,8 @@
   - **📰 Library News Fetcher** – Retrieves the latest updates directly from the UB Mannheim blog
   - **🪑 Real-time Seat Availability** – Displays real-time information on study space availability at the library
 - [x] 🌍 **Multilingual Support** – Detects and processes user input in multiple languages
+- [x] 🎙️ **Voice Input (optional)** – Local speech-to-text via [Faster-Whisper](https://github.com/guillaumekln/faster-whisper); runs fully offline
+- [x] 🔊 **Voice Output (optional)** – Local text-to-speech via [Silero TTS](https://github.com/snakers4/silero-models); runs fully offline with German voice models
 - [x] 📝 **Feedback Collection** – Stores user questions, answers, and satisfaction ratings for continuous improvement
 - [x] 📄 **Terms of Use Popup** – Ensures users accept terms before interaction
 - [x] 🔐 **Optional Login System** – Supports password-protected access for restricted deployments
@@ -24,7 +26,65 @@
 | LLMs             | OpenAI                         |
 | Embeddings       | OpenAI                         |
 | Vector Database  | OpenAI                         |
+| Voice Input      | [Faster-Whisper](https://github.com/guillaumekln/faster-whisper) (local) |
+| Voice Output     | [Silero TTS](https://github.com/snakers4/silero-models) (local) |
 | Deployment       | Docker + Docker Compose        |
+
+## 🎙️ Audio Features (optional)
+
+UBi supports fully local, offline voice input and output powered by open-source models.
+
+### Audio Input – Speech-to-Text (Faster-Whisper)
+
+Set `ENABLE_AUDIO_INPUT=True` in `.env` to allow users to send voice messages.  
+Transcription is performed locally by [Faster-Whisper](https://github.com/guillaumekln/faster-whisper) – no data leaves your machine.
+
+```env
+ENABLE_AUDIO_INPUT=True
+WHISPER_MODEL=base   # tiny | base | small | medium | large
+WHISPER_DEVICE=cpu   # cpu | cuda
+```
+
+Larger models improve accuracy at the cost of speed and RAM.  `base` is a good default for German + English.
+
+### Audio Output – Text-to-Speech (Silero TTS)
+
+Set `ENABLE_AUDIO_OUTPUT=True` in `.env` to receive spoken responses.  
+Synthesis is performed locally by [Silero TTS](https://github.com/snakers4/silero-models) – no data leaves your machine.  
+The model (~30 MB) is downloaded automatically on first use via PyTorch Hub.
+
+```env
+ENABLE_AUDIO_OUTPUT=True
+TTS_LANGUAGE=de          # Language code: de (German), en (English), ...
+TTS_SPEAKER=thorsten     # Speaker name (see below)
+TTS_SAMPLE_RATE=48000    # Sample rate in Hz
+```
+
+#### Available German speakers
+
+| Speaker    | Gender | Notes              |
+|------------|--------|--------------------|
+| `thorsten` | Male   | Recommended        |
+| `eva_k`    | Female |                    |
+| `karlsson` | Male   |                    |
+
+#### Available English speakers
+
+`en_0`, `en_1`, `en_2`, … (set `TTS_LANGUAGE=en`)
+
+No manual model downloads are required – the model is fetched automatically.
+
+### System requirements for audio processing
+
+| Feature | Minimum RAM | Recommended |
+|---------|------------|-------------|
+| Whisper `tiny`  | 1 GB  | CPU only |
+| Whisper `base`  | 1 GB  | CPU only |
+| Whisper `small` | 2 GB  | CPU / GPU |
+| Whisper `medium`| 5 GB  | GPU recommended |
+| Silero TTS      | ~1 GB | CPU only |
+
+---
 
 ## ⚙️ Native installation
 
