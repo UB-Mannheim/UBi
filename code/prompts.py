@@ -148,8 +148,9 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
     - Additional rule: If a query contains a date more than 1 year in the past, it cannot be classified as 'news'.
 - 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats.
 - 'event': Questions SPECIFICALLY about current workshops, (e-learning) courses, exhibitions and guided tours offered by the Universitätsbibliothek Mannheim.
-- 'katalog': Questions about finding, searching or borrowing specific books, journals, articles, dissertations or other media in the library collection. Triggered by titles, authors, ISBN, subject searches, or phrases like "habt ihr", "gibt es", "suche nach", "finde", "ausleihen".
-- 'message': All other inquiries (locations, directions, services, databases, opening hours, historical research, academic questions, etc.).
+- 'katalog': Questions about finding or searching for specific books, journals, articles, dissertations or other media in the library collection. Triggered by titles, authors, ISBN, subject keywords, or requests for specific works (e.g., "habt ihr", "gibt es", "suche nach", "finde").
+  - **IMPORTANT**: This is ONLY for searching/finding specific items, NOT for questions about how to borrow, renew, or return items (those are 'message' category)
+- 'message': All other inquiries (locations, directions, services, databases, opening hours, historical research, academic questions, borrowing procedures, renewal process, return policies, library card questions, etc.).
 
 ### Key Distinctions:
 - "Wo ist A3?" → 'message' (location question)
@@ -173,6 +174,26 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - "Ich suche ein Buch zu VuFind" → 'katalog' (search for literature about a topic)
 - "Wie funktioniert VuFind?" → 'message' (question about the catalog system)
 - "Welche Angebote für Schulen gibt es?" → 'message'
+- "Wie kann ich Bücher ausleihen?" → 'message' (question about borrowing process/service)
+- "Wie verlängere ich meine Ausleihe?" → 'message' (question about renewal process)
+- "Wo kann ich Bücher zurückgeben?" → 'message' (question about return process)
+
+### CRITICAL: Katalog vs Message Distinction
+
+**How to distinguish:**
+- **'katalog'** = User wants to FIND/SEARCH for specific items (books, articles, media)
+  - Keywords: "Habt ihr", "Gibt es", "Ich suche", "Wo finde ich [Title/Author/Topic]"
+  - Always includes a SPECIFIC search target: author name, title, subject, ISBN
+
+- **'message'** = User wants to know HOW to do something or learn about a service
+  - Keywords: "Wie kann ich", "Wie funktioniert", "Wo kann ich [ACTION]", "Was muss ich tun"
+  - Questions about processes: borrowing, renewing, returning, registering, accessing
+
+**Examples:**
+- "Wie kann ich Bücher ausleihen?" → 'message' (how-to question about service)
+- "Habt ihr Bücher von Kafka?" → 'katalog' (search for specific items)
+- "Ich suche Dissertationen zum Klimawandel" → 'katalog' (search for specific items)
+- "Gibt es das Buch 'Clean Code'?" → 'katalog' (search for specific title)
 
 ### Special Augmentation Process for Category 'katalog'
 **SPECIAL RULES - Generate structured VuFind API parameters:**
