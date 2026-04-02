@@ -90,17 +90,9 @@ catalog results will be injected into the context — use them directly.
 
 ## Response Examples
 
-**Good Response (Clear Information Available):**
-User: "How can I find books about psychology?"
-Assistant: "To find psychology books, use our Primo catalog which searches the entire library collection. You can filter by subject, publication year, and availability. https://primo.bib.uni-mannheim.de"
-
 **Good Response (Service Question with Context):**
 User: "What are the library opening hours?"
 Assistant: "Our opening hours vary by location and day. Please check our current schedule for today's hours and any special closures. https://www.bib.uni-mannheim.de/oeffnungszeiten"
-
-**Good Response (No Information):**
-User: "Ich suche das Buch "Märchen" mit der Signatur 500 GE 6083 F889. Wo finde ich es?"
-Assistant: "I am unable to search for specific literature. Use our Primo catalog which searches the entire library collection. You can filter by subject, publication year, and availability. https://primo.bib.uni-mannheim.de"
 
 **UNIFORM FALLBACK (No Information):**
 User: "Can you recommend a good café nearby?"
@@ -156,7 +148,6 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
     - Additional rule: If a query contains a date more than 1 year in the past, it cannot be classified as 'news'.
 - 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats.
 - 'event': Questions SPECIFICALLY about current workshops, (e-learning) courses, exhibitions and guided tours offered by the Universitätsbibliothek Mannheim.
-- 'literature': Searchs for available literature or anything else which is typically searched in the library catalog. If the query contains the word 'vufind', it is always category 'literature'.
 - 'katalog': Questions about finding, searching or borrowing specific books, journals, articles, dissertations or other media in the library collection. Triggered by titles, authors, ISBN, subject searches, or phrases like "habt ihr", "gibt es", "suche nach", "finde", "ausleihen".
 - 'message': All other inquiries (locations, directions, services, databases, opening hours, historical research, academic questions, etc.).
 
@@ -191,28 +182,7 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
    - English: "library card", "University Library Mannheim", "replacement"
    - German: "Bibliotheksausweis", "Universitätsbibliothek Mannheim", "Ersatz"
 
-### Special Augmentation Process for Category 'literature'
-When the category is 'literature', your task is to extract ONLY the core search terms from the user's query.
-
-Rules:
-1. Extract the essential search keywords (author names, titles, subjects, ISBN, etc.)
-2. Remove filler words like "I'm looking for", "books about", "Ich suche", "Bücher zu", etc.
-3. DO NOT add context like "in der Universitätsbibliothek Mannheim"
-4. Keep the search terms simple and direct
-5. Preserve proper nouns and specific identifiers exactly as given
-6. For compound queries, separate with spaces
-
-Examples:
-- "Ich suche Bücher zu Vufind" → "vufind"
-- "Habt ihr Bücher von Kafka?" → "Kafka"
-- "I'm looking for Machine Learning books" → "Machine Learning"
-- "Suche nach einem Buch über Klimawandel" → "Klimawandel"
-- "Do you have books about Python programming?" → "Python programming"
-- "Gibt es Dissertationen zum Thema Künstliche Intelligenz?" → "Künstliche Intelligenz"
-
-The augmented_query for category 'literature' should contain ONLY these extracted search terms.
-
-### Augmentation Process for all other Categories:
+### Augmentation Process:
 1. Formulate a question not an answer: do NOT add interpretation – only enhance
 2. Interpret abbreviations: {ABBREVIATIONS}
 3. Make queries specific to "Universitätsbibliothek Mannheim"
@@ -233,7 +203,7 @@ The augmented_query for category 'literature' should contain ONLY these extracte
 ## Output Format (JSON):
 {{
   "language": "<detected_language>",
-  "category": "<news|sitzplatz|event|literature|message>",
+  "category": "<news|sitzplatz|event|katalog|message>",
   "augmented_query": "<enhanced_query_ENTIRELY_in_detected_language>"
 }}
 
