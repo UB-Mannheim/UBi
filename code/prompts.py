@@ -225,7 +225,8 @@ The augmented_query must be a valid JSON object (NOT a string) containing these 
 - **Search type selection**:
   - "von [Name]" / "by [Name]" / "Autor [Name]" / "author [Name]" → `"type": "Author"`
   - "zu [Thema]" / "about [Topic]" / "über [Thema]" / "zum Thema [Thema]" → `"type": "AllFields"` or `"type": "Subject"`
-  - **"von oder zu [Name]"** / **"by or about [Name]"** → `"type": "AllFields"` (search across all fields to find both author and subject matches)
+  - **"von oder zu [Name]"** / **"von oder über [Name]"** / **"by or about [Name]"** → `"type": "AllFields"` (search across all fields to find both author and subject matches)
+  - **CRITICAL**: When the query contains "oder" (or) connecting "von" with "zu"/"über"/"about", ALWAYS use `"type": "AllFields"`
   - "Titel [Title]" / "title [Title]" → `"type": "Title"`
   - ISBN/ISSN numbers → `"type": "ISN"`
   - Default when unsure → `"type": "AllFields"`
@@ -363,6 +364,13 @@ Output JSON:
   "augmented_query": {{"lookfor": "Sabine Gehrlein", "type": "Author"}}
 }}
 User: "Gibt es Literatur von oder zu Sabine Gehrlein?"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "Sabine Gehrlein", "type": "AllFields"}}
+}}
+User: "Gibt es Literatur von oder über Sabine Gehrlein?"
 Output JSON:
 {{
   "language": "German",
