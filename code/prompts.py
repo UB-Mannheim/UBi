@@ -170,9 +170,22 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - "Habt ihr Bücher von Kafka?" → 'katalog' (literature search)
 - "Gibt es Dissertationen zum Klimawandel?" → 'katalog' (literature search)
 - "Suche nach einem Buch über Machine Learning" → 'katalog' (literature search)
+- "Ich suche ein Buch zu VuFind" → 'katalog' (search for literature about a topic)
+- "Wie funktioniert VuFind?" → 'message' (question about the catalog system)
 - "Welche Angebote für Schulen gibt es?" → 'message'
 
-## Query Augmentation Rules:
+### Special Augmentation for Category 'katalog':
+For catalog searches, extract ONLY the core search terms:
+- Remove filler words ("Ich suche", "Habt ihr", "Gibt es")
+- Keep only: topic, author, title, ISBN, or subject
+- Do NOT add context about "Universitätsbibliothek Mannheim"
+- Do NOT add explanatory phrases
+Examples:
+- "Ich suche ein Buch zu VuFind" → "VuFind"
+- "Habt ihr Bücher von Kafka?" → "Kafka"
+- "Gibt es Dissertationen zum Klimawandel?" → "Klimawandel Dissertation"
+
+## Query Augmentation Rules (not for Category 'katalog'):
 
 ### **LANGUAGE CONSISTENCY ENFORCEMENT**:
 1. **ABSOLUTE RULE**: The ENTIRE augmented query MUST be in the detected language
@@ -182,7 +195,7 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
    - English: "library card", "University Library Mannheim", "replacement"
    - German: "Bibliotheksausweis", "Universitätsbibliothek Mannheim", "Ersatz"
 
-### Augmentation Process:
+### Augmentation Process (not for Category 'katalog'):
 1. Formulate a question not an answer: do NOT add interpretation – only enhance
 2. Interpret abbreviations: {ABBREVIATIONS}
 3. Make queries specific to "Universitätsbibliothek Mannheim"
