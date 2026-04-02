@@ -8,13 +8,16 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    /* Prevent browser window scrollbar */
+    overflow-x: hidden;
+    /* Allow vertical scrolling; prevent horizontal scrollbar */
 }
 
 #root {
-    padding-bottom: 140px; /* Fallback: ensures message composer is visible before JS sets dynamic padding */
-    /* padding-top and padding-bottom are set by JS for header/footer */
+    padding-top: 66px;      /* Account for header height (46px + 10px top + 10px bottom padding) */
+    padding-bottom: calc(160px + env(safe-area-inset-bottom, 0px)); /* Account for message composer height; add safe area for mobile notches */
+    min-height: 100vh;
+    box-sizing: border-box;
+    /* padding-top and padding-bottom may be overridden by JS for header/footer */
 }
 
 #message-composer {
