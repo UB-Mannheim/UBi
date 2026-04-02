@@ -13,7 +13,7 @@ body {
 }
 
 #root {
-
+    padding-bottom: 140px; /* Fallback: ensures message composer is visible before JS sets dynamic padding */
     /* padding-top and padding-bottom are set by JS for header/footer */
 }
 
