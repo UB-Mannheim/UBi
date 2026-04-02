@@ -217,8 +217,6 @@ Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Derzeit i
 
 **Hinweis:** Die Liste der unterstützten Anbieter kann sich ändern. Prüfen Sie im Zweifel die Zugangsoptionen direkt auf der jeweiligen Plattform.
 
-## Shibboleth-Zugang zu digitalen Medien
-
 ## Shibboleth
 
 ### Überblick
@@ -299,3 +297,78 @@ Nicht alle Anbieter unterstützen Shibboleth. Derzeit ist der Shibboleth-Zugang 
 - Nicht alle Anbieter unterstützen Shibboleth. Die obenstehende Liste wird regelmäßig aktualisiert.
 - Der Zugang erfolgt über das institutionelle Login mit Ihrer Uni-ID.
 - Für weitere Informationen besuchen Sie die [Shibboleth-Seite der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/).
+
+## Shibboleth-Zugang zu digitalen Medien
+
+## Shibboleth-Zugang zu lizenzierten E-Medien
+
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren Shibboleth nutzen, um von außerhalb des Campus komfortabel auf digitale Medien zuzugreifen – ohne VPN.
+
+Shibboleth ermöglicht den Zugriff auf lizenzierte elektronische Angebote auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus. Der Zugang wird auf den Seiten der Anbieter beispielsweise als **Institutionelles Login** bezeichnet.
+
+Als Angehörige der Universität Mannheim wählen Sie auf der jeweiligen Anbieterplattform die Universität Mannheim aus einer Liste aus. Anschließend melden Sie sich über die Anmeldemaske der Universität mit Ihrer Uni-ID an.
+
+**Hinweis:** Nicht alle Anbieter unterstützen Shibboleth. Derzeit ist der Shibboleth-Zugang über die Universitätsbibliothek Mannheim auf den folgenden Plattformen möglich:
+
+### Übersicht der unterstützten Anbieter
+
+- American Institute of Physics
+- Annual Reviews
+- Beck-eLibrary
+- Brepols
+- Brill
+- Bristol University Press
+- Brockhaus
+- CAIRN
+- Cambridge University Press
+- Content-Select
+- Ebsco
+- Edward Elgar Publishing
+- Elsevier
+- Emerald
+- Erich Schmidt Verlag (ESV)
+- F.A.Z.-Bibliotheksportal
+- Franz Steiner Verlag
+- Hanser eLibrary
+- HeinOnline
+- Highwire Press
+- Hogrefe E-Books und Zeitschriften
+- IEEE
+- Informs
+- Ingentaconnect
+- Institute of Physics
+- John Benjamins
+- JSTOR
+- Karger
+- Mark Allen Group
+- Mary Ann Liebert
+- Meiner
+- MIT Press
+- Mohr Siebeck
+- Munzinger
+- Narr
+- Nature
+- Nomos
+- OECD
+- Oxford University Press Journals
+- Pearson
+- ProQuest Ebook Central
+- ReDI
+- RSC
+- Sage Publications
+- Science
+- SIAM
+- Springer
+- Statista
+- Taylor & Francis Ebooks
+- Taylor & Francis Journals
+- Tectum eLibrary
+- University of Toronto Press
+- UTB
+- Vandenhoeck & Ruprecht
+- Walter de Gruyter
+- Web of Science
+- Wiley
+- World Scientific Publishing
+
+Weitere Informationen finden Sie auf der [Website der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/).

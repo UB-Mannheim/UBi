@@ -56,14 +56,13 @@ Diese und weitere E-Books finden Sie auch im [Katalog Primo](https://primo.bib.u
 
 Bekannte und viel genutzte Anlaufstellen für Forschungsdaten sind etwa:
 [C](http://ckan.org/)[KAN](https://ckan.org/)
-[Web Data Commons](http://webdatacommons.org/)
+[Web Data Commons](https://webdatacommons.org/)
 
 
 ### Fachliche Internetquellen
 
 [Wolfram Alpha](https://www.wolframalpha.com/) – semantische Suchmaschine (auf Mathematica basierend)
 [Virtuelle Fachbibliothek Mathematik](https://fidmath.de/) – Rechercheportal
-[MathGuide](http://www.mathguide.de/index.html) – Internetführer Mathematik der SUB Göttingen
 [Oberwolfach Photo Collection](https://opc.mfo.de/) – Photos von Mathematikern aus aller Welt
 [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php) – „mathematische Abstammung“ erforschen
 [Thesis Guide](https://thesisguide.org/) – Advice for great computer science thesis projects (TU München)
