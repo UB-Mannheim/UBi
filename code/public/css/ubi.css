@@ -17,6 +17,10 @@ body {
     /* padding-top and padding-bottom are set by JS for header/footer */
 }
 
+#message-composer {
+    margin-bottom: 30px !important;
+}
+
 /* Light theme */
 :root {
     --primary: 209 100% 18% !important;
