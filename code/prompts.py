@@ -144,12 +144,14 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - The detected language is FINAL and overrides any language patterns from chat history
 
 ## Category Classification Rules:
-- 'news': Users requesting SPECIFICALLY current/recent news from the Universitätsbibliothek (blog posts, announcements from the last few months) or current events from the library. Historical events or dates before the current year are NOT news.
+- 'news': Users requesting SPECIFICALLY current/recent news/announcements/blog posts from the Universitätsbibliothek (e.g., library events, policy changes, service updates). Historical events or general information requests are NOT news.
     - Additional rule: If a query contains a date more than 1 year in the past, it cannot be classified as 'news'.
+    - **CRITICAL**: Queries about "new books", "recent publications", "latest acquisitions" are 'katalog' searches, NOT 'news'
 - 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats.
 - 'event': Questions SPECIFICALLY about current workshops, (e-learning) courses, exhibitions and guided tours offered by the Universitätsbibliothek Mannheim.
-- 'katalog': Questions about finding or searching for specific books, journals, articles, dissertations or other media in the library collection. Triggered by titles, authors, ISBN, subject keywords, or requests for specific works (e.g., "habt ihr", "gibt es", "suche nach", "finde").
+- 'katalog': Questions about finding or searching for specific books, journals, articles, dissertations or other media in the library collection. Triggered by titles, authors, ISBN, subject keywords, requests for specific works, or queries about new/recent publications/acquisitions (e.g., "habt ihr", "gibt es", "suche nach", "finde", "neueste Bücher", "neue Bücher").
   - **IMPORTANT**: This is ONLY for searching/finding specific items, NOT for questions about how to borrow, renew, or return items (those are 'message' category)
+  - **IMPORTANT**: Queries about "new books", "recent books", "latest publications" are catalog searches ('katalog'), not library news ('news')
 - 'message': All other inquiries (locations, directions, services, databases, opening hours, historical research, academic questions, borrowing procedures, renewal process, return policies, library card questions, etc.).
 
 ### Key Distinctions:
@@ -177,6 +179,12 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - "Wie kann ich Bücher ausleihen?" → 'message' (question about borrowing process/service)
 - "Wie verlängere ich meine Ausleihe?" → 'message' (question about renewal process)
 - "Wo kann ich Bücher zurückgeben?" → 'message' (question about return process)
+- "Welche neuen Bücher gibt es?" → 'katalog' (search for recent books in catalog)
+- "Welche ganz neuen Bücher gibt es in der UB?" → 'katalog' (search for newest books)
+- "Was sind die neuesten Artikel zu KI?" → 'katalog' (search for recent articles)
+- "Gibt es neue Nachrichten aus der Bibliothek?" → 'news' (request for library announcements)
+- "Was gibt es Neues von der UB?" → 'news' (request for library news/updates)
+- "Welche neuen Services bietet die Bibliothek?" → 'news' (request for new service announcements/changes)
 
 ### CRITICAL: Katalog vs Message Distinction
 
@@ -270,7 +278,8 @@ The augmented_query must be a valid JSON object (NOT a string) containing these 
   - **CRITICAL**: Do NOT add date filters when the query only contains temporal adjectives like "neueste", "aktuellste", "newest", "latest" WITHOUT a specific year
 - **Language filters**: When user specifies a language (English, German, French, …), add `"language:<code>"`
 - **Sort order**: When user requests a specific sort order OR uses temporal adjectives without a specific year, add `"sort": "<value>"`:
-  - "neueste" / "neuesten" / "neueste zuerst" / "neuesten zuerst" / "aktuellste" / "aktuellsten" / "newest" / "newest first" / "most recent" / "latest" / "latest first" → `"sort": "year desc"`
+  - "neueste" / "neuesten" / "neueste zuerst" / "neuesten zuerst" / "neue" / "neuen" / "ganz neue" / "ganz neuen" / "aktuellste" / "aktuellsten" / "newest" / "newest first" / "most recent" / "latest" / "latest first" → `"sort": "year desc"`
+  - **NOTE**: Queries like "neueste Bücher", "neue Bücher", or "ganz neue Bücher" should use `sort: "year desc"` to show most recently published items first
   - IMPORTANT: These keywords indicate sorting by recency, NOT filtering by date range
   - "älteste zuerst" / "chronologisch" / "oldest first" / "chronological" → `"sort": "year"`
   - "nach Autor" / "alphabetisch nach Autor" / "by author" → `"sort": "author"`
@@ -411,6 +420,27 @@ Output JSON:
   "language": "German",
   "category": "katalog",
   "augmented_query": {{"lookfor": "Goethe", "type": "Author"}}
+}}
+User: "Welche ganz neuen Bücher gibt es in der UB?"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "*", "type": "AllFields", "filter": ["format:Book"], "sort": "year desc"}}
+}}
+User: "What are the newest books in the library?"
+Output JSON:
+{{
+  "language": "English",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "*", "type": "AllFields", "filter": ["format:Book"], "sort": "year desc"}}
+}}
+User: "Ich suche die neuesten Artikel zu Künstlicher Intelligenz"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "Künstliche Intelligenz", "type": "AllFields", "filter": ["format:Article"], "sort": "year desc"}}
 }}
 
 ## Query Augmentation Rules (not for Category 'katalog'):
