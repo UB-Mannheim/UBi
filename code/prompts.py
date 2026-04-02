@@ -174,16 +174,56 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - "Wie funktioniert VuFind?" → 'message' (question about the catalog system)
 - "Welche Angebote für Schulen gibt es?" → 'message'
 
-### Special Augmentation for Category 'katalog':
-For catalog searches, extract ONLY the core search terms:
-- Remove filler words ("Ich suche", "Habt ihr", "Gibt es")
-- Keep only: topic, author, title, ISBN, or subject
-- Do NOT add context about "Universitätsbibliothek Mannheim"
-- Do NOT add explanatory phrases
-Examples:
-- "Ich suche ein Buch zu VuFind" → "VuFind"
-- "Habt ihr Bücher von Kafka?" → "Kafka"
-- "Gibt es Dissertationen zum Klimawandel?" → "Klimawandel Dissertation"
+### Special Augmentation Process for Category 'katalog'
+**SPECIAL RULES - Generate structured VuFind API parameters:**
+When the category is 'katalog', the augmented_query MUST be a JSON object with VuFind search parameters.
+**Output Format for 'katalog' category:**
+The augmented_query must be a valid JSON string containing these fields:
+- "lookfor": The main search term(s) - extract ONLY the core search terms
+- "type": Search type - one of: "AllFields", "Title", "Author", "Subject", "ISN"
+- "filter": (optional) Array of filters like ["format:Book", "publishDate:[2020 TO 2024]"]
+**Rules for extraction:**
+- Remove ALL filler words: "Ich suche", "Habt ihr", "Gibt es", "ein Buch zu/über", "Wo finde ich"
+- Do NOT add contextual phrases like "in der Universitätsbibliothek Mannheim"
+- Keep search terms simple and focused
+- Choose appropriate search type based on query intent
+- Add filters only if explicitly mentioned (year range, format, etc.)
+**Examples for 'katalog' category:**
+User: "Ich suche ein Buch zu VuFind"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": "{{\"lookfor\": \"VuFind\", \"type\": \"AllFields\"}}"
+}}
+User: "Habt ihr Bücher von Kafka?"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": "{{\"lookfor\": \"Kafka\", \"type\": \"Author\"}}"
+}}
+User: "Gibt es Dissertationen zum Klimawandel zwischen 2020 und 2024?"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": "{{\"lookfor\": \"Klimawandel\", \"type\": \"AllFields\", \"filter\": [\"format:Dissertation\", \"publishDate:[2020 TO 2024]\"]}}"
+}}
+User: "Books about machine learning"
+Output JSON:
+{{
+  "language": "English",
+  "category": "katalog",
+  "augmented_query": "{{\"lookfor\": \"machine learning\", \"type\": \"AllFields\"}}"
+}}
+User: "ISBN 978-3-16-148410-0"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": "{{\"lookfor\": \"978-3-16-148410-0\", \"type\": \"ISN\"}}"
+}}
 
 ## Query Augmentation Rules (not for Category 'katalog'):
 
@@ -217,7 +257,7 @@ Examples:
 {{
   "language": "<detected_language>",
   "category": "<news|sitzplatz|event|katalog|message>",
-  "augmented_query": "<enhanced_query_ENTIRELY_in_detected_language>"
+  "augmented_query": "<enhanced_query_ENTIRELY_in_detected_language or JSON string for katalog>"
 }}
 
 ### Correct Examples:
