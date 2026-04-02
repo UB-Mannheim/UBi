@@ -222,12 +222,22 @@ The augmented_query must be a valid JSON object (NOT a string) containing these 
 - Keep search terms simple and focused
 - Choose appropriate search type based on query intent
 - **Generic format words**: If the query only mentions a format type (Bücher, Dissertationen, Articles) without a specific topic, use `"*"` for lookfor
+- **Search type selection**:
+  - "von [Name]" / "by [Name]" / "Autor [Name]" / "author [Name]" → `"type": "Author"`
+  - "zu [Thema]" / "about [Topic]" / "über [Thema]" / "zum Thema [Thema]" → `"type": "AllFields"` or `"type": "Subject"`
+  - **"von oder zu [Name]"** / **"by or about [Name]"** → `"type": "AllFields"` (search across all fields to find both author and subject matches)
+  - "Titel [Title]" / "title [Title]" → `"type": "Title"`
+  - ISBN/ISSN numbers → `"type": "ISN"`
+  - Default when unsure → `"type": "AllFields"`
 - **Format filters**: When user mentions a format type, add the corresponding filter:
   - Buch / Bücher / Book / Books → `"format:Book"`
   - Dissertation(en) / Thesis / Theses → `"format:Dissertation"`
   - Zeitschrift(en) / Journal(s) → `"format:Journal"`
   - Artikel / Article(s) → `"format:Article"`
   - eBook(s) / E-Book(s) → `"format:eBook"`
+  - **CRITICAL**: ONLY add format filters when the user **explicitly** mentions a format type
+  - **CRITICAL**: Do NOT add multiple format filters (e.g., never produce `["format:Book", "format:Article"]`) — if user doesn't specify a single explicit format, omit the filter entirely
+  - **NEVER INFER** format types from generic words like "Literatur" (literature) or "Medien" (media)
 - **Distinguish temporal adjectives from temporal filters**:
   - Temporal ADJECTIVES without a year ("neueste", "aktuellste", "newest", "latest") → use `sort` parameter
   - Temporal PHRASES with a specific year ("nach 2020", "since 2015") → use `publishDate` filter
@@ -344,6 +354,34 @@ Output JSON:
   "language": "German",
   "category": "katalog",
   "augmented_query": {{"lookfor": "978-3-16-148410-0", "type": "ISN"}}
+}}
+User: "Gibt es Literatur von Sabine Gehrlein?"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "Sabine Gehrlein", "type": "Author"}}
+}}
+User: "Gibt es Literatur von oder zu Sabine Gehrlein?"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "Sabine Gehrlein", "type": "AllFields"}}
+}}
+User: "Literature by or about Einstein"
+Output JSON:
+{{
+  "language": "English",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "Einstein", "type": "AllFields"}}
+}}
+User: "Werke von Goethe"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "Goethe", "type": "Author"}}
 }}
 
 ## Query Augmentation Rules (not for Category 'katalog'):
