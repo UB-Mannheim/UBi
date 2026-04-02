@@ -3,6 +3,7 @@ beautifulsoup4~=4.14.3
 chainlit~=2.10
 chromadb~=1.5.5
 fastapi~=0.135.3
+faster-whisper~=1.0.0
 feedparser~=6.0.12
 langchain~=1.2.13
 langchain-chroma~=1.1.0
@@ -12,10 +13,10 @@ langchain_ollama
 langchain-openai~=1.1.11
 Markdown~=3.10.2
 mdformat~=1.0.0
+piper-tts~=1.2.0
 plotly~=6.6.0
 Requests~=2.33.0
 tqdm~=4.67.3
 unstructured~=0.18.32
 json-repair~=0.58.7
 wheel~=0.46.3
-

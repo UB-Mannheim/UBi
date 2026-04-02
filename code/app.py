@@ -1,6 +1,8 @@
 from __future__ import annotations
 
+import asyncio
 import datetime
+import io
 import os
 import chainlit as cl
 from dotenv import load_dotenv
@@ -9,6 +11,14 @@ import time
 from typing import Optional
 
 # === UBi imports ===
+from audio_handler import (
+    generate_speech,
+    initialize_piper,
+    initialize_whisper_model,
+    is_audio_input_enabled,
+    is_audio_output_enabled,
+    transcribe_audio,
+)
 from catalog_search import search_catalog
 from config import ENV_PATH
 from conversation_memory import (
@@ -41,6 +51,8 @@ USE_OPENAI_VECTORSTORE = os.getenv(
     "USE_OPENAI_VECTORSTORE", "False"
     ).lower() == "true"
 _quiet_mode = os.getenv("QUIET_MODE", "False").lower() == "true"
+_enable_audio_input = is_audio_input_enabled()
+_enable_audio_output = is_audio_output_enabled()
 
 
 # === Conditional Imports for OpenAI vectorstore / RAG logic ===
@@ -430,6 +442,35 @@ async def handle_event_route(
     return response
 
 
+# === Audio Output Helper ===
+async def _add_audio_to_message(
+    msg: cl.Message, text: str, language: str = "German"
+) -> None:
+    """
+    Generate TTS audio and attach it as an element to *msg*.
+
+    Runs Piper synthesis in a thread-pool executor so the async event loop
+    is not blocked.  Preserves any existing elements on the message (e.g.
+    Plotly charts added by handle_sitzplatz_route).
+    """
+    if not _enable_audio_output or not text:
+        return
+    loop = asyncio.get_running_loop()
+    audio_bytes = await loop.run_in_executor(
+        None, lambda: generate_speech(text, language)
+    )
+    if audio_bytes is None:
+        return
+    audio_element = cl.Audio(
+        name="response_audio",
+        content=audio_bytes,
+        mime="audio/wav",
+        display="inline",
+    )
+    msg.elements = (msg.elements or []) + [audio_element]
+    await msg.update()
+
+
 # === Chat Start: Initialize Session Memory and Terms ===
 @cl.on_chat_start
 async def on_chat_start():
@@ -443,6 +484,68 @@ async def on_chat_start():
     if not USE_OPENAI_VECTORSTORE:
         rag_chain = await create_rag_chain(debug=False)
         cl.user_session.set("rag_chain", rag_chain)
+
+    # Pre-load audio models in the background if enabled
+    if _enable_audio_input:
+        loop = asyncio.get_running_loop()
+        await loop.run_in_executor(None, initialize_whisper_model)
+    if _enable_audio_output:
+        loop = asyncio.get_running_loop()
+        await loop.run_in_executor(None, initialize_piper)
+
+
+# === Audio Input Handlers ===
+@cl.on_audio_chunk
+async def on_audio_chunk(chunk: cl.AudioChunk):
+    """Collect streaming audio chunks into the user session buffer."""
+    if not _enable_audio_input:
+        return
+    if chunk.isStart:
+        cl.user_session.set("audio_buffer", io.BytesIO())
+        cl.user_session.set("audio_mime_type", chunk.mimeType)
+    audio_buffer = cl.user_session.get("audio_buffer")
+    if audio_buffer is not None:
+        audio_buffer.write(chunk.data)
+
+
+@cl.on_audio_end
+async def on_audio_end(elements: list[cl.Audio]):
+    """Transcribe completed audio and route it through the message pipeline."""
+    if not _enable_audio_input:
+        return
+
+    audio_buffer: io.BytesIO = cl.user_session.get("audio_buffer")
+    if audio_buffer is None:
+        return
+
+    audio_buffer.seek(0)
+    audio_data = audio_buffer.read()
+    if not audio_data:
+        return
+
+    mime_type = cl.user_session.get("audio_mime_type") or "audio/wav"
+
+    # Run blocking Whisper transcription in a thread-pool executor
+    loop = asyncio.get_running_loop()
+    text = await loop.run_in_executor(
+        None, lambda: transcribe_audio(audio_data, mime_type)
+    )
+
+    if not text:
+        await cl.Message(
+            content=(
+                "Leider konnte ich die Sprachaufnahme nicht verstehen. "
+                "Bitte versuchen Sie es erneut."
+            ),
+            author="assistant",
+        ).send()
+        return
+
+    if not _quiet_mode:
+        print_info(f"[bold]🎙️ Audio transcribed: {text}")
+
+    # Inject the transcribed text into the normal message pipeline
+    await on_message(cl.Message(content=text))
 
 
 # === Chat Message Handler ===
@@ -512,21 +615,26 @@ async def on_message(message: cl.Message):
 
     # "News" Route
     if route and route.lower() == "news":
-        await handle_news_route(detected_language, msg, session_id, user_input)
+        response = await handle_news_route(
+            detected_language, msg, session_id, user_input
+        )
+        await _add_audio_to_message(msg, response, detected_language)
         return
 
     # "Free seats" Route
     if route and route.lower() == "sitzplatz":
-        await handle_sitzplatz_route(
+        response = await handle_sitzplatz_route(
             detected_language, msg, session_id, user_input
         )
+        await _add_audio_to_message(msg, response, detected_language)
         return
 
     # "Workshop / Events" Route
     if route and route.lower() == "event":
-        await handle_event_route(
+        response = await handle_event_route(
             detected_language, msg, session_id, user_input
         )
+        await _add_audio_to_message(msg, response, detected_language)
         return
 
     # "Katalog" Route
@@ -545,6 +653,7 @@ async def on_message(message: cl.Message):
         session_memory.add_turn(session_id, MessageRole.USER, user_input)
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, response)
         await save_interaction(session_id, user_input, response)
+        await _add_audio_to_message(msg, response, detected_language)
         return
 
     # Add user message to memory (after getting context)
@@ -576,6 +685,8 @@ async def on_message(message: cl.Message):
         )
         if not success:
             return
+
+    await _add_audio_to_message(msg, response, detected_language)
 
 
 # === Chat End ===

@@ -11,6 +11,8 @@
   - **📰 Library News Fetcher** – Retrieves the latest updates directly from the UB Mannheim blog
   - **🪑 Real-time Seat Availability** – Displays real-time information on study space availability at the library
 - [x] 🌍 **Multilingual Support** – Detects and processes user input in multiple languages
+- [x] 🎙️ **Voice Input (optional)** – Local speech-to-text via [Faster-Whisper](https://github.com/guillaumekln/faster-whisper); runs fully offline
+- [x] 🔊 **Voice Output (optional)** – Local text-to-speech via [Piper TTS](https://github.com/rhasspy/piper); runs fully offline with German voice models
 - [x] 📝 **Feedback Collection** – Stores user questions, answers, and satisfaction ratings for continuous improvement
 - [x] 📄 **Terms of Use Popup** – Ensures users accept terms before interaction
 - [x] 🔐 **Optional Login System** – Supports password-protected access for restricted deployments
@@ -24,7 +26,61 @@
 | LLMs             | OpenAI                         |
 | Embeddings       | OpenAI                         |
 | Vector Database  | OpenAI                         |
+| Voice Input      | [Faster-Whisper](https://github.com/guillaumekln/faster-whisper) (local) |
+| Voice Output     | [Piper TTS](https://github.com/rhasspy/piper) (local) |
 | Deployment       | Docker + Docker Compose        |
+
+## 🎙️ Audio Features (optional)
+
+UBi supports fully local, offline voice input and output powered by open-source models.
+
+### Audio Input – Speech-to-Text (Faster-Whisper)
+
+Set `ENABLE_AUDIO_INPUT=True` in `.env` to allow users to send voice messages.  
+Transcription is performed locally by [Faster-Whisper](https://github.com/guillaumekln/faster-whisper) – no data leaves your machine.
+
+```env
+ENABLE_AUDIO_INPUT=True
+WHISPER_MODEL=base   # tiny | base | small | medium | large
+WHISPER_DEVICE=cpu   # cpu | cuda
+```
+
+Larger models improve accuracy at the cost of speed and RAM.  `base` is a good default for German + English.
+
+### Audio Output – Text-to-Speech (Piper TTS)
+
+Set `ENABLE_AUDIO_OUTPUT=True` in `.env` to receive spoken responses.  
+Synthesis is performed locally by [Piper TTS](https://github.com/rhasspy/piper).
+
+```env
+ENABLE_AUDIO_OUTPUT=True
+PIPER_VOICE=de_DE-thorsten-high   # voice model name (without file extension)
+PIPER_VOICE_DIR=.                 # directory containing the .onnx model file
+```
+
+#### Downloading a Piper voice model
+
+Browse available models at <https://github.com/rhasspy/piper/blob/master/VOICES.md> and download the `.onnx` and `.onnx.json` files for your chosen voice, e.g.:
+
+```bash
+# German high-quality voice (recommended)
+wget https://huggingface.co/rhasspy/piper-voices/resolve/main/de/de_DE/thorsten/high/de_DE-thorsten-high.onnx
+wget https://huggingface.co/rhasspy/piper-voices/resolve/main/de/de_DE/thorsten/high/de_DE-thorsten-high.onnx.json
+```
+
+Place both files in `PIPER_VOICE_DIR` (defaults to the `code/` directory) and set `PIPER_VOICE=de_DE-thorsten-high`.
+
+### System requirements for audio processing
+
+| Feature | Minimum RAM | Recommended |
+|---------|------------|-------------|
+| Whisper `tiny`  | 1 GB  | CPU only |
+| Whisper `base`  | 1 GB  | CPU only |
+| Whisper `small` | 2 GB  | CPU / GPU |
+| Whisper `medium`| 5 GB  | GPU recommended |
+| Piper TTS       | < 500 MB | CPU only |
+
+---
 
 ## ⚙️ Native installation
 
