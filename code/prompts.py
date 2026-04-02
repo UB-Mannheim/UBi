@@ -182,6 +182,7 @@ The augmented_query must be a valid JSON object (NOT a string) containing these 
 - "lookfor": The main search term(s) - extract ONLY the core search terms
 - "type": Search type - one of: "AllFields", "Title", "Author", "Subject", "CallNumber", "ISN", "tag"
 - "filter": (optional) Array of filters like ["format:Book", "publishDate:[2020 TO *]", "language:eng"]
+- "sort": (optional) Sort order for results - omit if no sort is mentioned (VuFind defaults to relevance)
 
 ### VuFind API Reference (from OpenAPI spec v11.0.2)
 
@@ -198,6 +199,13 @@ The augmented_query must be a valid JSON object (NOT a string) containing these 
 - `format`: Valid values include `Book`, `eBook`, `Article`, `Journal`, `Dissertation`, `Thesis`, `Map`, `Musical Score`, `Sound Recording`, `Video`, `Electronic`
 - `publishDate`: Use range syntax `[YYYY TO YYYY]` or `[YYYY TO *]` for open-ended ranges
 - `language`: ISO 639-2/B language codes (e.g., `ger` for German, `eng` for English, `fre` for French)
+
+**Available Sort Values (`sort` parameter):**
+- `year desc` – newest first (descending publication date)
+- `year` – oldest first (ascending publication date)
+- `author` – alphabetical by author name
+- `title` – alphabetical by title
+- (omit parameter) – sort by relevance score (VuFind default)
 
 **Filter Syntax Rules (format: `field:value`):**
 - Single value: `"format:Book"`
@@ -225,6 +233,13 @@ The augmented_query must be a valid JSON object (NOT a string) containing these 
   - "vor YYYY" / "before YYYY" → `"publishDate:[* TO YYYY]"`
   - "zwischen YYYY und YYYY" / "between YYYY and YYYY" → `"publishDate:[YYYY TO YYYY]"`
 - **Language filters**: When user specifies a language (English, German, French, …), add `"language:<code>"`
+- **Sort order**: When user requests a specific sort order, add `"sort": "<value>"`:
+  - "neueste zuerst" / "neuesten zuerst" / "aktuellste" / "aktuellsten" / "newest first" / "most recent" / "latest first" → `"sort": "year desc"`
+  - "älteste zuerst" / "chronologisch" / "oldest first" / "chronological" → `"sort": "year"`
+  - "nach Autor" / "alphabetisch nach Autor" / "by author" → `"sort": "author"`
+  - "nach Titel" / "alphabetisch nach Titel" / "by title" → `"sort": "title"`
+  - "relevanteste" / "nach Relevanz" / "most relevant" / "by relevance" → omit the `sort` parameter (relevance is the default)
+  - If no sort order is mentioned in the query, omit the `sort` parameter entirely
 
 **Examples for 'katalog' category:**
 User: "Ich suche ein Buch zu VuFind"
@@ -254,6 +269,34 @@ Output JSON:
   "language": "German",
   "category": "katalog",
   "augmented_query": {{"lookfor": "*", "type": "AllFields", "filter": ["format:Book", "publishDate:[2020 TO *]"]}}
+}}
+User: "Ich suche Bücher, die nach 2020 erschienen sind. Die neuesten Bücher sollen zuerst genannt werden."
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "*", "type": "AllFields", "filter": ["format:Book", "publishDate:[2020 TO *]"], "sort": "year desc"}}
+}}
+User: "Show me books about AI, oldest first"
+Output JSON:
+{{
+  "language": "English",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "AI", "type": "AllFields", "filter": ["format:Book"], "sort": "year"}}
+}}
+User: "Bücher von Kafka nach Titel sortiert"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "Kafka", "type": "Author", "filter": ["format:Book"], "sort": "title"}}
+}}
+User: "Dissertationen zum Klimawandel, sortiert nach Relevanz"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "Klimawandel", "type": "AllFields", "filter": ["format:Dissertation"]}}
 }}
 User: "Gibt es englische Bücher über Künstliche Intelligenz?"
 Output JSON:
