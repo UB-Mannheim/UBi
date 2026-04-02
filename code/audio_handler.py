@@ -1,10 +1,13 @@
 from __future__ import annotations
 
+import io
 import os
 import tempfile
+import wave
 from pathlib import Path
 from typing import Optional
 
+import numpy as np
 from dotenv import load_dotenv
 
 from config import ENV_PATH
@@ -18,8 +21,9 @@ _enable_audio_input = os.getenv("ENABLE_AUDIO_INPUT", "False").lower() == "true"
 _enable_audio_output = os.getenv("ENABLE_AUDIO_OUTPUT", "False").lower() == "true"
 _whisper_model_size = os.getenv("WHISPER_MODEL", "base")
 _whisper_device = os.getenv("WHISPER_DEVICE", "cpu")
-_tts_model_name = os.getenv("TTS_MODEL", "tts_models/de/thorsten/tacotron2-DDC")
-_tts_speaker = os.getenv("TTS_SPEAKER")
+_tts_language = os.getenv("TTS_LANGUAGE", "de")
+_tts_speaker = os.getenv("TTS_SPEAKER", "thorsten")
+_tts_sample_rate = int(os.getenv("TTS_SAMPLE_RATE", "48000"))
 
 
 # === Lazy-loaded model references ===
@@ -60,34 +64,42 @@ def initialize_whisper_model():
         return None
 
 
-# === Coqui TTS Model ===
+# === Silero TTS Model ===
 def initialize_tts():
     """
-    Lazy-load the Coqui TTS model.
+    Lazy-load the Silero TTS model via torch hub.
 
-    The model is specified via the TTS_MODEL environment variable.
-    Models are downloaded automatically on first use.
+    The language is specified via the TTS_LANGUAGE environment variable.
+    Models are downloaded automatically on first use (~30 MB).
 
-    Returns the loaded TTS instance, or None if unavailable.
+    Returns the loaded Silero model, or None if unavailable.
     """
     global _tts_model
     if _tts_model is not None:
         return _tts_model
     try:
-        from TTS.api import TTS
+        import torch
 
-        print_info(f"[bold]🔊 Loading Coqui TTS model '{_tts_model_name}'...")
-        _tts_model = TTS(model_name=_tts_model_name)
-        print_info("[bold]✅ Coqui TTS model loaded.")
+        print_info(
+            f"[bold]🔊 Loading Silero TTS model for language '{_tts_language}'..."
+        )
+        model, _ = torch.hub.load(
+            repo_or_dir="snakers4/silero-models",
+            model="silero_tts",
+            language=_tts_language,
+            speaker="v3_de" if _tts_language == "de" else "v3_en",
+        )
+        _tts_model = model
+        print_info("[bold]✅ Silero TTS model loaded.")
         return _tts_model
-    except ImportError:
+    except ImportError as e:
         print_err(
-            "[bold red]❌ TTS is not installed. "
-            "Run: pip install TTS~=0.22.0"
+            f"[bold red]❌ Required TTS dependencies not installed: {e}\n"
+            "Run: pip install torch soundfile"
         )
         return None
     except Exception as e:
-        print_err(f"[bold red]❌ Failed to load Coqui TTS: {e}")
+        print_err(f"[bold red]❌ Failed to load Silero TTS: {e}")
         return None
 
 
@@ -154,14 +166,12 @@ def generate_speech(
     voice: Optional[str] = None,
 ) -> Optional[bytes]:
     """
-    Generate WAV audio from text using Coqui TTS.
+    Generate WAV audio from text using Silero TTS.
 
     Args:
         text:     Text to synthesize.
-        language: Detected language (e.g. "German", "English").  Currently
-                  used for informational purposes; the active model is
-                  configured via TTS_MODEL in .env.
-        voice:    Unused placeholder for future per-language voice selection.
+        language: Detected language (e.g. "German", "English").
+        voice:    Optional speaker name override.
 
     Returns:
         WAV audio bytes, or None on failure.
@@ -169,24 +179,33 @@ def generate_speech(
     tts_model = initialize_tts()
     if tts_model is None:
         return None
-    tmp_path = None
+
     try:
-        with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tmp:
-            tmp_path = tmp.name
+        # Select speaker: honour override, then fall back to configured default
+        speaker = voice or _tts_speaker
 
-        kwargs = {"speaker": _tts_speaker} if _tts_speaker else {}
-        tts_model.tts_to_file(text=text, file_path=tmp_path, **kwargs)
+        # Generate audio tensor
+        audio = tts_model.apply_tts(
+            text=text,
+            speaker=speaker,
+            sample_rate=_tts_sample_rate,
+        )
 
-        with open(tmp_path, "rb") as f:
-            audio_bytes = f.read()
+        # Convert tensor to numpy array and write WAV bytes
+        audio_np = audio.cpu().numpy()
+        audio_int16 = (audio_np * 32767).astype(np.int16)
 
-        return audio_bytes
+        audio_buffer = io.BytesIO()
+        with wave.open(audio_buffer, "wb") as wav_file:
+            wav_file.setnchannels(1)   # Mono
+            wav_file.setsampwidth(2)   # 16-bit
+            wav_file.setframerate(_tts_sample_rate)
+            wav_file.writeframes(audio_int16.tobytes())
+
+        return audio_buffer.getvalue()
     except Exception as e:
         print_err(f"[bold red]❌ TTS generation error: {e}")
         return None
-    finally:
-        if tmp_path:
-            Path(tmp_path).unlink(missing_ok=True)
 
 
 # === Feature Flags ===
