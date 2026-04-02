@@ -508,8 +508,14 @@ async def on_audio_chunk(chunk: cl.AudioChunk):
         audio_buffer.write(chunk.data)
 
 
+@cl.on_audio_start
+async def on_audio_start():
+    """Called when audio recording starts."""
+    return True
+
+
 @cl.on_audio_end
-async def on_audio_end(elements: list[cl.Audio]):
+async def on_audio_end():
     """Transcribe completed audio and route it through the message pipeline."""
     if not _enable_audio_input:
         return
