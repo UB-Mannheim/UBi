@@ -4,21 +4,37 @@ from typing import Optional
 
 VUFIND_BASE = "https://disco.bib.uni-mannheim.de/vufind"  # Adjust to your VuFind URL
 
-async def search_catalog(query: str, limit: int = 5) -> Optional[str]:
+async def search_catalog(query: dict | str, limit: int = 5) -> Optional[str]:
     """Search the VuFind catalog and return formatted Markdown text.
 
-    The ``query`` parameter can be either a JSON object with VuFind API parameters
-    (``lookfor``, ``type``, optional ``filter``) or a plain search string.
+    The ``query`` parameter can be either:
+    - A dict with VuFind API parameters (``lookfor``, ``type``, optional ``filter``)
+    - A JSON string that can be parsed into a dict
+    - A plain search string
     """
     try:
-        # Parse structured VuFind parameters from JSON, fall back to plain string
-        try:
-            params_json = json.loads(query)
-            lookfor = params_json.get("lookfor", query)
+        # Parse structured VuFind parameters
+        if isinstance(query, dict):
+            # Direct dict object (new format from router)
+            params_json = query
+            lookfor = params_json.get("lookfor", "")
             search_type = params_json.get("type", "AllFields")
             filters = params_json.get("filter", [])
-        except (json.JSONDecodeError, TypeError):
-            lookfor = query
+        elif isinstance(query, str):
+            # Try parsing as JSON string, fall back to plain string
+            try:
+                params_json = json.loads(query)
+                lookfor = params_json.get("lookfor", query)
+                search_type = params_json.get("type", "AllFields")
+                filters = params_json.get("filter", [])
+            except (json.JSONDecodeError, TypeError):
+                # Plain search string
+                lookfor = query
+                search_type = "AllFields"
+                filters = []
+        else:
+            # Fallback
+            lookfor = str(query)
             search_type = "AllFields"
             filters = []
 
