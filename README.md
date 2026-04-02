@@ -36,7 +36,7 @@ UBi supports fully local, offline voice input and output powered by open-source 
 
 ### Audio Input – Speech-to-Text (Faster-Whisper)
 
-Set `ENABLE_AUDIO_INPUT=True` in `.env` to allow users to send voice messages.  
+Set `ENABLE_AUDIO_INPUT=True` in `.env` to allow users to send voice messages.
 Transcription is performed locally by [Faster-Whisper](https://github.com/guillaumekln/faster-whisper) – no data leaves your machine.
 
 ```env
@@ -49,8 +49,8 @@ Larger models improve accuracy at the cost of speed and RAM.  `base` is a good d
 
 ### Audio Output – Text-to-Speech (Silero TTS)
 
-Set `ENABLE_AUDIO_OUTPUT=True` in `.env` to receive spoken responses.  
-Synthesis is performed locally by [Silero TTS](https://github.com/snakers4/silero-models) – no data leaves your machine.  
+Set `ENABLE_AUDIO_OUTPUT=True` in `.env` to receive spoken responses.
+Synthesis is performed locally by [Silero TTS](https://github.com/snakers4/silero-models) – no data leaves your machine.
 The model (~30 MB) is downloaded automatically on first use via PyTorch Hub.
 
 ```env
