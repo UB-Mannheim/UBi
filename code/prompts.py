@@ -77,6 +77,8 @@ This rule ONLY applies when the user asks about a SPECIFIC book, article, or ite
 - Generic borrowing questions (e.g., "How do I borrow books?", "Wie kann ich ein Buch ausleihen?")
 - Generic renewal questions (e.g., "How do I renew a book?", "Wie verlängere ich ein Buch?")
 - Generic service questions mentioning "book" without a specific title
+- Questions about library departments or organizational structure (e.g., "What is DBD?", "What does the FDZ do?", "Was ist die Rolle des DBD?")
+- Questions about library services or facilities (even if they mention "book" generically)
 
 **MANDATORY RESPONSE (in the detected language):**
 - If detected language is German: "Ich kann keine Regalstandorte für spezifische Medien angeben. Bitte suchen Sie im [Primo-Katalog](https://primo.bib.uni-mannheim.de) nach Details."
@@ -166,6 +168,25 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - If the query is otherwise clearly English (e.g., "What is the task of DBD?"), classify as English even if it contains a German abbreviation
 - Example: "What is DBD?" → English (surrounding words "What is" are English)
 - Example: "Was macht DBD?" → German (surrounding words "Was macht die" are German)
+- **CRITICAL**: Detect language ONLY from the user's actual query words, NOT from:
+   - Abbreviations (e.g., "DBD" is not a language indicator)
+   - Context from system prompts or abbreviation lists
+   - Definitions or expansions in your knowledge
+- **Language indicators** to focus on:
+   - English: "What", "is", "the", "How", "can", "I", "Where", "are", "does", "do", "Which", "When"
+   - German: "Was", "ist", "Wie", "kann", "ich", "Wo", "sind", "gibt", "Welche", "Wann", "Macht"
+   - If the query uses English question words (What, Where, How, etc.) → language is English
+   - If the query uses German question words (Was, Wo, Wie, etc.) → language is German
+
+### Language Detection Examples:
+- "What is the role of DBD?" → English (uses "What is")
+- "Was ist die Rolle des DBD?" → German (uses "Was ist")
+- "How can I borrow books?" → English (uses "How can I")
+- "Wie kann ich Bücher ausleihen?" → German (uses "Wie kann ich")
+- "Where is A3?" → English (uses "Where is")
+- "Wo ist A3?" → German (uses "Wo ist")
+- "What services does the library offer?" → English
+- "Welche Services bietet die Bibliothek?" → German
 
 ## Category Classification Rules:
 - 'news': Users requesting SPECIFICALLY current/recent news/announcements/blog posts from the Universitätsbibliothek (e.g., library events, policy changes, service updates). Historical events or general information requests are NOT news.
@@ -487,6 +508,10 @@ Output JSON:
    - Temporal context (semester/academic year when applicable)
    - Synonym integration (field-specific terminology)
 5. **LANGUAGE CHECK**: Before outputting, verify that EVERY word in the augmented query matches the detected language
+6. **ABBREVIATION EXPANSION**: When expanding abbreviations:
+   - If detected language is English, expand to English terms (e.g., DBD → Digital Library Services)
+   - If detected language is German, expand to German terms (e.g., DBD → Digitale Bibliotheksdienste)
+   - Use the ABBREVIATIONS list only for meaning, not for language detection
 
 ### Chat History Processing:
 - Extract ONLY the conceptual intent, NOT the language patterns
@@ -528,6 +553,24 @@ Output: {{
   "language": "German",
   "category": "message",
   "augmented_query": "Wo finde ich aktuelle Zeitschriften, Zeitungen, Periodika, die die Universitätsbibliothek Mannheim bereitstellt?"
+}}
+
+**Example 4 - English query with German abbreviation:**
+User: "What is the role of DBD?"
+Chat History: []
+Output: {{
+  "language": "English",
+  "category": "message",
+  "augmented_query": "What are the tasks and responsibilities of DBD (Digital Library Services) at the University Library Mannheim?"
+}}
+
+**Example 5 - German query with abbreviation:**
+User: "Was ist die Rolle des DBD?"
+Chat History: []
+Output: {{
+  "language": "German",
+  "category": "message",
+  "augmented_query": "Was sind die Aufgaben und Verantwortlichkeiten des DBD (Digitale Bibliotheksdienste) der Universitätsbibliothek Mannheim?"
 }}
 
 ### INCORRECT Example (DO NOT DO THIS):
