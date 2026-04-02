@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import io
 import os
 import tempfile
 from pathlib import Path
@@ -19,13 +18,13 @@ _enable_audio_input = os.getenv("ENABLE_AUDIO_INPUT", "False").lower() == "true"
 _enable_audio_output = os.getenv("ENABLE_AUDIO_OUTPUT", "False").lower() == "true"
 _whisper_model_size = os.getenv("WHISPER_MODEL", "base")
 _whisper_device = os.getenv("WHISPER_DEVICE", "cpu")
-_piper_voice = os.getenv("PIPER_VOICE", "de_DE-thorsten-high")
-_piper_voice_dir = os.getenv("PIPER_VOICE_DIR", ".")
+_tts_model_name = os.getenv("TTS_MODEL", "tts_models/de/thorsten/tacotron2-DDC")
+_tts_speaker = os.getenv("TTS_SPEAKER")
 
 
 # === Lazy-loaded model references ===
 _whisper_model = None
-_piper_voice_model = None
+_tts_model = None
 
 
 # === Whisper Model ===
@@ -61,49 +60,34 @@ def initialize_whisper_model():
         return None
 
 
-# === Piper TTS Model ===
-def initialize_piper():
+# === Coqui TTS Model ===
+def initialize_tts():
     """
-    Lazy-load the Piper TTS voice model.
+    Lazy-load the Coqui TTS model.
 
-    The voice model file is looked up as:
-        {PIPER_VOICE_DIR}/{PIPER_VOICE}.onnx  (+ optional .onnx.json config)
+    The model is specified via the TTS_MODEL environment variable.
+    Models are downloaded automatically on first use.
 
-    Returns the loaded PiperVoice instance, or None if unavailable.
+    Returns the loaded TTS instance, or None if unavailable.
     """
-    global _piper_voice_model
-    if _piper_voice_model is not None:
-        return _piper_voice_model
+    global _tts_model
+    if _tts_model is not None:
+        return _tts_model
     try:
-        from piper.voice import PiperVoice
+        from TTS.api import TTS
 
-        voice_dir = Path(_piper_voice_dir)
-        voice_path = voice_dir / f"{_piper_voice}.onnx"
-        config_path = voice_dir / f"{_piper_voice}.onnx.json"
-
-        if not voice_path.exists():
-            print_err(
-                f"[bold red]❌ Piper voice model not found: {voice_path}\n"
-                "   Download models from: "
-                "https://github.com/rhasspy/piper/blob/master/VOICES.md"
-            )
-            return None
-
-        config_arg = str(config_path) if config_path.exists() else None
-        print_info(f"[bold]🔊 Loading Piper TTS voice '{_piper_voice}'...")
-        _piper_voice_model = PiperVoice.load(
-            str(voice_path), config_path=config_arg
-        )
-        print_info("[bold]✅ Piper TTS voice loaded.")
-        return _piper_voice_model
+        print_info(f"[bold]🔊 Loading Coqui TTS model '{_tts_model_name}'...")
+        _tts_model = TTS(model_name=_tts_model_name)
+        print_info("[bold]✅ Coqui TTS model loaded.")
+        return _tts_model
     except ImportError:
         print_err(
-            "[bold red]❌ piper-tts is not installed. "
-            "Run: pip install piper-tts~=1.2.0"
+            "[bold red]❌ TTS is not installed. "
+            "Run: pip install TTS~=0.22.0"
         )
         return None
     except Exception as e:
-        print_err(f"[bold red]❌ Failed to load Piper TTS: {e}")
+        print_err(f"[bold red]❌ Failed to load Coqui TTS: {e}")
         return None
 
 
@@ -170,31 +154,39 @@ def generate_speech(
     voice: Optional[str] = None,
 ) -> Optional[bytes]:
     """
-    Generate WAV audio from text using Piper TTS.
+    Generate WAV audio from text using Coqui TTS.
 
     Args:
         text:     Text to synthesize.
         language: Detected language (e.g. "German", "English").  Currently
-                  used for informational purposes; the active voice is
-                  configured via PIPER_VOICE in .env.
+                  used for informational purposes; the active model is
+                  configured via TTS_MODEL in .env.
         voice:    Unused placeholder for future per-language voice selection.
 
     Returns:
         WAV audio bytes, or None on failure.
     """
-    import wave
-
-    piper_model = initialize_piper()
-    if piper_model is None:
+    tts_model = initialize_tts()
+    if tts_model is None:
         return None
+    tmp_path = None
     try:
-        audio_buffer = io.BytesIO()
-        with wave.open(audio_buffer, "wb") as wav_file:
-            piper_model.synthesize(text, wav_file)
-        return audio_buffer.getvalue()
+        with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tmp:
+            tmp_path = tmp.name
+
+        kwargs = {"speaker": _tts_speaker} if _tts_speaker else {}
+        tts_model.tts_to_file(text=text, file_path=tmp_path, **kwargs)
+
+        with open(tmp_path, "rb") as f:
+            audio_bytes = f.read()
+
+        return audio_bytes
     except Exception as e:
         print_err(f"[bold red]❌ TTS generation error: {e}")
         return None
+    finally:
+        if tmp_path:
+            Path(tmp_path).unlink(missing_ok=True)
 
 
 # === Feature Flags ===

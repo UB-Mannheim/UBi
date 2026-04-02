@@ -13,7 +13,7 @@ from typing import Optional
 # === UBi imports ===
 from audio_handler import (
     generate_speech,
-    initialize_piper,
+    initialize_tts,
     initialize_whisper_model,
     is_audio_input_enabled,
     is_audio_output_enabled,
@@ -491,7 +491,7 @@ async def on_chat_start():
         await loop.run_in_executor(None, initialize_whisper_model)
     if _enable_audio_output:
         loop = asyncio.get_running_loop()
-        await loop.run_in_executor(None, initialize_piper)
+        await loop.run_in_executor(None, initialize_tts)
 
 
 # === Audio Input Handlers ===

@@ -13,7 +13,7 @@ langchain_ollama
 langchain-openai~=1.1.11
 Markdown~=3.10.2
 mdformat~=1.0.0
-piper-tts~=1.2.0
+TTS~=0.22.0
 plotly~=6.6.0
 Requests~=2.33.0
 tqdm~=4.67.3
