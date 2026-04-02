@@ -180,14 +180,52 @@ When the category is 'katalog', the augmented_query MUST be a JSON object with V
 **Output Format for 'katalog' category:**
 The augmented_query must be a valid JSON object (NOT a string) containing these fields:
 - "lookfor": The main search term(s) - extract ONLY the core search terms
-- "type": Search type - one of: "AllFields", "Title", "Author", "Subject", "ISN"
-- "filter": (optional) Array of filters like ["format:Book", "publishDate:[2020 TO 2024]"]
+- "type": Search type - one of: "AllFields", "Title", "Author", "Subject", "CallNumber", "ISN", "tag"
+- "filter": (optional) Array of filters like ["format:Book", "publishDate:[2020 TO *]", "language:eng"]
+
+### VuFind API Reference (from OpenAPI spec v11.0.2)
+
+**Available Search Types (`type` parameter):**
+- `AllFields`: Search across all metadata fields (default)
+- `Title`: Search in title field only
+- `Author`: Search in author/creator field only
+- `Subject`: Search in subject/topic field only
+- `CallNumber`: Search by call number
+- `ISN`: Search by ISBN or ISSN
+- `tag`: Search by tag
+
+**Common Filters (`filter` array):**
+- `format`: Valid values include `Book`, `eBook`, `Article`, `Journal`, `Dissertation`, `Thesis`, `Map`, `Musical Score`, `Sound Recording`, `Video`, `Electronic`
+- `publishDate`: Use range syntax `[YYYY TO YYYY]` or `[YYYY TO *]` for open-ended ranges
+- `language`: ISO 639-2/B language codes (e.g., `ger` for German, `eng` for English, `fre` for French)
+
+**Filter Syntax Rules (format: `field:value`):**
+- Single value: `"format:Book"`
+- Date range (both ends): `"publishDate:[2020 TO 2024]"`
+- Open-ended range (from year onwards): `"publishDate:[2020 TO *]"`
+- Open-ended range (up to year): `"publishDate:[* TO 2019]"`
+- Combine multiple filters: `["format:Book", "language:eng", "publishDate:[2020 TO *]"]`
+- OR filter: prepend field with `~` (e.g., `"~format:eBook"`)
+- NOT filter: prepend field with `-` (e.g., `"-language:eng"`)
+
 **Rules for extraction:**
 - Remove ALL filler words: "Ich suche", "Habt ihr", "Gibt es", "ein Buch zu/über", "Wo finde ich"
 - Do NOT add contextual phrases like "in der Universitätsbibliothek Mannheim"
 - Keep search terms simple and focused
 - Choose appropriate search type based on query intent
-- Add filters only if explicitly mentioned (year range, format, etc.)
+- **Generic format words**: If the query only mentions a format type (Bücher, Dissertationen, Articles) without a specific topic, use `"*"` for lookfor
+- **Format filters**: When user mentions a format type, add the corresponding filter:
+  - Buch / Bücher / Book / Books → `"format:Book"`
+  - Dissertation(en) / Thesis / Theses → `"format:Dissertation"`
+  - Zeitschrift(en) / Journal(s) → `"format:Journal"`
+  - Artikel / Article(s) → `"format:Article"`
+  - eBook(s) / E-Book(s) → `"format:eBook"`
+- **Temporal filters** (never hardcode current year – use `*` for open-ended ranges):
+  - "nach YYYY" / "after YYYY" / "seit YYYY" / "from YYYY" → `"publishDate:[YYYY TO *]"`
+  - "vor YYYY" / "before YYYY" → `"publishDate:[* TO YYYY]"`
+  - "zwischen YYYY und YYYY" / "between YYYY and YYYY" → `"publishDate:[YYYY TO YYYY]"`
+- **Language filters**: When user specifies a language (English, German, French, …), add `"language:<code>"`
+
 **Examples for 'katalog' category:**
 User: "Ich suche ein Buch zu VuFind"
 Output JSON:
@@ -201,7 +239,7 @@ Output JSON:
 {{
   "language": "German",
   "category": "katalog",
-  "augmented_query": {{"lookfor": "Kafka", "type": "Author"}}
+  "augmented_query": {{"lookfor": "Kafka", "type": "Author", "filter": ["format:Book"]}}
 }}
 User: "Gibt es Dissertationen zum Klimawandel zwischen 2020 und 2024?"
 Output JSON:
@@ -210,12 +248,40 @@ Output JSON:
   "category": "katalog",
   "augmented_query": {{"lookfor": "Klimawandel", "type": "AllFields", "filter": ["format:Dissertation", "publishDate:[2020 TO 2024]"]}}
 }}
+User: "Ich suche Bücher, die nach 2020 erschienen sind."
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "*", "type": "AllFields", "filter": ["format:Book", "publishDate:[2020 TO *]"]}}
+}}
+User: "Gibt es englische Bücher über Künstliche Intelligenz?"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "Künstliche Intelligenz", "type": "AllFields", "filter": ["format:Book", "language:eng"]}}
+}}
+User: "Dissertationen zum Thema Klimawandel"
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "Klimawandel", "type": "AllFields", "filter": ["format:Dissertation"]}}
+}}
 User: "Books about machine learning"
 Output JSON:
 {{
   "language": "English",
   "category": "katalog",
-  "augmented_query": {{"lookfor": "machine learning", "type": "AllFields"}}
+  "augmented_query": {{"lookfor": "machine learning", "type": "AllFields", "filter": ["format:Book"]}}
+}}
+User: "Show me recent articles about machine learning"
+Output JSON:
+{{
+  "language": "English",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "machine learning", "type": "AllFields", "filter": ["format:Article"]}}
 }}
 User: "ISBN 978-3-16-148410-0"
 Output JSON:
