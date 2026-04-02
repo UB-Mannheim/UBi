@@ -228,13 +228,18 @@ The augmented_query must be a valid JSON object (NOT a string) containing these 
   - Zeitschrift(en) / Journal(s) → `"format:Journal"`
   - Artikel / Article(s) → `"format:Article"`
   - eBook(s) / E-Book(s) → `"format:eBook"`
-- **Temporal filters** (never hardcode current year – use `*` for open-ended ranges):
+- **Distinguish temporal adjectives from temporal filters**:
+  - Temporal ADJECTIVES without a year ("neueste", "aktuellste", "newest", "latest") → use `sort` parameter
+  - Temporal PHRASES with a specific year ("nach 2020", "since 2015") → use `publishDate` filter
+- **Temporal filters** (ONLY when a specific year is mentioned):
   - "nach YYYY" / "after YYYY" / "seit YYYY" / "from YYYY" → `"publishDate:[YYYY TO *]"`
   - "vor YYYY" / "before YYYY" → `"publishDate:[* TO YYYY]"`
   - "zwischen YYYY und YYYY" / "between YYYY and YYYY" → `"publishDate:[YYYY TO YYYY]"`
+  - **CRITICAL**: Do NOT add date filters when the query only contains temporal adjectives like "neueste", "aktuellste", "newest", "latest" WITHOUT a specific year
 - **Language filters**: When user specifies a language (English, German, French, …), add `"language:<code>"`
-- **Sort order**: When user requests a specific sort order, add `"sort": "<value>"`:
-  - "neueste zuerst" / "neuesten zuerst" / "aktuellste" / "aktuellsten" / "newest first" / "most recent" / "latest first" → `"sort": "year desc"`
+- **Sort order**: When user requests a specific sort order OR uses temporal adjectives without a specific year, add `"sort": "<value>"`:
+  - "neueste" / "neuesten" / "neueste zuerst" / "neuesten zuerst" / "aktuellste" / "aktuellsten" / "newest" / "newest first" / "most recent" / "latest" / "latest first" → `"sort": "year desc"`
+  - IMPORTANT: These keywords indicate sorting by recency, NOT filtering by date range
   - "älteste zuerst" / "chronologisch" / "oldest first" / "chronological" → `"sort": "year"`
   - "nach Autor" / "alphabetisch nach Autor" / "by author" → `"sort": "author"`
   - "nach Titel" / "alphabetisch nach Titel" / "by title" → `"sort": "title"`
@@ -276,6 +281,13 @@ Output JSON:
   "language": "German",
   "category": "katalog",
   "augmented_query": {{"lookfor": "*", "type": "AllFields", "filter": ["format:Book", "publishDate:[2020 TO *]"], "sort": "year desc"}}
+}}
+User: "Ich suche die neuesten Bücher."
+Output JSON:
+{{
+  "language": "German",
+  "category": "katalog",
+  "augmented_query": {{"lookfor": "*", "type": "AllFields", "filter": ["format:Book"], "sort": "year desc"}}
 }}
 User: "Show me books about AI, oldest first"
 Output JSON:
