@@ -22,7 +22,7 @@ _enable_audio_output = os.getenv("ENABLE_AUDIO_OUTPUT", "False").lower() == "tru
 _whisper_model_size = os.getenv("WHISPER_MODEL", "base")
 _whisper_device = os.getenv("WHISPER_DEVICE", "cpu")
 _tts_language = os.getenv("TTS_LANGUAGE", "de")
-_tts_speaker = os.getenv("TTS_SPEAKER", "thorsten")
+_tts_speaker = os.getenv("TTS_SPEAKER", "random")
 _tts_sample_rate = int(os.getenv("TTS_SAMPLE_RATE", "48000"))
 
 
@@ -114,48 +114,78 @@ def transcribe_audio(
 
     Args:
         audio_data: Raw audio bytes.
-        mime_type:  MIME type of the audio (e.g. "audio/wav", "audio/webm").
+        mime_type:  MIME type of the audio (e.g. "audio/wav", "audio/webm", "pcm16").
         language:   ISO language code hint (e.g. "de", "en"), or None for
                     automatic detection.
 
     Returns:
         Transcribed text string, or None on failure / empty result.
     """
+    import struct
+    import wave
+
     model = initialize_whisper_model()
     if model is None:
         return None
 
-    # Determine file extension from MIME type
-    ext = ".wav"
-    for fragment, suffix in (
-        ("webm", ".webm"),
-        ("ogg", ".ogg"),
-        ("mp3", ".mp3"),
-        ("mp4", ".mp4"),
-        ("m4a", ".m4a"),
-    ):
-        if fragment in mime_type:
-            ext = suffix
-            break
-
     tmp_path = None
     try:
-        with tempfile.NamedTemporaryFile(suffix=ext, delete=False) as tmp:
-            tmp.write(audio_data)
-            tmp_path = tmp.name
+        # Handle raw PCM16 data by creating proper WAV file
+        if mime_type == "pcm16" or "pcm" in mime_type.lower():
+            # Create a proper WAV file from raw PCM16 data
+            # Chainlit uses 44100 Hz sample rate for browser audio
+            sample_rate = 44100
+            channels = 1
+            sample_width = 2  # 16-bit = 2 bytes
 
+            tmp_path = tempfile.mktemp(suffix=".wav")
+
+            with wave.open(tmp_path, 'wb') as wav_file:
+                wav_file.setnchannels(channels)
+                wav_file.setsampwidth(sample_width)
+                wav_file.setframerate(sample_rate)
+                wav_file.writeframes(audio_data)
+        else:
+            # For other formats, write as-is
+            if "webm" in mime_type or "ogg" in mime_type:
+                ext = ".webm"
+            elif "mp4" in mime_type or "m4a" in mime_type:
+                ext = ".m4a"
+            elif "mp3" in mime_type:
+                ext = ".mp3"
+            else:
+                ext = ".wav"
+
+            with tempfile.NamedTemporaryFile(suffix=ext, delete=False) as tmp:
+                tmp.write(audio_data)
+                tmp_path = tmp.name
+
+        # Transcribe with Whisper
         segments, info = model.transcribe(
-            tmp_path, language=language, beam_size=5
+            tmp_path,
+            language=language,
+            beam_size=5,
+            vad_filter=True,
+            vad_parameters=dict(min_silence_duration_ms=500)
         )
+
         text = " ".join(seg.text for seg in segments).strip()
         detected_lang = info.language
-        print_info(f"[bold]🎙️ Transcribed ({detected_lang}): {text}")
-        return text or None
+
+        if text:
+            print_info(f"[bold]🎙️ Transcribed ({detected_lang}): {text}")
+            return text
+        else:
+            print_err("[bold yellow]⚠️ No speech detected in audio")
+            return None
+
     except Exception as e:
         print_err(f"[bold red]❌ Transcription error: {e}")
+        print_err(f"[bold red]   Audio data size: {len(audio_data)} bytes")
+        print_err(f"[bold red]   MIME type: {mime_type}")
         return None
     finally:
-        if tmp_path:
+        if tmp_path and Path(tmp_path).exists():
             Path(tmp_path).unlink(missing_ok=True)
 
 
