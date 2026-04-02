@@ -466,6 +466,7 @@ async def _add_audio_to_message(
         content=audio_bytes,
         mime="audio/wav",
         display="inline",
+        autoPlay=True,
     )
     msg.elements = (msg.elements or []) + [audio_element]
     await msg.update()
