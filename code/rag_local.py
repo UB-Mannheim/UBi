@@ -12,6 +12,7 @@ from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from rich import print
 
 from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
