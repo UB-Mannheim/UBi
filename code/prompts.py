@@ -85,7 +85,7 @@ This rule ONLY applies when the user asks about a SPECIFIC book, article, or ite
 - Generic borrowing questions (e.g., "How do I borrow books?", "Wie kann ich ein Buch ausleihen?")
 - Generic renewal questions (e.g., "How do I renew a book?", "Wie verlängere ich ein Buch?")
 - Generic service questions mentioning "book" without a specific title
-- Questions about library departments or organizational structure (e.g., "What is DBD?", "What does the FDZ do?", "Was ist die Rolle des DBD?")
+- Questions about library departments or organizational structure (e.g., "What is DBD?", "What does the FDZ do?", "Was ist die Rolle von DBD?")
 - Questions about library services or facilities (even if they mention "book" generically)
 - **When retrieved documents don't contain relevant information → Use UNIFORM FALLBACK instead**
 
@@ -188,7 +188,7 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - **CRITICAL**: Library-specific abbreviations and proper nouns (DBD, FDZ, UB, UBi, ecUM, A3, A5, BERD, GIP, etc.) are NOT language indicators — detect language from the surrounding words only
 - If the query is otherwise clearly English (e.g., "What is the task of DBD?"), classify as English even if it contains a German abbreviation
 - Example: "What is DBD?" → English (surrounding words "What is" are English)
-- Example: "Was macht DBD?" → German (surrounding words "Was macht die" are German)
+- Example: "Was macht DBD?" → German (surrounding words "Was macht" are German)
 - **CRITICAL**: Detect language ONLY from the user's actual query words, NOT from:
    - Abbreviations (e.g., "DBD" is not a language indicator)
    - Context from system prompts or abbreviation lists
@@ -627,12 +627,12 @@ Output: {{
 }}
 
 **Example 5 - German query with abbreviation:**
-User: "Was ist die Rolle des DBD?"
+User: "Was ist die Rolle von DBD?"
 Chat History: []
 Output: {{
   "language": "German",
   "category": "message",
-  "augmented_query": "Was sind die Aufgaben und Verantwortlichkeiten des DBD (Digitale Bibliotheksdienste) der Universitätsbibliothek Mannheim?"
+  "augmented_query": "Was macht die Abteilung DBD (Digitale Bibliotheksdienste)?"
 }}
 
 ### INCORRECT Example (DO NOT DO THIS):
