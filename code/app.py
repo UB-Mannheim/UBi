@@ -276,7 +276,7 @@ async def handle_local_rag_query(
     """
     rag_chain = cl.user_session.get("rag_chain")
     if not rag_chain:
-        rag_chain = await create_rag_chain(debug=False)
+        rag_chain = await create_rag_chain(debug=True)
         cl.user_session.set("rag_chain", rag_chain)
 
     try:
@@ -483,7 +483,7 @@ async def on_chat_start():
 
     # If using RAG, load the chain
     if not USE_OPENAI_VECTORSTORE:
-        rag_chain = await create_rag_chain(debug=False)
+        rag_chain = await create_rag_chain(debug=True)
         cl.user_session.set("rag_chain", rag_chain)
 
     # Pre-load audio models in the background if enabled
