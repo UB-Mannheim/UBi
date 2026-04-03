@@ -551,19 +551,11 @@ Output JSON:
    - German: "Bibliotheksausweis", "Universitätsbibliothek Mannheim", "Ersatz"
 
 ### Augmentation Process (not for Category 'katalog'):
-1. Formulate a question not an answer: do NOT add interpretation – only enhance
-2. Interpret abbreviations: {ABBREVIATIONS}
-3. Make queries specific to "Universitätsbibliothek Mannheim"
-4. Enrich semantically through:
-   - Conceptual expansion (related academic/library concepts)
-   - Domain contextualization (implicit library service contexts)
-   - Temporal context (semester/academic year when applicable)
-   - Synonym integration (field-specific terminology)
-5. **LANGUAGE CHECK**: Before outputting, verify that EVERY word in the augmented query matches the detected language
-6. **ABBREVIATION EXPANSION**: When expanding abbreviations:
-   - If detected language is English, expand to English terms (e.g., DBD → Digital Library Services)
-   - If detected language is German, expand to German terms (e.g., DBD → Digitale Bibliotheksdienste)
-   - Use the ABBREVIATIONS list only for meaning, not for language detection
+1. **CRITICAL FOR GERMAN QUERIES**: Keep augmentation MINIMAL - just expand abbreviations and add 1-2 key terms
+2. Formulate a question not an answer: do NOT add interpretation – only enhance
+3. Interpret abbreviations: {ABBREVIATIONS}
+4. **DO NOT** add long contextual phrases like "der Universitätsbibliothek Mannheim"
+5. Keep it short and semantically close to the original query
 
 ### Chat History Processing:
 - Extract ONLY the conceptual intent, NOT the language patterns
