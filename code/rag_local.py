@@ -1,6 +1,8 @@
 import datetime
+import logging
 import os
 import re
+import yaml
 from operator import itemgetter
 
 import chromadb.config
@@ -8,7 +10,7 @@ from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
 from langchain import hub
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
-from langchain_community.document_loaders import UnstructuredMarkdownLoader
+from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from prompts import BASE_SYSTEM_PROMPT
@@ -19,13 +21,18 @@ def format_docs(docs):
     formatted = []
     for doc in docs:
         content = doc.page_content
-        # Inject source URL if available in metadata
+
+        # Inject source URLs if available in metadata
         source_de = doc.metadata.get('source_url_de', '')
         source_en = doc.metadata.get('source_url_en', '')
+
         if source_de or source_en:
-            content += f"\n\n[Source URL German: {source_de}]"
+            content += "\n\n---\n**Available Source URLs:**"
+            if source_de:
+                content += f"\n- German: {source_de}"
             if source_en:
-                content += f"\n[Source URL English: {source_en}]"
+                content += f"\n- English: {source_en}"
+
         formatted.append(content)
     return "\n\n".join(formatted)
 
@@ -77,7 +84,28 @@ async def create_rag_chain(debug=False):
         files = sorted(DATA_DIR.glob("*.md"))
         all_docs = []
         for file in files:
-            all_docs.extend(UnstructuredMarkdownLoader(str(file)).load())
+            with open(file, 'r', encoding='utf-8') as f:
+                content = f.read()
+
+            # Extract YAML frontmatter and preserve as metadata.
+            # Use a regex that only matches '---' at the very start of the file,
+            # followed by a closing '---' on its own line, to avoid false splits
+            # on horizontal rules or code blocks.
+            frontmatter_match = re.match(
+                r'\A---\r?\n(.*?)\r?\n---\r?\n(.*)', content, re.DOTALL
+            )
+            if frontmatter_match:
+                try:
+                    metadata = yaml.safe_load(frontmatter_match.group(1)) or {}
+                except yaml.YAMLError:
+                    logging.warning("Failed to parse YAML frontmatter in %s", file)
+                    metadata = {}
+                text_content = frontmatter_match.group(2).strip()
+            else:
+                metadata = {}
+                text_content = content
+
+            all_docs.append(Document(page_content=text_content, metadata=metadata))
 
         chunks = RecursiveCharacterTextSplitter(
             chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP
@@ -104,6 +132,16 @@ async def create_rag_chain(debug=False):
 - You MUST respond in the language specified in the "Response Language" field below
 - Match your response language to the detected query language
 - Provide links appropriate for the response language
+
+**URL Formatting Rules:**
+- If source URLs are provided in the context (marked as "Available Source URLs"):
+  - For English responses: Use the English source URL if available
+  - For German responses: Use the German source URL if available
+  - NEVER invent or guess URLs
+  - NEVER mix German text with English URLs or vice versa
+- Link text MUST match the response language:
+  - English response → English link text (e.g., "Learn more", "Contact", "Details")
+  - German response → German link text (e.g., "Weitere Informationen", "Kontakt", "Details")
 
 **Response Language:** {{language}}
 
