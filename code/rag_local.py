@@ -17,7 +17,18 @@ from prompts import BASE_SYSTEM_PROMPT
 
 
 def format_docs(docs):
-    return "\n\n".join(doc.page_content for doc in docs)
+    formatted = []
+    for doc in docs:
+        content = doc.page_content
+        # Inject source URL if available in metadata
+        source_de = doc.metadata.get('source_url_de', '')
+        source_en = doc.metadata.get('source_url_en', '')
+        if source_de or source_en:
+            content += f"\n\n[Source URL German: {source_de}]"
+            if source_en:
+                content += f"\n[Source URL English: {source_en}]"
+        formatted.append(content)
+    return "\n\n".join(formatted)
 
 
 async def create_rag_chain(debug=False):
@@ -82,7 +93,7 @@ async def create_rag_chain(debug=False):
         )
 
     retriever = vectorstore.as_retriever(
-        search_type="similarity", search_kwargs={"k": 10}
+        search_type="similarity", search_kwargs={"k": 4}
     )
     today = datetime.datetime.now().strftime("%B %d, %Y %H:%M:%S")
     prompt = ChatPromptTemplate.from_messages(
