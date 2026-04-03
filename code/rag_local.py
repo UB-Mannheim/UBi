@@ -7,8 +7,8 @@ from operator import itemgetter
 
 import chromadb.config
 from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
-from langchain import hub
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_core.prompts import ChatPromptTemplate
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
@@ -122,11 +122,9 @@ async def create_rag_chain(debug=False):
     retriever = vectorstore.as_retriever(
         search_type="similarity", search_kwargs={"k": 4}
     )
-    prompt = hub.pull("rlm/rag-prompt")
     today = datetime.datetime.now().strftime("%B %d, %Y %H:%M:%S")
-    prompt.messages[
-        0
-    ].prompt.template = f"""{BASE_SYSTEM_PROMPT.format(today=today)}
+
+    prompt_template = f"""{BASE_SYSTEM_PROMPT.format(today=today)}
 
 **CRITICAL INSTRUCTION**:
 - You MUST respond in the language specified in the "Response Language" field below
@@ -153,6 +151,8 @@ async def create_rag_chain(debug=False):
 **Context:** {{context}}
 
 **Answer:**"""
+
+    prompt = ChatPromptTemplate.from_template(prompt_template)
 
     if use_ollama:
         llm = ChatOllama(
