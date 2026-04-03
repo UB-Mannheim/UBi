@@ -88,12 +88,22 @@ async def create_rag_chain(debug=False):
     prompt.messages[
         0
     ].prompt.template = f"""{BASE_SYSTEM_PROMPT.format(today=today)}
-**Konversationsverlauf:**
+
+**CRITICAL INSTRUCTION**:
+- You MUST respond in the language specified in the "Response Language" field below
+- Match your response language to the detected query language
+- Provide links appropriate for the response language
+
+**Response Language:** {{language}}
+
+**Conversation History:**
 {{conversation_context}}
 
-Frage: {{question}}
-Kontext: {{context}}
-Antwort:"""
+**Question:** {{question}}
+
+**Context:** {{context}}
+
+**Answer:**"""
 
     if use_ollama:
         llm = ChatOllama(
