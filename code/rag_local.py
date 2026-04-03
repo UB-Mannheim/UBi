@@ -81,7 +81,7 @@ async def create_rag_chain(debug=False):
         )
 
     retriever = vectorstore.as_retriever(
-        search_type="similarity", search_kwargs={"k": 4}
+        search_type="similarity", search_kwargs={"k": 10}
     )
     prompt = hub.pull("rlm/rag-prompt")
     today = datetime.datetime.now().strftime("%B %d, %Y %H:%M:%S")
