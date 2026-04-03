@@ -1,5 +1,5 @@
 ---
-title: OCR-D: Integration von Kitodo und OCR-D zur produktiven Massendigitalisierung – Projektbeschreibung und Partner
+title: "OCR-D: Integration von Kitodo und OCR-D zur produktiven Massendigitalisierung – Projektbeschreibung und Partner"
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/ocr-d-kitodo/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/ocr-d-kitodo/
 category: Projekte

@@ -1,5 +1,5 @@
 ---
-title: Linked Open Citation Database (LOC-DB): Projektübersicht, Software, Workshops, Publikationen und Präsentationen
+title: "Linked Open Citation Database (LOC-DB): Projektübersicht, Software, Workshops, Publikationen und Präsentationen"
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/linked-open-citation-database/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/linked-open-citation-database/
 category: Projekte

@@ -1,5 +1,5 @@
 ---
-title: Teilnahmemöglichkeiten an der Universitätsbibliothek Mannheim: Ausstellungen, Kurse, Projekte und Stellenangebote
+title: "Teilnahmemöglichkeiten an der Universitätsbibliothek Mannheim: Ausstellungen, Kurse, Projekte und Stellenangebote"
 source_url_de: https://www.bib.uni-mannheim.de/dabei-sein/
 source_url_en: https://www.bib.uni-mannheim.de/en/join-us/
 category: Benutzung

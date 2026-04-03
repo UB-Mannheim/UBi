@@ -1,5 +1,5 @@
 ---
-title: Benutzungsordnung der Universitätsbibliothek Mannheim (Stand: 6. November 2009) – Rechte, Pflichten und Regelungen zur Bibliotheksnutzung
+title: "Benutzungsordnung der Universitätsbibliothek Mannheim (Stand: 6. November 2009) – Rechte, Pflichten und Regelungen zur Bibliotheksnutzung"
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/benutzungsordnung/
 source_url_en: https://www.bib.uni-mannheim.de/en/
 category: Benutzung

@@ -1,5 +1,5 @@
 ---
-title: Open Science an der Universität Mannheim: Initiativen, Services und Fördermöglichkeiten
+title: "Open Science an der Universität Mannheim: Initiativen, Services und Fördermöglichkeiten"
 source_url_de: https://www.uni-mannheim.de/open-science/
 source_url_en: https://www.uni-mannheim.de/en/open-science/
 category: Services

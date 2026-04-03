@@ -1,5 +1,5 @@
 ---
-title: Zotero – Literaturverwaltungssoftware: Funktionen, Anleitungen, Kurse und Kontakt an der Universitätsbibliothek Mannheim
+title: "Zotero – Literaturverwaltungssoftware: Funktionen, Anleitungen, Kurse und Kontakt an der Universitätsbibliothek Mannheim"
 source_url_de: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zotero/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/reference-management-software/zotero/
 category: Services

@@ -1,5 +1,5 @@
 ---
-title: MADATA – Forschungsdatenserver der Universität Mannheim: Nutzung, FAIR-Prüfung und Kontakt
+title: "MADATA – Forschungsdatenserver der Universität Mannheim: Nutzung, FAIR-Prüfung und Kontakt"
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/madata/
 category: Services

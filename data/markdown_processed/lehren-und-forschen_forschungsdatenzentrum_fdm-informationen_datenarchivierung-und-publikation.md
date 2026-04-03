@@ -1,5 +1,5 @@
 ---
-title: Datenarchivierung und -publikation an der Universität Mannheim: MADATA und weitere Repositorien
+title: "Datenarchivierung und -publikation an der Universität Mannheim: MADATA und weitere Repositorien"
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenarchivierung-und-publikation/
 source_url_en: https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenarchivierung-und-publikation-1/
 category: Services

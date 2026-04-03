@@ -1,5 +1,5 @@
 ---
-title: OCR-D: Workflow für werkspezifisches Training und Ground-Truth-Aufwertung – Projekt der Universitätsbibliothek Mannheim
+title: "OCR-D: Workflow für werkspezifisches Training und Ground-Truth-Aufwertung – Projekt der Universitätsbibliothek Mannheim"
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/ocr-d-modelltraining/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/ocr-d-modelltraining/
 category: Projekte
