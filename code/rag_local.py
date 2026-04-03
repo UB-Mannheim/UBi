@@ -2,10 +2,10 @@ import datetime
 import logging
 import os
 import re
-import yaml
 from operator import itemgetter
 
 import chromadb.config
+import yaml
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
@@ -138,6 +138,8 @@ Antwort:""",
             )
         ]
     )
+
+    prompt = ChatPromptTemplate.from_template(prompt_template)
 
     if use_ollama:
         llm = ChatOllama(
