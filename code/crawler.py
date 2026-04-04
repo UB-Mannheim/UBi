@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import asyncio
 import re
 import xml.etree.ElementTree as ET
