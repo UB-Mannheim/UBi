@@ -171,7 +171,7 @@ Assistant: "I don't have information about that in my current resources. For fur
 - Including source lists or bibliographies"""
 
 # === Router, Language Detection and Prompt Augmentation ===
-ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi. You will analyze user queries and provide structured output that includes language detection, category routing, and query augmentation - all in a single response.
+ROUTER_AUGMENTOR_PROMPT = """You are an expert query processor for UBi. You will analyze user queries and provide structured output that includes language detection, category routing, and query augmentation - all in a single response.
 
 # Your Tasks:
 1. Detect the language of the user's CURRENT query
