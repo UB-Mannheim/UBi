@@ -12,6 +12,25 @@ RSS_URL = "https://blog.bib.uni-mannheim.de/Aktuelles/?feed=rss2&cat=4"
 SITEMAP_URL = "https://www.bib.uni-mannheim.de/xml-sitemap/"
 DB_PATH = "../data/feedback.db"
 
+# Default sitemap URL filters
+SITEMAP_URL_FILTERS = [
+    "twitter",
+    "youtube",
+    "google",
+    "facebook",
+    "instagram",
+    "primo",
+    "absolventum",
+    "portal2",
+    "blog",
+    "auskunft-und-beratung",
+    "beschaeftigte-von-a-bis-z",
+    "aktuelles/events",
+    "ausstellungen-und-veranstaltungen",
+    "anmeldung-fuer-schulen",
+    "fuehrungen",
+]
+
 # Session Memory Configuration
 SESSION_MEMORY_CONFIG = {
     "max_turns": 10,  # Maximum conversation turns to remember
