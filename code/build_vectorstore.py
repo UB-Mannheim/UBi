@@ -12,23 +12,19 @@ Usage:
 import argparse
 import asyncio
 import os
+import re
+import shutil
 import sys
 from pathlib import Path
 
 from dotenv import load_dotenv
 
-# Add parent directory to path for imports
-sys.path.insert(0, str(Path(__file__).parent))
-
-from config import CHUNK_OVERLAP, CHUNK_SIZE, ENV_PATH, PERSIST_DIR
+from config import CHUNK_OVERLAP, CHUNK_SIZE, PERSIST_DIR
 from rag_local import create_rag_chain
 
 
 async def build_vectorstore(force_rebuild: bool = False):
     """Build the vector database."""
-
-    # Load environment
-    load_dotenv(ENV_PATH)
 
     # Check if using OpenAI vectorstore
     use_openai = os.getenv("USE_OPENAI_VECTORSTORE", "False").lower() == "true"
@@ -41,7 +37,6 @@ async def build_vectorstore(force_rebuild: bool = False):
     ollama_embedding_model = os.getenv("OLLAMA_EMBEDDING_MODEL", "nomic-embed-text")
 
     # Calculate persist path (same logic as rag_local.py)
-    import re
     model_name = f"ollama_{re.sub(r'[^a-zA-Z0-9_-]', '_', ollama_embedding_model)}"
     persist_path = PERSIST_DIR / f"{model_name}_c{CHUNK_SIZE}_o{CHUNK_OVERLAP}_ub"
 
@@ -54,7 +49,6 @@ async def build_vectorstore(force_rebuild: bool = False):
 
     if force_rebuild and persist_path.exists():
         print(f"🗑️  Removing existing database at {persist_path}")
-        import shutil
         shutil.rmtree(persist_path)
 
     # Build the database
@@ -62,7 +56,6 @@ async def build_vectorstore(force_rebuild: bool = False):
     print(f"   Embedding model: {ollama_embedding_model}")
     print(f"   Chunk size: {CHUNK_SIZE}")
     print(f"   Chunk overlap: {CHUNK_OVERLAP}")
-    print(f"   Output path: {persist_path}")
     print()
 
     try:
@@ -105,6 +98,11 @@ def main():
 
     # Set environment variable for incremental mode
     os.environ["VECTORSTORE_INCREMENTAL"] = "true" if args.incremental else "false"
+
+    # Load environment variables
+    env_path = Path(__file__).parent.parent / ".env"
+    if env_path.exists():
+        load_dotenv(env_path)
 
     success = asyncio.run(build_vectorstore(force_rebuild=args.force))
     sys.exit(0 if success else 1)
