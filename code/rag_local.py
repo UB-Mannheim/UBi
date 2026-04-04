@@ -2,7 +2,9 @@ import datetime
 import logging
 import os
 import re
+import uuid
 from operator import itemgetter
+from pathlib import Path
 
 import chromadb.config
 import yaml
@@ -14,6 +16,41 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from rich import print
+from vectorstore_incremental import FileIndexManager
+
+
+def _parse_frontmatter(file: Path, content: str):
+    """Extract YAML frontmatter and return (metadata, text_content).
+
+    Uses a regex that only matches '---' at the very start of the file,
+    followed by a closing '---' on its own line, to avoid false splits
+    on horizontal rules or code blocks.  Metadata values that are lists
+    are converted to lists of strings; other non-primitive values are
+    coerced to strings for ChromaDB compatibility.
+    """
+    frontmatter_match = re.match(
+        r'\A---\r?\n(.*?)\r?\n---\r?\n(.*)', content, re.DOTALL
+    )
+    if frontmatter_match:
+        try:
+            raw_metadata = yaml.safe_load(frontmatter_match.group(1)) or {}
+            # Sanitize metadata for ChromaDB compatibility
+            metadata = {}
+            for key, value in raw_metadata.items():
+                if isinstance(value, list):
+                    metadata[key] = [str(item) for item in value]
+                elif isinstance(value, (str, int, float, bool)):
+                    metadata[key] = value
+                elif value is not None:
+                    metadata[key] = str(value)
+        except yaml.YAMLError:
+            logging.warning("Failed to parse YAML frontmatter in %s", file)
+            metadata = {}
+        text_content = frontmatter_match.group(2).strip()
+    else:
+        metadata = {}
+        text_content = content
+    return metadata, text_content
 
 from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
 from prompts import BASE_SYSTEM_PROMPT
@@ -74,7 +111,11 @@ async def create_rag_chain(debug=False):
             PERSIST_DIR / f"{model_name}_c{CHUNK_SIZE}_o{CHUNK_OVERLAP}_ub"
         )
 
+    # Determine if we should do incremental update
+    incremental = os.getenv("VECTORSTORE_INCREMENTAL", "true").lower() == "true"
+
     if persist_path.exists():
+        # Load existing vectorstore
         vectorstore = Chroma(
             persist_directory=str(persist_path),
             embedding_function=embedding_model,
@@ -82,44 +123,143 @@ async def create_rag_chain(debug=False):
                 anonymized_telemetry=False
             ),
         )
+
+        # Check if incremental update is enabled and config hasn't changed
+        if incremental:
+            file_index = FileIndexManager(persist_path)
+
+            # Check if configuration changed (chunk size, overlap, model)
+            if file_index.config_changed(
+                CHUNK_SIZE, CHUNK_OVERLAP,
+                ollama_embedding_model if use_ollama else "text-embedding-ada-002"
+            ):
+                if debug:
+                    print("[yellow]⚠️  Configuration changed, full rebuild required[/yellow]")
+                incremental = False
+            else:
+                # Detect file changes
+                files = sorted(DATA_DIR.glob("*.md"))
+                new_or_modified, unchanged, deleted = file_index.detect_changes(files)
+
+                if debug:
+                    print("[cyan]📊 Incremental update:[/cyan]")
+                    print(f"  - New/Modified: {len(new_or_modified)}")
+                    print(f"  - Unchanged: {len(unchanged)}")
+                    print(f"  - Deleted: {len(deleted)}")
+
+                # Delete removed files from vectorstore
+                for deleted_path in deleted:
+                    chunk_ids = file_index.remove_file_entry(deleted_path)
+                    if chunk_ids:
+                        try:
+                            vectorstore._collection.delete(ids=chunk_ids)
+                            if debug:
+                                print(f"[red]🗑️  Deleted: {Path(deleted_path).name}[/red]")
+                        except Exception as e:
+                            if debug:
+                                print(f"[yellow]⚠️  Could not delete {Path(deleted_path).name}: {e}[/yellow]")
+
+                # Process new/modified files
+                if new_or_modified:
+                    for file in new_or_modified:
+                        # Delete old chunks if file was modified
+                        path_str = str(file.resolve())
+                        old_chunk_ids = file_index.get_chunk_ids_for_file(path_str)
+                        if old_chunk_ids:
+                            try:
+                                vectorstore._collection.delete(ids=old_chunk_ids)
+                            except Exception:
+                                pass
+
+                        # Process file
+                        with open(file, 'r', encoding='utf-8') as f:
+                            content = f.read()
+
+                        metadata, text_content = _parse_frontmatter(file, content)
+
+                        # Create document and split into chunks
+                        doc = Document(page_content=text_content, metadata=metadata)
+                        chunks = RecursiveCharacterTextSplitter(
+                            chunk_size=CHUNK_SIZE,
+                            chunk_overlap=CHUNK_OVERLAP
+                        ).split_documents([doc])
+
+                        # Generate unique IDs for chunks
+                        chunk_ids = [str(uuid.uuid4()) for _ in chunks]
+
+                        # Add chunks to vectorstore
+                        vectorstore.add_documents(chunks, ids=chunk_ids)
+
+                        # Update file index
+                        file_index.update_file_entry(file, chunk_ids)
+
+                        if debug:
+                            print(f"[green]✅ Updated: {file.name} ({len(chunks)} chunks)[/green]")
+
+                    # Save updated index
+                    file_index.save_index()
+
+                    if debug:
+                        print("[bold green]✅ Incremental update complete[/bold green]")
+                else:
+                    if debug:
+                        print("[bold green]✅ No changes detected[/bold green]")
+        else:
+            if debug:
+                print("[yellow]Incremental updates disabled, using existing vectorstore[/yellow]")
+
     else:
+        # First time build - create vectorstore from scratch
         files = sorted(DATA_DIR.glob("*.md"))
         all_docs = []
+        file_to_chunks = {}
+
         for file in files:
             with open(file, 'r', encoding='utf-8') as f:
                 content = f.read()
 
-            # Extract YAML frontmatter and preserve as metadata.
-            # Use a regex that only matches '---' at the very start of the file,
-            # followed by a closing '---' on its own line, to avoid false splits
-            # on horizontal rules or code blocks.
-            frontmatter_match = re.match(
-                r'\A---\r?\n(.*?)\r?\n---\r?\n(.*)', content, re.DOTALL
-            )
-            if frontmatter_match:
-                try:
-                    metadata = yaml.safe_load(frontmatter_match.group(1)) or {}
-                except yaml.YAMLError:
-                    logging.warning("Failed to parse YAML frontmatter in %s", file)
-                    metadata = {}
-                text_content = frontmatter_match.group(2).strip()
-            else:
-                metadata = {}
-                text_content = content
-
+            metadata, text_content = _parse_frontmatter(file, content)
             all_docs.append(Document(page_content=text_content, metadata=metadata))
+            file_to_chunks[str(file.resolve())] = []
 
-        chunks = RecursiveCharacterTextSplitter(
+        # Split documents per file to track chunk ownership, then build vectorstore
+        splitter = RecursiveCharacterTextSplitter(
             chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP
-        ).split_documents(all_docs)
+        )
+        all_chunks = []
+        chunk_ids = []
+        for doc_idx, doc in enumerate(all_docs):
+            file_path = str(files[doc_idx].resolve())
+            doc_chunks = splitter.split_documents([doc])
+            ids = [str(uuid.uuid4()) for _ in doc_chunks]
+            all_chunks.extend(doc_chunks)
+            chunk_ids.extend(ids)
+            file_to_chunks[file_path] = ids
+
         vectorstore = Chroma.from_documents(
-            chunks,
+            all_chunks,
             embedding=embedding_model,
             persist_directory=str(persist_path),
+            ids=chunk_ids,
             client_settings=chromadb.config.Settings(
                 anonymized_telemetry=False
             ),
         )
+
+        # Create and save file index
+        file_index = FileIndexManager(persist_path)
+        for file in files:
+            path_str = str(file.resolve())
+            file_index.update_file_entry(file, file_to_chunks[path_str])
+        file_index.update_config(
+            CHUNK_SIZE,
+            CHUNK_OVERLAP,
+            ollama_embedding_model if use_ollama else "text-embedding-ada-002"
+        )
+        file_index.save_index()
+
+        if debug:
+            print(f"[bold green]✅ Vector store created with {len(files)} files[/bold green]")
 
     retriever = vectorstore.as_retriever(
         search_type="similarity", search_kwargs={"k": 4}

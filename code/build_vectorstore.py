@@ -87,9 +87,24 @@ def main():
     parser.add_argument(
         "--force",
         action="store_true",
-        help="Force rebuild even if database exists"
+        help="Force full rebuild even if database exists"
+    )
+    parser.add_argument(
+        "--incremental",
+        action="store_true",
+        default=True,
+        help="Use incremental updates (default: True)"
+    )
+    parser.add_argument(
+        "--no-incremental",
+        action="store_false",
+        dest="incremental",
+        help="Disable incremental updates, do full rebuild"
     )
     args = parser.parse_args()
+
+    # Set environment variable for incremental mode
+    os.environ["VECTORSTORE_INCREMENTAL"] = "true" if args.incremental else "false"
 
     success = asyncio.run(build_vectorstore(force_rebuild=args.force))
     sys.exit(0 if success else 1)
