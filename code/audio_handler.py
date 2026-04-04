@@ -120,7 +120,6 @@ def transcribe_audio(
     Returns:
         Transcribed text string, or None on failure / empty result.
     """
-    import struct
     import wave
 
     model = initialize_whisper_model()

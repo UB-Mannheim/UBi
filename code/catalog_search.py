@@ -5,6 +5,7 @@ import httpx
 
 VUFIND_BASE = "https://disco.bib.uni-mannheim.de/vufind"  # Adjust to your VuFind URL
 
+
 async def search_catalog(query: dict | str, limit: int = 5) -> Optional[str]:
     """Search the VuFind catalog and return formatted Markdown text.
 
@@ -59,12 +60,12 @@ async def search_catalog(query: dict | str, limit: int = 5) -> Optional[str]:
 
         lines = []
         for r in records:
-            title  = r.get("title", "No title")
+            title = r.get("title", "No title")
             author = r.get("author", "")
-            year   = (r.get("publishDate") or [""])[0]
-            fmt    = (r.get("format")      or [""])[0]
-            url    = f"{VUFIND_BASE}/Record/{r.get('id', '')}"
-            meta   = " · ".join(filter(None, [author, year, fmt]))
+            year = (r.get("publishDate") or [""])[0]
+            fmt = (r.get("format") or [""])[0]
+            url = f"{VUFIND_BASE}/Record/{r.get('id', '')}"
+            meta = " · ".join(filter(None, [author, year, fmt]))
             lines.append(f"- **{title}**  \n  {meta}  \n  {url}")
 
         return "\n\n".join(lines)
