@@ -22,11 +22,7 @@ from audio_handler import (
 )
 from catalog_search import search_catalog
 from config import ENV_PATH
-from conversation_memory import (
-    MessageRole,
-    create_conversation_context,
-    session_memory,
-)
+from conversation_memory import MessageRole, create_conversation_context, session_memory
 from custom_data_layer import CustomDataLayer
 from db import save_interaction
 from free_seats import get_occupancy_data, make_plotly_figure
