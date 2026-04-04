@@ -40,7 +40,7 @@ if (window.aimaBundleLoaded) {
             const link = document.createElement('link');
             link.rel = 'stylesheet';
             link.type = 'text/css';
-            link.href = './public/css/terms.css';
+            link.href = 'public/css/terms.css';
             link.id = 'terms-css';
 
             // Check if the CSS is already loaded
@@ -287,7 +287,7 @@ if (window.aimaBundleLoaded) {
             let config = {};
             let uiVars = {};
             try {
-                const configResponse = await fetch('/public/ui_config.json');
+                const configResponse = await fetch('public/ui_config.json');
                 if (configResponse.ok) {
                     config = await configResponse.json();
                     window.aimaConfig = config; // Expose config globally
@@ -295,7 +295,7 @@ if (window.aimaBundleLoaded) {
                 } else {
                     console.error('UBi: Failed to fetch ui_config.json:', configResponse.statusText);
                 }
-                const varsResponse = await fetch('/public/ui_vars.json');
+                const varsResponse = await fetch('public/ui_vars.json');
                 if (varsResponse.ok) {
                     uiVars = await varsResponse.json();
                 }
@@ -330,7 +330,7 @@ if (window.aimaBundleLoaded) {
                 mobileLogoLink.className = "mobile-heading-logo-link";
 
                 const mobileLogo = document.createElement("img");
-                mobileLogo.src = "/public/logo_dark.png";
+                mobileLogo.src = "public/logo_dark.png";
                 mobileLogo.alt = "UB Mannheim";
                 mobileLogo.className = "mobile-heading-logo";
 
