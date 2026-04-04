@@ -3,6 +3,7 @@
 import asyncio
 import re
 import xml.etree.ElementTree as ET
+from datetime import datetime
 from pathlib import Path
 from typing import Optional
 from urllib.parse import urljoin, urlparse
@@ -24,9 +25,10 @@ async def crawl_urls(
     filters: list[str],
     url_filename: str = str(URLS_TO_CRAWL),
     save_to_disk: bool = True,
-) -> list[str] | None:
+) -> dict[str, str | None] | None:
     """
     Fetches and filters URLs from an XML sitemap asynchronously.
+    Returns a dict mapping URL -> lastmod timestamp (or None if not available).
     """
     try:
         # Fetch the XML content from the URL asynchronously
@@ -39,32 +41,71 @@ async def crawl_urls(
         root = ET.fromstring(xml_content)
         namespace = {"ns": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 
-        # Find the loc tag and get its text
-        urls = root.findall(".//ns:loc", namespace)
-        urls_clean = [url.text for url in urls]
+        # Parse both loc and lastmod from each <url> entry
+        url_entries = root.findall(".//ns:url", namespace)
+        url_data: dict[str, str | None] = {}
+        for entry in url_entries:
+            loc = entry.find("ns:loc", namespace)
+            lastmod = entry.find("ns:lastmod", namespace)
+            if loc is not None and loc.text and loc.text.startswith("http"):
+                url_data[loc.text] = lastmod.text if lastmod is not None else None
 
-        # Clean and filter urls
-        clean_urls = list(
-            set([url for url in urls_clean if url and url.startswith("http")])
-        )
-        clean_urls = sorted(
-            [
-                url
-                for url in clean_urls
-                if not any(filter in url for filter in filters)
-            ]
-        )
+        # Apply filters
+        filtered_url_data = {
+            url: timestamp
+            for url, timestamp in url_data.items()
+            if not any(f in url for f in filters)
+        }
 
         if save_to_disk:
             utils.ensure_dir(Path(url_filename).parent)
             with open(url_filename, "w", encoding="utf-8") as file:
-                for url in clean_urls:
+                for url in sorted(filtered_url_data.keys()):
                     file.write(url + "\n")
-        return clean_urls
+        return filtered_url_data
     except aiohttp.ClientError as e:
         utils.print_err(f"[bold red]Error fetching the XML: {e}")
     except ET.ParseError as e:
         utils.print_err(f"[bold red]Error parsing the XML: {e}")
+
+
+def should_recrawl_url(url: str, sitemap_lastmod: str | None, crawl_dir: str) -> bool:
+    """
+    Determines if a URL should be re-crawled based on lastmod timestamp.
+
+    Args:
+        url: The URL to check
+        sitemap_lastmod: The <lastmod> timestamp from sitemap (ISO 8601 format), or None
+        crawl_dir: Directory containing crawled markdown files
+
+    Returns:
+        True if URL should be re-crawled, False if it can be skipped
+    """
+    # If no lastmod info in sitemap, always crawl
+    if not sitemap_lastmod:
+        return True
+
+    # Get the local markdown file path
+    md_file = utils.get_markdown_filepath_for_url(url, crawl_dir)
+
+    # If file doesn't exist, need to crawl
+    if not md_file.exists():
+        return True
+
+    # Parse sitemap lastmod timestamp
+    try:
+        sitemap_dt = datetime.fromisoformat(
+            sitemap_lastmod[:-1] + "+00:00" if sitemap_lastmod.endswith("Z") else sitemap_lastmod
+        )
+    except (ValueError, AttributeError):
+        # If we can't parse the timestamp, crawl to be safe
+        return True
+
+    # Get local file modification time (use same timezone as sitemap_dt)
+    file_mtime = datetime.fromtimestamp(md_file.stat().st_mtime, tz=sitemap_dt.tzinfo)
+
+    # Re-crawl if sitemap shows page was modified after our local file
+    return sitemap_dt > file_mtime
 
 
 def parse_english_url(element: Tag, url: str) -> list[str]:
@@ -609,23 +650,45 @@ def cleanup_removed_urls(
     return removed
 
 
-def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = None):
+def process_urls(
+    urls: list[str] | dict[str, str | None],
+    output_dir: str = "",
+    quiet: bool | None = None,
+    force_recrawl: bool = False,
+):
     """
     Processes a list of URLs by fetching their content and extracting specific
     HTML tags and classes. The extracted content can be saved into individual
     or a single markdown file. Returns a list of changed/new filenames.
 
     Args:
-        urls: List of URLs to process.
+        urls: List of URLs or dict mapping URL -> lastmod timestamp.
         output_dir: Directory to save markdown files.
         quiet: If True, disable progress bar. Defaults to QUIET_MODE env var.
+        force_recrawl: If True, crawl all URLs regardless of lastmod timestamps.
     """
     # Backup output_dir if it exists
     if output_dir:
         utils.backup_dir_with_timestamp(output_dir)
 
+    # Handle both list and dict input for backward compatibility
+    if isinstance(urls, dict):
+        url_data = urls
+        url_list = list(urls.keys())
+    else:
+        url_data = {url: None for url in urls}
+        url_list = list(urls)
+
+    crawl_directory = str(output_dir or CRAWL_DIR)
     changed_files = []
-    for url in tqdm(urls, desc="Crawling URLs", disable=quiet):
+    skipped_count = 0
+    for url in tqdm(url_list, desc="Crawling URLs", disable=quiet):
+        # Check if we should skip this URL based on lastmod
+        if not force_recrawl:
+            if not should_recrawl_url(url, url_data.get(url), crawl_directory):
+                skipped_count += 1
+                continue
+
         response = requests.get(url)
         content_single_page = []
 
@@ -724,6 +787,11 @@ def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = Non
                     utils.delete_filepath(fpath)
                     utils.print_info(f"[bold red]Deleted {fpath} as {url} returns 404 ...")
 
+    if skipped_count > 0:
+        utils.print_info(
+            f"[bold blue]Skipped {skipped_count} unchanged URL(s) based on lastmod timestamps"
+        )
+
     return changed_files
 
 
@@ -771,7 +839,13 @@ def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = Non
     default=None,
     help="URL filter keyword to exclude from crawling (can be used multiple times). If specified, overrides default filters. Use a random string to effectively disable filtering.",
 )
-def main(quiet: bool, write_snapshot: bool, sitemap_url: Optional[str], urls: tuple[str, ...], output_dir: str, url_filters: tuple) -> Optional[list[str] | list[Path]]:
+@click.option(
+    "--force",
+    is_flag=True,
+    default=False,
+    help="Force re-crawl all URLs, ignoring lastmod timestamps from sitemap.",
+)
+def main(quiet: bool, write_snapshot: bool, sitemap_url: Optional[str], urls: tuple[str, ...], output_dir: str, url_filters: tuple, force: bool) -> Optional[list[str] | list[Path]]:
     """
     Main crawling function.
     """
@@ -830,10 +904,12 @@ def main(quiet: bool, write_snapshot: bool, sitemap_url: Optional[str], urls: tu
             urls=urls_to_crawl,
             output_dir=crawl_output_dir,
             quiet=quiet or utils.is_quiet_mode(),
+            force_recrawl=force,
         )
 
         # Clean up markdown files for URLs that were removed from urls.txt
-        cleanup_removed_urls(urls=urls_to_crawl, crawl_dir=str(crawl_output_dir), data_dir=str(DATA_DIR))
+        url_list = list(urls_to_crawl.keys()) if isinstance(urls_to_crawl, dict) else list(urls_to_crawl)
+        cleanup_removed_urls(urls=url_list, crawl_dir=str(crawl_output_dir), data_dir=str(DATA_DIR))
     else:
         utils.print_err("[bold red]No URLs found to crawl. Exiting.")
         return
