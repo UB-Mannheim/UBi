@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup, Tag
 from tqdm import tqdm
 
 import utils
-from config import CRAWL_DIR, DATA_DIR, URLS_TO_CRAWL
+from config import CRAWL_DIR, DATA_DIR, SITEMAP_URL, URLS_TO_CRAWL
 from markdown_processing import write_markdown_from_url
 
 
@@ -742,7 +742,28 @@ def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = Non
     default=False,
     help="Only write file hashes for CRAWL_DIR and exit.",
 )
-def main(quiet: bool, write_snapshot: bool) -> Optional[list[str] | list[Path]]:
+@click.option(
+    "--sitemap-url",
+    "-s",
+    default=None,
+    type=str,
+    help="URL of the sitemap to crawl (overrides default sitemap URL)",
+)
+@click.option(
+    "--urls",
+    "-u",
+    multiple=True,
+    type=str,
+    help="Specific URLs to crawl (can be used multiple times)",
+)
+@click.option(
+    "--output-dir",
+    "-o",
+    default=str(CRAWL_DIR),
+    type=click.Path(),
+    help="Output directory for crawled markdown files (overrides CRAWL_DIR)",
+)
+def main(quiet: bool, write_snapshot: bool, sitemap_url: Optional[str], urls: tuple[str, ...], output_dir: str) -> Optional[list[str] | list[Path]]:
     """
     Main crawling function.
     """
@@ -750,64 +771,74 @@ def main(quiet: bool, write_snapshot: bool) -> Optional[list[str] | list[Path]]:
     if quiet:
         utils.set_quiet_mode(True)
 
+    # Determine output directory
+    crawl_output_dir = Path(output_dir)
+    crawl_output_dir.mkdir(parents=True, exist_ok=True)
+
     # Write hashes only and exit
     if write_snapshot:
-        utils.write_hashes_for_directory(CRAWL_DIR)
+        utils.write_hashes_for_directory(crawl_output_dir)
         return
 
-    # Crawl URLs
-    file_path = URLS_TO_CRAWL
-    if file_path.exists():
-        utils.print_info(f"[bold]Using {str(URLS_TO_CRAWL)} to crawl URLs.")
-        with file_path.open("r", encoding="utf-8") as f:
-            urls = [line.strip() for line in f if line.strip()]
-    else:
-        sitemap_url = "https://www.bib.uni-mannheim.de/xml-sitemap/"
-        utils.print_info(f"[bold]Crawling all URLs from {sitemap_url}")
-        urls = asyncio.run(
-            crawl_urls(
-                sitemap_url=sitemap_url,
-                filters=[
-                    "twitter",
-                    "youtube",
-                    "google",
-                    "facebook",
-                    "instagram",
-                    "primo",
-                    "absolventum",
-                    "portal2",
-                    "blog",
-                    "auskunft-und-beratung",
-                    "beschaeftigte-von-a-bis-z",
-                    "aktuelles/events",
-                    "ausstellungen-und-veranstaltungen",
-                    "anmeldung-fuer-schulen",
-                    "fuehrungen",
-                ],
-                save_to_disk=True,
-                url_filename=str(URLS_TO_CRAWL),
-            )
-        )
+    # Determine URLs to crawl
     if urls:
+        # Use URLs provided directly via command line
+        utils.print_info(f"[bold]Using {len(urls)} URL(s) provided via command line.")
+        urls_to_crawl = list(urls)
+    else:
+        # Fall back to file or sitemap
+        file_path = URLS_TO_CRAWL
+        if file_path.exists():
+            utils.print_info(f"[bold]Using {str(URLS_TO_CRAWL)} to crawl URLs.")
+            with file_path.open("r", encoding="utf-8") as f:
+                urls_to_crawl = [line.strip() for line in f if line.strip()]
+        else:
+            sitemap_url = sitemap_url or SITEMAP_URL
+            utils.print_info(f"[bold]Crawling all URLs from {sitemap_url}")
+            urls_to_crawl = asyncio.run(
+                crawl_urls(
+                    sitemap_url=sitemap_url,
+                    filters=[
+                        "twitter",
+                        "youtube",
+                        "google",
+                        "facebook",
+                        "instagram",
+                        "primo",
+                        "absolventum",
+                        "portal2",
+                        "blog",
+                        "auskunft-und-beratung",
+                        "beschaeftigte-von-a-bis-z",
+                        "aktuelles/events",
+                        "ausstellungen-und-veranstaltungen",
+                        "anmeldung-fuer-schulen",
+                        "fuehrungen",
+                    ],
+                    save_to_disk=True,
+                    url_filename=str(URLS_TO_CRAWL),
+                )
+            )
+    if urls_to_crawl:
         process_urls(
-            urls=urls,
-            output_dir=CRAWL_DIR,
+            urls=urls_to_crawl,
+            output_dir=crawl_output_dir,
             quiet=quiet or utils.is_quiet_mode(),
         )
 
         # Clean up markdown files for URLs that were removed from urls.txt
-        cleanup_removed_urls(urls=urls, crawl_dir=str(CRAWL_DIR), data_dir=str(DATA_DIR))
+        cleanup_removed_urls(urls=urls_to_crawl, crawl_dir=str(crawl_output_dir), data_dir=str(DATA_DIR))
     else:
         utils.print_err("[bold red]No URLs found to crawl. Exiting.")
         return
 
-    # Hash-based file change detection in CRAWL_DIR
-    changed_files = utils.get_new_or_modified_files_by_hash(CRAWL_DIR)
+    # Hash-based file change detection in crawl_output_dir
+    changed_files = utils.get_new_or_modified_files_by_hash(crawl_output_dir)
 
     if changed_files:
         changed_files_str = "\n".join(str(f) for f in changed_files)
         utils.print_info(
-            f"[bold green]{len(changed_files)} changed file(s) detected in {CRAWL_DIR}:"
+            f"[bold green]{len(changed_files)} changed file(s) detected in {crawl_output_dir}:"
         )
         utils.print_info(f"[bold green]{changed_files_str}")
         return changed_files
