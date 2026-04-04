@@ -18,6 +18,26 @@ from config import CRAWL_DIR, DATA_DIR, SITEMAP_URL, URLS_TO_CRAWL
 from markdown_processing import write_markdown_from_url
 
 
+# Default URL filters for sitemap crawling
+SITEMAP_URL_FILTERS = [
+    "twitter",
+    "youtube",
+    "google",
+    "facebook",
+    "instagram",
+    "primo",
+    "absolventum",
+    "portal2",
+    "blog",
+    "auskunft-und-beratung",
+    "beschaeftigte-von-a-bis-z",
+    "aktuelles/events",
+    "ausstellungen-und-veranstaltungen",
+    "anmeldung-fuer-schulen",
+    "fuehrungen",
+]
+
+
 # === Crawler Functions ===
 async def crawl_urls(
     sitemap_url: str,
@@ -781,40 +801,36 @@ def main(quiet: bool, write_snapshot: bool, sitemap_url: Optional[str], urls: tu
         return
 
     # Determine URLs to crawl
+    # Priority: 1. Command-line URLs, 2. Command-line sitemap, 3. URL file, 4. Default sitemap
     if urls:
         # Use URLs provided directly via command line
         utils.print_info(f"[bold]Using {len(urls)} URL(s) provided via command line.")
         urls_to_crawl = list(urls)
+    elif sitemap_url:
+        # User explicitly provided a sitemap URL via command line - use it, ignore URL file
+        utils.print_info(f"[bold]Crawling all URLs from {sitemap_url} (command line)")
+        urls_to_crawl = asyncio.run(
+            crawl_urls(
+                sitemap_url=sitemap_url,
+                filters=SITEMAP_URL_FILTERS,
+                save_to_disk=True,
+                url_filename=str(URLS_TO_CRAWL),
+            )
+        )
     else:
-        # Fall back to file or sitemap
+        # Fall back to file or default sitemap
         file_path = URLS_TO_CRAWL
         if file_path.exists():
             utils.print_info(f"[bold]Using {str(URLS_TO_CRAWL)} to crawl URLs.")
             with file_path.open("r", encoding="utf-8") as f:
                 urls_to_crawl = [line.strip() for line in f if line.strip()]
         else:
-            sitemap_url = sitemap_url or SITEMAP_URL
-            utils.print_info(f"[bold]Crawling all URLs from {sitemap_url}")
+            sitemap_url = SITEMAP_URL
+            utils.print_info(f"[bold]Crawling all URLs from {sitemap_url} (default)")
             urls_to_crawl = asyncio.run(
                 crawl_urls(
                     sitemap_url=sitemap_url,
-                    filters=[
-                        "twitter",
-                        "youtube",
-                        "google",
-                        "facebook",
-                        "instagram",
-                        "primo",
-                        "absolventum",
-                        "portal2",
-                        "blog",
-                        "auskunft-und-beratung",
-                        "beschaeftigte-von-a-bis-z",
-                        "aktuelles/events",
-                        "ausstellungen-und-veranstaltungen",
-                        "anmeldung-fuer-schulen",
-                        "fuehrungen",
-                    ],
+                    filters=SITEMAP_URL_FILTERS,
                     save_to_disk=True,
                     url_filename=str(URLS_TO_CRAWL),
                 )
