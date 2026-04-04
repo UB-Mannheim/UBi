@@ -84,7 +84,7 @@ def create_modified_template(frontend_path):
     )
     font_replacement = (
         "<!-- LOCAL FONTS START -->\n    "
-        '<link rel="stylesheet" href="/public/css/fonts.css" />\n    '
+        '<link rel="stylesheet" href="public/css/fonts.css" />\n    '
         "<!-- LOCAL FONTS END -->"
     )
     modified_content = content.replace(font_start, font_replacement)
@@ -94,7 +94,7 @@ def create_modified_template(frontend_path):
         r'<link\s+rel="stylesheet"\s+href="https://cdn\.jsdelivr\.net/npm/katex@[^/]+/dist/katex\.min\.css"\s+/>'
     )
     katex_replacement = (
-        '<link rel="stylesheet" href="/public/css/katex.min.css" />'
+        '<link rel="stylesheet" href="public/css/katex.min.css" />'
     )
     modified_content = katex_pattern.sub(katex_replacement, modified_content)
 
@@ -122,7 +122,7 @@ def create_modified_template(frontend_path):
         )
 
     # Add bundle.js
-    bundle_js_script = '<script src="/public/bundle.js" defer></script>'
+    bundle_js_script = '<script src="public/bundle.js" defer></script>'
     if bundle_js_script not in modified_content:
         modified_content = modified_content.replace(
             "</head>", f"  {bundle_js_script}\n  </head>"

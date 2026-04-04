@@ -101,15 +101,15 @@ reaction_on_message_received = false
 name = "UBi – KI-Chatbot der UB Mannheim"
 # Description of the assistant. This is used for HTML tags.
 description = "KI-Chatbot der UB Mannheim"
-favicon = "/public/avatars/assistant.png"
+favicon = "public/avatars/assistant.png"
 default_theme = "light"
 
 # Specify a CSS file that can be used to customize the user interface.
 # The CSS file can be served from the public directory or via an external link.
-custom_css = "/public/css/bundle.css"
+custom_css = "public/css/bundle.css"
 # Specify a JavaScript file that can be used to customize the user interface.
 # The JavaScript file can be served from the public directory.
-custom_js = "/public/bundle.js"
+custom_js = "public/bundle.js"
 show_feedback = true
 
 # Force a specific language for all users (e.g., "en-US", "he-IL", "fr-FR")
@@ -142,7 +142,7 @@ alert_style = "classic"
 # custom_js_attributes = "async type = \"module\""
 
 # Custom login page image, relative to public directory or external URL
-# login_page_image = "/public/custom-background.jpg"
+# login_page_image = "public/custom-background.jpg"
 
 # Custom login page image filter (Tailwind internal filters, no dark/light variants)
 # login_page_image_filter = "brightness-50 grayscale"
@@ -163,10 +163,10 @@ default_avatar_file_url = ""
 # Specify a custom build directory for the frontend.
 # This can be used to customize the frontend code.
 # Be careful: If this is a relative path, it should not start with a slash.
-# custom_build = "./public/build"
+# custom_build = "public/build"
 
 [UI.logo]
-path = "/public/avatars/assistant.png"
+path = "public/avatars/assistant.png"
 width = 50
 
 # Specify optional one or more custom links in the header.
