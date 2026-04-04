@@ -9,6 +9,7 @@ PERSIST_DIR = Path("../data/vectorstore")
 CHUNK_SIZE = 512
 CHUNK_OVERLAP = 128
 RSS_URL = "https://blog.bib.uni-mannheim.de/Aktuelles/?feed=rss2&cat=4"
+SITEMAP_URL = "https://www.bib.uni-mannheim.de/xml-sitemap/"
 DB_PATH = "../data/feedback.db"
 
 # Session Memory Configuration
