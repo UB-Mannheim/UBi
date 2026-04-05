@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import asyncio
+import gc
 import os
 import re
 import time
@@ -362,6 +363,7 @@ def process_markdown_files_with_llm(
     max_concurrent: int = 3,
     delay_between_requests: float = 0.5,
     provider: str = "openai",
+    batch_size: int = 100,
 ):
     """
     Post-process markdown files with LLM and add YAML header.
@@ -375,6 +377,7 @@ def process_markdown_files_with_llm(
         max_concurrent: Maximum concurrent API requests
         delay_between_requests: Delay between requests in seconds
         provider: LLM provider to use ("openai" or "ollama")
+        batch_size: Number of files to process per batch
     """
     # Backup output_dir if it exists
     if output_dir:
@@ -422,40 +425,65 @@ def process_markdown_files_with_llm(
         return
 
     async def process_files_async():
-        semaphore = asyncio.Semaphore(max_concurrent)
+        """Process files in batches to avoid overwhelming the event loop."""
+        total_completed = 0
 
-        async def process_with_semaphore(file_path):
-            async with semaphore:
-                try:
-                    result = await process_single_file_async(
-                        llm, file_path, output_path, PROMPT_POST_PROCESSING
-                    )
-                    # Add delay between requests to respect rate limits
-                    if delay_between_requests > 0:
-                        await asyncio.sleep(delay_between_requests)
-                    return result
-                except Exception as e:
-                    utils.print_err(f"❌ Error processing {file_path.name}: {e}")
-                    return None
+        # Process files in batches
+        for batch_start in range(0, len(input_files), batch_size):
+            batch_end = min(batch_start + batch_size, len(input_files))
+            batch = input_files[batch_start:batch_end]
+            batch_number = batch_start // batch_size + 1
 
-        # Create tasks for all files
-        tasks = [
-            process_with_semaphore(file_path) for file_path in input_files
-        ]
+            if not utils.is_quiet_mode():
+                utils.print_info(
+                    f"[cyan]Processing batch {batch_number} "
+                    f"({batch_start + 1}-{batch_end} of {len(input_files)})[/cyan]"
+                )
 
-        # Process with progress bar
-        completed = 0
-        for coro in tqdm(
-            asyncio.as_completed(tasks),
-            total=len(tasks),
-            desc="LLM Processing",
-            disable=utils.is_quiet_mode(),
-        ):
-            result = await coro
-            if result:
-                completed += 1
+            semaphore = asyncio.Semaphore(max_concurrent)
 
-        return completed
+            async def process_with_semaphore(file_path):
+                async with semaphore:
+                    try:
+                        result = await process_single_file_async(
+                            llm, file_path, output_path, PROMPT_POST_PROCESSING
+                        )
+                        # Add delay between requests to respect rate limits
+                        if delay_between_requests > 0:
+                            await asyncio.sleep(delay_between_requests)
+                        return result
+                    except Exception as e:
+                        utils.print_err(f"❌ Error processing {file_path.name}: {e}")
+                        return None
+
+            # Create tasks for this batch only
+            tasks = [process_with_semaphore(file_path) for file_path in batch]
+
+            # Process batch with progress bar
+            batch_completed = 0
+            for coro in tqdm(
+                asyncio.as_completed(tasks),
+                total=len(tasks),
+                desc=f"Batch {batch_number}",
+                disable=utils.is_quiet_mode(),
+                initial=0,
+                position=0,
+            ):
+                result = await coro
+                if result:
+                    batch_completed += 1
+                    total_completed += 1
+
+            if not utils.is_quiet_mode():
+                utils.print_info(
+                    f"[green]Batch complete: {batch_completed}/{len(batch)} files processed "
+                    f"(Total: {total_completed}/{len(input_files)})[/green]"
+                )
+
+            # Force garbage collection between batches to free memory
+            gc.collect()
+
+        return total_completed
 
     # Run the async processing
     try:
@@ -1076,6 +1104,13 @@ def additional_post_processing(data_dir: str = str(DATA_DIR)):
         "Defaults to ollama if OPENAI_API_KEY is not set, otherwise openai."
     ),
 )
+@click.option(
+    "--batch-size",
+    "-b",
+    default=100,
+    type=int,
+    help="Number of files to process per batch for LLM processing. (Default: 100)",
+)
 def run_post_processing(
     input_dir: str,
     files: tuple,
@@ -1087,6 +1122,7 @@ def run_post_processing(
     write_snapshot: bool,
     quiet: bool,
     provider: str | None,
+    batch_size: int,
 ):
     """
     CLI for post-processing markdown files.
@@ -1180,6 +1216,7 @@ def run_post_processing(
                 model_name=model_name,
                 temperature=temperature,
                 provider=provider,
+                batch_size=batch_size,
             )
 
         # Additional post-processing
