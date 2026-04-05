@@ -1,13 +1,14 @@
-import aiohttp
 import asyncio
-import click
 import re
-import requests
 import xml.etree.ElementTree as ET
-from bs4 import BeautifulSoup, Tag
 from pathlib import Path
 from typing import Optional
 from urllib.parse import urljoin, urlparse
+
+import aiohttp
+import click
+import requests
+from bs4 import BeautifulSoup, Tag
 from tqdm import tqdm
 
 import utils

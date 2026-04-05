@@ -3,15 +3,16 @@ import os
 from operator import itemgetter
 
 import chromadb.config
-from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
 from langchain import hub
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from langchain_community.document_loaders import UnstructuredMarkdownLoader
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
-from prompts import BASE_SYSTEM_PROMPT
 from rich import print
+
+from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
+from prompts import BASE_SYSTEM_PROMPT
 
 
 def format_docs(docs):

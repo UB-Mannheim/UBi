@@ -1,5 +1,6 @@
 import plotly.graph_objects as go
 import requests
+
 from translations import translate
 
 

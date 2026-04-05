@@ -3,15 +3,15 @@ import hashlib
 import json
 import os
 import shutil
-import yaml
-from dotenv import load_dotenv
 from pathlib import Path
-from rich import print
 from typing import List
 from urllib.parse import urlparse
 
-from config import ENV_PATH
+import yaml
+from dotenv import load_dotenv
+from rich import print
 
+from config import ENV_PATH
 
 UI_VARS_FILE = Path("./public/ui_vars.json")
 

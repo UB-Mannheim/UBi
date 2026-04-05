@@ -2,6 +2,7 @@ import datetime
 from typing import Optional
 
 import aiosqlite
+
 from config import DB_PATH
 
 # Global flag to track if table has been created

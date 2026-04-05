@@ -2,17 +2,18 @@ import asyncio
 import os
 import re
 import time
-import mdformat
 from pathlib import Path
 from typing import Optional
 
 import backoff
 import click
+import mdformat
+from langchain_openai import ChatOpenAI
+from tqdm import tqdm
+
 import utils
 from config import CRAWL_DIR, CUSTOM_DOCS_DIR, DATA_DIR
-from langchain_openai import ChatOpenAI
 from prompts import PROMPT_POST_PROCESSING
-from tqdm import tqdm
 
 
 # === Processing Functions ===

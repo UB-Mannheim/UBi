@@ -1,13 +1,14 @@
 import asyncio
 import os
-from pathlib import Path
 from datetime import date
+from pathlib import Path
 
-import utils
-from config import DATA_DIR, ENV_PATH
 from dotenv import load_dotenv, set_key
 from openai import OpenAI
 from tqdm import tqdm
+
+import utils
+from config import DATA_DIR, ENV_PATH
 
 
 # === OpenAI Vectorstore Functions ===

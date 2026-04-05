@@ -1,10 +1,11 @@
 import datetime
 import os
+import time
+from typing import Optional
+
 import chainlit as cl
 from dotenv import load_dotenv
 from fastapi import Request, Response
-import time
-from typing import Optional
 
 # === UBi imports ===
 from config import ENV_PATH
@@ -24,13 +25,12 @@ from rss_reader import get_rss_items
 from session_stats import check_session_warnings, get_session_usage_message
 from translations import translate
 from utils import (
-    extract_openai_response_data,
-    print_openai_extracted_data,
     clean_old_backup_dirs,
+    extract_openai_response_data,
+    print_err,
     print_info,
-    print_err
+    print_openai_extracted_data,
 )
-
 
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
@@ -43,6 +43,7 @@ _quiet_mode = os.getenv("QUIET_MODE", "False").lower() == "true"
 # === Conditional Imports for OpenAI vectorstore / RAG logic ===
 if USE_OPENAI_VECTORSTORE:
     from openai import AsyncOpenAI
+
     from rag_openai import initialize_vectorstore
 else:
     from rag_local import create_rag_chain
