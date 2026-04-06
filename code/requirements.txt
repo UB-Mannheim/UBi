@@ -14,6 +14,6 @@ mdformat~=1.0.0
 plotly~=6.6.0
 Requests~=2.32.5
 tqdm~=4.67.3
-unstructured~=0.18.3
+unstructured~=0.18.32
 json-repair~=0.58.6
 wheel~=0.46.3
