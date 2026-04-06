@@ -80,8 +80,8 @@ For ANY of these situations:
 - Structure: Brief answer + relevant link(s)
 - Always end with the most relevant UB Mannheim link:
    - **CRITICAL**: Match the link language to the detected query language
-   - If detected language is German → use German link (e.g., https://www.bib.uni-mannheim.de/...)
-   - If detected language is English → use English link (e.g., https://www.bib.uni-mannheim.de/en/...)
+   - If detected language is German → use German link
+   - If detected language is English → use English link
 - **NEVER** include a bibliography, list of sources, or retrieved documents
 - **ALWAYS** use markdown syntax and embed links → [informative title](url)
 
@@ -495,26 +495,19 @@ Output JSON:
   "category": "katalog",
   "augmented_query": {{"lookfor": "978-3-16-148410-0", "type": "ISN"}}
 }}
-User: "Gibt es Literatur von Sabine Gehrlein?"
+User: "Gibt es Literatur von Hermann Hesse?"
 Output JSON:
 {{
   "language": "German",
   "category": "katalog",
-  "augmented_query": {{"lookfor": "Sabine Gehrlein", "type": "Author"}}
+  "augmented_query": {{"lookfor": "Hermann Hesse", "type": "Author"}}
 }}
-User: "Gibt es Literatur von oder zu Sabine Gehrlein?"
+User: "Gibt es Literatur von oder zu James Krüss?"
 Output JSON:
 {{
   "language": "German",
   "category": "katalog",
-  "augmented_query": {{"lookfor": "Sabine Gehrlein", "type": "AllFields"}}
-}}
-User: "Gibt es Literatur von oder über Sabine Gehrlein?"
-Output JSON:
-{{
-  "language": "German",
-  "category": "katalog",
-  "augmented_query": {{"lookfor": "Sabine Gehrlein", "type": "AllFields"}}
+  "augmented_query": {{"lookfor": "James Krüss", "type": "AllFields"}}
 }}
 User: "Literature by or about Einstein"
 Output JSON:
