@@ -1,5 +1,6 @@
 import datetime
 import os
+import re
 from operator import itemgetter
 
 import chromadb.config
@@ -20,14 +21,39 @@ def format_docs(docs):
 
 
 async def create_rag_chain(debug=False):
-    embedding_model = OpenAIEmbeddings(
-        model="text-embedding-ada-002",
-        openai_api_key=os.getenv("OPENAI_API_KEY"),
-    )
-    model_name = "openai_ada"
-    persist_path = (
-        PERSIST_DIR / f"{model_name}_c{CHUNK_SIZE}_o{CHUNK_OVERLAP}_ub"
-    )
+    openai_api_key = os.getenv("OPENAI_API_KEY", "").strip()
+    use_ollama = not openai_api_key or openai_api_key == "sk-"
+
+    if use_ollama:
+        try:
+            from langchain_ollama import ChatOllama, OllamaEmbeddings
+        except ImportError as exc:
+            raise ImportError(
+                "langchain-ollama is required when OPENAI_API_KEY is not set. "
+                "Install it with: pip install langchain-ollama"
+            ) from exc
+
+        ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
+        ollama_model = os.getenv("OLLAMA_MODEL", "llama3.2")
+        ollama_embedding_model = os.getenv("OLLAMA_EMBEDDING_MODEL", "nomic-embed-text")
+
+        embedding_model = OllamaEmbeddings(
+            model=ollama_embedding_model,
+            base_url=ollama_base_url,
+        )
+        model_name = f"ollama_{re.sub(r'[^a-zA-Z0-9_-]', '_', ollama_embedding_model)}"
+        persist_path = (
+            PERSIST_DIR / f"{model_name}_c{CHUNK_SIZE}_o{CHUNK_OVERLAP}_ub"
+        )
+    else:
+        embedding_model = OpenAIEmbeddings(
+            model="text-embedding-ada-002",
+            openai_api_key=openai_api_key,
+        )
+        model_name = "openai_ada"
+        persist_path = (
+            PERSIST_DIR / f"{model_name}_c{CHUNK_SIZE}_o{CHUNK_OVERLAP}_ub"
+        )
 
     if persist_path.exists():
         vectorstore = Chroma(
@@ -70,12 +96,19 @@ Frage: {{question}}
 Kontext: {{context}}
 Antwort:"""
 
-    llm = ChatOpenAI(
-        model_name="gpt-4o-mini-2024-07-18",
-        temperature=0,
-        streaming=True,
-        openai_api_key=os.getenv("OPENAI_API_KEY"),
-    )
+    if use_ollama:
+        llm = ChatOllama(
+            model=ollama_model,
+            base_url=ollama_base_url,
+            temperature=0,
+        )
+    else:
+        llm = ChatOpenAI(
+            model_name="gpt-4o-mini-2024-07-18",
+            temperature=0,
+            streaming=True,
+            openai_api_key=openai_api_key,
+        )
 
     def log_prompt(prompt):
         if debug:
