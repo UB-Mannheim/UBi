@@ -71,7 +71,7 @@ Kontext: {{context}}
 Antwort:"""
 
     llm = ChatOpenAI(
-        model_name="gpt-4o-mini-2024-07-18",
+        model_name=os.getenv("CHAT_MODEL", "gpt-4o-mini-2024-07-18"),
         temperature=0,
         streaming=True,
         openai_api_key=os.getenv("OPENAI_API_KEY"),
