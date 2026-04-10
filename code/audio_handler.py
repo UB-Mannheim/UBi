@@ -13,7 +13,6 @@ from dotenv import load_dotenv
 from config import ENV_PATH
 from utils import print_err, print_info
 
-
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
 
