@@ -37,14 +37,6 @@ Survey Expert
 - E-Mail: benjamin.groebe@uni-mannheim.de
 
 
-### Carolin Bahm
-
-Survey Expert
-- Adresse: Universität Mannheim, UB, Research Data Center, GIP, Schloss – Raum SN 271, 68161 Mannheim
-- Telefon: +49 621 181-2925
-- E-Mail: carolin.bahm@uni-mannheim.de
-
-
 ### Stefanie Schmidt
 
 Assistenz im Projekt- und Umfragemanagement

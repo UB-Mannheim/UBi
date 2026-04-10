@@ -3,13 +3,13 @@ title: Team des GIP Research Data Center – Kontakt und Zuständigkeiten
 source_url_de: https://www.uni-mannheim.de/gip/ueber-uns/team/
 source_url_en: https://www.uni-mannheim.de/en/gip/about-us/team/
 category: Kontakt
-tags: ['GIP', 'Team', 'Kontakt', 'Forschungsdatenzentrum', 'Umfrageexperten', 'Wissenschaftliche Leitung', 'Universität Mannheim', 'Sozialwissenschaften']
+tags: ['GIP', 'Team', 'Kontakt', 'Forschungsdatenzentrum', 'Umfrageexperten', 'Projektmanagement', 'Wissenschaftliche Leitung', 'Universität Mannheim']
 language: de
 ---
 
 # Team des GIP Research Data Center
 
-Das Team des Forschungsdatenzentrums GIP (German Internet Panel) an der Universitätsbibliothek Mannheim besteht aus operativer Leitung, Survey Experts sowie Assistenz im Projekt- und Umfragemanagement. Die wissenschaftliche Leitung liegt bei der School of Social Sciences.
+Das Team des Forschungsdatenzentrums GIP (German Internet Panel) an der Universitätsbibliothek Mannheim besteht aus operativer Leitung, Survey Experts, Assistenz im Projekt- und Umfragemanagement sowie der wissenschaftlichen Leitung. Nachfolgend finden Sie die Ansprechpartner und deren Zuständigkeiten.
 
 ## Operative Leitung
 
@@ -43,13 +43,6 @@ Das Team des Forschungsdatenzentrums GIP (German Internet Panel) an der Universi
 - Telefon: +49 621 181-2996
 - E-Mail: [benjamin.groebe@uni-mannheim.de](mailto:benjamin.groebe@uni-mannheim.de)
 
-### Carolin Bahm
-
-- Survey Expert
-- Adresse: Universität Mannheim, UB, Research Data Center, GIP, Schloss – Raum SN 271, 68161 Mannheim
-- Telefon: +49 621 181-2925
-- E-Mail: [carolin.bahm@uni-mannheim.de](mailto:carolin.bahm@uni-mannheim.de)
-
 ## Assistenz im Projekt- und Umfragemanagement
 
 ### Stefanie Schmidt
@@ -64,5 +57,5 @@ Das Team des Forschungsdatenzentrums GIP (German Internet Panel) an der Universi
 ### Prof. Dr. Richard Traunmüller
 
 - Wissenschaftliche Leitung
-- Universität Mannheim, School of Social Sciences, A 5, 6, Building A – Raum 332, 68159 Mannheim
+- Adresse: Universität Mannheim, School of Social Sciences, A 5, 6, Building A – Raum 332, 68159 Mannheim
 - E-Mail: [traunmueller@uni-mannheim.de](mailto:traunmueller@uni-mannheim.de)

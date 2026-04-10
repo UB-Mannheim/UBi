@@ -18,7 +18,6 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 
 - American Institute of Physics
 - Annual Reviews
-- Beck-eLibrary
 - Brepols
 - Brill
 - Bristol University Press
@@ -40,6 +39,7 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 - IEEE
 - Informs
 - Ingentaconnect
+- Inlibra
 - Institute of Physics
 - John Benjamins
 - JSTOR
@@ -52,7 +52,6 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 - Munzinger
 - Narr
 - Nature
-- Nomos
 - OECD
 - Oxford University Press Journals
 - Pearson

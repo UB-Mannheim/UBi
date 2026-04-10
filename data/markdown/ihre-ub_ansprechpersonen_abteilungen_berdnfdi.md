@@ -97,7 +97,7 @@ Aufgaben:
 
 ### Thomas Schmidt, M.A.
 
-Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy)
+Data Steward und Data Scientist für BERD@NFDI | Projektkoordination AiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
 - E-Mail: thomas.schmidt@uni-mannheim.de

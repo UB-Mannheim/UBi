@@ -3,13 +3,13 @@ title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche der Unive
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Ansprechpartner', 'Open Science', 'Data Science', 'Digital Humanities', 'Datenschutz', 'BERD@NFDI']
+tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Drittmittelprojekte', 'Open Science', 'Data Science', 'KI', 'Datenschutz', 'Beratung']
 language: de
 ---
 
 # Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt Forschende bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und rechtliche Unterstützung im Bereich Forschungsdatenmanagement (FDM), Data Science, Open Science und Digitalisierung.
+Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim. Das Team bietet Beratung, Schulungen und Unterstützung in verschiedenen Bereichen des Forschungsdatenmanagements, Data Science, Open Science, Datenschutz und rechtlichen Fragestellungen.
 
 ## Ansprechpartner und Aufgabenbereiche
 
@@ -17,7 +17,7 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 
 **Leiterin der Abteilung Forschungsdatenzentrum**
 
-- Betreuung und Koordination des Projekts BERD@NFDI
+- Konzeption, Beantragung, Support und Steuerung von Drittmittelprojekten
 - Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
 - Telefon: +49 621 181-2955
@@ -64,7 +64,7 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 
 ### Thomas Schmidt, M.A.
 
-**Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy)**
+**Data Steward und Data Scientist für BERD@NFDI | Projektkoordination AiDaLi**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
@@ -98,7 +98,7 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 
 ### Larissa Will, M.A.
 
-**Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)**
+**Projektmitarbeiterin (KI und Data Literacy, FDM, Automatische Texterkennung)**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2754

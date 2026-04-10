@@ -16,22 +16,18 @@ Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tip
 
 ### Datenbanken
 
-Datenbanken zum deutschen Recht[Beck-online](https://dbis.ur.de/UBMAN/resources/1168) Informationen zum Zugriff auf beck-online finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zur-e-book-und-datenbanknutzung/#c319728). Tutorials zur Recherche in der Datenbank: [beck-online (Youtube)](https://www.youtube.com/channel/UCSVnLo5_DyxJTijSiXCe4TA)
-[Juris](https://dbis.ur.de/UBMAN/resources/6523) Nutzen Sie juris für die Recherche nach Rechtsprechung und Aufsätzen. Die Datenbank enthält auch Volltexte, etwa Kommentare wie den „Staudinger“. Mitglieder der Universität Mannheim können juris weiterhin auch von außerhalb des Campus nutzen.
-
-- Tutorials zur Nutzung: [juris (Youtube)](https://www.youtube.com/channel/UCRP2ojLlCbZKcQHNUE7ny4w)
-- [Kurzanleitung](https://www.juris.de/jportal/cms/remote_media/media/jurisde/pdf/information/Kurzanleitung_6_07.pdf) zur neuen Oberfläche: [Kurzanleitung](https://www.juris.de/jportal/cms/remote_media/media/jurisde/pdf/information/Kurzanleitung_6_07.pdf) (PDF, 5.292 KB)
-
-[Wolters Kluwer Online](https://dbis.ur.de/UBMAN/resources/5929) Bis 2019 unter dem Titel JURION Die Datenbank [Wolters Kluwer Online](https://dbis.ur.de/UBMAN/resources/5929) können Mitglieder der Universität auch von außerhalb des Campus nutzen.
+Datenbanken zum deutschen Recht[Beck-online](https://dbis.ur.de/UBMAN/resources/1168)Informationen zum Zugriff auf beck-online finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zur-e-book-und-datenbanknutzung/#c319728).Tutorials zur Recherche in der Datenbank: [beck-online (Youtube)](https://www.youtube.com/channel/UCSVnLo5_DyxJTijSiXCe4TA)
+[Juris](https://dbis.ur.de/UBMAN/resources/6523)Nutzen Sie juris für die Recherche nach Rechtsprechung und Aufsätzen. Die Datenbank enthält auch Volltexte, etwa Kommentare wie den „Staudinger“. Mitglieder der Universität Mannheim können juris weiterhin auch von außerhalb des Campus nutzen.Tutorials zur Nutzung: [juris (Youtube)](https://www.youtube.com/channel/UCRP2ojLlCbZKcQHNUE7ny4w)
+[Wolters Kluwer Online](https://dbis.ur.de/UBMAN/resources/5929)Bis 2019 unter dem Titel JURIONDie Datenbank [Wolters Kluwer Online](https://dbis.ur.de/UBMAN/resources/5929) können Mitglieder der Universität auch von außerhalb des Campus nutzen.
 [Landesrecht Baden-Württemberg](https://dbis.ur.de/UBMAN/resources/5709)
-Datenbank zum Europarecht[EUR-Lex](https://dbis.ur.de/UBMAN/resources/644) Tutorials: [EUR-Lex](https://dbis.ur.de/UBMAN/resources/644) (Youtube)
+Datenbank zum Europarecht[EUR-Lex](https://dbis.ur.de/UBMAN/resources/644)Tutorials: [EUR-Lex](https://dbis.ur.de/UBMAN/resources/644) (Youtube)
 Datenbanken zum internationalen und ausländischen Recht[HeinOnline](https://dbis.ur.de/UBMAN/resources/6078)
 [Kluwer Arbitration](https://dbis.ur.de/UBMAN/resources/6417)
-[Max Planck Encyclopedia of Public International Law](https://dbis.ur.de/UBMAN/resources/8510) Tipp: Die Datenbank enthält auch Themen aus dem internationalen Wirtschaftsrecht.
+[Max Planck Encyclopedia of Public International Law](https://dbis.ur.de/UBMAN/resources/8510)Tipp: Die Datenbank enthält auch Themen aus dem internationalen Wirtschaftsrecht.
 [Nexis Uni](https://dbis.ur.de/UBMAN/resources/1670)
-[Thomson Reuters Westlaw](https://dbis.ur.de/UBMAN/resources/867) Um in Zeitschriften zu recherchieren, wählen Sie den Zugang Westlaw US. Öffnen Sie auf der Startseite unter Browse im Reiter All Content den Link Secondary Sources und wählen Sie anschließend unter By Type die Quelle Law Reviews & Journals aus. Anschließend können Sie in der linken Spalte unter Topic Ihre Suche auch thematisch einschränken.
+[Thomson Reuters Westlaw](https://dbis.ur.de/UBMAN/resources/867)Um in Zeitschriften zu recherchieren, wählen Sie den Zugang Westlaw US. Öffnen Sie auf der Startseite unter Browse im Reiter All Content den Link Secondary Sources und wählen Sie anschließend unter By Type die Quelle Law Reviews & Journals aus. Anschließend können Sie in der linken Spalte unter Topic Ihre Suche auch thematisch einschränken.
 [West's Encyclopedia of American Law](https://dbis.ur.de/UBMAN/resources/8993)
-Weitere Datenbanken Weitere [Datenbanken zur Rechtswissenschaft](https://dbis.ur.de/UBMAN/browse/subjects/35/?filter-subjects%5B%5D=Rechtswissenschaft&q=&availability-filter-free=on&availability-filter-local=on&top-databases-filter=on&filter-publication-date-start=&filter-publication-date-end=&filter-report-date-start=&filter-report-date-end=&sort_by=2&ps=25) und zu anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/).
+Weitere DatenbankenWeitere [Datenbanken zur Rechtswissenschaft](https://dbis.ur.de/UBMAN/browse/subjects/35/?filter-subjects%5B%5D=Rechtswissenschaft&q=&availability-filter-free=on&availability-filter-local=on&top-databases-filter=on&filter-publication-date-start=&filter-publication-date-end=&filter-report-date-start=&filter-report-date-end=&sort_by=2&ps=25) und zu anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/).
 
 
 ### E-Journals

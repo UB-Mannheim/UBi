@@ -70,7 +70,7 @@ Leiterin der Abteilung Forschungsdatenzentrum
 
 Aufgaben:
 
-- Betreuung und Koordination des ProjektsBERD@NFDI
+- Konzeption, Beantragung, Support und Steuerung von Drittmittelprojekten
 - Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
 - Telefon: +49 621 181-2955
@@ -114,7 +114,7 @@ Legal Counsel für BERD@NFDI und FDZ
 
 ### Thomas Schmidt, M.A.
 
-Data Steward und Data Scientist für BERD@NFDI | Referent für Forschungsdatenmanagement (Data Literacy)
+Data Steward und Data Scientist für BERD@NFDI | Projektkoordination AiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
 - E-Mail: thomas.schmidt@uni-mannheim.de
@@ -154,7 +154,7 @@ Aufgaben:
 
 ### Larissa Will, M.A.
 
-Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)
+Projektmitarbeiterin (KI und Data Literacy, FDM, Automatische Texterkennung)
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2754
 - E-Mail: larissa.will@uni-mannheim.de
