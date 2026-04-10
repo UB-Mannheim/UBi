@@ -26,9 +26,6 @@ mask_user_env = false
 allow_origins = ["*"]
 
 [features]
-audio_input = true
-audio_output = true
-
 # Process and display HTML in messages. This can be a security risk (see https://stackoverflow.com/questions/19603097/why-is-it-dangerous-to-render-user-generated-html-or-javascript)
 unsafe_allow_html = false
 
@@ -75,7 +72,7 @@ reaction_on_message_received = false
 
 [features.audio]
     # Enable audio features
-    enabled = true
+    enabled = false
     # Sample rate of the audio
     sample_rate = 24000
 
