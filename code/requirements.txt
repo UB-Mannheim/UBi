@@ -1,6 +1,6 @@
 aiosqlite~=0.22.1
 beautifulsoup4~=4.14.3
-chainlit~=2.10
+chainlit~=2.11
 chromadb~=1.5.5
 fastapi~=0.135.3
 feedparser~=6.0.12
