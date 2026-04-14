@@ -121,6 +121,7 @@ https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-f
 https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/
 https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/
 https://www.bib.uni-mannheim.de/services/internetzugang/
+https://www.bib.uni-mannheim.de/services/ki-an-der-ub/
 https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/
 https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/
 https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/
