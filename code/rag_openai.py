@@ -175,6 +175,45 @@ async def get_vectorstore_fileids_and_metadata(
         return {}
 
 
+def list_vectorstore_files(as_json: bool = False) -> None:
+    """
+    Debug helper: list all files currently in the OpenAI vectorstore
+    (filename + file_id). Intended to be invoked from the CLI.
+    """
+    load_dotenv(str(ENV_PATH))
+    vectorstore_id = os.getenv("OPENAI_VECTORSTORE_ID")
+    if not vectorstore_id:
+        utils.print_err("[bold]No OPENAI_VECTORSTORE_ID found in .env")
+        return
+
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    vectorstore_filenames = asyncio.run(
+        get_vectorstore_fileids_and_metadata(client, str(vectorstore_id))
+    )
+
+    if as_json:
+        import json
+
+        payload = {
+            filename: {"file_id": info["file_id"]}
+            for filename, info in vectorstore_filenames.items()
+        }
+        print(json.dumps(payload, indent=2))
+        return
+
+    from rich.console import Console
+    from rich.table import Table
+
+    table = Table(
+        title=f"Vectorstore {vectorstore_id} ({len(vectorstore_filenames)} files)"
+    )
+    table.add_column("filename", overflow="fold")
+    table.add_column("file_id", overflow="fold")
+    for filename in sorted(vectorstore_filenames):
+        table.add_row(filename, vectorstore_filenames[filename]["file_id"])
+    Console().print(table)
+
+
 async def async_sync_files_with_vectorstore(
     upload_dir: Path,
     files_to_upload: list[str],
@@ -403,3 +442,20 @@ def initialize_vectorstore():
 
     except Exception as e:
         utils.print_err(f"Error: {e}")
+
+
+if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser(description="OpenAI vectorstore utilities")
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    p_list = subparsers.add_parser(
+        "list-files",
+        help="List all files currently in the vectorstore (debug)",
+    )
+    p_list.add_argument("--json", action="store_true", help="Output as JSON")
+
+    args = parser.parse_args()
+    if args.command == "list-files":
+        list_vectorstore_files(as_json=args.json)
