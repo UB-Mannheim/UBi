@@ -50,7 +50,7 @@ E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort.
+Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort. Für allgemeine Anfragen und organisatorische Belange stehen folgende Ansprechpartnerinnen zur Verfügung:
 
 #### Ansprechpartnerinnen
 
