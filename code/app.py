@@ -1,5 +1,4 @@
 import datetime
-import re
 import os
 import chainlit as cl
 from dotenv import load_dotenv
@@ -103,7 +102,7 @@ async def set_starters(user=None, _language=None):
     return [
         cl.Starter(
             label="Öffnungszeiten",
-            message="Welche Bibliotheksbereiche der UB Mannheim haben jetzt geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite.",
+            message="Welche Bibliotheksbereiche der UB Mannheim haben geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite.",
         ),
         cl.Starter(
             label="Sitzplätze",
@@ -111,7 +110,7 @@ async def set_starters(user=None, _language=None):
         ),
         cl.Starter(
             label="Services",
-            message="Liste alle Dienstleistungen und Services der UB Mannheim für Studierende und Forschende auf.",
+            message="Erstelle eine übersichtliche Tabelle mit allen Dienstleistungen und Services der UB Mannheim für Studierende und Forschende in dieser Struktur: [Service](Link) | Erklärung.",
         ),
         cl.Starter(
             label="Standorte",
@@ -199,7 +198,7 @@ async def handle_openai_vectorstore_query(
             instructions=get_instructions(detected_language),
             stream=True,
             reasoning={"effort": "low"},
-            text={"verbosity": "high"},
+            text={"verbosity": "low"},
             service_tier="auto",
         )
         tool_use_detected = False
