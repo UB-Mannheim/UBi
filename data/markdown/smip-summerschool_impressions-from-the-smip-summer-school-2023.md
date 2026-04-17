@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/smip-summerschool_impressions-from-the-smip-summer-school-2023.md

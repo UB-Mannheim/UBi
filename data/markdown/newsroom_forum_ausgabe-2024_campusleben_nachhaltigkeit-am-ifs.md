@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/newsroom_forum_ausgabe-2024_campusleben_nachhaltigkeit-am-ifs.md

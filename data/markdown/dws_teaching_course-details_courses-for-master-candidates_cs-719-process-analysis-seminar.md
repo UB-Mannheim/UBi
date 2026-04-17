@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/dws_teaching_course-details_courses-for-master-candidates_cs-719-process-analysis-seminar.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_vom-ausland-nach-mannheim_austauschstudierende_bewerbung_internationale-austauschkoordinierende.md

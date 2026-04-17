@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/pruefungen_rechtliche-grundlagen_pruefungsordnungen_lehramtspruefungsordnungen.md

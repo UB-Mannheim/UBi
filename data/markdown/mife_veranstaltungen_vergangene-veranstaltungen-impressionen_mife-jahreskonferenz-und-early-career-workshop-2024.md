@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/mife_veranstaltungen_vergangene-veranstaltungen-impressionen_mife-jahreskonferenz-und-early-career-workshop-2024.md

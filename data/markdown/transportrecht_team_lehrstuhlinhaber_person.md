@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/transportrecht_team_lehrstuhlinhaber_person.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/sport_sportstaetten_n6-skystudio.md

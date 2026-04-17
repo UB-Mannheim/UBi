@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/it_anleitungen_zoom_persoenliche-zoom-lizenzen-fuer-beschaeftigte.md

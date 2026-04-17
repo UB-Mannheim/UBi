@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/digitale-barrierefreiheit_informationen-in-leichter-sprache_tipps-zur-website-in-leichter-sprache.md

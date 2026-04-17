@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/mife_veranstaltungen_vergangene-veranstaltungen_kinderuni-zum-thema-umgang-mit-geld-warum-man-sein-sparschwein-fuettern-sollte.md

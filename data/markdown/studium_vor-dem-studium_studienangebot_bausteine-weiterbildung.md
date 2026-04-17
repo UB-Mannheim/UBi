@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_vor-dem-studium_studienangebot_bausteine-weiterbildung.md

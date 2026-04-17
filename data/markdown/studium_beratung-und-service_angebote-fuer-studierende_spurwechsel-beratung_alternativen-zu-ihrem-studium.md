@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_beratung-und-service_angebote-fuer-studierende_spurwechsel-beratung_alternativen-zu-ihrem-studium.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/newsroom_forum_ausgabe-1-2022_profil_deutschlandweit-erster-lehrstuhl-fuer-transportrecht.md

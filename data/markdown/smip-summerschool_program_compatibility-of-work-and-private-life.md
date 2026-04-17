@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/smip-summerschool_program_compatibility-of-work-and-private-life.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/newsroom_forum_ausgabe-2-2025_campusleben_individuelle-gesundheitsfoerderung.md

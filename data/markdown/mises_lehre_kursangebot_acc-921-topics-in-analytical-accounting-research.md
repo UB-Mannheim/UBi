@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/mises_lehre_kursangebot_acc-921-topics-in-analytical-accounting-research.md

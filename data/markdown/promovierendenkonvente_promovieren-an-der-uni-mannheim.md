@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/promovierendenkonvente_promovieren-an-der-uni-mannheim.md

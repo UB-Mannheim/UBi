@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/servicestelle-fuer-uebersetzung_netzwerktreffen_netzwerktreffen-2026.md

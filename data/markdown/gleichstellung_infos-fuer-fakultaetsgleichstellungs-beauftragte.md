@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/gleichstellung_infos-fuer-fakultaetsgleichstellungs-beauftragte.md

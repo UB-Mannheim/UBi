@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/universitaet_einrichtungen-und-fakultaeten_koordinationsstelle-fuer-studieninformationen_kompetenzzentrum-erfolgreich-studieren-in-mannheim.md

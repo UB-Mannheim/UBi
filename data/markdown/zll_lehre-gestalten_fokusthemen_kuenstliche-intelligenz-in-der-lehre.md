@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/zll_lehre-gestalten_fokusthemen_kuenstliche-intelligenz-in-der-lehre.md

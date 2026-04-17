@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_im-studium_studienorganisation_beitraege-und-gebuehren_studien-gebuehren-fuer-internationale-studierende.md

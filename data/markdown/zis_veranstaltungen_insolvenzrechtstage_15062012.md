@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/zis_veranstaltungen_insolvenzrechtstage_15062012.md

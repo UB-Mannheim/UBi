@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/sport_sportstaetten_55-crossgym_studioausstattung.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/osi_institut_osi-geschaeftsfuehrung.md

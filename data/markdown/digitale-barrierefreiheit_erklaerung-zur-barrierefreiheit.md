@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/digitale-barrierefreiheit_erklaerung-zur-barrierefreiheit.md

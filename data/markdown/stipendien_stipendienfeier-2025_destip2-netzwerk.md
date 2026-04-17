@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/stipendien_stipendienfeier-2025_destip2-netzwerk.md

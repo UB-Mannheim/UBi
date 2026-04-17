@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/newsroom_forum_ausgabe-1-2025_netzwerk_25-jahre-service-und-marketing-gmbh.md

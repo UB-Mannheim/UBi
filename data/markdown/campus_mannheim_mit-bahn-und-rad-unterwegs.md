@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/campus_mannheim_mit-bahn-und-rad-unterwegs.md

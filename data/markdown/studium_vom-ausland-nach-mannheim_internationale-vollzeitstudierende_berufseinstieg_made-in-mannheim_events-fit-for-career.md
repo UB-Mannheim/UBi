@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_vom-ausland-nach-mannheim_internationale-vollzeitstudierende_berufseinstieg_made-in-mannheim_events-fit-for-career.md
