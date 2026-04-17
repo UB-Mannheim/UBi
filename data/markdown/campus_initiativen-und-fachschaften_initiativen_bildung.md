@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/campus_initiativen-und-fachschaften_initiativen_bildung.md

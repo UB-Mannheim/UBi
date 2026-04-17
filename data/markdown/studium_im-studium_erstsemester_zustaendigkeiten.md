@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_im-studium_erstsemester_zustaendigkeiten.md

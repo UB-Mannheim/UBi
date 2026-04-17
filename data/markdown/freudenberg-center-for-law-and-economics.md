@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/freudenberg-center-for-law-and-economics.md

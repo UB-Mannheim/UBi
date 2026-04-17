@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/smip_application_selection-and-training-commitee.md

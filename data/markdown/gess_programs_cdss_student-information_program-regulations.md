@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/gess_programs_cdss_student-information_program-regulations.md

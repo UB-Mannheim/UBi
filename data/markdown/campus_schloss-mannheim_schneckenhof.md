@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/campus_schloss-mannheim_schneckenhof.md

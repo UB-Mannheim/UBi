@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/newsroom_forum_ausgabe-1-2022_campusleben_achtsam-speisen-im-neuen-greenes2R.md

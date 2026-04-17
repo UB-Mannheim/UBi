@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/newsroom_forum_ausgabe-1-2025_schwerpunkt_forschung-am-ifm.md

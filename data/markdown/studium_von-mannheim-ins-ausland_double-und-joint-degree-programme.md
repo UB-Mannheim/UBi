@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_von-mannheim-ins-ausland_double-und-joint-degree-programme.md

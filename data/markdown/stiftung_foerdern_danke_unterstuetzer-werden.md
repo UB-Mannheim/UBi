@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/stiftung_foerdern_danke_unterstuetzer-werden.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/gleichstellung_events_fotogalerie-diversity-week-2025-wir-sitzen-alle-im-gleichen-schloss-zwischen-mauern-und-moeglichkeiten.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/zll_lehre-gestalten_qualifikation-und-weiterbildung_baden-wuerttemberg-zertifikat-fuer-hochschuldidaktik_kollegiale-praxisberatung.md

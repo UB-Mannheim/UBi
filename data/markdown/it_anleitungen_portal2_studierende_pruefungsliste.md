@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/it_anleitungen_portal2_studierende_pruefungsliste.md

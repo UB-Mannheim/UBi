@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/gleichstellung_events_programm-diversity-week-2025.md

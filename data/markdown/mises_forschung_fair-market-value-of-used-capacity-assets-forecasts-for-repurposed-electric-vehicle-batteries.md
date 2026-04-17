@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/mises_forschung_fair-market-value-of-used-capacity-assets-forecasts-for-repurposed-electric-vehicle-batteries.md

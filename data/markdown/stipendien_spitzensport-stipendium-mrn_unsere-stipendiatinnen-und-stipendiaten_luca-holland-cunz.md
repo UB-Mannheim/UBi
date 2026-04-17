@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/stipendien_spitzensport-stipendium-mrn_unsere-stipendiatinnen-und-stipendiaten_luca-holland-cunz.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/stipendien_mannheim-stipendium_ausschreibung-fuer-das-studienjahr-2026-27.md

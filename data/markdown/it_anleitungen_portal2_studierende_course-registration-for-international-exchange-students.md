@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/it_anleitungen_portal2_studierende_course-registration-for-international-exchange-students.md

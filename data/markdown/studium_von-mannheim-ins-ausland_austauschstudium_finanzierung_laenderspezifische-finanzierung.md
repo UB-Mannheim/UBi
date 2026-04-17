@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_von-mannheim-ins-ausland_austauschstudium_finanzierung_laenderspezifische-finanzierung.md

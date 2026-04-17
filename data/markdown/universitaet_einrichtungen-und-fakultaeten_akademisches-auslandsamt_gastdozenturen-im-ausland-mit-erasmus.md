@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/universitaet_einrichtungen-und-fakultaeten_akademisches-auslandsamt_gastdozenturen-im-ausland-mit-erasmus.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/forschung_forschungsschwerpunkte_maerkte-und-unternehmen-im-wandel_oekonomische-perspektiven-auf-gesellschaftliche-herausforderungen.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/universitaet_foerderung-und-engagement_weitere-stiftungen-und-foerderungen_bumiller-raab-stiftung.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/informationssicherheit_sicherheitsvorfall_sprechstunde-fuer-informationssicherheit.md

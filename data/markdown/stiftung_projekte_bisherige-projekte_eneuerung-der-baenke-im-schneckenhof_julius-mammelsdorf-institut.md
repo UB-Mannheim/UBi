@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/stiftung_projekte_bisherige-projekte_eneuerung-der-baenke-im-schneckenhof_julius-mammelsdorf-institut.md

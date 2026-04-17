@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_termine_bewerbungsfristen_reminder-bewerbungsfrist-bachelor.md

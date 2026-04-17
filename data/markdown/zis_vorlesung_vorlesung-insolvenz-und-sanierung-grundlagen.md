@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/zis_vorlesung_vorlesung-insolvenz-und-sanierung-grundlagen.md

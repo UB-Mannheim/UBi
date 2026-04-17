@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/it_projekte_bwki-transfer_partnerforum-ki-impulse-fuer-hochschulen-grundlagen-praxis-und-umsetzung.md

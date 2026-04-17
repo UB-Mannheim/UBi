@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/stipendien_stipendien-geben_stipendiengeberin-oder-stipendiengeber-werden.md

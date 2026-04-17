@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_vom-ausland-nach-mannheim_austauschstudierende_kurse_vorlesungsverzeichnis-fs-2022_philosophische-fakultaet-alle.md

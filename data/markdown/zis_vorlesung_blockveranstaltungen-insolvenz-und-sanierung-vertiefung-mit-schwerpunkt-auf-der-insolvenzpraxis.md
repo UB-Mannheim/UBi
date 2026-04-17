@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/zis_vorlesung_blockveranstaltungen-insolvenz-und-sanierung-vertiefung-mit-schwerpunkt-auf-der-insolvenzpraxis.md

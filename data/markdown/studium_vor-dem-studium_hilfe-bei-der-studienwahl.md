@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/studium_vor-dem-studium_hilfe-bei-der-studienwahl.md

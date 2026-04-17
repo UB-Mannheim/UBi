@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/it_nutzungsbedingungen_richtlinien-m-365-cloud-services_beurlaubung-und-uebergang-in-den-ruhestand.md

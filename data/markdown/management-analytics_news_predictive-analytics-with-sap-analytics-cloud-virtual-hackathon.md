@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/management-analytics_news_predictive-analytics-with-sap-analytics-cloud-virtual-hackathon.md

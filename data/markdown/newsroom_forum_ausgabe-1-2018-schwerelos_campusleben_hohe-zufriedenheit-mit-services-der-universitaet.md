@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/newsroom_forum_ausgabe-1-2018-schwerelos_campusleben_hohe-zufriedenheit-mit-services-der-universitaet.md

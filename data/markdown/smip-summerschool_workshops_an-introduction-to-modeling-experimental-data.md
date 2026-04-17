@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/smip-summerschool_workshops_an-introduction-to-modeling-experimental-data.md

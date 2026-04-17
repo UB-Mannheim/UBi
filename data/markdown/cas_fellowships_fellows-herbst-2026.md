@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/cas_fellowships_fellows-herbst-2026.md

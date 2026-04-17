@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/universitaet_organisation_stabs-und-servicestellen_beschaffung.md

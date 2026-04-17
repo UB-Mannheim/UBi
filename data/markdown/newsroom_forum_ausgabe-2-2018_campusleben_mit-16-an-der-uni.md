@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/newsroom_forum_ausgabe-2-2018_campusleben_mit-16-an-der-uni.md

@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/dws_teaching_course-details_courses-for-phd-candidates_colloquium-fss2023.md

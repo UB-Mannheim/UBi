@@ -1,0 +1,1 @@
+/home/debian/src/github/UB-Mannheim/UBi/code/uni/zll_events_vergangene-veranstaltungen_symposium-zukunft-der-hochschullehre.md
