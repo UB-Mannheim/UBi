@@ -51,6 +51,7 @@ Fragen zu rechtlichen und ethischen Themen im Zusammenhang mit Forschungsdaten z
 - [Die informierte Einwilligung als Voraussetzung für die (Nach-)nutzung von Forschungsdaten (PDF)](https://www.konsortswd.de/wp-content/uploads/RatSWD_WP_264.pdf) (462 KB) von Katrin Schaar / RatSWD Working Paper (Stand: 2017)
 - [DARIAH ELDAH Consent Form Wizard](https://consent.dariah.eu/) der Digital Research Infrastructure for the Arts and Humanities (DARIAH) – Assistent für die Formulierung einer Einverständniserklärung zur Erhebung personenbezogener Daten (Stand: 2021)
 - Datenschutz Factsheets von der NFDI Sektion „Ethical, Legal and Social Aspects“: [Factsheet 1 – Einwilligung: FAIR und datenschutzkonform](https://doi.org/10.5281/zenodo.15912755); [Factsheet 2 – Methoden zum FAIRen und datenschutzkonformen Umgang mit personenbezogenen Daten](https://doi.org/10.5281/zenodo.15916957); [Factsheet 3 – Data Linkage: FAIR und datenschutzkonform](https://doi.org/10.5281/zenodo.15917014)
+- [Guidelines 1/2026 on processing of personal data for scientific research purposes](https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2026/guidelines-12026-processing-personal-data_en): Leitlinien des Europäischen Datenschutzausschusses zur DSGVO-konformen Verarbeitung personenbezogener Daten in der wissenschaftlichen Forschung
 
 
 
