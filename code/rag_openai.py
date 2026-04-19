@@ -372,7 +372,7 @@ async def check_and_reupload_if_attributes_empty(
 def collect_all_files_to_upload(
     vectorstore_filenames: dict[str, dict],
     all_local_files_set: set,
-    files_to_upload: list[str],
+    files_to_upload: list[str] | set[str],
 ) -> list:
     """
     Collect all files that should be uploaded or reuploaded to the vectorstore.
@@ -472,17 +472,22 @@ def initialize_vectorstore():
                 )
                 return
 
-            # Check for updated files in DATA_DIR
+            # === File Collection for Vectorstore Synchronization ===
+            # 1. Check for updated files in DATA_DIR by hash comparison
             files_to_upload = utils.get_new_or_modified_files_by_hash(
                 directory=DATA_DIR
             )
 
-            # Check for locally deleted files that need to be cleaned from the vectorstore
+            # 2. Check for locally deleted files that need to be cleaned from the vs
             vectorstore_filenames_set = set(vectorstore_filenames.keys())
             all_local_files_set = set([f.name for f in DATA_DIR.glob("*.md")])
             files_to_delete = vectorstore_filenames_set - all_local_files_set
 
-            # Collect all files to upload (updated, new and corrupted files)
+            # 3. Check for missing files in the vs that ne to be reuploaded
+            missing_vectorstore_files = all_local_files_set - vectorstore_filenames_set
+            files_to_upload = set(files_to_upload) | missing_vectorstore_files
+
+            # 4. Collect all files for upload (updated, new and corrupted files)
             files_to_upload = collect_all_files_to_upload(
                 vectorstore_filenames=vectorstore_filenames,
                 all_local_files_set=all_local_files_set,
