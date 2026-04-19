@@ -483,7 +483,7 @@ def initialize_vectorstore():
             all_local_files_set = set([f.name for f in DATA_DIR.glob("*.md")])
             files_to_delete = vectorstore_filenames_set - all_local_files_set
 
-            # 3. Check for missing files in the vs that ne to be reuploaded
+            # 3. Check for missing files in the vs that need to be reuploaded
             missing_vectorstore_files = all_local_files_set - vectorstore_filenames_set
             files_to_upload = set(files_to_upload) | missing_vectorstore_files
 
