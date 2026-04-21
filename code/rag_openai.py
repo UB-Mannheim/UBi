@@ -96,56 +96,80 @@ async def async_upload_files_to_vectorstore(
     md_files: list,
 ):
     """
-    Async upload new or updated files to vectorstore, with progress bar.
+    Async upload (5 workers) of new or updated files to vectorstore, with
+    progress bar.
+
+    If a file in the vectorstore is found that has the same filename as the
+    file to be uploaded, it gets unlinked and deleted in the vectorstore first
+    and then reuploaded (this is the main sync workflow for locally updated
+    markdown files that need to be updated in the vectorstore).
+
+    After the file upload, the function polls the vectorstore until the
+    file_status == "processed" and can securley be linked to the vectorstore.
+    404 errors would arise if the function would link the files immediately
+    to the vectostore when they still have a file_status == "pending".
     """
-    pbar_up = tqdm(total=len(md_files), desc="Uploading files", leave=False)
+    semaphore = asyncio.Semaphore(5)
 
     async def upload_file(md_file):
-        filename = md_file.name
-        if filename in vectorstore_filenames:
-            vectorstore_file_id = vectorstore_filenames[filename]["file_id"]
+        async with semaphore:
+            filename = md_file.name
+            if filename in vectorstore_filenames:
+                vectorstore_file_id = vectorstore_filenames[filename]["file_id"]
 
-            # Delete the file that gets replaced in the vectorstore first
+                # Delete the file that gets replaced in the vectorstore first
+                try:
+                    # Unlink file from vectorstore
+                    await asyncio.to_thread(
+                        client.vector_stores.files.delete,
+                        vector_store_id=str(vectorstore_id),
+                        file_id=vectorstore_file_id,
+                    )
+                    # Delete file from vectorstore
+                    utils.print_info(f"[bold]Deleting old {filename} from vectorstore ...")
+                    await asyncio.to_thread(
+                        client.files.delete, file_id=vectorstore_file_id
+                    )
+                except Exception as e:
+                    utils.print_err(f"[bold]Error deleting {filename} from vectorstore: {e}")
+
+            # File Upload
             try:
-                # Unlink file from vectorstore
+                # Parse YAML header for attributes
+                yaml_data = utils.parse_yaml_header(md_file) or {}
+
+                # Persist local filename in vectorstore attributes for health checks
+                yaml_data["local_filename"] = filename
+
+                # Upload the updated local file to vectorstore
+                utils.print_info(f"[bold]Uploading updated {filename} to vectorstore ...")
+                with open(md_file, "rb") as f:
+                    uploaded_file = await asyncio.to_thread(
+                        client.files.create, file=f, purpose="user_data"
+                    )
+
+                # 404 Prevention: Poll until file is processed on OpenAI's side
+                while True:
+                    file_status = await asyncio.to_thread(
+                        client.files.retrieve, uploaded_file.id
+                    )
+                    if file_status.status == "processed":
+                        break
+                    if file_status.status == "error":
+                        raise RuntimeError(f"File processing failed for {filename}")
+                    await asyncio.sleep(1)
+
+                # Finally: Link uploaded file to vectorstore
                 await asyncio.to_thread(
-                    client.vector_stores.files.delete,
+                    client.vector_stores.files.create,
                     vector_store_id=str(vectorstore_id),
-                    file_id=vectorstore_file_id,
-                )
-                # Delete file from vectorstore
-                utils.print_info(f"[bold]Deleting old {filename} from vectorstore ...")
-                await asyncio.to_thread(
-                    client.files.delete, file_id=vectorstore_file_id
+                    file_id=uploaded_file.id,
+                    attributes=yaml_data,
                 )
             except Exception as e:
-                utils.print_err(f"[bold]Error deleting {filename} from vectorstore: {e}")
-
-        # File Upload
-        try:
-            # Parse YAML header for attributes
-            yaml_data = utils.parse_yaml_header(md_file)
-
-            # Upload the updated local file to vectorstore
-            utils.print_info(f"[bold]Uploading updated {filename} to vectorstore ...")
-            with open(md_file, "rb") as f:
-                uploaded_file = await asyncio.to_thread(
-                    client.files.create, file=f, purpose="user_data"
-                )
-
-            # Link uploaded file to vectorstore
-            await asyncio.to_thread(
-                client.vector_stores.files.create,
-                vector_store_id=str(vectorstore_id),
-                file_id=uploaded_file.id,
-                attributes=yaml_data if yaml_data else None,
-            )
-        except Exception as e:
-            utils.print_err(f"Error uploading {filename}: {e}")
-        pbar_up.update(1)
+                utils.print_err(f"Error uploading {filename}: {e}")
 
     await asyncio.gather(*(upload_file(md_file) for md_file in md_files))
-    pbar_up.close()
 
 
 async def get_vectorstore_fileids_and_metadata(
@@ -154,6 +178,9 @@ async def get_vectorstore_fileids_and_metadata(
     """
     Async helper to retrieve a dict mapping filename to a dict containing
     file_id and attributes for all files in the vectorstore.
+
+    If missing/corrupted files are found (status_code == 404), they get flag
+    with the prefix "missing:" in "filename" as well as file_missing == True.
     """
     vector_store_files = await asyncio.to_thread(
         get_all_vectorstore_files, client, vectorstore_id
@@ -161,10 +188,38 @@ async def get_vectorstore_fileids_and_metadata(
     if vector_store_files:
 
         async def retrieve_file(f):
-            file_obj = await asyncio.to_thread(client.files.retrieve, f.id)
+            missing_file = False
+            error = None
+            attributes = f.attributes or {}
+            original_filename = attributes.get("local_filename")
+            try:
+                file_obj = await asyncio.to_thread(client.files.retrieve, f.id)
+                filename = file_obj.filename
+            except Exception as e:
+                if getattr(e, "status_code", None) == 404:
+                    filename = f"missing:{f.id}"
+                    missing_file = True
+                    error = str(e)
+                    utils.print_err(
+                        f"[bold yellow]Vectorstore file {f.id} is missing in OpenAI Files API (404). Marked for unlink."
+                    )
+                else:
+                    raise
+
+            payload = {
+                "file_id": f.id,
+                "attributes": attributes,
+                "status": f.status,
+                "file_missing": missing_file,
+            }
+            if original_filename:
+                payload["original_filename"] = original_filename
+            if error:
+                payload["error"] = error
+
             return (
-                file_obj.filename,
-                {"file_id": f.id, "attributes": f.attributes},
+                filename,
+                payload,
             )
 
         results = await asyncio.gather(
@@ -180,43 +235,75 @@ def list_vectorstore_files(as_json: bool = False) -> None:
     Debug helper: list all files currently in the OpenAI vectorstore
     (filename + file_id). Intended to be invoked from the CLI.
     """
+    from rich.console import Console
+    from rich.table import Table
+
     load_dotenv(str(ENV_PATH))
     vectorstore_id = os.getenv("OPENAI_VECTORSTORE_ID")
     if not vectorstore_id:
         utils.print_err("[bold]No OPENAI_VECTORSTORE_ID found in .env")
         return
 
+    # Retrieve files in vectorestore
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     vectorstore_filenames = asyncio.run(
         get_vectorstore_fileids_and_metadata(client, str(vectorstore_id))
     )
 
+    # Print as JSON
     if as_json:
         import json
 
         payload = {
-            filename: {"file_id": info["file_id"]}
-            for filename, info in vectorstore_filenames.items()
+            (idx + 1): {
+                "vectorstore_filename": filename,
+                "vectorstore_fileid": info.get("file_id"),
+                "vectorstore_file_status": info.get("status"),
+                "original_filename": info.get("original_filename"),
+                "missing": str(info.get("file_missing")),
+            }
+            for idx, (filename, info) in enumerate(vectorstore_filenames.items())
         }
         print(json.dumps(payload, indent=2))
         return
 
-    from rich.console import Console
-    from rich.table import Table
-
+    # Print as rich CLI table
     table = Table(
         title=f"Vectorstore {vectorstore_id} ({len(vectorstore_filenames)} files)"
     )
-    table.add_column("filename", overflow="fold")
-    table.add_column("file_id", overflow="fold")
+    table.add_column("vectorstore_filename", overflow="fold")
+    table.add_column("vectorstore_fileid", overflow="fold")
+    table.add_column("vectorstore_file_status", overflow="fold")
+    table.add_column("original_filename", overflow="fold")
+    table.add_column("missing_file?", overflow="fold")
     for filename in sorted(vectorstore_filenames):
-        table.add_row(filename, vectorstore_filenames[filename]["file_id"])
+        if (
+            vectorstore_filenames[filename].get("status") != "completed"
+            or str(vectorstore_filenames[filename].get("file_missing")) != "False"
+        ):
+            table.add_row(
+                filename,
+                vectorstore_filenames[filename].get("file_id"),
+                vectorstore_filenames[filename].get("status"),
+                vectorstore_filenames[filename].get("original_filename"),
+                str(vectorstore_filenames[filename].get("file_missing")),
+                style="bold red"
+            )
+        else:
+            table.add_row(
+                filename,
+                vectorstore_filenames[filename].get("file_id"),
+                vectorstore_filenames[filename].get("status"),
+                vectorstore_filenames[filename].get("original_filename"),
+                str(vectorstore_filenames[filename].get("file_missing")),
+            )
     Console().print(table)
 
 
 async def async_sync_files_with_vectorstore(
     upload_dir: Path,
     files_to_upload: list[str],
+    files_to_delete: set | None,
     vectorstore_id: str,
     vectorstore_filenames: dict = {},
 ):
@@ -234,15 +321,7 @@ async def async_sync_files_with_vectorstore(
             client, vectorstore_id
         )
 
-    # Get all local markdowns in upload_dir
-    all_local_files_set = set([f.name for f in upload_dir.glob("*.md")])
-
-    # Create a set of unique filenames currently in the vectorstore
-    vectorstore_filenames_set = set(vectorstore_filenames.keys())
-
-    # Delete files in vectorstore if they are not present in local files anymore
-    files_to_delete = vectorstore_filenames_set - all_local_files_set
-
+    # Delete files
     if files_to_delete:
         await async_delete_files_from_vectorstore(
             client, vectorstore_id, vectorstore_filenames, files_to_delete
@@ -312,6 +391,7 @@ async def check_and_reupload_if_attributes_empty(
         await async_sync_files_with_vectorstore(
             upload_dir=upload_dir,
             files_to_upload=all_local_files,
+            files_to_delete=None,
             vectorstore_id=vectorstore_id,
             vectorstore_filenames=vectorstore_filenames,
         )
@@ -321,6 +401,47 @@ async def check_and_reupload_if_attributes_empty(
     else:
         utils.print_info("[bold green]✅ All vectorstore files have proper attributes.")
         return False, vectorstore_filenames
+
+
+def collect_all_files_to_upload(
+    vectorstore_filenames: dict[str, dict],
+    all_local_files_set: set,
+    files_to_upload: list[str] | set[str],
+) -> list:
+    """
+    Collect all files that should be uploaded or reuploaded to the vectorstore.
+
+    The function checks if the vectorstore returned files with an attribute
+    "file_missing" == True. Those files result in a status 404 when called
+    by their file_id and or most likely corrupted, meaning the vectorstore
+    contains a metadata entry for this file_id but no actually .md file.
+
+    The function collects those corrupted filenames, checks if they exist
+    in all_local_files_set (a set of all currently available .mds in DATA_DIR)
+    and when they do, adds them to files_to_upload.
+    """
+    healthy_vectorstore_filenames = {
+        name
+        for name, info in vectorstore_filenames.items()
+        if not info.get("file_missing")
+    }
+    corrupted_local_files_to_reupload = {
+        info["original_filename"]
+        for info in vectorstore_filenames.values()
+        if info.get("file_missing")
+        and info.get("original_filename")
+        and info["original_filename"] in all_local_files_set
+        and info["original_filename"] not in healthy_vectorstore_filenames
+    }
+    if corrupted_local_files_to_reupload:
+        utils.print_info(
+            f"[bold yellow]Reuploading {len(corrupted_local_files_to_reupload)} "
+            "locally-identified corrupted files ..."
+        )
+        files_to_upload = sorted(
+            set(files_to_upload) | corrupted_local_files_to_reupload
+        )
+    return files_to_upload
 
 
 def initialize_vectorstore():
@@ -385,15 +506,27 @@ def initialize_vectorstore():
                 )
                 return
 
-            # Check for updated files in DATA_DIR
+            # === File Collection for Vectorstore Synchronization ===
+            # 1. Check for updated files in DATA_DIR by hash comparison
             files_to_upload = utils.get_new_or_modified_files_by_hash(
                 directory=DATA_DIR
             )
 
-            # Check for deleted files
+            # 2. Check for locally deleted files that need to be cleaned from the vs
             vectorstore_filenames_set = set(vectorstore_filenames.keys())
             all_local_files_set = set([f.name for f in DATA_DIR.glob("*.md")])
             files_to_delete = vectorstore_filenames_set - all_local_files_set
+
+            # 3. Check for missing files in the vs that need to be reuploaded
+            missing_vectorstore_files = all_local_files_set - vectorstore_filenames_set
+            files_to_upload = set(files_to_upload) | missing_vectorstore_files
+
+            # 4. Collect all files for upload (updated, new and corrupted files)
+            files_to_upload = collect_all_files_to_upload(
+                vectorstore_filenames=vectorstore_filenames,
+                all_local_files_set=all_local_files_set,
+                files_to_upload=files_to_upload
+            )
 
             utils.print_info(
                 f"[bold]{len(vectorstore_filenames)} files in vectorstore: {OPENAI_VECTORSTORE_ID}"
@@ -415,6 +548,7 @@ def initialize_vectorstore():
                 async_sync_files_with_vectorstore(
                     upload_dir=DATA_DIR,
                     files_to_upload=files_to_upload,
+                    files_to_delete=files_to_delete,
                     vectorstore_id=str(OPENAI_VECTORSTORE_ID),
                     vectorstore_filenames=vectorstore_filenames,
                 )
