@@ -160,6 +160,8 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 ### Key Distinctions:
 - "Wo ist A3?" → 'message' (location question)
 - "Sind in A3 Plätze frei?" → 'sitzplatz' (seat availability)
+- "Can I reserve a seat?" →'message'
+- "Where can I seat apart of the library buildings?" → 'message'
 - "I want to read some news" → 'message'
 - "I want to access news databases" → 'message'
 - "Was geschah am [historical date]?" → 'message' (historical research)
