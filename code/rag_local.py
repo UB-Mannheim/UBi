@@ -16,6 +16,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from rich import print
+
 from vectorstore_incremental import FileIndexManager
 
 
