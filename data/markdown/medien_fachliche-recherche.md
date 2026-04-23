@@ -78,9 +78,9 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 
 
 
-### Viktor Boecking, M.A.
+### Viktor Boecking, M.A. (er/ihm)
 
-Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
+Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | Fake Science | Informationskompetenz
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
 - E-Mail: viktor.boecking@uni-mannheim.de
@@ -226,7 +226,7 @@ Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für 
 
 ### Dr. Jorge Murcia Serra
 
-Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI
+Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projekmitarbeiter AiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
 - E-Mail: jorge.murcia@uni-mannheim.de
@@ -254,7 +254,7 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 
 ### Dr. Jorge Murcia Serra
 
-Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI
+Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projekmitarbeiter AiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
 - E-Mail: jorge.murcia@uni-mannheim.de

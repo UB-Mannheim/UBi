@@ -3,13 +3,13 @@ title: Fachliche Recherche und Services der UB Mannheim für Romanistik
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/romance-studies/
 category: Medien
-tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Books', 'E-Journals', 'Schulungen', 'Informationskompetenz', 'Kontakt']
+tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Journals', 'E-Books', 'Informationskompetenz', 'Schulungen', 'Kontakt']
 language: de
 ---
 
 # Romanistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für Unterstützung bei der Recherche oder beim wissenschaftlichen Arbeiten stehen Ihnen individuelle Beratung und verschiedene Kurse zur Verfügung.
+Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für Unterstützung bei der Recherche oder beim wissenschaftlichen Arbeiten stehen verschiedene Kurse und individuelle Beratung zur Verfügung.
 
 ## Recherchieren
 
@@ -95,7 +95,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum [wissenschaftlichen Arbeite
 - [Arbeitstechniken des literaturwissenschaftlichen Studiums: Eine Einführung](https://primo-49man.hosted.exlibrisgroup.com/permalink/f/19ojnqi/MAN_ALMA21222644190002561)
 - [Online-Tutorials des Fachinformationsdienstes (FID) Romanistik](https://www.fid-romanistik.de/recherchewerkzeuge/online-tutorials/)
 
-Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
+Die UB unterstützt mit Schulungs- und Beratungsangeboten:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
@@ -104,7 +104,7 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 
 ### Dr. Jorge Murcia Serra
 
-**Rolle:** Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI
+**Rolle:** Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projektmitarbeiter AiDaLi
 
 **Aufgaben:**
 
@@ -114,6 +114,7 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 - Durchführung von Schulungen im Fachbereich
 - Betreuung des Bereichs Informationskompetenz und E-Learning
 - Education & Training im Projekt BERD@NFDI
+- Mitarbeit im Projekt AiDaLi
 
 **Kontakt:**
 

@@ -56,7 +56,7 @@ Aufgaben:
 
 ### Dr. Jorge Murcia Serra
 
-Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI
+Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projekmitarbeiter AiDaLi
 
 Aufgaben:
 
@@ -66,6 +66,7 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Betreuung des Bereichs Informationskompetenz und E-Learning
 - Education & Training im ProjektBERD@NFDI
+- Mitarbeit im ProjektAiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
 - E-Mail: jorge.murcia@uni-mannheim.de

@@ -9,20 +9,20 @@ language: de
 
 # Open Access in den Geschichtswissenschaften
 
-Die Universitätsbibliothek Mannheim berät umfassend zum Publizieren im Open Access und unterstützt Forschende mit vielfältigen Services bei der Veröffentlichung ihrer Forschungsergebnisse. Informationen zum [Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/) sowie fachspezifische Beratung für die Geschichtswissenschaften stehen bereit. Die [Open-Access-Policy](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-policy/) der Universität Mannheim empfiehlt, nach den Prinzipien des Open Access zu publizieren.
+Die Universitätsbibliothek Mannheim berät umfassend zum Publizieren im Open Access und unterstützt Forschende mit vielfältigen Services bei der Veröffentlichung ihrer Forschungsergebnisse. Informationen zum [Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/) sowie fachspezifische Beratung für die Geschichtswissenschaften werden bereitgestellt. Die [Open-Access-Policy](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-policy/) der Universität Mannheim empfiehlt, nach den Prinzipien des Open Access zu publizieren.
 
 ## Open Access in den Geschichtswissenschaften
 
-Die Zahl der frei zugänglichen Publikationen in den Geschichtswissenschaften wächst stetig. Das [Directory of Open Access Journals (DOAJ)](https://doaj.org/) listet unter [History](https://www.doaj.org/search/journals?ref=homepage-box&source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22History%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22index.classification%22%7D%7D%2C%22track_total_hits%22%3Atrue%7D) ca. 1.300 Open-Access-Zeitschriften. Immer mehr Historikerinnen und Historiker veröffentlichen ihre Forschungsergebnisse im Open Access.
+Die Zahl der frei zugänglichen Publikationen in den Geschichtswissenschaften wächst stetig. Das [Directory of Open Access Journals (DOAJ)](https://doaj.org/) listet unter dem Suchbegriff [History](https://www.doaj.org/search/journals?ref=homepage-box&source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22History%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22index.classification%22%7D%7D%2C%22track_total_hits%22%3Atrue%7D) ca. 1.300 Open-Access-Zeitschriften. Immer mehr Historikerinnen und Historiker veröffentlichen ihre Forschungsergebnisse im Open Access.
 
-### Auswahl wichtiger Open-Access-Zeitschriften für die Geschichtswissenschaft
+### Wichtige Open-Access-Zeitschriften für die Geschichtswissenschaften
 
-- [Journal of Historical Learning Teaching and Research (JHLTR)](https://www.history.org.uk/publications/categories/international-journal-of-historical-learning): Internationale, frei zugängliche Zeitschrift zur globalen Bedeutung und den Auswirkungen des Geschichtsunterrichts. Peer-Review, herausgegeben von der Historical Association of Great Britain.
+- [Journal of Historical Learning Teaching and Research (JHLTR)](https://www.history.org.uk/publications/categories/international-journal-of-historical-learning): Internationale, frei zugängliche Zeitschrift zur globalen Bedeutung und den Auswirkungen des Geschichtsunterrichts. Peer-Review-Verfahren, herausgegeben von der Historical Association of Great Britain.
 - [Teaching History. A Journal of Methods](https://openjournals.bsu.edu/teachinghistory/index): Versorgt Lehrkräfte aller Stufen mit aktuellen Ideen für den Unterricht. Erscheint jährlich, herausgegeben von der Emporia State University, Kansas.
 - [World History Connected. The e-Journal of Learning and Teaching World History](http://worldhistoryconnected.press.uillinois.edu/): Bietet innovative wissenschaftliche Erkenntnisse und Lehrmethoden. Herausgegeben von der World History Association.
-- [IASLonline](http://www.iaslonline.de): Einer der größten Anbieter für elektronische Publikation von Rezensionen und Aufsätzen in der Deutschen Literatur- und Kulturwissenschaft. Peer-Review.
+- [IASLonline](http://www.iaslonline.de): Einer der größten Anbieter für elektronische Publikation von Rezensionen und Aufsätzen in der Deutschen Literatur- und Kulturwissenschaft. Peer-Review-Verfahren.
 - [recensio.net](https://www.recensio.net/front-page): Rezensionsplattform für europäische Geschichtswissenschaften, angeboten von der Bayerischen Staatsbibliothek.
-- [Zeithistorische Forschungen](https://zeithistorische-forschungen.de): Frei zugängliche Zeitschrift für Zeitgeschichte, Peer-Review, drei Ausgaben pro Jahr.
+- [Zeithistorische Forschungen](https://zeithistorische-forschungen.de): Frei zugängliche Zeitschrift für Zeitgeschichte, Peer-Review-Verfahren, drei Ausgaben pro Jahr.
 
 ## Open Access bei Verlagen
 
@@ -46,7 +46,8 @@ In [Cambridge-Zeitschriften](https://www.cambridge.org/core/services/open-access
 **Ablauf der Veröffentlichung:**
 
 1. Manuskriptvorbereitung und -abgabe über das jeweilige Journal („Submit your article“ → „Start New Submission“)
-1. Nach Annahme: Eintrag der Publikation bei MADOC, Auswahl der Open-Access-Lizenz (empfohlen: CC BY)
+1. Nach Annahme: Ausfüllen des Open-Access-Veröffentlichungslizenz-Formulars
+1. Auswahl der Creative Commons Lizenz (empfohlen: CC BY)
 1. Bestätigung der Kostenübernahme durch RightsLink (APC werden von der Universität übernommen)
 1. Veröffentlichung des Artikels im Open Access
 
@@ -54,7 +55,7 @@ Fragen: [publikationsdienste@uni-mannheim.de](mailto:publikationsdienste@uni-man
 
 ### DEAL-Vertrag mit Wiley
 
-Der DEAL-Vertrag ermöglicht Open-Access-Publikationen in hybriden Wiley-Zeitschriften mit der Option „OnlineOpen“ ohne zusätzliche Kosten für Angehörige der Universität Mannheim als „corresponding author“ (für Artikel zwischen 01.07.2019 und 31.12.2023, Typ: Primary Research Article oder Review Article).
+Der DEAL-Vertrag ermöglicht kostenfreies Open-Access-Publizieren in hybriden Wiley-Zeitschriften mit der Option „OnlineOpen“, sofern Sie als „corresponding author“ und mit der Universität Mannheim affiliiert sind (für Artikel zwischen 01.07.2019 und 31.12.2023, Typ „Primary Research Article“ oder „Review Article“).
 
 **Open-Access-Zeitschriften (hybrid):**
 
@@ -74,7 +75,7 @@ Fragen: [publikationsdienste@uni-mannheim.de](mailto:publikationsdienste@uni-man
 
 ### DEAL-Vertrag mit Springer Nature
 
-Der DEAL-Vertrag ermöglicht Open-Access-Publikationen in rund 1.900 Springer-Zeitschriften für Angehörige der Universität Mannheim als „corresponding author“ (für Artikel mit Online-Veröffentlichung zwischen 01.01.2020 und 31.12.2022).
+Der DEAL-Vertrag ermöglicht kostenfreies Open-Access-Publizieren in rund 1.900 Springer-Zeitschriften für Angehörige der Universität Mannheim als „corresponding author“ (für Artikel mit Online-Veröffentlichung zwischen 01.01.2020 und 31.12.2022).
 
 **Open-Access-Zeitschriften (gold):**
 
@@ -87,9 +88,9 @@ Der DEAL-Vertrag ermöglicht Open-Access-Publikationen in rund 1.900 Springer-Ze
 - [Neue Politische Literatur](https://www.springer.com/journal/42520)
 - [NTM Zeitschrift für Geschichte der Wissenschaften, Technik und Medizin](https://www.springer.com/journal/48)
 
-**Open Choice:** In Hybridzeitschriften kann die Option „Open Choice“ gewählt werden. Die Zugehörigkeit zur Universität Mannheim muss im Manuskript kenntlich sein.
+**Open Choice:** In Hybridzeitschriften nach Annahme die Option „Open Choice“ wählen und Zugehörigkeit zur Universität Mannheim bestätigen.
 
-**Gold Open Access:** In reinen Open-Access-Zeitschriften von BMC und SpringerOpen erhalten Angehörige der Universität Mannheim 20% Rabatt auf die APC (für Artikel zwischen 01.08.2020 und 31.12.2022). Eine zusätzliche Finanzierung aus dem [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) ist möglich.
+**Gold Open Access:** In reinen Open-Access-Zeitschriften von BMC und SpringerOpen erhalten Angehörige der Universität Mannheim 20% Rabatt auf die APC (für Artikel zwischen 01.08.2020 und 31.12.2022). Finanzierung aus dem [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) möglich.
 
 Weitere Informationen:
 [Springer Nature Open-Access-Vereinbarung für Deutschland](https://www.springernature.com/gp/open-research/institutional-agreements/oaforgermany-de)
@@ -98,7 +99,7 @@ Fragen: [publikationsdienste@uni-mannheim.de](mailto:publikationsdienste@uni-man
 
 ### Vertrag mit SAGE
 
-Der Publish-and-Read-Vertrag mit SAGE ermöglicht Open-Access-Publikationen in SAGE-Zeitschriften aus dem Bereich Humanities and Social Sciences (HSS) für Angehörige der Universität Mannheim als „corresponding author“ (für Artikel zwischen 01.01.2021 und 31.12.2023).
+Der Publish-and-Read-Vertrag mit SAGE ermöglicht kostenfreies Open-Access-Publizieren in SAGE-Zeitschriften aus dem Bereich Humanities and Social Sciences (HSS) für Angehörige der Universität Mannheim als „corresponding author“ (für Artikel zwischen 01.01.2021 und 31.12.2023).
 
 **Open-Access-Zeitschriften:**
 
@@ -111,13 +112,13 @@ Der Publish-and-Read-Vertrag mit SAGE ermöglicht Open-Access-Publikationen in S
 - [Journal of Urban History](https://journals.sagepub.com/home/juh)
 - [The Medieval History Journal](https://journals.sagepub.com/home/mhj)
 
-**SAGE Choice:** In hybriden Zeitschriften mit „SAGE Choice“ kann ohne weitere Kosten im Open Access veröffentlicht werden. Nach Annahme im [SAGE Open Access Portal](https://uk.sagepub.com/en-gb/eur/the-sage-open-access-portal-user-guide-for-authors-publishing-open-access-in-a-subscription-journal) Open Access bestätigen, Lizenz wählen (empfohlen: CC BY), Universität Mannheim als Bill Payer angeben.
+**SAGE Choice:** In hybriden Zeitschriften mit der Option „SAGE Choice“ können Sie ohne weitere Kosten im Open Access veröffentlichen. Nach Annahme im [SAGE Open Access Portal](https://uk.sagepub.com/en-gb/eur/the-sage-open-access-portal-user-guide-for-authors-publishing-open-access-in-a-subscription-journal) Open Access bestätigen, Lizenz wählen und Universität Mannheim als „Bill Payer“ angeben. Empfohlene Lizenz: CC BY.
 
 [Liste der Zeitschriften im Paket Humanities and Social Sciences](https://us.sagepub.com/en-us/nam/sage-journals-packages#hss)
 
 ### Vertrag mit De Gruyter
 
-Der Publish-and-Read-Vertrag mit De Gruyter ermöglicht Open-Access-Publikationen in Zeitschriften des [HSS-Pakets](https://cloud.newsletter.degruyter.com/hss-journal-package) für Angehörige der Universität Mannheim als „corresponding author“ (für Artikel zwischen 01.01.2022 und 31.12.2022).
+Der Publish-and-Read-Vertrag mit De Gruyter ermöglicht kostenfreies Open-Access-Publizieren in Zeitschriften des [Pakets Humanities and Social Sciences (HSS)](https://cloud.newsletter.degruyter.com/hss-journal-package) für Angehörige der Universität Mannheim als „corresponding author“ (für Artikel zwischen 01.01.2022 und 31.12.2022).
 
 **Open-Access-Zeitschriften (gold):**
 
@@ -130,9 +131,9 @@ Der Publish-and-Read-Vertrag mit De Gruyter ermöglicht Open-Access-Publikatione
 - [Journal of Ancient History](https://www.degruyter.com/journal/key/jah/html)
 - [Journal of Ancient Near Eastern History](https://www.degruyter.com/journal/key/janeh/html)
 
-**Hybrides Open Access:** In zahlreichen [Zeitschriften](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/Publizieren_und_Open_Access/deGruyter_Titel-UEbersicht_HSS.pdf) des HSS-Pakets kann ohne weitere Kosten veröffentlicht werden.
+**Hybrides Open Access:** In zahlreichen [Zeitschriften](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/Publizieren_und_Open_Access/deGruyter_Titel-UEbersicht_HSS.pdf) des HSS-Pakets können Sie ohne weitere Kosten im Open Access veröffentlichen.
 
-**Gold Open Access:** In reinen [Open-Access-Zeitschriften](https://www.degruyter.com/publishing/publikationen/openaccess/open-access-artikel/open-access-zeitschriften?lang=de) erhalten Angehörige der Universität Mannheim 20% Rabatt auf die APC. Eine zusätzliche Finanzierung aus dem [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) ist möglich.
+**Gold Open Access:** In reinen [Open-Access-Zeitschriften](https://www.degruyter.com/publishing/publikationen/openaccess/open-access-artikel/open-access-zeitschriften?lang=de) erhalten Sie 20% Rabatt auf die APC. Finanzierung aus dem [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) möglich.
 
 ## Publikationsfinanzierung
 
@@ -144,31 +145,31 @@ Für Artikel in Open-Access-Zeitschriften kann eine Finanzierung aus dem [Publik
 
 ### Open-Access-Bücher
 
-Book Processing Charges (BPC) für Open-Access-Bücher können anteilig durch die Universitätsbibliothek gefördert werden. Bei konkreten Buchprojekten und Fragen zur Finanzierung: [publikationsdienste@uni-mannheim.de](mailto:publikationsdienste@uni-mannheim.de)
+Book Processing Charges (BPC) für Open-Access-Bücher können anteilig durch die Universitätsbibliothek gefördert werden. Bei konkreten Buchprojekten und Fragen zur Finanzierung wenden Sie sich an: [publikationsdienste@uni-mannheim.de](mailto:publikationsdienste@uni-mannheim.de)
 
 ### Publikationsserver MADOC
 
-Der [Publikationsserver MADOC](https://madoc.bib.uni-mannheim.de/) ermöglicht kostenfreie, schnelle und weltweite Erst- und Zweitveröffentlichungen von Dissertationen, Zeitschriftenartikeln oder Konferenzbeiträgen.
+Der [Publikationsserver MADOC](https://madoc.bib.uni-mannheim.de/) ermöglicht kostenfreie, schnelle und weltweite Sichtbarkeit von Forschungsergebnissen. Über MADOC können Erstveröffentlichungen von Dissertationen sowie Zweitveröffentlichungen von Zeitschriftenartikeln oder Konferenzbeiträgen erfolgen.
 
 ### Zeitschrift mit MAJOURNALS herausgeben
 
-Forschende der Universität Mannheim können mit dem Redaktionssystem Open Journal Systems (OJS) eigene Open-Access-Zeitschriften herausgeben. Die Universitätsbibliothek unterstützt bei der Neueinrichtung und Systempflege.
+Forschende der Universität Mannheim können mit dem Redaktionssystem Open Journal Systems (OJS) eigene Open-Access-Zeitschriften herausgeben. Die Universitätsbibliothek unterstützt bei der Neueinrichtung und Konfiguration des Systems.
 Weitere Informationen: [MAJOURNALS](https://majournals.bib.uni-mannheim.de/)
 
 ## Kontakt
 
-### Viktor Boecking, M.A.
+### Viktor Boecking, M.A. (er/ihm)
 
-Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
+Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | Fake Science | Informationskompetenz
 
 **Aufgaben:**
 
 - Kommunikation und Öffentlichkeitsarbeit
 - Projektleitung Provenienzforschung
+- Konzipierung von Ausstellungen
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 - Betreuung der historischen Sammlungen
-- Konzipierung von Ausstellungen
 
 **Kontakt:**
 

@@ -99,9 +99,16 @@ Lehrende der Universität Mannheim können ihren Studierenden begleitend zur Leh
 
 ## Antrag auf Einrichtung eines Semesterapparats
 
-Um einen Semesterapparat einzurichten, sind die Angaben in den Pflichtfeldern erforderlich. Bitte beachten Sie, dass Medien im Semesterapparat **nicht entleihbar** sind.
+Um einen Semesterapparat einzurichten, sind die Angaben in den Pflichtfeldern des Antragsformulars erforderlich.
 
-Weitere Hinweise finden Sie in den [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/). Die [Datenschutzinformationen der Universitätsbibliothek](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/) wurden zur Verfügung gestellt.
+Bitte beachten Sie:
+
+- Medien im Semesterapparat sind **nicht entleihbar**.
+
+Weitere Hinweise:
+
+- Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) wurden zur Verfügung gestellt.
+- Zusätzliche Datenschutzinformationen finden Sie unter: [Universitätsbibliothek Hinweise](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/).
 
 ## Kontakt
 

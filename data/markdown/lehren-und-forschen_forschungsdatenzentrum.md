@@ -154,7 +154,7 @@ Aufgaben:
 
 ### Larissa Will, M.A.
 
-Projektmitarbeiterin (KI und Data Literacy, FDM, Automatische Texterkennung)
+Projektmitarbeiterin (KI und Data Literacy, FDM, Automatische Texterkennung) | Projekmitarbeiterin AiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2754
 - E-Mail: larissa.will@uni-mannheim.de

@@ -3,13 +3,13 @@ title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche der Unive
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Drittmittelprojekte', 'Open Science', 'Data Science', 'KI', 'Datenschutz', 'Beratung']
+tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Drittmittelprojekte', 'Data Science', 'Open Science', 'Rechtsberatung', 'Data Literacy', 'Projektkoordination']
 language: de
 ---
 
 # Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim. Das Team bietet Beratung, Schulungen und Unterstützung in verschiedenen Bereichen des Forschungsdatenmanagements, Data Science, Open Science, Datenschutz und rechtlichen Fragestellungen.
+Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim. Das Team bietet Beratung, Schulungen und Unterstützung in verschiedenen Bereichen des Forschungsdatenmanagements, Data Science, Open Science, rechtlichen Fragestellungen und Projektkoordination.
 
 ## Ansprechpartner und Aufgabenbereiche
 
@@ -98,7 +98,7 @@ Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt 
 
 ### Larissa Will, M.A.
 
-**Projektmitarbeiterin (KI und Data Literacy, FDM, Automatische Texterkennung)**
+**Projektmitarbeiterin (KI und Data Literacy, FDM, Automatische Texterkennung) | Projektmitarbeiterin AiDaLi**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2754

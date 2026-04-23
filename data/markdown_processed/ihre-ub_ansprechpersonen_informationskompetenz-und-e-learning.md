@@ -3,7 +3,7 @@ title: Informationskompetenz und E-Learning – Ansprechpartner und Aufgaben an 
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/informationskompetenz-und-e-learning/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/information-literacy-and-e-learning/
 category: Kontakt
-tags: ['Informationskompetenz', 'E-Learning', 'Fachreferenten', 'Romanistik', 'Geschichte', 'Schulungen', 'Öffentlichkeitsarbeit', 'Provenienzforschung']
+tags: ['Informationskompetenz', 'E-Learning', 'Fachreferenten', 'Romanistik', 'Geschichte', 'Schulungen', 'Provenienzforschung', 'Bibliotheksservice']
 language: de
 ---
 
@@ -11,11 +11,12 @@ language: de
 
 ## Dr. Jorge Murcia Serra
 
-**Rolle:**
+**Funktionen:**
 
 - Betreuung des Bereichs Informationskompetenz und E-Learning
 - Fachreferent für Romanistik und Sprachlernmaterialien
 - Education & Training für BERD@NFDI
+- Projektmitarbeiter AiDaLi
 
 **Aufgaben:**
 
@@ -24,6 +25,7 @@ language: de
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 - Education & Training im Projekt BERD@NFDI
+- Mitarbeit im Projekt AiDaLi
 
 **Kontakt:**
 Universität Mannheim, Universitätsbibliothek
@@ -33,22 +35,23 @@ E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
 
 ______________________________________________________________________
 
-## Viktor Boecking, M.A.
+## Viktor Boecking, M.A. (er/ihm)
 
-**Rolle:**
+**Funktionen:**
 
 - Leiter der Abteilung Kommunikation
 - Fachreferent für Geschichte
-- E-Learning
+- Fake Science
+- Informationskompetenz
 
 **Aufgaben:**
 
 - Kommunikation und Öffentlichkeitsarbeit
 - Projektleitung Provenienzforschung
+- Konzipierung von Ausstellungen
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 - Betreuung der historischen Sammlungen
-- Konzipierung von Ausstellungen
 
 **Kontakt:**
 Universität Mannheim, Universitätsbibliothek
