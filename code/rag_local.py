@@ -8,7 +8,6 @@ from pathlib import Path
 
 import chromadb.config
 import yaml
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
@@ -17,6 +16,8 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from rich import print
 
+from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
+from prompts import BASE_SYSTEM_PROMPT
 from vectorstore_incremental import FileIndexManager
 
 
@@ -52,9 +53,6 @@ def _parse_frontmatter(file: Path, content: str):
         metadata = {}
         text_content = content
     return metadata, text_content
-
-from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
-from prompts import BASE_SYSTEM_PROMPT
 
 
 def format_docs(docs):
@@ -280,8 +278,6 @@ Antwort:""",
             )
         ]
     )
-
-    prompt = ChatPromptTemplate.from_template(prompt_template)
 
     if use_ollama:
         llm = ChatOllama(
