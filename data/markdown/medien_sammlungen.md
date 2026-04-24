@@ -54,7 +54,7 @@ Bei Fragen rund um das Thema Sonderbestände und deren Benutzung an der Universi
 
 ### Viktor Boecking, M.A. (er/ihm)
 
-Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | Fake Science | Informationskompetenz
+Leiter der Abteilung Kommunikation | Fachreferent für Geschichte
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
 - E-Mail: viktor.boecking@uni-mannheim.de

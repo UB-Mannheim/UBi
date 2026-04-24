@@ -3,7 +3,7 @@ title: Provenienzforschung zu NS-Raubgut im Bestand der Universitätsbibliothek 
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/
 source_url_en: https://www.bib.uni-mannheim.de/en/
 category: Projekte
-tags: ['Provenienzforschung', 'NS-Raubgut', 'Kulturgut', 'Restitution', 'Bibliotheksprojekte', 'Forschungsprojekte', 'Universitätsbibliothek', 'Geschichte']
+tags: ['Provenienzforschung', 'NS-Raubgut', 'Kulturgut', 'Restitution', 'Bibliotheksprojekte', 'Forschungsprojekte', 'Universitätsbibliothek', 'Kooperationen']
 language: de
 ---
 
@@ -47,8 +47,7 @@ E-Mail: [ellen.wendel@uni-mannheim.de](mailto:ellen.wendel@uni-mannheim.de)
 
 #### Viktor Boecking, M.A. (er/ihm)
 
-Leiter der Abteilung Kommunikation
-Fachreferent für Geschichte, Fake Science, Informationskompetenz
+Leiter der Abteilung Kommunikation, Fachreferent für Geschichte
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 Telefon: +49 621 181-2938

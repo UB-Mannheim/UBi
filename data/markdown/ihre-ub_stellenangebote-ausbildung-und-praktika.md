@@ -11,7 +11,14 @@
 
 ## Aktuelle Stellenangebote
 
-Vielen Dank für Ihr Interesse. Zur Zeit haben wir keine Stellen zu besetzen.
+
+
+## Bibliotheksoberinspektor*in/Bibliotheksmitarbeiter*in (m/w/d)
+
+An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als Bibliotheksoberinspektor*in/Bibliotheksmitarbeiter*in (m/w/d) (A 10/TV-L BW E 9b) zu besetzen.
+Bewerbungsschluss ist der 13. Mai 2026.
+Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/NB_456_A10_E9b_BBS-2.pdf) (PDF, 832 KB).
+Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/).
 
 
 ## Ausbildung

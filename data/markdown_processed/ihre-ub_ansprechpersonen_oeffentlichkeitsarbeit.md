@@ -1,9 +1,9 @@
 ---
-title: Öffentlichkeitsarbeit und Kommunikationsservices der Universitätsbibliothek Mannheim
+title: Öffentlichkeitsarbeit und Kommunikationsservices der Universitätsbibliothek Mannheim – Ansprechpartner, Angebote und Genehmigungen
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/public-relations/
-category: Services
-tags: ['Öffentlichkeitsarbeit', 'Kommunikation', 'Veranstaltungen', 'Ausstellungen', 'Pressearbeit', 'Printmedien', 'Social Media', 'Kontakt']
+category: Kontakt
+tags: ['Öffentlichkeitsarbeit', 'Kommunikation', 'Veranstaltungen', 'Ausstellungen', 'Pressearbeit', 'Printmedien', 'Social Media', 'Genehmigungen']
 language: de
 ---
 
@@ -16,7 +16,7 @@ Die Abteilung Kommunikation ist die Schnittstelle zwischen Universitätsbiblioth
 - Konzeption und Organisation von Veranstaltungen und Ausstellungen
 - Koordination von Pressearbeit und Medienanfragen
 
-**Aktuelle Informationen und Kanäle:**
+**Weitere Informationen und aktuelle Meldungen:**
 
 - [Aktuelles](https://blog.bib.uni-mannheim.de/Aktuelles/)
 - [Instagram](https://www.instagram.com/ubmannheim/)
@@ -30,13 +30,13 @@ Im [Magazin der UB Mannheim (PDF, 4,85 MB)](https://www.bib.uni-mannheim.de/medi
 
 ### Frauen im Widerstand
 
-Die Universitätsbibliothek Mannheim zeigt in Zusammenarbeit mit der Beauftragten für Chancengleichheit der Universität Mannheim die Ausstellung „Frauen im Widerstand gegen den Nationalsozialismus“ im Ausleihzentrum Schloss Westflügel. Die Ausstellung ist täglich während der [Öffnungszeiten des Ausleihzentrums](https://www.bib.uni-mannheim.de/oeffnungszeiten/) zugänglich.
+Die Universitätsbibliothek Mannheim zeigt in Zusammenarbeit mit der Beauftragten für Chancengleichheit der Universität Mannheim die Ausstellung „[Frauen im Widerstand gegen den Nationalsozialismus](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/frauen-im-widerstand-gegen-den-nationalsozialismus/)“ im Ausleihzentrum Schloss Westflügel. Die Ausstellung ist täglich während der [Öffnungszeiten des Ausleihzentrums](https://www.bib.uni-mannheim.de/oeffnungszeiten/) zugänglich.
 
-## Services
+## Services der Kommunikationsabteilung
 
 ### Foto- und Drehgenehmigungen
 
-Foto- und Filmaufnahmen innerhalb der Bibliotheksbereiche sowie deren Veröffentlichung erfordern eine vorherige Genehmigung durch die Kommunikationsabteilung. Beratung zu Drehorten und -möglichkeiten ist möglich. Für Anfragen werden folgende Informationen benötigt:
+Foto- und Filmaufnahmen innerhalb der Bibliotheksbereiche sowie deren Veröffentlichung erfordern eine vorherige Genehmigung durch die Kommunikationsabteilung. Beratung zu Drehorten und -möglichkeiten ist möglich. Für Anfragen bitte folgende Informationen bereitstellen:
 
 - Auftraggeber
 - Ansprechpartner\*in
@@ -46,11 +46,11 @@ Foto- und Filmaufnahmen innerhalb der Bibliotheksbereiche sowie deren Veröffent
 - gewünschte(r) Termin(e) und Zeitraum
 - gewünschte Aufnahmeorte
 
-Bitte planen Sie ausreichend Vorlaufzeit ein.
+Bitte ausreichend Vorlaufzeit einplanen.
 
-### Auslage von Printmedien
+### Auslage von Printmedien und Plakaten
 
-Die Auslage von Printmedien und das Aufhängen von Plakaten in den Bibliotheksbereichen ist nur nach Genehmigung durch die Kommunikationsabteilung möglich. Bitte senden Sie Printmedien zur Auslage an:
+Die Auslage von Printmedien und das Aufhängen von Plakaten in den Bibliotheksbereichen ist nur nach Genehmigung durch die Kommunikationsabteilung möglich. Printmedien zur Auslage bitte an folgende Adresse senden:
 
 Abteilung Kommunikation
 Universitätsbibliothek Mannheim
@@ -58,25 +58,39 @@ Universität Mannheim
 Schloss Schneckenhof West
 68161 Mannheim
 
-Wenn möglich, senden Sie vorab eine digitale Version der Printmedien. Die Entscheidung zur Auslage und zum Aufhängen von Plakaten trifft die Kommunikationsabteilung. Eine selbstständige Auslage, insbesondere auf Arbeitsplätzen, ist grundsätzlich untersagt.
+Wenn möglich, vorab eine digitale Version der Printmedien zusenden. Die Entscheidung zur Auslage und zum Aufhängen trifft die Kommunikationsabteilung. Eine selbstständige Auslage, insbesondere auf Arbeitsplätzen, ist grundsätzlich untersagt.
 
-## Kontakt
+## Ansprechpartner Kommunikation
 
-### Abteilung Kommunikation
+### Viktor Boecking, M.A. (er/ihm)
 
-**E-Mail:** [kommunikation.ub@uni-mannheim.de](mailto:kommunikation.ub@uni-mannheim.de)
+Leiter der Abteilung Kommunikation | Fachreferent für Geschichte
 
-#### Viktor Boecking, M.A. (er/ihm)
+**Aufgabenbereiche:**
 
-Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | Fake Science | Informationskompetenz
+- Kommunikation und Öffentlichkeitsarbeit
+- Projektleitung Provenienzforschung
+- Ausstellungs- & Veranstaltungsmanagement
+- Betreuung der historischen Sammlungen
+- Betreuung Themenkomplex Fake Science
+- Informationskompetenz & E-Learning
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 
-- Aufgaben: Kommunikation und Öffentlichkeitsarbeit, Projektleitung Provenienzforschung, Konzipierung von Ausstellungen, fachliche Beratung bei Recherchefragen, Durchführung von Schulungen im Fachbereich, Betreuung der historischen Sammlungen
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-- Telefon: +49 621 181-2938
+**Kontakt:**
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SW 284
+68161 Mannheim
+Telefon: +49 621 181-2938
+E-Mail: [kommunikation.ub@uni-mannheim.de](mailto:kommunikation.ub@uni-mannheim.de)
 
-#### Christina Schüßler, M.A. (sie/ihr)
+### Christina Schüßler, M.A. (sie/ihr)
 
 Kommunikation | Online-Redaktion
 
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 275, 68161 Mannheim
-- Telefon: +49 621 181-2935
+**Kontakt:**
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SN 275
+68161 Mannheim
+Telefon: +49 621 181-2935
+E-Mail: [kommunikation.ub@uni-mannheim.de](mailto:kommunikation.ub@uni-mannheim.de)
