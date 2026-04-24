@@ -6,7 +6,7 @@ import httpx
 VUFIND_BASE = "https://disco.bib.uni-mannheim.de/vufind"  # Adjust to your VuFind URL
 
 
-async def search_catalog(query: dict | str, limit: int = 5) -> Optional[str]:
+async def search_catalog(query: dict | str, limit: int = 10) -> Optional[str]:
     """Search the VuFind catalog and return formatted Markdown text.
 
     The ``query`` parameter can be either:
@@ -44,7 +44,7 @@ async def search_catalog(query: dict | str, limit: int = 5) -> Optional[str]:
             "lookfor": lookfor,
             "type":    search_type,
             "limit":   limit,
-            "field[]": ["title", "author", "publishDate", "id", "format"],
+            # "field[]": ["title", "author", "publishDate", "id", "format"],
         }
         if filters:
             params["filter[]"] = filters
