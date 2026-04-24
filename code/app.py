@@ -652,9 +652,15 @@ async def on_message(message: cl.Message):
     if route and route.lower() == "katalog":
         results = await search_catalog(augmented_input)
         if results:
-            response = f"Ich habe folgende Treffer im Katalog gefunden:\n\n{results}"
+            if detected_language == 'German':
+                response = f"Ich habe folgende Treffer im Katalog gefunden:\n\n{results}"
+            else:
+                response = f"I found the following results in the catalog:\n\n{results}"
         else:
-            response = "Dazu habe ich leider nichts im Katalog gefunden. Möchten Sie eine andere Suche versuchen?"
+            if detected_language == 'German':
+                response = "Dazu habe ich leider nichts im Katalog gefunden. Möchten Sie eine andere Suche versuchen?"
+            else:
+                response = "Unfortunately, I couldn't find anything related to that in the catalog. Would you like to try a different search?"
 
         await msg.stream_token("")
         for char in response:
