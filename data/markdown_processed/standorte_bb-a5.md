@@ -70,7 +70,7 @@ E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 #### Europäisches Dokumentationszentrum (EDZ)
 
-Das Europäische Dokumentationszentrum (EDZ) ist im Bibliotheksbereich A5 angesiedelt und bietet spezialisierte Literatur und Beratung zu europäischen Themen.
+Das Europäische Dokumentationszentrum (EDZ) ist Teil des Bibliotheksbereichs A5 und bietet spezialisierte Literatur und Beratung zu europäischen Themen.
 
 ##### Dr. Hendrik Platte
 
