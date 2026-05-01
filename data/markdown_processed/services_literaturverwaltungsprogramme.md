@@ -19,14 +19,14 @@ Die Landes-Campuslizenz für das Literaturverwaltungsprogramm Citavi ist zum 31.
 
 ## Zotero
 
-Mit der Open-Source-Software [Zotero](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zotero/) können Sie zahlreiche Referenzen mit einem Klick speichern – plattformunabhängig.
+[Zotero](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zotero/) ist eine Open-Source-Software, mit der Sie zahlreiche Referenzen mit einem Klick speichern können – plattformunabhängig.
 
 ### Kurse und Aufzeichnungen
 
 - Aktuelle Kurse finden Sie auf der [Events-Seite der UB](https://www.bib.uni-mannheim.de/ihre-ub/aktuelles/events/).
 - Aufzeichnungen:
-  - [Literaturverwaltung mit Zotero (Video, Präsentation – Deutsch)](https://cloud.bib.uni-mannheim.de/s/aWFdsESpmsqCsik)
-  - [Reference Management with Zotero (Video, Presentation, Worksheet – English)](https://cloud.bib.uni-mannheim.de/s/na5n3GdCT8Qtf3A)
+  - [Literaturverwaltung mit Zotero (Stand: 04/26 Version 9; Video, Präsentation – Deutsch)](https://cloud.bib.uni-mannheim.de/s/aWFdsESpmsqCsik)
+  - [Reference Management with Zotero (11/23 Version 6; Video, Presentation, Worksheet – English)](https://cloud.bib.uni-mannheim.de/s/na5n3GdCT8Qtf3A)
 
 ### Weitere Links
 
