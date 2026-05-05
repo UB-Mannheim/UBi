@@ -29,3 +29,6 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgab
 - **Öffnungszeiten:**
   Mo–Fr (außer an Feiertagen): 8–23 Uhr
   Sa/So/Feiertage: 10–23 Uhr
+
+- **Erweiterte Öffnungszeiten (4. Mai bis einschließlich 14. Juni 2026):**
+  Mo–So und an Feiertagen: 8–24 Uhr

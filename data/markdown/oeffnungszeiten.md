@@ -30,3 +30,7 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgab
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
 
+**Erweiterte Öffnungszeiten vom 4. Mai bis einschließlich 14. Juni 2026**
+| Mo‒So und an Feiertagen | 8–24 Uhr |
+| --- | --- |
+

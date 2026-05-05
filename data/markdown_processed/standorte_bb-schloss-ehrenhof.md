@@ -1,9 +1,9 @@
 ---
-title: Bibliotheksbereich Schloss Ehrenhof – Standortinformationen, Öffnungszeiten und Services
+title: Bibliotheksbereich Schloss Ehrenhof – Zugang, Öffnungszeiten und Services
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/schloss-ehrenhof-library/
 category: Standorte
-tags: ['Schloss Ehrenhof', 'Standorte', 'Öffnungszeiten', 'Rechtswissenschaft', 'Volkswirtschaftslehre', 'Geschichte', 'Accounting', 'Bibliotheksservice']
+tags: ['Schloss Ehrenhof', 'Öffnungszeiten', 'Rechtswissenschaft', 'Volkswirtschaftslehre', 'Geschichte', 'Accounting', 'Arbeitsplätze', 'Kontakt']
 language: de
 ---
 
@@ -19,16 +19,22 @@ Der Bibliotheksbereich Schloss Ehrenhof ist derzeit ausschließlich über den **
 
 ## Öffnungszeiten
 
-**Eingang Ost**
+**Bibliotheksbereich Schloss Ehrenhof – Eingang Ost**
 
 | Wochentag | Öffnungszeiten |
 |--------------------------|---------------|
-| Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertag | 10–23 Uhr |
+| Mo–Fr | 8–23 Uhr |
+| Sa/So/Feiertage | 10–23 Uhr |
+
+**Erweiterte Öffnungszeiten vom 4. Mai bis einschließlich 14. Juni 2026**
+
+| Zeitraum | Öffnungszeiten |
+|--------------------------|---------------|
+| Mo–So und an Feiertagen | 8–24 Uhr |
 
 ## Fachliche Recherche und Services
 
-- Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten individuell zu fachlichen Fragen.
+- Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten individuell zu allen Themen.
 - Weitere Services:
   - [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
   - [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
@@ -48,20 +54,22 @@ E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim ist zentraler Anlaufpunkt für Nutzerinnen und Nutzer. Die Leitung und stellvertretende Leitung stehen für alle Fragen rund um den Bibliotheksbereich zur Verfügung.
+Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim ist zentraler Anlaufpunkt für Nutzerinnen und Nutzer. Für alle Anliegen rund um diesen Bereich stehen folgende Ansprechpartnerinnen zur Verfügung:
 
-#### Teamleitung
+#### Ansprechpartnerinnen
 
 ##### Veronika Kay
 
-- Funktion: Teamleiterin Bibliotheksbereich Schloss Ehrenhof
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 205, 68161 Mannheim
-- Telefon: +49 621 181-3025
-- E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
+**Teamleiterin Bibliotheksbereich Schloss Ehrenhof**
+Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 205, 68161 Mannheim
+Telefon: +49 621 181-3025
+E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
 
 ##### Sarah Böhner
 
-- Funktion: Stellvertretende Teamleiterin Bibliotheksbereich Schloss Ehrenhof
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 206, 68161 Mannheim
-- Telefon: +49 621 181-3020
-- E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
+**Stellvertretende Teamleiterin Bibliotheksbereich Schloss Ehrenhof**
+Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 206, 68161 Mannheim
+Telefon: +49 621 181-3020
+E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
+
+Weitere Informationen finden Sie auf der [Webseite des Bibliotheksbereichs Schloss Ehrenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/).

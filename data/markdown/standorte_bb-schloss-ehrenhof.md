@@ -20,6 +20,10 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
 
+**Erweiterte Öffnungszeiten vom 4. Mai bis einschließlich 14. Juni 2026**
+| Mo‒So und an Feiertagen | 8–24 Uhr |
+| --- | --- |
+
 
 
 ## Fachliche Recherche

@@ -1,17 +1,17 @@
 ---
-title: Bibliotheksbereich A3 – Fachbibliothek für Sprach- und Literaturwissenschaften, Medien, Pädagogik, Psychologie und Theologie
+title: Bibliotheksbereich A3 – Fachbibliothek für Geistes- und Sozialwissenschaften, Mediathek und Testothek
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-a3/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/a3-library/
 category: Standorte
-tags: ['Bibliotheksbereich A3', 'Fachbibliothek', 'Sprachwissenschaften', 'Medienwissenschaften', 'Psychologie', 'Mediathek', 'Testothek', 'Öffnungszeiten']
+tags: ['Bibliotheksbereich A3', 'Sprachwissenschaften', 'Mediathek', 'Testothek', 'Öffnungszeiten', 'Arbeitsplätze', 'Kontakt', 'Fachreferenten']
 language: de
 ---
 
 # Bibliotheksbereich A3
 
-Der Bibliotheksbereich A3 ist die Fachbibliothek für Sprach- und Literaturwissenschaften, Medien- und Kommunikationswissenschaften, Pädagogik, Philosophie, Psychologie und Theologie. Zusätzlich beherbergt er eine Mediathek, eine Testothek sowie ein Testlabor für Psychologie.
+Der Bibliotheksbereich A3 ist die Fachbibliothek für Sprach- und Literaturwissenschaften, Medien- und Kommunikationswissenschaften, Pädagogik, Philosophie, Psychologie und Theologie. Zusätzlich beherbergt er die Mediathek, die Testothek und das Testlabor Psychologie.
 
-Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
+Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
 
 Weitere Informationen:
 
@@ -21,16 +21,18 @@ Weitere Informationen:
 
 ## Öffnungszeiten
 
-**Bibliotheksbereich A3**
+**Reguläre Öffnungszeiten**
 
-| Wochentag | Öffnungszeiten |
-|---------------------|---------------|
-| Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertage | 10–23 Uhr |
+- Montag bis Freitag: 8–23 Uhr
+- Samstag, Sonntag und Feiertage: 10–23 Uhr
+
+**Erweiterte Öffnungszeiten (4. Mai bis 14. Juni 2026)**
+
+- Montag bis Sonntag und an Feiertagen: 8–24 Uhr
 
 ## Fachliche Recherche und Services
 
-Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten individuell zu allen Themen der Fachbereiche.
+Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten individuell zu allen Themen der Fachbibliothek.
 
 Weitere Services:
 
@@ -45,17 +47,16 @@ Weitere Services:
 
 **Bibliotheksbereich A3**
 Universität Mannheim, Universitätsbibliothek
-A 3, 6–8
-68159 Mannheim
+A 3, 6–8, 68159 Mannheim
 Telefon: +49 621 181-3111
 E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer. Die Ansprechpartnerinnen für diesen Bereich sind:
+[Zur offiziellen Seite des Bibliotheksbereichs A3](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)
 
-#### Ansprechpartnerinnen
+#### Ansprechpartner
 
 ##### Barbara Dreisiebner
 

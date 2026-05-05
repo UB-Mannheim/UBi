@@ -3,34 +3,30 @@ title: Bibliotheksbereich A5 – Fachbibliothek für Soziologie, Politikwissensc
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-a5/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/a5-library/
 category: Standorte
-tags: ['Bibliotheksbereich A5', 'Soziologie', 'Politikwissenschaft', 'Mathematik', 'Informatik', 'EDZ', 'MZES', 'Arbeitsplätze']
+tags: ['Bibliotheksbereich A5', 'Soziologie', 'Politikwissenschaft', 'Mathematik', 'Informatik', 'EDZ', 'MZES', 'Öffnungszeiten']
 language: de
 ---
 
 # Bibliotheksbereich A5
 
-## Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik, EDZ, MZES
+Der Bibliotheksbereich A5 ist die Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik. Zudem beherbergt er das [Europäische Dokumentationszentrum (EDZ)](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/) sowie die [Bibliothek des Mannheimer Zentrums für Europäische Sozialforschung (MZES)](http://www.mzes.uni-mannheim.de/d7/de/pages/bibliothek).
 
-Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können hier ausleihen.
-
-- [Europäisches Dokumentationszentrum (EDZ)](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/)
-- [Bibliothek des Mannheimer Zentrums für Europäische Sozialforschung (MZES)](http://www.mzes.uni-mannheim.de/d7/de/pages/bibliothek)
+Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
 
 ## Öffnungszeiten
 
-**Bibliotheksbereich A5**
+**Reguläre Öffnungszeiten**
 
-| Tag | Uhrzeit |
-|----------------------|-------------|
-| Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertage | 10–23 Uhr |
+- Montag bis Freitag: 8–23 Uhr
+- Samstag, Sonntag und Feiertage: 10–23 Uhr
+
+**Erweiterte Öffnungszeiten (4. Mai bis einschließlich 14. Juni 2026)**
+
+- Montag bis Sonntag und an Feiertagen: 8–24 Uhr
 
 ## Fachliche Recherche und Services
 
-Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beantworten gerne Ihre Fragen und beraten Sie individuell zu Ihrem Thema.
-
-Weitere Services:
-
+- Individuelle Beratung durch [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)
 - [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
 - [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
 - [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
@@ -42,8 +38,7 @@ Weitere Services:
 
 **Bibliotheksbereich A5**
 Universität Mannheim, Universitätsbibliothek
-A5, Gebäudeteil A
-68159 Mannheim
+A5, Gebäudeteil A, 68159 Mannheim
 Telefon: +49 621 181-3030
 E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a5/)
@@ -68,18 +63,18 @@ Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A �
 Telefon: +49 621 181-3032
 E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
-#### Europäisches Dokumentationszentrum (EDZ)
+### Europäisches Dokumentationszentrum (EDZ)
 
-Das Europäische Dokumentationszentrum (EDZ) ist im Bibliotheksbereich A5 angesiedelt und bietet spezialisierte Literatur und Beratung zu europäischen Themen.
+Das Europäische Dokumentationszentrum (EDZ) ist Teil der Universitätsbibliothek Mannheim und bietet spezialisierte Literatur und Beratung zu europäischen Themen.
+
+#### Ansprechpartner
 
 ##### Dr. Hendrik Platte
 
-Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
-Telefon: +49 621 181-2990
-E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
+Fachreferent für Politikwissenschaft, Soziologie und Psychologie
+Ansprechpartner EDZ
 
-**Aufgabenbereiche:**
+**Aufgaben:**
 
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
@@ -88,3 +83,7 @@ E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
+
+Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
+Telefon: +49 621 181-2990
+E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
