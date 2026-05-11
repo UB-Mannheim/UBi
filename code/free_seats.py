@@ -92,8 +92,9 @@ def make_plotly_figure(areas, detected_language: str = "German", absolute_values
             fixedrange=True,
         ),
         xaxis=dict(tickfont_size=14, showline=False, fixedrange=True),
-        height=550,
-        margin=dict(t=80, b=70, l=60, r=60),
+        autosize=True,
+        height=350,
+        margin=dict(t=60, b=50, l=50, r=30),
         modebar_remove=['zoom', 'pan', 'lasso', 'select', 'zoomIn2d', 'zoomOut2d', 'autoscale2d', 'resetScale2d', 'toggleSpikelines'],
         annotations=top_annotations,
     )
