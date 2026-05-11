@@ -384,7 +384,7 @@ async def handle_sitzplatz_route(
         # Set the elements on the existing message
         msg.elements = [
             cl.Plotly(
-                name=plot_label, figure=fig, display="inline", size="large"
+                name=plot_label, figure=fig, display="inline", size="small"
             )
         ]
         await msg.update()
