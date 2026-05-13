@@ -45,6 +45,7 @@ Bitte planen Sie bei Ihrer Drehanfrage genügend Vorlaufzeit ein und geben Sie f
 - gewünschte(r) Termin(e) und Zeitraum
 - gewünschte Aufnahmeorte
 
+Für Drehanfragen an der Universität Mannheim richten Sie sich bitte an die [Pressestelle](https://www.uni-mannheim.de/drehanfragen/) der Universität.
 
 
 ### Auslage von Printmedien

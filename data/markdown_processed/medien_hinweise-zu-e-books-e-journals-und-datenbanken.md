@@ -2228,23 +2228,17 @@ Weitere Informationen finden Sie auf der [Website der Universitätsbibliothek Ma
 
 ## Shibboleth-Zugang zu digitalen Medien
 
-## Shibboleth-Zugang zu digitalen Medien
+## Shibboleth-Zugang zu lizenzierten E-Medien
 
-Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren **Shibboleth** nutzen, um komfortabel von außerhalb des Campus auf lizenzierte elektronische Medien zuzugreifen – ganz ohne VPN.
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren **Shibboleth** nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ganz ohne VPN.
 
-Shibboleth ermöglicht den Zugang zu lizenzierten E-Books, E-Journals und Datenbanken direkt auf den Plattformen der jeweiligen Verlage oder Anbieter. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
+Shibboleth ermöglicht den Zugang zu lizenzierten elektronischen Angeboten auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
 
-### Nutzungshinweise
+Um Shibboleth zu nutzen, wählen Sie auf der jeweiligen Anbieterplattform die **Universität Mannheim** aus einer Liste aus. Anschließend melden Sie sich über die Anmeldemaske der Universität mit Ihrer Uni-ID an.
 
-1. Wählen Sie auf der Plattform des Anbieters die **Universität Mannheim** aus einer Liste aus.
-1. Melden Sie sich anschließend mit Ihrer Uni-ID über die Anmeldemaske der Universität an.
-1. Nach erfolgreicher Authentifizierung erhalten Sie Zugriff auf die lizenzierten Inhalte.
+**Hinweis:** Nicht alle Anbieter unterstützen Shibboleth. Der Zugang ist aktuell über die Universitätsbibliothek Mannheim auf den unten aufgeführten Plattformen möglich.
 
-**Beispiel:** Cambridge University Press
-
-Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Der Zugang über Shibboleth ist aktuell auf den unten aufgeführten Plattformen möglich.
-
-### Übersicht der unterstützten Anbieter
+### Unterstützte Anbieter (Auswahl)
 
 - American Institute of Physics
 - Annual Reviews
