@@ -110,8 +110,9 @@ Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registra
 
 **Access:**
 
-- Access to Workspace is limited to faculty and students of the University of Mannheim.
-- If you wish to use LSEG Workspace frequently, you can [request a personal account](https://www.bib.uni-mannheim.de/medien/zugang-zum-lseg-workspace/) to access the database from your own device. Employees of the University of Mannheim and doctoral students can apply for a personal account for the duration of the semester. Students can apply for a personal account for three months.
+- Access to Workspace is limited to students and staff of the University of Mannheim.
+- For short-term use, a terminal is located at the information desk on the ground floor of the Schneckhof Library. The use of the terminal is cordinated via the ILIAS group „[Financial and statistical databases](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&ref_id=1227320)“. Please find further information there.
+- If you wish to use LSEG Workspace frequently, you can [request a personal account](https://www.bib.uni-mannheim.de/medien/zugang-zum-lseg-workspace/) to access the database from your own device. Staff of the University of Mannheim and doctoral students can apply for a personal account for the duration of the semester. Students can apply for a personal account for one month.
 - For questions regarding access to Workspace, please contact the [subject librarian for business administration](https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/).
 
 

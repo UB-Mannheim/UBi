@@ -3,6 +3,8 @@
 
 # [Öffnungszeiten](https://www.bib.uni-mannheim.de/oeffnungszeiten/)
 
+Am Feiertag,**14. Mai**, sind die Bibliotheksbereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof von**8 Uhr bis Mitternacht geöffnet**.
+[weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28581)
 
 
 ## Ausleihzentrum Schloss Westflügel

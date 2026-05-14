@@ -110,6 +110,7 @@ Legal Counsel für BERD@NFDI und FDZ
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: vasilka.paunova@uni-mannheim.de
+- ORCID-ID: 0000-0002-8961-509X (https://orcid.org/0000-0002-8961-509X)
 
 
 ### Thomas Schmidt, M.A.

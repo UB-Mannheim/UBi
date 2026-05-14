@@ -25,7 +25,8 @@ Die ecUM erhält ab dem 1. Juli 2025 ein neues Design. Ab sofort erscheint kein 
 
 ## Ersatz bei Verlust oder Defekt
 
-Bei Verlust oder Defekt Ihrer ecUM können Sie eine Ersatzkarte über das [Studierendenportal](https://portal2.uni-mannheim.de/portal2/) beantragen. Melden Sie sich mit Ihrer Uni-ID und Ihrem Passwort an. Die Gebühr für eine Ersatzkarte beträgt 15 Euro.
+Bei Verlust oder Defekt Ihrer ecUM können Sie beim IT-Support im InfoCenter vor Ort eine Ersatzkarte beantragen. Die Gebühr für eine
+Ersatzkarte beträgt 15 Euro..
 
 
 ## So erreichen wir Sie

@@ -12,7 +12,7 @@ Alle E-Medien finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/pr
 
 ## Zugang
 
-Als**Studierende**und**Mitarbeiter*innen der Universität Mannheim**nutzen Sie unser Angebot:
+Als**Studierende**und**Mitarbeitende der Universität Mannheim**nutzen Sie unser Angebot:
 
 - auf dem Campus der Universität Mannheim an PCs und im WLAN eduroam.
 - außerhalb des Netzes der Universität Mannheim mit dem VPN-Client.Bitte beachten Sie, dass Sie bei der Anmeldung am VPN-Client die Gruppe „WebVPN“ auswählen. Mit „WebVPN-Split“ haben Sie keinen Zugriff auf lizenzierte elektronische Medien.
