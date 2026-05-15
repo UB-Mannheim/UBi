@@ -15,7 +15,7 @@ ABBREVIATIONS = """- **UBi** / **ubi** = KI-Chatbot der Universitätsbibliothek 
    - A5 = Bibliotheksbereich A5 (A5 Library)
    - Schneckenhof = Bibliotheksbereich Schloss Schneckenhof (Schloss Schneckenhof Library)
    - Ehrenhof = Bibliotheksbereich Schloss Ehrenhof (Schloss Ehrenhof Library)
-   - Ausleihzentrum = Ausleihzentrum Schloss Westflügel (Central Lending Library Schloss Westflügel)
+   - ALZ / Ausleihzentrum = Ausleihzentrum Schloss Westflügel (Central Lending Library Schloss Westflügel)
    - Study Skills = University Library courses and workshops with useful tips on academic research and writing
    - RDM Seminars / Research Data Management Seminars = Forschungsdatenzentrum courses and workshops on research data management
    - BERD = BERD@NFDI (NFDI consortia for business, economics and related data hosted at University of Mannheim)
