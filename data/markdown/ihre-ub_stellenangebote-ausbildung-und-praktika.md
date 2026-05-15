@@ -11,7 +11,7 @@
 
 ## Aktuelle Stellenangebote
 
-Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/).
+Vielen Dank für Ihr Interesse. Zur Zeit haben wir keine Stellen zu besetzen.
 
 
 ## Ausbildung
