@@ -14,6 +14,14 @@ Mit der Einwerbung von DFG-Projektmitteln oder auch aus eigenen Mitteln können 
 
 
 
+## AiDaLi: durch OER-Produktion zu AI und Data Literacy
+
+Projekt | Laufzeit 2026–2028
+Das Kooperationsprojekt von ZLL, UB und dem Anglistischen Seminar (Lehrstuhl Prof. Altvater-Mackensen) zielt auf die curriculare Verankerung von AI und Data Literacy in geisteswissenschaftlichen Disziplinen.
+Im Fokus stehen die Kompetenzvermittlung im Bereich (Generative) KI und datenbasierter Forschung für Studierende sowie die Entwicklung adaptierbarer Veranstaltungskonzepte und Prüfungsformate, die auf der Produktion von Open Educational Resources (OER) aufbauen.
+[Zum Projekt](https://www.uni-mannheim.de/zll/projekte/aidali-durch-oer-produktion-zu-ai-und-data-literacy/)
+
+
 ## Historische Daten besser nutzen
 
 Projekt | Laufzeit: 2025, voraussichtlich 18 Jahre

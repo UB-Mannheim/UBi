@@ -17,6 +17,13 @@ Bitte wenden Sie sich für eine individuelle Auskunft oder Beratung an unsere Fa
 ### Dr. Rudolf Nink, M.A.
 
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
+- Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de
@@ -33,6 +40,13 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 ### Dr. Rudolf Nink, M.A.
 
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
+- Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de
@@ -49,6 +63,12 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 ### Xiuwen Ye, M.Sc.
 
 Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die FächerBetriebswirtschaftslehre,VolkswirtschaftslehreundPädagogik und Wirtschaftspädagogik
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 - Telefon: +49 621 181-3753
 - E-Mail: xiuwen.ye@uni-mannheim.de
@@ -65,6 +85,13 @@ Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädago
 ### Dr. Rudolf Nink, M.A.
 
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
+- Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de
@@ -81,6 +108,17 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 ### Viktor Boecking, M.A. (er/ihm)
 
 Leiter der Abteilung Kommunikation | Fachreferent für Geschichte
+
+Aufgaben:
+
+- Kommunikation und Öffentlichkeitsarbeit
+- Projektleitung Provenienzforschung
+- Ausstellungs- & Veranstaltungsmanagement
+- Betreuung der historischen Sammlungen
+- Betreuung Themenkomplex Fake Science
+- Informationskompetez & E-Learning
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
 - E-Mail: viktor.boecking@uni-mannheim.de
@@ -97,6 +135,13 @@ Leiter der Abteilung Kommunikation | Fachreferent für Geschichte
 ### Dr. Philipp Zumstein
 
 Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für Mathematik und (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Mathematik und Informatik
+- Fachliche Beratung bei Recherchefragen
+- Beratung bei Fragen zu Publizieren, Open Access und Forschungsunterstützung
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
 - E-Mail: philipp.zumstein@uni-mannheim.de
@@ -114,6 +159,13 @@ Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachref
 ### Dr. Philipp Zumstein
 
 Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für Mathematik und (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Mathematik und Informatik
+- Fachliche Beratung bei Recherchefragen
+- Beratung bei Fragen zu Publizieren, Open Access und Forschungsunterstützung
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
 - E-Mail: philipp.zumstein@uni-mannheim.de
@@ -131,6 +183,14 @@ Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachref
 ### Ellis Kolb (keine/they/sie)
 
 Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für das Fach Medien- und Kommunikationswissenschaft
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Education & Training im Projekt BERD@NFDI
+- Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
 - E-Mail: ellis.kolb@uni-mannheim.de
@@ -147,6 +207,12 @@ Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für B
 ### Xiuwen Ye, M.Sc.
 
 Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die FächerBetriebswirtschaftslehre,VolkswirtschaftslehreundPädagogik und Wirtschaftspädagogik
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 - Telefon: +49 621 181-3753
 - E-Mail: xiuwen.ye@uni-mannheim.de
@@ -163,6 +229,13 @@ Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädago
 ### Dr. Rudolf Nink, M.A.
 
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
+- Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de
@@ -179,6 +252,16 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 ### Dr. Hendrik Platte
 
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Team Literaturverwaltung, Beratung zu Zotero
+- Mitarbeit im Open Science Office
+- Mitarbeit im Team Publikationsservices und Forschungsunterstützung
+- Analysen im Bereich Bibliometrie
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
 - E-Mail: hendrik.platte@uni-mannheim.de
@@ -195,6 +278,16 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 ### Dr. Hendrik Platte
 
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Team Literaturverwaltung, Beratung zu Zotero
+- Mitarbeit im Open Science Office
+- Mitarbeit im Team Publikationsservices und Forschungsunterstützung
+- Analysen im Bereich Bibliometrie
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
 - E-Mail: hendrik.platte@uni-mannheim.de
@@ -211,6 +304,13 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 ### Dr. Marion von Francken-Welz
 
 Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Rechtswissenschaft
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für das Fach Rechtswissenschaft
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Unterstützung bei urheberrechtlichen Fragen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
 - Telefon: +49 621 181-3024
 - E-Mail: marion.francken-welz@uni-mannheim.de
@@ -227,6 +327,16 @@ Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für 
 ### Dr. Jorge Murcia Serra
 
 Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projekmitarbeiter AiDaLi
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für das Fach Romanistik
+- Auswahl und Erschließung von Sprachlernmaterialien
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Betreuung des Bereichs Informationskompetenz und E-Learning
+- Education & Training im ProjektBERD@NFDI
+- Mitarbeit im ProjektAiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
 - E-Mail: jorge.murcia@uni-mannheim.de
@@ -243,6 +353,16 @@ Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachle
 ### Dr. Hendrik Platte
 
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Team Literaturverwaltung, Beratung zu Zotero
+- Mitarbeit im Open Science Office
+- Mitarbeit im Team Publikationsservices und Forschungsunterstützung
+- Analysen im Bereich Bibliometrie
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
 - E-Mail: hendrik.platte@uni-mannheim.de
@@ -255,6 +375,16 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 ### Dr. Jorge Murcia Serra
 
 Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projekmitarbeiter AiDaLi
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für das Fach Romanistik
+- Auswahl und Erschließung von Sprachlernmaterialien
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Betreuung des Bereichs Informationskompetenz und E-Learning
+- Education & Training im ProjektBERD@NFDI
+- Mitarbeit im ProjektAiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
 - E-Mail: jorge.murcia@uni-mannheim.de
@@ -271,6 +401,13 @@ Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachle
 ### Dr. Rudolf Nink, M.A.
 
 Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
+- Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 - Telefon: +49 621 181-3053
 - E-Mail: rudolf.nink@uni-mannheim.de
@@ -287,6 +424,12 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 ### Xiuwen Ye, M.Sc.
 
 Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die FächerBetriebswirtschaftslehre,VolkswirtschaftslehreundPädagogik und Wirtschaftspädagogik
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 - Telefon: +49 621 181-3753
 - E-Mail: xiuwen.ye@uni-mannheim.de

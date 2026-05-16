@@ -3,38 +3,43 @@ title: Learning Center Schloss Schneckenhof – Arbeitsplätze, Kurse und Kontak
 source_url_de: https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/learning-center-schloss-schneckenhof/
 category: Standorte
-tags: ['Arbeitsplätze', 'Lernzentrum', 'Schreibberatung', 'Study Skills', 'Öffnungszeiten', 'Gruppenarbeit', 'Schloss Schneckenhof', 'Beratung']
+tags: ['Learning Center', 'Arbeitsplätze', 'Schreibberatung', 'Study Skills', 'Öffnungszeiten', 'Gruppenarbeit', 'Schloss Schneckenhof', 'Universitätsbibliothek']
 language: de
 ---
 
 # Learning Center Schloss Schneckenhof
 
-Das Learning Center Schloss Schneckenhof bietet im ersten Obergeschoss 180 unterschiedlich gestaltete Arbeitsplätze mit moderner technischer Ausstattung, die sich besonders für Gruppenarbeit eignen. Vom 4. Mai bis zum 15. Juni 2026 wird das Learning Center als Ruhearbeitsbereich ausgewiesen.
+Das Learning Center Schloss Schneckenhof bietet im ersten Obergeschoss 180 unterschiedlich gestaltete Arbeitsplätze mit moderner technischer Ausstattung, die sich besonders für Gruppenarbeit eignen. An den [PalMA-Team-Monitoren](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/) können Sie via WLAN kollaborativ arbeiten.
 
-Im Learning Center befindet sich jeweils ein Präsenzexemplar von jedem Buch, das in der Lehrbuchsammlung im Ausleihzentrum steht. An den [PalMA-Team-Monitoren](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/) können Sie via WLAN kollaborativ arbeiten.
+Im Learning Center befindet sich jeweils ein Präsenzexemplar von jedem Buch, das in der Lehrbuchsammlung im Ausleihzentrum steht.
 
 ## Kurse und Beratung
 
-Das Learning Center bietet regelmäßige Beratungs- und Schulungsangebote an.
+Das Learning Center bietet regelmäßige Beratungs- und Schulungsangebote.
 
 ### Kursreihe Study Skills
 
-In der Kursreihe Study Skills erhalten Sie nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben. Weitere Informationen und das aktuelle Programm finden Sie [hier](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/).
+In der Kursreihe Study Skills erhalten Sie nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben.
+Weitere Informationen und das aktuelle [Programm](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/).
 
 ### Schreibberatung
 
-Für Studierende, die an ihrer Bachelorarbeit oder Dissertation arbeiten und Unterstützung benötigen, bietet die Universitätsbibliothek eine [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/) an.
+Unterstützung beim Schreiben von Bachelorarbeiten oder Dissertationen bietet die [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/).
 
 ## Öffnungszeiten
 
-**Learning Center regulär**
+**Learning Center**
 
-- Montag bis Freitag: 8–23 Uhr
-- Samstag, Sonntag und Feiertage: 10–23 Uhr
+| Wochentag | Uhrzeit |
+|--------------------------|-------------|
+| Mo‒Fr | 8–23 Uhr |
+| Sa/So/Feiertage | 10–23 Uhr |
 
 **Erweiterte Öffnungszeiten vom 4. Mai bis einschließlich 14. Juni 2026**
 
-- Montag bis Sonntag und an Feiertagen: 8–24 Uhr
+| Zeitraum | Uhrzeit |
+|--------------------------|-------------|
+| Mo‒So und an Feiertagen | 8–24 Uhr |
 
 ## Kontakt
 

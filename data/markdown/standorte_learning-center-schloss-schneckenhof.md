@@ -7,7 +7,6 @@
 
 ## Für Gruppenarbeit finden Sie im ersten Obergeschoss 180 unterschiedlich gestaltete Arbeitsplätze mit moderner technischer Ausstattung.
 
-Vom**4. Mai bis zum 15. Juni 2026**wird das Learning Center zum**Ruhearbeitsbereich**.
 Im Learning Center befindet sich je ein Präsenzexemplar von jedem Buch, das in der Lehrbuchsammlung im Ausleihzentrum steht. An den [PalMA-Team-Monitoren](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/) können Sie via WLAN kollaborativ arbeiten.
 
 
