@@ -3,7 +3,8 @@ from typing import Optional
 
 import httpx
 
-VUFIND_BASE = "https://disco.bib.uni-mannheim.de/vufind"  # Adjust to your VuFind URL
+#VUFIND_BASE = "https://disco.bib.uni-mannheim.de/vufind"  # Adjust to your VuFind URL
+VUFIND_BASE = "https://1089442e-84fc-4d40-b319-673124c513fc.ma.bw-cloud-instance.org/vufind"
 
 
 async def search_catalog(query: dict | str, limit: int = 10) -> Optional[str]:
