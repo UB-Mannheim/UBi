@@ -16,10 +16,14 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from rich import print
 
-from config import CHUNK_OVERLAP, CHUNK_SIZE, DATA_DIR, PERSIST_DIR
+import config
 from prompts import BASE_SYSTEM_PROMPT
 from vectorstore_incremental import FileIndexManager
 
+CHUNK_OVERLAP = int(os.getenv("CHUNK_OVERLAP", config.CHUNK_OVERLAP))
+CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", config.CHUNK_SIZE))
+DATA_DIR = os.getenv("DATA_DIR", config.DATA_DIR)
+PERSIST_DIR = config.PERSIST_DIR
 
 def _parse_frontmatter(file: Path, content: str):
     """Extract YAML frontmatter and return (metadata, text_content).
@@ -76,10 +80,11 @@ def format_docs(docs):
 
 
 async def create_rag_chain(debug=False):
+    ollama_embedding_model = os.getenv("OLLAMA_EMBEDDING_MODEL")
     openai_api_key = os.getenv("OPENAI_API_KEY", "").strip()
     use_ollama = not openai_api_key or openai_api_key == "sk-"
 
-    if use_ollama:
+    if ollama_embedding_model:
         try:
             from langchain_ollama import ChatOllama, OllamaEmbeddings
         except ImportError as exc:
@@ -90,7 +95,6 @@ async def create_rag_chain(debug=False):
 
         ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
         ollama_chat_model = os.getenv("OLLAMA_CHAT_MODEL", "llama3.2")
-        ollama_embedding_model = os.getenv("OLLAMA_EMBEDDING_MODEL", "nomic-embed-text")
 
         embedding_model = OllamaEmbeddings(
             model=ollama_embedding_model,
@@ -130,7 +134,7 @@ async def create_rag_chain(debug=False):
             # Check if configuration changed (chunk size, overlap, model)
             if file_index.config_changed(
                 CHUNK_SIZE, CHUNK_OVERLAP,
-                ollama_embedding_model if use_ollama else "text-embedding-ada-002"
+                ollama_embedding_model if ollama_embedding_model else "text-embedding-ada-002"
             ):
                 if debug:
                     print("[yellow]⚠️  Configuration changed, full rebuild required[/yellow]")
@@ -253,7 +257,7 @@ async def create_rag_chain(debug=False):
         file_index.update_config(
             CHUNK_SIZE,
             CHUNK_OVERLAP,
-            ollama_embedding_model if use_ollama else "text-embedding-ada-002"
+            ollama_embedding_model if ollama_embedding_model else "text-embedding-ada-002"
         )
         file_index.save_index()
 
