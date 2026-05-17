@@ -36,8 +36,9 @@ async def route_and_augment_query(
     if quiet:
         set_quiet_mode(True)
 
-    # When no OpenAI key is configured, fall back to a local Ollama model
-    if not _openai_key_is_set() and client is None:
+    # When a Ollama router model is configured, then use this model.
+    ollama_router_model = os.getenv("OLLAMA_ROUTER_MODEL")
+    if ollama_router_model:
         try:
             from langchain_ollama import ChatOllama
         except ImportError as exc:
@@ -47,7 +48,6 @@ async def route_and_augment_query(
             ) from exc
 
         ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-        ollama_router_model = os.getenv("OLLAMA_ROUTER_MODEL", "llama3.2")
         ollama_client = ChatOllama(
             format="json",
             model=ollama_router_model,
