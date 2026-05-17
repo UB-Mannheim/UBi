@@ -19,9 +19,12 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from config import CHUNK_OVERLAP, CHUNK_SIZE, PERSIST_DIR
+import config
 from rag_local import create_rag_chain
 
+CHUNK_OVERLAP = int(os.getenv("CHUNK_OVERLAP", config.CHUNK_OVERLAP))
+CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", config.CHUNK_SIZE))
+PERSIST_DIR = config.PERSIST_DIR
 
 async def build_vectorstore(force_rebuild: bool = False, incremental: bool = True):
     """Build the vector database."""
