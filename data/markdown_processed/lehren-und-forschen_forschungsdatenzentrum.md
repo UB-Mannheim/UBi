@@ -13,13 +13,19 @@ Das Forschungsdatenzentrum (FDZ) ist die zentrale Anlaufstelle der Universitäts
 
 ## Neuigkeiten aus dem FDZ und zum Thema Forschungsdaten
 
-Aktuelle Informationen und Entwicklungen zum Forschungsdatenzentrum und Forschungsdatenmanagement werden regelmäßig bereitgestellt.
+Aktuelle Informationen und Entwicklungen zum Forschungsdatenmanagement werden regelmäßig bereitgestellt.
 
 ## Angebote des FDZ
 
 ### [Services des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/)
 
-Unsere Services rund ums Forschungsdatenmanagement: alles von FDM-Beratung, Datenmanagementplänen, OCR, Knowledge Graphs bis hin zu MADATA.
+Das FDZ bietet umfassende Services rund ums Forschungsdatenmanagement, darunter:
+
+- Beratung zum Forschungsdatenmanagement (FDM)
+- Unterstützung bei Datenmanagementplänen
+- OCR (Optical Character Recognition)
+- Knowledge Graphs
+- Nutzung von MADATA
 
 ### [Informationen zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/)
 
@@ -27,7 +33,7 @@ Weiterführende Informationen und Angebote zum Forschungsdatenmanagement.
 
 ### [Datenangebot des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/)
 
-Unsere selbst gehosteten Datenangebote sowie lizenzierte Daten.
+Überblick über selbst gehostete Datenangebote sowie lizenzierte Daten des FDZ.
 
 ### [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
 
@@ -35,29 +41,29 @@ Praktische Tipps zu Themen wie effizientes Forschungsdatenmanagement, Datenanaly
 
 ### [Projekte](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-projekte/)
 
-Überblick über Projekte, die das FDZ rund um Forschungsdaten unterstützt.
+Überblick über Projekte, die das FDZ im Bereich Forschungsdaten unterstützt.
 
 ### [German Internet Panel (GIP)](https://www.uni-mannheim.de/gip/)
 
-Eine Infrastruktur für Befragungen und langfristige Studie an der Universität Mannheim zur Untersuchung individueller Einstellungen und Präferenzen.
+Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine langfristige Studie an der Universität Mannheim zur Untersuchung individueller Einstellungen und Präferenzen.
 
 ## FDZ-Sprechstunde
 
 Jeden vierten Donnerstag im Monat von 14:00 bis 15:00 Uhr findet eine offene FDZ-Sprechstunde statt. Eine vorherige Anmeldung ist nicht erforderlich.
-Zoom-Zugang zur FDZ-Sprechstunde: [https://fdz.bib.uni-mannheim.de/sprechstunde](https://fdz.bib.uni-mannheim.de/sprechstunde)
-Meeting-ID: 634 4362 2069
-Kenncode: 884516
 
-## Das FDZ-Team – Kontakt
+- Zoom-Zugang: [https://fdz.bib.uni-mannheim.de/sprechstunde](https://fdz.bib.uni-mannheim.de/sprechstunde)
+- Meeting-ID: 634 4362 2069
+- Kenncode: 884516
 
-### Forschungsdatenzentrum (FDZ) – Zentrale Kontaktstelle
+## FDZ-Team und Kontakt
 
-- Team: Dr. Irene Schumm, Jan Kamlah, Dr. Phil Kolbe, Dr. David Philip Morgan, Thomas Schmidt, Dr. Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
-- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
+### Zentrale Kontaktadresse
+
 - E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
+- Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 
-### Teammitglieder und Aufgabenbereiche
+### Teammitglieder
 
 #### Dr. Irene Schumm
 
@@ -94,9 +100,11 @@ Kenncode: 884516
 #### Vasilka Paunova, LL.M.
 
 - Legal Counsel für BERD@NFDI und FDZ
+- Aufgaben: Unterstützung von Forschenden; rechtliche Fragestellungen im FDM-Bereich; Datenschutz, Urheberrecht, Lizenzrecht; BERD Datenschutzkonzept und Plattform Richtlinien
 - Adresse: Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
+- ORCID: [0000-0002-8961-509X](https://orcid.org/0000-0002-8961-509X)
 
 #### Thomas Schmidt, M.A.
 
@@ -118,7 +126,7 @@ Kenncode: 884516
 #### Christos Sidiropoulos, M.Ed.
 
 - Referent für Forschungsdatenmanagement (Data Literacy)
-- Aufgaben: Mitarbeit im Data-Literacy-Projekt MaDaLi²; Technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen; Beratung und Schulungen im Bereich Forschungsdatenmanagement
+- Aufgaben: Mitarbeit im Data-Literacy-Projekt MaDaLi²; technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen; Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
 - Telefon: +49 621 181-2962
 - E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)
@@ -131,3 +139,8 @@ Kenncode: 884516
 - Telefon: +49 621 181-2754
 - E-Mail: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
 - ORCID: [0009-0004-6220-8939](https://orcid.org/0009-0004-6220-8939)
+
+______________________________________________________________________
+
+**Team des FDZ:**
+Dr. Irene Schumm, Jan Kamlah, Dr. Phil Kolbe, Dr. David Philip Morgan, Thomas Schmidt, Dr. Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will

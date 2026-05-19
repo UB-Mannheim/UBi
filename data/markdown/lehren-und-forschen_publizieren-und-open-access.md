@@ -157,7 +157,7 @@ Einige MDPI-Zeitschriften wurden 2023 und 2024 aufgrund von Qualitätsproblemen 
 
 ### SAGE
 
-Der Publish and Read Vertrag mit dem Verlag SAGE bringt neben dem Zugriff auf SAGE-Zeitschriften aus dem Bereich Humanities and Social Sciences (HSS) Vergünstigungen beim Open-Access-Publizieren in allen SAGE-Zeitschriften. Davon können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim profitieren, wenn Sie bei einem Artikel folgende Voraussetzungen erfüllen:
+Der Publish and Read Vertrag mit dem Verlag SAGE bringt neben dem Zugriff auf SAGE-Zeitschriften aus dem Bereich Humanities and Social Sciences (HSS) Vergünstigungen beim Open-Access-Publizieren in Zeitschriften des Verlags. Davon können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim profitieren, wenn Sie bei einem Artikel folgende Voraussetzungen erfüllen:
 
 - Sie sind zum Zeitpunkt der Annahme mit der Universität Mannheim affiliiert.
 - Sie sind für den Artikel als „corresponding author“ zuständig.
@@ -169,7 +169,7 @@ Um diese Open Access Publikationsmöglichkeit zu nutzen, bestätigen Sie im [SAG
 Als Lizenz empfehlen wir die Creative Commons Attribution License (CC-BY), die mit den Anforderungen vieler Forschungsförderer konform ist.
 **Gold Open Access**
 In reinen Open Access Zeitschriften des Verlags SAGE erhalten Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim unter oben genannten Bedingungen 20 Prozent Rabatt auf die Publikationsgebühr (APC).
-[Liste der SAGE Gold Open Access Zeitschriften](https://uk.sagepub.com/en-gb/eur/pure-gold-open-access-journals-at-sage)
+[Liste der SAGE Gold Open Access Zeitschriften (XLSX, 45 kB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/Publizieren_und_Open_Access/Kopie_von_gold-discount-eligibility-list-2026---r-p-oa-sales-agreements.xlsx)
 Für die Publikation in reinen Open-Access-Zeitschriften können Sie zusätzlich eine Finanzierung aus dem [Open-Access-Publikationsfonds der Universität Mannheim](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) beantragen.
 
 
