@@ -54,7 +54,7 @@ E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer. Für alle Anliegen rund um diesen Standort stehen folgende Ansprechpartnerinnen zur Verfügung:
+Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim ist zentraler Anlaufpunkt für Nutzerinnen und Nutzer im Schloss Ehrenhof.
 
 #### Ansprechpartnerinnen
 
@@ -72,4 +72,4 @@ Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim bie
 - Telefon: +49 621 181-3020
 - E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
 
-Für allgemeine Anfragen zum Bibliotheksbereich Schloss Ehrenhof wenden Sie sich bitte an die oben genannten Ansprechpartnerinnen.
+Weitere Informationen finden Sie auf der [Webseite des Bibliotheksbereichs Schloss Ehrenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/).
