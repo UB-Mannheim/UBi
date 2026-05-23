@@ -5,10 +5,10 @@
 
 
 
-## Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik, EDZ, MZES
+## Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik, EDZ, ehemalige MZES-Bibliothek
 
 Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können hier ausleihen.
-[Europäisches Dokumentationszentrum (EDZ)](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/)[Bibliothek des Mannheimer Zentrums für Europäische Sozialforschung (MZES)](http://www.mzes.uni-mannheim.de/d7/de/pages/bibliothek)
+[Europäisches Dokumentationszentrum (EDZ)](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/)
 
 
 ## Öffnungszeiten
