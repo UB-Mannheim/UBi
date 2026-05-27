@@ -25,21 +25,9 @@ Beim Aufbau einer Nationalen Forschungsdateninfrastruktur (NFDI) wirkt das FDZ i
 
 
 
-### MARCIE (Data Literacy Training)
-
-Das FDZ unterstützt die Mannheim Research Group in Culture, Research and Entrepreneurship (MARCIE) durch die Erstellung eines Video-Tutorials zum Thema Cultural Data Literacy.
-
-
-
 ### TransforMA (KI, Data Literacy, OCR)
 
 Das FDZ ist am Projekt TransforMA im Teilprojekt 3 „Technologie“ beteiligt. In diesem Projektteil wird insbesondere die Expertise im Bereich KI und Forschungsdatenmanagement eingebracht. Durch die Erstellung von Datenbanken und Chatbots soll die Technologie- und Wissenssuche für die Hochschule Mannheim und die Universität Mannheim erleichtert und damit ein niedrigschwelliger Zugang zu vorhandenem Wissen und Technologien an beiden Hochschulen ermöglicht werden.
-
-
-
-### MaDaLi² (Data Literacy, e-Learning)
-
-Im Projekt „MaDaLi²“ unterstützt das FDZ die Entwicklung eines Data Literacy e-Learning Kurses für Studierende. Mit dem Kurs können Studierende in ihrem eigenen Tempo wichtige Grundlagen im Umgang mit Forschungsdaten erlernen und festigen. Zu diesen Grundlagen gehören die Fähigkeiten, Daten angemessen zu erkunden, zu verstehen und zu kommunizieren.
 
 
 
@@ -55,9 +43,9 @@ ENGAGE.EU ist eine Allianz führender europäischer Universitäten, die Bürger*
 
 
 
-### Finance and Business Research from a Long-Term Perspective
+### Finance and Business Research from a Long-Term Perspective (OCR)
 
-Das Projekt „Finance and Business Research from a Long-Term Perspective: Utilizing Historical German Financial Market and Corporate Data (GerHisFin)“ erschließt historische deutsche Finanzmarkt- und Unternehmensdaten seit dem 19. Jahrhundert und macht sie für die Forschung digital nutzbar. Ziel ist es, langfristige wirtschaftliche Entwicklungen besser zu verstehen. Die UB Mannheim und das FDZ tragen zur Digitalisierung und Texterkennung (OCR) historischer Quellen bei.
+Das Projekt „Finance and Business Research from a Long-Term Perspective: Utilizing Historical German Financial Market and Corporate Data (GerHisFin)“ erschließt historische deutsche Finanzmarkt- und Unternehmensdaten seit dem 19. Jahrhundert und macht sie für die Forschung digital nutzbar. Ziel ist es, langfristige wirtschaftliche Entwicklungen besser zu verstehen. Die UB Mannheim und das FDZ tragen zur Digitalisierung und Texterkennung (OCR) historischer Quellen bei. Mehr Informationen sind auf der [Projektseite](https://gerhisfin.de/).
 
 
 
@@ -68,6 +56,18 @@ Das Projekt „Finance and Business Research from a Long-Term Perspective: Utili
 ### Aktienführer-Datenarchiv (OCR, Datenstrukturierung)
 
 Zwischen 2013 und 2019 hat das FDZ im Rahmen von zwei DFG-Projekten das Aktienführer-Datenarchiv geschaffen. Hierzu wurden alle Aktienführer-Bände aus dem Hoppenstedt-Verlag digitalisiert, die Inhalte strukturiert erfasst und über eine Web-Oberfläche verfügbar gemacht.
+
+
+
+### MARCIE (Data Literacy Training)
+
+Das FDZ unterstützt die Mannheim Research Group in Culture, Research and Entrepreneurship (MARCIE) durch die Erstellung eines Video-Tutorials zum Thema Cultural Data Literacy.
+
+
+
+### MaDaLi² (Data Literacy, e-Learning)
+
+Im Projekt „MaDaLi²“ unterstützt das FDZ die Entwicklung eines Data Literacy e-Learning Kurses für Studierende. Mit dem Kurs können Studierende in ihrem eigenen Tempo wichtige Grundlagen im Umgang mit Forschungsdaten erlernen und festigen. Zu diesen Grundlagen gehören die Fähigkeiten, Daten angemessen zu erkunden, zu verstehen und zu kommunizieren.
 
 
 
