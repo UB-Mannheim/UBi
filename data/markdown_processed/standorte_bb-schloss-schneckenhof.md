@@ -48,30 +48,23 @@ E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich Schloss Schneckenhof ist Teil der Universitätsbibliothek Mannheim und befindet sich im Schloss Schneckenhof West.
+Der Bibliotheksbereich Schloss Schneckenhof der Universitätsbibliothek Mannheim befindet sich im Schloss Schneckenhof West, Raum SW 287, 68161 Mannheim.
 
-#### Ansprechpartner
+#### Ansprechpartnerinnen
 
-##### Teamleitung
+##### Beate Ulbrich
 
-**Beate Ulbrich**
-Teamleiterin Bibliotheksbereich Schloss Schneckenhof
-Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SW 287
-68161 Mannheim
-Telefon: +49 621 181-2972
-E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
+- Teamleiterin Bibliotheksbereich Schloss Schneckenhof
 
-**Elisabeth Wagner**
-Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof
-Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SW 287
-68161 Mannheim
-Telefon: +49 621 181-2835
-E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
+##### Elisabeth Wagner
 
-#### Kontakt
+- Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof
 
-Für allgemeine Anfragen zum Bibliotheksbereich Schloss Schneckenhof wenden Sie sich bitte an das Team per E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de) oder telefonisch unter +49 621 181-2972 bzw. +49 621 181-2835.
+**Kontakt für beide Ansprechpartnerinnen:**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim
+- Telefon Beate Ulbrich: +49 621 181-2972
+- Telefon Elisabeth Wagner: +49 621 181-2835
+- E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
 
 Weitere Informationen finden Sie auf der [Webseite des Bibliotheksbereichs Schloss Schneckenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/).

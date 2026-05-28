@@ -104,7 +104,7 @@ Aufgaben:
 
 ### Larissa Will, M.A.
 
-Projekmitarbeiterin TransforMA und AiDaLi
+Referentin für Wissenstransfer (OCR) und AI Literacy in den Projekten TransforMA und AiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2754
 - E-Mail: larissa.will@uni-mannheim.de

@@ -45,7 +45,13 @@ ENGAGE.EU ist eine Allianz führender europäischer Universitäten, die Bürger*
 
 ### Finance and Business Research from a Long-Term Perspective (OCR)
 
-Das Projekt „Finance and Business Research from a Long-Term Perspective: Utilizing Historical German Financial Market and Corporate Data (GerHisFin)“ erschließt historische deutsche Finanzmarkt- und Unternehmensdaten seit dem 19. Jahrhundert und macht sie für die Forschung digital nutzbar. Ziel ist es, langfristige wirtschaftliche Entwicklungen besser zu verstehen. Die UB Mannheim und das FDZ tragen zur Digitalisierung und Texterkennung (OCR) historischer Quellen bei. Mehr Informationen sind auf der [Projektseite](https://gerhisfin.de/).
+Das Projekt „Finance and Business Research from a Long-Term Perspective: Utilizing Historical German Financial Market and Corporate Data (GerHisFin)“ erschließt historische deutsche Finanzmarkt- und Unternehmensdaten seit dem 19. Jahrhundert und macht sie für die Forschung digital nutzbar. Ziel ist es, langfristige wirtschaftliche Entwicklungen besser zu verstehen. Die UB Mannheim und das FDZ tragen zur Digitalisierung und Texterkennung (OCR) historischer Quellen bei.
+
+
+
+### AiDaLi (Data Literacy, e-Learning)
+
+Das Projekt „AiDaLi“ zielt darauf ab, AI- und Data-Literacy stärker in die Hochschullehre zu integrieren, insbesondere durch die Entwicklung und curriculare Verankerung entsprechender Kompetenzen. Studierende erstellen dafür selbstständig praxisorientierte Open Educational Resources (z. B. Videos oder Podcasts) und reflektieren dabei den Einsatz generativer KI. Die Materialien werden offen veröffentlicht und sollen langfristig fachübergreifend in der Lehre nachgenutzt werden, während gleichzeitig innovative didaktische Ansätze erprobt werden. Das Projekt wird gefördert durch die Stiftung Innovation in der Hochschullehre.
 
 
 

@@ -1,15 +1,15 @@
 ---
-title: Ansprechpartner und Aufgaben des Forschungsdatenzentrums der Universitätsbibliothek Mannheim
+title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenmanagement', 'Open Science', 'Drittmittelprojekte', 'Data Science', 'Rechtsberatung', 'Data Steward', 'Projektkoordination', 'Universitätsbibliothek']
+tags: ['Forschungsdatenmanagement', 'Drittmittelprojekte', 'Open Science', 'Data Science', 'Rechtsberatung', 'Data Steward', 'Data Literacy', 'Universitätsbibliothek']
 language: de
 ---
 
 # Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und Support zu Forschungsdatenmanagement, Open Science, rechtlichen Fragestellungen und technischen Lösungen.
+Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und Support zu Forschungsdatenmanagement, Open Science, Data Science, rechtlichen Fragestellungen und technischen Entwicklungen.
 
 ## Ansprechpartner und Aufgabenbereiche
 
@@ -61,6 +61,7 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
+- ORCID: [0000-0002-8961-509X](https://orcid.org/0000-0002-8961-509X)
 
 ### Thomas Schmidt, M.A.
 
@@ -98,7 +99,7 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstüt
 
 ### Larissa Will, M.A.
 
-**Projektmitarbeiterin TransforMA und AiDaLi**
+**Referentin für Wissenstransfer (OCR) und AI Literacy in den Projekten TransforMA und AiDaLi**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2754

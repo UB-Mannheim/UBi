@@ -157,7 +157,7 @@ Einige MDPI-Zeitschriften wurden 2023 und 2024 aufgrund von Qualitätsproblemen 
 
 ### SAGE
 
-Der Publish and Read Vertrag mit dem Verlag SAGE bringt neben dem Zugriff auf SAGE-Zeitschriften aus dem Bereich Humanities and Social Sciences (HSS) Vergünstigungen beim Open-Access-Publizieren in Zeitschriften des Verlags. Davon können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim profitieren, wenn Sie bei einem Artikel folgende Voraussetzungen erfüllen:
+Der Publish and Read Vertrag mit SAGE bringt Vergünstigungen beim Open-Access-Publizieren in Zeitschriften des Verlags. Darüber hinaus ermöglicht er den Zugriff auf SAGE-Zeitschriften aus dem Bereich Humanities and Social Sciences (HSS). Davon können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim profitieren, wenn Sie bei einem Artikel folgende Voraussetzungen erfüllen:
 
 - Sie sind zum Zeitpunkt der Annahme mit der Universität Mannheim affiliiert.
 - Sie sind für den Artikel als „corresponding author“ zuständig.
