@@ -29,9 +29,14 @@ Informationen zur ecUM als Gasthörendenausweis finden Sie unter [Gasthörendens
 
 
 - Sobald Ihre Immatrikulation abgeschlossen ist, erstellen wir die ecUM und benachrichtigen Sie per E-Mail.
-- Wir senden Ihnen die neu erstellte ecUM per Post an die hinterlegte deutsche Postanschrift. Ab dem 5. September 2025 erfolgt die Zustellung nicht mehr postalisch. Bitte holen Sie Ihre ecUM ab dann persönlich [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/) ab.
+- Wir senden Ihnen die neu erstellte ecUM per Post an die hinterlegte deutsche Postanschrift.
+- Ab dem 29. August 2026 erfolgt die Zustellung nicht mehr postalisch. Bitte holen Sie Ihre ecUM dann persönlich ab:im Zeitraum 29. August bis 11. September am [Express-Schalter in L1,1 EG](https://www.uni-mannheim.de/studium/im-studium/erstsemester/ecum-ausgabe/).ab dem 14. September 2026 [am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/).
 - Gehören Sie zur Gruppe der Austauschstudierenden oder haben eine ausländische Adresse angegeben, dann können Sie Ihre ecUM [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/)) abholen, sobald Sie eine Benachrichtigung von uns erhalten haben.
 - Sobald Sie Ihre ecUM erhalten haben, müssen Sie diese einmalig aktivieren.
+
+
+- im Zeitraum 29. August bis 11. September am [Express-Schalter in L1,1 EG](https://www.uni-mannheim.de/studium/im-studium/erstsemester/ecum-ausgabe/).
+- ab dem 14. September 2026 [am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/).
 
 
 
