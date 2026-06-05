@@ -3,7 +3,6 @@
 
 # [Öffnungszeiten](https://www.bib.uni-mannheim.de/oeffnungszeiten/)
 
-An Fronleichnam,**4. Juni**, sind die Bibliotheksbereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof von**8 Uhr bis Mitternacht geöffnet**.
 
 
 ## Ausleihzentrum Schloss Westflügel
