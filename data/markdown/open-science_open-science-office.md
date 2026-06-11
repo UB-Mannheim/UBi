@@ -30,15 +30,13 @@ Do you have questions about how to deal with Open Science practices in your rese
 
 ## Open Science Grants
 
-The University of Mannheim is committed to the goals of transparent and inclusive research practices, open access to scientific results, and reproducibility of research. In the course of this, [university-wide Open Science Grants are offered](https://www.uni-mannheim.de/en/open-science/grants/).
+The University of Mannheim is committed to the goals of transparent and inclusive research practices, open access to scientific results, and reproducibility of research. In the course of this, university-wide Open Science Grants are offered.
 In annual funding rounds applications for small research projects and events related to Open Science are funded. The Open Science Office organises the calls, the review process, and the distribution of funds, as well as accomanying the project during its entire duration.
 
 
-### [Call for Applications](https://www.uni-mannheim.de/open-science/grants/)
+### Call for Applications
 
-Call for Applications
 Find out more about applying for Open Science Grants here.
-
 
 
 ### [Funded Projects](https://www.uni-mannheim.de/open-science/best-practices/)

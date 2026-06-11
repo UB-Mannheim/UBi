@@ -28,11 +28,9 @@ Improve the transparency of your research and pre-register your research!
 
 
 
-### [Open Science Grants](https://www.uni-mannheim.de/open-science/grants/)
+### Open Science Grants
 
-Open Science Grants
 The Open Science Office incentivises transparent and reproducible research practices through financial support with grants of up to EUR 6,500.
-
 
 
 ### [Open Educational Resources (OERs)](https://www.uni-mannheim.de/open-science/oer/)

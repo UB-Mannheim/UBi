@@ -37,7 +37,7 @@ Publikationen von statistischen Ämtern und internationalen Organisationen:
 - [Eurostat](https://dbis.ur.de/UBMAN/resources/3364)
 - [OECD](https://dbis.ur.de/UBMAN/resources/9621)
 - [IEA](https://dbis.ur.de/UBMAN/resources/10139), [Terms of Use  (PDF, 178 kB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Sonstiges/IEA_Terms_of_Use_-_Universities.pdf)
-- [Weltbank](https://dbis.ur.de/UBMAN/resources/10211)
+- [World Bank](https://dbis.ur.de/UBMAN/resources/9969)
 - [Internationaler Währungsfonds](https://dbis.ur.de/UBMAN/resources/11303)
 
 **Weitere Datenbanken**
@@ -93,7 +93,7 @@ An der Universität Mannheim steht [MADATA](https://madata.bib.uni-mannheim.de/)
 
 ### Literaturstandorte
 
-Im [Bibliotheksbereich Schloss Schneckenhof – Süd](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/) finden Sie Literatur zum Fach Betriebswirtschaftslehre, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
+Im [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/) finden Sie Literatur zum Fach Betriebswirtschaftslehre, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
 Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Betriebswirtschaftslehre, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können.
 In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe zur Verfügung.
 Die an der UB vorhandene Literatur können Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchieren.
@@ -111,9 +111,9 @@ Die wichtigsten BWL-Institutionen in Mannheim sind:
 
 ### Journal Ranking
 
-Das [JOURQUAL3](https://vhbonline.org/vhb4you/vhb-jourqual/vhb-jourqual-3) Zeitschriften-Ranking spielt für die deutsche BWL eine große Rolle, es basiert auf einer Umfrage unter über 1.100 Mitgliedern des Verbands der Hochschullehrer für Betriebswirtschaft (VHB).
-International viel beachtet sind die Rankings in den [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359) mit den jährlich neu berechneten „Impact Factors“. Diese im „Web of Science“ öffnen und die relevanten Kategorien zu Business, Finance oder Management auswählen.
-Ein umfassendes Ranking von Personen und Fachbereichen steht mit dem [Handelsblatt-BWL-Ranking](https://www.forschungsmonitoring.org/ranking/bwl/authors) zur Verfügung. Diese Bewertung basiert unter anderem auf der Publikationstätigkeit in Zeitschriften, die anhand des [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR) aus der Scopus-Datenbank gewichtet wird. Im [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) werden zum Beispiel die Anzahl der Zitationen und das Prestige der zitierenden Zeitschrift berücksichtigt.
+Das [VHB Rating 2024](https://www.vhbonline.org/services/vhb-rating-2024) bietet einen Qualitätsrahmen für Publikationsmedien der Betriebswirtschaftslehre im deutschsprachigen Raum. Es umfasst die Teilratings der 18 Wissenschaftlichen Kommissionen des VHB, die wissenschaftliche Qualität und weitere Kriterien aus ihrer Sicht bewerten.
+International viel beachtet sind die Rankings in den [Journal Citation Reports](https://dbis.ur.de/UBMAN/resources/359) mit den jährlich neu berechneten „Impact Factors“. Diese im „Web of Science“ öffnen und die relevanten Kategorien zu Business, Finance oder Management auswählen.
+Ein umfassendes Ranking von Personen und Fachbereichen steht mit dem [Handelsblatt-BWL-Ranking](https://www.forschungsmonitoring.org/ranking/bwl/authors) zur Verfügung. Diese Bewertung basiert unter anderem auf der Publikationstätigkeit in Zeitschriften, die anhand des [SCImago Journal Ranking](https://dbis.ur.de/UBMAN/resources/7817) (SJR) aus der Scopus-Datenbank gewichtet wird. Im [SCImago Journal Ranking](https://dbis.ur.de/UBMAN/resources/7817) werden zum Beispiel die Anzahl der Zitationen und das Prestige der zitierenden Zeitschrift berücksichtigt.
 
 
 ## Kurse und Tutorials
@@ -135,7 +135,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 - [„Wissenschaftliches Arbeiten für Wirtschafts- und Sozialwissenschaftler“ von Ebster/Stalzer](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21180930700002561)
 - [„Wissenschaftliches Arbeiten und Schreiben“ von Marcus Oehlrich](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21128389730002561)
 - [„Wissenschaftliches Arbeiten“ von Manuel René Theisen](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21185801500002561)
-- [„Erfolgreich recherchieren – Wirtschaftswissenschaften“ von Pianos/Krüger](https://primo.bib.uni-mannheim.de/permalink/f/17313ps/MAN_GRUYTER9783110301007)
+- [„Erfolgreich recherchieren – Wirtschaftswissenschaften“ von Pianos/Krüger](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21128074590002561)
 - [„Wissenschaftliches Arbeiten für Wirtschaftswissenschaftler“ von Daniela Weber](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21100619050002561)
 - [„Wissenschaftliches Arbeiten im Wirtschaftsstudium“ von Gleitsmann/Suthaus](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21135912480002561)
 

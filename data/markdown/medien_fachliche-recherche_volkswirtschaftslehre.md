@@ -43,7 +43,7 @@ Allgemeines zu volkswirtschaftlichen Daten, statistischen Informationen und Län
 - [Eurostat](https://dbis.ur.de/UBMAN/resources/3364)
 - [OECD](https://dbis.ur.de/UBMAN/resources/9621)
 - [IEA](https://dbis.ur.de/UBMAN/resources/10139), [Terms of Use (PDF)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Sonstiges/IEA_Terms_of_Use_-_Universities.pdf)
-- [Weltbank](https://dbis.ur.de/UBMAN/resources/10211)
+- [World Bank](https://dbis.ur.de/UBMAN/resources/9969)
 - [Internationaler Währungsfonds](https://dbis.ur.de/UBMAN/resources/11303)
 
 **Weitere Datenbanken**
@@ -83,7 +83,7 @@ An der Universität Mannheim steht [MADATA](https://madata.bib.uni-mannheim.de/)
 ### Fachliche Internetquelle
 
 **Wirtschaftswissenschaftliche Fachportale**
-[EconBiz](https://www.econbiz.de/) – Recherche- und Fachportal des ZBW[RePEc](http://www.repec.org/) – Research Papers in Economics[SSRN](https://www.ssrn.com/index.cfm/en/) – Social Science Research Network[RFE](https://www.aeaweb.org/rfe/) – Resources for Economists on the Internet[INOMICS](https://inomics.com/) – the Site for Economists
+[EconBiz](https://www.econbiz.de/) – Recherche- und Fachportal des ZBW[RePEc](http://www.repec.org/) – Research Papers in Economics[SSRN](https://www.ssrn.com/index.cfm/en/) – Social Science Research Network[RFE](https://www.aeaweb.org/rfe/) – Resources for Economists (AEA) [INOMICS](https://inomics.com/) – the Site for Economists
 **Überblick über Forschungseinrichtungen**
 [Economics Departments, Institutes and Research Centers in the World (EDIRC)](https://edirc.repec.org/)
 **Internetquellen zur fachlichen Recherche**
@@ -106,8 +106,8 @@ Die an der UB vorhandene Literatur können Sie im [Katalog Primo](https://primo.
 
 ### Journal Ranking
 
-International viel beachtet sind die Rankings in den [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359) mit den jährlich neu berechneten „Impact Factors“. Hinweis: Das oder die gesuchten Fächer, zum Beispiel Economics, über den Punkt „Select Categories“ auf der linken Seite auswählen.
-Ein umfassendes Ranking von Personen und Fachbereichen steht mit dem [Handelsblatt-Ranking](https://www.forschungsmonitoring.org/ranking/vwl/authors) zur Verfügung. Diese Bewertung basiert unter anderem auf der Publikationstätigkeit in Zeitschriften, die anhand des [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR) aus der Scopus-Datenbank gewichtet wird. Im [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) werden zum Beispiel die Anzahl der Zitationen und das Prestige der zitierenden Zeitschrift berücksichtigt.
+International viel beachtet sind die Rankings in den [Journal Citation Reports](https://dbis.ur.de/UBMAN/resources/359) mit den jährlich neu berechneten „Impact Factors“. Hinweis: Das oder die gesuchten Fächer, zum Beispiel Economics, über den Punkt „Select Categories“ auf der linken Seite auswählen.
+Ein umfassendes Ranking von Personen und Fachbereichen steht mit dem [Handelsblatt-Ranking](https://www.forschungsmonitoring.org/ranking/vwl/authors) zur Verfügung. Diese Bewertung basiert unter anderem auf der Publikationstätigkeit in Zeitschriften, die anhand des [SCImago Journal Ranking](https://dbis.ur.de/UBMAN/resources/7817) (SJR) aus der Scopus-Datenbank gewichtet wird. Im [SCImago Journal Ranking](https://dbis.ur.de/UBMAN/resources/7817) werden zum Beispiel die Anzahl der Zitationen und das Prestige der zitierenden Zeitschrift berücksichtigt.
 
 
 ## Kurse und Tutorials
@@ -115,7 +115,6 @@ Ein umfassendes Ranking von Personen und Fachbereichen steht mit dem [Handelsbla
 Die UB bietet regelmäßig Schulungen zur Recherche im Fach Volkswirtschaftslehre an. Unsere Tutorials können Sie jederzeit online absolvieren. Gerne beraten wir Sie auch individuell.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
-- [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
 **Kurse für das Fach Volkswirtschaftslehre**
