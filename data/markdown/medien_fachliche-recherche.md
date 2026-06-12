@@ -326,7 +326,7 @@ Aufgaben:
 
 ### Dr. Jorge Murcia Serra
 
-Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projekmitarbeiter AiDaLi
+Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projektmitarbeiter AiDaLi
 
 Aufgaben:
 
@@ -374,7 +374,7 @@ Aufgaben:
 
 ### Dr. Jorge Murcia Serra
 
-Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projekmitarbeiter AiDaLi
+Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projektmitarbeiter AiDaLi
 
 Aufgaben:
 

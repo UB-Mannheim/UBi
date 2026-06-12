@@ -3,13 +3,13 @@ title: Fachliche Recherche und Services der UB Mannheim für Romanistik
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/romance-studies/
 category: Medien
-tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Journals', 'E-Books', 'Informationskompetenz', 'Schulungen', 'Kontakt']
+tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Books', 'E-Journals', 'Informationskompetenz', 'Schulungen', 'Literaturstandorte']
 language: de
 ---
 
 # Romanistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für Unterstützung bei der Recherche oder beim wissenschaftlichen Arbeiten stehen verschiedene Kurse und individuelle Beratung zur Verfügung.
+Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für Unterstützung bei der Recherche oder beim wissenschaftlichen Arbeiten stehen individuelle Beratung und regelmäßige Kurse zur Verfügung.
 
 ## Recherchieren
 
@@ -72,7 +72,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreich
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist ebenfalls möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)

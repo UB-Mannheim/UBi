@@ -23,4 +23,4 @@ Vor diesem Hintergrund sieht die Universität Mannheim in Open Access ein sehr w
 Diese Open Access Policy beeinträchtigt nicht die freie Wahl des Publikationsweges für die Wissenschaftlerinnen und Wissenschaftler der Universität. Sie stellt eine Empfehlung, aber keine Verpflichtung dar. Die Freiheit der Wissenschaft umfasst auch die freie Wahl des Publikationsweges. Wenn sich die Autorinnen und Autoren für eine zugangsbeschränkte Publikation entscheiden, empfiehlt die Universität ihnen, sich ein einfaches Recht zur elektronischen Publikation bzw. Archivierung zur entgeltfreien Nutzung vorzubehalten und von ihrem Zweitveröffentlichungsrecht Gebrauch zu machen. Die Universitätsbibliothek Mannheim bietet dazu Beratung und Unterstützung an.
 gez. Prof. Dr. Ernst-Ludwig von Thadden – Rektor05. Dezember 2017
 Weitere Informationen zum [Publizieren und Open Access](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/) der UB Mannheim
-Weitere Informationen zum [Publizieren](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/) der Universität Mannheim
+Weitere Informationen zum Publizieren der Universität Mannheim

@@ -1,5 +1,5 @@
 ---
-title: BERD@NFDI – Ansprechpartner und Aufgaben an der Universitätsbibliothek Mannheim
+title: Ansprechpartner und Aufgabenbereiche des BERD@NFDI-Teams an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/berdnfdi/
 category: Kontakt
@@ -7,11 +7,11 @@ tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Projektmanagem
 language: de
 ---
 
-# BERD@NFDI – Ansprechpartner und Aufgaben
+# BERD@NFDI – Ansprechpartner und Aufgabenbereiche
 
-Die Universitätsbibliothek Mannheim ist mit dem Projekt BERD@NFDI (Business, Economic and Related Data – Nationale Forschungsdateninfrastruktur) aktiv an der Entwicklung und Umsetzung von Forschungsdatenmanagement, Data Science und rechtlichen Fragestellungen beteiligt. Im Folgenden finden Sie die zentralen Ansprechpartner\*innen, deren Aufgabenbereiche und Kontaktdaten.
+Das Team BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in den Bereichen Forschungsdatenmanagement, Data Science, Künstliche Intelligenz, Rechtsfragen, Informationskompetenz, E-Learning und Publikationsdienste. Nachfolgend finden Sie die zentralen Ansprechpartner\*innen, ihre Aufgaben und Kontaktdaten.
 
-## Ansprechpartner\*innen und Aufgabenbereiche
+## Teammitglieder und Aufgaben
 
 ### Dr. Ulrich Krieger
 
@@ -36,9 +36,9 @@ Die Universitätsbibliothek Mannheim ist mit dem Projekt BERD@NFDI (Business, Ec
 **Lead Data Scientist | Projektleiter**
 
 - Strategische Weiterentwicklung des technischen Forschungsdatenmanagements
-- Beratung von Wissenschaftler\*innen zu Forschungsdatenmanagement, Data Science und KI-Tools
+- Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools
 - Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI
-- Vertretung der UB in Gremien
+- Vertretung der Universitätsbibliothek in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
 - E-Mail: [renat.shigapov@uni-mannheim.de](mailto:renat.shigapov@uni-mannheim.de)
@@ -48,13 +48,13 @@ Die Universitätsbibliothek Mannheim ist mit dem Projekt BERD@NFDI (Business, Ec
 
 **Legal Counsel für BERD@NFDI und FDZ**
 
-- Unterstützung von Forschenden
-- Rechtliche Fragestellungen im FDM Bereich
-- Themengebiete: Datenschutz, Urheberrecht und Lizenzrecht
-- BERD Datenschutzkonzept und Plattform Richtlinien
+- Unterstützung von Forschenden bei rechtlichen Fragestellungen im Forschungsdatenmanagement
+- Themen: Datenschutz, Urheberrecht, Lizenzrecht
+- Entwicklung des BERD-Datenschutzkonzepts und der Plattform-Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
+- ORCID: [0000-0002-8961-509X](https://orcid.org/0000-0002-8961-509X)
 
 ### Dr. Jorge Murcia Serra
 
@@ -71,6 +71,14 @@ Die Universitätsbibliothek Mannheim ist mit dem Projekt BERD@NFDI (Business, Ec
 - Telefon: +49 621 181-2997
 - E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
 
+### Jan Kamlah
+
+**Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Telefon: +49 621 181-2777
+- E-Mail: [jan.kamlah@uni-mannheim.de](mailto:jan.kamlah@uni-mannheim.de)
+
 ### Ellis Kolb (keine/they/sie)
 
 **Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung**
@@ -83,14 +91,6 @@ Die Universitätsbibliothek Mannheim ist mit dem Projekt BERD@NFDI (Business, Ec
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
 - E-Mail: [ellis.kolb@uni-mannheim.de](mailto:ellis.kolb@uni-mannheim.de)
-
-### Jan Kamlah
-
-**Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
-- Telefon: +49 621 181-2777
-- E-Mail: [jan.kamlah@uni-mannheim.de](mailto:jan.kamlah@uni-mannheim.de)
 
 ### Thomas Schmidt, M.A.
 

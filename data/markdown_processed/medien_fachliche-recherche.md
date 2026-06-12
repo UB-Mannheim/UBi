@@ -1,9 +1,9 @@
 ---
-title: Fachliche Recherche – Fachreferent:innen und Beratung an der Universitätsbibliothek Mannheim
+title: Fachliche Recherche – Fachreferent:innen und Beratung für alle Fachbereiche der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/
 category: Services
-tags: ['Fachreferenten', 'Fachberatung', 'Recherche', 'Literaturauswahl', 'Schulungen', 'Datenbanken', 'Universitätsbibliothek', 'Fachgebiete']
+tags: ['Fachreferenten', 'Fachberatung', 'Recherche', 'Literaturauswahl', 'Schulungen', 'Datenbanken', 'Universitätsbibliothek', 'Fachbereiche']
 language: de
 ---
 
@@ -11,7 +11,7 @@ language: de
 
 Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken, weitere Sucheinstiege sowie fachspezifische Recherchekurse. Für individuelle Auskünfte oder Beratungen stehen Ihnen unsere Fachreferentinnen und Fachreferenten zur Verfügung.
 
-## Übersicht der Fachreferent:innen und Fachgebiete
+## Fachreferent:innen und ihre Zuständigkeiten
 
 ### Dr. Rudolf Nink, M.A.
 
@@ -67,13 +67,9 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 
 **Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung**
 
-**Fachreferent:in für:**
-
-- Medien- und Kommunikationswissenschaft
-
 **Aufgaben:**
 
-- Literaturauswahl und -erschließung für das Fach Medien- und Kommunikationswissenschaft
+- Literaturauswahl und -erschließung für Medien- und Kommunikationswissenschaft
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 - Education & Training im Projekt BERD@NFDI
@@ -89,13 +85,9 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 
 **Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Rechtswissenschaft**
 
-**Fachreferentin für:**
-
-- Rechtswissenschaft
-
 **Aufgaben:**
 
-- Literaturauswahl und -erschließung für das Fach Rechtswissenschaft
+- Literaturauswahl und -erschließung für Rechtswissenschaft
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 - Unterstützung bei urheberrechtlichen Fragen
@@ -106,25 +98,21 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 - Telefon: +49 621 181-3024
 - E-Mail: [marion.francken-welz@uni-mannheim.de](mailto:marion.francken-welz@uni-mannheim.de)
 
-## Weitere Informationen
+## Fachbereiche und Rechercheangebote
 
-Für jedes Fachgebiet finden Sie weiterführende Informationen, Datenbanken und Recherchetipps auf den jeweiligen Fachseiten der Universitätsbibliothek Mannheim:
+Für folgende Fachbereiche stehen Ihnen die genannten Fachreferent:innen zur Verfügung:
 
-- [Anglistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/)
-- [Betriebswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/)
-- [Germanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/germanistik/)
-- [Geschichte](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/geschichte/)
-- [Informatik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/mathematik-und-informatik/)
-- [Mathematik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/mathematik-und-informatik/)
-- [Medien- und Kommunikationswissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/medien-und-kommunikationswissenschaft/)
-- [Pädagogik und Wirtschaftspädagogik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/paedagogik-und-wirtschaftspaedagogik/)
-- [Philosophie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/philosophie/)
-- [Politikwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/politikwissenschaft/)
-- [Psychologie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/psychologie/)
-- [Rechtswissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/rechtswissenschaft/)
-- [Romanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/)
-- [Soziologie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/soziologie/)
-- [Allgemeine Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/)
-- [Volkswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/volkswirtschaftslehre/)
+- Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie (Dr. Rudolf Nink)
+- Betriebswirtschaftslehre, Volkswirtschaftslehre, Pädagogik und Wirtschaftspädagogik (Xiuwen Ye)
+- Geschichte (Viktor Boecking)
+- Mathematik, Informatik (Dr. Philipp Zumstein)
+- Medien- und Kommunikationswissenschaft (Ellis Kolb)
+- Politikwissenschaft, Soziologie, Psychologie (Dr. Hendrik Platte)
+- Rechtswissenschaft (Dr. Marion von Francken-Welz)
+- Romanistik, Sprachlernmaterialien (Dr. Jorge Murcia Serra)
 
-Für individuelle Beratung wenden Sie sich bitte direkt an die zuständigen Fachreferent:innen.
+Weitere Informationen und fachspezifische Rechercheeinstiege finden Sie auf den jeweiligen Fachseiten der Universitätsbibliothek Mannheim.
+
+______________________________________________________________________
+
+**Hinweis:** Für individuelle Auskünfte oder Beratungen wenden Sie sich bitte direkt an die zuständigen Fachreferent:innen.
