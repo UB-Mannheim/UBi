@@ -368,6 +368,13 @@ async def handle_sitzplatz_route(
         data = get_occupancy_data()
         areas = data["areas"]
 
+        # Remove selected areas from plotting (i.e. if closed)
+        # Set environment variable DISABLED_AREAS to a comma-separated list of
+        # area identifiers
+        disabled_areas = os.getenv('DISABLED_AREAS', '').split(',')
+        for area in disabled_areas:
+            areas.pop(area, '')
+
         # Plot title and labels
         heading = translate("seats_last_updated", detected_language)
         response = f"{heading}: {data['lastupdated']}"
