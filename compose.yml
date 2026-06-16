@@ -17,5 +17,4 @@ services:
       - CHAT_MODEL=${CHAT_MODEL}
       - DELETE_BACKUPS_AFTER=${DELETE_BACKUPS_AFTER}
       - QUIET_MODE=${QUIET_MODE}
-      - DISABLED_AREAS=${DISABLED_AREAS}
     restart: unless-stopped
