@@ -3,13 +3,13 @@ title: Fachliche Recherche und Ressourcen für Allgemeine Sprach- und Literaturw
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/general-linguistics-and-literary-studies/
 category: Medien
-tags: ['Allgemeine Sprachwissenschaft', 'Literaturwissenschaft', 'Fachinformation', 'Datenbanken', 'E-Books', 'Digital Humanities', 'Kurse', 'Kontakt']
+tags: ['Allgemeine Sprachwissenschaft', 'Literaturwissenschaft', 'Fachrecherche', 'Datenbanken', 'E-Books', 'Digital Humanities', 'Kurse', 'Kontakt']
 language: de
 ---
 
 # Allgemeine Sprach- und Literaturwissenschaft an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet umfassende Literatur, Datenbanken und Recherchezugänge für die Allgemeine Sprach- und Literaturwissenschaft. Für individuelle Beratung oder Tipps zum wissenschaftlichen Arbeiten stehen Ihnen verschiedene Kurse und persönliche Beratung zur Verfügung.
+Die Universitätsbibliothek Mannheim bietet umfassende Literatur, Datenbanken und Recherchezugänge für die Allgemeine Sprach- und Literaturwissenschaft. Für individuelle Beratung oder Tipps zum wissenschaftlichen Arbeiten stehen Ihnen unsere Kurse und persönliche Beratung zur Verfügung.
 
 ## Recherchemöglichkeiten
 
@@ -22,12 +22,12 @@ Die Universitätsbibliothek Mannheim bietet umfassende Literatur, Datenbanken un
 
 ### E-Journals
 
-- Elektronische Zeitschriften für das Fach finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=G) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+- [Elektronische Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=G)
+- [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
 
 ### E-Books
 
-- Breites Angebot an E-Books für alle Fachgebiete, recherchierbar im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB), zugänglich im Netz der Universität Mannheim.
-- Weitere Informationen: [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließlich der Allgemeinen Sprach- und Literaturwissenschaft. Zugriff erfolgt über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) aus dem Netz der Universität Mannheim. Weitere Informationen: [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -47,11 +47,11 @@ Die Universitätsbibliothek Mannheim bietet umfassende Literatur, Datenbanken un
 - [Springer eBooks: Literature, Cultural & Media Studies](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Springer%20eBooks%20Literature,%20Cultural%20%26%20Media%20Studies&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0)
 - [Transcript](https://www.transcript-verlag.de/open-access/?f=12320&p=1)
 
-## Fachliche Internetquellen
+### Fachliche Internetquellen
 
-### Blogs
+#### Blogs
 
-**Linguistik:**
+**Linguistik**
 
 - [About Words](https://dictionaryblog.cambridge.org/)
 - [All Things Linguistic](https://allthingslinguistic.com/)
@@ -61,26 +61,26 @@ Die Universitätsbibliothek Mannheim bietet umfassende Literatur, Datenbanken un
 - [Language Log](https://languagelog.ldc.upenn.edu/nll/)
 - [Studentischer Blog Sprachwissenschaft](https://blog.junge-sprachwissenschaft.de/)
 
-**Literatur:**
+**Literatur**
 
 - [Kaffeehaussitzer](https://kaffeehaussitzer.de/)
 - [SWR Bestenliste](https://www.swr.de/swr2/literatur/bestenliste/index.html)
 
-### Digital Humanities
+#### Digital Humanities
 
 - [Clarin-D](http://clarin-d.de/)
 - [DARIAH-DE](http://de.dariah.eu/)
 - [TAPoR](http://tapor.ca)
 - [Textgrid](http://www.textgrid.de/)
 
-### KI-Ressourcen
+#### KI-Ressourcen
 
 - [Literaturrecherche](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textverstehen](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textproduktion](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textbearbeitung / -korrektur](https://www.vkkiwa.de/ki-ressourcen/)
 
-### Podcasts
+#### Podcasts
 
 - [Lingthusiasm](https://lingthusiasm.com/)
 - [literaturundfeuilleton](https://literaturundfeuilleton.wordpress.com/category/podcast/)
@@ -92,11 +92,11 @@ Die Universitätsbibliothek Mannheim bietet umfassende Literatur, Datenbanken un
 
 ## Literaturstandorte
 
-- Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zur Allgemeinen Sprach- und Literaturwissenschaft, frei zugänglich und thematisch aufgestellt. Ausleihen sind nur für wissenschaftliches Personal möglich.
+- Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zur Allgemeinen Sprach- und Literaturwissenschaft, die vor Ort genutzt werden kann. Die Medien sind frei zugänglich und thematisch aufgestellt. Ausleihen sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
 - Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- Die [Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bietet wichtige Lehrbücher in vielen Exemplaren für Studierende.
+- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe für Studierende der Universität Mannheim und kooperierender Einrichtungen bereit.
 - Die an der UB vorhandene Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
-- Das [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/) in Mannheim verfügt über einen herausragenden Bestand zur Linguistik. Recherche im [OPAC der Bibliothek des IDS](https://ids-mannheim.bsz-bw.de/).
+- Das [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/) in Mannheim bietet einen herausragenden Bestand zur Linguistik. Recherche im [OPAC der Bibliothek des IDS](https://ids-mannheim.bsz-bw.de/).
 
 ## Forschungseinrichtungen vor Ort
 
@@ -124,17 +124,15 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
-Vertretung für Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
+Fachreferent für Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+Aufgaben:
 
-**Aufgaben:**
-
-- Literaturauswahl und -erschließung für die genannten Fächer
+- Literaturauswahl und -erschließung für Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+- Vertretung für Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 
-**Kontakt:**
-Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
+Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
 Telefon: +49 621 181-3053
 E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
 Vertretung: [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)

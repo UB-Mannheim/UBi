@@ -7,9 +7,9 @@ tags: ['Anglistik', 'Amerikanistik', 'Fachinformation', 'Datenbanken', 'E-Books'
 language: de
 ---
 
-# Anglistik und Amerikanistik: Fachliche Recherche und Services
+# Anglistik und Amerikanistik – Fachliche Recherche und Services
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Anglistik/Amerikanistik umfassende Literatur, Datenbanken und Rechercheeinstiege. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die wissenschaftliche Arbeit zu unterstützen.
+Die Universitätsbibliothek Mannheim bietet für das Fach Anglistik/Amerikanistik umfassende Literatur, Datenbanken und Rechercheeinstiege. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zum wissenschaftlichen Arbeiten zur Verfügung.
 
 ## Recherchieren
 
@@ -18,13 +18,26 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Anglistik/Amerikanisti
 - [Datenbanken zur Anglistik](https://dbis.ur.de/UBMAN/browse/subjects/5/?availability-filter-free=on&availability-filter-local=on) und weitere Fachgebiete im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/)
 - [Fachinformationsdienst Allgemeine und Vergleichende Literaturwissenschaft (FID AVL)](https://www.avldigital.de/de/recherchieren/)
 - [Fachinformationsdienst Linguistik](https://www.linguistik.de/de/)
-- Ergänzende Datenbanken zu [Allgemeines](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=2), [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=3), [Medien- und Kommunikationswissenschaften](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=22), [Pädagogik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=26)
-- Direktzugriff: [Canadian Literary Centre](https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s1116941&groupid=main&profile=ehost&defaultdb=cjh), [JSTOR](https://www.jstor.org/), [Literature Online (LION)](https://www.proquest.com/lion/advanced), [MLA](https://dbis.ur.de/UBMAN/resources/76)
+- Ergänzende Datenbanken:
+  - [Allgemeines](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=2)
+  - [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=3)
+  - [Medien- und Kommunikationswissenschaften](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=22)
+  - [Pädagogik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=26)
+- Direktzugriff:
+  - [Canadian Literary Centre](https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s1116941&groupid=main&profile=ehost&defaultdb=cjh)
+  - [JSTOR](https://www.jstor.org/)
+  - [Literature Online (LION)](https://www.proquest.com/lion/advanced)
+  - [MLA](https://dbis.ur.de/UBMAN/resources/76)
 
 ### E-Journals
 
 - E-Journals für Anglistik in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=H) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
-- Ergänzende Zeitschriften zu [Allgemeines](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AZ), [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=E), [Bildungsgeschichte](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=DD), [Medien- und Kommunikationswissenschaften](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AP), [Pädagogik](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=D)
+- Ergänzende elektronische Zeitschriften:
+  - [Allgemeines](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AZ)
+  - [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=E)
+  - [Bildungsgeschichte](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=DD)
+  - [Medien- und Kommunikationswissenschaften](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AP)
+  - [Pädagogik](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=D)
 
 ### E-Books
 
@@ -61,64 +74,18 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Anglistik/Amerikanisti
 
 ### Fachliche Internetquellen
 
-**Canadian Studies**
-
-- [CanLit Guides](https://canlitguides.ca/)
-
-**Digital Humanities**
-
-- [Clarin-D](http://clarin-d.de/)
-- [DARIAH-DE](http://de.dariah.eu/)
-- [TAPoR](http://tapor.ca)
-- [Textgrid](http://www.textgrid.de/)
-
-**Irish Studies**
-
-- [Irish, Celtic Studies & Folklore](https://libguides.ucd.ie/irish)
-- [Scholarly Resources in Irish Studies](https://acrl.libguides.com/ess/irishstudies)
-
-**KI-Ressourcen**
-
-- [Literaturrecherche](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textverstehen](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textproduktion](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textbearbeitung / -korrektur](https://www.vkkiwa.de/ki-ressourcen/)
-
-**Linguistikblogs**
-
-- [About Words](https://dictionaryblog.cambridge.org/)
-- [language: a feminist guide](https://debuk.wordpress.com/)
-- [Language Log](https://languagelog.ldc.upenn.edu/nll/)
-
-**Literaturblogs**
-
-- [Literary Hub](http://lithub.com/)
-- [Vol. 1 Brooklyn](http://www.vol1brooklyn.com/)
-- [Bookforum.com](http://www.bookforum.com/)
-- [Paris Review Daily](http://www.theparisreview.org/blog/)
-- [LRB Blog](http://www.lrb.co.uk/blog/)
-
-**Podcasts**
-
-- [Can't Lit](https://cantlit.ca/)
-- [Ceteris never Pluribus: The History of Economic Thought Podcast](https://ceterisneverparibus.net/)
-- [English Literature Podcasts](https://player.fm/en/podcasts/english-literature)
-- [Irish Interest Podcasts](https://www.rte.ie/radio/podcasts/)
-- [Irish Studies Podcasts](https://libguides.bc.edu/irishportal/podcasts)
-- [Oxford University Podcasts: English Literature](https://podcasts.ox.ac.uk/keywords/english-literature)
-- [Oxford University Podcasts: Linguistics](https://podcasts.ox.ac.uk/keywords/linguistics)
-- [Oxford University Podcasts: Literature](https://podcasts.ox.ac.uk/keywords/literature)
-- [Postcolonial Space](https://postcolonial.net/podcast/)
-- [Queer Lit](https://www.spreaker.com/show/queer-lit)
-- [RaDiHum20](http://wordpress-202005011515.p552970.webspaceconfig.de/) – RAdio for DIgital HUManities
-- [Research Communication](https://libaac.de/home/full-view-post/detail/News/the-academic-podcast-an-important-tool-for-research-communication/)
-- [TED Talks Language](https://www.ted.com/talks?sort=relevance&topics%5B0%5D=language)
-- [TED Talks Literature](https://www.ted.com/talks?sort=relevance&topics%5B0%5D=literature)
+- **Canadian Studies:** [CanLit Guides](https://canlitguides.ca/)
+- **Digital Humanities:** [Clarin-D](http://clarin-d.de/), [DARIAH-DE](http://de.dariah.eu/), [TAPoR](http://tapor.ca), [Textgrid](http://www.textgrid.de/)
+- **Irish Studies:** [Irish, Celtic Studies & Folklore](https://libguides.ucd.ie/irish), [Scholarly Resources in Irish Studies](https://acrl.libguides.com/ess/irishstudies)
+- **KI-Ressourcen:** [Literaturrecherche](https://www.vkkiwa.de/ki-ressourcen/), [Textverstehen](https://www.vkkiwa.de/ki-ressourcen/), [Textproduktion](https://www.vkkiwa.de/ki-ressourcen/), [Textbearbeitung / -korrektur](https://www.vkkiwa.de/ki-ressourcen/)
+- **Linguistikblogs:** [About Words](https://dictionaryblog.cambridge.org/), [language: a feminist guide](https://debuk.wordpress.com/), [Language Log](https://languagelog.ldc.upenn.edu/nll/)
+- **Literaturblogs:** [Literary Hub](http://lithub.com/), [Vol. 1 Brooklyn](http://www.vol1brooklyn.com/), [Bookforum.com](http://www.bookforum.com/), [Paris Review Daily](http://www.theparisreview.org/blog/), [LRB Blog](http://www.lrb.co.uk/blog/)
+- **Podcasts:** [Can't Lit](https://cantlit.ca/), [Ceteris never Pluribus: The History of Economic Thought Podcast](https://ceterisneverparibus.net/), [English Literature Podcasts](https://player.fm/en/podcasts/english-literature), [Irish Interest Podcasts](https://www.rte.ie/radio/podcasts/), [Irish Studies Podcasts](https://libguides.bc.edu/irishportal/podcasts), [Oxford University Podcasts: English Literature](https://podcasts.ox.ac.uk/keywords/english-literature), [Oxford University Podcasts: Linguistics](https://podcasts.ox.ac.uk/keywords/linguistics), [Oxford University Podcasts: Literature](https://podcasts.ox.ac.uk/keywords/literature), [Postcolonial Space](https://postcolonial.net/podcast/), [Queer Lit](https://www.spreaker.com/show/queer-lit), [RaDiHum20](http://wordpress-202005011515.p552970.webspaceconfig.de/), [Research Communication](https://libaac.de/home/full-view-post/detail/News/the-academic-podcast-an-important-tool-for-research-communication/), [TED Talks Language](https://www.ted.com/talks?sort=relevance&topics%5B0%5D=language), [TED Talks Literature](https://www.ted.com/talks?sort=relevance&topics%5B0%5D=literature)
 
 ### Literaturstandorte
 
-- [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): Literatur zum Fach Anglistik, vor Ort nutzbar, frei zugänglich, nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihe nur für wissenschaftliches Personal.
-- [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Weitere Anglistik-Literatur, ausleihbar mit ecUM oder UB-Chipkarte.
+- [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): Literatur zum Fach Anglistik, frei zugänglich, nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihe nur für wissenschaftliches Personal.
+- [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Weitere Literatur zur Anglistik, ausleihbar mit ecUM oder UB-Chipkarte.
 - Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel: Wichtige Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen.
 - Recherche aller Bestände im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
@@ -132,30 +99,34 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Anglistik/Amerikanisti
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche in der Anglistik an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+- Regelmäßige Schulungen zur Recherche in der Anglistik
+- Online-Tutorials jederzeit verfügbar
+- Individuelle Beratung möglich
+
+**Links:**
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 - [Tutorials zur MLA International Bibliography](https://ilias.uni-mannheim.de/ilias.php?ref_id=1220595&cmd=view&cmdClass=ilrepositorygui&cmdNode=ye&baseClass=ilRepositoryGUI)
 
-**Kurse für das Fach Anglistik**
+**Fachspezifische Kurse:**
 
 - [Anglistik: Study Skills Online Tutorial](https://ilias.uni-mannheim.de/goto.php?target=crs_954704&client_id=ILIAS)
 - [Anglistik: speziell für Studierende vor dem Examen](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=1220595)
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
-
-- [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- Ratgeber zum wissenschaftlichen Arbeiten im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) und in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) (Signatur AK 39580)
+- Unterstützung durch Schulungs- und Beratungsangebote:
+  - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
+  - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
 
 ## Kontakt
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+Fachreferent für Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 Vertretung für Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
 
 **Aufgaben:**
@@ -165,7 +136,9 @@ Vertretung für Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psy
 - Durchführung von Schulungen im Fachbereich
 
 **Kontakt:**
-Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
-Telefon: +49 621 181-3053
-E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
-Vertretung: [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
+- Telefon: +49 621 181-3053
+- E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
+
+**Vertretung:** [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)

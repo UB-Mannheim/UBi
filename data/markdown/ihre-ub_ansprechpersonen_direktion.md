@@ -16,7 +16,7 @@ Direktorin der Universitätsbibliothek
 
 ### Dr. Annette Klein
 
-Stellvertretende Direktorin der Universitätsbibliothek | Leiterin der Abteilung Medienbearbeitung
+Stellvertretende Direktorin der Universitätsbibliothek | Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Allgemeines
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 279, 68161 Mannheim
 - Telefon: +49 621 181-2975
 - E-Mail: annette.klein@uni-mannheim.de

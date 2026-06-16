@@ -45,15 +45,3 @@ Share your teaching material with others or reuse theirs!
 Open Science Council
 The Open Science Council serves as a advisory body which suppports the Open Science Office.
 
-
-
-## Events
-
-
-
-### Using Quarto to Create Reproducible Manuscripts
-
-
-
-### Research Funding Requirements for Open Science and Research ...
-

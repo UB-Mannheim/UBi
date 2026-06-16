@@ -14,19 +14,13 @@ Bitte wenden Sie sich für eine individuelle Auskunft oder Beratung an unsere Fa
 
 
 
-### Dr. Rudolf Nink, M.A.
+### Dr. Annette Klein
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
-
-Aufgaben:
-
-- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
-- Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
-- Telefon: +49 621 181-3053
-- E-Mail: rudolf.nink@uni-mannheim.de
+Stellvertretende Direktorin der Universitätsbibliothek | Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Allgemeines
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 279, 68161 Mannheim
+- Telefon: +49 621 181-2975
+- E-Mail: annette.klein@uni-mannheim.de
+- ORCID-ID: 0000-0001-8825-6446 (https://orcid.org/0000-0001-8825-6446)
 
 
 ### Anglistik
@@ -39,11 +33,11 @@ Aufgaben:
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+Fachreferent für Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 
 Aufgaben:
 
-- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
+- Literaturauswahl und -erschließung für die Fächer Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
 - Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
@@ -84,11 +78,11 @@ Aufgaben:
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+Fachreferent für Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 
 Aufgaben:
 
-- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
+- Literaturauswahl und -erschließung für die Fächer Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
 - Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
@@ -228,11 +222,11 @@ Aufgaben:
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+Fachreferent für Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 
 Aufgaben:
 
-- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
+- Literaturauswahl und -erschließung für die Fächer Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
 - Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
@@ -400,11 +394,11 @@ Aufgaben:
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
+Fachreferent für Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie
 
 Aufgaben:
 
-- Literaturauswahl und -erschließung für die Fächer Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
+- Literaturauswahl und -erschließung für die Fächer Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik,  Philosophie
 - Vertretung für die Fächer Medien- und Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich

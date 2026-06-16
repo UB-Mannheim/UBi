@@ -13,17 +13,8 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 
 ## Öffnungszeiten
 
-**Bibliotheksbereich A3**
-| Mo‒Fr | 8–23 Uhr |
-| --- | --- |
-| Sa/So/Feiertage | 10–23 Uhr |
-
 Das**Gebäude A3**ist vom**15. Juni bis voraussichtlich 2. August 2026**wegen Sanierungsarbeiten**geschlossen**.
 [Weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28630)
-**Erweiterte Öffnungszeiten vom 4. Mai bis einschließlich 14. Juni 2026**
-| Mo‒So und an Feiertagen | 8–24 Uhr |
-| --- | --- |
-
 
 
 ## Fachliche Recherche
