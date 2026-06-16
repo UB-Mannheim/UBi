@@ -366,14 +366,11 @@ async def handle_sitzplatz_route(
     """
     try:
         data = get_occupancy_data()
-        areas = data["areas"]
-
-        # Remove selected areas from plotting (i.e. if closed)
-        # Set environment variable DISABLED_AREAS to a comma-separated list of
-        # area identifiers
-        disabled_areas = os.getenv('DISABLED_AREAS', '').split(',')
-        for area in disabled_areas:
-            areas.pop(area, '')
+        # omit areas with state 'closed'
+        areas = {
+            k: v for k, v in data["areas"].items()
+            if v.get('state', '') != 'closed'
+        }
 
         # Plot title and labels
         heading = translate("seats_last_updated", detected_language)
