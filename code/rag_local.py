@@ -265,7 +265,7 @@ async def create_rag_chain(debug=False):
             print(f"[bold green]✅ Vector store created with {len(files)} files[/bold green]")
 
     retriever = vectorstore.as_retriever(
-        search_type="similarity", search_kwargs={"k": 4}
+        search_type="similarity", search_kwargs={"k": 20}
     )
     today = datetime.datetime.now().strftime("%B %d, %Y %H:%M:%S")
     prompt = ChatPromptTemplate.from_messages(
