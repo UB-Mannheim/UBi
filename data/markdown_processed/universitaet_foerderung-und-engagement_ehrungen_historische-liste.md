@@ -1,0 +1,275 @@
+---
+title: Historische Liste der geehrten Personen der Universität Mannheim
+source_url_de: https://www.uni-mannheim.de/universitaet/foerderung-und-engagement/ehrungen/historische-liste/
+source_url_en: https://www.uni-mannheim.de/en/about/getting-involved/honors/historical-list/
+category: Services
+tags: ['Ehrenwürdenträger', 'Universität Mannheim', 'Ehrungen', 'Historische Liste', 'Ehrensenator', 'Ehrenbürger']
+language: de
+---
+
+# Historische Liste der geehrten Personen der Universität Mannheim
+
+Auf dieser Seite finden Sie eine Übersicht aller bisher ausgezeichneten Ehrenwürdenträger\*innen der Universität Mannheim.
+
+## Ehrensenator\*innen
+
+- **Angstmann, Kurt**, Professor, Minister a. D. †
+- **Arheit, Günter**, Dr. rer. pol., Vorsitzender der Vorstände der ÖVA Versicherungsgruppe a. D.
+- **Barié, Günter**, Dr. iur., Direktor i. R. †
+- **Baumgarten, Dr. Eduard** †
+- **Bock, Kurt**, Dr., Vorsitzender des Aufsichtsrats der BASF
+- **Braun, Josef**, Oberbürgermeister a. D. †
+- **Brune, Fritz L.**, Fabrikant †
+- **Calmus, Wilhelm**, Fabrikdirektor a. D. †
+- **Danielmeyer, Hans Günter**, Professor Dr. rer. nat.
+- **Dorn, Friedrich**, Dipl.-Kfm., Dr. oec., Generaldirektor †
+- **Esser, Carl-Heinrich**, Professor Dr. iur.
+- **Feldmann, John**, Dr., ehemaliges Vorstandsmitglied BASF SE
+- **Fernholz, Ernst Hermann**, Dr. rer. pol., Präsident a. D. †
+- **Fickel, Brigitte**, Dr., ehemalige Präsidentin von ABSOLVENTUM MANNHEIM e. V.
+- **Frankenberg, Peter**, Professor Dr. Dr. h.c. mult.
+- **Freudenberg, Hans-Erich**, Dr. rer. pol. †
+- **Fuchs, Manfred**, Dr., Stellv. Vorsitzender des Aufsichtsrats der Fuchs SE
+- **Fünfgeld, H.**, Dipl.-Volkswirt, Intendant des Süddeutschen Rundfunks †
+- **Gassert, Herbert**, Dr.-Ing., Dipl.-Ing. †
+- **Gelissen, Henri Caspar**, Professor Dr., Dr. h. c. mult. †
+- **Gerhard, Eugen**, Dr. iur., Rechtsanwalt †
+- **Goedecke, Wolfgang**, Dr. iur., Ministerialrat a. D. †
+- **Göhringer, Hans K.**, Dr. rer. pol., Präsident †
+- **Greiner, Gerhard**, Dr. rer. oec., Wirtschaftsprüfer †
+- **Greinert, Klaus**, Vorsitzender des Beirats der Röchling-Gruppe
+- **Hamann, Kurt**, Dr. iur., Generaldirektor i. R. †
+- **Hammberbacher, H. L.**, Dr. iur. oec., Dr. rer. pol., Dr. rer. pol. h. c., Ehrenpräsident der Industrie- und Handelskammer Mannheim †
+- **Heidelberger, Franz**, Dr. phil., Ministerialrat a. D. †
+- **Heimerich, Hermann**, Professor Dr. iur., Dr. rer. oec. h. c., Oberbürgermeister a. D. †
+- **Hornbach, Albrecht**, Hornbach Holding AG
+- **Hoyningen-Huene, Dietmar von**, Professor Dr. h. c., Rektor der Hochschule Mannheim a. D.
+- **Islinger, Franz**, Präsident a. D. †
+- **Jansen, Bernd**, Dipl.-Math., Vorsitzender der Vorstände der INTER-Versicherung a.D.
+- **Kirchgässer, Wilhelm**, Direktor a. D. †
+- **Kölmel, Karl**, Oberregierungsbaudirektor a. D. †
+- **Kömmerling, Emil**, Ehrenpräsident †
+- **Krause, Walter Richard**, Minister a. D. †
+- **Kühn, Paul J.**, Professor Dr.-Ing., Dr. h. c.
+- **Kuhn, August**, Regierungsdirektor a. D., Stadtrat der Stadt Mannheim †
+- **Kurz, Peter**, Dr., Mannheimer Oberbürgermeister, a.D., große Verdienste um die Universität Mannheim, vor allem in den Bereichen Infrastruktur und Internationalisierung
+- **Landmesser, Bernhard**, Dr. iur., Direktor †
+- **Lay, Otto**, Direktor a. D. †
+- **Le Coutre, Walter**, Professor Dr. rer. pol., Dr. h. c. †
+- **List, Jürgen**, Vorstandsvorsitzender Inter-Krankenversicherung †
+- **Maurer, Harald**, Dr. rer. pol. †
+- **Meixner, Oskar**, Professor, Dipl.-Ing. †
+- **Merkel, Frank**, Dipl.-Kfm.
+- **Merkel, Helmut**, Professor Dr., Dipl.-Kfm.
+- **Möller, Alex**, Professor Dr. h. c. mult., Bundesminister a. D. †
+- **Näger, Lorenz**, Dr., langjähriges Mitglied im Vorstand der Stiftung Universität Mannheim
+- **Oppenheimer, J. J.**, Ph. D., Professor, Dean Emeritus of the College of Arts and Sciences, University of Louisville (USA) †
+- **Prechel, Herbert**, Dipl.-Kfm. †
+- **Quilitz, Erich**, Dipl.-Kfm., Generaldirektor i. R. †
+- **Raffée, Hans**, Professor Dr. †
+- **Ratzel, Ludwig**, Professor Dr. rer. nat., Oberbürgermeister a. D. †
+- **Reuther, Hans J.**, Dr. jur., Ehrenpräsident der IHK Rhein-Neckar †
+- **Röchling, Hermann**, Dr., Dipl.-Kfm. †
+- **Scheuerle, Fridolin**, Dr., Delta Stiftung †
+- **Schnabel, Franz**, Professor Dr. phil., Dr. h. c. mult. †
+- **Schneider, Jürgen M.**, Dr., Dekan der Fakultät für Betriebswirtschaftslehre a. D.
+- **Schuhmacher, Peter**, Dipl.-Kfm., Vorstand der Heidelberger Zement AG †
+- **Schultze, Rudolf**, Dr. iur., Generaldirektor i. R. †
+- **Schuster, Konrad**, Dr. rer. pol., Wirtschaftsprüfer †
+- **Seefelder, Matthias**, Professor Dr. rer. nat., Vorsitzender des Aufsichtsrats der BASF †
+- **Seitz, Adolf**, Dipl.-Kfm., Steuerberater †
+- **Stegmann, Gerhard**, Schatzmeister der Stiftung Universität Mannheim
+- **Stingl, Josef**, Professor Dr. h. c., Dipl.-Politologe, Präsident a. D. †
+- **Strube, Jürgen Friedrich**, Dr., Vorsitzender des Aufsichtsrats der BASF SE
+- **Suckale, Margret**, ehemaliges Mitglied des Vorstands der BASF SE, Vorsitzende des Universitätsrats
+- **Throm, Ernst**, Regierungsbaudirektor a. D. †
+- **Trumpfheller, Jakob**, Erster Bürgermeister a. D. †
+- **Tschira, Klaus E.**, Dr. h. c. †
+- **Vetter, Heinrich**, Dipl.-Kfm. †
+- **Vögele, Heinz** †
+- **Vowinkel, Paul**, Staatsrat, Ministerialdirektor a. D. †
+- **Waldeck, Florian**, Dr. iur., Rechtsanwalt †
+- **Wetter, Peter**, Dr., Rechtsanwalt †
+- **Wild, Hans-Peter**, Dr., Spendentätigkeit für die Universität und ihre Stiftung
+- **Willareth, Adolf**, Professor, Studiendirektor i. R. †
+- **Wingler, Hans**, Regierungsbaudirektor a. D. †
+- **Wolter, Hans.**, Dr. rer. pol., Vorstandsmitglied Baden-Württembergische Bank AG i. R. †
+- **Zimmermann, Josef**, Dr. rer. pol., ehemaliger Vorsitzender der Freunde der Universität Mannheim
+
+## Ehrenbürger\*innen
+
+- **Andritzky, Christoph**, Dr. iur., Stadtdirektor a. D. †
+- **Bauer, Franz**, Dr. rer. pol., Direktor †
+- **Bergschmidt, Günther**, Akad. Direktor a. D. †
+- **Bohrer, Kurt-Friedrich**, Dr. phil. h. c., Akad. Direktor a. D. †
+- **Boulanger, Günther**, Dr. iur., Ministerialdirigent a. D. †
+- **Denzer, Georg**, Landrat
+- **Hagmann, Harald**, Dr., Ministerialdirigent a.D.
+- **Kern, Burkhard**, Dr., Ltd. Ministerialrat a. D. †
+- **Klemann, Heinrich**, Oberverwaltungsrat i. R. †
+- **Lauschmann, Richard**, Professor †
+- **Leitz, Franz J. P.**, Dr. rer. pol., Direktor a. D. †
+- **Meckel, Ekkehard**, Verleger †
+- **Meckel, Manfried**, Verleger †
+- **Mehrmann, Wilhelm**, Dr. rer. pol., Regierungsdirektor i. R. †
+- **Reichling, Carl Anton**, Dr. rer. pol., Geschäftsführer a. D. †
+- **Roesinger, Heinz**, Ltd. Ministerialrat a. D., Ministerium für Wissenschaft und Kunst †
+- **Scherer, Stephan**, Prof. Dr., Rechtsanwalt
+- **Staubach, Fritz**, Dr. iur., Akad. Direktor i. R. †
+- **Stiegler, Julius Paul**, Dr. rer. pol. h. c. †
+
+## Ehrendoktor\*innen
+
+- **Abs, Hermann Josef**, Dr. h. c. mult, Präsident a. D. †
+- **Anderson, Oskar**, Professor Dr. rer. pol., Dr. rer. pol. h. c. †
+- **Barich, Karl**, Dr. rer. pol. h. c., Direktor a. D. †
+- **Bassermann-Jordan, Friedrich**, Dr. iur., Dr. rer. pol. h. c., Geheimer Rat †
+- **Bendix, Reinhard**, Ph. D., Professor Dr. phil. h. c., University of California at Berkeley †
+- **Blundell, Richard**, Professor für Politische Ökonomie am University College London und Forschungsdirektor am Institute for Fiscal Studies in London
+- **Bombach, Gottfried**, Professor Dr. sc. pol., Dr. h. c. mult., Universität Basel †
+- **Borchardt, Knut**, Professor Dr. oec. publ., Dr. h. c. mult., Universitätsprofessor für Wirtschaftsgeschichte und Volkswirtschaftslehre i. R., an der Ludwigs-Maximilians-Universität München †
+- **Bott, Karl**, Dr. rer. pol. h. c. †
+- **Bradbrook, Adrian**, Professor Dr., Universität Adelaide
+- **Deutsch, Karl**, Professor Dr. phil. h. c., Harvard-University (USA) †
+- **Dörner, Dietrich**, Dipl.-Kfm., Wirtschaftsprüfer, Steuerberater, Vorsitzender des Vorstandes Ernst & Young Deutsche Allgemeine Treuhand AG, Stuttgart
+- **Ehrmann, Henry W.**, Professor of Political Science, Dr. iur., M.A. h. c., P. A., LL. D. h. c., Dr. phil. h. c., Dartmouth College, Hanover (USA) †
+- **Engisch, Karl**, Professor Dr. iur., Dr. h. c. mult. †
+- **Festinger, Leon**, Ph. D., Professor Dr. phil. h. c., New School for Social Research, New York †
+- **Franke, Günter**, Professor Dr., Universität Konstanz
+- **Forrester, Jay W.**, Professor Dr. h. c. mult., Massachusetts Institute of Technology †
+- **Fuchs, Manfred**, Dr. rer. pol., stellvertretender Vorsitzender des Aufsichtsrats der Fuchs SE
+- **Hachenburg, Dr. Max**, Rechtsanwalt †
+- **Hagen, Horst**, Professor Dr., Vizepräsident des BGH a.D. †
+- **Hammerbacher, H. L.**, Dr. iur. oec., Dr. rer. pol. †
+- **Hoover, Herbert**, Dr. †
+- **Jorgenson, Dale W.**, Ph. D., Dr. rer. pol. h. c., Harvard University, Cambridge, Mass.
+- **Krelle, Wilhelm**, Dr. rer. pol., Dr. h. c. mult. †
+- **Meyer, Jochen**, Dr., Leiter der Handschriftenabteilung im Literaturarchiv Marburg
+- **Morgenstern, Oskar**, Professor Dr., Dr. rer. pol. h. c. †
+- **Nerlove, Marc**, Ph. D., Professor Dr. rer. pol. h. c., Northwestern University und University of Pennsylvania
+- **Nipperdey, Hans Carl**, Professor Dr. iur., Dr. rer. pol. h. c. †
+- **Oberparleiter, Karl**, Professor Dr. rer. pol., Dr. h. c. mult., Wien †
+- **Persson, Torsten**, Ph.D., Inhaber des Lehrstuhls für Wirtschaftswissenschaften an der Universität Stockholm und Centennial Professor an der London School of Economics
+- **Phelps, Edmund S.**, Professor, Ph.D., Columbia University
+- **Popper, Sir Karl Raimund**, Professor Dr. phil., Dr. phil. h. c., London School of Economics †
+- **Reichelstein, Stefan J.**, Ph.D., Professor für Management & Accounting an der Stanford University, Graduate School of Business
+- **Reschke, Hans**, Dr. iur., Dr. h. c. mult., Oberbürgermeister a. D. †
+- **Richter, Rudolf**, Professor Dr. rer. pol. h. c., Universitätsprofessor für Nationalökonomie an der Universität des Saarlandes
+- **Schott, Sigmund**, Professor Dr., Dr. h. c. †
+- **Schwebler, Robert**, Professor Dr., Dr. rer. pol. h. c., Generaldirektor i. R., Karlsruhe †
+- **Seyffert, Rudolf**, Professor Dr. rer. pol., Dr. rer. pol. h. c. †
+- **Sitzler, Friedrich**, Professor Dr. iur., Dr. rer. pol. h. c. †
+- **Spranger, Eduard**, Professor Dr. phil., Dr. h. c. mult. †
+- **Sternberg, Shlomo**, Ph.D., Professor at Harvard University, and at Mortimer and Raymond Sackler Institute of Advanced Studies, Tel Aviv University
+- **Stiegler, Julius Paul**, Dr. rer. pol. h. c. †
+- **Timm, Herbert**, Professor Dr., Dr. rer. pol. h. c. †
+- **Tirole, Jean**, Ph.D., wissenschaftlicher Direktor des Institut d'Economie Industrielle (IDEI) der Universität Toulouse I und Gastprofessor am MIT
+- **Todorov, Tzvetan**, Professor Dr. h. c. mult., Paris, Westfälische Wilhelms-Universität Münster †
+- **Ulrich, Hans**, Professor Dr. rer. pol., Dr. h. c. mult., Hochschule für Wirtschafts- und Sozialwissenschaften, St. Gallen †
+- **Voscherau, Eggert**, Dr. h.c., Präsident Bundesarbeitgeberverband Chemie e. V.
+- **Wurster, Carl**, Professor Dr.-Ing., Dr. h. c. mult. †
+- **Vetter, Heinrich**, Dipl.-Kfm., Ehrensenator †
+- **Wysocki, Klaus von**, Professor Dr. rer. pol., Emeritus der Ludwig-Maximilians-Universität München †
+
+## Träger\*innen der Universitätmedaille
+
+- **Allary, Kurt**, Dipl.-Kfm. †
+- **Arrighi, Pascal**, Professor Dr., Conseiller d'Etat †
+- **Barth, Kuno**, Professor Dr. iur., Dr. rer. pol. †
+- **Bechmann, August**, Dipl.-Kfm., Geschäftsführer i. R. des Studententwerks Mannheim †
+- **Below, Karl-Heinz**, Professor Dr. †
+- **Berberovic, Ljubomir**, Professor Dr., Altrektor der Universität Sarajevo †
+- **Besarovic, Zdravko**, Professor Dr., Altrektor der Universität Sarajevo †
+- **Bläsi, Bernhard**, Dr., Ministerialdirektor a. D. †
+- **Bloemecke, Gerhard** †
+- **Boecker, Karlheinz**, Dipl.-Ing., Ministerialrat a. D. †
+- **Brecht, Franz Josef**, Professor Dr. phil. †
+- **Buhmann, Wolfgang**, Oberschulamt Karlsruhe
+- **Butz, Thomas**, Principal der Compagnia Palatina
+- **David, Manfred**, Erster Bürgermeister a. D. †
+- **Davies, Aneurin**, M.A., ehem. Registrar, University College of Swansea †
+- **Dickenberger, Dorothee**, Dr., Gleichstellungsbeauftragte der Universität Mannheim a. D. †
+- **Dörrer, Ingrid**, Professorin Dr.
+- **Dyck, J.-W.**, Ph. D., Professor Dr., University Waterloo, Ontario †
+- **Engel, Joachim**, Dr., Dipl.-Ing.
+- **Esser, Carl-Heinrich**, Professor Dr. iur.
+- **Fleck, Klaus O.**, Dr., Präsident der IHK Mannheim †
+- **Fuchs, Stefan**, Vorstandsvorsitzender FUCHS SE
+- **Fuchs, Susanne**, Dr., Geschäftsführende Gesellschafterin der Rudolf Fuchs GmbH und Co. KG
+- **Gaugler, Eduard**, Professor Dr. oec. publ., Dr. h.c. mult. †
+- **Geyer, Hans Martin**, Ltd. Bundesbahndirektor †
+- **Glockner, Gerhard**, Ltd. Regierungsbaudirektor i. R. †
+- **Goedecke, Wolfgang**, Dr. iur., Ehrensenator, Ministerialrat a. D. †
+- **Göhringer, Hans K.**, Dr. rer. pol., Präsident a. D., Ehrensenator †
+- **Günther, Rosmarie**, Dr.
+- **Haas, Herbert**, Dr. phil. nat., Ltd. Bibliotheksdirektor a. D. †
+- **Hartmann, Peter**, Beirat der MRK Management Consultants GmbH †
+- **Hayashi-Speichler, Fumiko**
+- **Höfle, Tilmann**, Vorsitzender Richter und Vizepräsident des Landesarbeitsgerichtes i. R.
+- **Hofmann, Wolfgang**, Professor, Dirigent und Leiter des Kurpfälzischen Kammerorchesters †
+- **Höhn, Elfriede**, Professor Dr. phil., Dipl.-Psych. †
+- **Horak, Hans**, Dipl.-Kfm., Dr. rer. pol., Hauptgeschäftsführer der IHK Mittlerer Neckar, Stuttgart †
+- **Islinger, Franz**, Präsident a. D. †
+- **Jacobs, Otto H.**, Professor Dr. Dr. h.c. mult.
+- **Jäger, Georg**, Dr.
+- **Kaase, Max**, Prof. Dr.
+- **Karl, Dorothee**, Professor Dr.
+- **Karcher, Karl Heinz**, Dr., Rechtsanwalt †
+- **Knudsen, Per**, Dipl.-Kfm.
+- **König, Heinz**, Professor Dr. Dr. h. c. †
+- **König, Thomas**, Prof. Dr.
+- **Köstel, Alois**, Dr., Oberstudiendirektor a. D. †
+- **Kortzfleisch, Gert v.**, Professor Dr. †
+- **Lamb, Fritz**, Dr. iur., Direktor †
+- **Landwehr, Jürgen**, Dr. phil. †
+- **Lauschmann, Richard**, Professor, Leiter des Collegium musicum der Universität Mannheim †
+- **Mann, Otto**, Professor Dr. phil. †
+- **Marquardt, Reinhard**, Dipl.-Kfm.
+- **Marx, August**, Professor Dr. rer. pol., Dr. h. c., Päpstl. Hausprälat †
+- **Matic, Bozidar**, Professor Dr., Altrektor der Universität Sarajevo †
+- **Mayer, Karl**, Professor Dr. Dr. h.c.
+- **Maurer, Harald**, Dr. rer. pol. †
+- **Meckel, Ekkehard**, Verleger †
+- **Meckel, Manfried**, Verleger †
+- **Meckel, Michael**, Verleger †
+- **Metzger, Karlheinz**, Dipl.-Vw. †
+- **Moos, Peter**, Dr. iur., Kanzler der Universität Mannheim †
+- **Münch, Helmut**, Dr., Notariatsdirektor a. D. †
+- **Nasterlack, Michael**, Dr. med.
+- **Paul, Walter**, Dr. rer. pol.
+- **Plewe, Ernst**, Professor Dr. phil. †
+- **Prins, Frans W.**, Professor Dr. †
+- **Queissner, Rudi**, Dr., Geschäftsführer a. D. der IHK der Pfalz †
+- **Raffée, Hans**, Professor Dr. †
+- **Rehe, Helmuth**, Direktor i. R. der Union Deutsche Lebensmittelwerke, Hamburg †
+- **Reichling, Carl Anton**, Dr. rer. pol. †
+- **Rößler, Peter**, Professor Dr. h. c. †
+- **Sandig, Curt**, Professor Dr. oec., Dr. rer. pol. h. c. †
+- **Schabacker, Erich**, Dipl.-Volkswirt
+- **Schmid, Bernhard**, Dipl.-Volkswirt †
+- **Schmidt, Jörg**, Professor Dr., Vizepräsident des Verwaltungsgerichtshofes B.-W., a.D.
+- **Schmitt, Lisa**, Leiterin a. D. der Speisebetriebe des Studentenwerks Mannheim †
+- **Schmitt, Theo**, Leiter des Universitätschors a. D.
+- **Schwab, Ulrich**, Intendant
+- **Sonnentag, Sabine**, Prof. Dr., Lehrstuhlinhaberin für Arbeits- und Organisationspsychologie
+- **Speichler, Rolf**
+- **Stahlberg, Dagmar**, Prof. Dr.
+- **Stassen, Marie-Luise**
+- **Stassen, Normann** †
+- **Staubach, Dr. Fritz** †
+- **Steel, Robert**, Professor Dr., Principal University College of Swansea †
+- **Stibbe, Hildegard**, Dr. phil., Privatdozentin †
+- **Tanovic, Arif**, Professor Dr., Altrektor der Universität Sarajevo †
+- **Tatschner, Hubert**, Oberregierungsrat a. D. †
+- **Treutler, Hans Joachim**, Dr. †
+- **Ulmer, Peter**, Professor Dr. Dr. h. c. †
+- **van Leerzem, Guido**
+- **Varnholt, Wilhelm**, Oberbürgermeister †
+- **Vetter, Heinrich**, Dipl.-Kfm., Ehrensenator †
+- **Vocke, Carolus**, Kunstmaler †
+- **Waffenschmidt, Walter**, Professor Dr. rer. pol., Dr. h. c. mult. †
+- **Weber, Alex**, Dr.
+- **Weber, Ulrike**
+- **Wetter, Peter**, Dr. †
+- **Wiskemann, Gabriel**, Dr. rer. pol.
+- **Wright, Douglas**, Dr., President University of Waterloo †

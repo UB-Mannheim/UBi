@@ -1,0 +1,375 @@
+---
+title: Corona-Fonds – Unterstützung für Studierende und Digitalisierung an der Universität Mannheim
+source_url_de: https://www.uni-mannheim.de/stiftung/projekte/bisherige-projekte/corona-fonds/
+source_url_en: https://www.uni-mannheim.de/en/foundation/projects/previous-projects/corona-fonds/
+category: Projekte
+tags: ['Corona', 'Stiftung', 'Spenden', 'E-Learning', 'Studierende', 'Digitalisierung', 'Nothilfe', 'Mannheim']
+language: de
+---
+
+# Corona-Fonds: Unterstützung und Digitalisierung während der Krise
+
+Die Corona-Krise stellte die Universität Mannheim ab dem Frühjahr 2020 vor enorme Herausforderungen. Um den Studierenden auch unter sich ständig verändernden Bedingungen eine Ausbildung auf höchstem Niveau zu ermöglichen, musste die Universität schnell handeln. Innerhalb weniger Tage wurde die gesamte Lehre neu aufgestellt und digitalisiert, wobei auch die Entwicklung von Online-Prüfungen unter Hochdruck erfolgte.
+
+Obwohl die Umstellung auf Online-Lehre dank des engagierten Lehrpersonals gut gelang, waren weitere Investitionen in die technische Ausstattung notwendig, um hochwertigen Online-Unterricht in breiterem Umfang anbieten zu können. Darüber hinaus sahen sich Studierende nicht nur akademischen, sondern auch persönlichen und finanziellen Herausforderungen gegenüber, da Einnahmen durch Kurzarbeit oder verlorene Nebenjobs wegbrachen.
+
+Deshalb rief die Stiftung Universität Mannheim bereits im April 2020 zwei dringliche Spendenprojekte ins Leben: eines zur finanziellen Unterstützung der Studierenden und eines zum Ausbau des E-Learnings.
+
+## 🎓 Corona-Nothilfe für Studierende
+
+Dank zahlreicher Unterstützer der Spendenkampagne konnten für Studierende, die durch die Corona-Krise in wirtschaftliche Not geraten waren, knapp 90.000 Euro ausgeschüttet werden.
+
+- **Unterstützung:** Insgesamt erhielten 111 Studierende bereits im Juni eine unbürokratische Einmalhilfe in Höhe von 800 Euro.
+- **Zweite Runde:** Im Dezember konnten zusätzlich rund 8.000 Euro an 16 bedürftige Studierende ausgeschüttet werden.
+
+[Mehr über die erfolgreiche Spendenaktion für Studierende in Not](http://www.uni-mannheim.de/newsroom/presse/pressemitteilungen/2020/juli/erfolgreiche-spendenaktion-fuer-studierende-in-not/)
+
+## 💻 Ausbau des E-Learnings
+
+Der schnelle und effiziente Ausbau der Video-Infrastruktur und virtueller Lern- und Lehrangebote war eine besondere Herausforderung. Mit Spenden von bislang knapp 60.000 Euro konnte die Universität zu Beginn der Pandemie zügig handeln.
+
+- **Veranstaltung:** Am 26. November 2020 wurde eine virtuelle Veranstaltung für alle Förderinnen und Förderer abgehalten, um die Verwendung der Mittel zu zeigen und die Herausforderungen digitaler Vorlesungen zu veranschaulichen.
+- **Zukunftsvision:** Da E-Learning weiterhin eine zentrale Rolle einnehmen wird, ist ein weiterer Ausbau dringend notwendig. Zu diesem Zweck soll ein eigenes **„Center für Digitalisierung in der Lehre“** eingerichtet werden.
+
+[Weitere Informationen zu laufenden Projekten und der Digitalisierung](https://www.uni-mannheim.de/stiftung/projekte/laufende-projekte/#c225622)
+
+## 💖 Dank an alle Unterstützerinnen und Unterstützer
+
+Die Stiftung bedankt sich bei allen Unterstützern, die durch ihre Spenden maßgeblich zum Erfolg dieser Projekte beigetragen haben. Die Aufstellung der Spender und Spenderinnen ist alphabetisch angeordnet:
+
+- ABB AG
+- Alexander Abt
+- Prof. Klaus Adam, Ph.D.
+- Michael Andris
+- Prof. Dr. Julia Angster
+- Dr. Günter Arheit
+- Prof. Dr. Colin Atkinson
+- B. Metzler seel. Sohn & Co. KGaA
+- Herbert Bareiss
+- Marco Barth
+- BASF SE
+- Udo Bäumler
+- Dr. Bernadette Baumstark
+- Helmut Beck
+- Dr. Susanne Becker
+- Dr. Michael Beller
+- Giuseppina Bentivegna
+- Roland Benz
+- Prof. Dr. Birgitta Bertram
+- Thomas Bez
+- Dr. Dino Biedermann und Mayte Richter
+- Gudrun und Joachim Blei
+- Dr. Max-Niklas Blome
+- Benjamin Blume
+- Gudrun Blümel
+- Klaus Borchers
+- Prof. Dr. Clemens Börsig
+- Anisa Boumrifak
+- Matthias Brecht
+- Wolfgang Breiner
+- Felix Brenk
+- Elizabeta Brinkschulte
+- Prof. Dr. Arndt Bröder
+- Dr. Wolfgang Bruder
+- Prof. Dr. Dr. h. c. Wolfgang Bühler
+- Clemens Niklas Buhr
+- Anna Theresa Bührle
+- Prof. Dr. Jens Bülte
+- Sabine und Wolf-Diether Burak
+- Stefanie Burgahn
+- Michael Burk
+- Annette Busch
+- Elisa Casi und Timo Eberhard
+- Sarah-Esther Anneliese Ciaglia
+- Françoise Costedoat
+- Prof. Dr. Hans-Joachim Cremer
+- CropEnergies AG
+- Dr. Dorothee Dickenberger
+- Prof. Dr. Oliver Dickhäuser
+- Prof. Dr. Michael Diehl
+- Andrea Diemer
+- Simon Dimpfl
+- Dr. Dietrich Dörner
+- Petra Dorn-Rübelmann und Matthias Rübelmann
+- Steffen Drögemüller
+- Günter Dürholt
+- Verena Dutt
+- Sabine und Ulrich Eberhard
+- Dr. Eberhard GmbH & Co. KG Steuerberatungsgesellschaft
+- Verena Eisenlohr
+- Ekkehard-Stiftung
+- Peter Elleser
+- Marcus Enger
+- Thomas Englert
+- Prof. Dr. Edgar Erdfelder
+- Hans-Jürgen Ernst
+- Christoph Ernsting
+- Prof. Dr. Hartmut Esser
+- Karin und Carl-Heinrich Esser Stiftung
+- Thomas Esser
+- Michael Euchner
+- Dr. Golo Fabricius
+- Michaela und Marcus Fähnle
+- Nikolaos Faradouris
+- Florian Fehres
+- Erwin Feininger
+- Dr. John Feldmann
+- Prof. Dr. Thomas Fetzer
+- Leonie Fischer
+- Prof. Dr. Peter Frankenberg
+- Freunde der Universität Mannheim e. V.
+- Margitta Frölich
+- Gerd Fuhrmann
+- Familie Fuchs
+- Hiltrud und Prof. Dr. Paul Gans
+- Prof. Dr. Philipp Gassert
+- Simon Gatzemeier und Lena Hoffmann
+- Michael Göbel
+- Roman Goldner
+- Andres Gomez Nunez und Julian Kempf-Gomez Nunez
+- Dr. Marcel Gorenflo
+- Dr. Michael Gräf
+- Heidemarie Greve
+- Nina und Ulrich Griesbach
+- Prof. Dr. Claudia Gronemann
+- Dr. Ralf Gronych
+- Nienke und Prof. Thomas Gschwend, Ph.D.
+- Dr. Horst Hermann Guckert
+- Dr. Ulrike Hagmann-Lauterbach und Dr. Harald Hagmann
+- Dr. Albrecht Hallbauer
+- Jürgen Haller
+- Katharina und Dr. Michael Hanewinkel
+- R. Hanser und C. Hanser-Adler
+- Bernd Hartenstein
+- Roland Edmund Hans Hartung
+- Regina Hauer
+- HeidelbergCement AG
+- Friedrich Heinemann
+- Michael Helisch
+- Magdalene Helmreich
+- Tobias Herget
+- Jovana Herold und Philipp Julius
+- Christoph Hesterbrink
+- Bernd Hilkert
+- Timo Hoberg
+- Ute und Prof. Dr. Manfred Hofer
+- Tilman Höfle
+- Klaus Höft
+- Prof. Dr. Karin Hoisl
+- HORNBACH Baumarkt AG
+- Annie Huault-Glock
+- Heike Huber
+- Kai Hubner
+- Gabriela Illik
+- Prof. Dr. Dr. h.c. mult. Otto Jacobs
+- Brigitte und Prof. Dr. Egbert Jahn
+- Prof. Dr. Eckhard Janeba
+- Michael Jendrek
+- Martina Johann
+- Prof. Dr. Dr. h. c. Max Kaase
+- Janina und Prof. Dr. Christian Kammlott
+- Dorothea Kauffelt
+- Gunter Kaufmann
+- Robert Kautzmann
+- Ingolf Keba
+- Martin Kerkmann
+- Jonathan Kickuth
+- Volker Kilb
+- Ingrid Kingma
+- Inge und Hansjörg Kircher
+- Michael Klatt
+- Christine und Dieter Klein
+- Jürgen Klein
+- Dorothee und Prof. Dr. Jan Klement
+- Michel Hans Klinger
+- Franz-Josef Klüber
+- Christa Kneier
+- Marion Köbisch
+- Petra Kohnert-Höft
+- Stipendiat\*innen der Konrad-Adenauer-Stiftung
+- Marina Köpke
+- Caroline Kopp
+- Jannina und Peter Körner
+- Maartje Koschorreck
+- Heiner Werner Köstermann
+- Nikolaus Christopher Krenzel
+- Tim Kröger
+- Lilly und Peter Kuebler
+- Prof. Dr. Beatrice Gisele Kuhlmann
+- Sebastian Kuhn
+- Michael Georg Hans-Werner Kühne
+- Andreas Kühner und Heike Ettischer
+- KUNZE Beteiligungen und Verwaltung GmbH
+- Ulrich Künzler
+- Dr. Stephan Küßner
+- Martin Lasch
+- Björn Lauschke
+- Peter Lehmann
+- Corinna Leist
+- Yue Li
+- Ye Li
+- Annika Lindemann
+- Simon Lindner
+- Prof. Dr. Manfred Loimeier
+- Dr. Bernd Lübcke
+- Marion Maaß
+- Helmuth Maier
+- Yannic Maiwald
+- Matthias Mand
+- Simon Marchart
+- Martin Latz Steuerberatungsgesellschaft mbH
+- Walter Mathes
+- Frauke Mattern
+- Prof. Ernst Maug, Ph.D.
+- Dr. Harald Maurer
+- Prof. Dr. Thorsten Meiser
+- Megatrend Gesellschaft für Informationsmanagement, Unternehmens- und Finanzberatung mbH
+- Andreas Menke
+- Hildegard Menzel
+- Dr. Peter Merten
+- Nicol Miedke
+- MMM Absolvent
+- Julian Mockenhaupt
+- Andrea und Dr. Hans Molnar
+- Doris und Oskar Morath
+- Wolfgang Müller
+- Prof. Dr. Ralf Müller-Terpitz
+- Uta Müller-Thürauf
+- Adeline Münch
+- MVV Energie AG
+- Diane und Dr. Lorenz Näger
+- NAKRIS GmbH
+- Ralph Nehring
+- Michael Nellen
+- Jutta Neuhaus
+- Tim Neumann
+- Susanne Niegisch
+- Gisela Nießner
+- Dorothee Oettli-Lutz
+- Marcel Joachim Olbert
+- Dr. Peter Pack
+- Christian Paetzke
+- Jutta Palm
+- Heinz Peeters
+- Martina Perschke
+- Claudia Pfleger-Hoffmann
+- Kristina Pietukhova
+- Friederike Pipphardt
+- Ulrike und Sven Piske
+- Graf Claudius Paul Magnus von Plettenberg
+- Isabelle Pohl
+- Gudrun und Prof. Dr. Herbert Popp
+- Polina Potoskueva
+- Thomas Prexl
+- Morrigain Raß
+- Prof. Stefan Reichelstein, Ph.D.
+- Ursula Rein
+- Rolf Reinhardt
+- Wolfgang Rempel
+- Antje Rieger
+- Prof. Dr. Jürgen Riemann
+- Klaus Ries
+- Rahel Ritz
+- Hans-Jürgen Robrecht
+- Röchling SE & Co. KG
+- Wolfgang Ross
+- Rotary Club Schwetzingen-Walldorf
+- Dr. Felix Maximilian Roth
+- Hans-Peter Röttig
+- Harald Ruziczka
+- Mahmoud Sabri
+- Heiko Jens Martin Sander
+- Harald Sauer
+- Gerhard Schackert und Regina Maria Ritter-Schackert
+- Linda Schädler
+- Prof. Dr. Heinrich Schanz
+- Gerhard Schierle
+- Makiko Schlegel
+- Helmut Schlick
+- Eberhard Schmid
+- Dr. Frank Schmidt
+- Prof. Dr. Jörg Schmidt
+- Klaus Schmidt
+- Sabine Schmidt
+- Markus Schmitt
+- Dominic Schmoigl
+- Günther Scholz und Uta Michels-Scholz
+- Ludwig Schrittenloher
+- Eva Anna Schückler
+- Christa und Peter Schuhmacher
+- Dr. Michael Schulz
+- Prof. Dr. Andreas Schumacher
+- Beate Schwarz
+- Dr. Lukas M. Schwarz
+- Sabine Schwarz
+- Conny Schweigert
+- Ute Schwenger
+- Pierre Schwerdtfeger
+- Edith und Dieter Schwitallik
+- Alexander Heinz Schwörer
+- Karola und Harald Seitz
+- Rosemarie und Dr. Richard Seitz
+- Dr. Alexander Selent
+- Christopher Sheldon
+- Bernhard Siegel
+- Michael Christian Sindram
+- Alexander Martin Sölch
+- Prof. Dr. Rainer Specht
+- Prof. Dr. Christoph Spengel
+- Anton Spies
+- Dr. Eberhard Spiess
+- Barbara Stage
+- Anselm Benedict Stahl
+- Mario Stehling
+- Bastian Steinmüller
+- Katrin Stetter
+- Konrad Stockmeier
+- Bernd Stoeckel
+- Curt Christian Stoffel
+- Prof. Dr. Angelika Storrer
+- Sabine und Prof. Dr. Jochen Streb
+- Sven Stromann
+- Prof. Dr. Jürgen Friedrich Strube
+- Prof. Dr. Ernst-Ludwig von Thadden
+- Georg Tietje
+- Ahmet Toroslu
+- Prof. Dr. Carola Trips
+- TP
+- Dr. Frank Trompeter
+- Janina Unselt
+- Peter Utt
+- Heiko Vay
+- VISTEX GmbH
+- Doris und Dr. Gerhard Vogel
+- Waltraud Vohrer
+- Marcel Vollmerhausen
+- Andreas Voss
+- VR Bank Rhein-Neckar eG
+- Ulrich Wagner
+- Achim Walter
+- Lisa Verena Waninger
+- Bernd Michael Weber
+- Per Wehrmann
+- Prof. Dr. Christoph Weiß
+- Gerhard Weissenberger und Cornelia Kreutz-Weissenberger
+- Prof. Weber GmbH
+- Dr. Jobst Wellensiek
+- Florian Wendt
+- Dr. Jonathan Wennekers
+- Heinz-Hermann Werner
+- Manuel Wiedemann
+- Sabine und Klaus Wieland
+- Prof. Dr. Günther Wiese
+- Dres. Ingetraud und Reiner Wild
+- Rosmarie Wildenmann
+- Barbara Windscheid
+- Dr. Gerald Wörner
+- Paul Würth
+- Manfred Zeller
+- Thea und Rainer Zickler
+- Irina Zickwolf
+- Gisela Ziefle
+- Dieter Zimmer
+- Dr. Josef Zimmermann
+
+*Unser Dank gilt auch all jenen, die an dieser Stelle nicht namentlich genannt werden möchten.*

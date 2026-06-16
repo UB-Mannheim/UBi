@@ -1,0 +1,378 @@
+---
+title: GIP-Studien – Ergebnisse und Berichterstattung in den Medien
+source_url_de: https://www.uni-mannheim.de/gip/ergebnisse-mit-dem-gip/presse/das-gip-in-den-medien/
+source_url_en: https://www.uni-mannheim.de/en/gip/results-with-the-gip/press/gip-in-the-media/
+category: Medien
+tags: ['Mannheim', 'Studie', 'Medienberichterstattung', 'Soziales', 'Corona', 'Politik', 'Umfrage', 'GIP']
+language: de
+---
+
+# GIP-Studien: Ergebnisse und Berichterstattung in den Medien
+
+Diese Übersicht fasst die Berichterstattung über die Ergebnisse der GIP-Studien der Universität Mannheim in verschiedenen Medien aus den Jahren 2017 bis 2024 zusammen.
+
+## 📰 2024
+
+- **Propalästinensisch = antizionistisch = antisemitisch? Studie der Uni Mannheim liefert interessante Erkenntnisse**
+  - [Link](https://kommunalinfo-mannheim.de/2024/10/16/propalaestinensisch-antizionistisch-antisemitisch-studie-der-uni-mannheim-liefert-interessante-erkenntnisse/) (Kommunalinfo Mannheim, 16. Oktober 2024)
+- **Studie zu Judenfeindlichkeit. Wie Pro-Palästina-Positionen und Antisemitismus zusammenhängen**
+  - [Link](https://www.n-tv.de/panorama/Wie-Pro-Palaestina-Positionen-und-Antisemitismus-zusammenhaengen-article25289017.html) (n-tv, 15. Oktober 2024)
+- **Jung, links, propalästinensich – und am wenigsten antisemitisch**
+  - [Link](https://www.nd-aktuell.de/artikel/1185968.studie-der-uni-mannheim-jung-links-propalaestinensisch-n-und-am-wenigsten-antisemitisch.html) (nd-aktuell, 13. Oktober 2024)
+- **„Vorwurf ist vorschnell“: Pro-Palästina Demos spalten Deutschland**
+  - [Link](https://www.fr.de/politik/pro-palaestina-demos-antisemitismus-vorwurf-vorschnell-spalten-deutschland-gaza-krieg-hamas-zr-93352281.html) (Frankfurter Rundschau, 12. Oktober 2024)
+- **Studie aus Mannheim. Linke Studenten – für die Palästinenser, aber nicht judenfeindlich?**
+  - [Link](https://www.stuttgarter-zeitung.de/inhalt.studie-aus-mannheim-linke-studenten-fuer-die-palaestinenser-aber-nicht-judenfeindlich.9fd4c5b7-8c81-4048-bd9f-91253e81983b.html) (Stuttgarter Zeitung, 11. Oktober 2024)
+- **Es ist etwas ins Rutschen gekommen**
+  - [Link](https://www.mannheimer-morgen.de/orte/mannheim_artikel,-mannheim-es-ist-etwas-ins-rutschen-gekommen-_arid,2242407.html?&npg) (Mannheimer Morgen, 13. September 2024)
+- **„Man sagt AfD-Wählern: ‚Du bist dumm und ein Rassist’ – ist das Respekt?“**
+  - [Link](https://www.stuttgarter-zeitung.de/inhalt.studie-zu-politik-und-waehlern-man-sagt-afd-waehlern-du-bist-dumm-und-ein-rassist-ist-das-respekt.0574bd30-0981-4b59-a436-0431a22ab482.html) (Stuttgarter Zeitung, 09. September 2024)
+- **Rassismus? Abstiegsangst? Diese Daten zeigen, warum wirklich so viele AfD wählen**
+  - [Link](https://www.noz.de/deutschland-welt/politik/artikel/afd-umfrage-erfolg-mannheimer-forscher-warnen-vor-wuerde-luecke-47458886) (NOZ, 21. Juli 2024)
+- **Umfrage: Nur jeder zweite deutsche fühlt sich von der Politik wertgeschätzt**
+  - [Link](https://www.presseportal.de/pm/58964/5827515) (Neue Osnabrücker Zeitung, 21. Juli 2024)
+- **Umfrage: Jeder Zweite fühlt sich von Politik schlecht behandelt**
+  - [Link](https://www.evangelisch.de/inhalte/232028/21-07-2024/umfrage-jeder-zweite-fuehlt-sich-von-politik-schlecht-behandelt) (evangelisch, 21. Juli 2024)
+
+## 📰 2022
+
+- **Studie: Absenkung des Wahlalters auf 16 Jahre nicht radikal genug**
+  - [Link](https://www.handelsblatt.com/politik/deutschland/schritte-gegen-rentnerdemokratie-studie-absenkung-des-wahlalters-auf-16-jahre-nicht-radikal-genug/28296902.html) (Handelsblatt, 03. Mai 2022)
+- **University of Mannheim: Algorithms are accepted – but only if humans have the last word**
+  - [Link](https://indiaeducationdiary.in/university-of-mannheim-algorithms-are-accepted-but-only-if-humans-have-the-last-word/) (India Education Diary, 20. Januar 2022)
+
+## 📰 2021
+
+- **Elias Naumann: Wie geht es Familien während (und nach) der Corona-Pandemie?**
+  - [Link](https://coronasoziologie.blog.wzb.eu/podcast/elias-naumann-wie-geht-es-familien-waehrend-und-nach-der-corona-pandemie/) (Soziologische Perspektiven auf die Corona-Krise, 09. Dezember 2021)
+- **DGOF zeigt Highlights der Online-Forschung**
+  - [Link](https://www.horizont.net/planung-analyse/nachrichten/zweite-virtuelle-gor-dgof-zeigt-highlights-der-online-forschung-194346) (planung&analyse, 13. September 2021)
+- **Welche Erkenntnisse die Wissenschaft aus der Coronakrise zieht**
+  - [Link](https://www.deutschlandfunkkultur.de/die-pandemie-als-feldversuch-welche-erkenntnisse-die.976.de.html?dram:article_id=499597) (Deutschlandfunk Kultur, 01. Juli 2021)
+- **Soziale Ungleichheit in der Beschäftigungssituation während der frühen Phase der Coronakrise**
+  - [Link](https://www.bpb.de/nachschlagen/datenreport-2021/auswirkungen-der-coronapandemie/330402/soziale-ungleichheit-in-der-beschaeftigungssituation-waehrend-der-fruehen-phase-der-coronakrise) (Bundeszentrale für politische Bildung, 10. März 2021)
+- **Positive Anreize für mehr Akzeptanz**
+  - [Link](https://www.rnz.de/nachrichten/mannheim_artikel,-mannheim-positive-anreize-fuer-mehr-akzeptanz-_arid,617977.html) (Rhein-Neckar-Zeitung, 30. Januar 2021)
+- **Akzeptanz von Coronaregeln: Forscherin plädiert für Anreize**
+  - [Link](https://www.sueddeutsche.de/wissen/wissenschaft-mannheim-akzeptanz-von-coronaregeln-forscherin-plaediert-fuer-anreize-dpa.urn-newsml-dpa-com-20090101-210129-99-216095) (Süddeutsche Zeitung, 29. Januar 2021)
+- **Forscherin fordert Daten als Rezept gegen Coronablues**
+  - [Link](https://www.rnz.de/nachrichten/mannheim_artikel,-mannheim-forscherin-fordert-daten-als-rezept-gegen-coronablues-_arid,617497.html) (Rhein-Neckar-Zeitung, 29. Januar 2021)
+- **Denkfabrik fordert gesetzliche Pflicht für Corona-Warn-Apps**
+  - [Link](https://www.dw.com/de/denkfabrik-fordert-gesetzliche-pflicht-f%C3%BCr-corona-warn-apps/a-56269362) (Deutsche Welle, 19. Januar 2021)
+- **Wie verändert Corona unsere Gesellschaft?**
+  - [Link](https://www.lpb-bw.de/gesellschaft-und-corona) (Landeszentrale für politische Bildung Baden-Württemberg, 07. Januar 2021)
+- **Digitalisiert Corona die Arbeitswelt?**
+  - [Link](https://www.lpb-bw.de/arbeit-und-corona) (Landeszentrale für politische Bildung Baden-Württemberg, 07. Januar 2021)
+
+## 📰 2020
+
+- **Why EU member states should take heed of the sovereignty concerns of their citizens**
+  - [Link](https://blogs.lse.ac.uk/europpblog/2020/12/21/why-eu-member-states-should-take-heed-of-the-sovereignty-concerns-of-their-citizens/) (LSE Blogs, 21. Dezember 2020)
+- **Höhere Anreize für App-Nutzung nötig**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-politik-hoehere-anreize-fuer-app-nutzung-noetig-_arid,1730384.html) (Mannheimer Morgen, 16. Dezember 2020)
+- **Warum die Corona-Warn-App ihre Wirkung verfehlt**
+  - [Link](https://www.rnz.de/nachrichten/mannheim_artikel,-uni-mannheim-warum-die-corona-warn-app-ihre-wirkung-verfehlt-_arid,593941.html) (Rhein-Neckar-Zeitung, 11. Dezember 2020)
+- **(Schöne) neue Arbeitswelt. Andere Frauenkarrieren, Stummschalttaste als Grenze und mehr Mut**
+  - [Link](https://www.faz.net/aktuell/karriere-hochschule/buero-co/was-veraendert-corona-langfristig-in-der-arbeitswelt-17086028.html) (Frankfurter Allgemeine Sonntagszeitung, 06. Dezember 2020)
+- **Psychologin zu Corona: „Verhalten ist die wichtigste Stellschraube“**
+  - [Link](https://www.berliner-zeitung.de/gesundheit-oekologie/psychologin-zu-corona-verhalten-ist-die-wichtigste-stellschraube-li.106895) (Berliner Zeitung, 23. September 2020)
+- **Vor dem Virus sind wir alle gleich?! Erster virtuellen Fachtag Arbeitsschutz zum Thema Corona**
+  - [Link](https://www.l-iz.de/melder/wortmelder/2020/09/Vor-dem-Virus-sind-wir-alle-gleich-Erster-virtuellen-Fachtag-Arbeitsschutz-zum-Thema-Corona-349995) (Leipziger Internet Zeitung, 20. September 2020)
+- **Kann Kurzarbeit glücklich machen? Eine Studie zeigt, dass viele sich über die gewonnene Zeit freuen — doch sie könnten dabei eine drohende Gefahr übersehen**
+  - [Link](https://www.businessinsider.de/karriere/arbeitsleben/umfrage-zur-kurzarbeit-viele-betroffene-ziehen-positives-fazit/) (Business Insider, 02. September 2020)
+- **Corona-Demonstrationen: „Der Protest muss deradikalisiert werden“**
+  - [Link](https://www.tagesschau.de/coronademo-protestforscher-reichsbuerger-103.html%20) (Tagesschau, 31. August 2020)
+- **corona nachgehakt: Wie reagiert die Gesellschaft?**
+  - [Link](https://www.phoenix.de/sendungen/ereignisse/corona-nachgehakt/wie-reagiert-die-gesellschaft-a-1795125.html) (phoenix, 29. August 2020)
+- **Zum gesellschaftlichen Umgang mit der Corona-Pandemie. Ergebnisse der Mannheimer Corona-Studie**
+  - [Link](https://www.bpb.de/apuz/314345/zum-gesellschaftlichen-umgang-mit-der-corona-pandemie) (Bundeszentrale für politische Bildung, 21. August 2020)
+- **„Gewöhnung macht leichtsinnig“**
+  - [Link](https://www.zeit.de/wissen/gesundheit/2020-08/ortwin-renn-coronavirus-risikoforschung-angst-ansteckung-leichtsinn) (ZEIT ONLINE, 10. August 2020)
+- **Mütter in der Coronakrise. Die Systemrelevanz der Care-Arbeit**
+  - [Link](https://www.deutschlandfunkkultur.de/muetter-in-der-coronakrise-die-systemrelevanz-der-care.976.de.html?dram:article_id=482065) (Deutschlandfunk Kultur, 10. August 2020)
+- **Kinder und Küche – stärkt die Corona-Krise alte Rollenbilder?**
+  - [Link](https://archiv.5min.at/202007298422/kinder-und-kueche-staerkt-die-corona-krise-alte-rollenbilder/) (5 Minuten, 20. Juli 2020)
+- **Väter packen in Corona-Zeiten zu Hause stärker mit an**
+  - [Link](https://www.augsburger-allgemeine.de/politik/Vaeter-packen-in-Corona-Zeiten-zu-Hause-staerker-mit-an-id57730986.html) (Augsburger Allgemeine, 16. Juli 2020)
+- **Pandemie verlangt Eltern viel ab**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-politik-pandemie-verlangt-eltern-viel-ab-_arid,1662294.html) (Mannheimer Morgen, 15. Juli 2020)
+- **Die Zeit der Ausreden ist vorbei**
+  - [Link](https://www.spiegel.de/panorama/studie-zu-familien-in-der-coronakrise-die-zeit-der-ausreden-ist-vorbei-a-59a419a8-1b8e-48bf-8988-5bb26e78b828) (SPIEGEL, 14. Juli 2020)
+- **Homeoffice-Boom könnte Corona-Pandemie überdauern**
+  - [Link](https://www.handelsblatt.com/politik/deutschland/studie-homeoffice-boom-koennte-corona-pandemie-ueberdauern/26002678.html?ticket=ST-4774016-O0eoKiPCDNWZis4YXcHo-ap4) (Handelsblatt, 14. Juli 2020)
+- **Eltern während der Corona-Krise**
+  - [Link](https://www.bib.bund.de/Publikation/2020/pdf/Eltern-waehrend-der-Corona-Krise.pdf?__blob=publicationFile&v=7) (Bundesinstitut für Bevölkerungsforschung, 14. Juli 2020)
+- **Gleichberechtigung und Corona: Plötzlich Hausmann**
+  - [Link](https://www.berliner-zeitung.de/politik-gesellschaft/gleichberechtigung-und-corona-ploetzlich-hausmann-li.93133) (Berliner Zeitung, 14. Juli 2020)
+- **Schlaflos in Mannheim**
+  - [Link](https://www.faz.net/aktuell/karriere-hochschule/coronasommer/corona-wie-die-leiterin-der-mannheimer-coronastudie-arbeitet-16849414.html) (Frankfurter Allgemeine Zeitung, 13. Juli 2020)
+- **Der Siegeszug des Homeoffice**
+  - [Link](https://www.faz.net/aktuell/karriere-hochschule/buero-co/der-siegeszug-des-homeoffice-16859055.html) (Frankfurter Allgemeine Zeitung, 13. Juli 2020)
+- **Generation Corona. Sind Jugendliche die Verlierer der Krise?**
+  - [Link](https://www.deutschlandfunk.de/generation-corona-sind-jugendliche-die-verlierer-der-krise.2927.de.html?dram:article_id=480380) (Deutschlandfunk, 11. Juli 2020)
+- **Inequality in employment during the Corona lockdown: Evidence from Germany (PDF)**
+  - [Link](https://www.uni-mannheim.de/media/Einrichtungen/gip/Bilder/Dokumente/JESP-Blog_Mo__hring_et__al_2020.pdf) (JESP European Social Policy Blog, 10. Juli 2020)
+- **Homeoffice-Studie: Ein Privileg für Gutverdienende**
+  - [Link](https://www.mannheimer-morgen.de/orte/mannheim_artikel,-mannheim-homeoffice-studie-ein-privileg-fuer-gutverdienende-_arid,2242407.html?&npg) (Mannheimer Morgen, 09. Juli 2020)
+- **Corona treibt die Digitalisierung**
+  - [Link](https://www.faz.net/aktuell/karriere-hochschule/buero-co/homeoffice-und-videokonferenzen-corona-treibt-die-digitalisierung-16853684.html) (Frankfurter Allgemeine Zeitung, 09. Juli 2020)
+- **Homeoffice auch nach Corona?**
+  - [Link](https://www.swr.de/swr2/leben-und-gesellschaft/homeoffice-nach-corona) (SWR Aktuell, 09. Juli 2020)
+- **Muss ich zurück ins Büro, wenn der Chef es anordnet?**
+  - [Link](https://karriere.de/mein-recht/corona-und-arbeitsrecht-muss-ich-zurueck-ins-buero-wenn-der-chef-es-anordnet/) (karriere.de, 06. Juli 2020)
+- **Nachholbedarf**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-kommentar-nachholbedarf-_arid,1656250.html) (Mannheimer Morgen, 29. Juni 2020)
+- **Gütersloh ist nicht überall**
+  - [Link](https://www.abendblatt.de/meinung/article229376384/Guetersloh-ist-nicht-ueberall.html) (Hamburger Abendblatt, 24. Juni 2020)
+- **Wir brauchen dringend neue Konzepte für die Kinderbetreuung**
+  - [Link](https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wir-brauchen-dringend-neue-konzepte-fuer-die-kinderbetreuung/25938110.html?ticket=ST-423460-6YhnDPch9ips9nahEW96-ap2) (Handelsblatt, 23. Juni 2020)
+- **Die Vermessung des Gemeinsinns**
+  - [Link](https://www.sueddeutsche.de/politik/werkstatt-demokratie-vermessung-gemeinsinn-1.4938666) (Süddeutsche Zeitung, 22. Juni 2020)
+- **Mittelstand Unternehmen lagern Daten aus und nutzen neue Kommunikationswege: Aus persönlich wird virtuell**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-wirtschaft-aus-persoenlich-wird-virtuell-_arid,1653340.html) (Mannheimer Morgen, 22. Juni 2020)
+- **Von den Tücken der Rückkehr ins Büro**
+  - [Link](https://www.berchtesgardener-anzeiger.de/artikel/von-den-tucken-der-rueckkehr-ins-buero) (Berchtesgadener Anzeiger, 22. Juni 2020)
+- **Studie zu Kontaktbeschränkungen – Wie haben die Deutschen Corona verkraftet?**
+  - [Link](https://web.archive.org/web/20200622010814/https://www.zdf.de/nachrichten/panorama/coronavirus-lockdown-gesundheit-merkel-100.html) (ZDF, 21. Juni 2020)
+- **„Menschen sind wieder sozial aktiv“**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-coronavirus-menschen-sind-wieder-sozial-aktiv-_arid,1652605.html) (Mannheimer Morgen, 19. Juni 2020)
+- **„Diesmal ist auch das Job-Risiko der Mitte groß“**
+  - [Link](https://www.welt.de/wirtschaft/article209642959/Corona-Krise-Ein-Drittel-aller-Kurzarbeiter-bangen-um-ihre-Jobs.html) (WELT, 16. Juni 2020)
+- **Corona verschärft Ungerechtigkeit zwischen Mann und Frau**
+  - [Link](https://www.br24.de/politik/corona-verschaerft-ungerechtigkeit-zwischen-mann-und-frau-1632856.html) (BR24, 16. Juni 2020)
+- **Jeder dritte Kurzarbeiter hat Angst um seinen Job**
+  - [Link](https://www.rnz.de/wirtschaft/wirtschaft-regional_artikel,-coronakrise-jeder-dritte-kurzarbeiter-hat-angst-um-seinen-job-update-_arid,519308.html) (Rhein-Neckar-Zeitung, 16. Juni 2020)
+- **Viele Kurzarbeiter fürchten Job-Verlust**
+  - [Link](https://www.rheinische-post.de/germany/rheinische-post-viersen/20200615/281788516305846) (Rheinische Post, 16. Juni 2020)
+- **Steiniger Weg aus der Krise**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-wirtschaft-steiniger-weg-aus-der-krise-_arid,1650983.html) (Mannheimer Morgen, 16. Juni 2020)
+- **ZEW: Jeder dritte Kurzarbeiter hat Angst um seinen Job**
+  - [Link](https://www.sueddeutsche.de/karriere/arbeitsmarkt-mannheim-zew-jeder-dritte-kurzarbeiter-hat-angst-um-seinen-job-dpa.urn-newsml-dpa-com-20090101-200615-99-427055) (Süddeutsche Zeitung, 15. Juni 2020)
+- **Jeder Dritte in Kurzarbeit fürchtet um seinen Arbeitsplatz**
+  - [Link](https://www.spiegel.de/wirtschaft/studie-jeder-dritte-in-kurzarbeit-fuerchtet-um-seinen-arbeitsplatz-a-e49ed268-4d13-4efc-b9d4-00a3f2d382c5) (SPIEGEL, 15. Juni 2020)
+- **Studie: Corona-Pandemie vergrößert soziale Ungleichheit**
+  - [Link](https://www.dw.com/de/frauen-und-corona-die-covid-19-pandemie-vergr%C3%B6%C3%9Fert-soziale-ungleichheit/a-53753545) (Deutsche Welle, 10. Juni 2020)
+- **Laut Studie weniger Ansteckungen dank Masken**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-politik-laut-studie-weniger-ansteckungen-dank-masken-_arid,1649237.html) (Mannheimer Morgen, 09. Juni 2020)
+- **Akzeptanz der Corona-Maßnahmen nimmt ab: Deutsche wollen mehr Lockerungen**
+  - [Link](https://www.rnd.de/gesundheit/akzeptanz-fur-corona-massnahmen-sinkt-in-deutschland-IJLDG6BGKFHQLFCWCMNPCFASGI.html) (RND.de, 01. Juni 2020)
+- **Was macht die Pandemie mit dem Geschlechterverhältnis?**
+  - [Link](https://www.swr.de/swr2/leben-und-gesellschaft/was-macht-die-pandemie-mit-dem-geschlechterverhaeltnis-100.html) (SWR2, 29. Mai 2020)
+- **Cost of Leadership in Zeiten der Corona-Krise**
+  - [Link](https://www.totalrewards.de/comp-ben/cost-of-leadership-in-zeiten-der-corona-krise-66731/) (TOTAL REWARDS, 29. Mai 2020)
+- **Homeoffice mit ungesunden Folgen**
+  - [Link](https://web.archive.org/web/20200607075323/https://www.morgenweb.de/newsticker_ticker,-homeoffice-mit-ungesunden-folgen-_tickerid,125061.html) (Mannheimer Morgen, 28. Mai 2020)
+- **Wie anfällig sind die Deutschen für Verschwörungsmythen?**
+  - [Link](https://www.tagesspiegel.de/politik/unzufriedenheit-misstrauen-abwehrhaltung-wie-anfaellig-sind-die-deutschen-fuer-verschwoerungsmythen/25866030.html) (Tagesspiegel, 28. Mai 2020)
+- **Hilfreich: Corona-Kontakt-Tagebuch führen**
+  - [Link](https://www.apotheken-umschau.de/Coronavirus/Hilfreich-Corona-Kontakt-Tagebuch-fuehren-558989.html) (Apotheken Umschau, 28. Mai 2020)
+- **Genervt von der Maskenpflicht, Angst vor der Zukunft**
+  - [Link](https://www.tagesspiegel.de/politik/stimmung-der-deutschen-in-der-coronakrise-genervt-von-der-maskenpflicht-angst-vor-der-zukunft/25862570.html) (Tagesspiegel, 27. Mai 2020)
+- **Niemand wird Frauen aus Nettigkeit helfen!**
+  - [Link](https://www.tagesspiegel.de/politik/corona-als-emanzipationsrisiko-niemand-wird-frauen-aus-nettigkeit-helfen/25855908.html) (Tagesspiegel, 24. Mai 2020)
+- **Studie: Bedrohungsgefühl der Menschen nimmt ab**
+  - [Link](https://www.ndr.de/nachrichten/politik/studie-bedrohungsgefuehl-der-menschen-nimmt-ab-25831916.html) (NDR Info, 23. Mai 2020)
+- **Altmaier gegen Recht auf Homeoffice – Rückkehr an den Arbeitsplatz viel diskutiert**
+  - [Link](https://www.tageskarte.io/politik/detail/altmaier-gegen-recht-auf-homeoffice-rueckkehr-an-den-arbeitsplatz-viel-diskutiert.html) (Tageskarte, 23. Mai 2020)
+- **Rückkehr ins Büro: Was dafür spricht – und was dagegen**
+  - [Link](https://web.archive.org/web/20200529132608/https://www.emderzeitung.de/lokales_artikel,-r%C3%BCckkehr-ins-b%C3%BCro-was-daf%C3%BCr-spricht-und-was-dagegen-_arid,2065927.html) (Emder Zeitung, 22. Mai 2020)
+- **Niedrige Corona-Zahlen und eine trügerische Frage: War der Lockdown übertrieben?**
+  - [Link](https://www.rnd.de/politik/niedrige-corona-zahlen-und-eine-trugerische-frage-war-der-lockdown-ubertrieben-3XLTYTYZ3RDYBARFHHWGNCL3W4.html) (RND.de, 21. Mai 2020)
+- **Deutschland flirtet mit der Normalität – nur das Homeoffice bleibt**
+  - [Link](https://www.spiegel.de/panorama/gesellschaft/corona-lockerungen-flirt-mit-der-normalitaet-nur-das-homeoffice-bleibt-a-eb8084dc-b7a8-4b34-9888-53a00f95da73) (SPIEGEL, 20. Mai 2020)
+- **Bye-bye, Homeoffice? Von den Tücken der Rückkehr ins Büro**
+  - [Link](https://www.sinndtuerringen.de/artikel/bye-bye-homeoffice-von-den-tucken-der-rueckkehr-ins-buero) (sinndtuerringen.de, 20. Mai 2020)
+- **Wie es um die Seelenlage der Nation steht**
+  - [Link](https://www.weser-kurier.de/deutschland-welt/deutschland-welt-politik_artikel,-wie-es-um-die-seelenlage-der-nation-steht-_arid,1913801.html) (Weser Kurier, 18. Mai 2020)
+- **Corona-Krise: Regierung erhöht Kurzarbeiter-Geld**
+  - [Link](https://www.heidelberg24.de/region/kurzarbeit-geld-corona-gehalt-rechner-lohn-erhoehung-gesetz-arbeitnehmer-arbeitgeber-covid-13628490.html) (Heidelberg24.de, 18. Mai 2020)
+- **Plötzlich Vollzeit-Papa**
+  - [Link](https://www.larer-zeitung.de/politik/pl%C3%B6tzlich-vollzeit-papa-krise-verschiebt-stressfaktoren) (Lahrer Zeitung, 16. Mai 2020)
+- **Forschung in Zeiten der Krise: Plötzlich Expertin für das Virus**
+  - [Link](https://www.faz.net/aktuell/karriere-hochschule/hoersaal/forschung-in-zeiten-der-krise-ploetzlich-expertin-fuer-das-coronavirus-16739266.html) (Frankfurter Allgemeine Zeitung, 15. Mai 2020)
+- **Umfragen zur Coronakrise: Wie sich die Gefühle in der Pandemie verändert haben**
+  - [Link](https://www.tagesspiegel.de/politik/umfragen-zur-coronakrise-wie-sich-die-gefuehle-in-der-pandemie-veraendert-haben/25831916.html) (Tagesspiegel, 15. Mai 2020)
+- **Mannheimer Professorin: Angst nimmt ab**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-politik-mannheimer-professorin-angst-nimmt-ab-_arid,1639776.html) (Mannheimer Morgen, 15. Mai 2020)
+- **Mannheimer Studie: “Social Distancing” geht drastisch zurück, Sorge um wirtschaftliche Lage steigt**
+  - [Link](https://www.rnd.de/gesundheit/private-kontaktbeschrankungen-bereitschaft-rucklaufig-laut-studie-SMAGHJH4KJHCTJV4P2QFOJJPTQ.html) (RND.de, 15. Mai 2020)
+- **Die Deutschen und das Virus**
+  - [Link](https://www.sueddeutsche.de/politik/coronavirus-corona-krise-einschraenkungen-lockerungen-umfragen-1.4904085) (Süddeutsche Zeitung, 14. Mai 2020)
+- **Soziale Kontakte nehmen stark zu: Corona-Stimmung passt sich Bedrohungslage an**
+  - [Link](https://www.n-tv.de/panorama/Corona-Stimmung-passt-sich-Bedrohungslage-an-article21780063.html) (n-tv, 14. Mai 2020)
+- **Hygiene, Maske, Freunde treffen: Welche Corona-Regeln die Deutschen noch befolgen**
+  - [Link](https://www.focus.de/politik/deutschland/haendewaschen-maske-freunde-treffen-kippt-die-stimmung-im-land-was-die-deutschen-ueber-die-corona-regeln-denken_id_11991854.html) (FOCUS Online, 14. Mai 2020)
+- **„Verschwörungstheoretiker haben in Krisenzeiten Aufschwung“**
+  - [Link](https://www.swr.de/swr2/leben-und-gesellschaft/verschwoerungstheoretiker-aufschwung-krisenzeiten-100.html) (SWR, 14. Mai 2020)
+- **Helfer sichtbar machen**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-kultur-helfer-sichtbar-machen-_arid,1639233.html) (Mannheimer Morgen, 14. Mai 2020)
+- **„Die Angst hat deutlich abgenommen“**
+  - [Link](https://www.saarbruecker-zeitung.de/nachrichten/politik/inland/studie-von-annelies-blom-immer-weniger-menschen-beachten-corona-regeln_aid-51111567) (Saarbrücker Zeitung, 14. Mai 2020)
+- **Wo nur die Spinnen sicheres Netz haben**
+  - [Link](https://web.archive.org/web/20200513034436/https://www.mdr.de/nachrichten/politik/gesellschaft/corona-home-office-ohne-schnelles-internet-100.html) (MDR, 13. Mai 2020)
+- **Mannheimer Corona-Studie liefert neue Erkenntnisse**
+  - [Link](https://www.regenbogen.de/kategorie-nachricht/rhein-neckar/20200513/weniger-akzeptanz-mehr-freunde-treffen) (Radio Regenbogen, 13. Mai 2020)
+- **Familie in der Corona-Krise: Die Frauen verlieren ihre Würde**
+  - [Link](https://www.zeit.de/gesellschaft/zeitgeschehen/2020-05/familie-corona-krise-frauen-rollenverteilung-rueckentwicklung) (ZEIT ONLINE, 12. Mai 2020)
+- **Verlangen nach Ende der Beschränkungen steigt**
+  - [Link](https://www.sueddeutsche.de/politik/coronavirus-lockerungen-politik-1.4903113) (Süddeutsche Zeitung, 11. Mai 2020)
+- **Corona-Studie aus Mannheim: Haben die Deutschen genug vom Kontaktverbot?**
+  - [Link](https://www.heidelberg24.de/region/corona-studie-uni-mannheim-kontaktverbot-abstandsgebot-ausgangssperre-angst-covid-19-ergebnis-13638190.html) (Heidelberg24.de, 10. Mai 2020)
+- **Kinder und Haushalt: Drängt die Coronakrise Frauen zurück in alte Rollenbilder?**
+  - [Link](https://www.stern.de/familie/beziehung/corona--bringt-das-virus-frauen-alte-rollenbilder-zurueck--9256614.html) (stern, 10. Mai 2020)
+- **Menschen verlieren Angst vor dem Virus**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-politik-menschen-verlieren-angst-vor-dem-virus-_arid,1637833.html) (Mannheimer Morgen, 09. Mai 2020)
+- **Die Lockerungen der Kontaktbeschränkungen kommen- doch die Menschen haben schon vorher wieder mehr Kontakt zueinander gesucht**
+  - [Link](https://www.suedkurier.de/ueberregional/politik/die-lockerungen-der-kontaktbeschraenkungen-kommen-doch-die-menschen-haben-schon-vorher-wieder-mehr-kontakt-zueinander-gesucht;art410924,10510664) (Südkurier, 09. Mai 2020)
+- **Kein Sinn für die Probleme in der Region: Laut einer Studie finden die meisten Deutschen Grenzschließungen in Ordnung**
+  - [Link](https://www.suedkurier.de/ueberregional/politik/kein-sinn-fuer-die-probleme-in-der-region-laut-einer-studie-finden-die-meisten-deutschen-grenzschliessungen-in-ordnung;art410924,10507968) (Südkurier, 06. Mai 2020)
+- **Gefangen im Homeoffice: So bringen Sie Arbeit zu Hause und Privatleben zusammen**
+  - [Link](https://www.automobilwoche.de/article/20200506/NACHRICHTEN/200509987/gefangen-im-homeoffice-so-bringen-sie-arbeit-zu-hause-und-privatleben-zusammen) (Automobilwoche, 06. Mai 2020)
+- **Die Angst vor der „Rolle rückwärts in die 50er-Jahre**
+  - [Link](https://www.welt.de/politik/deutschland/article207758603/Frauen-und-Corona-Die-Angst-vor-der-Rolle-rueckwaerts-in-die-50er.html) (WELT, 05. Mai 2020)
+- **Frauen tragen Großteil zusätzlicher Last – aber Krise könnte Wandel einläuten**
+  - [Link](https://www.focus.de/perspektiven/muetter-tragen-hauptlast-muetter-tragen-hauptlast-wie-der-ausnahmezustand-zum-rollenwandel-fuehren-koennte_id_11954905.html) (FOCUS Online, 05. Mai 2020)
+- **Zurück „in die 50er“: Warum die Krise Frauen härter trifft**
+  - [Link](https://de.euronews.com/2020/05/05/zuruck-in-die-50er-warum-die-krise-frauen-harter-trifft) (euronews, 05. Mai 2020)
+- **Corona-Studie aus Mannheim: Haben die Deutschen genug vom Kontaktverbot?**
+  - [Link](https://www.mannheim24.de/mannheim/corona-studie-uni-mannheim-kontaktverbot-treffen-ausgangssperre-angst-forscher-covid-19-ergebnis-13638190.html) (Mannheim24.de, 05. Mai 2020)
+- **Rollentausch und Erschöpfung: Mütter in der Coronakrise**
+  - [Link](https://www.apotheken-umschau.de/Coronavirus/Rollentausch-und-Erschoepfung-Muetter-in-der-Coronakrise-558537.html) (Apotheken Umschau, 04. Mai 2020)
+- **Plötzlich Heimarbeiter**
+  - [Link](https://www.tagesschau.de/corona-heimarbeiter-pl%C3%B6tzlich-homeoffice-1632443.html) (Tagesschau, 01. Mai 2020)
+- **Lockerung der Corona-Beschränkungen: Deutsche suchen wieder Kontakt**
+  - [Link](https://www.spiegel.de/panorama/gesellschaft/corona-lockdown-lockerungen-deutsche-suchen-wieder-kontakt-a-40a7c181-1ab8-4d4b-bca5-bf8f4ace27ea) (SPIEGEL, 30. April 2020)
+- **Vor Ort zwischen Corona-Angst und Sorglosigkeit**
+  - [Link](https://www.swr.de/swr2/leben-und-gesellschaft/vor-ort-zwischen-corona-angst-und-sorglosigkeit-100.html) (SWR, 30. April 2020)
+- **Corona-Studie untersucht private Treffen: “Der März änderte das Privatleben radikal”**
+  - [Link](https://www.rnd.de/wissen/corona-studie-untersucht-private-treffen-der-marz-anderte-das-privatleben-radikal-IN3LAWZY4FHSTKVACCYXECBGKE.html) (RND.de, 30. April 2020)
+- **Die Mannheim Corona Studie**
+  - [Link](https://www.swr.de/swr2/leben-und-gesellschaft/mannheimer-corona-studie-100.html) (SWR Aktuell, 25. April 2020)
+- **Die wachsende Macht der Regierung**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-politik-die-wachsende-macht-der-regierung-_arid,1632856.html) (Mannheimer Morgen, 25. April 2020)
+- **Home Office: Fast wie im Büro**
+  - [Link](https://www.sueddeutsche.de/karriere/home-office-fast-wie-im-buero-1.4885799) (Süddeutsche Zeitung, 24. April 2020)
+- **Corona-Krise: Forscher rechnen mit mehr als drei Millionen Arbeitslosen**
+  - [Link](https://www.faz.net/aktuell/wirtschaft/corona-krise-iab-rechnet-mit-mehr-als-drei-millionen-arbeitslosen-16739728.html) (Frankfurter Allgemeine, 24. April 2020)
+- **Mannheimer Corona-Studie – Wichtige Entscheidungen ohne Bundestag getroffen**
+  - [Link](https://www.morgenweb.de/startseite_artikel,-startseite-mannheimer-corona-studie-wichtige-entscheidungen-ohne-bundestag-getroffen-_arid,1632443.html) (Mannheimer Morgen, 24. April 2020)
+- **Menschen verlieren die Geduld mit dem Coronavirus**
+  - [Link](https://www.stimme.de/suedwesten/nachrichten/pl/menschen-verlieren-geduld-mit-dem-coronavirus;art19070,4346645) (Heilbronner Stimme, 24. April 2020)
+- **Oud-studente van University College Utrecht leidt Duitse corona survey**
+  - [Link](https://www.uu.nl/achtergrond/oud-studente-van-university-college-utrecht-leidt-duitse-corona-survey) (University College Utrecht Achtergrond, 21. April 2020)
+- **University College Utrecht alumna leads German corona study**
+  - [Link](https://www.uu.nl/en/background/university-college-utrecht-alumna-leads-german-corona-study) (University College Utrecht Background, 21. April 2020)
+- **Wenn Eltern die Krise bekommen: Chancen und Nachteile für Familien in Corona-Zeiten**
+  - [Link](https://www.hna.de/lokales/goettingen/goettingen-ort28741/wenn-eltern-krise-bekommen-chancen-und-nachteile-fuer-familien-in-corona-zeiten-13656314.html) (Hessische Niedersächsische Allgemeine, 18. April 2020)
+- **Die Kitas bleiben weiter zu – warum Mütter darunter meist mehr leiden als Väter**
+  - [Link](https://www.stern.de/politik/deutschland/coronavirus--wie-vor-allem-muetter-unter-den-strengen-kita-regeln-leiden-9228112.html) (stern.de, 17. April 2020)
+- **Kita-Schließung bis zum Sommer: „Viele Paare werden zurück in die 50er Jahre versetzt“**
+  - [Link](https://web.archive.org/web/20200417192444/https://www.rtl.de/cms/kita-schliessung-bis-zum-sommer-viele-paare-werden-zurueck-in-die-50er-jahre-versetzt-4525033.html) (RTL.de, 17. April 2020)
+- **Mannheimer Corona-Studie: Viel Homeoffice, wenig Sozialkontakte und hohe Akzeptanz**
+  - [Link](https://www.rnz.de/nachrichten/mannheim_artikel,-mannheimer-corona-studie-viel-homeoffice-wenig-sozialkontakte-und-hohe-akzeptanz-_arid,509961.html) (Rhein-Neckar-Zeitung, 17. April 2020)
+- **Corona-Doppelbelastung trifft Eltern hart – und Mütter besonders?**
+  - [Link](https://web.de/magazine/wirtschaft/corona-doppelbelastung-trifft-eltern-hart-muetter-34622496) (web.de, 17. April 2020)
+- **Kontaktverbot: Familien erreichen die Belastungsgrenze**
+  - [Link](https://www.nwzonline.de/politik/hannover-kontaktverbot-familien-erreichen-die-belastungsgrenze_a_50,7,4080747029.html) (Nordwest Zeitung, 17. April 2020)
+- **Der Corona-Doppeljob trifft Eltern hart – und Mütter besonders?**
+  - [Link](https://www.pfalzischer-merkur.de/artikel/der-corona-doppeljob-trifft-eltern-hart-und-muetter-besonders) (Pfälzischer Merkur, 17. April 2020)
+- **Forschung zur Eindämmung der Pandemie: Bundesregierung nutzt Mannheimer Corona-Studie**
+  - [Link](https://www.swr.de/swr2/leben-und-gesellschaft/forschung-zur-eind%C3%A4mmung-der-pandemie-nutzt-mannheimer-corona-studie-100.html) (SWR, 16. April 2020)
+- **Krisenstab und Bundesministerien greifen auf Ergebnisse der Mannheimer Corona-Studie zurück**
+  - [Link](https://www.presseportal.de/pm/31020/4572607) (Presseportal, 16. April 2020)
+- **Kampf gegen den Corona-Koller: Eltern als Krisenmanager überfordert**
+  - [Link](https://www.zeit.de/news/2020-04/16/eltern-als-krisenmanager-ueberfordert) (ZEIT ONLINE, 16. April 2020)
+- **Kampf gegen den Corona-Koller: Eltern als Krisenmanager überfordert**
+  - [Link](https://web.archive.org/web/20200424201603/https://www.nwzonline.de/rund-ums-kind/kampf-gegen-den-corona-koller-eltern-als-krisenmanager-ueberfordert_a_50,7,4059304070.html) (Nordwest Zeitung, 16. April 2020)
+- **Kampf gegen den Corona-Koller: Eltern als Krisenmanager überfordert**
+  - [Link](https://web.archive.org/web/20200423150107/https://www.wz.de/ratgeber/familie-und-jugend/eltern-als-krisenmanager-ueberfordert_aid-50083329) (Westdeutsche Zeitung, 16. April 2020)
+- **Kampf gegen den Corona-Koller: Coronavirus bringt viele Familien an Belastungsgrenze**
+  - [Link](https://www.nordkurier.de/panorama/coronavirus-bringt-viele-familien-an-belastungsgrenze-1176471) (Nordkurier, 16. April 2020)
+- **Das Deutsche Schulbarometer: Corona-Krise verstärkt Bildungsungleichheit**
+  - [Link](https://deutsches-schulportal.de/stimmen/das-deutsche-schulbarometer-hurrelmann-dohmen-corona-krise-verstaerkt-bildungsungleichheit/) (Das Deutsche Schulportal, 15. April 2020)
+- **Coronakrise verstärkt soziale Ungleichheit**
+  - [Link](https://www.tagesspiegel.de/politik/corona-uebertragung-durch-die-atemluft-reichen-zwei-meter-abstand-wirklich-aus/25656826.html) (Tagesspiegel, 14. April 2020)
+- **Coronakrise verstärkt soziale Ungleichheit**
+  - [Link](https://www.pnn.de/ueberregionales/corona-uebertragung-durch-die-atemluft-reichen-zwei-meter-abstand-wirklich-aus/25656826.html) (Potsdamer Neueste Nachrichten, 14. April 2020)
+- **Mannheimer Corona-Studie: Deutsche befürworten Corona-Maßnahmen weitestgehend**
+  - [Link](https://web.archive.org/web/20200927044620/https://www.events-magazin.de/eventbranche/deutsche-befuerworten-corona-massnahmen-weitestgehend/) (Events Magazin, 14. April 2020)
+- **Kontaktsperre: „Die Menschen finden es schwieriger, dem nachzukommen“**
+  - [Link](https://www.rbb.de/nachrichten/politik/kontaktsperre-die-menschen-finden-es-schwieriger-dem-nachzukommen-1624867.html) (rbb, 11. April 2020)
+- **Corona-Studie: Uni Mannheim fragt die Stimmung ab**
+  - [Link](https://www.rheinpfalz.de/politik_artikel,-corona-studie-uni-mannheim-fragt-die-stimmung-ab-_arid,5053721.html) (Die Rheinpfalz, 10. April 2020)
+- **Coronavirus: Einfluss auf Firmen und Mitarbeiter**
+  - [Link](https://unternehmer.de/infografik/249749-coronavirus-einfluss-firmen-mitarbeiter-infografik) (unternehmer.de, 10. April 2020)
+- **Corona-Studie aus Mannheim: „Alltagsleben hat sich komplett geändert”**
+  - [Link](https://www.n-tv.de/panorama/Alltagsleben-hat-sich-komplett-geaendert-article21703784.html) (n-tv, 09. April 2020)
+- **Studie: Große Skepsis bei Handyortung**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-politik-studie-grosse-skepsis-bei-handyortung-_arid,1627148.html) (Mannheimer Morgen, 09. April 2020)
+- **Mannheimer Corona-Studie: Starke soziale Ungleichheit bei Home-Office und Kurzarbeit (PDF)**
+  - [Link](https://www.presseportal.de/pm/31020/4568238) (Presseportal, 09. April 2020)
+- **Bevölkerungsstudie der Uni Mannheim: Die Akzeptanz für harte Corona-Maßnahmen schwindet**
+  - [Link](https://www.tagesspiegel.de/gesellschaft/bevoelkerungsstudie-der-uni-mannheim-die-akzeptanz-fuer-harte-corona-massnahmen-schwindet/25728054.html) (Tagesspiegel, 08. April 2020)
+- **Menschen heißen Corona-bedingte Einschränkungen gut**
+  - [Link](https://www.swr.de/swr2/leben-und-gesellschaft/menschen-hei%C3%9Fen-corona-bedingte-einschaenkungen-gut-100.html) (SWR Aktuell, 07. April 2020)
+- **Sorge vor Corona-Ausbreitung laut Studie größer als vor Rezession**
+  - [Link](https://www.rtf1.de/news.php?id=25444) (RTF1, 07. April 2020)
+- **Corona-Bevölkerungsstudie: Wolfgang Grünwald im Gespräch**
+  - [Link](https://www.rnf.de/mediathek/video/corona-bevoelkerungsstudie-wolfgang-gruenwald-im-gespraech/) (Rhein-Neckar-Fernsehen, 06. April 2020)
+- **Wie steht es um Social Distancing?**
+  - [Link](https://www.kompetenzzentrum-usability.digital/angebote/demonstratoren/social-distancing-social-awareness/wie-steht-es-um-social-distancing) (Mittelstand 4.0 Kompetenzzentrum Usability, 06. April 2020)
+- **Studie aus Mannheim enthüllt: So gut halten sich die Deutschen an die Corona-Maßnahmen**
+  - [Link](https://www.mannheim24.de/mannheim/coronavirus-mannheim-corona-studie-ausgangssperre-home-office-angst-forscher-covid-19-13638190.html) (Mannheim24, 04. April 2020)
+- **Ausgangsbeschränkungen in Deutschland**
+  - [Link](https://www.bayerischer-rundfunk.de/iq-magazin/ausgangsbeschraenkungen-in-deutschland-1624867.html) (Bayerischer Rundfunk, 03. April 2020)
+- **Home Office? Für 59 Prozent ist das keine Realität, zeigen die Ergebnisse der Mannheimer Corona-Studie**
+  - [Link](https://www.businessinsider.de/wissenschaft/gesundheit/home-office-fuer-59-prozent-ist-das-keine-realitaet-zeigen-die-ergebnisse-der-mannheimer-corona-studie/) (Business Insider, 03. April 2020)
+- **ProSieben Spezial: Corona-Update**
+  - [Link](https://www.prosieben.de/special/corona-update) (ProSieben, 03. April 2020)
+- **Bürger reduzieren Kontakte**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-politik-buerger-reduzieren-kontakte-_arid,1624867.html) (Mannheimer Morgen, 03. April 2020)
+- **Social Distancing, Ausgangssperren, Grenzschließungen: Was die Deutschen akzeptieren und was nicht**
+  - [Link](https://www.gmx.net/magazine/news/coronavirus/social-distancing-ausgangssperren-grenzschliessungen-deutschen-akzeptieren-34578140) (GMX News, 03. April 2020)
+- **Corona-Studie Mannheim: Soziale Kontakte fast vollständig eingeschränkt**
+  - [Link](https://www.regenbogen.de/kategorie-nachricht/rhein-neckar/20200403/soziale-kontakte-fast-vollstaendig-eingeschraenkt) (Radio Regenbogen, 03. April 2020)
+- **Studie zeigt: Halten sich die Deutschen an Corona-Maßnahmen?**
+  - [Link](https://www.sat1.de/tv/fruehstuecksfernsehen/video/studie-zeigt-halten-sich-die-deutschen-an-corona-massnahmen-clip) (SAT.1 Frühstücksfernsehen, 02. April 2020)
+- **Mannheimer Corona Studie: Wie das Leben der Deutschen im Ausnahmezustand aussieht**
+  - [Link](https://www.horizont.net/planung-analyse/nachrichten/mannheimer-corona-studie-wie-das-leben-der-deutschen-im-ausnahmezustand-aussieht-182054) (planung&analyse, 02. April 2020)
+- **Corona-Studie Uni Mannheim**
+  - [Link](https://www.deutschlandfunk.de/corona-studie-uni-mannheim-wie-das-leben-der-deutschen-im-ausnahmezustand-a-25f44775-f8b8-4106-9e24-518891e8ebd8) (Deutschlandfunk, 02. April 2020)
+- **Tägliche Umfrage: Wie gehen die Deutschen mit der Corona-Krise um?**
+  - [Link](https://www.rnd.de/wissen/tagliche-umfrage-wie-gehen-die-deutschen-mit-der-corona-krise-um-OHJT2VNQ3JEPXOO3WGUHGLQYQQ.html) (Redaktionsnetzwerk Deutschland, 02. April 2020)
+- **Deutsche halten sich an „Social Distancing“ – aber akzeptieren Ausgangssperre nicht**
+  - [Link](https://www.welt.de/politik/deutschland/article206963523/Coronavirus-Studie-So-reagieren-die-Deutschen-auf-Massnahmen-der-Regierung.html) (WELT, 02. April 2020)
+- **Bevölkerungsstudie der Uni Mannheim: So verkraftet Deutschland die Coronakrise**
+  - [Link](https://www.spiegel.de/panorama/gesellschaft/corona-studie-von-uni-mannheim-so-verkraftet-deutschland-die-krise-a-25f44775-f8b8-4106-9e24-518891e8ebd8) (SPIEGEL, 02. April 2020)
+- **Corona Studie der Uni Mannheim: „Überwältigende Unterstützung in der Bevölkerung“**
+  - [Link](https://www.swr.de/swr2/leben-und-gesellschaft/corona-studie-uni-mannheim-ueberwaeltigende-unterstuetzung-in-der-bevoelkerung-100.html) (SWR3, 02. April 2020)
+- **Eltern haben kaum Hilfe bei der Kinderbetreuung**
+  - [Link](https://de.statista.com/infografik/21314/betreuung-von-kindern-und-jugendlichen-waehrend-der-corona-krise/) (Statista, 02. April 2020)
+- **So funktioniert Gesellschaft in der Krise**
+  - [Link](https://www.morgenweb.de/mannheimer-morgen_artikel,-politik-so-funktioniert-gesellschaft-in-der-krise-_arid,1622381.html) (Mannheimer Morgen, 27. März 2020)
+- **Die Deutschen tragen die Maßnahmen mit (PDF)**
+  - [Link](https://www.uni-mannheim.de/media/Einrichtungen/gip/Bilder/Dokumente/20200327_RNZ_POLITIK_HD_18.pdf) (Rhein-Neckar-Zeitung, 27. März 2020)
+- **Studie zum Verhalten in der Coronavirus-Krise: Hälfte der Bevölkerung hat soziale Kontakte komplett eingestellt**
+  - [Link](https://www.tagesspiegel.de/politik/studie-zum-verhalten-in-der-coronavirus-krise-haelfte-der-bevoelkerung-hat-soziale-kontakte-komplett-eingestellt/25686274.html) (Tagesspiegel, 26. März 2020)
+- **Methoden der Meinungsforschung**
+  - [Link](https://web.archive.org/web/20201230115912/https://www.radioeins.de/programm/sendungen/die_profis/archivierte_sendungen/beitraege/methoden-der-meinungsforschung-.html) (RadioEins RBB, 22. Februar 2020)
+- **Online-Umfragen beeinflussen Politik**
+  - [Link](https://www.swr.de/swr2/leben-und-gesellschaft/online-umfragen-beeinflussen-politik-100.html) (SWR2, 14. Februar 2020)
+- **Largest public opposition to a gender boardroom quota in EU countries with the highest formal gender equality**
+  - [Link](https://blogs.lse.ac.uk/socialpolicy/2020/01/16/largest-public-opposition-to-a-gender-boardroom-quota-in-eu-countries-with-the-highest-formal-gender-equality/) (LSE Blog, 16. Januar 2020)
+- **Studie: Männer im oberen Management lehnen Frauenquote ab**
+  - [Link](https://www.she-works.de/aktuelles/studie-maenner-im-oberen-management-lehnen-frauenquote-ab/2020/01/14/) (SHE works!, 14. Januar 2020)
+- **Nachteile einer Steuervereinfachung werden unterschätzt**
+  - [Link](https://www.springerprofessional.de/steuerrecht/einkommensteuer/einkommensteuer-ist-fuer-deutsche-ein-buch-mit-sieben-siegeln/17551318) (Springer Professional, 09. Januar 2020)
+
+## 📰 2019
+
+- **Bürger geben Lobbygruppen Mitschuld an Klima-Versagen**
+  - [Link](https://www.spiegel.de/wirtschaft/soziales/lobbyismus-buerger-geben-konzernvertretern-mitschuld-an-lascher-klimapolitik-a-1282803.html) (SPIEGEL, 23. August 2019)
+
+## 📰 2017
+
+- **Meinungsforschung: Ein Gespräch mit Prof. Dr. Thomas König**
+  - [Link](https://www.die-debatte.org/meinungsforschung-interview-koenig/) (die Debatte, 21. August 2017)
+- **Rekrutierung, Qualitätssicherung, Incentivierung – Online-Panel brauchen Pflege: Fischen im Pool**
+  - [Link](https://www.horizont.net/planung-analyse/nachrichten/Panelforschung-Fischen-im-Pool--157762) (planung&analyse, 03. Mai 2017)
