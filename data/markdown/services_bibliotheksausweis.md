@@ -19,8 +19,8 @@ Als**Mitglied**der Universität Mannheim können Sie mit der ecUM und Ihren Zuga
 - campusweit [Internet](https://www.bib.uni-mannheim.de/services/internetzugang/) nutzen
 - Schließfächer benutzen
 
-**ecUM ab 1. Juli 2025 ohne Foto**
-Die ecUM erhält ab dem 1. Juli 2025 ein neues Design. Ab sofort erscheint kein Foto mehr auf der Vorderseite der Karte. An diese Stelle rückt stattdessen ein QR-Code. Die Änderung betrifft alle ab 1. Juli 2025 neu ausgestellten Karten; Bestandskarten können trotzdem weiterhin verwendet werden.
+**ecUM ohne Foto**
+Seit Juli 2025 erscheint kein Foto mehr auf der Vorderseite der Karte. An diese Stelle rückt stattdessen ein QR-Code. Die Änderung betrifft alle ab 1. Juli 2025 neu ausgestellten Karten; Bestandskarten können trotzdem weiterhin verwendet werden.
 
 
 ## Ersatz bei Verlust oder Defekt
