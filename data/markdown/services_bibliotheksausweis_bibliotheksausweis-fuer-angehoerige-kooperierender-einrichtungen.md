@@ -22,6 +22,7 @@ Diese Einrichtungen haben einen Kooperationsvertrag mit der Universität Mannhei
 - Hochschule der Bundesagentur für Arbeit, Mannheim
 - Institut für Deutsche Sprache (IDS), Mannheim
 - Mannheim Business School
+- Popakademie Baden-Württemberg
 - Staatl. Hochschule für Musik und Darstellende Kunst, Mannheim
 - Technische Hochschule Mannheim
 - Universität Heidelberg
