@@ -3927,17 +3927,15 @@ Weitere Informationen finden Sie auf der [Shibboleth-Seite der Universitätsbibl
 
 ## Shibboleth-Zugang zu digitalen Medien
 
-## Shibboleth-Zugang zu digitalen Medien
+## Shibboleth
 
-Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren Shibboleth nutzen, um komfortabel von außerhalb des Campus auf lizenzierte elektronische Medien zuzugreifen – ganz ohne VPN.
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um von außerhalb des Campus komfortabel auf digitale Medien zuzugreifen – ohne VPN.
 
-Shibboleth ermöglicht den Zugang zu lizenzierten elektronischen Angeboten auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
+Shibboleth ist ein Authentifizierungsverfahren, das den Zugriff auf lizenzierte elektronische Angebote auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus ermöglicht. Der Zugang wird auf den Seiten der Anbieter beispielsweise als **Institutionelles Login** bezeichnet.
 
-Um Shibboleth zu nutzen, wählen Sie auf der jeweiligen Anbieterplattform die Universität Mannheim aus einer Liste aus. Anschließend melden Sie sich über die Anmeldemaske der Universität mit Ihrer Uni-ID an.
+Als Angehörige der Universität Mannheim wählen Sie auf der jeweiligen Anbieterplattform die Universität Mannheim aus einer Liste aus und melden sich anschließend mit Ihrer Uni-ID über die Anmeldemaske der Universität an.
 
-**Beispiel:** Cambridge University Press
-
-Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Derzeit ist der Shibboleth-Zugang über die Universitätsbibliothek Mannheim auf den folgenden Plattformen möglich:
+**Hinweis:** Nicht alle Anbieter unterstützen Shibboleth. Der Shibboleth-Zugang über die Universitätsbibliothek Mannheim ist aktuell auf den folgenden Plattformen möglich:
 
 ### Übersicht der unterstützten Anbieter
 
@@ -3999,6 +3997,6 @@ Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Derzeit i
 - Wiley
 - World Scientific Publishing
 
-**Hinweis:** Die Liste der unterstützten Anbieter kann sich ändern. Prüfen Sie im Zweifel die aktuellen Informationen auf der Website der Universitätsbibliothek Mannheim.
+**Beispiel:** Bei Cambridge University Press können Sie sich über das institutionelle Login mit Ihrer Uni-ID anmelden.
 
-Weitere Informationen finden Sie auf der [Shibboleth-Seite der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/).
+Weitere Informationen und aktuelle Hinweise finden Sie auf der [Website der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/).

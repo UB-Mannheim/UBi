@@ -52,11 +52,6 @@ Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an litverw.ub@
 
 
 
-### Literaturverwaltung mit Zotero
-
-Präsentation zum Kurs [Literaturverwaltung mit Zotero](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung-mit-Zotero.pdf) (PDF, 1820 KB)
-
-
 ### Literaturverwaltung mit Zotero für Psychologinnen und Psychologen
 
 Präsentation zum Kurs [Literaturverwaltung mit Zotero für Psychologinnen und Psychologen](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Literaturverwaltung_mit_Zotero_fuer_Psychologinnen_und_Psychologen.pdf) (PDF, 1520 KB) mit zugehörigen [Hands-on Übungen](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Zotero/Hands-on_UEbungen_zu_Zotero_-_Psychologie.pdf) (PDF, 410 KB)
