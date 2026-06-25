@@ -78,7 +78,7 @@ Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof We
 Telefon: +49 621 181-2990
 E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
 
-**Aufgabenbereiche:**
+**Aufgaben:**
 
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
@@ -87,5 +87,3 @@ E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
-
-[Weitere Informationen zum Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a5/)
