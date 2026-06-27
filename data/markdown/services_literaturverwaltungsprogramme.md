@@ -8,7 +8,6 @@
 ## Mit Literaturverwaltungsprogrammen sammeln und verwalten Sie Ihre Literaturstellen, fügen Zitationen in den Text ein und erstellen ganz einfach Ihr Literaturverzeichnis.
 
 Die Universitätsbibliothek unterstützt Sie mit Beratung und Kursen bei der Literaturverwaltung mit der Open-Source-Software Zotero.
-Die Landes-Campuslizenz für das Literaturverwaltungsprogramm Citavi ist zum 31. März 2024 ausgelaufen und wurde aufgrund der aktuellen Anbieterkonditionen nicht verlängert.[Weitere Informationen](https://blog.bib.uni-mannheim.de/Aktuelles/?p=25758)[Anleitung zum Umstieg auf Zotero](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Literaturverwaltung/Anleitung-Citavi-Zotero-Umstieg.pdf) (PDF, 419 KB)
 
 
 ### [Zotero](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zotero/)

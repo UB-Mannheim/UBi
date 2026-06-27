@@ -15,6 +15,7 @@
 | Banks and financial service industry | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) |
 | M&A and ownership structure | Aktienführer data archive,Zephyr | Zephyr | Zephyr | SDC Worldwide M&A,Zephyr |
 | Executive information | Orbis,Aktienführer data archive,Dun & Bradstreet Hoovers | Orbis,Dun & Bradstreet Hoovers | Orbis,COMPUSTAT Execucomp,Dun & Bradstreet Hoovers | Orbis,Dun & Bradstreet Hoovers |
+| Corporate filings |  |  |  | FinancialReports |
 
 
 
@@ -79,9 +80,15 @@ Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registra
 
 ## Dun & Bradstreet Hoovers (former: D&B Firmendatenbank/Bisnode/Hoppenstedt Firmendatenbank)
 
-**Contents:**
-D&B Hoovers combines more than 220 million pieces of business information from 30,000 sources in 190 countries. The classic company data (address, sector, number of employees, risk classes, etc.) is enriched with data from online sources (websites, press) and signal information (trigger, intent) and is updated daily.
+**Contents:**D&B Hoovers combines more than 220 million pieces of business information from 30,000 sources in 190 countries. The classic company data (address, sector, number of employees, risk classes, etc.) is enriched with data from online sources (websites, press) and signal information (trigger, intent) and is updated daily.
 Access: [Dun & Bradstreet Hoovers](https://dbis.ur.de/UBMAN/resources/105992)
+
+
+## FinancialReports
+
+**Contents:**FinancialReports is an international database of corporate reports and regulatory disclosures. It contains more than 28 million documents from over 53,000 companies across 48 markets and in 21 languages, spanning a period of more than 20 years. The collection includes annual reports, quarterly reports, ESG and sustainability reports, as well as other corporate announcements and filings. The web version is free to use and provides access to the majority of full-text documents without registration.
+In addition to the original documents (PDF), the content is also available in machine-readable formats such as Markdown and JSON. The data is linked to identifiers such as ISIN, LEI, and ticker symbols and is particularly well-suited for research in the fields of finance, accounting, and sustainability, as well as for text mining and other data-driven analyses. A paid API and bulk downloads enable the systematic use of large data sets for empirical research.
+Access: To authenticate with [FinancialReports](https://financialfilings.com/), please click the "Log in" button and then select "Continue with your institution." You will be redirected to the University of Mannheim's login page, where you can sign in using your university credentials.
 
 
 ## I/B/E/S
