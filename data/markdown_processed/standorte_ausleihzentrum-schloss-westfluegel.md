@@ -65,9 +65,4 @@ Schloss Schneckenhof West – Raum S 063
 Telefon: +49 621 181-2720
 E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
 
-#### Zuständigkeiten
-
-- Ansprechpartner für alle Fragen rund um Ausleihe und Fernleihe
-- Kontaktaufnahme per E-Mail oder Telefon möglich
-
-Weitere Informationen finden Sie auf der [Webseite der Universitätsbibliothek Mannheim – Ausleihe und Fernleihe](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/ausleihe-und-fernleihe/).
+**Hinweis:** Für alle Anliegen rund um Ausleihe und Fernleihe wenden Sie sich bitte an das Team unter der angegebenen E-Mail-Adresse oder telefonisch an die genannten Ansprechpartner.

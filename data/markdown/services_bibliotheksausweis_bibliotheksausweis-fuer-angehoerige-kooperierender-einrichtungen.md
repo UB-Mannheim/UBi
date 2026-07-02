@@ -15,7 +15,7 @@ Diese Einrichtungen haben einen Kooperationsvertrag mit der Universität Mannhei
 
 - Absolventum Mannheim (Wählen Sie im [Antragsformular](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/) unter „Einrichtung“ bitte „Privatperson“ aus.)
 - Alanus Hochschule
-- [Duale Hochschule Baden-Württemberg Mannheim](https://www.mannheim.dhbw.de/service/bibliothek/lernen-arbeiten)
+- [Duale Hochschule Baden-Württemberg Mannheim](https://www.mannheim.dhbw.de/service/bibliothek/lernen-arbeiten#panel-5810-6)
 - Evaluationsagentur Baden-Württemberg (evalag), Mannheim
 - GESIS Mannheim
 - Hochschule für Wirtschaft und Gesellschaft Ludwigshafen

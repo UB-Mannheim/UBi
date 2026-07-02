@@ -3,7 +3,7 @@ title: Informationskompetenz und E-Learning – Ansprechpartner und Aufgaben an 
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/informationskompetenz-und-e-learning/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/information-literacy-and-e-learning/
 category: Kontakt
-tags: ['Informationskompetenz', 'E-Learning', 'Fachreferenten', 'Romanistik', 'Geschichte', 'Schulungen', 'Projekte', 'Bibliotheksservice']
+tags: ['Informationskompetenz', 'E-Learning', 'Fachreferenten', 'Romanistik', 'Geschichte', 'Schulungen', 'Bibliotheksservices', 'Projekte']
 language: de
 ---
 
@@ -11,7 +11,7 @@ language: de
 
 ## Dr. Jorge Murcia Serra
 
-**Rolle:**
+**Funktionen:**
 
 - Betreuung Informationskompetenz und E-Learning
 - Fachreferent für Romanistik und Sprachlernmaterialien
@@ -38,7 +38,7 @@ ______________________________________________________________________
 
 ## Viktor Boecking, M.A. (er/ihm)
 
-**Rolle:**
+**Funktionen:**
 
 - Leiter der Abteilung Kommunikation
 - Fachreferent für Geschichte
@@ -49,6 +49,7 @@ ______________________________________________________________________
 - Kommunikation und Öffentlichkeitsarbeit
 - Projektleitung Provenienzforschung
 - Ausstellungs- & Veranstaltungsmanagement
+- Ansprechperson Diversität & Nachhaltigkeit
 - Betreuung der historischen Sammlungen
 - Betreuung Themenkomplex Fake Science
 - Informationskompetenz & E-Learning

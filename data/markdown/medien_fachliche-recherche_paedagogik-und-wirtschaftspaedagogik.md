@@ -117,10 +117,16 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 
 
-### Xiuwen Ye, M.Sc.
+### Lorena Abou-Warda, M.Sc.
 
-Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
+Stellvertretende Leiterin der Abteilung Verwaltung, Haushalt, Technik | Fachreferentin für Pädagogik und Wirtschaftspädagogik
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die FächerPädagogik und Wirtschaftspädagogik
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
-- Telefon: +49 621 181-3753
-- E-Mail: xiuwen.ye@uni-mannheim.de
-Vertretung[Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)
+- Telefon: +49 621 181-3929
+- E-Mail: lorena.steeb@uni-mannheim.de
+Vertretung[Xiuwen Ye](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/xiuwen-ye/)

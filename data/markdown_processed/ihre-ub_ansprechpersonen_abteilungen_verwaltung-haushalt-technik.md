@@ -1,32 +1,31 @@
 ---
-title: Verwaltung, Haushalt und Technik – Ansprechpartner und Kontaktinformationen der Universitätsbibliothek Mannheim
+title: Verwaltung, Haushalt und Technik – Ansprechpartner und Aufgaben der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/verwaltung-haushalt-technik/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/administration-budget-and-technical-services/
 category: Kontakt
-tags: ['Verwaltung', 'Haushalt', 'Technik', 'Ansprechpartner', 'Universitätsbibliothek', 'Kontakt', 'Organisation', 'Abteilungen']
+tags: ['Verwaltung', 'Haushalt', 'Technik', 'Ansprechpartner', 'Fachreferat', 'Pädagogik', 'Wirtschaftspädagogik', 'Universitätsbibliothek']
 language: de
 ---
 
 # Verwaltung, Haushalt und Technik – Ansprechpartner
 
-Die Abteilung Verwaltung, Haushalt und Technik der Universitätsbibliothek Mannheim ist für administrative, finanzielle und technische Belange zuständig. Nachfolgend finden Sie die zentralen Ansprechpartnerinnen der Abteilung.
-
-## Leitung der Abteilung
-
-### Katharina Selzer
+## Katharina Selzer
 
 **Leiterin der Abteilung Verwaltung, Haushalt, Technik**
 Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 276, 68161 Mannheim
 Telefon: +49 621 181-2943
 E-Mail: [katharina.selzer@uni-mannheim.de](mailto:katharina.selzer@uni-mannheim.de)
 
-## Stellvertretende Leitung und Fachreferate
-
-### Lorena Steeb, M.Sc.
+## Lorena Abou-Warda, M.Sc.
 
 **Stellvertretende Leiterin der Abteilung Verwaltung, Haushalt, Technik**
-**Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik**
-**Digitalisierungsreferentin**
+**Fachreferentin für Pädagogik und Wirtschaftspädagogik**
 Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 Telefon: +49 621 181-3929
 E-Mail: [lorena.steeb@uni-mannheim.de](mailto:lorena.steeb@uni-mannheim.de)
+
+### Aufgabenbereiche von Lorena Abou-Warda
+
+- Literaturauswahl und -erschließung für die Fächer Pädagogik und Wirtschaftspädagogik
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich

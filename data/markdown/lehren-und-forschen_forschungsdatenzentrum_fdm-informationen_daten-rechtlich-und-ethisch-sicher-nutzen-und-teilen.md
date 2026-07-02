@@ -79,4 +79,5 @@ Fragen zu rechtlichen und ethischen Themen im Zusammenhang mit Forschungsdaten z
 
 - [Stellungnahme](https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahme-praesidium-ki-ai-data.pdf) (pdf, 44 KB) des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG
 - [Leitlinie](https://research-and-innovation.ec.europa.eu/document/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en) für den verantwortungsvollen Einsatz von generativer KI in der Forschung, entwickelt vom European Research Area Forum
+- Die [GUIDE-LLM-Checkliste](https://llm-checklist.com/assets/downloads/GUIDE-LLM_Example_LLM_Health.pdf) (pdf, 425 KB) bietet einen standardisierten Rahmen für die Dokumentation von Studien, die Large LanguageModels (LLMs) in den Verhaltens- und Sozialwissenschaften einsetzen. Sie zielt darauf ab, Transparenz, Reproduzierbarkeitund ethische Rechenschaftspflicht in allen Phasen der LLM-basierten Forschung zu fördern.
 

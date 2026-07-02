@@ -56,11 +56,11 @@ Aufgaben:
 
 ### Xiuwen Ye, M.Sc.
 
-Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
+Fachreferentin für Wirtschaftswissenschaften
 
 Aufgaben:
 
-- Literaturauswahl und -erschließung für die FächerBetriebswirtschaftslehre,VolkswirtschaftslehreundPädagogik und Wirtschaftspädagogik
+- Literaturauswahl und -erschließung für die FächerBetriebswirtschaftslehreundVolkswirtschaftslehre
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
@@ -108,6 +108,7 @@ Aufgaben:
 - Kommunikation und Öffentlichkeitsarbeit
 - Projektleitung Provenienzforschung
 - Ausstellungs- & Veranstaltungsmanagement
+- Ansprechperson Diversität & Nachhaltigkeit
 - Betreuung der historischen Sammlungen
 - Betreuung Themenkomplex Fake Science
 - Informationskompetez & E-Learning
@@ -198,18 +199,12 @@ Aufgaben:
 
 
 
-### Xiuwen Ye, M.Sc.
+### Lorena Abou-Warda, M.Sc.
 
-Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
-
-Aufgaben:
-
-- Literaturauswahl und -erschließung für die FächerBetriebswirtschaftslehre,VolkswirtschaftslehreundPädagogik und Wirtschaftspädagogik
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
+Stellvertretende Leiterin der Abteilung Verwaltung, Haushalt, Technik | Fachreferentin für Pädagogik und Wirtschaftspädagogik
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
-- Telefon: +49 621 181-3753
-- E-Mail: xiuwen.ye@uni-mannheim.de
+- Telefon: +49 621 181-3929
+- E-Mail: lorena.steeb@uni-mannheim.de
 
 
 ### Philosophie
@@ -417,11 +412,11 @@ Aufgaben:
 
 ### Xiuwen Ye, M.Sc.
 
-Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
+Fachreferentin für Wirtschaftswissenschaften
 
 Aufgaben:
 
-- Literaturauswahl und -erschließung für die FächerBetriebswirtschaftslehre,VolkswirtschaftslehreundPädagogik und Wirtschaftspädagogik
+- Literaturauswahl und -erschließung für die FächerBetriebswirtschaftslehreundVolkswirtschaftslehre
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim

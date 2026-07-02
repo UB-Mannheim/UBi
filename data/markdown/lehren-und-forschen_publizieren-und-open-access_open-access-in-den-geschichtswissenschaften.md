@@ -252,6 +252,7 @@ Aufgaben:
 - Kommunikation und Öffentlichkeitsarbeit
 - Projektleitung Provenienzforschung
 - Ausstellungs- & Veranstaltungsmanagement
+- Ansprechperson Diversität & Nachhaltigkeit
 - Betreuung der historischen Sammlungen
 - Betreuung Themenkomplex Fake Science
 - Informationskompetez & E-Learning

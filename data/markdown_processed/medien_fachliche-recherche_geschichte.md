@@ -1,5 +1,5 @@
 ---
-title: Fachliche Recherche und Services der Universitätsbibliothek Mannheim für Geschichte
+title: Fachliche Recherche und Services der UB Mannheim für Geschichte
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/geschichte/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/history/
 category: Medien
@@ -9,7 +9,7 @@ language: de
 
 # Geschichte – Fachliche Recherche und Services
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Geschichte umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für individuelle Beratung oder Tipps zum wissenschaftlichen Arbeiten stehen verschiedene Angebote zur Verfügung, darunter Kurse, Tutorials und persönliche Beratung.
+Für das Fach Geschichte bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Rechercheeinstiege. Bei Fragen zur Recherche oder zum wissenschaftlichen Arbeiten stehen Schulungen und individuelle Beratung zur Verfügung.
 
 ## Recherchieren
 
@@ -19,15 +19,16 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Geschichte umfangreich
 - [Historical Abstracts with Full Text](https://dbis.ur.de/UBMAN/resources/9777)
 - [Historische Bibliographie Online](https://dbis.ur.de/UBMAN/resources/394)
 - [H-Soz-u-Kult](https://dbis.ur.de/UBMAN/resources/6837)
-- Weitere [Datenbanken zur Geschichte](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=14&libconnect%5Bsort%5D=alph) und zu anderen Fachgebieten sind über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/) zugänglich.
+- Weitere [Datenbanken zur Geschichte](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=14&libconnect%5Bsort%5D=alph) und zu anderen Fachgebieten im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/)
 
 ### E-Journals
 
-- Die E-Journals für das Fach Geschichte finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubman&colors=15&ocolors=40&lett=f&gebiete=26) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+- E-Journals für Geschichte in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubman&colors=15&ocolors=40&lett=f&gebiete=26)
+- Recherche im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
 
 ### E-Books
 
-- Die lizenzierten E-Books im Fach Geschichte sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+- Lizenzierte E-Books im Fach Geschichte im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
 - Informationen zu Nutzungsbedingungen: [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)
 - Ausgewählte E-Book-Pakete:
   - [De Gruyter Online Geschichte](https://www.degruyter.com/browse?t1=HI)
@@ -36,9 +37,10 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Geschichte umfangreich
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) befindet sich frei zugängliche Literatur zum Fach Geschichte, aufgestellt nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online). Ausleihen sind hier nur für wissenschaftliches Personal der Universität Mannheim möglich.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) steht weitere ausleihbare Literatur zur Geschichte bereit. Die wichtigsten Lehrbücher sind in der Lehrbuchsammlung für Studierende der Universität Mannheim und kooperierender Einrichtungen verfügbar.
-- Die gesamte Literatur der UB ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
+- [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/): Literatur zum Fach Geschichte, frei zugänglich, nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihe nur für wissenschaftliches Personal der Universität Mannheim.
+- [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/): Weitere Literatur zur Geschichte, ausleihbar mit ecUM oder UB-Chipkarte.
+- Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel: Wichtige Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen, mehrfach vorhanden und ausleihbar.
+- Recherche aller Bestände im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
 
 ### Forschungseinrichtungen vor Ort
 
@@ -48,7 +50,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Geschichte umfangreich
 
 ## Kurse und Tutorials
 
-Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Geschichte an. Tutorials stehen jederzeit online zur Verfügung. Individuelle Beratung ist ebenfalls möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Geschichte an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
 
 - [Kurse](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -80,16 +82,14 @@ Leiter der Abteilung Kommunikation | Fachreferent für Geschichte
 - Kommunikation und Öffentlichkeitsarbeit
 - Projektleitung Provenienzforschung
 - Ausstellungs- & Veranstaltungsmanagement
+- Ansprechperson Diversität & Nachhaltigkeit
 - Betreuung der historischen Sammlungen
 - Betreuung Themenkomplex Fake Science
 - Informationskompetenz & E-Learning
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 
-**Kontakt:**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-- Telefon: +49 621 181-2938
-- E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
-
+**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
+**Telefon:** +49 621 181-2938
+**E-Mail:** [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
 **Vertretung:** [Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)

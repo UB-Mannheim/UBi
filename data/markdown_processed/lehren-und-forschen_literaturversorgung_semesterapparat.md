@@ -106,7 +106,7 @@ Weitere Informationen zum Datenschutz finden Sie unter:
 - [Datenschutzinformationen der Universitätsbibliothek](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/)
 - [Universitätsbibliothek Hinweise zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/)
 
-Bitte lesen Sie diese Hinweise sorgfältig, bevor Sie den Antrag stellen.
+Die Informationen zum Datenschutz wurden zur Verfügung gestellt.
 
 ## Kontakt
 
