@@ -3,19 +3,19 @@ title: MAObjects – Digitale Sammlungen erstellen und präsentieren mit Omeka a
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/maobjects/
 category: Services
-tags: ['Digitale Sammlungen', 'Omeka', 'Forschungsdaten', 'Virtuelle Ausstellungen', 'Metadaten', 'Content-Management', 'Universitätsbibliothek', 'FDZ']
+tags: ['Digitale Sammlungen', 'Omeka', 'Forschungsdaten', 'Virtuelle Ausstellungen', 'Metadaten', 'Open Science', 'Universitätsbibliothek', 'FDZ']
 language: de
 ---
 
 # MAObjects – Digitale Sammlungen erstellen mit Omeka
 
-Die Universitätsbibliothek Mannheim bietet mit MAObjects eine Plattform zur Erstellung und Präsentation digitaler Objektsammlungen und virtueller Ausstellungen für Forschende.
+Die Universitätsbibliothek Mannheim bietet Forschenden mit MAObjects eine Plattform zur Erstellung und Präsentation digitaler Objektsammlungen und virtueller Ausstellungen.
 
 ## Was ist MAObjects?
 
-MAObjects ermöglicht das Hochladen, Importieren oder Einbetten digitaler Objekte wie Bilder, Texte, Video- und Audio-Dateien. Die Beschreibung der Objekte erfolgt mittels standardisierter Metadaten, was die Durchsuchbarkeit der Sammlungen sicherstellt.
+Über das Content-Management-System können digitale Objekte (Bilder, Texte, Video- und Audio-Dateien) hochgeladen, importiert oder eingebettet werden. Die Beschreibung der Objekte mittels standardisierter Metadaten stellt die Durchsuchbarkeit der Sammlungen sicher.
 
-Für eine ansprechende Präsentation steht ein Theme im Corporate Identity (CI) der Universität Mannheim zur Verfügung. Über eine API können die Daten zur weiteren Nutzung im Sinne einer offenen und reproduzierbaren Wissenschaft bereitgestellt werden.
+Für die ansprechende Präsentation der Objekte steht ein Theme im Corporate Identity (CI) der Universität Mannheim zur Verfügung. Über eine API können die Daten zur weiteren Verwendung im Sinne einer offenen und reproduzierbaren Wissenschaft angeboten werden.
 
 ## Unser Service
 
@@ -23,7 +23,7 @@ Das Forschungsdatenzentrum (FDZ) übernimmt das Hosting und unterstützt Forsche
 
 ## Software „OMEKA“
 
-Für die technische Umsetzung wird das freie, quelloffene Content-Management-System [OMEKA](https://omeka.org) verwendet. Im Unterschied zu traditioneller institutioneller Repository-Software konzentriert sich OMEKA auf die Anzeige einzelner Objekte und nutzt dabei standardisierte Metadaten, beispielsweise unqualifiziertes Dublin Core.
+Für die technische Umsetzung der digitalen Sammlungen wird das freie, quelloffene Content-Management-System [OMEKA](https://omeka.org) genutzt. Im Vergleich zu traditioneller institutioneller Repository-Software konzentriert sich OMEKA auf die Anzeige der einzelnen Objekte und verwendet dabei standardisierte Metadaten, zum Beispiel unqualifiziertes Dublin Core.
 
 ## Unsere digitalen Sammlungen
 
@@ -35,6 +35,9 @@ Für die technische Umsetzung wird das freie, quelloffene Content-Management-Sys
 
 - [Cynisca: Documenting Women and Girls in Ancient Greek Sports](https://fdz.bib.uni-mannheim.de/cynisca)
   In Kooperation mit Melanie Meaker, Lehrstuhl für Alte Geschichte
+
+- [Karibische Literaturen](https://fdz.bib.uni-mannheim.de/karibische-literaturen/)
+  In Kooperation mit PD Dr. Juliane Tauchnitz, Lehrstuhl Romanische Literatur- und Medienwissenschaft
 
 ## Kontakt
 

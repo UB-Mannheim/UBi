@@ -11,13 +11,6 @@
 
 ## Aktuelle Stellenangebote
 
-
-
-## Knowledge Graph Consultant und Engineer (m/w/d)
-
-An der Universitätsbibliothek Mannheim ist zum 1. August 2026 eine Vollzeitstelle als Knowledge Graph Consultant und Engineer (m/w/d, E 13 TV-L BW ) zu besetzen.
-Bewerbungsschluss ist der 7. Juli 2026.
-Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_26_07_E13_KGI_Ausschreibung_DE.pdf) (PDF, 821 KB).
 Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/).
 
 

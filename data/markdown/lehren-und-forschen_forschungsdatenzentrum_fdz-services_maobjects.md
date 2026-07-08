@@ -45,6 +45,13 @@ in Kooperation mit Melanie Meaker, Lehrstuhl für Alte Geschichte
 
 
 
+### [Karibische Literaturen](https://fdz.bib.uni-mannheim.de/karibische-literaturen/)
+
+Karibische Literaturen
+in Kooperation mit PD Dr. Juliane Tauchnitz, Lehrstuhl Romanische Literatur- und Medienwissenschaft
+
+
+
 ## Kontakt
 
 

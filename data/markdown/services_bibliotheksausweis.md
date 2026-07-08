@@ -33,7 +33,7 @@ Ersatzkarte beträgt 15 Euro..
 
 
 - Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an Ihre universitäre E-Mail-Adresse geschickt.
-- Adressänderungen sind an den ecUM-Terminals und in den Studienbüros möglich.
+- Adressänderungen sind im Studierendenportal und in den Studienbüros möglich.
 
 
 
