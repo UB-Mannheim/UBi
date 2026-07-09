@@ -1,15 +1,15 @@
 ---
-title: Forschungsdatenmanagement – Informationen, Anlaufstellen und Angebote der Universitätsbibliothek Mannheim
+title: Informationen zum Forschungsdatenmanagement an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/information-on-research-data-management/
 category: Services
-tags: ['Forschungsdatenmanagement', 'Forschungsdatenzentrum', 'Datenmanagement', 'Datenarchivierung', 'Datenpublikation', 'Digital Humanities', 'Datenorganisation', 'Datenmanagementplan']
+tags: ['Forschungsdatenmanagement', 'Forschungsdatenzentrum', 'Datenmanagementpläne', 'Datenspeicherung', 'Datenarchivierung', 'Digital Humanities', 'Datenorganisation', 'Datenpublikation']
 language: de
 ---
 
 # Informationen zum Forschungsdatenmanagement
 
-Die Universitätsbibliothek Mannheim bietet umfassende Informationen und Unterstützung rund um das Forschungsdatenmanagement (FDM). Innerhalb und außerhalb der Universität gibt es zahlreiche Anlaufstellen, die Forschende bei der Planung, Organisation, Speicherung, Archivierung und Publikation von Forschungsdaten unterstützen.
+Innerhalb und außerhalb der Universität Mannheim gibt es zahlreiche Anlaufstellen rund um das Thema Forschungsdaten.
 
 ## Weiterführende Informationen und Angebote
 
@@ -23,9 +23,9 @@ Die Universitätsbibliothek Mannheim bietet umfassende Informationen und Unterst
 
 ## Forschungsdatenzentrum (FDZ)
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim ist zentrale Anlaufstelle für alle Fragen rund um das Forschungsdatenmanagement. Das Team unterstützt Forschende bei rechtlichen, ethischen und organisatorischen Aspekten des Umgangs mit Forschungsdaten.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt Forschende beim Forschungsdatenmanagement.
 
-**Team:** Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+**Team:** Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 **Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 **Web:** [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 **E-Mail:** [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

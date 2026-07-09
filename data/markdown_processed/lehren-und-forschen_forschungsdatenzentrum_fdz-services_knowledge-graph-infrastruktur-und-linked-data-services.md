@@ -24,8 +24,8 @@ Kontaktieren Sie uns und wir helfen Ihnen bei der Erstellung und dem Hosting ein
 ### Verlinkungsdienst
 
 - Verknüpfen Sie Ihre Metadaten und Daten mit Entitäten in öffentlichen Datenbanken und Wissensgraphen mithilfe der Verknüpfung benannter Entitäten und [OpenRefine](https://openrefine.org).
-- Unterstützung bei der Erstellung eines annotierten Korpus zur Erkennung und Verknüpfung benannter Entitäten mithilfe der Open-Source-Software [INCEpTION](https://inception-project.github.io).
-- Training von Deep-Learning-Modellen für die Erkennung und Verknüpfung benannter Entitäten
+- Unterstützung bei der Erstellung eines annotierten Korpus zur Erkennung und Verknüpfung benannter Entitäten mit der Open-Source-Software [INCEpTION](https://inception-project.github.io).
+- Training von Deep-Learning-Modellen für die Erkennung und Verknüpfung benannter Entitäten.
 
 ### Hochladen Ihrer Metadaten und/oder Daten in den allgemeinen offenen Wikidata-Wissensgraphen
 
@@ -38,7 +38,7 @@ Beispiel: Profil von Christian Bizer bei [Wikidata](https://www.wikidata.org/wik
 ## Kontakt
 
 **Forschungsdatenzentrum (FDZ)**
-Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

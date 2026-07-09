@@ -3,13 +3,13 @@ title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche der Unive
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenmanagement', 'Drittmittelprojekte', 'Open Science', 'Data Science', 'Rechtsberatung', 'Data Steward', 'Data Literacy', 'Universitätsbibliothek']
+tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Drittmittelprojekte', 'Open Science', 'Data Science', 'Rechtsberatung', 'Data Literacy', 'Projektkoordination']
 language: de
 ---
 
 # Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und Support zu Forschungsdatenmanagement, Open Science, Data Science, rechtlichen Fragestellungen und technischen Entwicklungen.
+Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und Support zu Forschungsdatenmanagement, Open Science, Data Science, rechtlichen Fragestellungen und Projektkoordination.
 
 ## Ansprechpartner und Aufgabenbereiche
 
@@ -72,7 +72,7 @@ Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei
 - E-Mail: [thomas.schmidt@uni-mannheim.de](mailto:thomas.schmidt@uni-mannheim.de)
 - ORCID: [0000-0003-3620-3355](https://orcid.org/0000-0003-3620-3355)
 
-### Dr. Renat Shigapov
+### Dr. Renat Kaufmann
 
 **Lead Data Scientist | Projektleiter**
 

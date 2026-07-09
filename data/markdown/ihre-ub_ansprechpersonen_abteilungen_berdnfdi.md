@@ -23,7 +23,7 @@ Projektmanagerin für BERD@NFDI
 - E-Mail: regina.jutz@uni-mannheim.de
 
 
-### Dr. Renat Shigapov
+### Dr. Renat Kaufmann
 
 Lead Data Scientist | Projektleiter
 

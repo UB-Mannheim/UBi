@@ -3,13 +3,13 @@ title: Ansprechpartner und Aufgabenbereiche des BERD@NFDI-Teams an der Universit
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/berdnfdi/
 category: Kontakt
-tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Projektmanagement', 'Rechtsberatung', 'Informationskompetenz', 'Publikationsservices', 'Universitätsbibliothek']
+tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Rechtsberatung', 'Informationskompetenz', 'Publikationsservices', 'Projektmanagement', 'Universitätsbibliothek']
 language: de
 ---
 
 # BERD@NFDI – Ansprechpartner und Aufgabenbereiche
 
-Das Team BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in den Bereichen Forschungsdatenmanagement, Data Science, Künstliche Intelligenz, Rechtsfragen, Informationskompetenz, E-Learning und Publikationsdienste. Nachfolgend finden Sie die zentralen Ansprechpartner\*innen, ihre Aufgaben und Kontaktdaten.
+Das Team BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in den Bereichen Forschungsdatenmanagement, Data Science, rechtliche Fragestellungen, Informationskompetenz, E-Learning und Publikationsdienste. Nachfolgend finden Sie die zentralen Ansprechpartner\*innen, deren Aufgabenbereiche und Kontaktdaten.
 
 ## Teammitglieder und Aufgaben
 
@@ -31,7 +31,7 @@ Das Team BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschen
 - E-Mail: [regina.jutz@uni-mannheim.de](mailto:regina.jutz@uni-mannheim.de)
 - Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 
-### Dr. Renat Shigapov
+### Dr. Renat Kaufmann
 
 **Lead Data Scientist | Projektleiter**
 
@@ -49,7 +49,7 @@ Das Team BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschen
 **Legal Counsel für BERD@NFDI und FDZ**
 
 - Unterstützung von Forschenden bei rechtlichen Fragestellungen im Forschungsdatenmanagement
-- Themen: Datenschutz, Urheberrecht, Lizenzrecht
+- Beratung zu Datenschutz, Urheberrecht und Lizenzrecht
 - Entwicklung des BERD-Datenschutzkonzepts und der Plattform-Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714

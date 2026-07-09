@@ -83,7 +83,7 @@ Im Projekt „MaDaLi²“ unterstützt das FDZ die Entwicklung eines Data Litera
 
 ### Forschungsdatenzentrum (FDZ)
 
-Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 - Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 - E-Mail: forschungsdaten@uni-mannheim.de

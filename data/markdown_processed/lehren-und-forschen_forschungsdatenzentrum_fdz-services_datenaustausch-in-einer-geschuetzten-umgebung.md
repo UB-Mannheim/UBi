@@ -3,43 +3,48 @@ title: Sicherer Datenaustausch im Data Cube des Forschungsdatenzentrums (FDZ) de
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenaustausch-in-einer-geschuetzten-umgebung/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/sharing-data-in-a-secure-environment/
 category: Services
-tags: ['Datenaustausch', 'Forschungsdaten', 'Data Cube', 'FDZ', 'German Business Panel', 'German Internet Panel', 'Datensicherheit', 'On-Site Data Access']
+tags: ['Forschungsdaten', 'Datenaustausch', 'Data Cube', 'FDZ', 'German Business Panel', 'German Internet Panel', 'Datenschutz', 'On-Site Data Access']
 language: de
 ---
 
 # Datenaustausch in einer geschützten Umgebung
 
-Daten müssen sicher ausgetauscht werden, wenn sensible Informationen wie personenbezogene, finanzielle oder geschäftskritische Daten betroffen sind. Dies ist wichtig, um die Privatsphäre und Sicherheit zu schützen, Missbrauch zu verhindern und rechtliche sowie regulatorische Anforderungen zu erfüllen. Gleichzeitig ist die gemeinsame Nutzung von Daten unerlässlich, um Zusammenarbeit, Innovation und Forschung zu fördern. Ein Datenzugang in den Räumlichkeiten der Universitätsbibliothek Mannheim (On-Site Data Access) über den **Data Cube** gewährleistet einen sicheren Umgang mit sensiblen Daten und ermöglicht sowohl den Schutz der Daten als auch die Vorteile des Datenaustauschs.
+Der sichere Austausch sensibler Daten wie personenbezogener, finanzieller oder geschäftskritischer Informationen ist essenziell, um Privatsphäre und Sicherheit zu gewährleisten, Missbrauch zu verhindern sowie rechtliche und regulatorische Anforderungen zu erfüllen. Gleichzeitig ist die gemeinsame Nutzung von Daten unerlässlich, um Zusammenarbeit, Innovation und Forschung zu fördern. Die Universitätsbibliothek Mannheim bietet mit dem **Data Cube** einen On-Site Data Access Service, der einen geschützten Umgang mit sensiblen Daten ermöglicht und sowohl den Datenschutz als auch die Vorteile des Datenaustauschs sicherstellt.
 
-Eine Terminübersicht über die Nutzung des Data Cube finden Sie im [Kalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml).
+Eine Terminübersicht zur Nutzung des Data Cube finden Sie im [Kalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml).
 
 ## Data Cube
 
 ### Daten geschützt teilen
 
-Wenn Sie sensible Daten, beispielsweise aus einer eigenen Erhebung, in einer geschützten Umgebung teilen möchten, ist der On-Site Data Access Service über den Data Cube geeignet. Für weitere Absprachen wenden Sie sich bitte an das Forschungsdatenzentrum (FDZ).
+Der On-Site Data Access Service über den Data Cube eignet sich für das Teilen sensibler Daten, beispielsweise aus eigenen Erhebungen, in einer geschützten Umgebung. Für individuelle Absprachen wenden Sie sich bitte an das Forschungsdatenzentrum (FDZ).
 
 ### Hinweise zur Datennutzung im Data Cube
 
-- Die Nutzung des Data Cube ist von Montag bis Freitag von 09:00 bis 18:00 Uhr möglich. An Samstagen, Sonntagen sowie an Feiertagen ist die Nutzung nicht möglich.
-- Termine zur Nutzung des Data Cube werden nur auf Anfrage vergeben.
-- Eine Terminübersicht finden Sie im [Kalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml).
-- Um Daten des German Internet Panel (GIP) zu nutzen, kontaktieren Sie bitte [gip@uni-mannheim.de](mailto:gip@uni-mannheim.de).
-- Um Daten des German Business Panel (GBP) zu nutzen, kontaktieren Sie bitte [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de).
+- Nutzung möglich: Montag bis Freitag, 09:00–18:00 Uhr
+- Keine Nutzung: Samstags, sonntags und an Feiertagen
+- Termine zur Nutzung werden ausschließlich auf Anfrage vergeben
+- Terminübersicht im [Kalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml)
+- Für GIP-Daten: Kontaktieren Sie [gip@uni-mannheim.de](mailto:gip@uni-mannheim.de)
+- Für GBP-Daten: Kontaktieren Sie [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
 
 ### Über den Data Cube verfügbare Daten
 
 #### German Business Panel (GBP)
 
-Das GBP erhebt systematisch Daten zur Unternehmenstransparenz und zu den Auswirkungen von Informationsbereitstellung sowie Regulierung auf Entscheidungen und Öffentlichkeit. Es liefert hochwertige Daten für die Forschung und kann zur Verbesserung von Regulierung und Wirtschaft beitragen. Das GBP ist Teil des Sonderforschungsbereichs TRR 266 Accounting for Transparency. Weitere Informationen finden Sie auf der Seite des [GBP](https://gbpanel.org/).
+Das GBP erhebt systematisch Daten zur Unternehmenstransparenz und zu den Auswirkungen von Informationsbereitstellung sowie Regulierung auf Entscheidungen und Öffentlichkeit. Es liefert hochwertige Daten für die Forschung und kann zur Verbesserung von Regulierung und Wirtschaft beitragen. Das GBP ist Teil des Sonderforschungsbereichs TRR 266 Accounting for Transparency.
+
+Weitere Informationen: [GBP](https://gbpanel.org/)
 
 #### German Internet Panel (GIP)
 
-Das GIP der Universität Mannheim erhebt seit 2012 alle zwei Monate Daten zu politischen und wirtschaftlichen Einstellungen. Mehr als 3.500 Teilnehmer werden online befragt, um ein genaues Abbild der Bevölkerung zu erhalten. Die erhobenen Daten stehen der Wissenschaft zur Verfügung. Es besteht zudem die Möglichkeit, eigene Fragen in die Umfrage einzubringen. Weitere Informationen finden Sie auf der Seite des [GIP](https://www.uni-mannheim.de/gip/).
+Das GIP der Universität Mannheim erhebt seit 2012 alle zwei Monate Daten zu politischen und wirtschaftlichen Einstellungen. Über 3.500 Teilnehmer werden online befragt, um ein genaues Abbild der Bevölkerung zu erhalten. Die erhobenen Daten stehen der Wissenschaft zur Verfügung. Es besteht zudem die Möglichkeit, eigene Fragen in die Umfrage einzubringen.
+
+Weitere Informationen: [GIP](https://www.uni-mannheim.de/gip/)
 
 ## Forschungsdatenzentrum (FDZ) – Kontakt
 
-**Team:** Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+**Team:** Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 **Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 **Web:** [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 **E-Mail:** [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

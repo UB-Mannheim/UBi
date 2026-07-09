@@ -1,15 +1,15 @@
 ---
-title: Forschungsdatenzentrum (FDZ) – Übersicht der verfügbaren Datenquellen und Datenbanken
+title: Forschungsdatenzentrum (FDZ) – Datenangebot und Datenbanken der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/data-hosted-by-the-fdz/
 category: Medien
-tags: ['Forschungsdaten', 'Datenbanken', 'Wirtschaftsdaten', 'Sozialwissenschaften', 'Digitalisierung', 'Unternehmensdaten', 'Open Access', 'Wissenschaft']
+tags: ['Forschungsdaten', 'Datenbanken', 'Wirtschaftsdaten', 'Sozialwissenschaften', 'Digitalisierung', 'Unternehmensdaten', 'Open Access', 'Wissenschaftliche Nutzung']
 language: de
 ---
 
 # Datenangebot des Forschungsdatenzentrums (FDZ)
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet Zugang zu lizenzierten Datenbanken und -quellen sowie zu verschiedenen selbst erstellten Datenquellen. Der Schwerpunkt liegt auf spezialisierten Datensätzen aus den Wirtschafts- und Sozialwissenschaften, insbesondere auf Wirtschaftsdaten und Unternehmensdaten. Neben eigenen Projekten werden auch Datensätze aus Forschungsprojekten der Universität übernommen, um diese langfristig für Forschende bereitzustellen.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet Zugang zu lizenzierten Datenbanken und -quellen sowie zu verschiedenen selbst erstellten Datenquellen. Der Schwerpunkt liegt auf spezialisierten Datensätzen aus den Wirtschafts- und Sozialwissenschaften, insbesondere auf Wirtschaftsdaten und Unternehmensdaten. Neben eigenen Digitalisaten werden auch Datensätze aus Forschungsprojekten der Universität langfristig bereitgestellt.
 
 Eine spezifische Übersicht zu [Datenbanken für Unternehmens- und Finanzdaten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/corporate-and-financial-databases/) ist ebenfalls verfügbar.
 
@@ -17,10 +17,10 @@ Eine spezifische Übersicht zu [Datenbanken für Unternehmens- und Finanzdaten](
 
 ### Aktienführer-Datenarchiv
 
-Das Aktienführer-Datenarchiv enthält jahresweise Profile von mehreren tausend deutschen, börsennotierten Aktiengesellschaften. Die Profile umfassen Kennzahlen wie Unternehmenssitz, Tätigkeitsfeld, Mitarbeiterzahl, Beteiligungen, Aktionäre, Bilanzen sowie Gewinn- und Verlustrechnung. Die Daten basieren auf den Publikationen [Hoppenstedt Aktienführer](https://zdb-katalog.de/title.xhtml?idn=018545750) und [Saling’s Börsenpapiere](https://zdb-katalog.de/title.xhtml?idn=017997968).
+Das Archiv enthält jahresweise Profile von mehreren tausend deutschen, börsennotierten Aktiengesellschaften mit Kennzahlen wie Unternehmenssitz, Tätigkeitsfeld, Mitarbeiterzahl, Beteiligungen, Aktionäre, Bilanzen sowie Gewinn- und Verlustrechnung. Die Daten basieren auf den Publikationen „[Hoppenstedt Aktienführer](https://zdb-katalog.de/title.xhtml?idn=018545750)“ und „[Saling’s Börsenpapiere](https://zdb-katalog.de/title.xhtml?idn=017997968)“.
 
 **Zugang und Nutzung:**
-Die Nutzung ist für wissenschaftliche Zwecke und Lehre freigegeben. Institutionen in Deutschland erhalten Zugang über die [Nationallizenzen](https://www.nationallizenzen.de/angebote/nlproduct.2014-03-03.9100427542?productlist_utype=NLInstitution), Einzelnutzer\*innen können sich direkt an das FDZ wenden. On-Site-Nutzung ist an jedem Benutzerarbeitsplatz der Universitätsbibliothek Mannheim möglich.
+Für wissenschaftliche Zwecke und Lehre freigegeben. Institutionen in Deutschland erhalten Zugang über die [Nationallizenzen](https://www.nationallizenzen.de/angebote/nlproduct.2014-03-03.9100427542?productlist_utype=NLInstitution), Einzelnutzer\*innen über Anfrage an das FDZ. On-Site-Nutzung an jedem Benutzerarbeitsplatz der UB Mannheim möglich.
 
 - [Zum Aktienführer-Datenarchiv](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php)
 - [Aktienführer Knowledge Graph](https://akf.kgi.uni-mannheim.de)
@@ -29,19 +29,19 @@ Die Nutzung ist für wissenschaftliche Zwecke und Lehre freigegeben. Institution
 
 ### Konkursdatenbank
 
-Die Konkursdatenbank umfasst alle Konkursverfahren, die im Deutschen Kaiserreich in den 15 größten Städten zwischen 1879 und 1914 durchgeführt wurden (insgesamt 55.197 Konkurse). Sie bietet detaillierte Angaben zu Schuldnern und Konkursverwaltern. Die Daten wurden aus der digitalen Gesamtausgabe des Deutschen Reichsanzeigers und Preußischen Staatsanzeigers generiert. Die Datenbank entstand im Rahmen eines rechtshistorischen Dissertationsprojekts an der Universität Mannheim.
+Umfasst alle Konkursverfahren in den 15 größten Städten des Deutschen Kaiserreichs (1879–1914), insgesamt 55.197 Konkurse. Enthält detaillierte Angaben zu Schuldnern und Konkursverwaltern. Die Daten stammen aus der digitalen Gesamtausgabe des Deutschen Reichsanzeigers und Preußischen Staatsanzeigers und wurden im Rahmen eines rechtshistorischen Dissertationsprojekts erstellt.
 
 **Zugang und Nutzung:**
-Die Datenbank ist unter der Creative Commons Attribution 4.0 International Public License frei nutzbar, Voraussetzung ist die Quellenangabe.
+Nutzung unter Creative Commons Attribution 4.0 International Public License, mit Quellennennung.
 
 - [Zur Konkursdatenbank](https://digi.bib.uni-mannheim.de/periodika/konkursdatenbank/)
 
 ### Deutscher Reichsanzeiger und Preußischer Staatsanzeiger
 
-Im Rahmen eines DFG-Projekts digitalisierte die UB Mannheim die Zeitung [Deutscher Reichsanzeiger und Preußischer Staatsanzeiger](https://zdb-katalog.de/title.xhtml?idn=011201584) (1819–1945). Die Publikation enthält amtliche Mitteilungen, Veröffentlichungen des zentralen Handelsregisters und eine Börsen-Beilage. Dank OCR ist eine Volltextsuche möglich.
+Digitalisierte Zeitung (1819–1945) mit amtlichen Mitteilungen, Handelsregisterveröffentlichungen und Börsen-Beilage. Volltextsuche durch OCR-Bearbeitung verfügbar.
 
 **Zugang und Nutzung:**
-Die digitalisierten Bestände sind frei nutzbar. Weitere Informationen: [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/deed.de).
+Frei nutzbar, siehe [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/deed.de).
 
 - [Zugang zum Reichsanzeiger](https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/)
 - [Reichsanzeiger OCR Ground Truth Daten](https://github.com/UB-Mannheim/reichsanzeiger-gt)
@@ -49,32 +49,32 @@ Die digitalisierten Bestände sind frei nutzbar. Weitere Informationen: [Public 
 
 ### Deutsche Statistische Jahrbücher
 
-Die Statistischen Jahrbücher des Deutschen Reichs, der Bundesrepublik Deutschland und der DDR enthalten Daten zu Wirtschaft, Bevölkerung, Soziales und Gesundheit von 1880 bis 1990.
+Statistische Jahrbücher des Deutschen Reichs, der Bundesrepublik Deutschland und der DDR (1880–1990) mit Daten zu Wirtschaft, Bevölkerung, Soziales und Gesundheit.
 
 **Zugang und Nutzung:**
-Die digitalisierten Bestände sind frei nutzbar. Weitere Informationen: [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/deed.de).
+Frei nutzbar, siehe [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/deed.de).
 
 - [Zu den Statistischen Jahrbüchern](https://digi.bib.uni-mannheim.de/statistische-jahrbuecher/)
 
 ### Amtliche Gemeindeverzeichnisse
 
-Die UB Mannheim digitalisierte ausgewählte deutsche Gemeindeverzeichnisse (1880–1976). Die Publikation enthält historische Volkszählungen und Bevölkerungserhebungen auf Gemeindeebene aus dem Deutschen Reich, der BRD und der DDR. Dank OCR ist eine Volltextsuche möglich.
+Digitalisierte Gemeindeverzeichnisse (1880–1976) mit historischen Volkszählungen und Bevölkerungserhebungen auf Gemeindeebene aus dem Deutschen Reich, der BRD und der DDR. Volltextsuche durch OCR-Bearbeitung verfügbar.
 
 - [Zu den Gemeindeverzeichnissen](https://digi.bib.uni-mannheim.de/gemeindeverzeichnisse/)
 
 ### LinguaPix
 
-LinguaPix ist eine Datenbank für Bildbenennungsstandards, entwickelt im Rahmen einer von der Fritz Thyssen Stiftung geförderten Crowdsourcing-Megastudie. 1.620 Farbfotografien aus 43 semantischen Kategorien wurden von Sprecher\*innen verschiedener Sprachen benannt und bewertet. Die Datenbank enthält Fotos, sprachliche Normen und Audiodateien.
+Datenbank für Bildbenennungsstandards, entwickelt im Rahmen einer Crowdsourcing-Megastudie. Enthält 1.620 Farbfotografien aus 43 semantischen Kategorien, benannt und bewertet von Sprecher\*innen verschiedener Sprachen. Neben Fotos und sprachlichen Normen sind auch Audiodateien enthalten.
 
 **Zugang und Nutzung:**
-Die Bilder dürfen nur für nicht-kommerzielle Zwecke in Forschung, Studium und Lehre verwendet werden. Basic Access ist nach Anmeldung möglich, für Full Access ist ein Lizenzvertrag mit der Universitätsbibliothek erforderlich ([erwerbungsleitung.ub@uni-mannheim.de](mailto:erwerbungsleitung.ub@uni-mannheim.de)).
+Nur für nicht-kommerzielle Zwecke in Forschung, Studium und Lehre. Basic Access nach Anmeldung, Full Access nach Abschluss eines Lizenzvertrags (Kontakt: [erwerbungsleitung.ub@uni-mannheim.de](mailto:erwerbungsleitung.ub@uni-mannheim.de)).
 
 - [Zur LinguaPix Datenbank](https://linguapix.uni-mannheim.de/frontend/web/index.php)
 - [Publikation von Krautz und Keuleers (2022)](https://link.springer.com/article/10.3758/s13428-021-01651-0)
 
 ### Maschinenbauindustrie (MBI) Knowledge Graph
 
-Der MBI Knowledge Graph enthält strukturierte Daten aus dem Buch „Die Maschinen-Industrie im Deutschen Reich“ (1937). Die Daten umfassen Basisinformationen zu deutschen Unternehmen der Maschinenbauindustrie.
+Strukturierte Daten aus dem Buch „Die Maschinen-Industrie im Deutschen Reich“ (1937). Enthält Basisinformationen zu deutschen Unternehmen der Maschinenbauindustrie.
 
 - [Datensatz](https://doi.org/10.7801/467)
 - [Data Paper](https://doi.org/10.1016/j.dib.2024.111238)
@@ -85,7 +85,7 @@ Der MBI Knowledge Graph enthält strukturierte Daten aus dem Buch „Die Maschin
 
 ### Wer Leitet (WL) Knowledge Graph
 
-Der „Wer Leitet“ (WL) Knowledge Graph enthält strukturierte Daten aus den Büchern „Wer Leitet?“ (1940–1941) über Führungspersonen deutscher Unternehmen.
+Strukturierte Daten aus den Büchern „Wer Leitet?“ (1940–1941) über Personen, die Unternehmen in Deutschland leiteten.
 
 - [KG GUI](https://wl.kgi.uni-mannheim.de)
 - [SPARQL](https://query.wl.kgi.uni-mannheim.de)
@@ -94,7 +94,7 @@ Der „Wer Leitet“ (WL) Knowledge Graph enthält strukturierte Daten aus den B
 
 ### Handbuch der Deutschen Aktiengesellschaften (HbAG) Knowledge Graph
 
-Der HbAG Knowledge Graph enthält strukturierte Daten aus den seit 1896 erschienenen „Handbuch der Deutschen Aktiengesellschaften“-Büchern. Die Daten umfassen Firmennamen, Branchenzugehörigkeit und Hauptsitzstandorte deutscher Unternehmen.
+Strukturierte Daten aus den seit 1896 erschienenen HbAG-Büchern mit Informationen zu deutschen Unternehmen, Branchen und Hauptsitzstandorten.
 
 - [KG GUI](https://hbag.kgi.uni-mannheim.de)
 - [SPARQL](https://query.hbag.kgi.uni-mannheim.de)
@@ -103,7 +103,7 @@ Der HbAG Knowledge Graph enthält strukturierte Daten aus den seit 1896 erschien
 
 ### PATSTAT
 
-PATSTAT enthält bibliografische Daten und Angaben zu rechtlichen Ereignissen für Patente aus führenden Industrie- und Entwicklungsländern. Die Universitätsbibliothek bietet Zugang zu PATSTAT Global mit über 100 Millionen Patentdatensätzen und mehr als 200 Millionen rechtlichen Statusereignissen. Die Datenbank wird als Massendatenbestand bereitgestellt und regelmäßig aktualisiert.
+Bibliografische Daten und Angaben zu rechtlichen Ereignissen für Patente aus über 90 Patentbehörden weltweit. Zugang zu PATSTAT Global mit mehr als 100 Millionen Patentdatensätzen und über 200 Millionen rechtlichen Statusereignissen. Bereitstellung als Massendatenbestand, Aktualisierung ein- bis zweimal jährlich.
 
 **Zugang und Nutzung:**
 Zugang nach Kontaktaufnahme per E-Mail und Unterzeichnung der [Nutzungsbedingungen](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Bilder/Lehren_und_Forschen/fdz/Nutzungsbedingungen/Nutzungsbedingungen-PATSTATonline-Datenschutzhinweise.pdf).
@@ -114,7 +114,7 @@ Zugang nach Kontaktaufnahme per E-Mail und Unterzeichnung der [Nutzungsbedingung
 
 ### Forschungsdatenzentrum (FDZ)
 
-- Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
-- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
-- E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
+E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

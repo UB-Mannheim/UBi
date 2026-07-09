@@ -3,7 +3,7 @@ title: Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim – Ser
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/
 category: Services
-tags: ['Forschungsdatenmanagement', 'FDZ', 'Datenangebote', 'Open Science', 'Beratung', 'Projekte', 'Datenschutz', 'Team']
+tags: ['Forschungsdatenmanagement', 'FDZ', 'Datenangebote', 'Open Science', 'Beratung', 'Projekte', 'Data Steward', 'Wissenstransfer']
 language: de
 ---
 
@@ -17,35 +17,42 @@ Aktuelle Informationen und Entwicklungen zum Forschungsdatenzentrum und Forschun
 
 ## Angebote des FDZ
 
-### [Services des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/)
+### Services des FDZ
 
-Das FDZ bietet umfassende Services rund ums Forschungsdatenmanagement, darunter:
+Unsere Services rund ums Forschungsdatenmanagement umfassen:
 
-- Beratung zum Forschungsdatenmanagement (FDM)
+- FDM-Beratung
 - Unterstützung bei Datenmanagementplänen
 - OCR (Optical Character Recognition)
 - Knowledge Graphs
-- Nutzung von MADATA
+- MADATA
 
-### [Informationen zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/)
+Weitere Informationen: [Services des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/)
 
-Weiterführende Informationen und Angebote zum Forschungsdatenmanagement.
+### Informationen zum Forschungsdatenmanagement
 
-### [Datenangebot des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/)
+Weiterführende Informationen und Angebote zum Forschungsdatenmanagement finden Sie unter:
+[Informationen zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/)
 
-Das FDZ stellt selbst gehostete Datenangebote sowie lizenzierte Daten zur Verfügung.
+### Datenangebot des FDZ
 
-### [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
+Das FDZ bietet sowohl selbst gehostete Datenangebote als auch lizenzierte Daten.
+Mehr dazu: [Datenangebot des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/)
 
-Praktische Tipps zu Themen wie effizientes Forschungsdatenmanagement, Datenanalyse, FAIR Data Publication, Open Science und Datenschutz.
+### Research Skills
 
-### [Projekte](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-projekte/)
+Praktische Tipps zu Themen wie effizientes Forschungsdatenmanagement, Datenanalyse, FAIR Data Publication, Open Science und Datenschutz:
+[Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
 
-Überblick über Projekte, die das FDZ im Bereich Forschungsdaten unterstützt.
+### Projekte
 
-### [German Internet Panel (GIP)](https://www.uni-mannheim.de/gip/)
+Überblick über Projekte, die das FDZ rund um Forschungsdaten unterstützt:
+[Projekte](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-projekte/)
+
+### German Internet Panel (GIP)
 
 Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine langfristige Studie an der Universität Mannheim zur Untersuchung individueller Einstellungen und Präferenzen.
+Weitere Informationen: [German Internet Panel (GIP)](https://www.uni-mannheim.de/gip/)
 
 ### Offene FDZ-Sprechstunde
 
@@ -54,17 +61,15 @@ Zoom-Zugang: [https://fdz.bib.uni-mannheim.de/sprechstunde](https://fdz.bib.uni-
 Meeting-ID: 634 4362 2069
 Kenncode: 884516
 
-## Das FDZ-Team – Kontakt
+## FDZ-Team und Kontakt
 
-Das Team des Forschungsdatenzentrums unterstützt Sie in allen Belangen des Forschungsdatenmanagements. Für allgemeine Anfragen wenden Sie sich bitte an:
+### Zentrale Kontaktmöglichkeiten
 
-- **Forschungsdatenzentrum (FDZ)**
-  - Team: Dr. Irene Schumm, Jan Kamlah, Dr. Phil Kolbe, Dr. David Philip Morgan, Thomas Schmidt, Dr. Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
-  - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-  - Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
-  - E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
+- Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
+- E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 
-### Teammitglieder und Aufgabenbereiche
+### Teammitglieder
 
 #### Dr. Irene Schumm
 
@@ -115,7 +120,7 @@ Das Team des Forschungsdatenzentrums unterstützt Sie in allen Belangen des Fors
 - E-Mail: [thomas.schmidt@uni-mannheim.de](mailto:thomas.schmidt@uni-mannheim.de)
 - ORCID: [0000-0003-3620-3355](https://orcid.org/0000-0003-3620-3355)
 
-#### Dr. Renat Shigapov
+#### Dr. Renat Kaufmann
 
 - Lead Data Scientist | Projektleiter
 - Aufgaben: Strategische Weiterentwicklung des technischen Forschungsdatenmanagements; Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools; Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI; Vertretung der UB in Gremien
@@ -140,3 +145,8 @@ Das Team des Forschungsdatenzentrums unterstützt Sie in allen Belangen des Fors
 - Telefon: +49 621 181-2754
 - E-Mail: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
 - ORCID: [0009-0004-6220-8939](https://orcid.org/0009-0004-6220-8939)
+
+______________________________________________________________________
+
+**Team des FDZ:**
+Dr. Irene Schumm, Jan Kamlah, Dr. Phil Kolbe, Dr. David Philip Morgan, Thomas Schmidt, Dr. Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will

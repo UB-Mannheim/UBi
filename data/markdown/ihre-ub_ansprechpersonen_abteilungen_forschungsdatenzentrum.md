@@ -71,7 +71,7 @@ Data Steward und Data Scientist für BERD@NFDI | Projektkoordination AiDaLi
 - ORCID-ID: 0000-0003-3620-3355 (https://orcid.org/0000-0003-3620-3355)
 
 
-### Dr. Renat Shigapov
+### Dr. Renat Kaufmann
 
 Lead Data Scientist | Projektleiter
 

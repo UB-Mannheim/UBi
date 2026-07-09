@@ -32,15 +32,15 @@ Das Projekt KGI4NFDI entwickelt eine zentrale Infrastruktur für Knowledge Graph
 
 ### ENGAGE.EU
 
-ENGAGE.EU ist eine Allianz führender europäischer Universitäten, die Bürger\*innen mit Kompetenzen zur Bewältigung gesellschaftlicher Herausforderungen ausstattet. Die Allianz fördert Zusammenarbeit und Bildung, um Europa bei der Lösung von Problemen wie Digitalisierung, Klimawandel und demografischem Wandel voranzubringen. Das FDZ bringt seine Expertise mit Schulungsangeboten zum Forschungsdatenmanagement ein und ist Teil einer Expertengruppe zu Forschungsdatenmanagement.
+ENGAGE.EU ist eine Allianz führender europäischer Universitäten, die Bürger\*innen mit Kompetenzen zur Bewältigung gesellschaftlicher Herausforderungen ausstattet. Die Allianz fördert Zusammenarbeit und Bildung, um Europa bei der Lösung von Problemen wie Digitalisierung, Klimawandel und demografischem Wandel zu unterstützen. Das FDZ bringt seine Expertise mit Schulungsangeboten zum Forschungsdatenmanagement ein und ist Teil einer Expertengruppe zu diesem Thema.
 
 ### Finance and Business Research from a Long-Term Perspective (GerHisFin)
 
-Das Projekt „Finance and Business Research from a Long-Term Perspective: Utilizing Historical German Financial Market and Corporate Data (GerHisFin)“ erschließt historische deutsche Finanzmarkt- und Unternehmensdaten seit dem 19. Jahrhundert und macht sie für die Forschung digital nutzbar. Ziel ist es, langfristige wirtschaftliche Entwicklungen besser zu verstehen. Die Universitätsbibliothek Mannheim und das FDZ tragen zur Digitalisierung und Texterkennung (OCR) historischer Quellen bei.
+Das Projekt „Finance and Business Research from a Long-Term Perspective: Utilizing Historical German Financial Market and Corporate Data (GerHisFin)“ erschließt historische deutsche Finanzmarkt- und Unternehmensdaten seit dem 19. Jahrhundert und macht sie für die Forschung digital nutzbar. Die UB Mannheim und das FDZ tragen zur Digitalisierung und Texterkennung (OCR) historischer Quellen bei, um langfristige wirtschaftliche Entwicklungen besser zu verstehen.
 
 ### AiDaLi
 
-Das Projekt „AiDaLi“ zielt darauf ab, AI- und Data-Literacy stärker in die Hochschullehre zu integrieren, insbesondere durch die Entwicklung und curriculare Verankerung entsprechender Kompetenzen. Studierende erstellen praxisorientierte Open Educational Resources (z. B. Videos oder Podcasts) und reflektieren dabei den Einsatz generativer KI. Die Materialien werden offen veröffentlicht und sollen langfristig fachübergreifend in der Lehre nachgenutzt werden. Gleichzeitig werden innovative didaktische Ansätze erprobt. Das Projekt wird gefördert durch die Stiftung Innovation in der Hochschullehre.
+Das Projekt „AiDaLi“ zielt darauf ab, AI- und Data-Literacy stärker in die Hochschullehre zu integrieren, insbesondere durch die Entwicklung und curriculare Verankerung entsprechender Kompetenzen. Studierende erstellen praxisorientierte Open Educational Resources (z. B. Videos oder Podcasts) und reflektieren dabei den Einsatz generativer KI. Die Materialien werden offen veröffentlicht und sollen langfristig fachübergreifend in der Lehre nachgenutzt werden. Das Projekt wird gefördert durch die Stiftung Innovation in der Hochschullehre.
 
 ## Abgeschlossene Projekte (Auswahl)
 
@@ -54,13 +54,13 @@ Das FDZ unterstützte die Mannheim Research Group in Culture, Research and Entre
 
 ### MaDaLi²
 
-Im Projekt „MaDaLi²“ unterstützte das FDZ die Entwicklung eines Data Literacy e-Learning Kurses für Studierende. Mit dem Kurs können Studierende in ihrem eigenen Tempo wichtige Grundlagen im Umgang mit Forschungsdaten erlernen und festigen, darunter das Erkunden, Verstehen und Kommunizieren von Daten.
+Im Projekt „MaDaLi²“ unterstützte das FDZ die Entwicklung eines Data Literacy e-Learning Kurses für Studierende. Der Kurs ermöglicht es Studierenden, in ihrem eigenen Tempo wichtige Grundlagen im Umgang mit Forschungsdaten zu erlernen und zu festigen, darunter das Erkunden, Verstehen und Kommunizieren von Daten.
 
 ## Kontakt
 
 ### Forschungsdatenzentrum (FDZ)
 
-Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

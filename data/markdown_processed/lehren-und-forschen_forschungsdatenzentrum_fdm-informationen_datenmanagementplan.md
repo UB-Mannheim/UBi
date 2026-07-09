@@ -3,13 +3,13 @@ title: Forschungsdatenmanagement in Projektanträgen und Datenmanagementpläne �
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/
 source_url_en: https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan-1/
 category: Services
-tags: ['Forschungsdatenmanagement', 'Datenmanagementplan', 'Förderanträge', 'Vorlagen', 'Forschungsförderung', 'Beratung', 'DFG', 'Horizon Europe']
+tags: ['Forschungsdatenmanagement', 'Datenmanagementplan', 'Forschungsförderung', 'Vorlagen', 'DFG', 'Horizon Europe', 'ERC', 'Beratung']
 language: de
 ---
 
 # Forschungsdatenmanagement in Projektanträgen und Datenmanagementpläne
 
-Ein [Datenmanagementplan (DMP) (PDF)](https://scienceeurope.org/media/4brkxxe5/se_rdm_practical_guide_extended_final.pdf) beschreibt den Umgang mit Forschungsdaten vor Projektbeginn und stellt die Nachvollziehbarkeit der Daten während und nach dem Projekt sicher. DMPs werden oft in formalisierter Form bei der Antragstellung oder während der Projektlaufzeit verlangt, z. B. bei Horizon Europe oder ERC Grants. Auch die DFG verlangt Informationen zum Datenmanagement, obwohl es sich dabei nicht explizit um ein DMP handelt.
+Ein [Datenmanagementplan (DMP) (PDF)](https://scienceeurope.org/media/4brkxxe5/se_rdm_practical_guide_extended_final.pdf) beschreibt den Umgang mit Forschungsdaten vor Projektbeginn und stellt die Nachvollziehbarkeit der Daten während und nach dem Projekt sicher. DMPs werden oft in formalisierter Form bei der Antragstellung oder während der Projektlaufzeit verlangt, z. B. bei Horizon Europe, ERC Grants. Auch die DFG verlangt Informationen zum Datenmanagement, obwohl es sich dabei nicht explizit um ein DMP handelt.
 
 Sie können ein DMP mit [MADataPlan](https://fdz.bib.uni-mannheim.de/madataplan) erstellen, der Instanz von RDMO an der Universität Mannheim. Dieses DMP-Tool unterstützt Forschende bei der Erstellung, Verwaltung und Speicherung von DMPs.
 
@@ -22,7 +22,7 @@ DMP-Vorlagen stehen für verschiedene Förderinstitutionen zur Verfügung:
 
 ## DMP und Forschungsförderung in Deutschland und Europa
 
-Die Anforderungen an einen DMP unterscheiden sich je nach Fördereinrichtung:
+Die Anforderungen an einen DMP unterscheiden sich je nach Fördereinrichtung. Die folgende Übersicht zeigt die wichtigsten Anforderungen und Vorlagen:
 
 | Förderinstitution | DMP-Anforderungen | DMP-Vorlage? |
 | --- | --- | --- |
@@ -34,8 +34,8 @@ Die Anforderungen an einen DMP unterscheiden sich je nach Fördereinrichtung:
 | Fritz Thyssen Stiftung | Keine DMP-Anforderungen. | Nein |
 | Hans Böckler Stiftung | Keine DMP-Anforderungen. | Nein |
 | **Europa** | | |
-| European Research Council (ERC) | Antragstellende müssen nach den ersten sechs Monaten des Förderzeitraums ein DMP vorlegen und diesen bei wesentlichen Änderungen aktualisieren. Siehe ERC, Open Science, Abschnitt 2. | Ja, Vorlage auf MADataPlan verfügbar. |
-| Horizon Europe | Antragstellende müssen nach den ersten sechs Monaten des Förderzeitraums ein DMP vorlegen und diesen laufend aktualisieren. Siehe Horizon Europe. | Ja, Vorlage auf MADataPlan verfügbar. |
+| European Research Council (ERC) | Antragstellende müssen nach den ersten sechs Monaten des Förderzeitraums ein DMP vorlegen und diesen bei Änderungen aktualisieren. Siehe ERC, Open Science, Abschnitt 2. | Ja, Vorlage auf MADataPlan verfügbar. |
+| Horizon Europe | Antragstellende müssen nach den ersten sechs Monaten ein DMP vorlegen und diesen laufend aktualisieren. Siehe Horizon Europe. | Ja, Vorlage auf MADataPlan verfügbar. |
 | European Science Foundation | Keine DMP-Anforderungen. | Nein |
 
 Quelle: Angepasst von CESSDA Training Team (2017–2022), [CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/European-diversity).
@@ -60,7 +60,7 @@ Wenn Sie Fördermittel außerhalb Deutschlands beantragen, finden Sie [hier](htt
 
 ### Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim
 
-- Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
-- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
-- E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
+E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

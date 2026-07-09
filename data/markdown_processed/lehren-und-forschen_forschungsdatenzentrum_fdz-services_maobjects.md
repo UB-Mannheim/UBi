@@ -3,7 +3,7 @@ title: MAObjects – Digitale Sammlungen erstellen und präsentieren mit Omeka a
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/maobjects/
 category: Services
-tags: ['Digitale Sammlungen', 'Omeka', 'Forschungsdaten', 'Virtuelle Ausstellungen', 'Metadaten', 'Open Science', 'Universitätsbibliothek', 'FDZ']
+tags: ['Digitale Sammlungen', 'Omeka', 'Forschungsdaten', 'Virtuelle Ausstellungen', 'Metadaten', 'Open Science', 'Bibliotheksservice', 'Universitätsbibliothek']
 language: de
 ---
 
@@ -13,9 +13,7 @@ Die Universitätsbibliothek Mannheim bietet Forschenden mit MAObjects eine Platt
 
 ## Was ist MAObjects?
 
-Über das Content-Management-System können digitale Objekte (Bilder, Texte, Video- und Audio-Dateien) hochgeladen, importiert oder eingebettet werden. Die Beschreibung der Objekte mittels standardisierter Metadaten stellt die Durchsuchbarkeit der Sammlungen sicher.
-
-Für die ansprechende Präsentation der Objekte steht ein Theme im Corporate Identity (CI) der Universität Mannheim zur Verfügung. Über eine API können die Daten zur weiteren Verwendung im Sinne einer offenen und reproduzierbaren Wissenschaft angeboten werden.
+MAObjects ist ein Service, der es ermöglicht, digitale Objekte wie Bilder, Texte, Video- und Audio-Dateien hochzuladen, zu importieren oder einzubetten. Die Beschreibung der Objekte erfolgt mittels standardisierter Metadaten, was die Durchsuchbarkeit der Sammlungen sicherstellt. Für eine ansprechende Präsentation steht ein Theme im Corporate Identity (CI) der Universität Mannheim zur Verfügung. Über eine API können die Daten zur weiteren Nutzung im Sinne einer offenen und reproduzierbaren Wissenschaft bereitgestellt werden.
 
 ## Unser Service
 
@@ -42,7 +40,7 @@ Für die technische Umsetzung der digitalen Sammlungen wird das freie, quelloffe
 ## Kontakt
 
 **Forschungsdatenzentrum (FDZ)**
-Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

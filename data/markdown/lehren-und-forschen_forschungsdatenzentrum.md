@@ -129,7 +129,7 @@ Data Steward und Data Scientist für BERD@NFDI | Projektkoordination AiDaLi
 - ORCID-ID: 0000-0003-3620-3355 (https://orcid.org/0000-0003-3620-3355)
 
 
-### Dr. Renat Shigapov
+### Dr. Renat Kaufmann
 
 Lead Data Scientist | Projektleiter
 
@@ -171,7 +171,7 @@ Referentin für Wissenstransfer (OCR) und AI Literacy in den Projekten TransforM
 
 ### Forschungsdatenzentrum (FDZ)
 
-Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 - Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 - E-Mail: forschungsdaten@uni-mannheim.de
