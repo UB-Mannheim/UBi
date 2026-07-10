@@ -73,7 +73,19 @@ Die Bilder der Datenbank LinguaPix dürfen nur für nicht-kommerzielle Zwecke in
 [https://linguapix.uni-mannheim.de/frontend/web/index.php](https://linguapix.uni-mannheim.de/frontend/web/index.php)
 
 
-### Maschinenbauindustrie (MBI) Knowledge Graph
+### PATSTAT
+
+PATSTAT enthält bibliografische Daten und Angaben zu rechtlichen Ereignissen für Patente aus führenden Industrie- und Entwicklungsländern. Die Universitätsbibliothek bietet Zugang zu PATSTAT Global, das mehr als 100 Millionen Patentdatensätze von über 90 Patentbehörden und mehr als 200 Millionen rechtliche Statusereignisse von über 40 Patentbehörden umfasst. Die Datenbank wird als Massendatenbestand einschließlich historischer Datensätze bereitgestellt und ein- bis zweimal pro Jahr aktualisiert.
+**Zugang und Nutzung:**
+Um Zugang zu erhalten, kontaktieren Sie uns bitte per E-Mail und unterzeichnen Sie die [Nutzungsbedingungen](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Bilder/Lehren_und_Forschen/fdz/Nutzungsbedingungen/Nutzungsbedingungen-PATSTATonline-Datenschutzhinweise.pdf) (pdf, 27 KB).
+PATSTAT: [https://fdz.bib.uni-mannheim.de/patstat/login/](https://fdz.bib.uni-mannheim.de/patstat/login/)
+
+
+### Knowledge Graphs zu Unternehmensdaten
+
+
+
+## Maschinenbauindustrie (MBI) Knowledge Graph
 
 Der Maschinenbauindustrie (MBI) Knowledge Graph enthält strukturierte Daten aus dem Buch „Die Maschinen-Industrie im Deutschen Reich“, das 1937 von Herbert Patschan verfasst wurde. Das Buch wurde an der UB Mannheim gescannt, mittels OCR verarbeitet, strukturiert und semantisch angereichert. Die Daten umfassen Basisinformationen zu deutschen Unternehmen der Maschinenbauindustrie.
 **Datensatz:**
@@ -90,7 +102,7 @@ Der Maschinenbauindustrie (MBI) Knowledge Graph enthält strukturierte Daten aus
 [https://rec.mbi.kgi.uni-mannheim.de/](https://rec.mbi.kgi.uni-mannheim.de/)
 
 
-### Wer Leitet (WL) Knowledge Graph
+## Wer Leitet (WL) Knowledge Graph
 
 Der „Wer Leitet“ (WL) Knowledge Graph enthält strukturierte Daten aus den Büchern „Wer Leitet?“. Die Buchseiten wurden an der UB Mannheim gescannt, mittels OCR verarbeitet, strukturiert und semantisch angereichert. Der Graph umfasst Informationen über Personen, die in den Jahren 1940 bis 1941 verschiedene Unternehmen in Deutschland leiteten.
 KG GUI: [https://wl.kgi.uni-mannheim.de](https://wl.kgi.uni-mannheim.de)
@@ -102,7 +114,7 @@ KG GUI: [https://wl.kgi.uni-mannheim.de](https://wl.kgi.uni-mannheim.de)
 [https://rec.wl.kgi.uni-mannheim.de](https://rec.wl.kgi.uni-mannheim.de)
 
 
-### Handbuch der Deutschen Aktiengesellschaften (HbAG) Knowledge Graph
+## Handbuch der Deutschen Aktiengesellschaften (HbAG) Knowledge Graph
 
 Der „Handbuch der Deutschen Aktiengesellschaften“ (HbAG) Knowledge Graph enthält strukturierte Daten aus den seit 1896 erschienenen HbAG-Büchern. Die Bücher wurden gescannt, mittels OCR verarbeitet, strukturiert und semantisch angereichert. Die Daten beinhalten grundlegende Informationen zu deutschen Unternehmen, einschließlich Firmennamen, Branchenzugehörigkeit und Hauptsitzstandorten.
 KG GUI: [https://hbag.kgi.uni-mannheim.de](https://hbag.kgi.uni-mannheim.de)
@@ -114,12 +126,38 @@ KG GUI: [https://hbag.kgi.uni-mannheim.de](https://hbag.kgi.uni-mannheim.de)
 [https://rec.hbag.kgi.uni-mannheim.de](https://rec.hbag.kgi.uni-mannheim.de)
 
 
-### PATSTAT
+### Digitale Ausstellungen
 
-PATSTAT enthält bibliografische Daten und Angaben zu rechtlichen Ereignissen für Patente aus führenden Industrie- und Entwicklungsländern. Die Universitätsbibliothek bietet Zugang zu PATSTAT Global, das mehr als 100 Millionen Patentdatensätze von über 90 Patentbehörden und mehr als 200 Millionen rechtliche Statusereignisse von über 40 Patentbehörden umfasst. Die Datenbank wird als Massendatenbestand einschließlich historischer Datensätze bereitgestellt und ein- bis zweimal pro Jahr aktualisiert.
-**Zugang und Nutzung:**
-Um Zugang zu erhalten, kontaktieren Sie uns bitte per E-Mail und unterzeichnen Sie die [Nutzungsbedingungen](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Bilder/Lehren_und_Forschen/fdz/Nutzungsbedingungen/Nutzungsbedingungen-PATSTATonline-Datenschutzhinweise.pdf) (pdf, 27 KB).
-PATSTAT: [https://fdz.bib.uni-mannheim.de/patstat/login/](https://fdz.bib.uni-mannheim.de/patstat/login/)
+
+
+## „Lohn der Wahrheit“?: August von Kotzebue und seine Ermordung vor 200 Jahren
+
+Die Ausstellung „Lohn der Wahrheit“? beleuchtet Leben, Werk und gewaltsamen Tod des Dramatikers August von Kotzebue, der vor 200 Jahren in Mannheim ermordet wurde. Als erfolgreichster Theaterautor seiner Zeit stand er im Mittelpunkt politischer und literarischer Kontroversen. Anhand von Originalobjekten, darunter seltene Briefe, Porträts und Kotzebues Totenmaske, werden die Hintergründe des Attentats sowie dessen weitreichende Folgen für Politik, Pressefreiheit und Universitäten im frühen 19. Jahrhundert anschaulich dargestellt.
+**Zur digitalen Ausstellung:**
+[https://fdz.bib.uni-mannheim.de/kotzebue/](https://fdz.bib.uni-mannheim.de/kotzebue/)
+
+
+## Karibische Literaturen
+
+Die Ausstellung Karibische Literaturen präsentiert studentische Posterarbeiten, die sich mit den Entwicklungen frankokaribischer Literaturen vom 20. bis ins 21. Jahrhundert beschäftigen. Im Mittelpunkt stehen Fragen von Identität, Kolonialgeschichte, gesellschaftlichem Wandel sowie aktuelle Themen wie Migration, Ökologie und Demokratie. Die gezeigten Arbeiten wurden von Studierenden der Universitäten Mannheim, Heidelberg, Kassel und Wuppertal im Rahmen einer gemeinsamen Tagung im April 2026 sowie begleitender Seminare erarbeitet. Sie zeigen, wie literarische und künstlerische Stimmen der Karibik auf politische, soziale und ökologische Herausforderungen reagieren und neue Perspektiven auf die Region eröffnen.
+Zur digitalen Ausstellung:[https://fdz.bib.uni-mannheim.de/karibische-literaturen/](https://fdz.bib.uni-mannheim.de/karibische-literaturen/)
+
+
+### Bibliografische Datenbanken
+
+
+
+## Nikephoros Bibliography of Sport in Antiquity
+
+Die Nikephoros Bibliography of Sport in Antiquity ist eine frei zugängliche bibliografische Datenbank zu Sport und Wettkämpfen in der Antike. Sie verzeichnet wissenschaftliche Publikationen seit 1986 und basiert auf den jährlich erschienenen Bibliografien der FachzeitschriftNikephoros. Die Plattform kann genutzt werden, um gezielt nach Literatur zu antikem Sport zu recherchieren, Publikationen zu durchsuchen und thematisch relevante Quellen zu finden.
+**Zur Bibliografie:**
+[https://fdz.bib.uni-mannheim.de/nikephoros/](https://fdz.bib.uni-mannheim.de/nikephoros/)
+
+
+## Cynisca: Documenting Women and Girls in Ancient Greek Sports
+
+Cynisca ist eine frei zugängliche Forschungsdatenbank, die Quellen zur Beteiligung von Frauen und Mädchen am Sport im antiken Griechenland zusammenführt. Sie bietet griechische und lateinische Originaltexte mit englischen Übersetzungen, Erläuterungen sowie weiterführender Literatur und macht diese für Forschung, Lehre und interessierte Öffentlichkeit zugänglich. Die Datenbank kann genutzt werden, um Quellen gezielt zu durchsuchen, nach Themen zu recherchieren und die Rolle von Frauen im antiken Sport systematisch zu untersuchen.
+Zur Bibliografie:[https://fdz.bib.uni-mannheim.de/cynisca/](https://fdz.bib.uni-mannheim.de/cynisca/)
 
 
 ## Kontakt

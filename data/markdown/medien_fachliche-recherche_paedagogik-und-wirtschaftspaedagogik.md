@@ -128,5 +128,5 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 - Telefon: +49 621 181-3929
-- E-Mail: lorena.steeb@uni-mannheim.de
+- E-Mail: lorena.abou.warda@uni-mannheim.de
 Vertretung[Xiuwen Ye](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/xiuwen-ye/)

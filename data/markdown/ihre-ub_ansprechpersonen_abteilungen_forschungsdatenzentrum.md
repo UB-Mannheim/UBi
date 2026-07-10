@@ -83,7 +83,7 @@ Aufgaben:
 - Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
-- E-Mail: renat.shigapov@uni-mannheim.de
+- E-Mail: renat.kaufmann@uni-mannheim.de
 - ORCID-ID: 0000-0002-0331-2558 (https://orcid.org/0000-0002-0331-2558)
 
 

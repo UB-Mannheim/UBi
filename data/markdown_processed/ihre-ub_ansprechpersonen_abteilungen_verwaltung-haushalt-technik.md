@@ -22,7 +22,7 @@ E-Mail: [katharina.selzer@uni-mannheim.de](mailto:katharina.selzer@uni-mannheim.
 **Fachreferentin für Pädagogik und Wirtschaftspädagogik**
 Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 Telefon: +49 621 181-3929
-E-Mail: [lorena.steeb@uni-mannheim.de](mailto:lorena.steeb@uni-mannheim.de)
+E-Mail: [lorena.abou.warda@uni-mannheim.de](mailto:lorena.abou.warda@uni-mannheim.de)
 
 ### Aufgabenbereiche von Lorena Abou-Warda
 
