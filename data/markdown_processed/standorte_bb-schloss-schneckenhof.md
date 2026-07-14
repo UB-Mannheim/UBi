@@ -41,22 +41,28 @@ E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich Schloss Schneckenhof der Universitätsbibliothek Mannheim befindet sich im Schloss Schneckenhof West. Für alle Anliegen rund um diesen Bereich stehen folgende Ansprechpersonen zur Verfügung:
+Der Bibliotheksbereich Schloss Schneckenhof ist Teil der Universitätsbibliothek Mannheim und befindet sich im Schloss Schneckenhof West.
 
-#### Ansprechpartnerinnen
+#### Teamleitung
 
 ##### Elisabeth Wagner
 
-- Kommissarische Teamleiterin Bibliotheksbereich Schloss Schneckenhof
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim
-- Telefon: +49 621 181-2835
-- E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
+Kommissarische Teamleiterin
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SW 287
+68161 Mannheim
+Telefon: +49 621 181-2835
+E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
 
 ##### Lucia Oberhollenzer
 
-- Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 286, 68161 Mannheim
-- Telefon: +49 621 181-3007
-- E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
+Stellvertretende Teamleiterin
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SW 286
+68161 Mannheim
+Telefon: +49 621 181-3007
+E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
 
-Weitere Informationen zum Bibliotheksbereich Schloss Schneckenhof finden Sie auf der [Webseite der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/).
+#### Kontakt
+
+Für allgemeine Anfragen zum Bibliotheksbereich Schloss Schneckenhof wenden Sie sich bitte an das Team per E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de) oder telefonisch an die oben genannten Ansprechpartnerinnen.
