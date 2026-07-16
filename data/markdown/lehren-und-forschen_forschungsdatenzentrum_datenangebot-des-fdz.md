@@ -77,7 +77,7 @@ Die Bilder der Datenbank LinguaPix dürfen nur für nicht-kommerzielle Zwecke in
 
 PATSTAT enthält bibliografische Daten und Angaben zu rechtlichen Ereignissen für Patente aus führenden Industrie- und Entwicklungsländern. Die Universitätsbibliothek bietet Zugang zu PATSTAT Global, das mehr als 100 Millionen Patentdatensätze von über 90 Patentbehörden und mehr als 200 Millionen rechtliche Statusereignisse von über 40 Patentbehörden umfasst. Die Datenbank wird als Massendatenbestand einschließlich historischer Datensätze bereitgestellt und ein- bis zweimal pro Jahr aktualisiert.
 **Zugang und Nutzung:**
-Um Zugang zu erhalten, kontaktieren Sie uns bitte per E-Mail und unterzeichnen Sie die [Nutzungsbedingungen](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Bilder/Lehren_und_Forschen/fdz/Nutzungsbedingungen/Nutzungsbedingungen-PATSTATonline-Datenschutzhinweise.pdf) (pdf, 27 KB).
+Für wissenschaftliche Projekte können Mitglieder der Universität Mannheim Datenzugang erhalten. Um Zugang zu erhalten, kontaktieren Sie das FDZ bitte per E-Mail und unterzeichnen Sie die [Nutzungsbedingungen ](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Bilder/Lehren_und_Forschen/fdz/Nutzungsbedingungen/Nutzungsbedingungen-PATSTATonline-Datenschutzhinweise.pdf)(pdf, 121 KB).
 PATSTAT: [https://fdz.bib.uni-mannheim.de/patstat/login/](https://fdz.bib.uni-mannheim.de/patstat/login/)
 
 

@@ -20,16 +20,16 @@ Eine spezifische Übersicht zu [Datenbanken für Unternehmens- und Finanzdaten](
 Das Archiv enthält jahresweise Profile von mehreren tausend deutschen, börsennotierten Aktiengesellschaften mit Kennzahlen wie Unternehmenssitz, Tätigkeitsfeld, Mitarbeiterzahl, Beteiligungen, Aktionäre, Bilanzen sowie Gewinn- und Verlustrechnung. Die Daten basieren auf den Publikationen „[Hoppenstedt Aktienführer](https://zdb-katalog.de/title.xhtml?idn=018545750)“ und „[Saling’s Börsenpapiere](https://zdb-katalog.de/title.xhtml?idn=017997968)“.
 
 **Zugang und Nutzung:**
-Für wissenschaftliche Zwecke und Lehre freigegeben. Institutionen in Deutschland erhalten Zugang über die [Nationallizenzen](https://www.nationallizenzen.de/angebote/nlproduct.2014-03-03.9100427542?productlist_utype=NLInstitution), Einzelnutzer\*innen über Anfrage an das FDZ. On-Site-Nutzung an jedem Arbeitsplatz der UB Mannheim möglich.
+Für wissenschaftliche Zwecke und Lehre freigegeben. Institutionen in Deutschland erhalten Zugang über die [Nationallizenzen](https://www.nationallizenzen.de/angebote/nlproduct.2014-03-03.9100427542?productlist_utype=NLInstitution), Einzelnutzer\*innen auf Anfrage beim FDZ. On-Site-Nutzung an allen Benutzerarbeitsplätzen der UB Mannheim möglich.
 
-- [Zum Aktienführer-Datenarchiv](https://digi.bib.uni-mannheim.de/aktienfuehrer/)
+- [Zum Aktienführer-Datenarchiv](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php)
 - [Aktienführer Knowledge Graph](https://akf.kgi.uni-mannheim.de)
 - [Aktienführer SPARQL endpoint](https://query.akf.kgi.uni-mannheim.de)
 - [Aktienführer Reconciliation Service](https://rec.akf.kgi.uni-mannheim.de)
 
 ### Konkursdatenbank
 
-Umfasst alle Konkursverfahren in den 15 größten Städten des Deutschen Kaiserreichs (1879–1914), insgesamt 55.197 Konkurse. Enthält detaillierte Angaben zu Schuldnern und Konkursverwaltern. Die Daten wurden aus dem Deutschen Reichsanzeiger und Preußischen Staatsanzeiger generiert.
+Umfasst alle Konkursverfahren in den 15 größten Städten des Deutschen Kaiserreichs (1879–1914), insgesamt 55.197 Konkurse. Enthält detaillierte Angaben zu Schuldnern und Konkursverwaltern, generiert aus dem Deutschen Reichsanzeiger und Preußischen Staatsanzeiger. Entstanden im Rahmen eines rechtshistorischen Dissertationsprojekts an der Universität Mannheim.
 
 **Zugang und Nutzung:**
 Nutzung unter Creative Commons Attribution 4.0 International Public License, Quellenangabe erforderlich.
@@ -58,7 +58,7 @@ Frei nutzbar, siehe [Public Domain Mark 1.0](https://creativecommons.org/publicd
 
 ### Amtliche Gemeindeverzeichnisse
 
-Digitalisierte Gemeindeverzeichnisse (1880–1976) mit historischen Volkszählungen und Bevölkerungserhebungen auf Gemeindeebene aus dem Deutschen Reich, der BRD und der DDR. Volltextsuche durch OCR verfügbar.
+Digitalisierte Gemeindeverzeichnisse (1880–1976) mit historischen Volkszählungen und Bevölkerungserhebungen auf Gemeindeebene aus dem Deutschen Reich, der BRD und der DDR. OCR-basiert durchsuchbar.
 
 - [Zu den Gemeindeverzeichnissen](https://digi.bib.uni-mannheim.de/gemeindeverzeichnisse/)
 
@@ -77,7 +77,7 @@ Nur für nicht-kommerzielle Zwecke in Forschung, Studium und Lehre. Basic Access
 Bibliografische und rechtliche Daten zu Patenten aus über 90 Patentbehörden weltweit. Zugang zu PATSTAT Global mit über 100 Millionen Patentdatensätzen und mehr als 200 Millionen rechtlichen Statusereignissen.
 
 **Zugang und Nutzung:**
-Zugang nach Kontaktaufnahme per E-Mail und Unterzeichnung der [Nutzungsbedingungen](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Bilder/Lehren_und_Forschen/fdz/Nutzungsbedingungen/Nutzungsbedingungen-PATSTATonline-Datenschutzhinweise.pdf).
+Für wissenschaftliche Projekte von Mitgliedern der Universität Mannheim nach Unterzeichnung der [Nutzungsbedingungen](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Bilder/Lehren_und_Forschen/fdz/Nutzungsbedingungen/Nutzungsbedingungen-PATSTATonline-Datenschutzhinweise.pdf). Zugangsanfrage per E-Mail an das FDZ.
 
 - [PATSTAT Login](https://fdz.bib.uni-mannheim.de/patstat/login/)
 
@@ -85,7 +85,7 @@ Zugang nach Kontaktaufnahme per E-Mail und Unterzeichnung der [Nutzungsbedingung
 
 ### Maschinenbauindustrie (MBI) Knowledge Graph
 
-Strukturierte Daten aus „Die Maschinen-Industrie im Deutschen Reich“ (1937). Enthält Basisinformationen zu deutschen Unternehmen der Maschinenbauindustrie.
+Strukturierte Daten aus „Die Maschinen-Industrie im Deutschen Reich“ (1937), gescannt, OCR-verarbeitet und semantisch angereichert. Enthält Basisinformationen zu deutschen Maschinenbauunternehmen.
 
 - [Datensatz (DOI)](https://doi.org/10.7801/467)
 - [Data Paper](https://doi.org/10.1016/j.dib.2024.111238)
@@ -96,7 +96,7 @@ Strukturierte Daten aus „Die Maschinen-Industrie im Deutschen Reich“ (1937).
 
 ### Wer Leitet (WL) Knowledge Graph
 
-Strukturierte Daten aus den Büchern „Wer Leitet?“ (1940–1941) zu Führungspersonen deutscher Unternehmen.
+Strukturierte Daten aus den Büchern „Wer Leitet?“ (1940–1941), gescannt, OCR-verarbeitet und semantisch angereichert. Enthält Informationen über Führungspersonen deutscher Unternehmen.
 
 - [KG GUI](https://wl.kgi.uni-mannheim.de)
 - [SPARQL](https://query.wl.kgi.uni-mannheim.de)
@@ -105,7 +105,7 @@ Strukturierte Daten aus den Büchern „Wer Leitet?“ (1940–1941) zu Führung
 
 ### Handbuch der Deutschen Aktiengesellschaften (HbAG) Knowledge Graph
 
-Strukturierte Daten aus den HbAG-Büchern (ab 1896) zu deutschen Unternehmen, Branchen und Standorten.
+Strukturierte Daten aus den seit 1896 erschienenen HbAG-Büchern, gescannt, OCR-verarbeitet und semantisch angereichert. Enthält Informationen zu deutschen Unternehmen, Branchen und Standorten.
 
 - [KG GUI](https://hbag.kgi.uni-mannheim.de)
 - [SPARQL](https://query.hbag.kgi.uni-mannheim.de)
@@ -116,13 +116,13 @@ Strukturierte Daten aus den HbAG-Büchern (ab 1896) zu deutschen Unternehmen, Br
 
 ### „Lohn der Wahrheit“?: August von Kotzebue und seine Ermordung vor 200 Jahren
 
-Ausstellung zu Leben, Werk und Ermordung des Dramatikers August von Kotzebue. Präsentiert Originalobjekte, Briefe, Porträts und Totenmaske sowie die politischen und gesellschaftlichen Folgen des Attentats.
+Die Ausstellung beleuchtet Leben, Werk und Ermordung des Dramatikers August von Kotzebue. Sie zeigt Originalobjekte wie Briefe, Porträts und die Totenmaske und thematisiert die politischen und gesellschaftlichen Folgen des Attentats.
 
 - [Zur digitalen Ausstellung](https://fdz.bib.uni-mannheim.de/kotzebue/)
 
 ### Karibische Literaturen
 
-Studentische Posterarbeiten zu frankokaribischen Literaturen vom 20. bis 21. Jahrhundert. Themen: Identität, Kolonialgeschichte, gesellschaftlicher Wandel, Migration, Ökologie, Demokratie. Entstanden im Rahmen einer Tagung und begleitender Seminare an mehreren Universitäten.
+Präsentiert studentische Posterarbeiten zu frankokaribischen Literaturen vom 20. bis 21. Jahrhundert. Themenschwerpunkte sind Identität, Kolonialgeschichte, gesellschaftlicher Wandel, Migration, Ökologie und Demokratie. Die Arbeiten entstanden im Rahmen einer Tagung und begleitender Seminare an mehreren Universitäten.
 
 - [Zur digitalen Ausstellung](https://fdz.bib.uni-mannheim.de/karibische-literaturen/)
 
@@ -130,7 +130,7 @@ Studentische Posterarbeiten zu frankokaribischen Literaturen vom 20. bis 21. Jah
 
 ### Nikephoros Bibliography of Sport in Antiquity
 
-Frei zugängliche bibliografische Datenbank zu Sport und Wettkämpfen in der Antike. Verzeichnet wissenschaftliche Publikationen seit 1986, basierend auf der Zeitschrift Nikephoros.
+Frei zugängliche bibliografische Datenbank zu Sport und Wettkämpfen in der Antike. Verzeichnet wissenschaftliche Publikationen seit 1986, basierend auf den Bibliografien der Zeitschrift Nikephoros.
 
 - [Zur Bibliografie](https://fdz.bib.uni-mannheim.de/nikephoros/)
 
