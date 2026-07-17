@@ -49,39 +49,38 @@ E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a5/) der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort.
+Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet umfassende Services und Ansprechpersonen für Nutzerinnen und Nutzer.
 
-#### Ansprechpartnerinnen
+#### Ansprechpartner
 
 ##### Gunhild Schenk
 
 Teamleiterin Bibliotheksbereich A5
-Universität Mannheim, Universitätsbibliothek
-A5 – Gebäudeteil A – Raum 126, 68159 Mannheim
+Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 126, 68159 Mannheim
 Telefon: +49 621 181-3031
 E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 ##### Sylvia Zander
 
 Stellvertretende Teamleiterin Bibliotheksbereich A5
-Universität Mannheim, Universitätsbibliothek
-A5 – Gebäudeteil A – Raum 127, 68159 Mannheim
+Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 127, 68159 Mannheim
 Telefon: +49 621 181-3032
 E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
+______________________________________________________________________
+
 #### Europäisches Dokumentationszentrum (EDZ)
 
-Das Europäische Dokumentationszentrum (EDZ) ist Anlaufstelle für Literatur und Informationen zu europäischen Themen.
+Das Europäische Dokumentationszentrum (EDZ) ist im Bibliotheksbereich A5 angesiedelt und bietet spezialisierte Unterstützung für die Fächer Politikwissenschaft, Soziologie und Psychologie.
 
 ##### Dr. Hendrik Platte
 
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
-Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SN 283, Mannheim
+Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 Telefon: +49 621 181-2990
 E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
 
-**Aufgabenbereiche:**
+**Aufgaben:**
 
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen

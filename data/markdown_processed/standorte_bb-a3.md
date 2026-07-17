@@ -49,20 +49,25 @@ E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-[Zur offiziellen Seite des Bibliotheksbereichs A3](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)
+[Zur Webseite des Bibliotheksbereichs A3](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)
 
-#### Teamleitung und Kontakt
+#### Kontakt
 
-##### Barbara Dreisiebner
+**Adresse:**
+Universität Mannheim
+Universitätsbibliothek
+A3 – Raum 106/108
+68159 Mannheim
 
-Teamleiterin Bibliotheksbereich A3
-Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
-Telefon: +49 621 181-2989
-E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
+**E-Mail:** [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 
-##### Isabelle Otto
+**Telefon Teamleitung:** +49 621 181-2989
+**Telefon Stellvertretung:** +49 621 181-3058
 
-Stellvertretende Teamleiterin Bibliotheksbereich A3
-Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
-Telefon: +49 621 181-3058
-E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
+##### Team
+
+- **Barbara Dreisiebner**
+  Teamleiterin Bibliotheksbereich A3
+
+- **Isabelle Otto**
+  Stellvertretende Teamleiterin Bibliotheksbereich A3
