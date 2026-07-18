@@ -3,9 +3,9 @@
 
 # [Beratung zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/)
 
-Forschungsdatenmanagement hat viele Facetten und ist in allen Phasen des Forschungsprozesses von der Planung über die Durchführung bis zum Abschluss eines Projektes relevant. Das FDZ-Team unterstützt Sie gerne bei allen Fragen rund um das Thema FDM.
+Forschungsdatenmanagement hat viele Facetten und ist in allen Phasen des Forschungsprozesses von der Planung über die Durchführung bis zum Abschluss eines Projektes relevant. Das FDZ-Team unterstützt Sie gerne bei allen Fragen rund um das Thema Forschungsdatenmanagement.
 Jeden vierten Donnerstag im Monat von 14:00 bis 15:00 Uhr findet eine offene FDZ-Sprechstunde statt. Eine vorherige Anmeldung ist nicht erforderlich. Zoom-Zugang zur FDZ-Sprechstunde: [https://fdz.bib.uni-mannheim.de/sprechstunde](https://fdz.bib.uni-mannheim.de/sprechstunde); Meeting-ID: 634 4362 2069; Kenncode: 884516
-Nächster Termin: 23. April 2026
+Nächster Termin: 23. Juli 2026
 
 - Wo kann ich nach [fachspezifischen Daten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) suchen und wo finde ich das [Datenangebot des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/)?
 - Wie [lizenziere](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/) ich Daten?
