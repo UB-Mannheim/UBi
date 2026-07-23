@@ -59,4 +59,6 @@ Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof We
 Telefon: +49 621 181-3007
 E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
 
-Weitere Informationen finden Sie auf der [Webseite des Bibliotheksbereichs Schloss Schneckenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/).
+#### Kontakt
+
+Für allgemeine Anfragen zum Bibliotheksbereich Schloss Schneckenhof wenden Sie sich bitte an [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de) oder nutzen Sie die oben genannten Kontaktdaten der Teamleitung.
