@@ -7,14 +7,14 @@
 
 ## Where to find which data
 
-| Prices | LSEG Workspace,Aktienführer-Archiv | LSEG Workspace | CRSP,LSEG Workspace | LSEG Workspace |
+| Prices | LSEG Workspace,Aktienführer Data Archive | LSEG Workspace | CRSP,LSEG Workspace | LSEG Workspace |
 | --- | --- | --- | --- | --- |
 | Analyst forecasts |  |  |  | I/B/E/S |
 | Mutual funds |  |  | CRSP Mutual Funds,Institutional (13F) Holdings,Mutual Fund Holdings | CRSP Mutual Funds,Mutual Fund Holdings |
 | Accounting data | Orbis | Orbis | COMPUSTAT North America,Orbis | LSEG Workspace,COMPUSTAT Global,Orbis |
-| Banks and financial service industry | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) |
-| M&A and ownership structure | Aktienführer data archive,Zephyr | Zephyr | Zephyr | SDC Worldwide M&A,Zephyr |
-| Executive information | Orbis,Aktienführer data archive,Dun & Bradstreet Hoovers | Orbis,Dun & Bradstreet Hoovers | Orbis,COMPUSTAT Execucomp,Dun & Bradstreet Hoovers | Orbis,Dun & Bradstreet Hoovers |
+| Banks and financial service industry | BankFocus,SNL Unlimited (S&P Global) | BankFocus,SNL Unlimited (S&P Global) | BankFocus,SNL Unlimited (S&P Global) | BankFocus,SNL Unlimited (S&P Global) |
+| M&A and ownership structure | Aktienführer Data Archive,Orbis M&A | Orbis M&A | Orbis M&A | SDC Worldwide M&A,Orbis M&A |
+| Executive information | Orbis,Aktienführer Data Archive,Dun & Bradstreet Hoovers | Orbis,Dun & Bradstreet Hoovers | Orbis,COMPUSTAT Execucomp,Dun & Bradstreet Hoovers | Orbis,Dun & Bradstreet Hoovers |
 | Corporate filings |  |  |  | FinancialReports |
 
 
@@ -32,20 +32,20 @@ Many of the following financial databases are available via the web-based interf
 
 
 
-## Aktienführer data archive
+## Aktienführer Data Archive
 
-Contents: The [Aktienführer data archive](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php) is an important source for historic German financial market and corporations’ data. It was published in between 1870 and 2018, including several predecessor-publications. The [Aktienführer data archive](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php) contains standardised reports from German and foreign corporations, that were traded at a German stock-exchange. The reports feature information on head offices and management, operations and investments, shareholder-structure and income statements.
+Contents: The [Aktienführer Data Archive](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php) is an important source for historic German financial market and corporations’ data. It was published in between 1870 and 2018, including several predecessor-publications. The Aktienführer data archive contains standardised reports from German and foreign corporations, that were traded at a German stock-exchange. The reports feature information on head offices and management, operations and investments, shareholder-structure and income statements.
 **Available history:**1956 – 2016 (Database) and 1870 – 2016 (digitised full-text PDFs)
 Access: [free access](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php) within the IP-range of the University of Mannheim
 
 
-## Bank Focus (Bureau van Dijk and Moody's Analytics)
+## BankFocus (Bureau van Dijk and Moody's Analytics)
 
-**Contents:**Bank Focus is a comprehensive database of banks worldwide, combining content from Bureau van Dijk and Moody's Investor Service. The information is sourced from a combination of annual reports, information providers and regulatory sources. Bank Focus currently contains detailed information on 44,000 banks (29,000 US and 15,000 Non-US), offering detailed, standardized reports and ratios. Its templates are regularly updated to reflect the latest accounting and regulatory disclosures.
-Help: [Bank Focus user guide](https://help.bvdinfo.com/mergedProjects/131_EN/Home.htm)
+**Contents:**BankFocus is a comprehensive research database covering banks worldwide, combining data from Bureau van Dijk and Moody's. It contains standardized financial statements, regulatory information, ownership data and financial ratios for more than 46,700 banks (29,500 U.S. and 17,200 non-U.S.), with regularly updated reporting templates to reflect the latest accounting and regulatory standards.
+Help: [BankFocus user guide](https://help.bvdinfo.com/mergedProjects/131_EN/Home.htm)
 **Access:**
 
-- [Bank Focus](https://bankfocus.bvdinfo.com/ip) (on Bureau van Dijk interface)
+- [BankFocus](https://dbis.ur.de/UBMAN/resources/101865) (via Bureau van Dijk interface)
 - via [WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registration)
 
 
@@ -133,14 +133,17 @@ Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registra
 
 ## Orbis (Bureau van Dijk)
 
-**Contents:**Orbis contains information on over 275 million companies worldwide, with an emphasis on private company information. Orbis combines information from regulatory and other sources, and delivers company information with added value. It can be used to research individual companies or groups of companies, search for companies by profile and to analyze and evaluate companies. All data is standardized for easy cross-border comparisons.
-In addition to that, extended access to Orbis is available, including bulk-download of huge datasets and access to historical updates of Orbis. Extended access can be used by professors and academic staff of the University of Mannheim as well as for student theses supervised by them.
-**Help:**
+**Contents:**Orbis contains standardized information on more than 500 million public and private companies worldwide, with a particular strength in private company data. It provides financial, ownership, governance, and industry information from regulatory and other authoritative sources, supporting company screening, benchmarking, and empirical research across countries.
+Help: [Orbis user guide](https://help.bvdinfo.com/mergedProjects/68_EN/Home.htm)
+Access: [Orbis](https://dbis.ur.de/UBMAN/resources/12630) (via Bureau van Dijk interface)
+Extended Access: Extended access to Orbis is available for professors and academic staff at the University of Mannheim, as well as for student theses supervised by them. It includes bulk downloads of large datasets and access to historical company data. A dedicated username and password are required to access the extended version of Orbis. These credentials are administered by the Dean's Office of the Business School. Please contact orbis@uni-mannheim.de to request access.
 
-- [Orbis user guide](https://help.bvdinfo.com/mergedProjects/68_EN/Home.htm)
 
-Access: [Orbis](http://dbis.uni-regensburg.de/warpto.php?bib_id=ubman&color=8&titel_id=12630&url=https%3A%2F%2Forbis4.bvdinfo.com%2Fip) (via Bureau van Dijk interface)
-Extended Access: For bulk download of large datasets („Orbis Generics“) as well as for historic updates an extended access option is available for Orbis. Extended access can be used by professors and academic staff of Mannheim University, including student thesis supervised by these persons. For usage a special username/password is required, which is administered by the Dean's Office of the Business School. Please contact orbis@uni-mannheim.de to reserve access.
+## Orbis M&A (former: Zephyr)
+
+**Contents:**Orbis M&A covers more than 2.6 million global M&A and related deals, including IPOs, joint ventures, private equity, and rumors, with over 120,000 new deals added annually. It combines detailed deal, company, ownership, and financial data to support empirical research in finance, accounting, economics, and management.
+Help: [Zephyr user guide](https://help.bvdinfo.com/mergedProjects/83_EN/Home.htm)
+Access: [Orbis M&A](https://dbis.ur.de/UBMAN/resources/7703) (via Bureau van Dijk interface)
 
 
 ## SDC Worldwide Mergers, Acquisitions & Alliances (Thomson Financial)
@@ -155,13 +158,6 @@ Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registra
 **Contents:**The database comprises financial data, news and analyses for more than 6.500 public and more than 50.000 private companies from the following industries: banking (worldwide), insurance (USA, Canada, Europe) and financial services (USA, Canada).
 **Help:**After having logged in to the database, click the „Help“ button in the header of the web page.
 Access: Access to the database is restricted to members of the University of Mannheim and requires personal registration with your University of Mannheim e-mail address via [S&P Global registration page](https://platform.spgi.spglobal.com/).
-
-
-## Zephyr (Bureau van Dijk)
-
-**Contents:**Zephyr is a comprehensive database of deal information, supporting M&A research. It contains information on M&A, IPO, private equity and venture capital deals and rumors. Zephyr has information on 1.6 million deals and rumors with over 100.000 being added annually.
-Help: [Zephyr user guide](https://help.bvdinfo.com/mergedProjects/83_EN/Home.htm)
-Access: [Zephyr](https://zephyr.bvdinfo.com/ip) (via Bureau van Dijk interface)
 
 
 ## Further information
