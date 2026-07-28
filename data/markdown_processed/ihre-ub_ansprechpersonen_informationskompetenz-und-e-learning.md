@@ -1,15 +1,17 @@
 ---
-title: Informationskompetenz und E-Learning – Ansprechpartner und Aufgaben an der Universitätsbibliothek Mannheim
+title: Ansprechpartner Informationskompetenz und E-Learning – Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/informationskompetenz-und-e-learning/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/information-literacy-and-e-learning/
 category: Kontakt
-tags: ['Informationskompetenz', 'E-Learning', 'Fachreferenten', 'Romanistik', 'Geschichte', 'Schulungen', 'Bibliotheksservices', 'Projekte']
+tags: ['Informationskompetenz', 'E-Learning', 'Fachreferenten', 'Schulungen', 'Romanistik', 'Geschichte', 'Projekte', 'Universitätsbibliothek']
 language: de
 ---
 
 # Informationskompetenz und E-Learning – Ansprechpartner
 
-## Dr. Jorge Murcia Serra
+Die Universitätsbibliothek Mannheim bietet umfassende Unterstützung im Bereich Informationskompetenz und E-Learning. Die folgenden Ansprechpersonen betreuen verschiedene Fachbereiche, Projekte und Themen rund um Recherche, Schulungen und digitale Bildung.
+
+## Dr. Jordi Murcia Serra
 
 **Funktionen:**
 
@@ -24,7 +26,6 @@ language: de
 - Auswahl und Erschließung von Sprachlernmaterialien
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
-- Betreuung des Bereichs Informationskompetenz und E-Learning
 - Education & Training im Projekt BERD@NFDI
 - Mitarbeit im Projekt AiDaLi
 
@@ -32,7 +33,7 @@ language: de
 Universität Mannheim, Universitätsbibliothek
 A3 – Raum 105, 68159 Mannheim
 Telefon: +49 621 181-2997
-E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
+E-Mail: [jordi.murcia.serra@uni-mannheim.de](mailto:jordi.murcia.serra@uni-mannheim.de)
 
 ______________________________________________________________________
 

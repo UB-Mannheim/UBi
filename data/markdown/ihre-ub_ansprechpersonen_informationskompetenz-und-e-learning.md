@@ -5,7 +5,7 @@
 
 
 
-### Dr. Jorge Murcia Serra
+### Dr. Jordi Murcia Serra
 
 Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projektmitarbeiter AiDaLi
 
@@ -20,7 +20,7 @@ Aufgaben:
 - Mitarbeit im ProjektAiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
-- E-Mail: jorge.murcia@uni-mannheim.de
+- E-Mail: jordi.murcia.serra@uni-mannheim.de
 
 
 ### Viktor Boecking, M.A. (er/ihm)

@@ -1,5 +1,5 @@
 ---
-title: Fachreferentinnen und Fachreferenten der Universitätsbibliothek Mannheim – Übersicht und Kontakt für fachliche Recherche
+title: Fachreferentinnen und Fachreferenten der Universitätsbibliothek Mannheim – Zuständigkeiten und Kontakt für fachliche Recherche
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/
 category: Kontakt
@@ -51,11 +51,6 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 **Fachreferent für Mathematik und (Wirtschafts-)Informatik**
 **Open-Access-Beauftragter der Universität Mannheim**
 
-**Fachreferat für:**
-
-- Mathematik
-- Informatik
-
 **Aufgaben:**
 
 - Literaturauswahl und -erschließung für Mathematik und Informatik
@@ -106,23 +101,22 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 
 ## Fachgebiete und zugehörige Fachreferentinnen und Fachreferenten
 
-| Fachgebiet | Fachreferentin/Fachreferent | Kontakt (siehe oben) |
-|---------------------------------------------|-------------------------------------|------------------------------|
-| Allgemeines | Dr. Annette Klein | |
-| Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie | Dr. Rudolf Nink, M.A. | |
-| Betriebswirtschaftslehre, Volkswirtschaftslehre | Xiuwen Ye, M.Sc. | |
-| Geschichte | Viktor Boecking, M.A. | |
-| Mathematik, Informatik | Dr. Philipp Zumstein | |
-| Medien- und Kommunikationswissenschaft | Ellis Kolb | |
-| Pädagogik, Wirtschaftspädagogik | Lorena Abou-Warda, M.Sc. | |
-| Politikwissenschaft, Soziologie, Psychologie| Dr. Hendrik Platte | |
-| Rechtswissenschaft | Dr. Marion von Francken-Welz | |
-| Romanistik, Sprachlernmaterialien | Dr. Jorge Murcia Serra | |
+| Fachgebiet | Fachreferent/in | Weitere Informationen |
+|---------------------------------------------|-------------------------------|------------------------------------------------------------------------------------------------------|
+| Allgemeines | Dr. Annette Klein | [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) |
+| Allgemeine Sprach- und Literaturwissenschaft, Anglistik/Amerikanistik, Germanistik, Philosophie | Dr. Rudolf Nink, M.A. | [Allgemeine Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/), [Anglistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/), [Germanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/germanistik/), [Philosophie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/philosophie/) |
+| Betriebswirtschaftslehre, Volkswirtschaftslehre | Xiuwen Ye, M.Sc. | [Betriebswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/), [Volkswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/volkswirtschaftslehre/) |
+| Geschichte | Viktor Boecking, M.A. | [Geschichte](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/geschichte/) |
+| Mathematik, (Wirtschafts-)Informatik | Dr. Philipp Zumstein | [Mathematik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/mathematik-und-informatik/), [Informatik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/mathematik-und-informatik/) |
+| Medien- und Kommunikationswissenschaft | Ellis Kolb | [Medien- und Kommunikationswissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/medien-und-kommunikationswissenschaft/) |
+| Pädagogik und Wirtschaftspädagogik | Lorena Abou-Warda, M.Sc. | [Pädagogik und Wirtschaftspädagogik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/paedagogik-und-wirtschaftspaedagogik/) |
+| Politikwissenschaft, Soziologie, Psychologie| Dr. Hendrik Platte | [Politikwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/politikwissenschaft/), [Soziologie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/soziologie/), [Psychologie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/psychologie/) |
+| Rechtswissenschaft | Dr. Marion von Francken-Welz | [Rechtswissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/rechtswissenschaft/) |
+| Romanistik, Sprachlernmaterialien | Dr. Jordi Murcia Serra | [Romanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/) |
 
 ______________________________________________________________________
 
-## Weitere Informationen
+## Hinweise
 
-- [Fachliche Recherche – Übersicht](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)
-- Für fachspezifische Recherchekurse und individuelle Beratung wenden Sie sich bitte direkt an die zuständigen Fachreferentinnen und Fachreferenten.
-- Die Universitätsbibliothek bietet für alle Fachbereiche Unterstützung bei Literaturrecherche, Datenbanken, Schulungen und weiteren Services an.
+- Für individuelle Beratung und Rechercheunterstützung wenden Sie sich bitte direkt an die zuständige Fachreferentin oder den zuständigen Fachreferenten Ihres Fachgebiets.
+- Weitere Informationen und fachspezifische Recherchekurse finden Sie auf den jeweiligen Fachseiten der Universitätsbibliothek Mannheim.

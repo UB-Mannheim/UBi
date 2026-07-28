@@ -55,7 +55,7 @@ Aufgaben:
 - ORCID-ID: 0000-0002-8961-509X (https://orcid.org/0000-0002-8961-509X)
 
 
-### Dr. Jorge Murcia Serra
+### Dr. Jordi Murcia Serra
 
 Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projektmitarbeiter AiDaLi
 
@@ -70,7 +70,7 @@ Aufgaben:
 - Mitarbeit im ProjektAiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
-- E-Mail: jorge.murcia@uni-mannheim.de
+- E-Mail: jordi.murcia.serra@uni-mannheim.de
 
 
 ### Jan Kamlah
