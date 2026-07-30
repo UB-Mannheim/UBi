@@ -20,7 +20,7 @@ Die aktuelle Kurse sind auf der[ Events-Seite der UB](https://www.bib.uni-mannhe
 Aufzeichnungen
 Aufzeichnungen
 [Literaturverwaltung mit Zotero (Stand: 04/26 Version 9; Video, Präsentation – Deutsch)](https://cloud.bib.uni-mannheim.de/s/aWFdsESpmsqCsik)
-[Reference Management with Zotero (11/23 Version 6; Video, Presentation, Worksheet – English)](https://cloud.bib.uni-mannheim.de/s/na5n3GdCT8Qtf3A)
+[Reference Management with Zotero (07/26 Version 9; Video, Presentation – English)](https://cloud.bib.uni-mannheim.de/s/4QnXrfNgcCcAWmn)
 **Links**
 [Literaturverwaltungsprogramme im Vergleich](https://mediatum.ub.tum.de/doc/1316333/1316333.pdf) (PDF, 414 KB)[Zitationsstile ](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zitationsstile/)[Häufig gestellte Fragen](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/haeufig-gestellte-fragen/)
 **Kontakt**

@@ -1,9 +1,9 @@
 ---
-title: Stellenangebote, Ausbildung und Praktika an der Universitätsbibliothek Mannheim – Übersicht und Kontakt
+title: Stellenangebote, Ausbildung und Praktika an der Universitätsbibliothek Mannheim – Übersicht zu Jobs, Ausbildungs- und Praktikumsmöglichkeiten
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/job-offers-training-and-internships/
 category: Benutzung
-tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Bibliotheksdienst', 'Fachangestellte', 'Informationsdienste', 'Berufsorientierung', 'Kontakt']
+tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Fachangestellte', 'Bibliotheksdienst', 'Berufsorientierung', 'Benutzungsdienste', 'Schulungen']
 language: de
 ---
 
@@ -13,7 +13,7 @@ Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfr
 
 ## Aktuelle Stellenangebote
 
-Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/).
+Vielen Dank für Ihr Interesse. Zur Zeit haben wir keine Stellen zu besetzen.
 
 ## Ausbildung
 
@@ -28,7 +28,7 @@ Sie begeistern sich für Wissen und Medien, Daten und Digitales? Sie haben Freud
 
 ### Praktikum für Schülerinnen und Schüler im Rahmen von BORS oder BOGY
 
-Für Schülerinnen und Schüler ab der 9. Jahrgangsstufe und dem 14. Lebensjahr ist es möglich, an der Universitätsbibliothek ein einwöchiges Praktikum im Rahmen von BORS/BOGY (Praktika zur Berufsorientierung an Realschulen/Gymnasien) zu absolvieren. Während des Praktikums erhalten die Teilnehmenden Einblick in die beruflichen Tätigkeitsfelder einer wissenschaftlichen Bibliothek.
+Für Schülerinnen und Schüler ab der 9. Jahrgangsstufe und dem 14. Lebensjahr ist es möglich, an der Universitätsbibliothek (UB) ein einwöchiges Praktikum im Rahmen von BORS/BOGY (Praktika zur Berufsorientierung an Realschulen/Gymnasien) zu absolvieren. Während des Praktikums erhalten die Teilnehmenden Einblick in die beruflichen Tätigkeitsfelder einer wissenschaftlichen Bibliothek.
 
 - Das Praktikum dauert normalerweise eine Woche.
 - Die Schülerinnen und Schüler sind im Rahmen von Orientierungspraktika über ihre Schule unfallversichert.

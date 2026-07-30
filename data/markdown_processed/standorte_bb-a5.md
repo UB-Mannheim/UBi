@@ -51,7 +51,7 @@ E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort.
 
-#### Ansprechpartnerinnen
+#### Ansprechpartner
 
 ##### Gunhild Schenk
 
@@ -87,5 +87,3 @@ E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
-
-[Weitere Informationen zum Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a5/)
