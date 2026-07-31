@@ -7,6 +7,10 @@
 [ACM Digital Library](https://dbis.uni-regensburg.de/frontdoor.php?titel_id=3162) Veroeffentlichungen der Association for Computing Machinery (ACM)
 [AIS Electronic Library (AISeL)](http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&titel_id=8902) Veroeffentlichungen der Association for Information Systems (AIS)
 [Annual Reviews Economics Collection](http://www.annualreviews.org/action/showPublications) Wirtschaftszeitschriften des Verlags Annual Reviews
+[APBB aktuell](http://www.apbb.de/weblog/?page_id=1090) (Arbeitsgemeinschaft der Parlaments- und Behördenbibliotheken)Für den Abruf der aktuellen Volltexte benötigen Sie folgende Zugangsdaten:
+| Passwort: | #apbb |
+| --- | --- |
+
 [Digizeitschriften](http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&titel_id=2790) Das Deutsche Digitale Zeitschriftenarchiv umfasst ca. 90 Titel von wissenschaftlicher Bedeutung.
 [Deutsche Literatur des 18. Jahrhunderts Online](http://www.bibliothek.uni-regensburg.de/dbinfo/frontdoor.php?titel_id=7673) Die Online-Edition Deutsche Literatur des 18. Jahrhunderts macht Erstausgaben und historische Gesamtausgaben von 642 deutschsprachigen Autoren im Volltext zugänglich.
 Editions Sedes Titel: [Langue française](http://www.revues.armand-colin.com/lettres-langue/langue-francaise); [Le français aujourd'hui](http://www.revues.armand-colin.com/lettres-langue/francais-aujourdhui); [Littérature](https://www.revues.armand-colin.com/lettres-langue/litterature); [Romantisme](http://www.revues.armand-colin.com/lettres-langue/romantisme); [Langages](http://www.revues.armand-colin.com/lettres-langue/langages) Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
@@ -21,7 +25,7 @@ Editions Sedes Titel: [Langue française](http://www.revues.armand-colin.com/let
 [Emerald eJournals Premier](http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&titel_id=6618)
 [ESVcampus – ejournals Philologie](https://www.esvcampus.de/cm/146-fachbereich-philologie/ejournal-paket.html) 6 Zeitschriften des Verlages E. Schmidt
 [Foundations and Trends in Business and Economics](http://www.nowpublishers.com/Package/PackageDetails/Business-Economics) Verlag: Now Publishers
-[Le Français dans le Monde (FDLM)](http://www.fdlm.org/) Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
+[Le Français dans le Monde (FDLM)](http://www.fdlm.org/)Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
 | Login: | 69745 |
 | --- | --- |
 | Passwort: | Zssa33&b |
