@@ -30,5 +30,3 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgab
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
 
-Das**Gebäude A3**ist vom**15. Juni bis voraussichtlich 2. August 2026**wegen Sanierungsarbeiten**geschlossen**.
-[Weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28630)
