@@ -24,7 +24,7 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgab
 
 
 
-## Bibliotheksbereiche A5, Schloss Ehrenhof und Schloss Schneckenhof
+## Bibliotheksbereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof
 
 | Mo‒Fr außer an Feiertagen | 8–23 Uhr |
 | --- | --- |

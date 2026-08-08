@@ -13,6 +13,11 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 
 ## Öffnungszeiten
 
+**Bibliotheksbereich A3**
+| Mo‒Fr | 8–23 Uhr |
+| --- | --- |
+| Sa/So/Feiertage | 10–23 Uhr |
+
 
 
 ## Fachliche Recherche
