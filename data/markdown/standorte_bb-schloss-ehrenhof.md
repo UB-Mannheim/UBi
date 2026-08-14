@@ -36,6 +36,6 @@ Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/me
 ### Bibliotheksbereich Schloss Ehrenhof
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof, 68161 Mannheim
-- Telefon: +49 621 181-3000
+- Telefon: +49 621 181-3002
 - E-Mail: ehrenhof.ub@uni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/)
