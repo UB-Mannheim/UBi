@@ -15,9 +15,9 @@ Unter [Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzpl
 
 ## Ausstattung
 
-- WLAN [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/) ist an allen Arbeitsplätzen mit Uni-ID nutzbar und steht auch Studierenden anderer Hochschulen zur Verfügung.
+- WLAN [eduroam](https://www.uni-mannheim.de/it/services-anleitungen/wlan/) ist an allen Arbeitsplätzen mit Uni-ID nutzbar und steht auch Studierenden anderer Hochschulen zur Verfügung.
 - PC-Arbeitsplätze sind mit aktueller Software, MS-Office-Paket und LibreOffice ausgestattet. Rechercheergebnisse und Downloads aus Volltextdatenbanken können bearbeitet und auf USB-Stick gespeichert werden. Mit eigenen Kopfhörern können multimediale Angebote genutzt werden.
-- Monitore mit HDMI-Anschluss stehen in allen Bibliotheksbereichen bereit, um Laptops zu verbinden.
+- Monitore mit HDMI-Anschluss stehen in allen Bereichen bereit, um Laptops zu verbinden.
 - Universitätsangehörige können im InfoCenter Notebooks nach Vorbestellung über den Katalog Primo [ausleihen](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/).
 - [Kopierer, Scanner und Aufladestationen für das Druckkonto](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/) sind in allen Bereichen vorhanden.
 - In Gruppenarbeitsbereichen unterstützen [PalMA-Team-Monitore](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/) und Flipcharts kollaboratives Arbeiten.
@@ -27,8 +27,8 @@ Unter [Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzpl
 - [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/): 4 Räume im 1. OG
 - [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/): Offener Bereich im EG und UG
 - [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/): 6 Räume im 3. OG West
-- [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/): 5 Räume im 2. OG und offener Gruppenarbeitsbereich EG
-- [Bibliotheksbereich Schloss Schneckenhof – Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. OG West, vom 4. Mai bis 15. Juni 2026 als Ruhearbeitsbereich
+- [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/): 5 Räume im 2. OG und offener Gruppenarbeitsbereich im EG
+- [Bibliotheksbereich Schloss Schneckenhof – Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. OG West, vom 4. Mai bis 15. Juni 2026 als Ruhearbeitsbereich ausgewiesen
 - [Bibliotheksbereich Schloss Schneckenhof – ExpLAB](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/): Offener Bereich im EG
 
 ## Schulungsräume
@@ -39,12 +39,12 @@ Unter [Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzpl
 
 ## Sonderleseplätze
 
-Für Medien, die nicht nach Hause ausgeliehen werden können, stehen Sonderleseplätze im [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) zur Verfügung. Für Alte Drucke gibt es Leseplätze mit besonderer Ausstattung. Zum Lesen und Drucken von Mikrofilmen und Mikrofiches stehen Mikroformen-Scanner bereit.
+Für Medien, die nicht nach Hause ausgeliehen werden können, stehen Sonderleseplätze im [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/) zur Verfügung. Für Alte Drucke gibt es Leseplätze mit spezieller Ausstattung. Zum Lesen und Drucken von Mikrofilmen und Mikrofiches sind Mikroformen-Scanner vorhanden.
 
 ## Schließfächer
 
-[Schließfächer](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schliessfaecher/) sind in den Bibliotheksbereichen vorhanden und können mit der ecUM oder UB-Chipkarte genutzt werden. Das Mitnehmen von Taschen und Jacken in die Bibliotheksbereiche ist erlaubt.
+[Schließfächer](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schliessfaecher/) stehen in allen Bibliotheksbereichen zur Verfügung und können mit ecUM oder UB-Chipkarte genutzt werden. Das Mitnehmen von Taschen und Jacken in die Bibliotheksbereiche ist erlaubt.
 
 ## Wasserspender
 
-In den Bibliotheksbereichen Schloss Ehrenhof, Schloss Schneckenhof und A5 stehen Wasserspender zum Auffüllen von Trinkflaschen zur Verfügung.
+In den Bibliotheksbereichen Schloss Ehrenhof, Schloss Schneckenhof und A5 stehen Wasserspender zum Auffüllen von Trinkflaschen bereit.

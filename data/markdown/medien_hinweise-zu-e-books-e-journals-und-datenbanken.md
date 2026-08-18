@@ -38,7 +38,7 @@ Eine Anleitung finden Sie auf der [Website von beck-online](https://beck-online.
 Wenn Sie sich außerhalb des Campus bei beck-online einloggen, werden Sie nach der Eingabe von Benutzernamen und Passwort zusätzlich um die Angabe eines Sicherheitscodes gebeten, den Ihre Authentifizierungs-App generiert.
 Bei Zugriffsproblemen wenden Sie sich bitte an e-medien.ub@uni-mannheim.de.
 **Studierende kooperierender Einrichtungen**und**Privatpersonen mit Bibliotheksausweis**können nur an den PCs der Universitätsbibliothek auf die meisten lizenzierten E-Medien zugreifen. Ein Zugriff von außerhalb der Universitätsbibliothek ist nicht möglich, weil die Lizenzverträge der Anbieter das nicht erlauben.
-Information der Universitäts-IT zu [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/)[VPN-Client](https://www.uni-mannheim.de/it/anleitungen/vpn/) der Universität Mannheim installieren
+Information der Universitäts-IT zu [eduroam](https://www.uni-mannheim.de/it/services-anleitungen/wlan/)[VPN-Client](https://www.uni-mannheim.de/it/services-anleitungen/vpn/) der Universität Mannheim installieren
 
 
 ## Nutzungsbedingungen

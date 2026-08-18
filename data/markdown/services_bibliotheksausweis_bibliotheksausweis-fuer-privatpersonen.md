@@ -16,7 +16,7 @@ Mit der UB-Chipkarte und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie
 - lizenzierte elektronische Medien an den PCs der UB nutzen, kein Fernzugriff möglich
 - Schließfächer benutzen
 
-[Internetnutzung und WLAN](https://www.uni-mannheim.de/it/anleitungen/wlan/) sind nur für Angehörige der Universität möglich. Die Lernräume der UB können Sie ohne Bibliotheksausweis nutzen.
+[Internetnutzung und WLAN](https://www.uni-mannheim.de/it/services-anleitungen/wlan/) sind nur für Angehörige der Universität möglich. Die Lernräume der UB können Sie ohne Bibliotheksausweis nutzen.
 
 
 

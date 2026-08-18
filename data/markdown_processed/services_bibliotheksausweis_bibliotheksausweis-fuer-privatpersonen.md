@@ -15,7 +15,7 @@ Wenn Sie in der Metropolregion Rhein-Neckar oder in Baden-Württemberg wohnen, a
 
 Mit der UB-Chipkarte und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 
-- Medien im Ausleihzentrum Westflügel ausleihen (außer aus der Lehrbuchsammlung)
+- Medien im Ausleihzentrum Westflügel ausleihen (ausgenommen Lehrbuchsammlung)
 - drucken, kopieren, scannen
 - Medien über die Fernleihe bestellen
 - lizenzierte elektronische Medien an den PCs der UB nutzen (kein Fernzugriff möglich)
@@ -23,7 +23,7 @@ Mit der UB-Chipkarte und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 
 [Metropolregion Rhein-Neckar](https://de.wikipedia.org/wiki/Metropolregion_Rhein-Neckar#/media/File:ZMRN.png)
 
-Die Nutzung von [Internet und WLAN](https://www.uni-mannheim.de/it/anleitungen/wlan/) ist ausschließlich Angehörigen der Universität vorbehalten. Die Lernräume der UB können Sie auch ohne Bibliotheksausweis nutzen.
+**Hinweis:** Internetnutzung und WLAN sind nur für Angehörige der Universität möglich. Die Lernräume der UB können Sie ohne Bibliotheksausweis nutzen.
 
 ## Anmeldung
 
@@ -39,8 +39,8 @@ Bei Verlust oder Defekt Ihrer UB-Chipkarte wenden Sie sich bitte an die Infothek
 
 ## Benachrichtigungen und Adressänderungen
 
-- Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an die im Formular „Online-Anmeldung für Externe“ angegebene E-Mail-Adresse gesendet.
-- Adressänderungen sind ausschließlich persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dazu Ihren Personalausweis oder alternativ Ihren Reisepass mit Meldebescheinigung mit.
+- Alle Benachrichtigungen (z. B. Vormerkungen, Mahnungen) werden an die im Formular „Online-Anmeldung für Externe“ angegebene E-Mail-Adresse gesendet.
+- Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dazu Ihren Personalausweis oder alternativ Ihren Reisepass mit Meldebescheinigung mit.
 
 Weitere Informationen:
 
@@ -49,8 +49,9 @@ Weitere Informationen:
 
 ## Kontakt
 
-**InfoCenter**
-Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
-Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
-Telefon: +49 621 181-2948
-E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
+### InfoCenter
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
+- Telefon: +49 621 181-2948
+- E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)

@@ -35,7 +35,7 @@ Mit der ecUM und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie
 - drucken, kopieren, scannen
 - Medien über die Fernleihe bestellen
 - lizenzierte elektronische Medien an den PCs der UB nutzen, kein Fernzugriff möglich
-- Internet über [eduroam](https://www.uni-mannheim.de/it/services/internet-und-server/internetzugang/) oder an den PCs der UB nutzen (für Absolventum-Mitglieder kein Internet-Zugang)
+- Internet über [eduroam](https://www.uni-mannheim.de/it/services-anleitungen/beschaeftigte/lan/) oder an den PCs der UB nutzen (für Absolventum-Mitglieder kein Internet-Zugang)
 - Schließfächer benutzen
 
 Die Lernräume der UB können Sie ohne Bibliotheksausweis nutzen.

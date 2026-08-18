@@ -9,14 +9,9 @@ language: de
 
 # PalMA-Team-Monitore
 
-Die PalMA-Team-Monitore der Universitätsbibliothek Mannheim ermöglichen es, gemeinsam an Texten oder Präsentationen zu arbeiten oder Ergebnisse zu vergleichen. Bis zu vier Inhalte von Mobilgeräten können gleichzeitig auf einem Monitor angezeigt werden.
+Die PalMA-Team-Monitore ermöglichen gemeinsames Arbeiten an Texten, Präsentationen oder den Vergleich von Ergebnissen. Bis zu vier Inhalte von Mobilgeräten können gleichzeitig angezeigt werden.
 
-## Nutzung der PalMA-Team-Monitore
-
-- Melden Sie sich über [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/) im WLAN-Netz der Universität Mannheim an.
-- Verbinden Sie Ihr mobiles Endgerät drahtlos mit einem PalMA-Team-Monitor.
-- Es können bis zu vier Inhalte parallel angezeigt werden.
-- PalMA-Team-Monitore stehen in allen [Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/) zur Verfügung.
+Melden Sie sich über [eduroam](https://www.uni-mannheim.de/it/services-anleitungen/wlan/) im WLAN-Netz der Universität Mannheim an. Verbinden Sie Ihr mobiles Endgerät drahtlos mit einem PalMA-Team-Monitor, um bis zu vier Inhalte parallel anzeigen zu lassen. Die PalMA-Team-Monitore stehen in allen [Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/) zur Verfügung.
 
 ## Anleitungen
 

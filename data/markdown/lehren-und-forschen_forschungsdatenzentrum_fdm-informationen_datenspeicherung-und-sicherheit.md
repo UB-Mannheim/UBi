@@ -7,7 +7,7 @@ In diesem Abschnitt finden Sie Dienste und Tipps zum Speichern und Organisieren 
 **Fileservice**
 Für universitätsinterne Projekte bietet sich zum Speichern von Daten während der Projektlaufzeit der [Fileservice](https://www.uni-mannheim.de/it/services/digitale-kommunikation/fileservice/) der Universität an, der von UNIT auf universitätseigenen Servern bereitgestellt wird. Standardmäßig stehen Beschäftigten der Universität 10 GB zur Verfügung. Virenschutz und regelmäßiges Backup gehören zum Standardservice.
 **Cloud-Speicher**
-Daneben hat die Universität Mannheim hat [Microsoft 365](https://www.uni-mannheim.de/it/services/m365-beschaeftigte/) für Mitarbeiterinnen, Mitarbeiter und Studierende lizenziert. [Microsoft 365](https://www.uni-mannheim.de/it/services/m365-beschaeftigte/) beinhaltet auch den Zugang zum Cloud-Speicher OneDrive mit 1 TB Speicherplatz zum Ablegen, Teilen und gemeinsamen Bearbeiten von Dateien.
+Daneben hat die Universität Mannheim hat [Microsoft 365](https://www.uni-mannheim.de/it/services-anleitungen/beschaeftigte/m365/) für Mitarbeiterinnen, Mitarbeiter und Studierende lizenziert. [Microsoft 365](https://www.uni-mannheim.de/it/services-anleitungen/beschaeftigte/m365/) beinhaltet auch den Zugang zum Cloud-Speicher OneDrive mit 1 TB Speicherplatz zum Ablegen, Teilen und gemeinsamen Bearbeiten von Dateien.
 Zudem bietet OneDrive die Möglichkeit eines Versionstrackings und Backups von Dateien. Über Microsoft 365 können Sie auch Daten mit universitätsexternen Projektbeteiligten teilen.
 **Speicherdienst**
 Schließlich wird über die landesweite Infrastruktur der Speicherdienst [bwSync&Share](https://bwsyncandshare.kit.edu/) bereitgestellt. Betrieben wird der Dienst vom KIT. Sie können sich dort mit Ihrer Uni-ID direkt einloggen.
