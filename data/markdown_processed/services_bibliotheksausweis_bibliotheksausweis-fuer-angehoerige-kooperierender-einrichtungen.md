@@ -3,7 +3,7 @@ title: Bibliotheksausweis für Angehörige kooperierender Einrichtungen – Bean
 source_url_de: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/library-card/library-card-for-members-of-cooperating-institutions/
 category: Benutzung
-tags: ['Bibliotheksausweis', 'Kooperation', 'ecUM', 'Anmeldung', 'Nutzungsbedingungen', 'InfoCenter', 'Ersatzkarte', 'Universitätsbibliothek']
+tags: ['Bibliotheksausweis', 'Kooperation', 'ecUM', 'Anmeldung', 'Nutzungsbedingungen', 'InfoCenter', 'Universitätsbibliothek', 'Service']
 language: de
 ---
 
@@ -39,10 +39,10 @@ Mit der ecUM und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 - drucken, kopieren, scannen
 - Medien über die Fernleihe bestellen
 - lizenzierte elektronische Medien an den PCs der UB nutzen (kein Fernzugriff möglich)
-- Internet über [eduroam](https://www.uni-mannheim.de/it/services/internet-und-server/internetzugang/) oder an den PCs der UB nutzen (für Absolventum-Mitglieder kein Internet-Zugang)
+- Internet über [eduroam](https://www.uni-mannheim.de/it/services-anleitungen/beschaeftigte/lan/) oder an den PCs der UB nutzen (für Absolventum-Mitglieder kein Internet-Zugang)
 - Schließfächer benutzen
 
-Die Lernräume der UB können ohne Bibliotheksausweis genutzt werden.
+Die Lernräume der Universitätsbibliothek können ohne Bibliotheksausweis genutzt werden.
 
 ## Anmeldung
 
@@ -57,7 +57,7 @@ Die Lernräume der UB können ohne Bibliotheksausweis genutzt werden.
 
 ### Änderung ab 1. Juli 2025
 
-Ab dem 1. Juli 2025 erhält die ecUM ein neues Design ohne Foto auf der Vorderseite. Stattdessen wird ein QR-Code abgebildet. Die Änderung betrifft alle ab diesem Datum neu ausgestellten Karten; Bestandskarten bleiben weiterhin gültig.
+Ab dem 1. Juli 2025 erhält die ecUM ein neues Design ohne Foto auf der Vorderseite. Stattdessen wird ein QR-Code abgebildet. Die Änderung betrifft alle ab diesem Datum neu ausgestellten Karten; bestehende Karten bleiben weiterhin gültig.
 
 ## Ersatz bei Verlust oder Defekt
 
@@ -65,8 +65,8 @@ Bei Verlust oder Defekt der ecUM kann im InfoCenter bei der UNIT eine neue Karte
 
 ## Benachrichtigungen und Adressänderungen
 
-- Benachrichtigungen wie Vormerkungen oder Mahnungen werden an die universitäre E-Mail-Adresse gesendet.
-- Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Dafür wird der Personalausweis (alternativ Reisepass mit Meldebescheinigung) benötigt.
+- Alle Benachrichtigungen (z. B. Vormerkungen, Mahnungen) werden an die universitäre E-Mail-Adresse gesendet.
+- Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Dafür wird ein Personalausweis (alternativ Reisepass mit Meldebescheinigung) benötigt.
 
 ## Weitere Informationen
 
@@ -75,9 +75,9 @@ Bei Verlust oder Defekt der ecUM kann im InfoCenter bei der UNIT eine neue Karte
 
 ## Kontakt
 
-**InfoCenter**
-Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof, 68161 Mannheim
-Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
-Telefon: +49 621 181-2948
-E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
+### InfoCenter
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
+- Telefon: +49 621 181-2948
+- E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)

@@ -13,7 +13,7 @@ Die  Einzel- und Gruppenarbeitsplätze sind frei zugänglich und nicht reservier
 
 ## Ausstattung
 
-An allen Arbeitsplätzen können Sie mit Ihrer Uni-ID das WLAN [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/) nutzen. [Eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/) steht auch für Studierende anderer Hochschulen zur Verfügung.
+An allen Arbeitsplätzen können Sie mit Ihrer Uni-ID das WLAN [eduroam](https://www.uni-mannheim.de/it/services-anleitungen/wlan/) nutzen. [Eduroam](https://www.uni-mannheim.de/it/services-anleitungen/wlan/) steht auch für Studierende anderer Hochschulen zur Verfügung.
 Die PC-Arbeitsplätze in den Bibliotheksbereichen sind mit aktueller Software, dem MS-Office-Paket und LibreOffice, ausgestattet. Rechercheergebnisse und Downloads aus Volltextdatenbanken können bearbeitet und auf einem USB-Stick gespeichert werden. Mit Ihrem Kopfhörer können Sie multimediale Angebote nutzen.
 In allen Bibliotheksbereichen stehen Monitore bereit, mit denen Sie Ihren Laptop via HDMI verbinden können. Universitätsangehörige können im InfoCenter Notebooks nach Vorbestellung über den Katalog Primo [ausleihen](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/).
 [Kopierer, Scanner und Aufladestationen für Ihr Durckkonto](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/) finden Sie in allen Bereichen.

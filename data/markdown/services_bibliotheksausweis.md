@@ -15,7 +15,7 @@ Als**Mitglied**der Universität Mannheim können Sie mit der ecUM und Ihren Zuga
 - Medien im Ausleihzentrum Westflügel ausleihen
 - drucken, kopieren und scannen
 - Medien über die Fernleihe bestellen
-- lizenzierte elektronische Medien nutzen, mit [VPN-Client](https://www.uni-mannheim.de/it/anleitungen/vpn/) auch im Fernzugriff
+- lizenzierte elektronische Medien nutzen, mit [VPN-Client](https://www.uni-mannheim.de/it/services-anleitungen/vpn/) auch im Fernzugriff
 - campusweit [Internet](https://www.bib.uni-mannheim.de/services/internetzugang/) nutzen
 - Schließfächer benutzen
 

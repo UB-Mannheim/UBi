@@ -9,11 +9,11 @@ language: de
 
 # InfoCenter der Universitätsbibliothek Mannheim
 
-Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Auskunft, Beratung und verschiedene Bibliotheksservices. Es wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und der Universitätsbibliothek betrieben.
+Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Auskunft und Beratung zu allen Bibliotheksservices. Es wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und der Universitätsbibliothek betrieben.
 
 Hier erhalten Sie:
 
-- Die [elektronische Chipkarte ecUM](https://www.uni-mannheim.de/it/anleitungen/ecum/)
+- Die [elektronische Chipkarte ecUM](https://www.uni-mannheim.de/it/services-anleitungen/studierende/ecum/)
 - Den Bibliotheksausweis [UB-Chipkarte für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
 
 ## Sonderleseplätze
