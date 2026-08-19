@@ -39,7 +39,7 @@ Ausstellungen
 
 Bibliotheksbereich A5
 Soziologie, Politikwissenschaft, Mathematik und Informatik
-EDZMZES
+EDZ
 
 
 

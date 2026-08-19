@@ -130,7 +130,7 @@ Ausführliche Informationen zum wissenschaftlichen Arbeiten finden Sie auch auf 
 Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 
 

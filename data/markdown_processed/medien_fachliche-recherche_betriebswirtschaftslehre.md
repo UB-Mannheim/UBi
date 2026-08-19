@@ -1,9 +1,9 @@
 ---
-title: Fachliche Recherche und Services der UB Mannheim für Betriebswirtschaftslehre
+title: Fachliche Recherche und Services der Universitätsbibliothek Mannheim für Betriebswirtschaftslehre
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/business-administration/
 category: Medien
-tags: ['Betriebswirtschaftslehre', 'Datenbanken', 'E-Books', 'Fachinformation', 'Recherche', 'Forschungsdaten', 'Kurse', 'Wissenschaftliches Arbeiten']
+tags: ['Betriebswirtschaftslehre', 'Datenbanken', 'E-Books', 'Fachrecherche', 'Forschungsdaten', 'Journal Ranking', 'Kurse', 'Wissenschaftliches Arbeiten']
 language: de
 ---
 
@@ -23,7 +23,7 @@ Wissenschaftliche Literatur, insbesondere Zeitschriftenartikel:
 - [WISO](https://dbis.ur.de/UBMAN/resources/1232) – deutschsprachiger Raum und praxisnah
 - [EconBiz](https://dbis.ur.de/UBMAN/resources/1306) – international und deutschsprachiger Raum
 
-**Datenbanken für aktuelle Presseinformationen**
+**Datenbanken für aktuelle Presseinformationen:**
 
 - [Factiva](https://dbis.ur.de/UBMAN/resources/4042)
 - [Nexis Uni](https://dbis.ur.de/UBMAN/resources/1670)
@@ -43,11 +43,11 @@ Weitere [Datenbanken zur Betriebswirtschaftslehre](https://dbis.ur.de/UBMAN/brow
 
 ### E-Journals
 
-E-Journals für Betriebswirtschaftslehre sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=Q) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) verfügbar.
+E-Journals für das Fach Betriebswirtschaftslehre sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=Q) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) verfügbar.
 
 ### E-Books
 
-Lizenzierte E-Books im Fach Wirtschaftswissenschaften finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+Lizensierte E-Books im Fach Wirtschaftswissenschaften finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 Informationen zu Nutzungsbedingungen: [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
@@ -64,18 +64,18 @@ Informationen zu Nutzungsbedingungen: [Hinweise zur E-Book-Nutzung](https://www.
 ### Forschungsdaten
 
 Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehbarkeit.
-Einführungen und Tools:
+Einführungen und Hilfestellungen:
 
 - [forschungsdaten.info](https://www.forschungsdaten.info/)
 - [Auffinden – Zitieren – Dokumentieren](http://auffinden-zitieren-dokumentieren.de/)
-- [re3data](http://www.re3data.org/) – Repositorien-Suche
-- [DataCite](http://search.datacite.org/) – internationale Datensatzsuche
-- [MADATA](https://madata.bib.uni-mannheim.de/) – Forschungsdatenrepositorium der Universität Mannheim
-- [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) – GESIS-Plattform für Wirtschafts- und Sozialwissenschaften
+- Repositorien-Suche: [re3data](http://www.re3data.org/)
+- Internationale Datensatzsuche: [DataCite](http://search.datacite.org/)
+- Universität Mannheim: [MADATA](https://madata.bib.uni-mannheim.de/)
+- Für Wirtschafts- und Sozialwissenschaften: [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) von GESIS
 
 ### Fachliche Internetquellen
 
-**Wirtschaftswissenschaftliche Fachportale**
+**Wirtschaftswissenschaftliche Fachportale:**
 
 - [EconBiz](http://www.econbiz.de/) – Recherche- und Fachportal des [ZBW](http://www.zbw.eu/)
 - [SSRN](https://www.ssrn.com/index.cfm/en/): Social Science Research Network
@@ -83,7 +83,7 @@ Einführungen und Tools:
 - [VHB](https://vhbonline.org/): Verband der Hochschullehrer für Betriebswirtschaft
 - [Sachverständigenrat](https://www.sachverstaendigenrat-wirtschaft.de/) zur Begutachtung der gesamtwirtschaftlichen Entwicklung
 
-**Internetquellen zur fachlichen Recherche**
+**Internetquellen zur fachlichen Recherche:**
 
 - [Recherchetipps](http://www.zbw.eu/de/recherchieren/recherchetipps/) für die Studienarbeit – Materialien des ZBW
 - [STW](http://zbw.eu/stw/versions/latest/about.de.html) – Standard-Thesaurus Wirtschaft
@@ -104,12 +104,12 @@ Einführungen und Tools:
 ### Journal Ranking
 
 - Das [VHB Rating 2024](https://www.vhbonline.org/services/vhb-rating-2024) bietet einen Qualitätsrahmen für Publikationsmedien der Betriebswirtschaftslehre im deutschsprachigen Raum.
-- International beachtete Rankings finden sich in den [Journal Citation Reports](https://dbis.ur.de/UBMAN/resources/359) („Impact Factors“) im „Web of Science“.
-- Das [Handelsblatt-BWL-Ranking](https://www.forschungsmonitoring.org/ranking/bwl/authors) bewertet Personen und Fachbereiche, u.a. basierend auf dem [SCImago Journal Ranking](https://dbis.ur.de/UBMAN/resources/7817) (SJR).
+- International beachtete Rankings: [Journal Citation Reports](https://dbis.ur.de/UBMAN/resources/359) mit „Impact Factors“ (Web of Science, relevante Kategorien: Business, Finance, Management).
+- [Handelsblatt-BWL-Ranking](https://www.forschungsmonitoring.org/ranking/bwl/authors): Bewertung von Personen und Fachbereichen, u.a. basierend auf dem [SCImago Journal Ranking](https://dbis.ur.de/UBMAN/resources/7817) (SJR).
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche im Fach Betriebswirtschaftslehre an. Tutorials stehen jederzeit online zur Verfügung. Individuelle Beratung ist möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Betriebswirtschaftslehre an. Tutorials stehen jederzeit online zur Verfügung. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -129,10 +129,10 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 - [„Wissenschaftliches Arbeiten für Wirtschaftswissenschaftler“ von Daniela Weber](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21100619050002561)
 - [„Wissenschaftliches Arbeiten im Wirtschaftsstudium“ von Gleitsmann/Suthaus](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21135912480002561)
 
-Weitere Anleitungen zur Literatursuche und zum wissenschaftlichen Arbeiten finden Sie beim [ZBW](http://www.zbw.eu/recherchieren/recherchetipps/). Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
+Weitere Anleitungen zur Literatursuche und zum wissenschaftlichen Arbeiten im Fach Betriebswirtschaftslehre finden Sie beim [ZBW](http://www.zbw.eu/recherchieren/recherchetipps/). Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 ## Kontakt
 
@@ -140,8 +140,7 @@ Weitere Anleitungen zur Literatursuche und zum wissenschaftlichen Arbeiten finde
 
 Fachreferentin für Wirtschaftswissenschaften
 Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SN 272
-68161 Mannheim
+Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 Telefon: +49 621 181-3753
 E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
 Vertretung: [Lorena Abou-Warda](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/lorena-abou-warda/)

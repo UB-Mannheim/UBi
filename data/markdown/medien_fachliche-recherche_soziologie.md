@@ -130,7 +130,7 @@ Im Bestand der UB finden Sie zahlreiche Literatur zu den Themen:
 Die UB unterstützt Sie außerdem mit Schulungs- und Beratungsangeboten.
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 
 

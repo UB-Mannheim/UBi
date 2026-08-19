@@ -3,15 +3,15 @@ title: Fachliche Recherche und Services der Universitätsbibliothek Mannheim fü
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/rechtswissenschaft/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/law/
 category: Medien
-tags: ['Rechtswissenschaft', 'Datenbanken', 'Fachliteratur', 'Recherche', 'Kurse', 'Schulungen', 'Kontakt', 'Wissenschaftliches Arbeiten']
+tags: ['Rechtswissenschaft', 'Datenbanken', 'Fachberatung', 'Literaturstandorte', 'Kurse', 'Wissenschaftliches Arbeiten', 'E-Journals', 'Internetquellen']
 language: de
 ---
 
 # Rechtswissenschaft an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Rechtswissenschaft umfassende Literatur, Datenbanken und weitere Recherchezugänge. Neben individueller Beratung stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
+Die Universitätsbibliothek Mannheim bietet für das Fach Rechtswissenschaft umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
 
-## Recherchemöglichkeiten
+## Rechercheangebote
 
 ### Datenbanken
 
@@ -21,7 +21,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Rechtswissenschaft umf
   Informationen zum Zugriff: [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zur-e-book-und-datenbanknutzung/#c319728)
   Tutorials: [beck-online (YouTube)](https://www.youtube.com/channel/UCSVnLo5_DyxJTijSiXCe4TA)
 - [Juris](https://dbis.ur.de/UBMAN/resources/6523)
-  Recherche nach Rechtsprechung, Aufsätzen und Volltexten (z.B. Kommentare wie „Staudinger“). Zugriff auch außerhalb des Campus für Universitätsmitglieder.
+  Recherche nach Rechtsprechung, Aufsätzen und Volltexten (z. B. Kommentare wie „Staudinger“). Zugriff auch außerhalb des Campus für Universitätsmitglieder.
   Tutorials: [juris (YouTube)](https://www.youtube.com/channel/UCRP2ojLlCbZKcQHNUE7ny4w)
 - [Wolters Kluwer Online](https://dbis.ur.de/UBMAN/resources/5929)
   Bis 2019 unter dem Titel JURION. Zugriff auch außerhalb des Campus für Universitätsmitglieder.
@@ -40,7 +40,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Rechtswissenschaft umf
   Enthält auch Themen aus dem internationalen Wirtschaftsrecht.
 - [Nexis Uni](https://dbis.ur.de/UBMAN/resources/1670)
 - [Thomson Reuters Westlaw](https://dbis.ur.de/UBMAN/resources/867)
-  Für Zeitschriftenrecherche: Zugang Westlaw US → Browse → All Content → Secondary Sources → Law Reviews & Journals. Thematische Einschränkung über Topic möglich.
+  Für Zeitschriftenrecherche: Zugang Westlaw US → Browse → All Content → Secondary Sources → By Type → Law Reviews & Journals. Thematische Einschränkung über Topic möglich.
 - [West's Encyclopedia of American Law](https://dbis.ur.de/UBMAN/resources/8993)
 
 #### Weitere Datenbanken
@@ -58,7 +58,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Rechtswissenschaft umf
 - [Virtuelle Fachbibliothek Recht](http://vifa-recht.de/)
   Mit [Blog-Aggregator](https://vifa-recht.de/informieren/blog-aggregator/) juristischer Wissenschaftsblogs.
 - [Gesetze im Internet](http://www.gesetze-im-internet.de/)
-  Bundesrecht bereitgestellt vom Bundesministerium der Justiz und für Verbraucherschutz sowie dem Bundesamt für Justiz.
+  Bundesrecht bereitgestellt vom Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesamt für Justiz.
 - [Rechtsprechung im Internet](https://www.rechtsprechung-im-internet.de/)
   Ausgewählte Entscheidungen des Bundesverfassungsgerichts, der obersten Bundesgerichte und des Bundespatentgerichts ab 2010.
 - [Verwaltungsvorschriften im Internet](http://www.verwaltungsvorschriften-im-internet.de/)
@@ -71,7 +71,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Rechtswissenschaft umf
 - [Verfassungsblog](https://verfassungsblog.de/)
 - [Völkerrechtsblog](https://voelkerrechtsblog.org/de/)
 
-#### Internationale und ausländische Rechtsquellen
+#### Quellen zum internationalen und ausländischen Recht
 
 - [Law Library of Congress](http://www.loc.gov/law/)
   Mit [Guide to Law Online](http://www.loc.gov/law/help/guide.php) und Ressourcen zu [ausländischen Rechtsordnungen](http://www.loc.gov/law/help/guide/nations.php).
@@ -101,7 +101,7 @@ Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der Universitätsbibliothek finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z.B.:
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B.:
 
 - [Mann, Thomas/Tettinger, Peter (Begr.), Einführung in die juristische Arbeitstechnik: Klausuren, Hausarbeiten, Seminararbeiten, Dissertationen, 5. Aufl., München 2015](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21141579640002561)
 - [Möllers, Thomas M. J., Juristische Arbeitstechnik und wissenschaftliches Arbeiten: Klausur, Hausarbeit, Seminararbeit, Studienarbeit, Staatsexamen, Dissertation, 9. Aufl., München 2018](https://primo.bib.uni-mannheim.de/primo-explore/fulldisplay?docid=MAN_ALMA21202980900002561&context=L&vid=MAN_UB&search_scope=MAN_ALMA&isFrbr=true&tab=default_tab&lang=de_DE)
@@ -109,7 +109,7 @@ Im Bestand der Universitätsbibliothek finden Sie zahlreiche Ratgeber zum wissen
 Weitere Unterstützungsangebote:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 ## Kontakt
 

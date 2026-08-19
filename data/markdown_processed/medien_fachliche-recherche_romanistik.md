@@ -3,13 +3,13 @@ title: Fachliche Recherche und Services der UB Mannheim für Romanistik
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/romance-studies/
 category: Medien
-tags: ['Romanistik', 'Fachinformation', 'Literaturrecherche', 'Datenbanken', 'E-Books', 'E-Journals', 'Schulungen', 'Wissenschaftliches Arbeiten']
+tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Books', 'E-Journals', 'Informationskompetenz', 'Schulungen', 'Kontakt']
 language: de
 ---
 
 # Romanistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik ein umfassendes Angebot an Literatur, Datenbanken und weiteren Recherchetools. Neben individueller Beratung stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
+Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für Unterstützung bei der Recherche oder beim wissenschaftlichen Arbeiten stehen Ihnen verschiedene Kurse, Tutorials und individuelle Beratung zur Verfügung.
 
 ## Recherchieren
 
@@ -85,7 +85,7 @@ Die UB bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutor
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum [wissenschaftlichen Arbeiten](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,%22wissenschaftliches%20Arbeiten%22&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0). Besonders empfehlenswert für die Romanistik:
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum [wissenschaftlichen Arbeiten](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,%22wissenschaftliches%20Arbeiten%22&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0). Empfehlenswert für die Romanistik sind insbesondere:
 
 - [Arbeitstechniken für Romanisten: Eine Anleitung für den Bereich Linguistik](https://primo-49man.hosted.exlibrisgroup.com/permalink/f/17313ps/MAN_GRUYTER9783110311792)
 - [Erfolgreich recherchieren – Romanistik](https://primo-49man.hosted.exlibrisgroup.com/permalink/f/17313ps/MAN_ALMA51155563480002561)
@@ -95,10 +95,10 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum [wissenschaftlichen Arbeite
 - [Arbeitstechniken des literaturwissenschaftlichen Studiums: Eine Einführung](https://primo-49man.hosted.exlibrisgroup.com/permalink/f/19ojnqi/MAN_ALMA21222644190002561)
 - [Online-Tutorials des Fachinformationsdienstes (FID) Romanistik](https://www.fid-romanistik.de/recherchewerkzeuge/online-tutorials/)
 
-Die UB unterstützt mit Schulungs- und Beratungsangeboten:
+Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 ## Kontakt
 

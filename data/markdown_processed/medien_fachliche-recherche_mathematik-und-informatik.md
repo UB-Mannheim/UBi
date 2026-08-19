@@ -9,21 +9,25 @@ language: de
 
 # Mathematik und Informatik an der Universitätsbibliothek Mannheim
 
-Für die Fächer Mathematik und Informatik bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Rechercheeinstiege. Es werden Kurse und individuelle Beratung zu Recherche und wissenschaftlichem Arbeiten angeboten.
+Für die Fächer Mathematik und Informatik bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Rechercheeinstiege. Bei Fragen zur Recherche im Fachgebiet oder zum wissenschaftlichen Arbeiten stehen Kurse und individuelle Beratung zur Verfügung.
 
 ## Recherchieren
 
 ### Datenbanken
 
-- **Mathematik**
-  - [MathSciNet](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=179) – Mathematical reviews on the Web
-  - [Zentralblatt MATH](https://www.zbmath.org/)
-- **Informatik**
-  - [ACM Digital Library](http://dl.acm.org/dl.cfm?coll=portal&dl=ACM) inklusive dem [Guide to Computing Literature](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=5296)
-  - [IEEE Xplore](http://ieeexplore.ieee.org/Xplore/home.jsp?tag=1)
-  - [DBLP](http://dblp.uni-trier.de/)
-  - [SpringerLink](http://link.springer.com/)
-- Weitere Datenbanken zur [Mathematik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=21&libconnect%5Bsort%5D=alph), [Informatik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=15&libconnect%5Bsort%5D=alph) und anderen Fachgebieten finden Sie über das Datenbank-Infosystem (DBIS).
+**Mathematik:**
+
+- [MathSciNet](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=179) – Mathematical reviews on the Web
+- [Zentralblatt MATH](https://www.zbmath.org/)
+
+**Informatik:**
+
+- [ACM Digital Library](http://dl.acm.org/dl.cfm?coll=portal&dl=ACM) inklusive dem [Guide to Computing Literature](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=5296)
+- [IEEE Xplore](http://ieeexplore.ieee.org/Xplore/home.jsp?tag=1)
+- [DBLP](http://dblp.uni-trier.de/)
+- [SpringerLink](http://link.springer.com/)
+
+Weitere Datenbanken zur [Mathematik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=21&libconnect%5Bsort%5D=alph), [Informatik](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=15&libconnect%5Bsort%5D=alph) und anderen Fachgebieten finden Sie über das Datenbank-Infosystem (DBIS).
 
 ### E-Journals
 
@@ -32,16 +36,20 @@ E-Journals sind verfügbar in der Elektronischen Zeitschriftenbibliothek (EZB):
 - [Mathematik](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=3&lang=de%C2%ACation=SA-SP)
 - [Informatik](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=3&lang=de%C2%ACation=SQ-SU)
 
-sowie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+Sowie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### E-Books
 
-- Springer E-Book Pakete:
-  - [Lecture Notes of Computer Science](https://link.springer.com/bookseries/558)
-  - [Technik & Informatik](https://rd.springer.com/search?package=11774)
-  - [Lecture Notes in Business Information Processing](http://link.springer.com/search?facet-series=%227911%22&facet-content-type=%22Book%22)
-  - [Mathematics and Statistics](https://rd.springer.com/search?package=11649)
-  - [Natur- und Basiswissenschaften](https://link.springer.com/search?package=11777)
+**Springer E-Book Pakete:**
+
+- [Lecture Notes of Computer Science](https://link.springer.com/bookseries/558)
+- [Technik & Informatik](https://rd.springer.com/search?package=11774)
+- [Lecture Notes in Business Information Processing](http://link.springer.com/search?facet-series=%227911%22&facet-content-type=%22Book%22)
+- [Mathematics and Statistics](https://rd.springer.com/search?package=11649)
+- [Natur- und Basiswissenschaften](https://link.springer.com/search?package=11777)
+
+Weitere E-Books:
+
 - [SIAM E-Books](https://epubs.siam.org/ebooks)
 - [EMS E-Books](https://www.ems-ph.org/books/book_series.php)
 - [SafariTech Books Online](https://dbis.uni-regensburg.de//detail.php?titel_id=3415)
@@ -51,7 +59,7 @@ Diese und weitere E-Books finden Sie auch im [Katalog Primo](https://primo.bib.u
 
 ### Forschungsdaten
 
-Bekannte und viel genutzte Anlaufstellen für Forschungsdaten:
+Bekannte Anlaufstellen für Forschungsdaten:
 
 - [CKAN](https://ckan.org/)
 - [Web Data Commons](https://webdatacommons.org/)
@@ -60,7 +68,7 @@ Bekannte und viel genutzte Anlaufstellen für Forschungsdaten:
 
 - [Wolfram Alpha](https://www.wolframalpha.com/) – semantische Suchmaschine (auf Mathematica basierend)
 - [Virtuelle Fachbibliothek Mathematik](https://fidmath.de/) – Rechercheportal
-- [Oberwolfach Photo Collection](https://opc.mfo.de/) – Photos von Mathematikern aus aller Welt
+- [Oberwolfach Photo Collection](https://opc.mfo.de/) – Fotos von Mathematikern aus aller Welt
 - [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php) – „mathematische Abstammung“ erforschen
 - [Thesis Guide](https://thesisguide.org/) – Advice for great computer science thesis projects (TU München)
 
@@ -101,7 +109,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 Die UB unterstützt mit Schulungs- und Beratungsangeboten:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 ## Kontakt
 
@@ -123,4 +131,4 @@ Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachref
 - E-Mail: [philipp.zumstein@uni-mannheim.de](mailto:philipp.zumstein@uni-mannheim.de)
 - ORCID: [0000-0002-6485-9434](https://orcid.org/0000-0002-6485-9434)
 
-**Vertretung:** Fachreferat für Mathematik und Informatik: [Stefan Weil](https://www.bib.uni-mannheim.de/stefan-weil/)
+**Vertretung:** [Stefan Weil](https://www.bib.uni-mannheim.de/stefan-weil/) (Fachreferat für Mathematik und Informatik)

@@ -48,8 +48,8 @@ Das Team der Schreibberatung unterstützt Sie bei Fragen zu Ihrem Schreibprojekt
 
 
 
-### [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+### [Zitationsverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
-Literaturverwaltungsprogramme
+Zitationsverwaltungsprogramme
 Informationen, Beratung und Kurse zu Zotero
 

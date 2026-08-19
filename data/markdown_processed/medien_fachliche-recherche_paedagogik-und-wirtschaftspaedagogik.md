@@ -1,9 +1,9 @@
 ---
-title: Fachinformation Pädagogik und Wirtschaftspädagogik – Literatur, Recherche, Beratung und Services der UB Mannheim
+title: Fachliche Recherche und Services für Pädagogik und Wirtschaftspädagogik an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/paedagogik-und-wirtschaftspaedagogik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/education-and-economic-and-business-education/
 category: Medien
-tags: ['Pädagogik', 'Wirtschaftspädagogik', 'Fachinformation', 'Recherche', 'Datenbanken', 'E-Books', 'Schulungen', 'Beratung']
+tags: ['Pädagogik', 'Wirtschaftspädagogik', 'Fachinformation', 'Datenbanken', 'E-Books', 'Forschungsdaten', 'Schulungen', 'Kontakt']
 language: de
 ---
 
@@ -18,7 +18,7 @@ Für das Fach Pädagogik/Wirtschaftspädagogik bietet die Universitätsbibliothe
 Datenbanken unterstützen bei der Recherche wissenschaftlicher Literatur, Pressetexte und vielfältiger Informationen.
 
 - Weitere [Datenbanken zur Pädagogik](https://dbis.ur.de/UBMAN/browse/subjects/30/?availability-filter-free=on&availability-filter-local=on&sort_by=2&ps=25) und zu anderen Fachgebieten finden Sie im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/).
-- Ein Teil der Datenbanken ist nur im Netz der Universität Mannheim oder über [VPN](https://www.bib.uni-mannheim.de/services/internetzugang/) zugänglich.
+- Hinweis: Einige Datenbanken sind nur im Netz der Universität Mannheim oder über [VPN](https://www.bib.uni-mannheim.de/services/internetzugang/) zugänglich.
 - Publikationen zu aktuellen PISA-Resultaten: [OECD iLibrary](http://www.oecd-ilibrary.org/education;jsessionid=bxpvrsum59w2.x-oecd-live-02).
 
 ### E-Journals
@@ -27,12 +27,12 @@ Datenbanken unterstützen bei der Recherche wissenschaftlicher Literatur, Presse
 
 ### E-Books
 
-- Alle E-Books der UB Mannheim sind über den [Katalog Primo](https://www.bib.uni-mannheim.de/primo/) auffindbar.
+- Alle verfügbaren E-Books sind über den [Katalog Primo](https://www.bib.uni-mannheim.de/primo/) auffindbar.
 - Besonders umfangreich ist das Angebot des Springer-Verlags im Bereich Pädagogik.
 
 ### Forschungsdaten
 
-- Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehbarkeit und wird zunehmend gefordert.
+- Forschungsdaten dienen der Transparenz und Nachvollziehbarkeit von Forschung und werden zunehmend gefordert.
 - Einführung: [forschungsdaten.info](https://www.forschungsdaten.info/) und [Auffinden – Zitieren – Dokumentieren](http://auffinden-zitieren-dokumentieren.de/)
 - Repositorien-Suche: [re3data](http://service.re3data.org/search)
 - Internationale Datensatzsuche: [DataCite](http://search.datacite.org/)
@@ -59,7 +59,7 @@ Relevante Internetquellen im Bereich Pädagogik:
 
 ### Forschungseinrichtungen vor Ort
 
-Fach Pädagogik in Mannheim:
+Forschungseinrichtungen und Lehrstühle im Bereich Pädagogik in Mannheim:
 
 - [Zentrum für Lehrerbildung](https://www.uni-mannheim.de/lehrerbildung/zlbi/)
 - [Lehramt Gymnasium – Infoseite](https://www.phil.uni-mannheim.de/studium/lehramtsstudiengaenge/)
@@ -75,7 +75,7 @@ Fach Pädagogik in Mannheim:
 
 ### Journal Ranking
 
-- Angaben zu „Impact Factors“ internationaler Fachzeitschriften: [Journal Citation Reports](https://www.bib.uni-mannheim.de/datenbanken/details/?libconnect%5Btitleid%5D=359) (im „Web of Science“, Kategorie „Education“ auswählen).
+- Angaben zu „Impact Factors“ internationaler Fachzeitschriften finden Sie in den [Journal Citation Reports](https://www.bib.uni-mannheim.de/datenbanken/details/?libconnect%5Btitleid%5D=359) (im „Web of Science“, Kategorie „Education“ auswählen).
 
 ## Kurse und Tutorials
 
@@ -84,6 +84,9 @@ Die UB bietet regelmäßig Schulungen zur Recherche im Fach Pädagogik/Wirtschaf
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
+
+**Kurse für Pädagogik und Wirtschaftspädagogik:**
+
 - [Pädagogische Literatur finden: Recherche in Datenbanken](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yu:mw:9h&cmdClass=ilCourseRegistrationGUI&ref_id=1409928) – Ilias-Kurs mit Lernvideos und Materialien zum Selbststudium.
 
 ## Wissenschaftliches Arbeiten
@@ -99,7 +102,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 Unterstützung durch die UB:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 ## Kontakt
 
@@ -115,10 +118,9 @@ Fachreferentin für Pädagogik und Wirtschaftspädagogik
 - Durchführung von Schulungen im Fachbereich
 
 **Kontakt:**
-Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SN 272
-68161 Mannheim
-Telefon: +49 621 181-3929
-E-Mail: [lorena.abou.warda@uni-mannheim.de](mailto:lorena.abou.warda@uni-mannheim.de)
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
+- Telefon: +49 621 181-3929
+- E-Mail: [lorena.abou.warda@uni-mannheim.de](mailto:lorena.abou.warda@uni-mannheim.de)
 
 **Vertretung:** [Xiuwen Ye](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/xiuwen-ye/)

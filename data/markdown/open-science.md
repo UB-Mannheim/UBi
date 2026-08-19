@@ -47,3 +47,15 @@ Share your teaching material with others or reuse theirs!
 Open Science Council
 The Open Science Council serves as a advisory body which suppports the Open Science Office.
 
+
+
+## Events
+
+
+
+### Systematic Literature Reviews: Dos and Don'ts
+
+
+
+### Preparing ERC 2027 Proposals: Open Science and Research Data ...
+

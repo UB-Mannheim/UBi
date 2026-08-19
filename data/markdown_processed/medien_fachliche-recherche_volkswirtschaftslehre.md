@@ -9,7 +9,7 @@ language: de
 
 # Volkswirtschaftslehre – Fachliche Recherche und Services
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Volkswirtschaftslehre umfassende Literatur, Datenbanken und weitere Recherchezugänge. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
+Die Universitätsbibliothek Mannheim bietet für das Fach Volkswirtschaftslehre umfassende Literatur, Datenbanken und weitere Recherchezugänge. Neben individueller Beratung stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
 
 ## Recherchieren
 
@@ -69,7 +69,7 @@ Lizenzierte E-Books im Fach Wirtschaftswissenschaften finden Sie im [Katalog Pri
 
 ### Forschungsdaten
 
-Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehbarkeit und wird zunehmend gefordert. Einführungen und Hilfestellungen:
+Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehbarkeit. Einführungen und Hilfestellungen:
 
 - [forschungsdaten.info](https://www.forschungsdaten.info/)
 - [„Auffinden – Zitieren – Dokumentieren“](https://auffinden-zitieren-dokumentieren.de/)
@@ -99,10 +99,10 @@ Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehb
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) (Hasso-Plattner-Bibliothek) finden Sie Literatur zum Fach Volkswirtschaftslehre, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal möglich.
+- Im [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) (Hasso-Plattner-Bibliothek) finden Sie Literatur zum Fach Volkswirtschaftslehre, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
 - Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Volkswirtschaftslehre, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
 - Die Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel bietet Studierenden und kooperierenden Einrichtungen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe.
-- Recherche aller Bestände im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+- Die gesamte Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
 
 ### Forschungseinrichtungen vor Ort
 
@@ -111,12 +111,12 @@ Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehb
 
 ### Journal Ranking
 
-- [Journal Citation Reports](https://dbis.ur.de/UBMAN/resources/359) – Rankings mit jährlich neu berechneten „Impact Factors“. Fächer wie Economics über „Select Categories“ auswählen.
+- [Journal Citation Reports](https://dbis.ur.de/UBMAN/resources/359) – Rankings mit jährlich neu berechneten „Impact Factors“. Fächer wie Economics über „Select Categories“ auswählbar.
 - [Handelsblatt-Ranking](https://www.forschungsmonitoring.org/ranking/vwl/authors) – Ranking von Personen und Fachbereichen, basierend u.a. auf Publikationstätigkeit und dem [SCImago Journal Ranking](https://dbis.ur.de/UBMAN/resources/7817) (SJR).
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche im Fach Volkswirtschaftslehre an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Volkswirtschaftslehre an. Tutorials stehen jederzeit online zur Verfügung. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
@@ -135,10 +135,10 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 
 Weitere Anleitungen und Informationen:
 
-- [Recherchetipps des ZBW](https://www.zbw.eu/de/recherchieren/recherchetipps/)
+- [Recherchetipps beim ZBW](https://www.zbw.eu/de/recherchieren/recherchetipps/)
 - [Schreibberatung der Abteilung VWL](https://www.vwl.uni-mannheim.de/studium/bachelorstudium/schreibberatung/)
 - [Schreibberatung der UB](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 ## Kontakt
 
@@ -146,8 +146,7 @@ Weitere Anleitungen und Informationen:
 
 Fachreferentin für Wirtschaftswissenschaften
 Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SN 272
-68161 Mannheim
+Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 Telefon: +49 621 181-3753
 E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
 Vertretung: [Lorena Abou-Warda](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/lorena-abou-warda/)
