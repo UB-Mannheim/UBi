@@ -247,7 +247,7 @@ Aufgaben:
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
-- Team Literaturverwaltung, Beratung zu Zotero
+- Team Zitationsverwaltung, Beratung zu Zotero
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
@@ -273,7 +273,7 @@ Aufgaben:
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
-- Team Literaturverwaltung, Beratung zu Zotero
+- Team Zitationsverwaltung, Beratung zu Zotero
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
@@ -348,7 +348,7 @@ Aufgaben:
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
-- Team Literaturverwaltung, Beratung zu Zotero
+- Team Zitationsverwaltung, Beratung zu Zotero
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie

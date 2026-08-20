@@ -3,13 +3,13 @@ title: Fachliche Recherche und Ressourcen für Psychologie an der Universitätsb
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/psychologie/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/psychology/
 category: Medien
-tags: ['Psychologie', 'Fachinformation', 'Datenbanken', 'E-Books', 'E-Journals', 'Forschungsdaten', 'Schulungen', 'Literaturstandorte']
+tags: ['Psychologie', 'Fachinformation', 'Datenbanken', 'E-Books', 'E-Journals', 'Forschungsdaten', 'Schulungen', 'Kontakt']
 language: de
 ---
 
 # Psychologie – Fachliche Recherche und Ressourcen
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Psychologie ein breites Spektrum an gedruckter und digitaler Literatur, den Zugang zu fachspezifischen Datenbanken sowie weitere Recherche- und Sucheinstiege. Ergänzt wird das Angebot durch Kurse und Beratungen, die Studium, Lehre und Forschung umfassend unterstützen.
+Die Universitätsbibliothek Mannheim bietet für das Fach Psychologie ein breites Spektrum an gedruckter und digitaler Literatur, Zugang zu fachspezifischen Datenbanken sowie weitere Recherche- und Sucheinstiege. Ergänzt wird das Angebot durch Kurse und Beratungen zur Unterstützung von Studium, Lehre und Forschung.
 
 ## Recherchieren
 
@@ -22,7 +22,7 @@ Zentrale und fachspezifische Datenbanken für die Psychologie:
 - [Web of Science/Social Sciences Citation Index](https://dbis.ur.de/UBMAN/resources/360): Enthält u. a. Informationen zu Zitationszahlen und Journal Impact Factor.
 - [ERIC](https://dbis.ur.de/UBMAN/resources/363): Literaturdatenbank für die pädagogische Psychologie.
 - [PsycTHERAPY](https://dbis.ur.de/UBMAN/resources/11210): Enthält zahlreiche Demonstrations-Videos von Therapien mit Einzelpersonen, Paaren und Familien.
-- [PubMed](https://dbis.ur.de/UBMAN/resources/294): Datenbank primär für medizinische Bereiche, umfasst auch psychologische Publikationen.
+- [PubMed](https://dbis.ur.de/UBMAN/resources/294): Datenbank primär für medizinische Bereiche, umfasst aber auch psychologische Publikationen.
 
 Weitere [Datenbanken zur Psychologie](https://dbis.ur.de/UBMAN/browse/subjects/34/?availability-filter-free=on&availability-filter-local=on) und zu anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/).
 
@@ -43,7 +43,7 @@ Die UB Mannheim bietet ein umfangreiches E-Book-Angebot an Fachpublikationen. Al
 Forschungsdaten der Universität Mannheim können im [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de/) archiviert werden. Fachspezifische Repositorien:
 
 - [Forschungsdatenzentrum (FDZ) am Leibniz-Institut für Psychologie (ZPID)](https://rdc-psychology.org/de)
-- [Archivierung BASIS](https://data.gesis.org/sharing/#!Home) der [GESIS – Leibniz-Institut für Sozialwissenschaften](https://www.gesis.org/home)
+- [Archivierung BASIS (GESIS)](https://data.gesis.org/sharing/#!Home)
 - [Registry of Research Data Repositories](http://www.re3data.org/)
 - Zugang zu wissenschaftlichen Forschungsdaten über [DataCite](https://www.datacite.org/)
 
@@ -72,7 +72,7 @@ Forschungsdaten der Universität Mannheim können im [Mannheim Research Data Rep
 **Tutorials zur Literatur- und Internetrecherche**
 
 - [The Basics of APA Style (APA)](https://apastyle.apa.org/instructional-aids/tutorials-webinars)
-- [FIT für Psychologen und Pädagogen](http://www.ub.uni-heidelberg.de/schulung/fits/FITPP/index.html) (UB Heidelberg)
+- [FIT für Psychologen und Pädagogen (UB Heidelberg)](http://www.ub.uni-heidelberg.de/schulung/fits/FITPP/index.html)
 
 ### Literaturstandorte
 
@@ -144,7 +144,7 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 - Literaturauswahl und -erschließung für Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
-- Team Literaturverwaltung, Beratung zu Zotero
+- Team Zitationsverwaltung, Beratung zu Zotero
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
