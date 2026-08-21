@@ -15,7 +15,7 @@
 | Banks and financial service industry | BankFocus,SNL Unlimited (S&P Global) | BankFocus,SNL Unlimited (S&P Global) | BankFocus,SNL Unlimited (S&P Global) | BankFocus,SNL Unlimited (S&P Global) |
 | M&A and ownership structure | Aktienführer Data Archive,Orbis M&A | Orbis M&A | Orbis M&A | SDC Worldwide M&A,Orbis M&A |
 | Executive information | Orbis,Aktienführer Data Archive,Dun & Bradstreet Hoovers | Orbis,Dun & Bradstreet Hoovers | Orbis,COMPUSTAT Execucomp,Dun & Bradstreet Hoovers | Orbis,Dun & Bradstreet Hoovers |
-| Corporate filings |  |  |  | FinancialReports |
+| Corporate filings |  |  |  | FinancialFilings |
 
 
 
@@ -84,11 +84,11 @@ Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registra
 Access: [Dun & Bradstreet Hoovers](https://dbis.ur.de/UBMAN/resources/105992)
 
 
-## FinancialReports
+## FinancialFilings
 
-**Contents:**FinancialReports is an international database of corporate reports and regulatory disclosures. It contains more than 28 million documents from over 53,000 companies across 48 markets and in 21 languages, spanning a period of more than 20 years. The collection includes annual reports, quarterly reports, ESG and sustainability reports, as well as other corporate announcements and filings. The web version is free to use and provides access to the majority of full-text documents without registration.
+**Contents:**FinancialFilings is an international database of corporate reports and regulatory disclosures. It contains more than 28 million documents from over 53,000 companies across 48 markets and in 21 languages, spanning a period of more than 20 years. The collection includes annual reports, quarterly reports, ESG and sustainability reports, as well as other corporate announcements and filings. The web version is free to use and provides access to the majority of full-text documents without registration.
 In addition to the original documents (PDF), the content is also available in machine-readable formats such as Markdown and JSON. The data is linked to identifiers such as ISIN, LEI, and ticker symbols and is particularly well-suited for research in the fields of finance, accounting, and sustainability, as well as for text mining and other data-driven analyses. A paid API and bulk downloads enable the systematic use of large data sets for empirical research.
-Access: To authenticate with [FinancialReports](https://financialfilings.com/), please click the "Log in" button and then select "Continue with your institution." You will be redirected to the University of Mannheim's login page, where you can sign in using your university credentials.
+Access: To authenticate with [FinancialFilings](https://financialfilings.com/), please click the "Log in" button and then select "Continue with your institution." You will be redirected to the University of Mannheim's login page, where you can sign in using your university credentials.
 
 
 ## I/B/E/S

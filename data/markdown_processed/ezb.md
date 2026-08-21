@@ -3,13 +3,13 @@ title: Hinweise zur Zeitschriftennutzung und Zugangsdaten – Universitätsbibli
 source_url_de: https://www.bib.uni-mannheim.de/ezb/
 source_url_en: https://www.bib.uni-mannheim.de/en/ezb/
 category: Services
-tags: ['Zeitschriften', 'E-Medien', 'Zugangsdaten', 'Volltextzugriff', 'Bibliotheksservice', 'Kontakt', 'Universitätsbibliothek', 'Nutzungsbedingungen']
+tags: ['Zeitschriften', 'E-Medien', 'Zugangsdaten', 'Volltexte', 'Bibliotheksservice', 'Kontakt', 'Online-Ressourcen']
 language: de
 ---
 
 # Hinweise zur Zeitschriftennutzung
 
-Für den Zugriff auf die Volltexte bestimmter Zeitschriften benötigen Sie spezielle Zugangsdaten. Nachfolgend finden Sie eine Übersicht der verfügbaren Zeitschriften und die jeweiligen Zugangsinformationen.
+Für den Zugriff auf aktuelle Volltexte bestimmter Zeitschriften benötigen Sie spezielle Zugangsdaten. Nachfolgend finden Sie eine Übersicht der verfügbaren Zeitschriften und die erforderlichen Logins und Passwörter.
 
 ## Zugangsdaten für ausgewählte Zeitschriften
 
@@ -21,7 +21,7 @@ Für den Zugriff auf die Volltexte bestimmter Zeitschriften benötigen Sie spezi
 ### Le Français dans le Monde (FDLM)
 
 - [Le Français dans le Monde (FDLM)](http://www.fdlm.org/)
-- Login: 69745
+- Login: 69744
 - Passwort: 2W^bsx5&V8
 
 ### Le Français Moderne

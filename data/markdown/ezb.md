@@ -8,7 +8,7 @@
 | --- | --- |
 
 [Le Français dans le Monde (FDLM)](http://www.fdlm.org/)Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
-| Login: | 69745 |
+| Login: | 69744 |
 | --- | --- |
 | Passwort: | 2W^bsx5&V8 |
 

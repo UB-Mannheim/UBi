@@ -14,11 +14,11 @@ Unser Angebot richtet sich an gymnasiale Oberstufen in der Region, insbesondere 
 
 Führungen und Kurse für Schulen bieten wir von**Januar bis April**und von**September bis Oktober**an.
 **Kontakt**
-Unser Schülerkursteam ist gerne für Sie da: schulungen.ub@uni-mannheim.de.
+Unser Kursteam ist gerne für Sie da: schulungen.ub@uni-mannheim.de.
 Bitte melden Sie sich mindestens 14 Tage vorab über unser [Online-Formular](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/anmeldung-fuer-schulen/) an.
 
 
-### Bibliotheksführung für Schülergruppen
+### Bibliotheksführung für Schülerinnen und Schüler
 
 Zielgruppe: Schülerinnen und Schüler der gymnasialen Oberstufe in der Region
 Dauer der Veranstaltung: ca. 45 bis 60 Minuten
@@ -34,11 +34,11 @@ Dauer der Veranstaltung: ca. 45 bis 60 Minuten
 Zielgruppe: Seminarkurse der gymnasialen Oberstufe in der Region
 Dauer der Veranstaltung: ca. 120 Minuten
 
-- Die UB Mannheim kennenlernen
+- die UB Mannheim kennenlernen
 - Bibliotheksrundgang
-- Literaturrecherche am Beispiel unseres Katalogs Primo
+- Literaturrecherche in unserem Katalog Primo im Vergleich mit dem KI-Tool Consensus
 - Quellenbewertung am Beispiel Google und Google Scholar
-- Freie Online-Ressourcen nutzen
+- freie Online-Ressourcen nutzen
 - Zitieren und Literaturverzeichnisse analysieren
 
 
@@ -60,6 +60,6 @@ Wir beraten Sie gerne in einem persönlichen Gespräch zu Themen wie:
 
 Gerne stimmen wir in einem Vorgespräch die Veranstaltung auf die Bedürfnisse Ihres Kurses ab.
 Bitte melden Sie sich mindestens 14 Tage vorab über unser [Online-Formular](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/anmeldung-fuer-schulen/) an.
-Sinnvoll ist es, wenn Sie die Schülerinnen und Schüler auf den Lernort Universitätsbibliothek vorbereiten. Zur Vor- und Nachbereitung empfehlen wir unsere [Online-Tutorials](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw) sowie das Tutorial [„Informationskompetenz“](http://www.wlb-stuttgart.de/tutorial-informationskompetenz/index.html).
+Sinnvoll ist es, wenn Sie die Schülerinnen und Schüler auf den Lernort Universitätsbibliothek vorbereiten. Zur Vor- und Nachbereitung empfehlen wir unsere [Online-Tutorials](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).
 Wir freuen uns auf Ihren Besuch!
-E-Mail: schulungen.ub@uni-mannheim.de[Anmeldung für Schulen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/anmeldung-fuer-schulen/)[Tutorials der Universitätsbibliothek](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw)[Tutorial „Informationskompetenz“](http://www.wlb-stuttgart.de/tutorial-informationskompetenz/index.html)
+E-Mail: schulungen.ub@uni-mannheim.de[Anmeldung für Schulen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/anmeldung-fuer-schulen/)[Tutorials der Universitätsbibliothek](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw)
