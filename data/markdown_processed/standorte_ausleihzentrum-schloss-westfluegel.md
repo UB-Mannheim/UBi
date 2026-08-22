@@ -45,7 +45,9 @@ E-Mail: [ausleihe.ub@uni-mannheim.de](mailto:ausleihe.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-#### Teamleitung
+Die Universitätsbibliothek Mannheim bietet für den Bereich Ausleihe und Fernleihe folgende Ansprechpartner:
+
+#### Teamleitung Ausleihe und Fernleihe
 
 **Michael Wagner**
 Teamleiter Ausleihe und Fernleihe
