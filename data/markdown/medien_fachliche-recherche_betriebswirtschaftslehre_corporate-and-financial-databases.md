@@ -131,11 +131,11 @@ Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registra
 Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registration)
 
 
-## Orbis (Bureau van Dijk)
+## Orbis (Moody's)
 
 **Contents:**Orbis contains standardized information on more than 500 million public and private companies worldwide, with a particular strength in private company data. It provides financial, ownership, governance, and industry information from regulatory and other authoritative sources, supporting company screening, benchmarking, and empirical research across countries.
 Help: [Orbis user guide](https://help.bvdinfo.com/mergedProjects/68_EN/Home.htm)
-Access: [Orbis](https://dbis.ur.de/UBMAN/resources/12630) (via Bureau van Dijk interface)
+Access: [Orbis](https://dbis.ur.de/UBMAN/resources/12630) (via Moody's interface)
 Extended Access: Extended access to Orbis is available for professors and academic staff at the University of Mannheim, as well as for student theses supervised by them. It includes bulk downloads of large datasets and access to historical company data. A dedicated username and password are required to access the extended version of Orbis. These credentials are administered by the Dean's Office of the Business School. Please contact orbis@uni-mannheim.de to request access.
 
 
