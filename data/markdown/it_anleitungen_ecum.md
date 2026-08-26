@@ -9,6 +9,12 @@ Die ecUM (electronic card Universität Mannheim) ist eine multifunktionale Chipk
 - Funktionen der ecUMAlle Funktionen der ecUM im Überblick
 - FAQDie häufigsten Fragen zur ecUM
 - RechtlichesInfos zu Gebühren und Nutzungshinweisen
+
+
+## EcUM-Ausgabe Erstsemester
+
+In den Erstsemesterwochen vom 31. August bis 11. September 2026 findet die ecUM-Ausgabe für Erstsemester am [Express-Schalter](https://www.uni-mannheim.de/studium/im-studium/erstsemester/ecum-ausgabe/) statt.
+In der Regel wird die ecUM postalisch versendet. Falls eine Abholung erforderlich ist, werden Sie per E-Mail benachrichtigt.
 **Alle Funktionen der ecUM im Überblick:**
 
 - Mitgliedsausweis/ [Studierendenausweis](https://www.uni-mannheim.de/it/services-anleitungen/studierende/ecum/)/ Gastkarte/ Einrichtungs-Gastkarte
