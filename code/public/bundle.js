@@ -494,7 +494,7 @@ if (window.aimaBundleLoaded) {
 
         Object.assign(footerElement.style, {
             position: "fixed", bottom: "0", left: "0", width: "100%",
-            background: "hsl(var(--background))",
+            background: "transparent",
             color: footerColor,
             marginTop: "10px",
             borderTop: "0px solid transparent",

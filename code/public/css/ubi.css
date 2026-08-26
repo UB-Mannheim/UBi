@@ -18,7 +18,25 @@ body {
 }
 
 #message-composer {
-    margin-bottom: 30px !important;
+    margin-bottom: 20px !important;
+}
+
+@media (min-width: 769px) {
+    body:has(#starters) #message-composer,
+    body:has(.custom-welcome-container) #message-composer,
+    body:has([data-custom-welcome]) #message-composer {
+        margin-bottom: 0 !important;
+    }
+}
+
+@media (max-width: 768px) {
+    #message-composer {
+        margin-bottom: 80px !important;
+    }
+}
+
+#app-footer {
+    background: transparent !important;
 }
 
 /* Light theme */
