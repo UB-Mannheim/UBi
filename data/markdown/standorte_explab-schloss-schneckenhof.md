@@ -10,9 +10,6 @@
 Mit einer Eye-Tracking-Station, VR-Brillen und Design-Thinking-Tools steht Ihnen eine moderne technische Infrastruktur für Gruppenarbeit, Experimente, Studien- und Abschlussarbeiten zur Verfügung.
 Passen Sie den Raum Ihren Bedürfnissen an: Es gibt flexible Sitzgelegenheiten, verstellbare Tische, ein großes Whiteboard und eine mobile Stellwand mit integriertem Touchscreen.
 Für universitäre Vorträge, Workshops und Seminare mit Bezug zu den Angeboten im ExpLAB bieten wir die Möglichkeit einer Raumbuchung. Nutzen Sie dafür unsere [Online-Raumanfrage](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/raumanfrage/).
-**Offener VR-Playground im ExpLAB**
-Dienstag, 21. April, 14:30–16 Uhr
-[weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28380)
 
 
 ### [Virtual Reality](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/virtual-reality/)
