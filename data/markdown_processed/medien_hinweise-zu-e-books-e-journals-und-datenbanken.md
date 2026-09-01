@@ -737,17 +737,19 @@ Weitere Informationen finden Sie auf der [Website der Universitätsbibliothek Ma
 
 ## Shibboleth-Zugang zu digitalen Medien
 
-## Shibboleth-Zugang zu digitalen Medien
+## Shibboleth-Zugang zu lizenzierten E-Medien
 
-Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren Shibboleth nutzen, um komfortabel von außerhalb des Campus auf lizenzierte elektronische Medien zuzugreifen – ganz ohne VPN.
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren Shibboleth nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ohne VPN.
 
-Shibboleth ermöglicht den Zugang zu lizenzierten E-Books, E-Journals und Datenbanken auf den Plattformen zahlreicher Verlage und Anbieter. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
+Shibboleth ermöglicht den Zugriff auf lizenzierte elektronische Angebote auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
 
-Um Shibboleth zu nutzen, wählen Sie auf der jeweiligen Anbieterplattform die Universität Mannheim aus einer Liste aus. Anschließend melden Sie sich mit Ihrer Uni-ID über die Anmeldemaske der Universität an.
+Um sich anzumelden, wählen Sie auf der Plattform die Universität Mannheim aus einer Liste aus und melden sich anschließend mit Ihrer Uni-ID über die Anmeldemaske der Universität an.
 
-**Hinweis:** Nicht alle Anbieter unterstützen Shibboleth. Der Zugang über die Universitätsbibliothek Mannheim ist aktuell auf den unten aufgeführten Plattformen möglich.
+**Beispiel:** Cambridge University Press
 
-### Unterstützte Anbieter (Auswahl)
+Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Derzeit ist der Shibboleth-Zugang über die Universitätsbibliothek Mannheim auf den folgenden Plattformen möglich:
+
+### Übersicht der unterstützten Anbieter
 
 - American Institute of Physics
 - Annual Reviews
@@ -807,4 +809,4 @@ Um Shibboleth zu nutzen, wählen Sie auf der jeweiligen Anbieterplattform die Un
 - Wiley
 - World Scientific Publishing
 
-Weitere Informationen und aktuelle Hinweise finden Sie auf der [Website der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/).
+**Hinweis:** Die Liste der unterstützten Anbieter kann sich ändern. Prüfen Sie im Zweifel die Zugangsoptionen direkt auf der jeweiligen Plattform.
