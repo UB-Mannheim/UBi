@@ -37,12 +37,23 @@ Sofern die Gesamtrechnung die maximale Fördersumme übersteigt oder nicht-förd
 Die Anträge werden grundsätzlich in der Reihenfolge ihres Eingangs bearbeitet. Sollte das Antragsvolumen die verfügbaren Ressourcen übersteigen, werden Anträge von Nachwuchswissenschaftler*innen bevorzugt. Es wird auf eine faire Verteilung auf alle Fachbereiche geachtet.
 
 
-## 5. Beachtung der Qualitätsstandards für Open-Access-Bücher
+## 5. Rechnung
+
+Die Rechnung muss an die Universität Mannheim ausgestellt werden. Bitte verwenden Sie diese Rechnungsadresse:Universität Mannheim, Kreditorenbuchhaltung, 68131 Mannheim.
+Die Rechnung muss folgende Angaben enthalten:
+
+- Leitkriterium: K4010000001F1000M
+- Ihren Namen und den Titel des Artikels
+- DE 143845342 als Umsatzsteuer-ID-Nummer (UID oder VAT identification number) der Universität Mannheim (falls nötig)
+
+
+
+## 6. Beachtung der Qualitätsstandards für Open-Access-Bücher
 
 Wir erwarten von den Verlagen, dass den [Qualitätsstandards für Open-Access-Bücher](https://doi.org/10.5281/zenodo.7075760) möglichst umfassend Rechnung getragen werden.
 
 
-## 6. Nachweis in MADOC
+## 7. Nachweis in MADOC
 
 Die UB weist das Buch in der Universitätsbibliographie auf dem Publikationsserver MADOC nach. Der Volltext wird auf MADOC archiviert und zur Verfügung gestellt. Die Publikationsdaten und Kosteninformationen werden außerdem an [openAPC](https://treemaps.intact-project.org/apcdata/openapc/) und an die DFG übermittelt.
 [Antrag auf Übernahme von Open-Access-Publikationskosten (Bücher)](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/antrag-oa-buecher/)
