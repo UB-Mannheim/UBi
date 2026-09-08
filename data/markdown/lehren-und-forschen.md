@@ -64,6 +64,13 @@ Mithilfe der maschinellen Texterkennung (OCR) werden Texte aus digitalen Bildern
 
 
 
+### [Systematic Reviews](https://www.bib.uni-mannheim.de/lehren-und-forschen/systematic-reviews/)
+
+Systematic Reviews
+Wir unterstützen Sie bei der Erstellung von Systematic Reviews, Metaanalysen und anderen Formen von Literaturübersichten.
+
+
+
 ### [Literaturversorgung](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/)
 
 Literaturversorgung
