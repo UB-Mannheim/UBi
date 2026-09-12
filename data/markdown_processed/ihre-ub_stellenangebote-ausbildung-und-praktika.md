@@ -3,7 +3,7 @@ title: Stellenangebote, Ausbildung und Praktika an der Universitätsbibliothek M
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/job-offers-training-and-internships/
 category: Benutzung
-tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Bibliotheksdienst', 'Benutzungsdienste', 'Karriere', 'Schulpraktikum', 'Informationsdienste']
+tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Bibliotheksdienst', 'Fachangestellte', 'Informationsdienste', 'Karriere', 'Universitätsbibliothek']
 language: de
 ---
 
@@ -13,13 +13,20 @@ Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfr
 
 ## Aktuelle Stellenangebote
 
+### Legal Counsel im Bereich Forschungsdaten (m/w/d)
+
+- Vollzeitstelle (E 13 TV-L BW)
+- Zum nächstmöglichen Zeitpunkt zu besetzen
+- Bewerbungsschluss: 1. Oktober 2026
+- Weitere Informationen: [Stellenausschreibung (PDF, 862 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_491_LegalCounsel_BERD_E13.pdf)
+
 ### IT-Systemspezialist\*in (m/w/d)
 
-An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als IT-Systemspezialist\*in (m/w/d, bis E 10 TV-L BW) zu besetzen. Bewerbungsschluss ist der 21. September 2026.
-
-Weitere Informationen finden Sie in der [Stellenausschreibung (PDF, 464 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/IT-Spezialist_in_UB_466.pdf).
-
-Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/).
+- Vollzeitstelle (bis E 10 TV-L BW)
+- Zum nächstmöglichen Zeitpunkt zu besetzen
+- Bewerbungsschluss: 21. September 2026
+- Weitere Informationen: [Stellenausschreibung (PDF, 464 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/IT-Spezialist_in_UB_466.pdf)
+- Informationen zum Datenschutz bei Bewerbungen: [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/)
 
 ## Ausbildung
 
@@ -34,45 +41,43 @@ Sie begeistern sich für Wissen und Medien, Daten und Digitales? Sie haben Freud
 
 ### Praktikum für Schülerinnen und Schüler im Rahmen von BORS oder BOGY
 
-Für Schülerinnen und Schüler ab der 9. Jahrgangsstufe und dem 14. Lebensjahr ist es möglich, an der Universitätsbibliothek ein einwöchiges Praktikum im Rahmen von BORS/BOGY (Praktika zur Berufsorientierung an Realschulen/Gymnasien) zu absolvieren. Während des Praktikums erhalten die Teilnehmenden Einblick in die beruflichen Tätigkeitsfelder einer wissenschaftlichen Bibliothek.
-
-- Das Praktikum dauert normalerweise eine Woche.
-- Die Schülerinnen und Schüler sind im Rahmen von Orientierungspraktika über ihre Schule unfallversichert.
-- Ein Entgelt kann nicht gewährt werden.
-- Bitte bewerben Sie sich möglichst frühzeitig vor Praktikumsbeginn und fügen Sie Ihrer Bewerbung ein kurzes Motivationsschreiben, Ihren Lebenslauf sowie Ihr letztes Schulzeugnis bei.
+- Für Schülerinnen und Schüler ab der 9. Jahrgangsstufe und dem 14. Lebensjahr
+- Einwöchiges Praktikum im Rahmen von BORS/BOGY (Berufsorientierung an Realschulen/Gymnasien)
+- Einblick in die Tätigkeitsfelder einer wissenschaftlichen Bibliothek
+- Praktikumsdauer: eine Woche
+- Unfallversicherung über die Schule im Rahmen von Orientierungspraktika
+- Kein Entgelt
+- Bewerbung: möglichst frühzeitig, mit Motivationsschreiben, Lebenslauf und letztem Schulzeugnis
 
 ### Pflichtpraktikum im Rahmen der Ausbildung zum/zur Fachangestellten für Medien- und Informationsdienste (FaMI)
 
-Für Auszubildende im Bereich FaMI besteht die Möglichkeit, in einem ein- bis zweiwöchigen Praktikum die verschiedenen Arbeitsbereiche und Tätigkeitsfelder der Universitätsbibliothek Mannheim kennenzulernen. Dazu gehören Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung und weitere Bereiche.
+- Für Auszubildende im Bereich FaMI
+- Ein- bis zweiwöchiges Praktikum
+- Kennenlernen verschiedener Arbeitsbereiche: Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung und mehr
 
 ### Pflichtpraktikum im Rahmen von bibliotheks- und informationswissenschaftlichen Studiengängen
 
-Studierende informationswissenschaftlicher Studiengänge können im Rahmen eines mehrwöchigen Praktikums oder eines Praxissemesters an der Universitätsbibliothek Mannheim praktische Erfahrungen sammeln. Mögliche Themenbereiche sind Forschungsdaten, Digitalisierung mit OCR, Lernraumgestaltung und Öffentlichkeitsarbeit. Nach einem Überblick über die wichtigsten Abteilungen können Sie in ausgewählte Arbeitsbereiche tiefer eintauchen, mitarbeiten oder ein eigenes Projekt durchführen.
+- Für Studierende informationswissenschaftlicher Studiengänge
+- Mehrwöchiges Praktikum oder Praxissemester möglich
+- Einblick in Abteilungen und Arbeitsgebiete wie Forschungsdaten, Digitalisierung mit OCR, Lernraumgestaltung, Öffentlichkeitsarbeit
+- Möglichkeit zur Mitarbeit oder Durchführung eines eigenen Projekts
 
 ## Kontakt
 
 ### Angela Leichtweiß
 
-Stellvertretende Leiterin der Abteilung Benutzungsdienste | Leiterin Aus- und Fortbildung
-Aufgaben:
-
-- Bestandsmanagement Mediathek
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
-
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 273, 68161 Mannheim
-Telefon: +49 621 181-3335
-E-Mail: [angela.leichtweiss@uni-mannheim.de](mailto:angela.leichtweiss@uni-mannheim.de)
+- Stellvertretende Leiterin der Abteilung Benutzungsdienste
+- Leiterin Aus- und Fortbildung
+- Aufgaben: Bestandsmanagement Mediathek, fachliche Beratung bei Recherchefragen, Durchführung von Schulungen im Fachbereich
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 273, 68161 Mannheim
+- Telefon: +49 621 181-3335
+- E-Mail: [angela.leichtweiss@uni-mannheim.de](mailto:angela.leichtweiss@uni-mannheim.de)
 
 ### Jessica Kaiser
 
-Leiterin der Abteilung Benutzungsdienste | Stellvertretende Leiterin Aus- und Fortbildung
-Aufgaben:
-
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
-- Schreibberatung
-
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
-Telefon: +49 621 181-2920
-E-Mail: [jessica.kaiser@uni-mannheim.de](mailto:jessica.kaiser@uni-mannheim.de)
+- Leiterin der Abteilung Benutzungsdienste
+- Stellvertretende Leiterin Aus- und Fortbildung
+- Aufgaben: Fachliche Beratung bei Recherchefragen, Durchführung von Schulungen im Fachbereich, Schreibberatung
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
+- Telefon: +49 621 181-2920
+- E-Mail: [jessica.kaiser@uni-mannheim.de](mailto:jessica.kaiser@uni-mannheim.de)

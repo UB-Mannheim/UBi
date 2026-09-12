@@ -3,6 +3,7 @@
 
 # [Öffnungszeiten](https://www.bib.uni-mannheim.de/oeffnungszeiten/)
 
+Während des [Uni-Fests](https://www.uni-mannheim.de/uni-fest/) am Samstag, 12. September, sind die Bibliotheksbereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof regulär von 10 bis 23 Uhr geöffnet.
 
 
 ## Ausleihzentrum Schloss Westflügel
