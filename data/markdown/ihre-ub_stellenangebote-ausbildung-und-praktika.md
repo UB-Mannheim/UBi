@@ -13,6 +13,14 @@
 
 
 
+## Ausbildungsplatz zur/zum Fachangestellten für Medien- und Informationsdienste (FaMI)/Fachrichtung Bibliothek (m/w/d)
+
+An der Universitätsbibliothek Mannheim ist zum 1. September 2027 ein Ausbildungsplatz zur/zum Fachangestellten für Medien- und Informationsdienste (FaMI)/Fachrichtung Bibliothek (m/w/d) zu besetzen.
+Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/Stellenausschreibung_FaMI_2026.pdf) (PDF, 441 KB).
+Bewerbungsschluss ist der 19. Oktober 2026.
+Alle Infos zur Ausbildung finden Sie auf der [Website der Universität](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/).
+
+
 ## Legal Counsel im Bereich Forschungsdaten (m/w/d)
 
 An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als Legal Counsel im Bereich Forschungsdaten (m/w/d, E 13 TV-L BW ) zu besetzen.
@@ -35,7 +43,7 @@ Sie begeistern sich für Wissen und Medien, Daten und Digitales? Sie haben Freud
 
 ## Unser Ausbildungsangebot
 
-[Fachangestellte*r für Medien- und Informationsdienste](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/)
+Jetzt bewerben! [Fachangestellte*r für Medien- und Informationsdienste](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/)
 [Ausbildung für den höheren Bibliotheksdienst an wissenschaftlichen Bibliotheken](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/bibliotheksreferendariat/)
 
 

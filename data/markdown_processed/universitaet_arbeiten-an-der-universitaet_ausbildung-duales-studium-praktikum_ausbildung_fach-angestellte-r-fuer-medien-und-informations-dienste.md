@@ -3,13 +3,19 @@ title: Ausbildung zur/zum Fachangestellten für Medien- und Informationsdienste 
 source_url_de: https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/
 source_url_en: https://www.uni-mannheim.de/en/about/working-at-the-university/vocational-training-cooperative-study-program-internship/vocational-training/media-and-information-specialist-fami/
 category: Benutzung
-tags: ['Ausbildung', 'FaMI', 'Universitätsbibliothek', 'Berufsausbildung', 'Bibliothek', 'Karriere', 'Benefits', 'Informationsdienste']
+tags: ['Ausbildung', 'FaMI', 'Universitätsbibliothek', 'Berufsausbildung', 'Bibliothek', 'Stellenangebot', 'Informationsdienste', 'Karriere']
 language: de
 ---
 
-# Fachangestellte\*r für Medien- und Informationsdienste (FaMI) – Fachrichtung Bibliothek
+# Ausbildung zur/zum Fachangestellten für Medien- und Informationsdienste (FaMI) – Fachrichtung Bibliothek
 
 Als Fachangestellte*r für Medien- und Informationsdienste an der Universitätsbibliothek Mannheim erwartet dich ein vielseitiges Aufgabenfeld. Du berätst Nutzer*innen, unterstützt bei der Recherche und bei der Nutzung elektronischer Medien, bestellst neue Medien, erfasst diese im Bibliothekssystem und bearbeitest Rechnungen. Während der Ausbildung erhältst du Einblicke in alle Arbeitsfelder der Universitätsbibliothek, einschließlich Öffentlichkeitsarbeit, IT und Forschungsdatenmanagement.
+
+**Jetzt bewerben!**
+Zum 1. September 2027 ist ein Ausbildungsplatz zu besetzen. Bewerbungsschluss ist der 19. Oktober 2026.
+
+- [Stellenausschreibung (PDF, 441 KB)](https://www.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/Stellenausschreibung_FaMI_2026.pdf)
+- [Ausbildungsflyer (PDF, 2,3 MB)](https://www.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Ausbildung/Azubi_FaMI_2024_digital_Ansichtsboegen.pdf)
 
 ## Daten und Fakten zur Ausbildung
 
@@ -19,7 +25,7 @@ Als Fachangestellte*r für Medien- und Informationsdienste an der Universitätsb
 - **Ausbildungsgliederung:**
   - Betriebliche Ausbildung in den Bereichen und Abteilungen der Universitätsbibliothek Mannheim
   - Berufsschule in Calw (Blockunterricht in Abschnitten von jeweils 2 bis 5 Wochen)
-  - Praktika in anderen Bibliotheken und weiteren Einrichtungen des Medien- und Informationswesens (z. B. Buchhandlungen, Pressestellen, Archive, Dokumentationsstellen)
+  - Praktika in anderen Bibliotheken und weiteren Einrichtungen des Medien- und Informationswesens (z. B. Buchhandlungen, Pressestellen, Archiven, Dokumentationsstellen)
 - **Ausbildungssprache:** Deutsch
 
 ## Voraussetzungen
@@ -35,20 +41,17 @@ Als Fachangestellte*r für Medien- und Informationsdienste an der Universitätsb
 
 - Bezahlung nach Tarif TVA-L BBiG
 - Persönliche Betreuung während der gesamten Ausbildung
-- Arbeitsplatz im repräsentativen Barockschloss auf dem Universitäts-Campus
-- Innenstadtlage mit unmittelbarer Anbindung an den ÖPNV, wenige Minuten zum Hauptbahnhof
+- Arbeitsplatz im Barockschloss auf dem Universitäts-Campus
+- Innenstadtlage mit direkter Anbindung an den ÖPNV, wenige Minuten zum Hauptbahnhof
 - BW-Job-Tickets für den regionalen Nahverkehr
 - Günstige Mittagsangebote auf dem Campus und in der City
 - Möglichkeit zur Teilnahme am Uni-Sport
-- Viele weitere [Benefits](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/benefits/)
+- Weitere [Benefits](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/benefits/)
 
 ## Infos zum Arbeitsplatz
 
-Die Universität Mannheim zählt mit rund 12.000 Studierenden zu den führenden Hochschulen Deutschlands, insbesondere in den Wirtschafts- und Sozialwissenschaften. Über 2.600 Beschäftigte profitieren von einem spannenden Arbeitsumfeld und zahlreichen [Benefits](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/benefits/). Die [Universitätsbibliothek](https://www.bib.uni-mannheim.de/) ist die zentrale Informationsinfrastruktureinrichtung der Universität und verantwortlich für die Informationsversorgung.
-
-## Bewerbung
-
-Die nächste Ausschreibung von Ausbildungsstellen ist für Herbst 2026 geplant, Ausbildungsbeginn ist Herbst 2027. Alle wichtigen Informationen findest du im [Ausbildungsflyer](https://www.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Ausbildung/Azubi_FaMI_2024_digital_Ansichtsboegen.pdf) (PDF, 2,3 MB).
+Die Universität Mannheim zählt zu den führenden Hochschulen Deutschlands mit rund 12.000 Studierenden. Besonders die Wirtschafts- und Sozialwissenschaften sind national und international anerkannt. Über 2.600 Beschäftigte profitieren von einem spannenden Arbeitsumfeld und zahlreichen [Benefits](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/benefits/).
+Die [Universitätsbibliothek](https://www.bib.uni-mannheim.de/) ist die zentrale Informationsinfrastruktureinrichtung der Universität und verantwortlich für die Informationsversorgung.
 
 ## Ansprechperson
 

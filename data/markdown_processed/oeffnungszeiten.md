@@ -3,37 +3,27 @@ title: Öffnungszeiten der Universitätsbibliothek Mannheim – Übersicht aller
 source_url_de: https://www.bib.uni-mannheim.de/oeffnungszeiten/
 source_url_en: https://www.bib.uni-mannheim.de/en/opening-hours/
 category: Öffnungszeiten
-tags: ['Öffnungszeiten', 'Bibliotheksbereiche', 'Ausleihzentrum', 'InfoCenter', 'Servicezeiten', 'Rückgabe', 'Wochenende', 'Beratung']
+tags: ['Öffnungszeiten', 'Bibliotheksbereiche', 'Ausleihzentrum', 'InfoCenter', 'Schloss Westflügel', 'A3', 'A5', 'Ehrenhof', 'Schneckenhof']
 language: de
 ---
 
 # Öffnungszeiten der Universitätsbibliothek Mannheim
 
-Während des [Uni-Fests](https://www.uni-mannheim.de/uni-fest/) am Samstag, 12. September, sind die Bibliotheksbereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof regulär von 10 bis 23 Uhr geöffnet.
-
 ## Ausleihzentrum Schloss Westflügel
 
-| Tag | Öffnungszeiten |
-| --- | --- |
-| Mo–Fr (außer an Feiertagen) | 8–18 Uhr |
+- **Montag bis Freitag (außer an Feiertagen):** 8–18 Uhr
 
-**Zugang zur Rückgabeanlage**
+**Zugang zur Rückgabeanlage:**
 
-| Tag | Öffnungszeiten |
-| --- | --- |
-| Mo–Fr (außer an Feiertagen) | 7–21 Uhr |
+- **Montag bis Freitag (außer an Feiertagen):** 7–21 Uhr
 
 ## InfoCenter
 
 Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgabe von Mikroformen und schützenswerten Materialien
 
-| Tag | Öffnungszeiten |
-| --- | --- |
-| Mo–Fr (außer an Feiertagen) | 9–16 Uhr |
+- **Montag bis Freitag (außer an Feiertagen):** 9–16 Uhr
 
 ## Bibliotheksbereiche A3, A5, Schloss Ehrenhof und Schloss Schneckenhof
 
-| Tag | Öffnungszeiten |
-| --- | --- |
-| Mo–Fr (außer an Feiertagen) | 8–23 Uhr |
-| Sa/So/Feiertage | 10–23 Uhr |
+- **Montag bis Freitag (außer an Feiertagen):** 8–23 Uhr
+- **Samstag, Sonntag und an Feiertagen:** 10–23 Uhr

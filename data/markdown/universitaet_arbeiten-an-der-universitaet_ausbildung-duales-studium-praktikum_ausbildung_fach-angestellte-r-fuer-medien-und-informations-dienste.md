@@ -11,6 +11,12 @@ Werde zum Medien- und Informationsprofi! Als Fachangestellte*r für Medien- und 
 
 
 
+**Jetzt bewerben!**
+An der Universitätsbibliothek ist zum 1. September 2027 ein Ausbildungsplatz zu besetzen. Bewerbungsschluss ist der 19. Oktober 2026.
+
+- [Stellenausschreibung](https://www.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/Stellenausschreibung_FaMI_2026.pdf)  (PDF, 441 KB)
+- [Ausbildungsflyer](https://www.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Ausbildung/Azubi_FaMI_2024_digital_Ansichtsboegen.pdf) (PDF, 2,3 MB)
+
 
 
 ### Daten und Fakten zur Ausbildung
@@ -62,12 +68,6 @@ Die [Universitätsbibliothek](https://www.bib.uni-mannheim.de/) ist die zentrale
 
 ## 
 
-
-
-## Perfektes Match?
-
-Dann bewirb dich bei uns!Die nächste Ausschreibung von Ausbildungsstellen ist für Herbst 2026 geplant, Ausbildungsbeginn ist Herbst 2027.
-Im [Ausbildungsflyer](https://www.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Ausbildung/Azubi_FaMI_2024_digital_Ansichtsboegen.pdf) (PDF, 2,3 MB) findest du alle wichtigen Infos.
 
 
 ## Ansprechperson

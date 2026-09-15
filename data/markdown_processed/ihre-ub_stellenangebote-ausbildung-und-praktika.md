@@ -13,17 +13,24 @@ Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfr
 
 ## Aktuelle Stellenangebote
 
+### Ausbildungsplatz zur/zum Fachangestellten für Medien- und Informationsdienste (FaMI), Fachrichtung Bibliothek (m/w/d)
+
+- Ausbildungsbeginn: 1. September 2027
+- Weitere Informationen: [Stellenausschreibung (PDF, 441 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/Stellenausschreibung_FaMI_2026.pdf)
+- Bewerbungsschluss: 19. Oktober 2026
+- Infos zur Ausbildung: [Website der Universität](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/)
+
 ### Legal Counsel im Bereich Forschungsdaten (m/w/d)
 
-- Vollzeitstelle (E 13 TV-L BW)
-- Zum nächstmöglichen Zeitpunkt zu besetzen
+- Vollzeitstelle, E 13 TV-L BW
+- Beginn: zum nächstmöglichen Zeitpunkt
 - Bewerbungsschluss: 1. Oktober 2026
 - Weitere Informationen: [Stellenausschreibung (PDF, 862 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_491_LegalCounsel_BERD_E13.pdf)
 
 ### IT-Systemspezialist\*in (m/w/d)
 
-- Vollzeitstelle (bis E 10 TV-L BW)
-- Zum nächstmöglichen Zeitpunkt zu besetzen
+- Vollzeitstelle, bis E 10 TV-L BW
+- Beginn: zum nächstmöglichen Zeitpunkt
 - Bewerbungsschluss: 21. September 2026
 - Weitere Informationen: [Stellenausschreibung (PDF, 464 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/IT-Spezialist_in_UB_466.pdf)
 - Informationen zum Datenschutz bei Bewerbungen: [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/)
@@ -35,7 +42,7 @@ Sie begeistern sich für Wissen und Medien, Daten und Digitales? Sie haben Freud
 ### Unser Ausbildungsangebot
 
 - [Fachangestellte\*r für Medien- und Informationsdienste](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/)
-- [Ausbildung für den höheren Bibliotheksdienst an wissenschaftlichen Bibliotheken](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/bibliotheksreferendariat/)
+- [Ausbildung für den höheren Bibliotheksdienst an wissenschaftlichen Bibliotheken (Bibliotheksreferendariat)](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/bibliotheksreferendariat/)
 
 ## Praktika
 
@@ -44,21 +51,18 @@ Sie begeistern sich für Wissen und Medien, Daten und Digitales? Sie haben Freud
 - Für Schülerinnen und Schüler ab der 9. Jahrgangsstufe und dem 14. Lebensjahr
 - Einwöchiges Praktikum im Rahmen von BORS/BOGY (Berufsorientierung an Realschulen/Gymnasien)
 - Einblick in die Tätigkeitsfelder einer wissenschaftlichen Bibliothek
-- Praktikumsdauer: eine Woche
 - Unfallversicherung über die Schule im Rahmen von Orientierungspraktika
 - Kein Entgelt
 - Bewerbung: möglichst frühzeitig, mit Motivationsschreiben, Lebenslauf und letztem Schulzeugnis
 
 ### Pflichtpraktikum im Rahmen der Ausbildung zum/zur Fachangestellten für Medien- und Informationsdienste (FaMI)
 
-- Für Auszubildende im Bereich FaMI
-- Ein- bis zweiwöchiges Praktikum
-- Kennenlernen verschiedener Arbeitsbereiche: Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung und mehr
+- Ein- bis zweiwöchiges Praktikum für Auszubildende im FaMI-Bereich
+- Kennenlernen der Arbeitsbereiche und Tätigkeitsfelder der Universitätsbibliothek Mannheim (z. B. Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung)
 
 ### Pflichtpraktikum im Rahmen von bibliotheks- und informationswissenschaftlichen Studiengängen
 
-- Für Studierende informationswissenschaftlicher Studiengänge
-- Mehrwöchiges Praktikum oder Praxissemester möglich
+- Mehrwöchiges Praktikum oder Praxissemester für Studierende informationswissenschaftlicher Studiengänge
 - Einblick in Abteilungen und Arbeitsgebiete wie Forschungsdaten, Digitalisierung mit OCR, Lernraumgestaltung, Öffentlichkeitsarbeit
 - Möglichkeit zur Mitarbeit oder Durchführung eines eigenen Projekts
 
