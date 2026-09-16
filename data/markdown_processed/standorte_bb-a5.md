@@ -49,35 +49,34 @@ E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet umfassende Serviceleistungen und fachliche Beratung für verschiedene Fachbereiche. Hier finden Sie die zentralen Ansprechpartnerinnen und Ansprechpartner sowie deren Aufgabenbereiche und Kontaktdaten.
+Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort.
 
-#### Teamleitung Bibliotheksbereich A5
+#### Ansprechpartner
 
 ##### Gunhild Schenk
 
-- Teamleiterin Bibliotheksbereich A5
-- Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 126, 68159 Mannheim
-- Telefon: +49 621 181-3031
-- E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
+Teamleiterin Bibliotheksbereich A5
+Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 126, 68159 Mannheim
+Telefon: +49 621 181-3031
+E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 ##### Sylvia Zander
 
-- Stellvertretende Teamleiterin Bibliotheksbereich A5
-- Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 127, 68159 Mannheim
-- Telefon: +49 621 181-3032
-- E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
+Stellvertretende Teamleiterin Bibliotheksbereich A5
+Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 127, 68159 Mannheim
+Telefon: +49 621 181-3032
+E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
-#### Europäisches Dokumentationszentrum (EDZ) und Fachreferate
+#### Europäisches Dokumentationszentrum (EDZ)
+
+Das Europäische Dokumentationszentrum (EDZ) ist Teil des Bibliotheksbereichs A5 und bietet spezialisierte Unterstützung zu europäischen Themen.
 
 ##### Dr. Hendrik Platte
 
-- Fachreferent für Politikwissenschaft, Soziologie und Psychologie
-- Ansprechpartner Europäisches Dokumentationszentrum (EDZ)
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
-- Telefon: +49 621 181-2990
-- E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
+Fachreferent für Politikwissenschaft, Soziologie und Psychologie
+Ansprechpartner EDZ
 
-###### Aufgabenbereiche:
+**Aufgaben:**
 
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
@@ -87,4 +86,6 @@ Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet umfassende
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
 
-Weitere Informationen finden Sie auf der [Webseite des Bibliotheksbereichs A5](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a5/).
+Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
+Telefon: +49 621 181-2990
+E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
