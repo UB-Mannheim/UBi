@@ -472,6 +472,7 @@ async def add_ai_notice(msg: cl.Message, detected_language: str):
     msg.elements = elements
     await msg.update()
 
+
 # === Chat Message Handler ===
 @cl.on_message
 async def on_message(message: cl.Message):
@@ -588,6 +589,7 @@ async def on_message(message: cl.Message):
 
     # === Extra notice about AI-generated answers ===
     await add_ai_notice(msg, detected_language)
+
 
 # === Chat End ===
 @cl.on_chat_end
