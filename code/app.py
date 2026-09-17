@@ -202,7 +202,7 @@ async def handle_openai_vectorstore_query(
             stream=True,
             reasoning={"effort": "low"},
             text={"verbosity": "low"},
-            service_tier="auto",
+            service_tier="fast",
         )
         tool_use_detected = False
         async for event in stream:
@@ -456,6 +456,23 @@ async def on_chat_start():
         cl.user_session.set("rag_chain", rag_chain)
 
 
+# === AI notice at the end of AI-generated messages ===
+async def add_ai_notice(msg: cl.Message, detected_language: str):
+    elements = list(msg.elements or [])
+
+    if not any(element.name == "AiNotice" for element in elements):
+        elements.append(
+            cl.CustomElement(
+                name="AiNotice",
+                props={"language": detected_language},
+                display="inline",
+            )
+        )
+
+    msg.elements = elements
+    await msg.update()
+
+
 # === Chat Message Handler ===
 @cl.on_message
 async def on_message(message: cl.Message):
@@ -569,6 +586,9 @@ async def on_message(message: cl.Message):
         )
         if not success:
             return
+
+    # === Extra notice about AI-generated answers ===
+    await add_ai_notice(msg, detected_language)
 
 
 # === Chat End ===
