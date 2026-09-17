@@ -74,6 +74,7 @@ Der Gültigkeitsaufdruck erfolgt an einem dedizierten Gültigkeitsdrucker in der
 - Schneckenhof Süd am InfoCenter
 - L 1, 1 Express Service
 - Ehrenhof West, in der Bibliothek im 2.OG
+- Ausleihzentrum Schloss Westflügel, in der Bibliothek im EG
 
 An den dedizierten Drucker müssen Sie die Karte nur einstecken und sie wird bedruckt und wieder ausgeworfen.
 

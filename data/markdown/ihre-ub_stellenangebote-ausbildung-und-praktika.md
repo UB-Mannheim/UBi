@@ -21,6 +21,13 @@ Bewerbungsschluss ist der 19. Oktober 2026.
 Alle Infos zur Ausbildung finden Sie auf der [Website der Universität](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/).
 
 
+## Legal & Governance Officer (m/w/d)
+
+An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als**Legal & Governance Officer**(m/w/d, E 13 TV-L BW) zu besetzen.
+Bewerbungsschluss ist der 1. Oktober 2026.
+Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_26_11_EOSC_DE_akt2.pdf) (PDF, 796 KB).
+
+
 ## Legal Counsel im Bereich Forschungsdaten (m/w/d)
 
 An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als Legal Counsel im Bereich Forschungsdaten (m/w/d, E 13 TV-L BW ) zu besetzen.

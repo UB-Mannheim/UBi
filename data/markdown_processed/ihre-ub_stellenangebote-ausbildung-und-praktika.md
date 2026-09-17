@@ -3,7 +3,7 @@ title: Stellenangebote, Ausbildung und Praktika an der Universitätsbibliothek M
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/job-offers-training-and-internships/
 category: Benutzung
-tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Bibliotheksdienst', 'Fachangestellte', 'Informationsdienste', 'Karriere', 'Universitätsbibliothek']
+tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Fachangestellte', 'Bibliotheksdienst', 'Benutzungsdienste', 'Karriere', 'Universitätsbibliothek']
 language: de
 ---
 
@@ -20,6 +20,13 @@ Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfr
 - Bewerbungsschluss: 19. Oktober 2026
 - Infos zur Ausbildung: [Website der Universität](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/)
 
+### Legal & Governance Officer (m/w/d)
+
+- Vollzeitstelle, E 13 TV-L BW
+- Beginn: zum nächstmöglichen Zeitpunkt
+- Bewerbungsschluss: 1. Oktober 2026
+- Weitere Informationen: [Stellenausschreibung (PDF, 796 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_26_11_EOSC_DE_akt2.pdf)
+
 ### Legal Counsel im Bereich Forschungsdaten (m/w/d)
 
 - Vollzeitstelle, E 13 TV-L BW
@@ -33,7 +40,7 @@ Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfr
 - Beginn: zum nächstmöglichen Zeitpunkt
 - Bewerbungsschluss: 21. September 2026
 - Weitere Informationen: [Stellenausschreibung (PDF, 464 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/IT-Spezialist_in_UB_466.pdf)
-- Informationen zum Datenschutz bei Bewerbungen: [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/)
+- Hinweise zum Datenschutz: [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/)
 
 ## Ausbildung
 
@@ -42,29 +49,26 @@ Sie begeistern sich für Wissen und Medien, Daten und Digitales? Sie haben Freud
 ### Unser Ausbildungsangebot
 
 - [Fachangestellte\*r für Medien- und Informationsdienste](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/)
-- [Ausbildung für den höheren Bibliotheksdienst an wissenschaftlichen Bibliotheken (Bibliotheksreferendariat)](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/bibliotheksreferendariat/)
+- [Ausbildung für den höheren Bibliotheksdienst an wissenschaftlichen Bibliotheken](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/bibliotheksreferendariat/)
 
 ## Praktika
 
 ### Praktikum für Schülerinnen und Schüler im Rahmen von BORS oder BOGY
 
-- Für Schülerinnen und Schüler ab der 9. Jahrgangsstufe und dem 14. Lebensjahr
-- Einwöchiges Praktikum im Rahmen von BORS/BOGY (Berufsorientierung an Realschulen/Gymnasien)
-- Einblick in die Tätigkeitsfelder einer wissenschaftlichen Bibliothek
+Für Schülerinnen und Schüler ab der 9. Jahrgangsstufe und dem 14. Lebensjahr ist ein einwöchiges Praktikum im Rahmen von BORS/BOGY (Berufsorientierung an Realschulen/Gymnasien) möglich. Während des Praktikums erhalten die Teilnehmenden Einblick in die beruflichen Tätigkeitsfelder einer wissenschaftlichen Bibliothek.
+
+- Dauer: eine Woche
 - Unfallversicherung über die Schule im Rahmen von Orientierungspraktika
 - Kein Entgelt
 - Bewerbung: möglichst frühzeitig, mit Motivationsschreiben, Lebenslauf und letztem Schulzeugnis
 
 ### Pflichtpraktikum im Rahmen der Ausbildung zum/zur Fachangestellten für Medien- und Informationsdienste (FaMI)
 
-- Ein- bis zweiwöchiges Praktikum für Auszubildende im FaMI-Bereich
-- Kennenlernen der Arbeitsbereiche und Tätigkeitsfelder der Universitätsbibliothek Mannheim (z. B. Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung)
+Für Auszubildende im Bereich FaMI besteht die Möglichkeit, in einem ein- bis zweiwöchigen Praktikum die verschiedenen Arbeitsbereiche und Tätigkeitsfelder der Universitätsbibliothek Mannheim kennenzulernen (z.B. Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung).
 
 ### Pflichtpraktikum im Rahmen von bibliotheks- und informationswissenschaftlichen Studiengängen
 
-- Mehrwöchiges Praktikum oder Praxissemester für Studierende informationswissenschaftlicher Studiengänge
-- Einblick in Abteilungen und Arbeitsgebiete wie Forschungsdaten, Digitalisierung mit OCR, Lernraumgestaltung, Öffentlichkeitsarbeit
-- Möglichkeit zur Mitarbeit oder Durchführung eines eigenen Projekts
+Studierende informationswissenschaftlicher Studiengänge können ein mehrwöchiges Praktikum oder ein Praxissemester absolvieren. Mögliche Themenbereiche sind Forschungsdaten, Digitalisierung mit OCR, Lernraumgestaltung, Öffentlichkeitsarbeit und weitere. Nach einem Überblick über die wichtigsten Abteilungen können Praktikant\*innen in Arbeitsbereiche tiefer eintauchen, mitarbeiten oder ein eigenes Projekt durchführen.
 
 ## Kontakt
 
