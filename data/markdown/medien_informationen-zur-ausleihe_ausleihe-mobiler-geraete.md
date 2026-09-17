@@ -5,9 +5,9 @@
 
 
 
-## Mitglieder der Universität Mannheim können Laptops im InfoCenter ausleihen.
+## Mitglieder der Universität Mannheim können Notebooks im InfoCenter ausleihen.
 
-**Für Studierende der Universität Mannheim stellen UB und UNIT aus Qualitätssicherungsmitteln zusätzliche Notebooks für eine 14-tägige Ausleihe oder eine Semesterleihe bereit.**
+**Für Studierende der Universität Mannheim stellen UB und UNIT unter anderem aus Qualitätssicherungsmitteln zusätzliche Notebooks für die Ausleihe bereit.**
 Alle Notebooks sind mit den aktuellen Softwareversionen von SPSS und STATA ausgestattet.
 
 
@@ -16,7 +16,7 @@ Alle Notebooks sind mit den aktuellen Softwareversionen von SPSS und STATA ausge
 
 - Suchen Sie im Katalog Primo nach dem Stichwort [„Notebookausleihe“](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Notebookausleihe&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0) und bestellen Sie das gewünschte Gerät vor.
 - Sie erhalten eine E-Mail, sobald Sie es montags bis freitags von 9 bis 16 Uhr im InfoCenter abholen können.
-- Notebooks können für die Dauer von 14 Tagen entliehen werden (mögliche Verlängerung bis maximal 42 Tage). Einige Notebooks stehen Studierenden der Universität für eine Semesterleihe zur Verfügung.
+- Ein Teil der Notebooks kann für die Dauer von 14 Tagen entliehen werden, mit einer möglichen Verlängerung bis maximal 42 Tage. Einige Notebooks stehen Studierenden der Universität für eine Semesterleihe zur Verfügung.
 
 
 

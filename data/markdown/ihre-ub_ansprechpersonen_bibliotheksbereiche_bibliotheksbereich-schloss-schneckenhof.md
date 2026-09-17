@@ -5,17 +5,17 @@
 
 
 
-### Beate Ulbrich
+### Elisabeth Wagner
 
 Teamleiterin Bibliotheksbereich Schloss Schneckenhof
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim
-- Telefon: +49 621 181-2972
+- Telefon: +49 621 181-2835
 - E-Mail: schneckenhof.ub@uni-mannheim.de
 
 
-### Elisabeth Wagner
+### Lucia Oberhollenzer
 
 Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim
-- Telefon: +49 621 181-2835
+- Telefon: +49 621 181-2972
 - E-Mail: schneckenhof.ub@uni-mannheim.de

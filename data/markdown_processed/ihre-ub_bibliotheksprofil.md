@@ -1,5 +1,5 @@
 ---
-title: Bibliotheksprofil der Universitätsbibliothek Mannheim – Angebote, Medien, Projekte und Sammlungen
+title: Bibliotheksprofil der Universitätsbibliothek Mannheim – Angebote, Zahlen, Sammlungen und Services
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/bibliotheksprofil/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/library-profile/
 category: Benutzung
@@ -38,8 +38,8 @@ Die Universitätsbibliothek bietet die Informations- und Forschungsinfrastruktur
 
 ### Medienzugang
 
-- 11.600 konventionelle Medien jährlich neu erworben
-- 44.700 digitale Medien jährlich neu erworben
+- 11.600 konventionelle Medien werden jährlich erworben
+- 44.700 digitale Medien werden jährlich erworben
 
 ### Kurse und Beratung
 
@@ -72,10 +72,10 @@ Im weltweiten Ranking [U-Multirank](https://www.che.de/en/ranking-international/
 
 ## Sammlungen
 
-Die Universitätsbibliothek hat ihren Ursprung in den Institutsbibliotheken und der Zentralbibliothek der 1907 gegründeten Städtischen Handelshochschule. 1932 wurden diese Bibliotheken organisatorisch mit der Städtischen Schloßbücherei vereint, die später als Wissenschaftliche Stadtbibliothek Mannheim ausgegliedert wurde. Nach der Auflösung der Handelshochschule 1933 wurden deren Bestände der Universität Heidelberg übergeben. Die 1946 gegründete Staatliche Wirtschaftshochschule Mannheim erhielt den Großteil dieser Bücher zurück. Mit dem Ausbau zur Universität 1967 wuchs der Bestand weiter, insbesondere durch Zugänge aus der aufgelösten Wissenschaftlichen Stadtbibliothek Mannheim. In den letzten 30 Jahren hat sich der Umfang der Buch- und Medienbestände verdoppelt. Seit rund 10 Jahren verschiebt sich der Schwerpunkt bei wissenschaftlichen Zeitschriften und E-Books zunehmend zu lizenzpflichtigen Online-Angeboten.
+Die Universitätsbibliothek hat ihren Ursprung in den Institutsbibliotheken und der Zentralbibliothek der 1907 gegründeten Städtischen Handelshochschule. 1932 wurden diese Bibliotheken organisatorisch mit der Städtischen Schloßbücherei vereint, die später als Wissenschaftliche Stadtbibliothek Mannheim ausgegliedert wurde. Nach der Auflösung der Handelshochschule 1933 wurden deren Bestände der Universität Heidelberg übergeben. Die 1946 gegründete Staatliche Wirtschaftshochschule Mannheim erhielt den Großteil dieser Bücher zurück. Mit dem Ausbau zur Universität 1967 wuchs der Bestand durch Neuzugänge und Übernahmen aus der aufgelösten Wissenschaftlichen Stadtbibliothek Mannheim weiter an. In den letzten 30 Jahren hat sich der Umfang der Buch- und Medienbestände verdoppelt. Seit rund 10 Jahren verschiebt sich der Schwerpunkt bei wissenschaftlichen Zeitschriften und E-Books zunehmend zu lizenzpflichtigen Online-Angeboten.
 
 Weitere Informationen: [Sammlungen](https://www.bib.uni-mannheim.de/medien/sammlungen/)
 
 ## Öffentlichkeitsarbeit
 
-Die [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren über Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), oft in Kooperation mit externen Einrichtungen. Besuchen Sie die Universitätsbibliothek auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).
+Die [Ansprechpersonen für Öffentlichkeitsarbeit](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren über Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), oft in Kooperation mit externen Einrichtungen. Weitere Einblicke gibt es auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).

@@ -3,7 +3,7 @@ title: Bibliothekskooperation Mannheim – Gemeinsame Projekte und Services der 
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/bibliothekskooperation-mannheim/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/bibliothekskooperation-mannheim/
 category: Projekte
-tags: ['Bibliothekskooperation', 'Lernräume', 'Informationskompetenz', 'Schulungen', 'Servicezugang', 'Virtual Reality', 'Förderprogramm', 'Erfahrungsraum']
+tags: ['Bibliothekskooperation', 'Lernräume', 'Informationskompetenz', 'Schulungen', 'Serviceangebot', 'Förderprogramme', 'Digitalisierung', 'Erfahrungsraum']
 language: de
 ---
 
@@ -42,7 +42,7 @@ Sie haben Fragen zum Projekt? Sie lehren an der Universität Mannheim und Virtua
 
 #### Jessica Kaiser
 
-Leiterin der Abteilung Benutzungsdienste, Stellvertretende Leiterin Aus- und Fortbildung
+Leiterin der Abteilung Benutzungsdienste | Stellvertretende Leiterin Aus- und Fortbildung
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
 Telefon: +49 621 181-2920

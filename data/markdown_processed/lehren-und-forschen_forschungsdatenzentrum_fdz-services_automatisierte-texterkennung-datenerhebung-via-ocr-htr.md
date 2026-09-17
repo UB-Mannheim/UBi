@@ -3,7 +3,7 @@ title: Automatisierte Texterkennung und OCR/HTR-Services des Forschungsdatenzent
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/automated-text-recognition-extracting-data-via-ocr-htr/
 category: Services
-tags: ['Texterkennung', 'OCR', 'HTR', 'Digitalisierung', 'Forschungsdaten', 'Transkription', 'Software', 'Beratung']
+tags: ['Texterkennung', 'OCR', 'HTR', 'Digitalisierung', 'Forschungsdaten', 'Transkription', 'Open Source', 'Beratung']
 language: de
 ---
 
@@ -24,19 +24,19 @@ Mithilfe von maschineller Texterkennung (OCR) werden Texte aus digitalen Bildern
 | Tool | Kostenmodell | Eigenschaften | Besonders geeignet für |
 |----------------|----------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------|
 | ABBYY Finereader | kostenpflichtig/kommerziell | Text- und Layouterkennung; gute Layoutanalyse | Moderne Drucke, komplexes Layout |
-| eScriptorium | Open Source | Graphische Benutzeroberfläche für Kraken; intuitive Nutzung | Historische Drucke und Handschriften, nicht-lateinische Schrift |
+| eScriptorium | Open Source | Grafische Benutzeroberfläche für Kraken; intuitive Nutzung | Historische Drucke und Handschriften, nicht-lateinische Schrift |
 | Google Vision | kostenpflichtig/kommerziell | Texterkennung; Bild- und Videoanalyse; für Handschriften und Drucke | Drucke und Handschriften |
 | Kraken | Open Source | Kommandozeilenbasierte Texterkennungssoftware; optimiert für historisches und nicht-lateinisches Schriftmaterial | Historische Drucke und Handschriften, nicht-lateinische Schrift |
-| OCR4All | Open Source | Graphische Benutzeroberfläche für verschiedene Open Source Texterkennungsprogramme | Historische Drucke und Handschriften |
-| OCRmyPDF | Open Source | Kommandozeilenprogramm zur Texterkennung von PDF-Dateien; nutzt Tesseract als OCR-Engine | Historische/moderne Drucke |
+| OCR4All | Open Source | Grafische Benutzeroberfläche für verschiedene Open Source Texterkennungsprogramme | Historische Drucke und Handschriften |
+| OCRmyPDF | Open Source | Kommandozeilenprogramm zur Texterkennung von PDF-Dateien; nutzt Tesseract | Historische/moderne Drucke |
 | OCR-D | Open Source | Modular aufgebaute, kommandozeilenbasierte Texterkennungssoftware | Historische Drucke |
-| PERO-OCR | Open Source | Webbasierte Texterkennungsplattform; gute Universalmodelle; momentan kein Nachtraining möglich | Historische/moderne Drucke und Handschriften |
+| PERO-OCR | Open Source | Webbasierte Texterkennungsplattform; gute Universalmodelle; kein Nachtraining möglich | Historische/moderne Drucke und Handschriften |
 | Tesseract | Open Source | Kommandozeilenbasierte Texterkennungssoftware; geeignet für umfangreiche Datensätze | Historische/moderne Drucke |
 | Transkribus | kostenpflichtig/kommerziell | Umfangreiche Texterkennungs- und Transkriptionsplattform; intuitive Benutzeroberfläche | Historische Handschriften und Tabellen |
 
 ## Zugang und Nutzung von Transkribus und eScriptorium
 
-### Transkribus-Organisations-Lizenz
+### Transkribus-Organisationslizenz
 
 Die Universitätsbibliothek bietet einen institutionellen Zugang zur Texterkennungs- und Transkriptionsplattform [Transkribus](https://www.transkribus.org/de) an. Für die Vergabe eines User Seats ist die Unterzeichnung der Nutzungsbedingungen erforderlich. Anschließend findet ein kurzes Onboarding-Gespräch statt.
 
@@ -56,11 +56,11 @@ Bei Interesse an einem Zugang kontaktieren Sie das FDZ.
 
 ### Zugang zur eScriptorium-Instanz
 
-Mitglieder der Universität Mannheim können einen eigenen Account für die [eScriptorium-Instanz](https://ocr-bw.bib.uni-mannheim.de/escriptorium/) der Universitätsbibliothek erhalten. Nach einer kurzen E-Mail wird der Zugang eingerichtet und die entsprechenden [Nutzungshinweise](https://github.com/UB-Mannheim/escriptorium/discussions/9) bereitgestellt. Unterstützung bei den ersten Schritten, Workflows und weiterführenden Funktionen wird angeboten.
+Mitglieder der Universität Mannheim können einen eigenen Account für die [eScriptorium-Instanz](https://ocr-bw.bib.uni-mannheim.de/escriptorium/) der Universitätsbibliothek erhalten. Nach einer kurzen E-Mail wird der Zugang eingerichtet und die entsprechenden [Nutzungshinweise](https://github.com/UB-Mannheim/escriptorium/discussions/9) bereitgestellt. Unterstützung bei den ersten Schritten, Workflows oder weiterführenden Funktionen wird angeboten.
 
 ## Anleitungen und Materialien zu OCR-Software
 
-Hier finden Sie Anleitungen und Materialien zu verschiedenen Open-Source-Texterkennungsprogrammen und Transkriptionsplattformen. Nicht alle Ressourcen wurden von der UB Mannheim selbst erstellt.
+Eine Sammlung von Anleitungen und Materialien zu verschiedenen Open-Source-Texterkennungsprogrammen und Transkriptionsplattformen. Nicht alle Ressourcen wurden von der UB Mannheim selbst erstellt.
 
 ### eScriptorium
 
@@ -87,7 +87,7 @@ Hier finden Sie Anleitungen und Materialien zu verschiedenen Open-Source-Texterk
 
 ## Hinweise zur Erstellung von Ground-Truth (Trainingsdaten)
 
-Im Projekt OCR-D wurden drei Transkriptionsstufen für die Transkription historischer Dokumente in Transkriptionsrichtlinien festgelegt. Die Stufen unterscheiden sich im Grad der originalgetreuen Wiedergabe. Die Richtlinien sind auf der [OCR-D Projekthomepage](https://ocr-d.de/de/gt-guidelines/trans/index.html) verfügbar. Eine [Leitlinie zur Veröffentlichung eigener Trainingsdaten](https://github.com/OCR-D/gt-repo-template) ist auf Github zu finden.
+Im Projekt OCR-D wurden drei Transkriptionsstufen für historische Dokumente in Transkriptionsrichtlinien festgelegt. Die Stufen unterscheiden sich im Grad der originalgetreuen Wiedergabe. Die Richtlinien sind auf der [OCR-D Projekthomepage](https://ocr-d.de/de/gt-guidelines/trans/index.html) verfügbar. Eine [Leitlinie zur Veröffentlichung eigener Trainingsdaten](https://github.com/OCR-D/gt-repo-template) ist ebenfalls vorhanden.
 
 Ground-Truth-Quellen für das Training/Nachtraining eigener Modelle:
 
@@ -113,7 +113,7 @@ Bei Unterstützungsbedarf oder Fragen kontaktieren Sie das FDZ.
 
 ### Forschungsdatenzentrum (FDZ)
 
-Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

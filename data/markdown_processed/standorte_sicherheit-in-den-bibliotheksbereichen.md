@@ -1,5 +1,5 @@
 ---
-title: Sicherheit in den Bibliotheksbereichen der Universitätsbibliothek Mannheim – Hinweise, Sicherungsgates und Kontakt
+title: Sicherheit in den Bibliotheksbereichen der Universitätsbibliothek Mannheim – Hinweise zu Sicherungsgates und Wertgegenständen
 source_url_de: https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/security-in-the-subject-libraries/
 category: Standorte
@@ -13,7 +13,7 @@ Für die Bibliotheksbereiche der Universitätsbibliothek Mannheim gelten die fol
 
 ## Sicherungsgates
 
-Im Eingangsbereich der Bibliotheksbereiche (A3, A5, Schloss Ehrenhof, Schloss Schneckenhof und dem Ausleihzentrum) befinden sich Sicherungsgates. Diese können für Personen mit Herzschrittmachern oder aktiven Implantaten ein Risiko darstellen. Betroffene haben die Möglichkeit, sich vor dem Durchqueren der Gates an den Theken der jeweiligen Bibliotheksbereiche telefonisch zu melden, sollten Bedenken bestehen, diese zu passieren. Grundsätzlich sollten die Sicherungsgates zügig durchschritten werden.
+Im Eingangsbereich der Bibliotheksbereiche (A3, A5, Schloss Ehrenhof, Schloss Schneckenhof und dem Ausleihzentrum) befinden sich Sicherungsgates. Diese können für Personen mit Herzschrittmachern oder aktiven Implantaten ein Risiko darstellen. Betroffene Personen können sich vor dem Durchqueren der Gates an den Theken der jeweiligen Bibliotheksbereiche telefonisch melden, sollten Bedenken bestehen, diese zu passieren. Grundsätzlich sollten die Sicherungsgates zügig durchschritten werden.
 
 ## Wertgegenstände
 

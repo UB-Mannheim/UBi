@@ -50,16 +50,29 @@ In [Cambridge-Zeitschriften (hybrid + gold OA)](https://www.cambridge.org/core/s
 Dazu müssen Sie zuerst die üblichen Schritte zum Einreichen eines Manuskriptes durchlaufen. Nach der Annahme des Manuskriptes bei Cambridge müssen Sie das Open-Access-Veröffentlichungslizenz-Formular ausfüllen.
 
 
+### Cogitatio Press
+
+Im Rahmen des Vertrags mit dem Verlag [Cogitatio Press](https://www.cogitatiopress.com/) können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim Publikationen im Open Access in allen Zeitschriften des Verlags ohne zusätzliche Kosten veröffentlichen. Dies gilt unter folgenden Voraussetzungen:
+
+- Sie sind mit der Universität Mannheim affiliiert und als „corresponding author“ für den Artikel zuständig
+- Ihr Artikel wurde zwischen dem 1. Januar 2026 und dem 31. Dezember 2028 eingereicht
+- Der Artikel gehört zum Typ: „research article“, „editorial“, „commentary“, „short notes“ oder „book reviews“
+
+Verwenden Sie beim Einreichungsprozess die E-Mail-Adresse der Universität und geben Sie in Ihrer Publikation die Universität Mannheim als Affiliation an. Anhand dieser Angaben werden Sie vom Verlag als berechtigt identifiziert.
+Sprachredaktionsdienste oder zusätzliche Gebühren (z. B. bei Überlänge) fallen nicht unter den Vertrag.
+Ein Antrag auf die Übernahme aus dem Open-Access-Publikationsfonds ist für den Zeitraum des Vertrags nicht nötig.
+
+
 ### De Gruyter
 
 Der Publish and Read Vertrag mit dem Verlag De Gruyter bringt neben dem Zugriff auf die Zeitschriften in den Bereichen „Humanities and Social Sciences (HSS)“ und Wirtschaft Vorteile beim Publizieren im Open Access. Davon können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim profitieren, wenn Sie bei einem Artikel folgende Voraussetzungen erfüllen:
 
 - Sie sind zum Zeitpunkt der Annahme mit der Universität Mannheim affiliiert.
 - Sie sind für den Artikel als „corresponding author“ zuständig.
-- Der Artikel wird zwischen dem 1. Januar 2022 und dem 31. Dezember 2025 zur Publikation angenommen.
+- Der Artikel wird zwischen dem 1. Januar 2022 und dem 31. Dezember 2026 zur Publikation angenommen.
 
 **Hybrides Open Access**
-Als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim können Sie in den [Geistes- und Sozialwissenschaftlichen (Humanities and Social Sciences) Zeitschriften (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/DE_HSS_journalslist2025.pdf) und dem Großteil (Publish & Read) der [Wirtschaftswissenschaftlichen Zeitschriften (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/DE_Economics_journalslist2025.pdf) unter den oben genannten Voraussetzungen ohne weitere Kosten im Open Access veröffentlichen.
+Als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim können Sie in den [Geistes- und Sozialwissenschaftlichen (Humanities and Social Sciences) (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/DGB_25/Documents/OA-Journals/DE_HSS_journals_list_2025.docx.pdf)[ Zeitschriften (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/DE_HSS_journalslist2025.pdf) und dem Großteil (Publish & Read) der[ Wirtschaftswissenschaftlichen Zeitschriften  (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/DGB_25/Documents/OA-Journals/DE_Economics_journals_list_2026.docx.pdf)unter den oben genannten Voraussetzungen ohne weitere Kosten im Open Access veröffentlichen.
 **Gold Open Access**
 In reinen [Open-Access-Zeitschriften](https://www.degruyter.com/publishing/publikationen/openaccess/open-access-artikel/open-access-zeitschriften?lang=de) des Verlags De Gruyter erhalten Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim unter oben genannten Voraussetzungen 20 Prozent Rabatt auf die Publikationsgebühr (APC).
 Für die Publikation in reinen Open-Access-Zeitschriften können Sie zusätzlich eine Finanzierung aus dem [Open-Access-Publikationsfonds der Universität Mannheim](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) beantragen.
@@ -83,7 +96,7 @@ Für Publikationen in reinen Open-Access-Zeitschriften können Sie zusätzlich e
 
 ### Emerald
 
-Im Rahmen des Publish and Read Vertrags mit dem Verlag Emerald können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim ohne weitere Kosten im Open Access sowohl in hybriden als auch in reinen (Gold) Open Access Zeitschriften des Verlags sowie auf der Emerald Open Research Plattform publizieren. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. Januar 2023 und dem 31. Dezember 2025 zur Publikation angenommen wurde.
+Im Rahmen des Publish and Read Vertrags mit dem Verlag Emerald können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim ohne weitere Kosten im Open Access sowohl in hybriden als auch in reinen (Gold) Open Access Zeitschriften des Verlags sowie auf der Emerald Open Research Plattform publizieren. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. Januar 2023 und dem 31. Dezember 2026 zur Publikation angenommen wurde.
 Verwenden Sie beim Einreichungsprozess die E-Mail-Adresse der Universität. Damit werden Sie als berechtigt identifiziert und erhalten einen Voucher für die OA Publikation.
 **Weitere Informationen**
 [Emerald Publishing open access publishing agreements](https://www.emeraldgrouppublishing.com/publish-with-us/publish-open-access/open-access-publishing-agreements)
@@ -113,7 +126,7 @@ Für Publikationen in diesen Zeitschriften können Sie zusätzlich eine Finanzie
 Im Rahmen des [Publish and Read Vertrags](https://benjamins.com/content/authors/read_publish_deals) mit dem Verlag John Benjamins Publishing Company können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim Publikationen im Open Access in allen Zeitschriften des Verlags ohne zusätzliche Kosten veröffentlichen. Dies gilt unter folgenden Voraussetzungen:
 
 - Sie sind mit der Universität Mannheim affiliiert und als „corresponding author“ für den Artikel zuständig
-- Ihr Artikel wurde zwischen dem 1. Januar 2025 und dem 31. Dezember 2026 eingereicht
+- Ihr Artikel wurde zwischen dem 1. Januar 2025 und dem 31. Dezember 2027 eingereicht
 - Der Artikel gehört zum Typ: „research article“, „review“ oder „introductory article“
 
 Verwenden Sie beim Einreichungsprozess die E-Mail-Adresse der Universität und geben Sie in Ihrer Publikation die Universität Mannheim als Affiliation an. Anhand dieser Angaben werden Sie vom Verlag als berechtigt identifiziert.
@@ -144,11 +157,11 @@ Einige MDPI-Zeitschriften wurden 2023 und 2024 aufgrund von Qualitätsproblemen 
 
 ### SAGE
 
-Der Publish and Read Vertrag mit dem Verlag SAGE bringt neben dem Zugriff auf SAGE-Zeitschriften aus dem Bereich Humanities and Social Sciences (HSS) Vergünstigungen beim Open-Access-Publizieren in allen SAGE-Zeitschriften. Davon können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim profitieren, wenn Sie bei einem Artikel folgende Voraussetzungen erfüllen:
+Der Publish and Read Vertrag mit SAGE bringt Vergünstigungen beim Open-Access-Publizieren in Zeitschriften des Verlags. Darüber hinaus ermöglicht er den Zugriff auf SAGE-Zeitschriften aus dem Bereich Humanities and Social Sciences (HSS). Davon können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim profitieren, wenn Sie bei einem Artikel folgende Voraussetzungen erfüllen:
 
 - Sie sind zum Zeitpunkt der Annahme mit der Universität Mannheim affiliiert.
 - Sie sind für den Artikel als „corresponding author“ zuständig.
-- Der Artikel wird zwischen dem 1. Januar 2021 und dem 31. Dezember 2025 angenommen.
+- Der Artikel wird zwischen dem 1. Januar 2021 und dem 31. Dezember 2028 angenommen.
 
 **SAGE Choice**
 In hybriden Zeitschriften des Verlags SAGE mit der Option „SAGE Choice“ können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim unter oben genannten Voraussetzungen ohne weitere Kosten im Open Access veröffentlichen. Der Artikel muss vom TypOriginal Research Papers,Review Papers, Brief Communications, Short ReportsoderCase Reportssein.
@@ -156,7 +169,7 @@ Um diese Open Access Publikationsmöglichkeit zu nutzen, bestätigen Sie im [SAG
 Als Lizenz empfehlen wir die Creative Commons Attribution License (CC-BY), die mit den Anforderungen vieler Forschungsförderer konform ist.
 **Gold Open Access**
 In reinen Open Access Zeitschriften des Verlags SAGE erhalten Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim unter oben genannten Bedingungen 20 Prozent Rabatt auf die Publikationsgebühr (APC).
-[Liste der SAGE Gold Open Access Zeitschriften](https://uk.sagepub.com/en-gb/eur/pure-gold-open-access-journals-at-sage)
+[Liste der SAGE Gold Open Access Zeitschriften (XLSX, 45 kB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/Publizieren_und_Open_Access/Kopie_von_gold-discount-eligibility-list-2026---r-p-oa-sales-agreements.xlsx)
 Für die Publikation in reinen Open-Access-Zeitschriften können Sie zusätzlich eine Finanzierung aus dem [Open-Access-Publikationsfonds der Universität Mannheim](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) beantragen.
 
 

@@ -322,10 +322,47 @@ if (window.aimaBundleLoaded) {
             if (config.heading && config.heading.enabled) {
                 Heading = document.createElement("div");
                 Heading.id = "beta-heading";
-                Heading.textContent = config.heading.text;
+                Heading.id = "beta-heading";
+                // Create mobile logo link
+                const mobileLogoLink = document.createElement("a");
+                mobileLogoLink.href = "https://www.bib.uni-mannheim.de/";
+                mobileLogoLink.target = "_blank";
+                mobileLogoLink.className = "mobile-heading-logo-link";
+
+                const mobileLogo = document.createElement("img");
+                mobileLogo.src = "/public/logo_dark.png";
+                mobileLogo.alt = "UB Mannheim";
+                mobileLogo.className = "mobile-heading-logo";
+
+                mobileLogoLink.appendChild(mobileLogo);
+                Heading.appendChild(mobileLogoLink);
+
+                const textSpan = document.createElement("span");
+                textSpan.textContent = config.heading.text;
+                Heading.appendChild(textSpan);
+
+                // Inject styles for the mobile logo in heading
+                const headingLogoStyle = document.createElement("style");
+                headingLogoStyle.textContent = `
+                    .mobile-heading-logo-link {
+                        display: none;
+                    }
+                    .mobile-heading-logo {
+                        height: 24px;
+                        width: auto;
+                        vertical-align: middle;
+                    }
+                     @media (max-width: 768px) {
+                        .mobile-heading-logo-link {
+                            display: inline-block !important;
+                            margin-right: 10px;
+                        }
+                    }
+                `;
+                document.head.appendChild(headingLogoStyle);
                 const defaultHeadingStyles = {
-                    position: "fixed", top: "0", left: "50%", width: "50%",
-                    transform: "translateX(-50%)", textAlign: "center", fontWeight: "bold",
+                    position: "fixed", top: "0", width: "50%",
+                    transform: "translateX(40px)", textAlign: "left", fontWeight: "bold",
                     zIndex: "10", padding: "18px 0 4px 0", letterSpacing: "1px"
                 };
                 const combinedStyles = { ...defaultHeadingStyles, ...config.heading.styles };
@@ -341,6 +378,9 @@ if (window.aimaBundleLoaded) {
 
             // 7. Inject Header Logo if terms accepted
             injectHeaderLogo();
+
+            // 8. Initialize Matomo Tracking if configured
+            initializeMatomo(config);
 
         } catch (error) {
             // On error, the default cookieConfig will be used.
@@ -360,6 +400,28 @@ if (window.aimaBundleLoaded) {
     }
     function showFooter() {
         if (footer) footer.style.display = "flex";
+    }
+
+    // Initialize Matomo Tracking
+    function initializeMatomo(config) {
+        if (config && config.matomo && config.matomo.url && config.matomo.siteId) {
+            var _paq = window._paq = window._paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function () {
+                var u = config.matomo.url;
+                // Ensure URL ends with a slash if not present, though config usually has it.
+                if (!u.endsWith('/')) u += '/';
+                _paq.push(['setTrackerUrl', u + 'matomo.php']);
+                _paq.push(['setSiteId', config.matomo.siteId]);
+                var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+                g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+            })();
+            // console.log("UBi: Matomo tracking initialized.");
+        } else {
+            // console.warn("UBi: Matomo configuration missing or incomplete. Tracking disabled.");
+        }
     }
 
     // Waits for the readme button to exist, then sets up an observer
@@ -402,16 +464,22 @@ if (window.aimaBundleLoaded) {
             ).join(' · ');
         }
 
+        // Build GitHub icon link if configured
+        let githubHTML = '';
+        if (config.footer && config.footer.github && config.footer.github.link && config.footer.github.link.trim() !== '') {
+            githubHTML = ` · <a href="${config.footer.github.link}" target="_blank" class="github-icon" title="GitHub"><i class="icon-github"></i></a>`;
+        }
+
         // Determine the version/date string from the definitive value passed in
         let versionText = "";
         // Only show version on desktop/tablet > 768px
         if (lastUpdated && window.innerWidth > 768) {
-            versionText = `· v${lastUpdated}`;
+            versionText = ` · <a href="https://github.com/UB-Mannheim/UBi/tree/v${lastUpdated}/data/markdown_processed" target="_blank">v${lastUpdated}</a>`;
         }
 
         const copyrightText = (config.footer && config.footer.copyright) ? config.footer.copyright + ' · ' : '';
 
-        footer.innerHTML = `<span>${copyrightText}${linksHTML}${versionText}</span>`;
+        footer.innerHTML = `<span>${copyrightText}${linksHTML}${githubHTML}${versionText}</span>`;
 
         // Style the footer and its links
         updateFooterStyle(footer);
@@ -426,7 +494,7 @@ if (window.aimaBundleLoaded) {
 
         Object.assign(footerElement.style, {
             position: "fixed", bottom: "0", left: "0", width: "100%",
-            background: "hsl(var(--background))",
+            background: "transparent",
             color: footerColor,
             marginTop: "10px",
             borderTop: "0px solid transparent",
@@ -451,6 +519,33 @@ if (window.aimaBundleLoaded) {
                 link.style.setProperty("text-decoration", "none", "important");
             };
         });
+
+        // Style GitHub icon link separately
+        const githubLink = footerElement.querySelector("a.github-icon");
+        if (githubLink) {
+            githubLink.style.paddingLeft = "0";
+            githubLink.style.backgroundImage = "none";
+            githubLink.style.margin = "0 5px";
+
+            // Create or update style tag for icon-github
+            let githubIconStyle = document.getElementById("github-icon-style");
+            if (!githubIconStyle) {
+                githubIconStyle = document.createElement("style");
+                githubIconStyle.id = "github-icon-style";
+                document.head.appendChild(githubIconStyle);
+            }
+            githubIconStyle.textContent = `
+                .icon-github {
+                    display: inline-block;
+                    width: 1em;
+                    height: 1em;
+                    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23666'><path d='M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z'/></svg>");
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    background-size: contain;
+                }
+            `;
+        }
     }
 
     // --- Welcome Screen Customization ---
@@ -518,6 +613,7 @@ if (window.aimaBundleLoaded) {
 
         .avatar {
             transition: transform 0.3s ease-in-out;
+            z-index: 100;
         }
 
         .avatar:hover {
@@ -526,6 +622,10 @@ if (window.aimaBundleLoaded) {
         }
         .logo {
             display: none;
+        }
+
+        .message-composer {
+            margin-bottom: 80px !important;
         }
 
         .header-logo {
@@ -538,7 +638,7 @@ if (window.aimaBundleLoaded) {
             position: absolute;
             top: 0;
             left: 0;
-            z-index: -150;
+            z-index: 10;
             margin-top: 60px;
             margin-left: 5%;
         }
@@ -558,9 +658,6 @@ if (window.aimaBundleLoaded) {
                 height: 49px;
             }
         }
-        #message-composer {
-            margin-bottom: 20px !important;
-        }
 
         @media (max-width: 768px) {
             .avatar {
@@ -571,11 +668,11 @@ if (window.aimaBundleLoaded) {
                 margin-left: 0 !important;
             }
             .header-logo {
-                height: 40px;
-                margin-top: 80px !important; /* Push below the 66px header */
+                height: 5px;
+                display: none !important; /* Hide global logo on mobile */
             }
             .custom-welcome-container {
-                padding-top: 140px; /* Push content below the logo */
+                padding-top: 40px; /* Push content below the logo */
             }
             #message-composer {
                 margin-bottom: 80px !important;
@@ -710,14 +807,16 @@ if (window.aimaBundleLoaded) {
             }
         }
     }
+
+    const welcomeObserver = new MutationObserver((mutations) => {
+        customizeWelcomeScreen();
+    });
+
+    welcomeObserver.observe(document.body, {
+        childList: true,
+        subtree: true
+    });
 }
 
-const welcomeObserver = new MutationObserver((mutations) => {
-    customizeWelcomeScreen();
-});
 
-welcomeObserver.observe(document.body, {
-    childList: true,
-    subtree: true
-});
 

@@ -3,7 +3,7 @@ title: Angebote der Universitätsbibliothek Mannheim für Schulen – Führungen
 source_url_de: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/courses-and-tutorials/angebote-fuer-schulen/
 category: Services
-tags: ['Schulkooperation', 'Literaturrecherche', 'Informationskompetenz', 'Bibliotheksführung', 'Workshops', 'Lehrkräfte', 'Oberstufe', 'Anmeldung']
+tags: ['Schulungen', 'Literaturrecherche', 'Bibliotheksführung', 'Informationskompetenz', 'Lehrkräfte', 'Schülergruppen', 'Workshops', 'Online-Tutorials']
 language: de
 ---
 
@@ -15,10 +15,10 @@ Lehrkräfte und Schülergruppen der gymnasialen Oberstufe in der Region erhalten
 
 Führungen und Kurse für Schulen werden von **Januar bis April** sowie von **September bis Oktober** angeboten.
 
-### Bibliotheksführung für Schülergruppen
+### Bibliotheksführung für Schülerinnen und Schüler
 
 - **Zielgruppe:** Schülerinnen und Schüler der gymnasialen Oberstufe in der Region
-- **Dauer:** ca. 45–60 Minuten
+- **Dauer:** ca. 45 bis 60 Minuten
 - **Inhalte:**
   - Vorstellung der Universitätsbibliothek
   - Bibliotheksrundgang
@@ -29,9 +29,9 @@ Führungen und Kurse für Schulen werden von **Januar bis April** sowie von **Se
 - **Zielgruppe:** Seminarkurse der gymnasialen Oberstufe in der Region
 - **Dauer:** ca. 120 Minuten
 - **Inhalte:**
-  - Die Universitätsbibliothek Mannheim kennenlernen
+  - Kennenlernen der Universitätsbibliothek Mannheim
   - Bibliotheksrundgang
-  - Literaturrecherche am Beispiel des Katalogs Primo
+  - Literaturrecherche im Katalog Primo im Vergleich mit dem KI-Tool Consensus
   - Quellenbewertung am Beispiel Google und Google Scholar
   - Nutzung freier Online-Ressourcen
   - Zitieren und Analyse von Literaturverzeichnissen
@@ -54,9 +54,6 @@ Die Veranstaltungen werden individuell auf die Bedürfnisse des jeweiligen Kurse
 - **Anmeldung:** [Online-Formular](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/anmeldung-fuer-schulen/)
 - **Kontakt:** [schulungen.ub@uni-mannheim.de](mailto:schulungen.ub@uni-mannheim.de)
 
-Zur Vor- und Nachbereitung werden folgende Ressourcen empfohlen:
-
-- [Online-Tutorials der Universitätsbibliothek Mannheim](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw)
-- [Tutorial „Informationskompetenz“ der WLB Stuttgart](http://www.wlb-stuttgart.de/tutorial-informationskompetenz/index.html)
+Zur Vor- und Nachbereitung empfiehlt die Universitätsbibliothek ihre [Online-Tutorials](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).
 
 Wir freuen uns auf Ihren Besuch!

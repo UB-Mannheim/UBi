@@ -12,7 +12,7 @@ Leiterin der Abteilung Forschungsdatenzentrum
 
 Aufgaben:
 
-- Betreuung und Koordination des ProjektsBERD@NFDI
+- Konzeption, Beantragung, Support und Steuerung von Drittmittelprojekten
 - Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
 - Telefon: +49 621 181-2955
@@ -46,16 +46,32 @@ Open Science Officer | Referent für Forschungsdatenmanagement (Sozialwissenscha
 - ORCID-ID: 0000-0001-8213-451X (https://orcid.org/0000-0001-8213-451X)
 
 
+### Vasilka Paunova, LL.M.
+
+Legal Counsel für BERD@NFDI und FDZ
+
+Aufgaben:
+
+- Unterstützung von Forschenden
+- Rechtliche Fragestellungen im FDM Bereich
+- Themengebiete Datenschutz, Urheberrecht und Lizenzrecht
+- BERD Datenschutzkonzept und Plattform Richtlinien
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
+- Telefon: +49 621 181-2714
+- E-Mail: vasilka.paunova@uni-mannheim.de
+- ORCID-ID: 0000-0002-8961-509X (https://orcid.org/0000-0002-8961-509X)
+
+
 ### Thomas Schmidt, M.A.
 
-Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB
+Data Steward und Data Scientist für BERD@NFDI | Projektkoordination AiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
 - E-Mail: thomas.schmidt@uni-mannheim.de
 - ORCID-ID: 0000-0003-3620-3355 (https://orcid.org/0000-0003-3620-3355)
 
 
-### Dr. Renat Shigapov
+### Dr. Renat Kaufmann
 
 Lead Data Scientist | Projektleiter
 
@@ -67,7 +83,7 @@ Aufgaben:
 - Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
-- E-Mail: renat.shigapov@uni-mannheim.de
+- E-Mail: renat.kaufmann@uni-mannheim.de
 - ORCID-ID: 0000-0002-0331-2558 (https://orcid.org/0000-0002-0331-2558)
 
 
@@ -88,7 +104,7 @@ Aufgaben:
 
 ### Larissa Will, M.A.
 
-Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)
+Referentin für Wissenstransfer (OCR) und AI Literacy in den Projekten TransforMA und AiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2754
 - E-Mail: larissa.will@uni-mannheim.de

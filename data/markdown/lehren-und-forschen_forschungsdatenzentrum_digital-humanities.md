@@ -59,7 +59,7 @@ Repositorien machen Forschungsdaten nachhaltig zugänglich und können damit als
 ### Fachspezifische Repositorien für geisteswissenschaftlich Forschungsdaten
 
 
-- auf [Re3Data](https://www.re3data.org/search?subjects%5B%5D=11%20Humanities) sind Datenrepositorien für die Geisteswissenschaften verzeichnet
+- auf [Re3Data](https://www.re3data.org/search?subjects[]=11%20Humanities) sind Datenrepositorien für die Geisteswissenschaften verzeichnet
 - [NFDI4Culture](https://nfdi4culture.de/de/ressourcen/repositorien.html) bietet eine eigens kuratierte Repositorienliste
 - CLARIAH-DE bietet eine [generische Suche](https://search.de.dariah.eu/search/) und [erweiterte Suche](https://vlo.clarin.eu/?2) mit umfangreichen Filtermöglichkeiten
 

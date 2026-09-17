@@ -2,17 +2,18 @@ import asyncio
 import os
 import re
 import time
-import mdformat
 from pathlib import Path
 from typing import Optional
 
 import backoff
 import click
-import utils
-from config import CRAWL_DIR, DATA_DIR
+import mdformat
 from langchain_openai import ChatOpenAI
-from prompts import PROMPT_POST_PROCESSING
 from tqdm import tqdm
+
+import utils
+from config import CRAWL_DIR, CUSTOM_DOCS_DIR, DATA_DIR
+from prompts import PROMPT_POST_PROCESSING
 
 
 # === Processing Functions ===
@@ -127,6 +128,64 @@ def find_section_position(content_lines: list, section_heading: str) -> int:
         if line.strip() == section_heading:
             return i
     return -1
+
+
+def strip_merged_section(content: str, section_heading: str) -> tuple[str, bool]:
+    """
+    Remove ALL occurrences of a previously merged section from markdown
+    content to prevent duplicate appends on repeated runs.
+
+    For each occurrence the function removes everything from the
+    `section_heading` line up to (but not including) the next heading of
+    the same or higher level.  If no such heading follows, removes to
+    end-of-file.  The process repeats until no more occurrences remain.
+
+    Args:
+        content: Full markdown content.
+        section_heading: The heading line that marks the start of the merged
+                         section (e.g. "### Weitere Ansprechpersonen").
+
+    Returns:
+        Tuple of (cleaned content, True if at least one section was stripped).
+    """
+    # Determine heading level from the section heading (count leading #)
+    heading_level = len(section_heading) - len(section_heading.lstrip("#"))
+    ever_stripped = False
+
+    while True:
+        lines = content.split("\n")
+
+        section_start = None
+        section_end = None
+
+        for i, line in enumerate(lines):
+            if section_start is None and line.strip() == section_heading:
+                section_start = i
+                continue
+            if section_start is not None:
+                # Next heading of same or higher level ends the merged section
+                match = re.match(r"^(#{1,6}) ", line)
+                if match and len(match.group(1)) <= heading_level:
+                    section_end = i
+                    break
+
+        if section_start is None:
+            break  # No more occurrences
+
+        ever_stripped = True
+
+        # Also strip blank lines immediately before the section heading
+        while section_start > 0 and lines[section_start - 1].strip() == "":
+            section_start -= 1
+
+        if section_end is not None:
+            cleaned_lines = lines[:section_start] + [""] + lines[section_end:]
+        else:
+            cleaned_lines = lines[:section_start]
+
+        content = "\n".join(cleaned_lines).rstrip()
+
+    return content, ever_stripped
 
 
 def validate_and_format_markdown(content: str) -> str:
@@ -432,7 +491,6 @@ def process_standorte(data_path: Path):
     # Group files by their base name (e.g., "bb-a3", "bb-a5" ...)
     file_groups = {}
     for file_path in standorte_files:
-        # Extract base name by removing "standorte_" prefix and suffixes after "_"
         stem = file_path.stem
         if stem.startswith("standorte_"):
             base_name = stem[10:]  # Remove "standorte_" prefix
@@ -466,6 +524,24 @@ def process_standorte(data_path: Path):
                     f"[bold yellow]No 'Ansprechpersonen' found in {shortest_file.name}"
                 )
                 continue
+
+            # Strip any previously merged content.
+            content_lines = content.split("\n")
+            last_link_line = -1
+            for i, line in enumerate(content_lines):
+                if re.search(contact_link_pattern, line, re.IGNORECASE):
+                    last_link_line = i
+
+            if last_link_line >= 0:
+                original_len = len(content_lines)
+                content_lines = content_lines[: last_link_line + 1]
+                if len(content_lines) < original_len:
+                    content = "\n".join(content_lines).rstrip()
+                    shortest_file.write_text(content, encoding="utf-8")
+                    utils.print_info(
+                        f"[bold yellow]Stripped previously merged content "
+                        f"from {shortest_file.name}"
+                    )
 
             utils.print_info(
                     f"[bold]Found {len(matches)} contact links in {shortest_file.name}"
@@ -523,9 +599,7 @@ def process_standorte(data_path: Path):
                         # Remove the contact file after successful merge
                         safe_remove_file(contact_file_path, processed_contacts)
 
-                        utils.print_info(
-                            f"[bold green]Done. Processed {processed_count} contact files."
-                        )
+                        utils.print_info("[bold green]Done.")
                     else:
                         utils.print_err(
                             f"[bold red]Error: No content found in {contact_filename}"
@@ -575,7 +649,7 @@ def process_direktion(data_path: Path):
         # Write augmented file
         direktion_md[0].write_text(md_data, encoding="utf-8")
 
-        utils.print_info("[bold green]Done. Augmented 'Direktion' markdown page.")
+        utils.print_info("[bold green]Done.")
 
     except Exception as e:
         utils.print_err(f"[bold red]Error processing Direktionen files: {e}")
@@ -607,12 +681,23 @@ def process_semesterapparat(data_path: Path):
     antrag_file = antrag_files[0]
 
     utils.print_info("[bold][Processing Semesterapparat Application]")
-    utils.print_info(f"[bold]Parent file: {parent_file.name}")
-    utils.print_info(f"[bold]Application file: {antrag_file.name}")
 
     try:
         # Read parent file content
         parent_content = parent_file.read_text(encoding="utf-8")
+
+        # Strip any previously merged Antrag section to prevent duplicates
+        parent_content, was_stripped = strip_merged_section(
+            parent_content,
+            "## Antrag auf Einrichtung eines Semesterapparats",
+        )
+        if was_stripped:
+            parent_file.write_text(parent_content, encoding="utf-8")
+            utils.print_info(
+                f"[bold yellow]Stripped existing merged Antrag section "
+                f"from {parent_file.name}"
+            )
+
         parent_lines = parent_content.split("\n")
 
         # Find the "## Kontakt" section
@@ -660,7 +745,7 @@ def process_semesterapparat(data_path: Path):
             safe_remove_file(antrag_file)
 
             utils.print_info(
-                "[bold green]Done. Processed semesterapparat application file."
+                "[bold green]Done."
             )
         else:
             utils.print_err(
@@ -701,13 +786,24 @@ def process_shibboleth(data_path: Path):
 
     shib_file = shib_files[0]
 
-    utils.print_info("[bold][Processing Shibboleth Append]")
-    utils.print_info(f"[bold]Parent file: {parent_file.name}")
-    utils.print_info(f"[bold]Shibboleth file: {shib_file.name}")
+    utils.print_info("[bold][Processing Shibboleth]")
 
     try:
         # Read parent file content
         parent_content = parent_file.read_text(encoding="utf-8")
+
+        # Strip any previously merged Shibboleth section to prevent duplicates
+        parent_content, was_stripped = strip_merged_section(
+            parent_content,
+            "## Shibboleth-Zugang zu digitalen Medien",
+        )
+        if was_stripped:
+            parent_file.write_text(parent_content, encoding="utf-8")
+            utils.print_info(
+                f"[bold yellow]Stripped existing merged Shibboleth section "
+                f"from {parent_file.name}"
+            )
+
         parent_lines = parent_content.split("\n")
 
         # Find the '## Kontakt' section
@@ -746,12 +842,118 @@ def process_shibboleth(data_path: Path):
             # Remove the shibboleth file after successful merge
             safe_remove_file(shib_file)
 
-            utils.print_info("[bold green]Done. Processed shibboleth file.")
+            utils.print_info("[bold green]Done.")
         else:
             utils.print_err(f"[bold red]Error: No content found in {shib_file.name}")
 
     except Exception as e:
         utils.print_err(f"[bold red]Error processing shibboleth files: {e}")
+
+
+def sync_custom_docs(
+    custom_docs_dir: Path = CUSTOM_DOCS_DIR,
+    output_dir: Path = DATA_DIR,
+) -> list[str]:
+    """
+    Sync manually curated custom documents into the processed output directory.
+
+    Custom docs are copied directly to output_dir (DATA_DIR) without LLM
+    processing, since they are already manually curated. Only new or modified
+    files (detected via hash comparison) are copied. Files removed from
+    custom_docs_dir are also deleted from output_dir.
+
+    Args:
+        custom_docs_dir: Directory containing custom markdown documents
+        output_dir: Target directory (usually DATA_DIR) for processed files
+
+    Returns:
+        List of filenames that were copied (new or updated)
+    """
+    custom_docs_path = Path(custom_docs_dir)
+    output_path = Path(output_dir)
+
+    if not custom_docs_path.exists() or not custom_docs_path.is_dir():
+        utils.print_info(
+            f"[bold yellow]Custom docs directory not found: {custom_docs_dir}. Skipping."
+        )
+        return []
+
+    # Current markdown files in custom_docs_dir
+    current_custom_files = {f.name for f in custom_docs_path.glob("*.md")}
+
+    # Load previous hash snapshot to detect deleted files
+    old_hashes = utils.load_hash_snapshot(custom_docs_dir)
+    previously_synced_files = set(old_hashes.keys())
+
+    # Handle deletions: remove files from output_dir that were deleted from custom_docs_dir
+    deleted_files = previously_synced_files - current_custom_files
+    for deleted_file in deleted_files:
+        target = output_path / deleted_file
+        if target.exists():
+            try:
+                target.unlink()
+                utils.print_info(
+                    f"[bold blue]Removed {deleted_file} from {output_dir} "
+                    f"(no longer in custom docs)"
+                )
+            except Exception as e:
+                utils.print_err(
+                    f"[bold red]Error removing {deleted_file} from {output_dir}: {e}"
+                )
+
+    # Handle additions / updates
+    if not current_custom_files:
+        utils.print_info(
+            f"[bold yellow]No .md files found in {custom_docs_dir}. Skipping copy."
+        )
+        # Update snapshot to reflect that all files have been removed
+        utils.write_hashes_for_directory(custom_docs_dir)
+        return []
+
+    # Detect new or modified custom docs via hash comparison
+    changed_files = utils.get_new_or_modified_files_by_hash(
+        custom_docs_dir, return_path_objects=True
+    )
+
+    if not changed_files and not deleted_files:
+        utils.print_info(
+            "[bold green]No changes detected in custom docs. Skipping sync."
+        )
+        return []
+
+    copied_files = []
+
+    if changed_files:
+        utils.print_info(
+            f"[bold][Syncing Custom Docs] "
+            f"Copying {len(changed_files)} changed file(s) from {custom_docs_dir} to {output_dir}"
+        )
+
+        output_path.mkdir(parents=True, exist_ok=True)
+
+        for file_path in changed_files:
+            try:
+                src = Path(file_path) if not isinstance(file_path, Path) else file_path
+                # If get_new_or_modified_files_by_hash returned filenames, resolve to full path
+                if not src.is_absolute() and not src.exists():
+                    src = custom_docs_path / src
+
+                dest = output_path / src.name
+                content = src.read_text(encoding="utf-8")
+                dest.write_text(content, encoding="utf-8")
+                copied_files.append(src.name)
+                utils.print_info(f"[bold green]Copied {src.name} to {output_dir}")
+            except Exception as e:
+                utils.print_err(f"[bold red]Error copying {file_path}: {e}")
+
+    # Update hash snapshot for custom_docs_dir
+    utils.write_hashes_for_directory(custom_docs_dir)
+
+    utils.print_info(
+        f"[bold green]Synced custom docs: "
+        f"{len(copied_files)} copied, {len(deleted_files)} removed"
+    )
+    return copied_files
 
 
 def additional_post_processing(data_dir: str = str(DATA_DIR)):
@@ -821,7 +1023,8 @@ def additional_post_processing(data_dir: str = str(DATA_DIR)):
 )
 @click.option(
     "--write-snapshot/--no-write-snapshot",
-    "-snapshot",
+    "-w",
+    is_flag=True,
     default=True,
     help="Write a hash snapshot to input_dir. (Default: True)",
 )
@@ -892,30 +1095,50 @@ def run_post_processing(
             f"[bold]Processing {len(files_to_process)} markdown files in {input_dir}."
         )
 
-    # Hash snapshot (default fallback)
+    # Hash snapshot (default processing)
     else:
         input_dir = CRAWL_DIR
         files_to_process = utils.get_new_or_modified_files_by_hash(
             input_dir, return_path_objects=True
         )
 
-    if not files_to_process:
-        utils.print_info("[bold yellow]No files to process. Exiting.")
-        return
-
-    # Post-processing with LLM
-    if llm_processing:
-        process_markdown_files_with_llm(
-            input_dir=input_dir,
+        # Sanity check: files present in CRAWL_DIR but missing from DATA_DIR
+        missing_files = utils.get_files_missing_from_output(
+            source_dir=input_dir,
             output_dir=str(DATA_DIR),
-            files_to_process=files_to_process,
-            model_name=model_name,
-            temperature=temperature,
+            return_path_objects=True,
         )
+        if missing_files:
+            missing_names = [f.name for f in missing_files]
+            utils.print_info(
+                f"[bold yellow][Sanity Check] {len(missing_files)} file(s) in "
+                f"{input_dir} missing from {DATA_DIR} — adding to processing queue:\n"
+                + "\n".join(f"  - {n}" for n in missing_names)
+            )
+            existing_paths = {f for f in files_to_process}
+            for f in missing_files:
+                if f not in existing_paths:
+                    files_to_process.append(f)
 
-    # Additional post-processing
-    if additional_processing:
-        additional_post_processing(data_dir=str(DATA_DIR))
+    if files_to_process:
+        # Post-processing with LLM
+        if llm_processing:
+            process_markdown_files_with_llm(
+                input_dir=input_dir,
+                output_dir=str(DATA_DIR),
+                files_to_process=files_to_process,
+                model_name=model_name,
+                temperature=temperature,
+            )
+
+        # Additional post-processing
+        if additional_processing:
+            additional_post_processing(data_dir=str(DATA_DIR))
+    else:
+        utils.print_info("[bold yellow]No crawled files to process.")
+
+    # Sync custom docs to DATA_DIR
+    sync_custom_docs(custom_docs_dir=CUSTOM_DOCS_DIR, output_dir=DATA_DIR)
 
     # Markdown formatting only
     if format_markdown:

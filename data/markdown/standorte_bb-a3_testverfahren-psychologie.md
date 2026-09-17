@@ -23,6 +23,7 @@ Ausleihberechtigt sind
 - Psychologinnen und Psychologen sowie Studierende des Fachs Psychologie an der Universität Mannheim.
 - Studierende anderer Fächer sowie Beschäftigte der Universität Mannheim, die ein wissenschaftliches Interesse nachweisen. Sie benötigen eine von der Dozentin oder dem Dozenten unterschriebene [Bescheinigung zur Ausleihe](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/DozentenbescheinigungAusleiheMediathek.pdf) (PDF, 118 KB).
 - externe Psychologinnen und Psychologen, die einen Bibliotheksausweis haben und ihr Abschlusszeugnis vorlegen.
+- externe Studierende sind zur Ausleihe von Testverfahren nicht berechtigt.
 
 Die Leihfrist beträgt 14 Tage, eine Verlängerung ist auf Nachfrage möglich.
 

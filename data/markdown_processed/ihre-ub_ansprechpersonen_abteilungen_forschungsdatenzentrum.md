@@ -1,24 +1,23 @@
 ---
-title: Forschungsdatenzentrum – Ansprechpartner und Aufgaben an der Universitätsbibliothek Mannheim
+title: Forschungsdatenzentrum der Universitätsbibliothek Mannheim – Team und Kontaktinformationen
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Data Science', 'Open Science', 'Digital Humanities', 'Data Literacy', 'Beratung', 'Universitätsbibliothek']
+tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Drittmittelprojekte', 'Data Science', 'Open Science', 'Rechtsberatung', 'Data Steward', 'Wissenstransfer']
 language: de
 ---
 
-# Forschungsdatenzentrum
+# Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim.
+Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und rechtliche Unterstützung im Bereich Forschungsdatenmanagement sowie die Koordination und Durchführung von Drittmittelprojekten und technischen Entwicklungen.
 
-## Ansprechpartner und Aufgaben
+## Team und Kontakt
 
 ### Dr. Irene Schumm
 
 **Leiterin der Abteilung Forschungsdatenzentrum**
 
-- Betreuung und Koordination des Projekts BERD@NFDI
-- Beratung und Schulungen im Bereich Forschungsdatenmanagement
+- Aufgaben: Konzeption, Beantragung, Support und Steuerung von Drittmittelprojekten; Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
 - Telefon: +49 621 181-2955
 - E-Mail: [irene.schumm@uni-mannheim.de](mailto:irene.schumm@uni-mannheim.de)
@@ -50,35 +49,40 @@ Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt 
 - E-Mail: [david.morgan@uni-mannheim.de](mailto:david.morgan@uni-mannheim.de)
 - ORCID: [0000-0001-8213-451X](https://orcid.org/0000-0001-8213-451X)
 
+### Vasilka Paunova, LL.M.
+
+**Legal Counsel für BERD@NFDI und FDZ**
+
+- Aufgaben: Unterstützung von Forschenden; rechtliche Fragestellungen im FDM-Bereich; Themengebiete Datenschutz, Urheberrecht und Lizenzrecht; BERD Datenschutzkonzept und Plattform Richtlinien
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
+- Telefon: +49 621 181-2714
+- E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
+- ORCID: [0000-0002-8961-509X](https://orcid.org/0000-0002-8961-509X)
+
 ### Thomas Schmidt, M.A.
 
-**Referent für Forschungsdatenmanagement (Data Literacy) | Management ExpLAB**
+**Data Steward und Data Scientist für BERD@NFDI | Projektkoordination AiDaLi**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2954
 - E-Mail: [thomas.schmidt@uni-mannheim.de](mailto:thomas.schmidt@uni-mannheim.de)
 - ORCID: [0000-0003-3620-3355](https://orcid.org/0000-0003-3620-3355)
 
-### Dr. Renat Shigapov
+### Dr. Renat Kaufmann
 
 **Lead Data Scientist | Projektleiter**
 
-- Strategische Weiterentwicklung des technischen Forschungsdatenmanagements
-- Beratung von Wissenschaftler\*innen zu Forschungsdatenmanagement, Data Science und KI-Tools
-- Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI
-- Vertretung der UB in Gremien
+- Aufgaben: Strategische Weiterentwicklung des technischen Forschungsdatenmanagements; Beratung von Wissenschaftler\*innen zu Forschungsdatenmanagement, Data Science und KI-Tools; Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI; Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
-- E-Mail: [renat.shigapov@uni-mannheim.de](mailto:renat.shigapov@uni-mannheim.de)
+- E-Mail: [renat.kaufmann@uni-mannheim.de](mailto:renat.kaufmann@uni-mannheim.de)
 - ORCID: [0000-0002-0331-2558](https://orcid.org/0000-0002-0331-2558)
 
 ### Christos Sidiropoulos, M.Ed.
 
 **Referent für Forschungsdatenmanagement (Data Literacy)**
 
-- Mitarbeit im Data-Literacy-Projekt MaDaLi²
-- Technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen
-- Beratung und Schulungen im Bereich Forschungsdatenmanagement
+- Aufgaben: Mitarbeit im Data-Literacy-Projekt MaDaLi²; technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen; Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
 - Telefon: +49 621 181-2962
 - E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)
@@ -86,7 +90,7 @@ Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt 
 
 ### Larissa Will, M.A.
 
-**Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)**
+**Referentin für Wissenstransfer (OCR) und AI Literacy in den Projekten TransforMA und AiDaLi**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
 - Telefon: +49 621 181-2754

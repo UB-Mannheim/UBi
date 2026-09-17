@@ -1,9 +1,9 @@
 ---
-title: Standorte der Universitätsbibliothek Mannheim – Übersicht und Angebote
+title: Standorte der Universitätsbibliothek Mannheim – Übersicht und Angebote aller Bibliotheksbereiche
 source_url_de: https://www.bib.uni-mannheim.de/standorte/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/
 category: Standorte
-tags: ['Standorte', 'Arbeitsplätze', 'Ausleihe', 'Bibliotheksbereiche', 'Gruppenarbeit', 'Lernorte', 'Universitätsbibliothek', 'Mannheim']
+tags: ['Standorte', 'Arbeitsplätze', 'Ausleihe', 'Bibliotheksbereiche', 'Gruppenarbeit', 'Lernräume', 'Serviceangebote', 'Universitätsbibliothek']
 language: de
 ---
 
@@ -40,13 +40,13 @@ Ausleihe, Lehrbuchsammlung und Fernleihe.
 - Soziologie
 - Politikwissenschaft
 - Mathematik und Informatik
-- EDZMZES
+- EDZ
 
 ### [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/)
 
 - Rechtswissenschaft
 - Volkswirtschaftslehre und Geschichte
-- Ernst & Young Bibliothek für Accounting, Business Taxation and Tax Law
+- Bibliothek für Accounting, Business Taxation and Tax Law
 - Schulungsraum
 
 ### [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/)
@@ -61,5 +61,4 @@ Ausleihe, Lehrbuchsammlung und Fernleihe.
 
 - Kreatives Lernen und Arbeiten
 - Virtual Reality
-- Eye Tracking
-- Design Thinking
+- Eye Tracking und Design Thinking

@@ -2,7 +2,7 @@
 
 ## Overview
 
-AIMA now includes comprehensive rate limiting and session management features to prevent abuse and ensure fair usage of the system.
+This chatbot now includes comprehensive rate limiting and session management features to prevent abuse and ensure fair usage of the system.
 
 ## Features
 

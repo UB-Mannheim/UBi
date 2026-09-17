@@ -1,4 +1,4 @@
-
+<en_url>https://www.bib.uni-mannheim.de/en/</en_url>
 
 
 # [Verfolgungsbedingt entzogenes Kulturgut im Bestand der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/)
@@ -49,6 +49,12 @@ Ressource-Gesellschaft
 
 
 
+### [Zum Tag der Provenienzforschung 2026](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/zum-tag-der-provenienzforschung-2026/)
+
+Zum Tag der Provenienzforschung 2026
+
+
+
 ## Kontakt
 
 Sie haben Fragen zum Projekt? Sprechen Sie uns gerne an.
@@ -66,9 +72,9 @@ Wissenschaftliche Mitarbeiterin Provenienzforschung
 
 
 
-### Viktor Boecking, M.A.
+### Viktor Boecking, M.A. (er/ihm)
 
-Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
+Leiter der Abteilung Kommunikation | Fachreferent für Geschichte
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
 - E-Mail: viktor.boecking@uni-mannheim.de

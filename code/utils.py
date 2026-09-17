@@ -2,16 +2,17 @@ import datetime
 import hashlib
 import json
 import os
+import re
 import shutil
-import yaml
-from dotenv import load_dotenv
 from pathlib import Path
-from rich import print
 from typing import List
 from urllib.parse import urlparse
 
-from config import ENV_PATH
+import yaml
+from dotenv import load_dotenv
+from rich import print
 
+from config import ENV_PATH
 
 UI_VARS_FILE = Path("./public/ui_vars.json")
 
@@ -215,6 +216,49 @@ def get_current_hashes(directory) -> dict:
     return hashes
 
 
+def get_files_missing_from_output(
+    source_dir,
+    output_dir,
+    return_path_objects: bool = False,
+) -> list[str] | list[Path]:
+    """
+    Find .md files that exist in source_dir but are missing from output_dir.
+
+    This acts as a sanity check: files that were deleted from the output
+    directory (e.g. by post-processing merge steps like process_standorte)
+    but still exist in the source directory need to be reprocessed via LLM
+    so that downstream merge steps can run successfully.
+
+    Args:
+        source_dir: Directory containing source .md files (e.g. CRAWL_DIR)
+        output_dir: Directory that should contain processed .md files (e.g. DATA_DIR)
+        return_path_objects: If True, return resolved Path objects rooted in
+                             source_dir; if False, return plain filenames.
+
+    Returns:
+        List of filenames or Path objects for files present in source_dir
+        but absent from output_dir.
+    """
+    source_path = Path(source_dir)
+    output_path = Path(output_dir)
+
+    if not source_path.exists() or not output_path.exists():
+        return []
+
+    source_files = {f.name for f in source_path.glob("*.md")}
+    output_files = {f.name for f in output_path.glob("*.md")}
+
+    missing = source_files - output_files
+
+    if not missing:
+        return []
+
+    if return_path_objects:
+        return [(source_path / fname).resolve() for fname in sorted(missing)]
+    else:
+        return sorted(missing)
+
+
 def get_new_or_modified_files_by_hash(
     directory, hash_file="md_hashes.json", return_path_objects: bool = False
 ) -> list[str] | list[Path]:
@@ -325,8 +369,11 @@ def print_openai_extracted_data(results_data, usage_data):
 
 def escape_colons_in_yaml_values(line: str) -> str:
     """
-    Escape colons in YAML values to prevent parsing errors.
-    Only escapes colons that appear after the first colon (key: value).
+    Quote YAML plain-scalar values only when they contain unsafe `: ` tokens.
+
+    This keeps valid values unchanged (e.g. URLs like `https://...` and
+    flow-style collections like `[a, b]` / `{a: b}`) while making plain text
+    values with embedded `: ` parseable.
     """
     if ":" not in line:
         return line
@@ -338,27 +385,38 @@ def escape_colons_in_yaml_values(line: str) -> str:
 
     key, value = parts
 
-    # If value is quoted, don't escape colons inside quotes
-    if value.strip().startswith('"') and value.strip().endswith('"'):
+    value_stripped = value.strip()
+
+    # Empty values and already-quoted values are valid as-is.
+    if not value_stripped:
         return line
-    if value.strip().startswith("'") and value.strip().endswith("'"):
+    if value_stripped.startswith('"') and value_stripped.endswith('"'):
+        return line
+    if value_stripped.startswith("'") and value_stripped.endswith("'"):
         return line
 
-    # If value is a list (starts with [), don't escape colons inside brackets
-    if value.strip().startswith("["):
+    # Leave flow-style values and block scalar indicators untouched.
+    if value_stripped[0] in "[{|>":
         return line
 
-    # Escape colons in the value part by wrapping in quotes
-    if (
-        ":" in value
-        and not value.strip().startswith('"')
-        and not value.strip().startswith("'")
-    ):
-        # Wrap the entire value in quotes to escape colons
-        escaped_value = f'"{value.strip()}"'
-        return f"{key}: {escaped_value}"
+    # Split off inline comments so `: ` inside comments does not trigger quoting.
+    comment = ""
+    comment_match = re.search(r"\s+#", value)
+    if comment_match:
+        value_without_comment = value[: comment_match.start()]
+        comment = value[comment_match.start() :]
+    else:
+        value_without_comment = value
 
-    return line
+    plain_value = value_without_comment.strip()
+    if not re.search(r":\s", plain_value):
+        return line
+
+    escaped_value = plain_value.replace("\\", "\\\\").replace('"', '\\"')
+    processed_line = f'{key}: "{escaped_value.replace(":", " –")}"'
+    if comment:
+        processed_line += comment
+    return processed_line
 
 
 def parse_yaml_header(md_data: str | Path) -> dict:

@@ -3,7 +3,7 @@ title: Bibliotheksausweis für Privatpersonen – Anmeldung und Nutzung für Nic
 source_url_de: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/library-card/library-card-for-non-university-members/
 category: Benutzung
-tags: ['Bibliotheksausweis', 'Privatpersonen', 'Anmeldung', 'Gebühren', 'Chipkarte', 'InfoCenter', 'Metropolregion Rhein-Neckar', 'Nutzung']
+tags: ['Bibliotheksausweis', 'Privatpersonen', 'Anmeldung', 'Gebühren', 'InfoCenter', 'Metropolregion Rhein-Neckar', 'Nutzung', 'Kontakt']
 language: de
 ---
 
@@ -15,7 +15,7 @@ Wenn Sie in der Metropolregion Rhein-Neckar oder in Baden-Württemberg wohnen, a
 
 Mit der UB-Chipkarte und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 
-- Medien im Ausleihzentrum Westflügel ausleihen (außer aus der Lehrbuchsammlung)
+- Medien im Ausleihzentrum Westflügel ausleihen (ausgenommen Lehrbuchsammlung)
 - drucken, kopieren, scannen
 - Medien über die Fernleihe bestellen
 - lizenzierte elektronische Medien an den PCs der UB nutzen (kein Fernzugriff möglich)
@@ -23,10 +23,7 @@ Mit der UB-Chipkarte und Ihren Zugangsdaten (Uni-ID und Passwort) können Sie:
 
 [Metropolregion Rhein-Neckar](https://de.wikipedia.org/wiki/Metropolregion_Rhein-Neckar#/media/File:ZMRN.png)
 
-**Hinweise:**
-
-- Internetnutzung und WLAN sind nur für Angehörige der Universität möglich.
-- Die Lernräume der UB können ohne Bibliotheksausweis genutzt werden.
+**Hinweis:** Internetnutzung und WLAN sind nur für Angehörige der Universität möglich. Die Lernräume der UB können Sie ohne Bibliotheksausweis nutzen.
 
 ## Anmeldung
 
@@ -45,7 +42,7 @@ Bei Verlust oder Defekt Ihrer UB-Chipkarte wenden Sie sich bitte an die Infothek
 - Alle Benachrichtigungen (z. B. Vormerkungen, Mahnungen) werden an die im Formular „Online-Anmeldung für Externe“ angegebene E-Mail-Adresse gesendet.
 - Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Bitte bringen Sie dazu Ihren Personalausweis oder alternativ Ihren Reisepass mit Meldebescheinigung mit.
 
-## Weitere Informationen
+Weitere Informationen:
 
 - [Bibliotheksausweis für Angehörige der Universität Mannheim](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/)
 - [Bibliotheksausweis für Angehörige der Uni HD, DHBW, HS MA, HS LU und anderer kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)

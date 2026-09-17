@@ -39,14 +39,14 @@ Ausstellungen
 
 Bibliotheksbereich A5
 Soziologie, Politikwissenschaft, Mathematik und Informatik
-EDZMZES
+EDZ
 
 
 
 ### [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/)
 
 Bibliotheksbereich Schloss Ehrenhof
-Rechtswissenschaft, Volkswirtschaftslehre und Geschichte, Ernst & Young Bibliothek für Accounting, Business Taxation and Tax Law
+Rechtswissenschaft, Volkswirtschaftslehre und Geschichte, Bibliothek für Accounting, Business Taxation and Tax Law
 Schulungsraum
 
 

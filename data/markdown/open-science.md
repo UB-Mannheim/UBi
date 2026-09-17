@@ -53,9 +53,9 @@ The Open Science Council serves as a advisory body which suppports the Open Scie
 
 
 
-### Using Quarto to Create Reproducible Manuscripts
+### Systematic Literature Reviews: Dos and Don'ts
 
 
 
-### Research Funding Requirements for Open Science and Research ...
+### Preparing ERC 2027 Proposals: Open Science and Research Data ...
 

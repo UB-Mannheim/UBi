@@ -1,9 +1,9 @@
 ---
-title: Digitale Methoden und Ressourcen für die Geisteswissenschaften – Angebote und Informationen der Universitätsbibliothek Mannheim
+title: Digitale Methoden und Angebote für die Geisteswissenschaften – Services und Ressourcen der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/
 source_url_en: https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/digital-humanities-1/
 category: Services
-tags: ['Digital Humanities', 'Forschungsdaten', 'Repositorien', 'Publikation', 'Geisteswissenschaften', 'Tools', 'Tutorials', 'Open Access']
+tags: ['Digital Humanities', 'Forschungsdaten', 'Repositorien', 'Publikationsservices', 'Geisteswissenschaften', 'Open Access', 'Forschungsinfrastruktur', 'Selbstlernmaterialien']
 language: de
 ---
 
@@ -15,7 +15,7 @@ Die vielfältigen Quellen geisteswissenschaftlicher Forschung wie Texte, Bilder,
 
 Digitale Editionen übertragen die Praxis der kritischen Texterschließung ins Digitale, erweitern Zugänglichkeit, Durchsuchbarkeit und Analysierbarkeit von Quellen und ermöglichen verschiedene Perspektiven und Interaktivität in der Darstellung. Quantitative Untersuchungen auf großen Quellenkorpora ermöglichen neue Erkenntnisse, die die hermeneutische Untersuchung individueller Quellen ergänzen können. Visualisierungen machen Beziehungen in den Daten sichtbar. Auch die digitale Kultur selbst sowie die kritische Reflektion und Vermittlung digitaler Methoden sind Gegenstand der digital orientierten Geisteswissenschaften.
 
-## Tutorials und Selbstlernmaterialien
+### Tutorials und Selbstlernmaterialien
 
 - [Programming Historian](https://programminghistorian.org/): Peer-reviewed Tutorials zu DH-Tools für Einsteiger*innen bis Expert*innen
 - [TEI/XML Grundlagenkurs](https://de.dariah.eu/tei-tutorial): Internationaler Auszeichnungsstandard für Texte
@@ -24,13 +24,13 @@ Digitale Editionen übertragen die Praxis der kritischen Texterschließung ins D
 - [Social Sciences and Humanities Open Marketplace](https://teaching.clariah.de/search/search/simple/): Internationale Alternative für Tutorials
 - [Forschungssoftware & Datenformate in den Geistes- & Sozialwissenschaften](https://www.studon.fau.de/studon/goto.php?target=lm_2993840): Allgemeiner, frei verfügbarer Kurs
 
-## Einstiegstools
+### Einstiegstools
 
 - [Voyant](https://voyant-tools.org/): Quantitative Textanalyse und Visualisierung für Texte oder Korpora
 - [DARIAH-DE-Geobrowser](https://geobrowser.de.dariah.eu/doc/geobrowser.html): Einstieg in Geovisualisierungen
 - [TAPOR3](https://tapor.ca/home): Kuratierte Toolsammlung für Textanalyse
 
-## Literatur
+### Literatur
 
 - Jannidis, F., Kohle, H. & Rehbein, M. (2024). Digital Humanities: eine Einführung (2., aktualisierte und erweiterte Auflage). Stuttgart.
 - Kurz, S. (2016). [Digital Humanities: Grundlagen und Technologien für die Praxis](https://doi.org/10.1007/978-3-658-11213-4) (2. Aufl.). Wiesbaden.
@@ -65,17 +65,16 @@ In den Digital Humanities gibt es zahlreiche Initiativen für offene Publikation
 
 ## Übergreifende Strukturen
 
-Akteure und Netzwerke im Bereich Digital Humanities bieten Informations- und Austauschformate sowie Ansprechpersonen.
+Hier finden Sie zentrale Akteure im Bereich Digital Humanities, die Informationsangebote und Austauschformate bereitstellen.
 
 ### Verbände, Initiativen und Austauschformate
 
 - [Verband für Digital Humanities im deutschsprachigen Raum](https://dig-hum.de/) und [Mailingliste](https://dig-hum.de/dhd-mailingliste)
 - [Alliance of Digital Humanities Organisations](http://https)
-- NFDI-Konsortien für die Geisteswissenschaften:
-  - [Text+](https://text-plus.org/): Regelmäßige [offene Sprechstunde „Research Rendezvous“](https://events.gwdg.de/category/208/) zu text- und sprachbezogenen Forschungsdaten
-  - [NFDI4Culture](https://nfdi4culture.de/de/index.html): Zuständig für Forschungsdaten materieller und immaterieller Kulturgüter, mit eigenem [Helpdesk](https://nfdi4culture.de/de/helpdesk.html)
 - [CLARIAH-DE](https://www.clariah.de): Digitale Forschungsinfrastruktur für die Geisteswissenschaften
-- Weitere fachspezifische Informationen, z. B. beim [FID Romanistik](https://fid-romanistik.de/forschungsdaten)
+- [FID Romanistik](https://fid-romanistik.de/forschungsdaten): Fachinformationsdienst mit fachspezifischen Informationen
+- [Text+](https://text-plus.org/): Bietet regelmäßig eine [offene Sprechstunde „Research Rendezvous“](https://events.gwdg.de/category/208/) zu text- und sprachbezogenen Forschungsdaten
+- [NFDI4Culture](https://nfdi4culture.de/de/index.html): Zuständig für Forschungsdaten materieller und immaterieller Kulturgüter, mit eigenem [Helpdesk](https://nfdi4culture.de/de/helpdesk.html)
 
 ## Unser Angebot
 

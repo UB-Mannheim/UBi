@@ -5,9 +5,9 @@
 
 
 
-### Dr. Jorge Murcia Serra
+### Dr. Jordi Murcia Serra
 
-Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI
+Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projektmitarbeiter AiDaLi
 
 Aufgaben:
 
@@ -17,23 +17,27 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Betreuung des Bereichs Informationskompetenz und E-Learning
 - Education & Training im ProjektBERD@NFDI
+- Mitarbeit im ProjektAiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
-- E-Mail: jorge.murcia@uni-mannheim.de
+- E-Mail: jordi.murcia.serra@uni-mannheim.de
 
 
-### Viktor Boecking, M.A.
+### Viktor Boecking, M.A. (er/ihm)
 
-Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
+Leiter der Abteilung Kommunikation | Fachreferent für Geschichte
 
 Aufgaben:
 
 - Kommunikation und Öffentlichkeitsarbeit
 - Projektleitung Provenienzforschung
+- Ausstellungs- & Veranstaltungsmanagement
+- Ansprechperson Diversität & Nachhaltigkeit
+- Betreuung der historischen Sammlungen
+- Betreuung Themenkomplex Fake Science
+- Informationskompetez & E-Learning
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
-- Betreuung der historischen Sammlungen
-- Konzipierung von Ausstellungen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
 - E-Mail: viktor.boecking@uni-mannheim.de

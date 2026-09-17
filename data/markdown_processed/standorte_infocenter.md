@@ -13,8 +13,8 @@ Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannhei
 
 Hier erhalten Sie:
 
-- [Elektronische Chipkarte ecUM](https://www.uni-mannheim.de/it/anleitungen/ecum/)
-- Bibliotheksausweis: [UB-Chipkarte für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
+- Die [elektronische Chipkarte ecUM](https://www.uni-mannheim.de/it/services-anleitungen/studierende/ecum/)
+- Den Bibliotheksausweis [UB-Chipkarte für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
 
 ## Sonderleseplätze
 
@@ -31,7 +31,7 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze
 
 | Wochentag | Uhrzeit |
 |--------------------------|------------|
-| Mo‒Fr (außer an Feiertagen) | 9–16 Uhr |
+| Mo–Fr (außer an Feiertagen) | 9–16 Uhr |
 
 Weitere Hinweise: [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 

@@ -11,7 +11,36 @@
 
 ## Aktuelle Stellenangebote
 
-Vielen Dank für Ihr Interesse. Zur Zeit haben wir keine Stellen zu besetzen.
+
+
+## Ausbildungsplatz zur/zum Fachangestellten für Medien- und Informationsdienste (FaMI)/Fachrichtung Bibliothek (m/w/d)
+
+An der Universitätsbibliothek Mannheim ist zum 1. September 2027 ein Ausbildungsplatz zur/zum Fachangestellten für Medien- und Informationsdienste (FaMI)/Fachrichtung Bibliothek (m/w/d) zu besetzen.
+Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/Stellenausschreibung_FaMI_2026.pdf) (PDF, 441 KB).
+Bewerbungsschluss ist der 19. Oktober 2026.
+Alle Infos zur Ausbildung finden Sie auf der [Website der Universität](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/).
+
+
+## Legal & Governance Officer (m/w/d)
+
+An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als**Legal & Governance Officer**(m/w/d, E 13 TV-L BW) zu besetzen.
+Bewerbungsschluss ist der 1. Oktober 2026.
+Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_26_11_EOSC_DE_akt2.pdf) (PDF, 796 KB).
+
+
+## Legal Counsel im Bereich Forschungsdaten (m/w/d)
+
+An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als Legal Counsel im Bereich Forschungsdaten (m/w/d, E 13 TV-L BW ) zu besetzen.
+Bewerbungsschluss ist der 1. Oktober 2026.
+Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_491_LegalCounsel_BERD_E13.pdf) (PDF, 862 KB).
+
+
+## IT-Systemspezialist*in (m/w/d)
+
+An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als IT-Systemspezialist*in  (m/w/d, bis E 10 TV-L BW) zu besetzen.
+Bewerbungsschluss ist der 21. September 2026.
+Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/IT-Spezialist_in_UB_466.pdf) (PDF, 464 KB).
+Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/).
 
 
 ## Ausbildung
@@ -21,8 +50,8 @@ Sie begeistern sich für Wissen und Medien, Daten und Digitales? Sie haben Freud
 
 ## Unser Ausbildungsangebot
 
-[Fachangestellte*r für Medien- und Informationsdienste](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet-mannheim/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellter-fuer-medien-und-informations-dienste/)
-[Ausbildung für den höheren Bibliotheksdienst an wissenschaftlichen Bibliotheken](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet-mannheim/ausbildung-duales-studium-praktikum/ausbildung/bibliotheksreferendariat/)
+Jetzt bewerben! [Fachangestellte*r für Medien- und Informationsdienste](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/)
+[Ausbildung für den höheren Bibliotheksdienst an wissenschaftlichen Bibliotheken](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/bibliotheksreferendariat/)
 
 
 ## Praktika

@@ -12,7 +12,7 @@ Alle E-Medien finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/pr
 
 ## Zugang
 
-Als**Studierende**und**Mitarbeiter*innen der Universität Mannheim**nutzen Sie unser Angebot:
+Als**Studierende**und**Mitarbeitende der Universität Mannheim**nutzen Sie unser Angebot:
 
 - auf dem Campus der Universität Mannheim an PCs und im WLAN eduroam.
 - außerhalb des Netzes der Universität Mannheim mit dem VPN-Client.Bitte beachten Sie, dass Sie bei der Anmeldung am VPN-Client die Gruppe „WebVPN“ auswählen. Mit „WebVPN-Split“ haben Sie keinen Zugriff auf lizenzierte elektronische Medien.
@@ -30,7 +30,7 @@ Wenn Sie zum wissenschaftlichen Personal der Universität Mannheim gehören, kö
 ## Fernzugriff einrichten
 
 Um den Fernzugriff einzurichten, müssen Sie sich auf dem Campus befinden. Registrieren Sie sich kostenlos bei beck-online mit Ihrer universitären E-Mail-Adresse und aktivieren Sie in Ihrem beck-online-Account die Zwei-Faktor-Authentifizierung. Sie benötigen eine Authentifizierungs-App Ihrer Wahl für Ihren PC/Mac oder Ihr Smartphone.
-Eine Anleitung finden Sie auf der [Website von beck-online](https://rsw.beck.de/beck-online-service/services/studenten/studenten-2fa).
+Eine Anleitung finden Sie auf der [Website von beck-online](https://beck-online.de/service/studierende/zugangsverfahren-via-2fa/).
 
 
 ## Fernzugriff nutzen
@@ -38,7 +38,7 @@ Eine Anleitung finden Sie auf der [Website von beck-online](https://rsw.beck.de/
 Wenn Sie sich außerhalb des Campus bei beck-online einloggen, werden Sie nach der Eingabe von Benutzernamen und Passwort zusätzlich um die Angabe eines Sicherheitscodes gebeten, den Ihre Authentifizierungs-App generiert.
 Bei Zugriffsproblemen wenden Sie sich bitte an e-medien.ub@uni-mannheim.de.
 **Studierende kooperierender Einrichtungen**und**Privatpersonen mit Bibliotheksausweis**können nur an den PCs der Universitätsbibliothek auf die meisten lizenzierten E-Medien zugreifen. Ein Zugriff von außerhalb der Universitätsbibliothek ist nicht möglich, weil die Lizenzverträge der Anbieter das nicht erlauben.
-Information der Universitäts-IT zu [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/)[VPN-Client](https://www.uni-mannheim.de/it/anleitungen/vpn/) der Universität Mannheim installieren
+Information der Universitäts-IT zu [eduroam](https://www.uni-mannheim.de/it/services-anleitungen/wlan/)[VPN-Client](https://www.uni-mannheim.de/it/services-anleitungen/vpn/) der Universität Mannheim installieren
 
 
 ## Nutzungsbedingungen

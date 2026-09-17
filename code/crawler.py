@@ -1,13 +1,14 @@
-import aiohttp
 import asyncio
-import click
 import re
-import requests
 import xml.etree.ElementTree as ET
-from bs4 import BeautifulSoup, Tag
 from pathlib import Path
 from typing import Optional
 from urllib.parse import urljoin, urlparse
+
+import aiohttp
+import click
+import requests
+from bs4 import BeautifulSoup, Tag
 from tqdm import tqdm
 
 import utils
@@ -210,16 +211,47 @@ def parse_uma_address_contact(element: Tag) -> list[str]:
     return lines
 
 
+def deobfuscate_email_elements(element: Tag) -> None:
+    """
+    Helper function to deobfuscate email addresses in-place by:
+    1. Replacing <span class="commat"></span> with "@"
+    2. Removing <span style="display:none">mail-</span> elements
+
+    This modifies the element tree directly before text extraction.
+    """
+    if not isinstance(element, Tag):
+        return
+
+    # Replace all <span class="commat"> with @ symbol
+    for commat_span in element.find_all("span", class_="commat"):
+        commat_span.replace_with("@")
+
+    # Remove all hidden <span style="display:none">mail-</span> elements
+    for hidden_span in element.find_all(
+        "span", style=lambda x: x and re.search(r"display\s*:\s*none\b", x) is not None
+    ):
+        if hidden_span.get_text(strip=True) == "mail-":
+            hidden_span.decompose()
+
+
 def parse_email(element: Tag):
     """
-    Helper function to parse e-mail addresses.
+    Helper function to parse e-mail addresses. Handles both `mail-` replacement
+    and obfuscation methods (<span class="commat">).
     """
     if not isinstance(element, Tag):
         return None
-    email_tag = element.find("a", href="#")
+
+    # Create a copy of the element and run email deobfuscation
+    element_copy = element.__copy__()
+    deobfuscate_email_elements(element_copy)
+
+    # Check for old email obfuscation (mail- replacement)
+    email_tag = element_copy.find("a", href="#")
     email = "".join(email_tag.stripped_strings) if email_tag else None
     if email:
-        email = re.sub(r"mail-", "@", email)
+        if "@" not in email:
+            email = re.sub(r"mail-", "@", email)
         return email
     else:
         return None
@@ -231,7 +263,11 @@ def parse_table(table_element: Tag):
     """
     markdown_table = ""
 
-    rows = table_element.find_all("tr")
+    # Deobfuscate possible email elements
+    table_copy = table_element.__copy__()
+    deobfuscate_email_elements(table_copy)
+
+    rows = table_copy.find_all("tr")
     for row in rows:
         cells = row.find_all(["th", "td"])
         row_content = (
@@ -240,6 +276,7 @@ def parse_table(table_element: Tag):
             + " |"
         )
         markdown_table += row_content + "\n"
+
         # Add header separator after first row
         if row.find("th") and rows.index(row) == 0:
             header_sep = "| " + " | ".join(["---"] * len(cells)) + " |"
@@ -247,6 +284,7 @@ def parse_table(table_element: Tag):
         elif not row.find("th") and rows.index(row) == 0:
             header_sep = "| " + " | ".join(["---"] * len(cells)) + " |"
             markdown_table += header_sep + "\n"
+
     return markdown_table
 
 
@@ -269,6 +307,10 @@ def find_specified_tags(
         returned text with a markdown heading level (h_level) based on the
         provided heading tag name (e.g., "h1", "h2").
         """
+        # Deobfuscate email addresses before text extraction
+        element = element.__copy__()
+        deobfuscate_email_elements(element)
+
         # Specific markdown mapping for UMA heading levels
         h_map = {
             "h1": "# ",
@@ -297,6 +339,13 @@ def find_specified_tags(
             href_text = (
                 a_tag.get_text() if isinstance(a_tag, Tag) else str(a_tag)
             )
+
+            # Skip anchors with empty text: <a href="https://example.org></a>
+            if not href_text:
+                utils.print_err(
+                    f"[bold yellow]Warning: empty anchor text for href={href!r} in {url}"
+                )
+                continue
 
             # Match absolute URLs
             if href.startswith("http"):
@@ -411,8 +460,10 @@ def find_specified_tags(
         elif "teaser-link" in class_attr:
             matched_tags.append(parse_href(element))
 
-        # <ul>, <ol>
-        elif element.name in ["ul", "ol"] and not element.has_attr("class"):
+        # <ul>, <ul class="ce-bullets"> or <ol>
+        elif (element.name in ["ul", "ol"]
+              and (not element.has_attr("class") or "ce-bullets" in class_attr)
+              ):
             li_elements = (
                 element.find_all("li", recursive=False)
                 if isinstance(element, Tag)
@@ -439,6 +490,7 @@ def find_specified_tags(
                 "Freie Sitzplätze",
                 "Auskunft und Beratung",
                 "Chat Mo–Fr",
+                "KI-Chatbot",
             ]
             icon_text = element.get_text(strip=True)
             if any(phrase in icon_text for phrase in footer_phrases):
@@ -488,6 +540,71 @@ def find_specified_tags(
                     )
     clean_tags = final_check(matched_tags)
     return clean_tags
+
+
+def cleanup_removed_urls(
+    urls: list[str],
+    crawl_dir: str = str(CRAWL_DIR),
+    data_dir: str = str(DATA_DIR),
+) -> list[str]:
+    """
+    Remove markdown files from crawl_dir and data_dir that no longer
+    correspond to any URL in the current URL list. This handles the case
+    where a URL was removed from urls.txt — the stale markdown files are
+    deleted from both the crawl output and the processed data directory.
+
+    Args:
+        urls: Current list of URLs to crawl.
+        crawl_dir: Directory containing crawled markdown files.
+        data_dir: Directory containing processed markdown files.
+
+    Returns:
+        List of filenames that were removed.
+    """
+    crawl_path = Path(crawl_dir)
+    if not crawl_path.exists():
+        return []
+
+    # Build set of expected filenames from current URLs
+    expected_files = {
+        utils.get_markdown_filepath_for_url(url, crawl_dir).name
+        for url in urls
+    }
+
+    # Find existing .md files in crawl_dir
+    existing_files = {f.name for f in crawl_path.glob("*.md")}
+
+    # Stale files: exist on disk but are not expected from any current URL
+    stale_files = existing_files - expected_files
+    if not stale_files:
+        return []
+
+    removed = []
+    for filename in sorted(stale_files):
+        # Remove from crawl_dir
+        crawl_file = crawl_path / filename
+        if crawl_file.exists():
+            utils.delete_filepath(crawl_file)
+            utils.print_info(
+                f"[bold blue]Removed {filename} from {crawl_dir} "
+                f"(URL no longer in URL list)"
+            )
+
+        # Remove corresponding file from data_dir
+        data_file = Path(data_dir) / filename
+        if data_file.exists():
+            utils.delete_filepath(data_file)
+            utils.print_info(
+                f"[bold blue]Removed {filename} from {data_dir} "
+                f"(URL no longer in URL list)"
+            )
+
+        removed.append(filename)
+
+    utils.print_info(
+        f"[bold green]Cleaned up {len(removed)} stale file(s) from removed URLs"
+    )
+    return removed
 
 
 def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = None):
@@ -617,12 +734,13 @@ def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = Non
     help="Only print errors to stdout. Suppresses progress bars and info messages.",
 )
 @click.option(
-    "--write-hashes-only",
+    "--write-snapshot",
     "-w",
+    is_flag=True,
     default=False,
     help="Only write file hashes for CRAWL_DIR and exit.",
 )
-def main(quiet: bool, write_hashes_only: bool) -> Optional[list[str] | list[Path]]:
+def main(quiet: bool, write_snapshot: bool) -> Optional[list[str] | list[Path]]:
     """
     Main crawling function.
     """
@@ -631,7 +749,7 @@ def main(quiet: bool, write_hashes_only: bool) -> Optional[list[str] | list[Path
         utils.set_quiet_mode(True)
 
     # Write hashes only and exit
-    if write_hashes_only:
+    if write_snapshot:
         utils.write_hashes_for_directory(CRAWL_DIR)
         return
 
@@ -674,6 +792,9 @@ def main(quiet: bool, write_hashes_only: bool) -> Optional[list[str] | list[Path
             output_dir=CRAWL_DIR,
             quiet=quiet or utils.is_quiet_mode(),
         )
+
+        # Clean up markdown files for URLs that were removed from urls.txt
+        cleanup_removed_urls(urls=urls, crawl_dir=str(CRAWL_DIR), data_dir=str(DATA_DIR))
     else:
         utils.print_err("[bold red]No URLs found to crawl. Exiting.")
         return

@@ -8,7 +8,7 @@
 ## Nutzen Sie den Service und die Expertise der UB, wenn Sie Literatur, Datenbanken oder Forschungsdaten beschaffen möchten.
 
 Die UB bestellt gedruckte Literatur schnell und unkompliziert zu günstigen Konditionen, koordiniert teure Anschaffungen, verhandelt Lizenz- und Datennutzungsverträge und achtet darauf, dass rechtliche Vorgaben eingehalten werden.
-Bei Werken über 500 Euro, Abonnements und Fortsetzungsbestellungen über 500 Euro Jahrespreis und bei digitalen Medien, Datenbanken und Datensätzen muss die UB in den Bestellprozess eingebunden werden. Weitere Informationen finden Sie in der [Beschaffungsrichtlinie der Universität](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/vergabe-und-beschaffung/bezug-bestimmter-waren-und-leistungen/literatur-medien-fakten-datenbanken-und-datensaetzen/).
+Bei Werken über 500 Euro, Abonnements und Fortsetzungsbestellungen über 500 Euro Jahrespreis und bei digitalen Medien, Datenbanken und Datensätzen muss die UB in den Bestellprozess eingebunden werden. Weitere Informationen finden Sie in der [Beschaffungsrichtlinie der Universität](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/beschaffung/bezug-bestimmter-waren-und-leistungen/literatur-medien-fakten-datenbanken-und-datensaetzen/).
 
 
 ## Bestellservice für Bücher und Zeitschriften
@@ -37,7 +37,7 @@ Auch ältere bereits laufende Bestellungen, die nicht über die UB ausgeführt w
 
 ## Datenbanken und Datennutzungsverträge
 
-Möchten Sie eine spezielle Datenbank oder Forschungsdaten bestellen? Dazu ist der Abschluss eines Lizenzvertrags notwendig. Zuständig dafür ist die Universitätsbibliothek – unabhängig davon, ob die lizenzierten Inhalte oder Daten campusweit oder nur für einzelne autorisierte Nutzerinnen und Nutzer zur Verfügung stehen, und unabhängig von der Art des Zugriffs oder der Bereitstellung. Informationen dazu finden Sie auch in der [Beschaffungsrichtlinie der Universität](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/vergabe-und-beschaffung/bezug-bestimmter-waren-und-leistungen/literatur-medien-fakten-datenbanken-und-datensaetzen/).
+Möchten Sie eine spezielle Datenbank oder Forschungsdaten bestellen? Dazu ist der Abschluss eines Lizenzvertrags notwendig. Zuständig dafür ist die Universitätsbibliothek – unabhängig davon, ob die lizenzierten Inhalte oder Daten campusweit oder nur für einzelne autorisierte Nutzerinnen und Nutzer zur Verfügung stehen, und unabhängig von der Art des Zugriffs oder der Bereitstellung. Informationen dazu finden Sie auch in der [Beschaffungsrichtlinie der Universität](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/beschaffung/bezug-bestimmter-waren-und-leistungen/literatur-medien-fakten-datenbanken-und-datensaetzen/).
 
 
 ## 1. Verhandlungsauftrag
@@ -60,5 +60,5 @@ Wenn das gewünschte Produkt zur Verfügung steht, teilt Ihnen die UB die Zugang
 
 Die Rechnung wird mit dem Leitkriterium der UB angefordert und im XRechnungsformat oder übergangsweise als PDF-Dokument per E-Mail an rechnungseingang@uni-mannheim.de gesendet. Die UB versieht die Rechnung dann mit einem Bearbeitungsvermerk und leitet sie in FIORI mit der Aufwandsart Sonstiges (Kürzel SO) zur Feststellung an Sie weiter. Nehmen Sie in diesem Fall bitte keine Änderungen an der Aufwandsart vor.
 Falls die Rechnung abweichend davon in FIORI bei Ihrer Einrichtung eingeht, ändern Sie die Aufwandsart bei der Feststellung in „Literatur, Daten, Open Access (UB)“. Die UB bestätigt anschließend in FIORI, dass sie beteiligt wurde.
-Weitere Informationen finden Sie in der [Beschaffungsrichtlinie der Universität](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/vergabe-und-beschaffung/bezug-bestimmter-waren-und-leistungen/literatur-medien-fakten-datenbanken-und-datensaetzen/).
+Weitere Informationen finden Sie in der [Beschaffungsrichtlinie der Universität](https://intranet.uni-mannheim.de/organisation/stabs-und-servicestellen/beschaffung/bezug-bestimmter-waren-und-leistungen/literatur-medien-fakten-datenbanken-und-datensaetzen/).
 Bei Fragen unterstützen wir Sie gerne: erwerbungsleitung.ub@uni-mannheim.de.

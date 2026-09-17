@@ -3,7 +3,7 @@ title: Einstieg und Angebote für neue Nutzer:innen der Universitätsbibliothek 
 source_url_de: https://www.bib.uni-mannheim.de/neu-hier/
 source_url_en: https://www.bib.uni-mannheim.de/en/getting-started/
 category: Benutzung
-tags: ['Bibliotheksausweis', 'InfoCenter', 'Erstiflyer', 'Lageplan', 'Internetzugang', 'Kurse', 'Tutorials', 'Einstieg']
+tags: ['Bibliotheksausweis', 'InfoCenter', 'Lageplan', 'Internetzugang', 'Kurse', 'Erstsemester', 'Führungen', 'Tutorials']
 language: de
 ---
 
@@ -25,7 +25,7 @@ Das InfoCenter ist Ihre zentrale Anlaufstelle für Auskunft und Beratung rund um
 
 ## Erstiflyer der UB
 
-[Erstiflyer der UB (PDF, 2,23 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Erstiflyer_2024-08_DE_digit.pdf)
+[Erstiflyer der UB (PDF, 497 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Erstiflyer_2024-08_DE_digit.pdf)
 
 Im Erstiflyer finden Sie kompakte Informationen für den Einstieg. Herzlich willkommen!
 
@@ -39,13 +39,13 @@ Hier finden Sie die Standorte der Universitätsbibliothek und erfahren, wo sich 
 
 [Internetzugang: WLAN, eduroam, VPN](https://www.bib.uni-mannheim.de/services/internetzugang/)
 
-Informationen zum WLAN-Netz eduroam, zum VPN-Client und zu den Angeboten der Universitäts-IT.
+Informationen zum WLAN-Netz eduroam, zum VPN-Client und zu Angeboten der Universitäts-IT.
 
 ## Kurse und Tutorials
 
 [Kurse, Führungen und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 
-Alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials und spezielle Angebote für Schulen.
+Überblick über alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials und spezielle Angebote für Schulen.
 
 ______________________________________________________________________
 

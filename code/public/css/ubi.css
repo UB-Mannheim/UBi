@@ -17,6 +17,28 @@ body {
     /* padding-top and padding-bottom are set by JS for header/footer */
 }
 
+#message-composer {
+    margin-bottom: 20px !important;
+}
+
+@media (min-width: 769px) {
+    body:has(#starters) #message-composer,
+    body:has(.custom-welcome-container) #message-composer,
+    body:has([data-custom-welcome]) #message-composer {
+        margin-bottom: 0 !important;
+    }
+}
+
+@media (max-width: 768px) {
+    #message-composer {
+        margin-bottom: 80px !important;
+    }
+}
+
+#app-footer {
+    background: transparent !important;
+}
+
 /* Light theme */
 :root {
     --primary: 209 100% 18% !important;

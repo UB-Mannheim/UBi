@@ -1,24 +1,30 @@
-<en_url>https://www.uni-mannheim.de/en/it/instructions/ecum/</en_url>
+<en_url>https://www.uni-mannheim.de/en/it/services-instructions/studierende/ecum/</en_url>
 
 
-# [Was ist die ecUM und welche Services bietet sie mir?](https://www.uni-mannheim.de/it/anleitungen/ecum/)
+# [ecUM – Studierendenausweis](https://www.uni-mannheim.de/it/anleitungen/ecum/)
 
-Die ecUM (electronic card Universität Mannheim) ist eine multifunktionale Chipkarte und dient als Studierenden-, Mitglieds- und Gastausweis an der Universität Mannheim.
-**Bitte beachten Sie: Ab dem 1. Juli 2025 wird die ecUM standardmäßig ohne Foto ausgestellt. Sie ist nur in Verbindung mit einem amtlichen Lichtbildausweis gültig.**
-**Bestandskarten mit Foto behalten ihre Gültigkeit und können weiterhin verwendet werden. Nur im Verlustfall kann eine neue ecUM ohne Foto beantragt werden.**
-Die Funktionen der ecUM als Studierenden- bzw. Mitgliedsausweis mit Gültigkeitsaufdruck:
+Die ecUM (electronic card Universität Mannheim) ist eine multifunktionale Chipkarte und dient als Studierenden-, Beschäftigten- und Gastausweis an der Universität Mannheim. Sie ermöglicht Ihnen den Zutritt zu verschiedenen Gebäuden und Räumen der Universität und fungiert gleichzeitig als Bibliotheksausweis. Außerdem können Sie bargeldlos in der Mensa sowie in der Cafeteria EO und im Café Soleil bezahlen.
+[ecUM für Beschäftigte](https://www.uni-mannheim.de/it/services-anleitungen/beschaeftigte/ecum/)[ecUM für Gasthörende](https://www.uni-mannheim.de/studium/lebenslanges-lernen/gasthoerendenstudium/#c22202)
+**Bitte beachten Sie: Ab dem 1. Juli 2025 wird die ecUM standardmäßig ohne Foto ausgestellt. Sie ist nur in Verbindung mit einem amtlichen Lichtbildausweis gültig. Die Änderung betrifft alle neu ausgestellten Karten.****Bestandskarten mit Foto behalten ihre Gültigkeit und können weiterhin verwendet werden.**
+- Funktionen der ecUMAlle Funktionen der ecUM im Überblick
+- FAQDie häufigsten Fragen zur ecUM
+- RechtlichesInfos zu Gebühren und Nutzungshinweisen
 
+
+## EcUM-Ausgabe Erstsemester
+
+In den Erstsemesterwochen vom 31. August bis 11. September 2026 findet die ecUM-Ausgabe für Erstsemester am [Express-Schalter](https://www.uni-mannheim.de/studium/im-studium/erstsemester/ecum-ausgabe/) statt.
+In der Regel wird die ecUM postalisch versendet. Falls eine Abholung erforderlich ist, werden Sie per E-Mail benachrichtigt.
+**Alle Funktionen der ecUM im Überblick:**
+
+- Mitgliedsausweis/ [Studierendenausweis](https://www.uni-mannheim.de/it/services-anleitungen/studierende/ecum/)/ Gastkarte/ Einrichtungs-Gastkarte
+- Zutritt zu verschiedenen Gebäuden und Räumen (auf Antrag, siehe Zutrittskontrolle)
 - Bibliotheksausweis (mit persönlicher Uni-ID)
-- Zutritt zu verschiedenen Gebäuden und Räumen
 - Bargeldlose Zahlung innerhalb der Mensa, Cafeteria EO und Café Soleil
 - Nutzung der Schließfächer der Bibliothek
+- Gültigkeitsaufdruck
 - Druckkonto aufladen
 
-Die Funktion der ecUM mit Einrichtungs-Gastkarte:
-
-- Zutritt zu bestimmten Gebäuden und Räumen
-
-Informationen zur ecUM als Gasthörendenausweis finden Sie unter [Gasthörendenstudium](https://www.uni-mannheim.de/studium/lebenslanges-lernen/gasthoerendenstudium/#c22202).
 
 
 ## FAQs
@@ -60,33 +66,36 @@ Ersatzkarten für StudierendeSollten Sie eine Ersatzkarte benötigen, z. B. weil
 
 ### Wie kann ich die Gültigkeit meiner ecUM aufdrucken und verlängern?
 
-Die Gültigkeit Ihrer ecUM muss direkt auf der Karte aufgedruckt und jedes Semester verlängert werden. Der Gültigkeitsaufdruck erfolgt an einem dedizierten Gültigkeitsdrucker in der Universität. Die Standorte der dedizierten Drucker (nur Gültigkeitsaufdruck) sind:
+Die Gültigkeit Ihrer ecUM muss direkt auf der Karte aufgedruckt und jedes Semester verlängert werden. Die Karte muss vorher einmalig aktiviert werden.
+Der Gültigkeitsaufdruck erfolgt an einem dedizierten Gültigkeitsdrucker in der Universität. Die Standorte der dedizierten Drucker (nur Gültigkeitsaufdruck) sind:
 
 - A 5 in der Bibliothek
 - A 3 in der Bibliothek im 1.OG
 - Schneckenhof Süd am InfoCenter
 - L 1, 1 Express Service
 - Ehrenhof West, in der Bibliothek im 2.OG
+- Ausleihzentrum Schloss Westflügel, in der Bibliothek im EG
 
 An den dedizierten Drucker müssen Sie die Karte nur einstecken und sie wird bedruckt und wieder ausgeworfen.
 
 
 ### Wie erhalte ich eine Ersatzkarte?
 
-Bei Verlust, Defekt oder Statuswechsel können Sie eine Ersatzkarte beantragen. Melden Sie sich hierfür bitte direkt  [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/). Bitte sperren Sie Ihre ecUM bei Verlustverdacht schnellstmöglich über die Seite [MyUni-ID](http://id.uni-mannheim.de). Bringen Sie nach Möglichkeit Ihre alte ecUM mit zum IT-Service-Desk, da wir sonst von einem Verlust der Karte ausgehen müssen.
+Bei Verlust, Defekt oder Statuswechsel können Sie eine Ersatzkarte beantragen. Melden Sie sich hierfür bitte direkt  [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/). Bitte sperren Sie Ihre ecUM bei Verlustverdacht schnellstmöglich über die Seite [MyUni-ID](http://id.uni-mannheim.de).
+Bringen Sie nach Möglichkeit Ihre alte ecUM mit zum IT-Service-Desk, da wir sonst von einem Verlust der Karte ausgehen müssen.
 
 
 ### Was kostet meine ecUM?
 
 Ihre ecUM stellen wir Ihnen grundsätzlich kostenlos zur Verfügung.
-Sie haben Ihre Karte verloren? Für eine verlorene ecUM wird gemäß [Gebührensatzung der Universität (PDF)](http://www2.uni-mannheim.de/rum/ueber_uns/arbeitsgruppen/itsms/ecum/aktuelles/01_09_2006_neue_gebuehren_fuer_ecum_chipkarten/gebuehrensatzungaktuell.pdf) eine Gebühr in Höhe von 15 Euro erhoben.
-**Ihr Name hat sich geändert oder Ihre ecUM ist kaputt?**Gerne erstellen wir Ihnen kostenfrei eine neue ecUM. Bringen Sie dafür bitte Ihre bisherige ecUM mit.
+Sie haben Ihre Karte verloren? Für eine verlorene ecUM wird gemäß [Gebührensatzung der Universität (PDF)](https://www.uni-mannheim.de/media/Einrichtungen/Justitiariat/Dokumente/260204_Lesefassung_Allgemeine_GebS_barrierefrei.pdf) eine Gebühr in Höhe von 15 Euro erhoben.
+**Ihr Name hat sich geändert oder Ihre ecUM ist kaputt?**Gerne erstellen wir Ihnen kostenfrei eine neue ecUM.
 
 
 ### Bezahlen mit der ecUM: Wo kann ich sie aufladen?
 
 **Bezahlen mit der ecUM**In den Mensen und Cafeterien können Sie immer Ihre ecUM-Karte als Zahlungsmittel nutzen. Zudem kann die ecUM auch zum Bezahlen in den Einrichtungen des Studierendenwerks sowie an den Kaffee- und Waschautomaten genutzt werden. Wir empfehlen, Ihren gesamten Zahlungsverkehr auf dem Campus auf Ihre ecUM umzustellen, da Sie so vom günstigsten Preis profitieren. In allen Mensen und Cafeterien kann zwar mindestens an einer Kasse auch in bar bezahlt werden, wegen des erhöhten Aufwands wird dabei allerdings ein Zuschlag von 25 Prozent auf den jeweiligen Kartenpreis berechnet.
-**Wo kann ich meine Karte aufladen?**Die ecUM kann an einigen Kassen in der Mensa, im Café Soleil und im EO aufgeladen werden. Wir empfehlen Ihnen das Autoload-Verfahren des Studierendenwerks Mannheim über die Autoload-Aufwerter.So können Sie schnell und bequem an den bargeldlosen Autoload-Aufwertern Ihre Karte aufladen:
+**Wo kann ich meine Karte aufladen?**Die ecUM kann an einigen Kassen in der Mensa, im Café Soleil und im EO aufgeladen werden. Wir empfehlen Ihnen das Autoload-Verfahren des Studierendenwerks Mannheim:
 [FAQs Autoload ecUM](https://www.stw-ma.de/Essen%2B_%2BTrinken/Bezahlen%2B_%2BAutoload-p-30.html)[Autoload einrichten](https://www.stw-ma.de/essen-trinken/autoload/)
 Sie benötigen Unterstützung? Bitte wenden Sie sich an das InfoCenter der Universitäts-IT, wenn Sie Probleme bei der Benutzung des SB-Terminals haben. Wir helfen Ihnen schnell und unkompliziert weiter. Sie finden uns im Schloss Schneckenhof Süd. Gerne sind wir auch telefonisch unter +49 621 181-3027 oder per E-Mail an id.unit@uni-mannheim.de für Sie da.
 
@@ -94,4 +103,26 @@ Sie benötigen Unterstützung? Bitte wenden Sie sich an das InfoCenter der Unive
 ### Ich habe meine ecUM verloren oder wiedergefunden. Was jetzt?
 
 Bitte sperren Sie Ihre ecUM bei Verlustverdacht schnellstmöglich über die Seite [MyUni-ID](http://id.uni-mannheim.de). Sollten Sie Ihre Karte wiederfinden, können Sie sie dort auch wieder entsperren.
-[alle Anleitungen auf einen Blick](https://www.uni-mannheim.de/it/anleitungen/)
+
+
+### Kann ich meine ecUM als Wiedereinschreiber*in weiter benutzen?
+
+Sie können die ecUM, die Sie bereits in Ihrem ersten Studium als Studierendenausweis erhalten haben, weiterhin nutzen.
+
+
+## Rechtliches
+
+
+
+### [Gebühren](https://www.uni-mannheim.de/media/Einrichtungen/Justitiariat/Dokumente/260204_Lesefassung_Allgemeine_GebS_barrierefrei.pdf)
+
+Gebühren
+Laut allgemeiner Gebührensatzung der Universität Mannheim werden Gebühren für eine ecUM (nur bei Ersatz- und Gastkarten) in Höhe von 15 Euro erhoben.
+
+
+
+### [Nutzungshinweise](https://www.uni-mannheim.de/media/Einrichtungen/it/Benutzerordnung_und_wichtige_Dokumente/ecUM_Benutzungshinweise_2014.pdf)
+
+Nutzungshinweise
+Bitte beachten Sie die allgemeinen Hinweise zur Benutzung der Chipkarte als Mitgliedsausweis.
+

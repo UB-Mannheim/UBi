@@ -1,9 +1,9 @@
 ---
-title: Kurse und Tutorials der Universitätsbibliothek Mannheim – Weiterbildungsangebote und Informationskompetenz
+title: Weiterbildungsmöglichkeiten und Informationskompetenz – Kurse und Tutorials der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/courses-and-tutorials/
 category: Services
-tags: ['Informationskompetenz', 'Kurse', 'Führungen', 'Tutorials', 'Data Literacy', 'Schulangebote', 'Fake News', 'Recherche']
+tags: ['Informationskompetenz', 'Kurse', 'Tutorials', 'Führungen', 'Data Literacy', 'Schulangebote', 'Fake News', 'Recherche']
 language: de
 ---
 
@@ -13,30 +13,44 @@ Die Universitätsbibliothek Mannheim bietet eine Vielzahl von Weiterbildungsmög
 
 ## Kursangebot im Überblick
 
-### [Kurse](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
+### Kurse
 
-Die Themen der Kurse reichen von Recherche in Fachdatenbanken über Literaturverwaltung bis hin zu Forschungsdaten. Sie richten sich an Studierende, Beschäftigte der Universität und alle Interessierten.
+Die Themen der Kurse reichen von Recherche in Fachdatenbanken über Literaturverwaltung bis hin zu Forschungsdaten. Die Kurse richten sich an Studierende, Beschäftigte der Universität und alle Interessierten.
 
-### [Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
+Weitere Informationen: [Kurse](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 
-In den Kursen der Study Skills-Reihe erhalten Sie nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben.
+### Study Skills
 
-### [Data Literacy an der Universität Mannheim](https://www.uni-mannheim.de/universitaet/lehre/lehrprojekte/data-literacy/)
+In den Kursen der Reihe "Study Skills" erhalten Teilnehmende nützliche Tipps zum wissenschaftlichen Recherchieren und Schreiben.
 
-Datenkompetenz für Studierende aller Fachbereiche.
+Weitere Informationen: [Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
-### [Führungen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fuehrungen/)
+### Data Literacy an der Universität Mannheim
+
+Das Lehrprojekt "Data Literacy" vermittelt Datenkompetenz für Studierende aller Fachbereiche.
+
+Weitere Informationen: [Data Literacy an der Universität Mannheim](https://www.uni-mannheim.de/universitaet/lehre/lehrprojekte/data-literacy/)
+
+### Führungen
 
 Zu Beginn jedes Semesters werden Führungen durch die Universitätsbibliothek angeboten.
 
-### [Tutorials](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw)
+Weitere Informationen: [Führungen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fuehrungen/)
+
+### Tutorials
 
 Mit Online-Tutorials können Sie Ihre Recherche- und Informationskompetenz erweitern und lernen, die Angebote der Universitätsbibliothek besser zu nutzen.
 
-### [Angebote für Schulen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/)
+Weitere Informationen: [Tutorials auf YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw)
 
-Lehrkräfte und Schülergruppen lernen die Universitätsbibliothek kennen und erhalten eine Einführung in die Literaturrecherche. Das Angebot richtet sich insbesondere an die gymnasiale Oberstufe.
+### Angebote für Schulen
 
-### [Fake News in der Wissenschaft](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fake-science-in-der-wissenschaft/)
+Lehrkräfte und Schülergruppen erhalten die Möglichkeit, die Universitätsbibliothek kennenzulernen und eine Einführung in die Literaturrecherche zu bekommen. Das Angebot richtet sich insbesondere an die gymnasiale Oberstufe.
 
-Fake News können in Form von manipulierten Forschungsergebnissen, gefälschten Studien oder irreführenden Interpretationen von Daten auftreten.
+Weitere Informationen: [Angebote für Schulen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/)
+
+### Fake News in der Wissenschaft
+
+Das Angebot thematisiert Fake News in der Wissenschaft, die in Form von manipulierten Forschungsergebnissen, gefälschten Studien oder irreführenden Interpretationen von Daten auftreten können.
+
+Weitere Informationen: [Fake News in der Wissenschaft](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fake-science-in-der-wissenschaft/)

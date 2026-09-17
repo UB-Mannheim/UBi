@@ -1,8 +1,9 @@
 ---
 title: Provenienzforschung zu NS-Raubgut im Bestand der Universitätsbibliothek Mannheim (2024–2026)
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/
+source_url_en: https://www.bib.uni-mannheim.de/en/
 category: Projekte
-tags: ['Provenienzforschung', 'NS-Raubgut', 'Restitution', 'Kulturgut', 'Universitätsbibliothek', 'Forschungsprojekt', 'Kooperationen', 'Geschichte']
+tags: ['Provenienzforschung', 'NS-Raubgut', 'Kulturgut', 'Restitution', 'Bibliotheksprojekte', 'Forschungsprojekte', 'Universitätsbibliothek', 'Kooperationen']
 language: de
 ---
 
@@ -20,7 +21,7 @@ Ziel des Projektes ist es, Raubgut in den Beständen der Universitätsbibliothek
 
 Zu diesem Zweck werden die Eingangsjournale der Wissenschaftlichen Stadtbibliothek überprüft, in denen die Erwerbungen inventarisiert wurden. Bei Unstimmigkeiten, wie auffälligen Erwerbungsorten, wird am einzelnen Buch geprüft, ob sich Hinweise auf Vorbesitzer\*innen identifizieren lassen. Neben Ex Libris-Aufklebern oder Stempeln können dies Widmungen, Signaturen oder Namenseinträge sein. Die Rechercheergebnisse werden in den Datenbanken [Looted Cultural Assets](https://www.lootedculturalassets.de/) und [Lost Art](https://www.lostart.de/) dokumentiert.
 
-## Weitere Informationen
+## Weiterführende Informationen
 
 - [Pressemitteilung](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/pressemitteilung/)
 - [Kooperationspartner](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/partner/)
@@ -28,6 +29,7 @@ Zu diesem Zweck werden die Eingangsjournale der Wissenschaftlichen Stadtbiblioth
 - [Bernhard-Kahn-Lesehalle 1907-1933](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/bkl/)
 - [Israelitisches Kranken- und Pfründnerhaus Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/israelitisches-kranken-und-pfruendnerhaus-mannheim/)
 - [Ressource-Gesellschaft](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/ressource-gesellschaft/)
+- [Zum Tag der Provenienzforschung 2026](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/zum-tag-der-provenienzforschung-2026/)
 
 ## Kontakt
 
@@ -41,11 +43,11 @@ Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 Telefon: +49 621 181-3365
 E-Mail: [ellen.wendel@uni-mannheim.de](mailto:ellen.wendel@uni-mannheim.de)
 
-## Projektorganisation
+### Projektorganisation
 
-### Viktor Boecking, M.A.
+#### Viktor Boecking, M.A. (er/ihm)
 
-Leiter der Abteilung Kommunikation, Fachreferent für Geschichte, E-Learning
+Leiter der Abteilung Kommunikation, Fachreferent für Geschichte
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 Telefon: +49 621 181-2938

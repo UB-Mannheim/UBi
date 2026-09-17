@@ -1,21 +1,19 @@
 ---
-title: Ausleihzentrum Schloss Westflügel – Zentrale Ausleihe und Fernleihe der Universitätsbibliothek Mannheim
+title: Ausleihzentrum Schloss Westflügel – Zentrale Ausleihe, Fernleihe und Services der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/central-lending-library-schloss-westfluegel/
 category: Standorte
-tags: ['Ausleihzentrum', 'Fernleihe', 'Lehrbücher', 'Öffnungszeiten', 'Selbstverbucher', 'Rückgabe', 'Arbeitsplätze', 'Universitätsbibliothek']
+tags: ['Ausleihzentrum', 'Fernleihe', 'Lehrbuchsammlung', 'Öffnungszeiten', 'Arbeitsplätze', 'Serviceangebot', 'Rückgabe', 'Universitätsbibliothek']
 language: de
 ---
 
 # Ausleihzentrum Schloss Westflügel
 
-Das Ausleihzentrum ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Ausleihen und Fernleihen. Studierende der Universität Mannheim sowie Angehörige kooperierender Einrichtungen können hier die wichtigsten Lehrbücher ausleihen.
+Das Ausleihzentrum Schloss Westflügel ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Ausleihen und Fernleihen. Studierende der Universität Mannheim sowie Angehörige kooperierender Einrichtungen können hier die wichtigsten Lehrbücher und weitere Medien ausleihen.
 
-- Bücher werden von den Nutzerinnen und Nutzern selbst aus dem Regal geholt und an den Selbstverbuchern auf das eigene Konto gebucht.
-- Bestellte oder vorgemerkte Medien stehen im Abholraum zur Verfügung.
-- Fernleihen werden an der Infotheke ausgegeben.
+Sie entnehmen die gewünschten Bücher selbst aus dem Regal und buchen sie an den Selbstverbuchern auf Ihr Bibliothekskonto. Bestellte oder vorgemerkte Medien stehen im Abholraum zur Verfügung. Fernleihen erhalten Sie an der Infotheke.
 
-Weitere Informationen zur Ausleihe: [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/)
+Weitere Informationen zur Ausleihe finden Sie unter: [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/)
 
 ## Öffnungszeiten
 
@@ -45,14 +43,24 @@ Telefon: +49 621 181-2949
 E-Mail: [ausleihe.ub@uni-mannheim.de](mailto:ausleihe.ub@uni-mannheim.de)
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/ausleihe-und-fernleihe/)
 
-
 ### Weitere Ansprechpersonen
 
-#### Michael Wagner
+#### Teamleitung
 
-**Teamleiter Ausleihe und Fernleihe**
+##### Michael Wagner
+
+Teamleiter Ausleihe und Fernleihe
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum S 047
 68161 Mannheim
 Telefon: +49 621 181-3166
+E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
+
+##### Stephanie Pellkofer
+
+Stellvertretende Teamleiterin Ausleihe und Fernleihe
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum S 063
+68161 Mannheim
+Telefon: +49 621 181-2720
 E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)

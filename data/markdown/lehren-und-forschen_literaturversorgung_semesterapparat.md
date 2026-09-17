@@ -116,8 +116,8 @@ Informationen zu freien Lehrmaterialien – Open Educational Resources (OER) –
 
 ### ILIAS-Beratung
 
-- Adresse: Universität Mannheim, Referat Hochschuldidaktik und eLearning, Kaiserring 10–16, 68161 Mannheim
-- E-Mail: hdzadmin@uni-mannheim.de
+- Adresse: Universität Mannheim, Zentrum für Lehren und Lernen, Schloss – Raum EO 186, 68161 Mannheim
+- E-Mail: eLearning@uni-mannheim.de
 
 
 ### Unterstützung bei urheberrechtlichen Fragen

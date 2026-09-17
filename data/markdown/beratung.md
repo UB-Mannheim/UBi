@@ -24,7 +24,7 @@ Sie möchten Ihre wissenschaftliche Arbeit besser planen, entspannter schreiben 
 
 
 
-### [Literaturverwaltung](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+### [Literaturverwaltung](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 Literaturverwaltung
 Das Team der UB unterstützt Sie bei der Nutzung von Zotero.

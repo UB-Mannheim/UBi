@@ -7,7 +7,7 @@
 
 ## Sie haben Fragen zu Ihrem Bibliotheksausweis, zur Literaturrecherche oder anderen Bibliotheksservices? Das InfoCenter ist Ihre zentrale Anlaufstelle für Auskunft und Beratung.
 
-Das InfoCenter wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und Universitätsbibliothek betrieben. Hier erhalten Sie die [elektronische Chipkarte ecUM](https://www.uni-mannheim.de/it/anleitungen/ecum/) oder den Bibliotheksausweis [UB-Chipkarte für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/).
+Das InfoCenter wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und Universitätsbibliothek betrieben. Hier erhalten Sie die [elektronische Chipkarte ecUM](https://www.uni-mannheim.de/it/services-anleitungen/studierende/ecum/) oder den Bibliotheksausweis [UB-Chipkarte für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/).
 
 
 ## Sonderleseplätze

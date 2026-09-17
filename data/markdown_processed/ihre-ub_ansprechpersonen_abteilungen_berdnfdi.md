@@ -1,37 +1,37 @@
 ---
-title: Kontakt und Team von BERD@NFDI an der Universitätsbibliothek Mannheim – Ansprechpartner, Aufgaben und Kontaktdaten
+title: Ansprechpartner und Aufgabenbereiche des BERD@NFDI-Teams an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/berdnfdi/
 category: Kontakt
-tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Rechtsberatung', 'Informationskompetenz', 'Publikationsservices', 'Projektmanagement', 'Universitätsbibliothek']
+tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Rechtsberatung', 'Informationskompetenz', 'Projektmanagement', 'Publikationsservices', 'Universitätsbibliothek']
 language: de
 ---
 
-# BERD@NFDI – Ansprechpartner und Aufgaben an der Universitätsbibliothek Mannheim
+# BERD@NFDI – Ansprechpartner und Aufgabenbereiche
 
-Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in den Bereichen Forschungsdatenmanagement, Data Science, rechtliche Fragestellungen, Informationskompetenz, E-Learning und Publikationsdienste. Nachfolgend finden Sie die zentralen Ansprechpartner, ihre Aufgabenbereiche und Kontaktdaten.
+Das Team BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in den Bereichen Forschungsdatenmanagement, Data Science, rechtliche Fragestellungen, Informationskompetenz, E-Learning und Publikationsdienste. Nachfolgend finden Sie die zentralen Ansprechpartner\*innen, deren Aufgabenbereiche und Kontaktdaten.
 
-## Team und Kontakt
+## Teammitglieder und Aufgaben
 
 ### Dr. Ulrich Krieger
 
 **Koordinator und Projektmanager für BERD@NFDI**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim
-- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 - Telefon: +49 621 181-2776
 - E-Mail: [ulrich.krieger@uni-mannheim.de](mailto:ulrich.krieger@uni-mannheim.de)
+- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 
 ### Dr. Regina Jutz
 
 **Projektmanagerin für BERD@NFDI**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 263, 68161 Mannheim
-- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 - Telefon: +49 621 181-2717
 - E-Mail: [regina.jutz@uni-mannheim.de](mailto:regina.jutz@uni-mannheim.de)
+- Web: [www.berd-nfdi.de](http://www.berd-nfdi.de)
 
-### Dr. Renat Shigapov
+### Dr. Renat Kaufmann
 
 **Lead Data Scientist | Projektleiter**
 
@@ -41,7 +41,7 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 - Vertretung der Universitätsbibliothek in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
-- E-Mail: [renat.shigapov@uni-mannheim.de](mailto:renat.shigapov@uni-mannheim.de)
+- E-Mail: [renat.kaufmann@uni-mannheim.de](mailto:renat.kaufmann@uni-mannheim.de)
 - ORCID: [0000-0002-0331-2558](https://orcid.org/0000-0002-0331-2558)
 
 ### Vasilka Paunova, LL.M.
@@ -49,15 +49,16 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 **Legal Counsel für BERD@NFDI und FDZ**
 
 - Unterstützung von Forschenden bei rechtlichen Fragestellungen im Forschungsdatenmanagement
-- Themen: Datenschutz, Urheberrecht, Lizenzrecht
+- Beratung zu Datenschutz, Urheberrecht und Lizenzrecht
 - Entwicklung des BERD-Datenschutzkonzepts und der Plattform-Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
+- ORCID: [0000-0002-8961-509X](https://orcid.org/0000-0002-8961-509X)
 
-### Dr. Jorge Murcia Serra
+### Dr. Jordi Murcia Serra
 
-**Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI**
+**Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projektmitarbeiter AiDaLi**
 
 - Literaturauswahl und -erschließung für das Fach Romanistik
 - Auswahl und Erschließung von Sprachlernmaterialien
@@ -65,9 +66,10 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 - Durchführung von Schulungen im Fachbereich
 - Betreuung des Bereichs Informationskompetenz und E-Learning
 - Education & Training im Projekt BERD@NFDI
+- Mitarbeit im Projekt AiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
-- E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
+- E-Mail: [jordi.murcia.serra@uni-mannheim.de](mailto:jordi.murcia.serra@uni-mannheim.de)
 
 ### Jan Kamlah
 
@@ -77,7 +79,7 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 - Telefon: +49 621 181-2777
 - E-Mail: [jan.kamlah@uni-mannheim.de](mailto:jan.kamlah@uni-mannheim.de)
 
-### Ellis Kolb
+### Ellis Kolb (keine/they/sie)
 
 **Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung**
 
@@ -88,8 +90,13 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
-- E-Mail: [vanessa.kolb@uni-mannheim.de](mailto:vanessa.kolb@uni-mannheim.de)
+- E-Mail: [ellis.kolb@uni-mannheim.de](mailto:ellis.kolb@uni-mannheim.de)
 
-## Weitere Informationen
+### Thomas Schmidt, M.A.
 
-Weitere Details zum Projekt und den Services finden Sie auf der offiziellen Website: [www.berd-nfdi.de](http://www.berd-nfdi.de)
+**Data Steward und Data Scientist für BERD@NFDI | Projektkoordination AiDaLi**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Telefon: +49 621 181-2954
+- E-Mail: [thomas.schmidt@uni-mannheim.de](mailto:thomas.schmidt@uni-mannheim.de)
+- ORCID: [0000-0003-3620-3355](https://orcid.org/0000-0003-3620-3355)

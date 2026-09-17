@@ -1,10 +1,13 @@
+from __future__ import annotations
+
 import datetime
 import os
+import time
+from typing import Optional
+
 import chainlit as cl
 from dotenv import load_dotenv
 from fastapi import Request, Response
-import time
-from typing import Optional
 
 # === UBi imports ===
 from config import ENV_PATH
@@ -24,13 +27,12 @@ from rss_reader import get_rss_items
 from session_stats import check_session_warnings, get_session_usage_message
 from translations import translate
 from utils import (
-    extract_openai_response_data,
-    print_openai_extracted_data,
     clean_old_backup_dirs,
+    extract_openai_response_data,
+    print_err,
     print_info,
-    print_err
+    print_openai_extracted_data,
 )
-
 
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
@@ -43,6 +45,7 @@ _quiet_mode = os.getenv("QUIET_MODE", "False").lower() == "true"
 # === Conditional Imports for OpenAI vectorstore / RAG logic ===
 if USE_OPENAI_VECTORSTORE:
     from openai import AsyncOpenAI
+
     from rag_openai import initialize_vectorstore
 else:
     from rag_local import create_rag_chain
@@ -102,7 +105,7 @@ async def set_starters(user=None, _language=None):
     return [
         cl.Starter(
             label="Öffnungszeiten",
-            message="Welche Bibliotheksbereiche der UB Mannheim haben jetzt geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite.",
+            message="Welche Bibliotheksbereiche der UB Mannheim haben geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite.",
         ),
         cl.Starter(
             label="Sitzplätze",
@@ -110,7 +113,7 @@ async def set_starters(user=None, _language=None):
         ),
         cl.Starter(
             label="Services",
-            message="Liste alle Dienstleistungen und Services der UB Mannheim für Studierende und Forschende auf.",
+            message="Erstelle eine übersichtliche Tabelle mit allen Dienstleistungen und Services der UB Mannheim für Studierende und Forschende in dieser Struktur: [Service](Link) | Erklärung.",
         ),
         cl.Starter(
             label="Standorte",
@@ -185,31 +188,38 @@ async def handle_openai_vectorstore_query(
     full_answer = ""
     try:
         stream = await client.responses.create(
-            model=os.getenv("CHAT_MODEL", "gpt-4.1-mini-2025-04-14"),
+            model=os.getenv("CHAT_MODEL", "gpt-5.4-mini"),
             input=chat_history,
             tools=[
                 {
                     "type": "file_search",
                     "vector_store_ids": [OPENAI_VECTORSTORE_ID],
-                    "max_num_results": 6,
+                    "max_num_results": 8,
                 }
             ],
             include=["file_search_call.results"] if not _quiet_mode else None,
             instructions=get_instructions(detected_language),
             stream=True,
-            #temperature=0,
+            reasoning={"effort": "low"},
+            text={"verbosity": "low"},
             service_tier="fast",
         )
+        tool_use_detected = False
         async for event in stream:
             if event.type == "response.completed" and not _quiet_mode:
                 results_data, usage_data = extract_openai_response_data(
                     event.response
                 )
                 print_openai_extracted_data(results_data, usage_data)
+            if (
+                event.type == "response.output_item.added"
+                and getattr(event.item, "type", "") == "file_search_call"
+            ):
+                tool_use_detected = True
             if event.type == "response.output_text.delta" and event.delta:
-                token = event.delta
-                await msg.stream_token(token)
-                full_answer += token
+                if tool_use_detected:
+                    await msg.stream_token(event.delta)
+                    full_answer += event.delta
     except Exception as e:
         error_response = (
             f"{translate('openai_api_error', detected_language)}: {e}"
@@ -356,7 +366,11 @@ async def handle_sitzplatz_route(
     """
     try:
         data = get_occupancy_data()
-        areas = data["areas"]
+        # omit areas with state 'closed'
+        areas = {
+            k: v for k, v in data["areas"].items()
+            if v.get('state', '') != 'closed'
+        }
 
         # Plot title and labels
         heading = translate("seats_last_updated", detected_language)
@@ -374,7 +388,7 @@ async def handle_sitzplatz_route(
         # Set the elements on the existing message
         msg.elements = [
             cl.Plotly(
-                name=plot_label, figure=fig, display="inline", size="large"
+                name=plot_label, figure=fig, display="inline", size="small"
             )
         ]
         await msg.update()

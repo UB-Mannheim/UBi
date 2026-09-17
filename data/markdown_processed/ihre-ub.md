@@ -1,13 +1,13 @@
 ---
-title: Überblick und Angebote der Universitätsbibliothek Mannheim
+title: Überblick und Angebote der Universitätsbibliothek Mannheim – Profil, Projekte, Ansprechpartner und mehr
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/
-category: Kontakt
-tags: ['Universitätsbibliothek', 'Mannheim', 'Stellenangebote', 'Projekte', 'Ausstellungen', 'Ansprechpartner', 'Publikationen', 'Rechtliche Grundlagen']
+category: Benutzung
+tags: ['Bibliotheksprofil', 'Serviceangebot', 'Projekte', 'Ausstellungen', 'Publikationen', 'Rechtliche Grundlagen', 'Ansprechpersonen', 'Stellenangebote']
 language: de
 ---
 
-# Ihre Universitätsbibliothek Mannheim
+# Ihre Universitätsbibliothek Mannheim – Überblick
 
 Wichtiges und Interessantes aus Ihrer Universitätsbibliothek: Informieren Sie sich über Stellenangebote, erfahren Sie alles zu Projekten und Ausstellungen der UB, oder finden Sie die Ansprechperson für Ihr Fach und für spezielle Fragen.
 

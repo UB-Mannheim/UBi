@@ -1,5 +1,6 @@
 import plotly.graph_objects as go
 import requests
+
 from translations import translate
 
 
@@ -10,7 +11,7 @@ def get_occupancy_data():
     return response.json()
 
 
-def make_plotly_figure(areas, detected_language: str = "German"):
+def make_plotly_figure(areas, detected_language: str = "German", absolute_values: bool = False):
     """
     Plot seat availability.
     """
@@ -41,16 +42,17 @@ def make_plotly_figure(areas, detected_language: str = "German"):
             colors.append("#002F5C")  # cooler green
 
         percent_text.append(f"{percent}%")
-        top_annotations.append(
-            dict(
-                x=name,
-                y=percent + 4,
-                text=f"{occupied} / {capacity}",
-                showarrow=False,
-                font=dict(size=14),
-                yanchor="bottom",
+        if absolute_values:
+            top_annotations.append(
+                dict(
+                    x=name,
+                    y=percent + 4,
+                    text=f"{occupied} / {capacity}",
+                    showarrow=False,
+                    font=dict(size=14),
+                    yanchor="bottom",
+                )
             )
-        )
 
     fig = go.Figure(
         data=[
@@ -87,10 +89,13 @@ def make_plotly_figure(areas, detected_language: str = "German"):
             gridcolor="rgba(0,0,0,0.05)",
             zeroline=False,
             showline=False,
+            fixedrange=True,
         ),
-        xaxis=dict(tickfont_size=14, showline=False),
-        height=550,
-        margin=dict(t=80, b=70, l=60, r=60),
+        xaxis=dict(tickfont_size=14, showline=False, fixedrange=True),
+        autosize=True,
+        height=350,
+        margin=dict(t=60, b=50, l=50, r=30),
+        modebar_remove=['zoom', 'pan', 'lasso', 'select', 'zoomIn2d', 'zoomOut2d', 'autoscale2d', 'resetScale2d', 'toggleSpikelines'],
         annotations=top_annotations,
     )
 

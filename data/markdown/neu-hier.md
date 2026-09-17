@@ -26,7 +26,7 @@ Ihre zentrale Anlaufstelle für Auskunft und Beratung
 ### [Erstiflyer der UB](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Erstiflyer_2024-08_DE_digit.pdf)
 
 Erstiflyer der UB
-Infos für den Einstieg finden Sie in unserem Erstiflyer (PDF, 2,23 MB). Herzlich willkommen!
+Infos für den Einstieg finden Sie in unserem Erstiflyer (PDF, 497 KB). Herzlich willkommen!
 
 
 

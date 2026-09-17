@@ -100,12 +100,14 @@ https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/
 https://www.bib.uni-mannheim.de/medien/fachliche-recherche/soziologie/
 https://www.bib.uni-mannheim.de/medien/fachliche-recherche/volkswirtschaftslehre/
 https://www.bib.uni-mannheim.de/medien/fernleihe/
+https://www.bib.uni-mannheim.de/medien/fernleihe/bestellformular-fuer-fernleihen/
 https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/
 https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/
 https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/
 https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/
 https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/
 https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/
+https://www.bib.uni-mannheim.de/medien/primo-suchtipps/
 https://www.bib.uni-mannheim.de/medien/sammlungen/
 https://www.bib.uni-mannheim.de/medien/weitere-kataloge/
 https://www.bib.uni-mannheim.de/medien/zeitungen/
@@ -120,6 +122,7 @@ https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-f
 https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/
 https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/
 https://www.bib.uni-mannheim.de/services/internetzugang/
+https://www.bib.uni-mannheim.de/services/ki-an-der-ub/
 https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/
 https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/
 https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/
@@ -143,3 +146,9 @@ https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen
 https://www.uni-mannheim.de/open-science/
 https://www.uni-mannheim.de/open-science/open-science-office/
 https://www.uni-mannheim.de/it/anleitungen/ecum/
+https://www.uni-mannheim.de/gip/
+https://www.uni-mannheim.de/gip/ueber-uns/team/
+https://www.uni-mannheim.de/gip/ueber-uns/haeufig-gestellte-fragen/
+https://www.uni-mannheim.de/gip/fragen-im-gip-stellen/
+https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/
+https://www.uni-mannheim.de/universitaet/lehre/lehrprojekte/data-literacy/

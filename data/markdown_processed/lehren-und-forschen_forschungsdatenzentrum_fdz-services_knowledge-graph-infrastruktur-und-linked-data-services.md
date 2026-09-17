@@ -1,9 +1,9 @@
 ---
-title: Knowledge Graph Infrastruktur und Linked Data Services – Services und Beratung des Forschungsdatenzentrums
+title: Knowledge Graph Infrastruktur und Linked Data Services – Services und Beratung des Forschungsdatenzentrums (FDZ) der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/knowledge-graph-infrastructure-and-linked-data-services/
 category: Services
-tags: ['Knowledge Graph', 'Linked Data', 'FAIR', 'Metadaten', 'Ontologien', 'Forschungsdaten', 'Beratung', 'Wikidata']
+tags: ['Knowledge Graph', 'Linked Data', 'FAIR', 'Metadaten', 'Ontologien', 'Forschungsdaten', 'Beratung', 'Universitätsbibliothek']
 language: de
 ---
 
@@ -38,7 +38,7 @@ Beispiel: Profil von Christian Bizer bei [Wikidata](https://www.wikidata.org/wik
 ## Kontakt
 
 **Forschungsdatenzentrum (FDZ)**
-Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
+Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Kaufmann, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

@@ -56,17 +56,16 @@ Diese und weitere E-Books finden Sie auch im [Katalog Primo](https://primo.bib.u
 
 Bekannte und viel genutzte Anlaufstellen für Forschungsdaten sind etwa:
 [C](http://ckan.org/)[KAN](https://ckan.org/)
-[Web Data Commons](http://webdatacommons.org/)
+[Web Data Commons](https://webdatacommons.org/)
 
 
 ### Fachliche Internetquellen
 
 [Wolfram Alpha](https://www.wolframalpha.com/) – semantische Suchmaschine (auf Mathematica basierend)
 [Virtuelle Fachbibliothek Mathematik](https://fidmath.de/) – Rechercheportal
-[MathGuide](http://www.mathguide.de/index.html) – Internetführer Mathematik der SUB Göttingen
 [Oberwolfach Photo Collection](https://opc.mfo.de/) – Photos von Mathematikern aus aller Welt
 [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php) – „mathematische Abstammung“ erforschen
-[](http://webdatacommons.org/)[[](http://webdatacommons.org/)T[](http://webdatacommons.org/)h[](http://webdatacommons.org/)e[](http://webdatacommons.org/)s[](http://webdatacommons.org/)i[](http://webdatacommons.org/)s[](http://webdatacommons.org/) [](http://webdatacommons.org/)G[](http://webdatacommons.org/)u[](http://webdatacommons.org/)i[](http://webdatacommons.org/)d[](http://webdatacommons.org/)e[](http://webdatacommons.org/)][](http://webdatacommons.org/)([](http://webdatacommons.org/)h[](http://webdatacommons.org/)t[](http://webdatacommons.org/)t[](http://webdatacommons.org/)p[](http://webdatacommons.org/)s[](http://webdatacommons.org/):[](http://webdatacommons.org/)/[](http://webdatacommons.org/)/[](http://webdatacommons.org/)t[](http://webdatacommons.org/)h[](http://webdatacommons.org/)e[](http://webdatacommons.org/)s[](http://webdatacommons.org/)i[](http://webdatacommons.org/)s[](http://webdatacommons.org/)g[](http://webdatacommons.org/)u[](http://webdatacommons.org/)i[](http://webdatacommons.org/)d[](http://webdatacommons.org/)e[](http://webdatacommons.org/).[](http://webdatacommons.org/)o[](http://webdatacommons.org/)r[](http://webdatacommons.org/)g[](http://webdatacommons.org/)/[](http://webdatacommons.org/))[](http://webdatacommons.org/) [](http://webdatacommons.org/)–[](http://webdatacommons.org/) [](http://webdatacommons.org/)A[](http://webdatacommons.org/)d[](http://webdatacommons.org/)v[](http://webdatacommons.org/)i[](http://webdatacommons.org/)c[](http://webdatacommons.org/)e[](http://webdatacommons.org/) [](http://webdatacommons.org/)f[](http://webdatacommons.org/)o[](http://webdatacommons.org/)r[](http://webdatacommons.org/) [](http://webdatacommons.org/)g[](http://webdatacommons.org/)r[](http://webdatacommons.org/)e[](http://webdatacommons.org/)a[](http://webdatacommons.org/)t[](http://webdatacommons.org/) [](http://webdatacommons.org/)c[](http://webdatacommons.org/)o[](http://webdatacommons.org/)m[](http://webdatacommons.org/)p[](http://webdatacommons.org/)u[](http://webdatacommons.org/)t[](http://webdatacommons.org/)e[](http://webdatacommons.org/)r[](http://webdatacommons.org/) [](http://webdatacommons.org/)s[](http://webdatacommons.org/)c[](http://webdatacommons.org/)i[](http://webdatacommons.org/)e[](http://webdatacommons.org/)n[](http://webdatacommons.org/)c[](http://webdatacommons.org/)e[](http://webdatacommons.org/) [](http://webdatacommons.org/)t[](http://webdatacommons.org/)h[](http://webdatacommons.org/)e[](http://webdatacommons.org/)s[](http://webdatacommons.org/)i[](http://webdatacommons.org/)s[](http://webdatacommons.org/) [](http://webdatacommons.org/)p[](http://webdatacommons.org/)r[](http://webdatacommons.org/)o[](http://webdatacommons.org/)j[](http://webdatacommons.org/)e[](http://webdatacommons.org/)c[](http://webdatacommons.org/)t[](http://webdatacommons.org/)s[](http://webdatacommons.org/) [](http://webdatacommons.org/)([](http://webdatacommons.org/)T[](http://webdatacommons.org/)U[](http://webdatacommons.org/) [](http://webdatacommons.org/)M[](http://webdatacommons.org/)ü[](http://webdatacommons.org/)n[](http://webdatacommons.org/)c[](http://webdatacommons.org/)h[](http://webdatacommons.org/)e[](http://webdatacommons.org/)n[](http://webdatacommons.org/))[](http://webdatacommons.org/)
+[Thesis Guide](https://thesisguide.org/) – Advice for great computer science thesis projects (TU München)
 
 
 ### Literaturstandorte
@@ -110,7 +109,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 
 

@@ -13,7 +13,7 @@
 
 
 - DVDs können Sie an speziell ausgestatteten Arbeitsplätzen in A3 ansehen.
-- Hauptamtliches wissenschaftliches Personal, Promotionsstudierende sowie Gastwissenschaftlerinnen und Gastwissenschaftler können DVDs für ein Semester ausleihen.
+- Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können DVDs für ein Semester ausleihen.
 - Studierende der Universität Mannheim können DVDs in der Hausarbeits- und Prüfungsvorbereitungszeit ausleihen, wenn sie eine [Dozentenbescheinigung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Dozentenbescheinigung_Mediathek_Ausleihe_2023.doc) (PDF, 285 KB) vorlegen.
 
 Wir sind Mitglied im [Netzwerk Mediatheken](https://www.netzwerk-mediatheken.de/).

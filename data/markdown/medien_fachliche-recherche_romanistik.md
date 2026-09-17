@@ -100,7 +100,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum [wissenschaftlichen Arbeite
 Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 
 
@@ -108,9 +108,9 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 
 
-### Dr. Jorge Murcia Serra
+### Dr. Jordi Murcia Serra
 
-Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI
+Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projektmitarbeiter AiDaLi
 
 Aufgaben:
 
@@ -120,7 +120,8 @@ Aufgaben:
 - Durchführung von Schulungen im Fachbereich
 - Betreuung des Bereichs Informationskompetenz und E-Learning
 - Education & Training im ProjektBERD@NFDI
+- Mitarbeit im ProjektAiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
-- E-Mail: jorge.murcia@uni-mannheim.de
+- E-Mail: jordi.murcia.serra@uni-mannheim.de
 Vertretung[Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/)

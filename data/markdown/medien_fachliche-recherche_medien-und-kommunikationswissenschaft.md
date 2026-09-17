@@ -36,7 +36,7 @@ Mehr Informationen hierzu finden Sie auf der Seite [Hinweise zur E-Book- und Dat
 - [Handbücher zur Sprach- und Kommunikationswissenschaft](https://www.degruyter.com/serial/hsk-b/html#volumes)
 - [Metzler Geisteswissenschaften](https://dbis.ur.de//detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&tid=0&titel_id=101014)
 - [Nomos eLibrary ](https://www.nomos-elibrary.de/?qms=1&slocal=0&q=&qtt=&qa=&qIdent=&qReihe=&qjv=&qjb=&page-search-location=Zugriff&page-search-location=Zugriff&filter-subject%5B%5D=40300&filter-subject%5B%5D=40000&filter-subject%5B%5D=40500&filter-subject%5B%5D=41200)
-- [Oxford Academic](https://academic.oup.com/search-results?allJournals=1&f_ContentType=Book&fl_SiteID=191&cqb=%5B%7B%22terms%22:%5B%7B%22filter%22:%22%22,%22input%22:%22communication%22%7D%5D%7D%5D&qb=%7B%22q%22:%22communication%22%7D&page=1)  z. B. [Oxford Handbook of Entertainment Theory](https://academic.oup.com/edited-volume/34268)
+- [Oxford Academic](https://academic.oup.com/search-results?allJournals=1&f_ContentType=Book&fl_SiteID=191&cqb=[{%22terms%22:[{%22filter%22:%22%22,%22input%22:%22communication%22}]}]&qb={%22q%22:%22communication%22}&page=1)  z. B. [Oxford Handbook of Entertainment Theory](https://academic.oup.com/edited-volume/34268)
 - [Oxford Research Encyclopedia of Communication](https://oxfordre.com/communication/browse/)
 - [Springer eBooks: Literature, Cultural & Media Studies](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Springer%20eBooks%20Literature,%20Cultural%20%26%20Media%20Studies&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0)
 - [Springer Link 'Communication Studies'](https://link.springer.com/search?facet-content-type=%22Book%22&facet-sub-discipline=%22Communication+Studies%22)  z. B. [Handbuch Politische Kommunikation](https://link.springer.com/book/10.1007/978-3-658-26233-4)
@@ -91,7 +91,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
-- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
+- [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
 
 
 
@@ -102,7 +102,7 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 
 
-### Ellis Kolb
+### Ellis Kolb (keine/they/sie)
 
 Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung
 
@@ -115,5 +115,5 @@ Aufgaben:
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
-- E-Mail: vanessa.kolb@uni-mannheim.de
+- E-Mail: ellis.kolb@uni-mannheim.de
 Vertretung[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)

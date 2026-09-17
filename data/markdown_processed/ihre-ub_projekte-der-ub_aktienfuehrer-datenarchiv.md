@@ -1,25 +1,26 @@
 ---
-title: Aktienführer-Datenarchiv – Digitales Finanzdatenarchiv der UB Mannheim
+title: Aktienführer-Datenarchiv – Digitales Finanzdatenarchiv der UB Mannheim (1979–1999)
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/aktienfuehrer-datenarchiv/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/aktienfuehrer-datenarchiv/
 category: Projekte
-tags: ['Aktienführer', 'Finanzdaten', 'Digitalisierung', 'Hoppenstedt', 'Forschungsdaten', 'Wirtschaftswissenschaften', 'Datenarchiv', 'UB Mannheim']
+tags: ['Finanzdaten', 'Digitalisierung', 'Wirtschaftswissenschaften', 'Forschungsdaten', 'Datenarchiv', 'DFG-Projekt', 'Hoppenstedt', 'UB Mannheim']
 language: de
 ---
 
 # Aktienführer-Datenarchiv
 
-Das Projekt **Aktienführer-Datenarchiv** der Universitätsbibliothek Mannheim zielt auf den Aufbau einer leistungsfähigen Dateninfrastruktur für historische Finanzdaten des deutschen Marktes. Im Fokus steht der Hoppenstedt-Aktienführer, eine bedeutende Datenquelle, die bis 1999 ausschließlich in gedruckter Form vorlag. Das Projekt digitalisiert die Aktienführer-Bände von 1979–1999 und stellt sie der Forschung zur Verfügung.
+Das Projekt **Aktienführer-Datenarchiv** der Universitätsbibliothek Mannheim zielt auf den Aufbau einer leistungsfähigen Dateninfrastruktur für historische Finanzdaten des deutschen Marktes. Im Fokus steht der Hoppenstedt-Aktienführer, eine bedeutende Datenquelle mit homogener Qualität und langer Historie, die bis 1999 ausschließlich in gedruckter Form vorlag.
 
-## Projektinformationen
+## Projektbeschreibung
 
-- **Förderung:** Deutsche Forschungsgemeinschaft (DFG)
-- **Laufzeit:** 2013–2015
-- **Projektseite:** [Aktienführer-Datenarchiv](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php)
+Ziel des Projekts ist die Digitalisierung und Bereitstellung der gedruckten Aktienführer-Bände von 1979–1999 für die Forschung. Die Daten werden strukturiert im Volltext und maschinenlesbar erfasst, um den Download in Standardformaten und die Weiterverarbeitung in Datenanalyseprogrammen zu ermöglichen. Zusätzlich werden die Bände als Image-Digitalisate präsentiert, um den Originalkontext zu erhalten.
 
-## Zielsetzung und Inhalte
+Mit diesem Projekt wird der Wissenschaft eine effiziente Zugriffsmöglichkeit auf außergewöhnliche und bedeutende Finanzdatenbestände geboten. Die Universitätsbibliothek Mannheim wird dadurch als wirtschaftswissenschaftliche Forschungsbibliothek weiter gestärkt.
 
-Die Digitalisierung ermöglicht eine strukturierte, maschinenlesbare Erfassung der Daten im Volltext. Forschende können die Daten in Standardformaten herunterladen und in Datenanalyseprogrammen weiterverarbeiten. Zusätzlich werden die Bände als Image-Digitalisate bereitgestellt, um den Originalkontext zu erhalten. Das Projekt bietet der Wissenschaft einen effizienten Zugang zu außergewöhnlichen und bedeutenden Finanzdatenbeständen und stärkt die UB Mannheim als wirtschaftswissenschaftliche Forschungsbibliothek.
+Weitere Informationen und Zugang zum Datenarchiv: [Aktienführer-Datenarchiv](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php)
+
+**Förderung:** Deutsche Forschungsgemeinschaft (DFG)
+**Laufzeit:** 2013–2015
 
 ## Kontakt
 

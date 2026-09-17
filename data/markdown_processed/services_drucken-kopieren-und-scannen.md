@@ -3,21 +3,19 @@ title: Drucken, Kopieren und Scannen in der Universitätsbibliothek Mannheim –
 source_url_de: https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/printing-copying-and-scanning/
 category: Services
-tags: ['Drucken', 'Kopieren', 'Scannen', 'Gebühren', 'ecUM', 'UB-Chipkarte', 'Papercut', 'Anleitung']
+tags: ['Drucken', 'Kopieren', 'Scannen', 'Gebühren', 'Papercut', 'ecUM', 'UB-Chipkarte', 'Scanservice']
 language: de
 ---
 
 # Drucken, Kopieren und Scannen in der Universitätsbibliothek Mannheim
 
-Mit Ihrer ecUM oder UB-Chipkarte können Sie in allen Bibliotheksbereichen drucken und kopieren. Für einen doppelseitigen Druck in schwarz-weiß zahlen Sie 3 Cent pro Seite, die über ein virtuelles Druckkonto abgebucht werden. Scans können kostenlos auf USB-Stick gespeichert oder an Ihre universitäre E-Mail-Adresse versendet werden.
+Mit Ihrer ecUM oder UB-Chipkarte können Sie in allen Bibliotheksbereichen drucken und kopieren. Für einen doppelseitigen Druck in schwarz-weiß zahlen Sie 3 Cent pro Seite, die über ein virtuelles Druckkonto abgebucht werden. Scans können kostenlos auf USB-Stick gesichert oder an Ihre universitäre E-Mail-Adresse versendet werden.
 
 In allen Bibliotheksbereichen können Sie an definierten PCs in der Nähe der Infotheken Geld auf Ihr virtuelles Druckkonto umbuchen. Der umgebuchte Betrag steht Ihnen zum Kopieren und Drucken zur Verfügung. Über die Webseite [Papercut](https://drucken.uni-mannheim.de) sehen Sie den aktuellen Status Ihres Druckkontos.
 
 ## Druckgebühren
 
 Wählen Sie am Kopierer aus, ob Sie farbig oder schwarz-weiß und ein- oder mehrseitig drucken möchten. Die Standardeinstellung ist schwarz-weiß, zweiseitig. An einzelnen Druckern ist zudem das Drucken in A3 möglich.
-
-**Preistabelle:**
 
 **A4**
 | Modus | Simplex (einseitig) | Duplex (zweiseitig) |
@@ -37,7 +35,7 @@ Druckaufträge können Sie an jedem PC der Universitätsbibliothek erstellen. Di
 
 ## Drucken von mobilen Geräten
 
-Als Mitglied der Universität Mannheim können Sie Druckaufträge auch von Ihrem eigenen Gerät senden, wenn Sie sich im Netzwerk der Universität Mannheim befinden. Über die Webseite [Papercut](https://drucken.uni-mannheim.de) laden Sie Ihre PDF- oder XPS-Dateien hoch. Innerhalb von 48 Stunden können Sie diese an jedem Kopierer der UB ausdrucken.
+Als Mitglied der Universität Mannheim können Sie Druckaufträge auch vom eigenen Gerät senden, wenn Sie sich im Netzwerk der Universität Mannheim befinden. Über die Webseite [Papercut](https://drucken.uni-mannheim.de) laden Sie Ihre PDF- oder XPS-Dateien hoch. Innerhalb von 48 Stunden können Sie diese an jedem Kopierer der UB ausdrucken.
 
 [Anleitung zum Drucken von mobilen Geräten (PDF, 186 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/DruckenMobileGeraete.pdf)
 
@@ -47,7 +45,7 @@ Scans sind in den Dateiformaten TIFF, JPEG und PDF möglich.
 
 ### An den Scannern
 
-Graustufen- und Farb-Scanner stehen in allen Bibliotheken zur Verfügung. Ihre Graustufen- oder Farb-Scans können Sie auf USB-Stick speichern oder an Ihre universitäre E-Mail-Adresse senden. Der Versand an andere E-Mail-Adressen ist nicht möglich.
+Graustufen- und Farb-Scanner stehen in allen Bibliotheken zur Verfügung. Ihre Graustufen- oder Farb-Scans können Sie auf USB-Stick sichern oder an Ihre universitäre E-Mail-Adresse senden. Der Versand an andere E-Mail-Adressen ist nicht möglich.
 
 Studierende der Universität Mannheim können zusätzlich den [Scanservice der Universitätsbibliothek](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/scanservice/) nutzen.
 
