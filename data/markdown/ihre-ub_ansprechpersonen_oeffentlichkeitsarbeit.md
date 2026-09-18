@@ -20,6 +20,13 @@ In unserem UB-Magazin finden Sie alle Informationen rund um die Universitätsbib
 
 
 
+### [Fläche. Form. Material ](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/flaeche-form-material/)
+
+Fläche. Form. Material
+Die**Universitätsbibliothek Mannheim**zeigt in Zusammenarbeit mit den**Künstlernachlässen Mannheim**die Ausstellung**„Fläche. Form. Material“**im Verwaltungsflur der Universitätsbibliothek.
+
+
+
 ### [Frauen im Widerstand](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/frauen-im-widerstand-gegen-den-nationalsozialismus/)
 
 Frauen im Widerstand

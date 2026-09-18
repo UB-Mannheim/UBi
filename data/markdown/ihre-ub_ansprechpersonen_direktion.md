@@ -27,6 +27,14 @@ Stellvertretende Direktorin der Universitätsbibliothek | Leiterin der Abteilung
 
 
 
+### Sarah Depner
+
+Sekretariat
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 280, 68161 Mannheim
+- Telefon: +49 621 181-2940
+- E-Mail: sekretariat.ub@uni-mannheim.de
+
+
 ### Simone Groth
 
 Sekretariat
