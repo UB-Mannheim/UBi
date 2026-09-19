@@ -9,12 +9,6 @@ Die ecUM (electronic card Universität Mannheim) ist eine multifunktionale Chipk
 - Funktionen der ecUMAlle Funktionen der ecUM im Überblick
 - FAQDie häufigsten Fragen zur ecUM
 - RechtlichesInfos zu Gebühren und Nutzungshinweisen
-
-
-## EcUM-Ausgabe Erstsemester
-
-In den Erstsemesterwochen vom 31. August bis 11. September 2026 findet die ecUM-Ausgabe für Erstsemester am [Express-Schalter](https://www.uni-mannheim.de/studium/im-studium/erstsemester/ecum-ausgabe/) statt.
-In der Regel wird die ecUM postalisch versendet. Falls eine Abholung erforderlich ist, werden Sie per E-Mail benachrichtigt.
 **Alle Funktionen der ecUM im Überblick:**
 
 - Mitgliedsausweis/ [Studierendenausweis](https://www.uni-mannheim.de/it/services-anleitungen/studierende/ecum/)/ Gastkarte/ Einrichtungs-Gastkarte
@@ -35,7 +29,7 @@ In der Regel wird die ecUM postalisch versendet. Falls eine Abholung erforderlic
 
 
 - Sobald Ihre Immatrikulation abgeschlossen ist, erstellen wir die ecUM und benachrichtigen Sie per E-Mail.
-- Wir senden Ihnen die neu erstellte ecUM per Post an die hinterlegte deutsche Postanschrift. Ab dem 5. September 2025 erfolgt die Zustellung nicht mehr postalisch. Bitte holen Sie Ihre ecUM ab dann persönlich [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/) ab.
+- Wir senden Ihnen die neu erstellte ecUM per Post an die hinterlegte deutsche Postanschrift. Ab September erfolgt die Zustellung nicht mehr postalisch. Bitte holen Sie Ihre ecUM ab dann persönlich [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/) ab.
 - Gehören Sie zur Gruppe der Austauschstudierenden oder haben eine ausländische Adresse angegeben, dann können Sie Ihre ecUM [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/)) abholen, sobald Sie eine Benachrichtigung von uns erhalten haben.
 - Sobald Sie Ihre ecUM erhalten haben, müssen Sie diese einmalig aktivieren.
 
@@ -52,7 +46,7 @@ Sobald Sie Ihre ecUM erhalten haben, müssen Sie:
 
 ### Wo kann ich meine ecUM abholen?
 
-Erstsemester-StudierendeWir senden Ihnen die neu erstellte ecUM per Post an die hinterlegte deutsche Postanschrift. Ab dem 5. September 2025 erfolgt die Zustellung nicht mehr postalisch. Bitte holen Sie Ihre ecUM ab dann persönlich [beim IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/) ab.
+Erstsemester-StudierendeWir senden Ihnen die neu erstellte ecUM per Post an die hinterlegte deutsche Postanschrift. Ab September erfolgt die Zustellung nicht mehr postalisch. Bitte holen Sie Ihre ecUM ab dann persönlich [beim IT Support im InfoCenter des Schloss Schneckenhof](https://www.uni-mannheim.de/it/support/) ab.
 Gehören Sie zur Gruppe der Austauschstudierenden oder haben eine ausländische Adresse angegeben, dann können Sie Ihre ecUM am [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/) abholen, sobald Sie eine Benachrichtigung von uns erhalten haben.
 Sobald Sie Ihre ecUM erhalten haben, müssen Sie
 
