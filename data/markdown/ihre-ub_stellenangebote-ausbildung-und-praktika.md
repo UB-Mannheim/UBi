@@ -33,13 +33,6 @@ Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www
 An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als Legal Counsel im Bereich Forschungsdaten (m/w/d, E 13 TV-L BW ) zu besetzen.
 Bewerbungsschluss ist der 1. Oktober 2026.
 Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_491_LegalCounsel_BERD_E13.pdf) (PDF, 862 KB).
-
-
-## IT-Systemspezialist*in (m/w/d)
-
-An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als IT-Systemspezialist*in  (m/w/d, bis E 10 TV-L BW) zu besetzen.
-Bewerbungsschluss ist der 21. September 2026.
-Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/IT-Spezialist_in_UB_466.pdf) (PDF, 464 KB).
 Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/).
 
 
