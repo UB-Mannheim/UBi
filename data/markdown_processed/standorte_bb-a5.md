@@ -71,7 +71,7 @@ ______________________________________________________________________
 
 ### Europäisches Dokumentationszentrum (EDZ)
 
-Das Europäische Dokumentationszentrum (EDZ) ist Teil der Universitätsbibliothek Mannheim und bietet spezialisierte Literatur und Beratung zu europäischen Themen.
+Das Europäische Dokumentationszentrum (EDZ) ist Teil der Universitätsbibliothek Mannheim und unterstützt Forschung und Lehre im Bereich der Europäischen Union.
 
 #### Ansprechpartner
 
@@ -85,7 +85,7 @@ Ansprechpartner EDZ
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
-- Team Zitationsverwaltung, Beratung zu Zotero
+- Beratung zu Zotero (Team Zitationsverwaltung)
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
