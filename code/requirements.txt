@@ -15,5 +15,5 @@ plotly~=7.1.0
 Requests~=2.34.2
 tqdm~=4.70.1
 unstructured~=0.18.32
-json-repair~=0.63.4
+json-repair~=0.63.5
 wheel~=0.48.0
