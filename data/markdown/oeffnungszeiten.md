@@ -3,6 +3,7 @@
 
 # [Öffnungszeiten](https://www.bib.uni-mannheim.de/oeffnungszeiten/)
 
+Das**Ausleihzentrum Schloss Westflügel**öffnet am Mittwoch,**30. September**, um**9 Uhr.**
 
 
 ## Ausleihzentrum Schloss Westflügel
