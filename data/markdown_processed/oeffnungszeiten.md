@@ -1,9 +1,9 @@
 ---
-title: Öffnungszeiten der Universitätsbibliothek Mannheim – Übersicht aller Bereiche und Services
+title: Öffnungszeiten der Universitätsbibliothek Mannheim – Standorte und Services im Überblick
 source_url_de: https://www.bib.uni-mannheim.de/oeffnungszeiten/
 source_url_en: https://www.bib.uni-mannheim.de/en/opening-hours/
 category: Öffnungszeiten
-tags: ['Öffnungszeiten', 'Bibliotheksbereiche', 'Ausleihzentrum', 'InfoCenter', 'Rückgabe', 'Servicezeiten', 'Schloss', 'A3']
+tags: ['Öffnungszeiten', 'Bibliotheksbereiche', 'Ausleihzentrum', 'InfoCenter', 'Servicezeiten', 'Rückgabe', 'Schloss', 'Beratung']
 language: de
 ---
 
