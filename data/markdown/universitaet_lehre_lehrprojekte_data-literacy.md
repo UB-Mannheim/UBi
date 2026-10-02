@@ -50,7 +50,7 @@ In unserem Zertifikatskurs „Data Literacy“ erhalten Sie einen interdisziplin
 
 
 
-## NEU: Der E-Learning-Kurs MaDaLi² als Open Educational Ressources (OER)
+## Der E-Learning-Kurs MaDaLi² als Open Educational Ressources (OER)
 
 Das zweisprachige E-Learning-Programm MaDaLi² steht zum Download bereit und kann in Ihre Lehre integriert werden
 Das zweisprachige E-Learning-Programm MaDaLi² steht zum Download bereit und kann in Ihre Lehre integriert werden

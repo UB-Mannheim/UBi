@@ -1,9 +1,9 @@
 ---
-title: Data Literacy an der Universität Mannheim – Überblick über das Projekt MaDaLi², Angebote und Ressourcen
+title: Data Literacy an der Universität Mannheim – Überblick zu MaDaLi², Kursangeboten und Projektinformationen
 source_url_de: https://www.uni-mannheim.de/universitaet/lehre/lehrprojekte/data-literacy/
 source_url_en: https://www.uni-mannheim.de/en/universitaet/lehre/lehrprojekte/data-literacy-1/
 category: Services
-tags: ['Data Literacy', 'MaDaLi²', 'E-Learning', 'Zertifikate', 'Open Educational Resources', 'Studierende', 'Lehrende', 'Datenkompetenz']
+tags: ['Data Literacy', 'E-Learning', 'Zertifikate', 'Open Educational Resources', 'Studierende', 'Lehrende', 'Forschungsdatenmanagement', 'Kompetenzvermittlung']
 language: de
 ---
 
@@ -33,9 +33,9 @@ Im Zertifikatskurs „Data Literacy“ erhalten Sie einen interdisziplinären Ei
 
 ## Open Educational Resources (OER)
 
-Das zweisprachige E-Learning-Programm MaDaLi² steht als Open Educational Resource (OER) zum Download bereit und kann flexibel in die Lehre integriert werden. Die Materialien sind vollständig downloadbar und ermöglichen orts- und zeitunabhängiges Lernen sowie eine unkomplizierte Integration in die eigene Lehre.
+Das zweisprachige E-Learning-Programm MaDaLi² steht als Open Educational Resource (OER) zum Download bereit und kann flexibel in die Lehre integriert werden. Die Materialien sind auf Deutsch und Englisch verfügbar und vollständig downloadbar, sodass ein orts- und zeitunabhängiges Lernen sowie eine unkomplizierte Integration in die Lehre möglich sind.
 
-Das Angebot ist online im Zentrale Repositorium für Open Educational Resources (ZOERR) verfügbar: [ZOERR-Link](https://www.oerbw.de/edu-sharing/components/collections?locale=de&id=eca018cf-673d-4348-a018-cf673d834802&scope=TYPE_EDITORIAL).
+Das E-Learning-Angebot ist online im [Zentrale Repositorium für Open Educational Resources (ZOERR)](https://www.oerbw.de/edu-sharing/components/collections?locale=de&id=eca018cf-673d-4348-a018-cf673d834802&scope=TYPE_EDITORIAL) verfügbar.
 
 Semesteraktuelle Kursangebote der Universitätsbibliothek zu Themen wie Forschungsdatenmanagement, Open Science oder KI-Tools finden Sie [hier](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/#c300755).
 
@@ -54,4 +54,4 @@ Weitere Informationen zum Projektteam sowie zu Publikationen und Tagungsveröffe
 ## Kontakt
 
 Bei Fragen oder Anregungen wenden Sie sich gerne an das MaDaLi²-Team:
-[E-Mail: madali@uni-mannheim.de](mailto:madali@uni-mannheim.de)
+E-Mail: [madali@uni-mannheim.de](mailto:madali@uni-mannheim.de)
