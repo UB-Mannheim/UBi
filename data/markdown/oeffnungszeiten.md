@@ -3,7 +3,6 @@
 
 # [Öffnungszeiten](https://www.bib.uni-mannheim.de/oeffnungszeiten/)
 
-Die**Bibliotheksbereiche**A3, A5, Schloss Ehrenhof und Schloss Schneckenhof sind am Feiertag,**3. Oktober**, von**10 bis 23 Uhr geöffnet**.
 
 
 ## Ausleihzentrum Schloss Westflügel
