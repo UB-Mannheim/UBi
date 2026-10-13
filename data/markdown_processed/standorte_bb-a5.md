@@ -67,24 +67,29 @@ Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A �
 Telefon: +49 621 181-3032
 E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
-#### Europäisches Dokumentationszentrum (EDZ)
+______________________________________________________________________
 
-Das Europäische Dokumentationszentrum (EDZ) ist Teil des Bibliotheksbereichs A5 und bietet spezialisierte Informationsdienste zu europäischen Themen.
+### Europäisches Dokumentationszentrum (EDZ)
+
+Das Europäische Dokumentationszentrum (EDZ) ist Teil der Universitätsbibliothek Mannheim und unterstützt Forschung und Lehre im Bereich der Europäischen Union.
+
+#### Ansprechpartner
 
 ##### Dr. Hendrik Platte
 
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie
-Ansprechpartner für das Europäische Dokumentationszentrum (EDZ)
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
-Telefon: +49 621 181-2990
-E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
+Ansprechpartner EDZ
 
-**Aufgabenbereiche:**
+**Aufgaben:**
 
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
-- Beratung zu Zotero (Team Zitationsverwaltung)
+- Team Zitationsverwaltung, Beratung zu Zotero
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
+
+Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
+Telefon: +49 621 181-2990
+E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
