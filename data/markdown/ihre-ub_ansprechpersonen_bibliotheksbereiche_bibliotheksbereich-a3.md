@@ -13,9 +13,9 @@ Teamleiterin Bibliotheksbereich A3
 - E-Mail: a3.ub@uni-mannheim.de
 
 
-### Isabelle Otto
+### Carolin Kraubmann, B.A. (sie/ihr)
 
 Stellvertretende Teamleiterin Bibliotheksbereich A3
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/, 108, 68159 Mannheim
-- Telefon: +49 621 181-3058
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – 106/, 108, 68161 Mannheim
+- Telefon: +49 621 181-3055
 - E-Mail: a3.ub@uni-mannheim.de
