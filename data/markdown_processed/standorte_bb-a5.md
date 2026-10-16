@@ -49,34 +49,34 @@ E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet umfassende Services und Ansprechpersonen für Nutzerinnen und Nutzer.
+Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer vor Ort.
 
-#### Ansprechpartnerinnen
+#### Ansprechpartner
 
 ##### Isabelle Otto
 
-**Teamleiterin Bibliotheksbereich A5**
+Teamleiterin Bibliotheksbereich A5
 Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
 Telefon: +49 621 181-3058
 E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 
 ##### Sylvia Zander
 
-**Stellvertretende Teamleiterin Bibliotheksbereich A5**
+Stellvertretende Teamleiterin Bibliotheksbereich A5
 Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 127, 68159 Mannheim
 Telefon: +49 621 181-3032
 E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
-#### Europäisches Dokumentationszentrum (EDZ)
+### Europäisches Dokumentationszentrum (EDZ)
 
-Das Europäische Dokumentationszentrum (EDZ) ist im Bibliotheksbereich A5 angesiedelt und bietet spezialisierte Unterstützung für die Fachbereiche Politikwissenschaft, Soziologie und Psychologie.
+Das Europäische Dokumentationszentrum (EDZ) ist Teil der Universitätsbibliothek Mannheim und unterstützt Forschung und Lehre im Bereich der Europäischen Union.
+
+#### Ansprechpartner
 
 ##### Dr. Hendrik Platte
 
-**Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ**
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
-Telefon: +49 621 181-2990
-E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
+Fachreferent für Politikwissenschaft, Soziologie und Psychologie
+Ansprechpartner EDZ
 
 **Aufgaben:**
 
@@ -87,3 +87,7 @@ E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
+
+Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
+Telefon: +49 621 181-2990
+E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)

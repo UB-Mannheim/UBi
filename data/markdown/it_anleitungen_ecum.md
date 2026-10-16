@@ -39,7 +39,7 @@ Die ecUM (electronic card Universität Mannheim) ist eine multifunktionale Chipk
 
 Sobald Sie Ihre ecUM erhalten haben, müssen Sie:
 
-- diese auf der Seite [MyUni-ID](https://id.uni-mannheim.de) einmalig aktivieren. Loggen Sie sich hier mit Ihrer Uni-ID und dem dazugehörigen Passwort ein und navigieren Sie zu „ecUM“. Klicken Sie dort auf „Aktivieren“.
+- diese auf der Seite [MyUni-ID](https://id.uni-mannheim.de) einmalig aktivieren. Loggen Sie sich hier mit Ihrer [Uni-ID ](https://www.uni-mannheim.de/it/services-anleitungen/uni-id/)und dem dazugehörigen Passwort ein und navigieren Sie zu „ecUM“. Klicken Sie dort auf „Aktivieren“.
 - die Gültigkeit vor Ort an einem der Gültigkeitsdrucker in der Universität aufdrucken lassen.
 
 
