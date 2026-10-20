@@ -11,14 +11,6 @@
 
 ## Aktuelle Stellenangebote
 
-
-
-## Ausbildungsplatz zur/zum Fachangestellten für Medien- und Informationsdienste (FaMI)/Fachrichtung Bibliothek (m/w/d)
-
-An der Universitätsbibliothek Mannheim ist zum 1. September 2027 ein Ausbildungsplatz zur/zum Fachangestellten für Medien- und Informationsdienste (FaMI)/Fachrichtung Bibliothek (m/w/d) zu besetzen.
-Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/Stellenausschreibung_FaMI_2026.pdf) (PDF, 441 KB).
-Bewerbungsschluss ist der 19. Oktober 2026.
-Alle Infos zur Ausbildung finden Sie auf der [Website der Universität](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/).
 Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/).
 
 
