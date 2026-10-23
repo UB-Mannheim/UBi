@@ -1,5 +1,5 @@
 ---
-title: Digitale Methoden und Angebote für die Geisteswissenschaften – Services und Ressourcen der Universitätsbibliothek Mannheim
+title: Digitale Methoden in den Geisteswissenschaften – Ressourcen, Tools und Services der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/
 source_url_en: https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/digital-humanities-1/
 category: Services
@@ -13,16 +13,16 @@ Die vielfältigen Quellen geisteswissenschaftlicher Forschung wie Texte, Bilder,
 
 ## Einführendes
 
-Digitale Editionen übertragen die Praxis der kritischen Texterschließung ins Digitale, erweitern Zugänglichkeit, Durchsuchbarkeit und Analysierbarkeit von Quellen und ermöglichen verschiedene Perspektiven und Interaktivität in der Darstellung. Quantitative Untersuchungen auf großen Quellenkorpora ermöglichen neue Erkenntnisse, die die hermeneutische Untersuchung individueller Quellen ergänzen können. Visualisierungen machen Beziehungen in den Daten sichtbar. Auch die digitale Kultur selbst sowie die kritische Reflektion und Vermittlung digitaler Methoden sind Gegenstand der digital orientierten Geisteswissenschaften.
+Digitale Editionen übertragen die Praxis der kritischen Texterschließung ins Digitale, erweitern Zugänglichkeit, Durchsuchbarkeit und Analysierbarkeit von Quellen und ermöglichen verschiedene Perspektiven und Interaktivität in der Darstellung. Quantitative Untersuchungen auf großen Quellenkorpora ermöglichen neue Erkenntnisse, die die hermeneutische Untersuchung individueller Quellen ergänzen können. Visualisierungen machen Beziehungen in den Daten sichtbar. Auch die digitale Kultur selbst und die kritische Reflektion digitaler Methoden und deren Vermittlung sind Gegenstand der digital orientierten Geisteswissenschaften.
 
 ### Tutorials und Selbstlernmaterialien
 
 - [Programming Historian](https://programminghistorian.org/): Peer-reviewed Tutorials zu DH-Tools für Einsteiger*innen bis Expert*innen
-- [TEI/XML Grundlagenkurs](https://de.dariah.eu/tei-tutorial): Internationaler Auszeichnungsstandard für Texte
-- [forText](https://fortext.net/): Informationen, Grundlagenkurse und Anregungen zu Textauszeichnung, Topic Modelling und Visualisierung, mit Fokus auf Literaturwissenschaft
+- Grundlagenkurs zu [TEI/XML](https://de.dariah.eu/tei-tutorial): Internationaler Auszeichnungsstandard für Texte
+- [forText](https://fortext.net/): Informationen, Grundlagenkurse und Anregungen zur Lehre (Textauszeichnung, Topic Modelling, Visualisierung) mit Fokus auf Literaturwissenschaft
 - [Tutorial Finder von CLARIAH-DE](https://teaching.clariah.de/search/search/simple/): Suche in verschiedenen Quellen mit frei verfügbaren Kursen
-- [Social Sciences and Humanities Open Marketplace](https://teaching.clariah.de/search/search/simple/): Internationale Alternative für Tutorials
-- [Forschungssoftware & Datenformate in den Geistes- & Sozialwissenschaften](https://www.studon.fau.de/studon/goto.php?target=lm_2993840): Allgemeiner, frei verfügbarer Kurs
+- Internationale Alternative: [Social Sciences and Humanities Open Marketplace](https://teaching.clariah.de/search/search/simple/)
+- Allgemeiner Kurs: [Forschungssoftware & Datenformate in den Geistes- & Sozialwissenschaften](https://www.studon.fau.de/studon/goto.php?target=lm_2993840)
 
 ### Einstiegstools
 
@@ -71,10 +71,10 @@ Hier finden Sie zentrale Akteure im Bereich Digital Humanities, die Informations
 
 - [Verband für Digital Humanities im deutschsprachigen Raum](https://dig-hum.de/) und [Mailingliste](https://dig-hum.de/dhd-mailingliste)
 - [Alliance of Digital Humanities Organisations](http://https)
-- [CLARIAH-DE](https://www.clariah.de): Digitale Forschungsinfrastruktur für die Geisteswissenschaften
-- [FID Romanistik](https://fid-romanistik.de/forschungsdaten): Fachinformationsdienst mit fachspezifischen Informationen
-- [Text+](https://text-plus.org/): Bietet regelmäßig eine [offene Sprechstunde „Research Rendezvous“](https://events.gwdg.de/category/208/) zu text- und sprachbezogenen Forschungsdaten
+- [Text+](https://text-plus.org/): Regelmäßige [offene Sprechstunde „Research Rendezvous“](https://events.gwdg.de/category/208/) zu text- und sprachbezogenen Forschungsdaten
 - [NFDI4Culture](https://nfdi4culture.de/de/index.html): Zuständig für Forschungsdaten materieller und immaterieller Kulturgüter, mit eigenem [Helpdesk](https://nfdi4culture.de/de/helpdesk.html)
+- [CLARIAH-DE](https://www.clariah.de): Bündelt Angebote einer digitalen Forschungsinfrastruktur für die Geisteswissenschaften
+- Weitere fachspezifische Informationen z. B. beim [FID Romanistik](https://fid-romanistik.de/forschungsdaten)
 
 ## Unser Angebot
 

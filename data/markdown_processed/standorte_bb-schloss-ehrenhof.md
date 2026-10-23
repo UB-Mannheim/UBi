@@ -50,22 +50,26 @@ E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim ist zentraler Anlaufpunkt für Nutzerinnen und Nutzer. Das Team steht für alle Fragen rund um die Nutzung des Bereichs zur Verfügung.
+[Zur offiziellen Seite](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/)
 
 #### Teamleitung und Kontakt
 
-##### Veronika Kay
+Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim wird von einem Team geleitet. Für alle Anfragen zum Bibliotheksbereich steht das Team unter folgender Kontaktadresse zur Verfügung:
 
-Teamleiterin Bibliotheksbereich Schloss Ehrenhof
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 205, 68161 Mannheim
-Telefon: +49 621 181-3025
-E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
+- **E-Mail:** [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
+- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 205/206, 68161 Mannheim
+- **Telefon:** +49 621 181-3025 (Teamleitung), +49 621 181-3020 (stellvertretende Teamleitung)
 
-##### Sarah Böhner
+##### Teamleitung
 
-Stellvertretende Teamleiterin Bibliotheksbereich Schloss Ehrenhof
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 206, 68161 Mannheim
-Telefon: +49 621 181-3020
-E-Mail: [ehrenhof.ub@uni-mannheim.de](mailto:ehrenhof.ub@uni-mannheim.de)
+- **Veronika Kay**
+  Teamleiterin Bibliotheksbereich Schloss Ehrenhof
+  Raum M 205
+  Telefon: +49 621 181-3025
 
-Weitere Informationen zum Bibliotheksbereich finden Sie auf der [Webseite des Bibliotheksbereichs Schloss Ehrenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/).
+- **Sarah Böhner**
+  Stellvertretende Teamleiterin Bibliotheksbereich Schloss Ehrenhof
+  Raum M 206
+  Telefon: +49 621 181-3020
+
+Für alle Anliegen rund um den Bibliotheksbereich Schloss Ehrenhof wenden Sie sich bitte an das Team per E-Mail oder telefonisch.
