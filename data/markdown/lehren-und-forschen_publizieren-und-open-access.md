@@ -138,7 +138,7 @@ Der Publish and Read Vertrag mit dem Verlag Karger bringt neben dem Zugriff auf 
 
 - Sie sind zum Zeitpunkt der Annahme mit der Universität Mannheim affiliiert.
 - Sie sind für den Artikel als „corresponding author“ zuständig.
-- Der Artikel wird zwischen dem 1. Januar 2021 und dem 31. Dezember 2026 angenommen.
+- Der Artikel wird zwischen dem 1. Januar 2021 und dem 31. Dezember 2029 angenommen.
 
 **Hybrides Open Access**
 In hybriden Zeitschriften des Karger Verlags können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim unter oben genannten Voraussetzungen ohne weitere Kosten im Open Access veröffentlichen.
