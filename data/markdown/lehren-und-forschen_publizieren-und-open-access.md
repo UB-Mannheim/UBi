@@ -55,7 +55,7 @@ Dazu müssen Sie zuerst die üblichen Schritte zum Einreichen eines Manuskriptes
 Im Rahmen des Vertrags mit dem Verlag [Cogitatio Press](https://www.cogitatiopress.com/) können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim Publikationen im Open Access in allen Zeitschriften des Verlags ohne zusätzliche Kosten veröffentlichen. Dies gilt unter folgenden Voraussetzungen:
 
 - Sie sind mit der Universität Mannheim affiliiert und als „corresponding author“ für den Artikel zuständig
-- Ihr Artikel wurde zwischen dem 1. Januar 2026 und dem 31. Dezember 2028 eingereicht
+- Ihr Artikel wurde zwischen dem 1. Januar 2026 und dem 31. Dezember 2029 eingereicht
 - Der Artikel gehört zum Typ: „research article“, „editorial“, „commentary“, „short notes“ oder „book reviews“
 
 Verwenden Sie beim Einreichungsprozess die E-Mail-Adresse der Universität und geben Sie in Ihrer Publikation die Universität Mannheim als Affiliation an. Anhand dieser Angaben werden Sie vom Verlag als berechtigt identifiziert.
