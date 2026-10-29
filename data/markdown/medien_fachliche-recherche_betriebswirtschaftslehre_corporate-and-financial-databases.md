@@ -163,3 +163,16 @@ Access: Access to the database is restricted to members of the University of Man
 ## Further information
 
 Also check the Ilias group „Finance Databases“ (Chair of Corporate Finance, University of Mannheim) for further information and coordination of database access. This overview was originally composed by the Chair of Corporate Finance.
+
+
+## Contact
+
+
+
+### Xiuwen Ye, M.Sc.
+
+Fachreferentin für Wirtschaftswissenschaften
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
+- Telefon: +49 621 181-3753
+- E-Mail: xiuwen.ye@uni-mannheim.de
+Vertretung[Lorena Abou-Warda](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/lorena-abou-warda/)

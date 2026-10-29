@@ -86,7 +86,6 @@ Aufgaben:
 - Ansprechperson Diversität & Nachhaltigkeit
 - Betreuung der historischen Sammlungen
 - Betreuung Themenkomplex Fake Science
-- Informationskompetez & E-Learning
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim

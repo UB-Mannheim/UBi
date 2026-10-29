@@ -1,5 +1,5 @@
 ---
-title: Fachliche Recherche und Services für Geschichte an der Universitätsbibliothek Mannheim
+title: Fachliche Recherche und Services der UB Mannheim für Geschichte
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/geschichte/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/history/
 category: Medien
@@ -7,9 +7,9 @@ tags: ['Geschichte', 'Fachrecherche', 'Datenbanken', 'E-Books', 'E-Journals', 'S
 language: de
 ---
 
-# Geschichte an der Universitätsbibliothek Mannheim
+# Geschichte – Fachliche Recherche und Services
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Geschichte umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für individuelle Beratung oder Tipps zum wissenschaftlichen Arbeiten stehen Ihnen verschiedene Kurse und persönliche Beratung zur Verfügung.
+Für das Fach Geschichte bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Rechercheeinstiege. Sie können an Kursen teilnehmen oder individuelle Beratung erhalten, um Ihre Recherchefähigkeiten zu vertiefen und Unterstützung beim wissenschaftlichen Arbeiten zu bekommen.
 
 ## Recherchieren
 
@@ -27,7 +27,7 @@ Die E-Journals für das Fach Geschichte finden Sie in der [Elektronischen Zeitsc
 
 ### E-Books
 
-Die für das Fach Geschichte lizenzierten E-Books finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB). Informationen zu den Nutzungsbedingungen finden Sie unter [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Die für das Fach Geschichte lizenzierten E-Books finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB). Informationen zu Nutzungsbedingungen finden Sie unter [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -58,13 +58,15 @@ Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach
 
 ## Wissenschaftliches Arbeiten
 
-Das Historische Institut der Universität Mannheim stellt einen [Leitfaden zur Anfertigung von wissenschaftlichen Arbeiten (PDF)](https://www.phil.uni-mannheim.de/media/Lehrstuehle/phil/historisches_institut/Leitfaden_zur_Anfertigung_wissenschaftlicher_Arbeiten_am_Historischen_Institut.pdf) zur Verfügung.
+Das Historische Institut der Universität Mannheim stellt Richtlinien für das wissenschaftliche Arbeiten bereit:
+
+- [Leitfaden zur Anfertigung von wissenschaftlichen Arbeiten (PDF)](https://www.phil.uni-mannheim.de/media/Lehrstuehle/phil/historisches_institut/Leitfaden_zur_Anfertigung_wissenschaftlicher_Arbeiten_am_Historischen_Institut.pdf)
 
 Im Bestand der UB finden Sie zahlreiche Ratgeber, z. B.:
 
 - [Standop, Ewald: Die Form der wissenschaftlichen Arbeit](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21106572450002561)
 
-Die UB unterstützt Sie mit weiteren Angeboten:
+Weitere Unterstützungsangebote:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
@@ -75,7 +77,7 @@ Die UB unterstützt Sie mit weiteren Angeboten:
 
 Leiter der Abteilung Kommunikation | Fachreferent für Geschichte
 
-**Aufgabenbereiche:**
+**Aufgaben:**
 
 - Kommunikation und Öffentlichkeitsarbeit
 - Projektleitung Provenienzforschung
@@ -83,14 +85,10 @@ Leiter der Abteilung Kommunikation | Fachreferent für Geschichte
 - Ansprechperson Diversität & Nachhaltigkeit
 - Betreuung der historischen Sammlungen
 - Betreuung Themenkomplex Fake Science
-- Informationskompetenz & E-Learning
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 
-**Kontakt:**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-- Telefon: +49 621 181-2938
-- E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
-
+**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
+**Telefon:** +49 621 181-2938
+**E-Mail:** [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
 **Vertretung:** [Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)
