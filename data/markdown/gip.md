@@ -6,9 +6,6 @@
 Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine langfristige Studie an der Universität Mannheim. Das GIP untersucht individuelle Einstellungen und Präferenzen, die in politischen und wirtschaftlichen Entscheidungsprozessen relevant sind. Zu diesem Zweck werden seit 2012 regelmäßig in ganz Deutschland über 4.000 Personen zu den verschiedensten Themen online befragt.
 Im September 2026 hat das German Internet Panel dabei bereits seine 85. Befragungswelle erhoben.
 In den zweimonatlich stattfindenden GIP-Befragungen werden sowohl Forschungsfragen von Wissenschaftler*innen der Universität Mannheim als auch Forschungsfragen von externer Wissenschaftler*innen erhoben.
-Wenn Sie daran interessiert sind, die Daten für Ihre Forschungsarbeiten über das GIP zu erheben, kontaktieren Sie uns: gip@uni-mannheim.de.
-Wir besprechen mit Ihnen, wie und wann die Fragen Ihres geplanten Projektes in das GIP integriert werden können und welche Kosten dafür anfallen.
-[mehr Informationen](https://www.uni-mannheim.de/gip/fragen-im-gip-stellen/)
 
 
 ## Das GIP im Überblick
@@ -19,13 +16,6 @@ Wir besprechen mit Ihnen, wie und wann die Fragen Ihres geplanten Projektes in d
 
 GIP-Daten nutzen
 Datennutzung und Datenzugang
-
-
-
-### [Fragen im GIP stellen](https://www.uni-mannheim.de/gip/fragen-im-gip-stellen/)
-
-Fragen im GIP stellen
-Informationen zum weiteren Vorgehen
 
 
 

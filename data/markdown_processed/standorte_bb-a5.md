@@ -65,13 +65,7 @@ A5 – Gebäudeteil A – Raum 127, 68159 Mannheim
 Telefon: +49 621 181-3032
 E-Mail: [a5.ub@uni-mannheim.de](mailto:a5.ub@uni-mannheim.de)
 
-Weitere Informationen: [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a5/)
-
-______________________________________________________________________
-
-### Europäisches Dokumentationszentrum (EDZ)
-
-#### Ansprechpartner und Fachreferent
+#### Europäisches Dokumentationszentrum (EDZ)
 
 **Dr. Hendrik Platte**
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
