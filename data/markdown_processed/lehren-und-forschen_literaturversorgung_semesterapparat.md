@@ -101,7 +101,7 @@ Lehrende der Universität Mannheim können ihren Studierenden begleitend zur Leh
 
 Ihre Angaben in den Pflichtfeldern sind erforderlich, um einen Semesterapparat einzurichten. Bitte lesen Sie die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/).
 
-Bitte beachten Sie: Medien im Semesterapparat sind NICHT entleihbar!
+Bitte beachten Sie: Medien im Semesterapparat sind **nicht entleihbar**!
 
 Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/) wurden mir zur Verfügung gestellt.
 
