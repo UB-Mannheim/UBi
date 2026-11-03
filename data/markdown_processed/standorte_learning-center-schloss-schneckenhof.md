@@ -1,21 +1,21 @@
 ---
-title: Learning Center Schloss Schneckenhof – Arbeitsplätze, Kurse und Beratung der Universitätsbibliothek Mannheim
+title: Learning Center Schloss Schneckenhof – Arbeitsplätze, Kurse und Kontaktinformationen
 source_url_de: https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/learning-center-schloss-schneckenhof/
 category: Standorte
-tags: ['Learning Center', 'Arbeitsplätze', 'Gruppenarbeit', 'Schreibberatung', 'Study Skills', 'Öffnungszeiten', 'Schloss Schneckenhof', 'Beratung']
+tags: ['Learning Center', 'Arbeitsplätze', 'Schreibberatung', 'Study Skills', 'Öffnungszeiten', 'Gruppenarbeit', 'Schloss Schneckenhof', 'Beratung']
 language: de
 ---
 
 # Learning Center Schloss Schneckenhof
 
-Das Learning Center Schloss Schneckenhof der Universitätsbibliothek Mannheim bietet im ersten Obergeschoss 180 unterschiedlich gestaltete Arbeitsplätze mit moderner technischer Ausstattung für Gruppenarbeit.
+Das Learning Center Schloss Schneckenhof bietet im ersten Obergeschoss 180 unterschiedlich gestaltete Arbeitsplätze mit moderner technischer Ausstattung, die sich besonders für Gruppenarbeit eignen. Während des Zeitraums vom **16. November bis einschließlich 23. Dezember 2026** wird das Learning Center als **Ruhearbeitsbereich** genutzt.
 
 Im Learning Center befindet sich jeweils ein Präsenzexemplar von jedem Buch, das in der Lehrbuchsammlung im Ausleihzentrum steht. An den [PalMA-Team-Monitoren](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/) können Sie via WLAN kollaborativ arbeiten.
 
 ## Kurse und Beratung
 
-Besuchen Sie die regelmäßigen Beratungs- und Schulungsangebote der Universitätsbibliothek.
+Das Learning Center bietet regelmäßige Beratungs- und Schulungsangebote.
 
 ### Kursreihe Study Skills
 
@@ -24,17 +24,16 @@ In der Kursreihe Study Skills erhalten Sie nützliche Tipps zum wissenschaftlich
 
 ### Schreibberatung
 
-Sie schreiben Ihre Bachelorarbeit oder Dissertation und benötigen Unterstützung? Die Universitätsbibliothek bietet individuelle Schreibberatung an.
-[Zur Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
+Unterstützung beim Schreiben von Bachelorarbeiten oder Dissertationen bietet die [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/).
 
 ## Öffnungszeiten
 
-**Learning Center Schloss Schneckenhof**
+**Learning Center regulär**
+Mo–Fr: 8–23 Uhr
+Sa/So/Feiertage: 10–23 Uhr
 
-| Wochentag | Öffnungszeiten |
-|---------------------|---------------|
-| Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertage | 10–23 Uhr |
+**Erweiterte Öffnungszeiten vom 16. November bis einschließlich 23. Dezember 2026**
+Mo–So: 8–24 Uhr
 
 ## Kontakt
 

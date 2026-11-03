@@ -1,5 +1,5 @@
 ---
-title: Lern- und Arbeitsplätze in den Bibliotheksbereichen der Universitätsbibliothek Mannheim – Ausstattung, Gruppenarbeit, Sonderleseplätze und Services
+title: Lern- und Arbeitsplätze in der Universitätsbibliothek Mannheim – Ausstattung, Gruppenräume und Services
 source_url_de: https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/study-and-work-spaces/
 category: Services
@@ -15,11 +15,11 @@ Unter [Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzpl
 
 ## Ausstattung
 
-- WLAN [eduroam](https://www.uni-mannheim.de/it/services-anleitungen/wlan/) ist an allen Arbeitsplätzen mit Uni-ID nutzbar und steht auch Studierenden anderer Hochschulen zur Verfügung.
-- PC-Arbeitsplätze sind mit aktueller Software, MS-Office-Paket und LibreOffice ausgestattet. Rechercheergebnisse und Downloads aus Volltextdatenbanken können bearbeitet und auf USB-Stick gespeichert werden. Mit eigenen Kopfhörern können multimediale Angebote genutzt werden.
-- Monitore mit HDMI-Anschluss stehen in allen Bereichen bereit, um Laptops zu verbinden.
+- WLAN [eduroam](https://www.uni-mannheim.de/it/services-anleitungen/wlan/) steht an allen Arbeitsplätzen für Universitätsangehörige und Studierende anderer Hochschulen zur Verfügung.
+- PC-Arbeitsplätze sind mit aktueller Software, MS-Office-Paket und LibreOffice ausgestattet. Rechercheergebnisse und Downloads aus Volltextdatenbanken können bearbeitet und auf einem USB-Stick gespeichert werden. Mit eigenen Kopfhörern können multimediale Angebote genutzt werden.
+- Monitore mit HDMI-Anschluss stehen in allen Bibliotheksbereichen bereit, um Laptops zu verbinden.
 - Universitätsangehörige können im InfoCenter Notebooks nach Vorbestellung über den Katalog Primo [ausleihen](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/).
-- [Kopierer, Scanner und Aufladestationen für das Druckkonto](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/) sind in allen Bereichen vorhanden.
+- [Kopierer, Scanner und Aufladestationen für Ihr Druckkonto](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/) sind in allen Bereichen vorhanden.
 - In Gruppenarbeitsbereichen unterstützen [PalMA-Team-Monitore](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/) und Flipcharts kollaboratives Arbeiten.
 
 ## Gruppenarbeitsbereiche
@@ -29,6 +29,7 @@ Unter [Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzpl
 - [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/): 6 Räume im 3. OG West
 - [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/): 5 Räume im 2. OG und offener Gruppenarbeitsbereich EG
 - [Bibliotheksbereich Schloss Schneckenhof – Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. OG West
+  Vom 16. November bis einschließlich 23. Dezember 2026 wird das Learning Center zum Ruhearbeitsbereich.
 - [Bibliotheksbereich Schloss Schneckenhof – ExpLAB](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/): Offener Bereich im EG
 
 ## Schulungsräume

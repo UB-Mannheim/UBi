@@ -195,7 +195,7 @@ Der Publish and Read Vertrag mit dem Verlag Taylor & Francis bringt neben dem Zu
 
 - Sie sind zum Zeitpunkt der Annahme mit der Universität Mannheim affiliiert.
 - Sie sind für den Artikel als „submitting corresponding author“ zuständig.
-- Der Artikel wird zwischen dem 1. Januar 2024 und dem 31. Dezember 2026 angenommen.
+- Der Artikel wird zwischen dem 1. Januar 2024 und dem 31. Dezember 2027 angenommen.
 - Der Artikel gehört zum Typ: “Article”, “Research Article”, “Review”, “Review Article”, “Report”, “Brief Report”, “Note”, “Case Report”, “Essay”, “Discussion”
 
 **Open Select**

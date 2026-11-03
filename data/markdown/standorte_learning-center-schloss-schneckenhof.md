@@ -7,6 +7,7 @@
 
 ## Für Gruppenarbeit finden Sie im ersten Obergeschoss 180 unterschiedlich gestaltete Arbeitsplätze mit moderner technischer Ausstattung.
 
+Vom**16. November bis einschließlich 23. Dezember 2026**wird das Learning Center zum**Ruhearbeitsbereich**.
 Im Learning Center befindet sich je ein Präsenzexemplar von jedem Buch, das in der Lehrbuchsammlung im Ausleihzentrum steht. An den [PalMA-Team-Monitoren](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/) können Sie via WLAN kollaborativ arbeiten.
 
 
@@ -33,6 +34,10 @@ Sie schreiben Ihre Bachelorarbeit oder Dissertation und wissen nicht mehr weiter
 | Mo‒Fr | 8–23 Uhr |
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
+
+**Erweiterte Öffnungszeiten vom 16. November bis einschließlich 23. Dezember 2026**
+| Mo‒So | 8–24 Uhr |
+| --- | --- |
 
 
 

@@ -27,7 +27,7 @@ In den Gruppenarbeitsbereiche unterstützen [PalMA-Team-Monitore](https://www.bi
 - [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/): Offener Bereich im EG und UG
 - [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/): 6 Räume im 3. OG West
 - [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/): 5 Räume im 2. OG und offener Gruppenarbeitsbereich EG
-- [Bibliotheksbereich Schloss Schneckenhof – Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. OG West
+- [Bibliotheksbereich Schloss Schneckenhof – Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. OG West Vom 16. November bis einschließlich 23. Dezember 2026 wird das Learning Center zum Ruhearbeitsbereich.
 - [Bibliotheksbereich Schloss Schneckenhof – ExpLAB](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/): Offener Bereich im EG
 
 

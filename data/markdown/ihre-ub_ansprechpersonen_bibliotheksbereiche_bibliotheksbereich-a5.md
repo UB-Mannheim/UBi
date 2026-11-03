@@ -5,7 +5,7 @@
 
 
 
-### Gunhild Schenk
+### Isabelle Otto
 
 Teamleiterin Bibliotheksbereich A5
 - Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 126, 68159 Mannheim
