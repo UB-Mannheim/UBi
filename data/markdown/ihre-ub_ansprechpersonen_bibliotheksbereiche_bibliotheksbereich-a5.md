@@ -9,7 +9,7 @@
 
 Teamleiterin Bibliotheksbereich A5
 - Adresse: Universität Mannheim, Universitätsbibliothek, A5 – Gebäudeteil A – Raum 126, 68159 Mannheim
-- Telefon: +49 621 181-3031
+- Telefon: +49 621 181-3058
 - E-Mail: a5.ub@uni-mannheim.de
 
 
