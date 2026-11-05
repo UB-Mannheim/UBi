@@ -11,7 +11,21 @@
 
 ## Aktuelle Stellenangebote
 
-Vielen Dank für Ihr Interesse. Zur Zeit haben wir keine Stellen zu besetzen.
+
+
+## Data, Project und Community Manager (m/w/d)
+
+An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Teilzeitstelle als Data, Project und Community Manager (m/w/d, E 13 TV-L BW) zu besetzen.
+Bewerbungsschluss ist der 29. November 2026.
+Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_513_FAIR_ProjectManager_E13_DE.pdf) (PDF, 896 KB).
+
+
+## Data Scientist (m/w/d)
+
+An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als Data Scientist (m/w/d, E 13 TV-L BW) zu besetzen.
+Bewerbungsschluss ist der 29. November 2026.
+Weitere Informationen entnehmen Sie bitte der [Stellenausschreibung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_512_FAIR_DataScientist_E13_DE.pdf) (PDF, 727 KB).
+Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO finden Sie unter [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/stellenanzeigen/datenschutz-bei-bewerbungen/).
 
 
 ## Ausbildung
