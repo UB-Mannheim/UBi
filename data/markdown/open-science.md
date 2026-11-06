@@ -53,7 +53,7 @@ The Open Science Council serves as a advisory body which suppports the Open Scie
 
 
 
-### Systematic Literature Reviews: Dos and Don'ts
+### abgesagt! Systematic Literature Reviews: Dos and Don'ts
 
 
 
