@@ -8,7 +8,6 @@
 ## Die Universitätsbibliothek bietet die Informations- und Forschungsinfrastruktur für Wissenschaft, Lehre und Studium an der Universität Mannheim – analog und digital.
 
 Auch Bürgerinnen und Bürgern, Behörden und Unternehmen der Metropolregion steht die Bibliothek offen.
-Zufriedene Nutzerinnen und Nutzer
 
 
 ## Zahlen und Fakten

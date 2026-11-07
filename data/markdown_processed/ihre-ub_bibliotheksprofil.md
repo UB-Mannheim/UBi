@@ -1,5 +1,5 @@
 ---
-title: Bibliotheksprofil der Universitätsbibliothek Mannheim – Angebote, Zahlen, Sammlungen und Services
+title: Bibliotheksprofil der Universitätsbibliothek Mannheim – Angebote, Zahlen, Sammlungen und Projekte
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/bibliotheksprofil/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/library-profile/
 category: Benutzung
@@ -7,9 +7,9 @@ tags: ['Bibliotheksprofil', 'Serviceangebot', 'Medien', 'Publikationsservices', 
 language: de
 ---
 
-# Bibliotheksprofil der Universitätsbibliothek Mannheim
+# Bibliotheksprofil
 
-Die Universitätsbibliothek bietet die Informations- und Forschungsinfrastruktur für Wissenschaft, Lehre und Studium an der Universität Mannheim – analog und digital. Auch Bürgerinnen und Bürger, Behörden und Unternehmen der Metropolregion steht die Bibliothek offen.
+Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfrastruktur für Wissenschaft, Lehre und Studium an der Universität Mannheim – analog und digital. Auch Bürgerinnen und Bürgern, Behörden und Unternehmen der Metropolregion steht die Bibliothek offen.
 
 ## Zahlen und Fakten
 
@@ -17,7 +17,7 @@ Die Universitätsbibliothek bietet die Informations- und Forschungsinfrastruktur
 
 - 5 Bibliotheksbereiche
 - Rund 1.850 Arbeitsplätze
-- Zugang an 7 Tagen in der Woche, auch an Wochenenden und Feiertagen
+- An 7 Tagen in der Woche geöffnet, auch an Wochenenden und Feiertagen
 
 ### Benutzung
 
@@ -72,10 +72,18 @@ Im weltweiten Ranking [U-Multirank](https://www.che.de/en/ranking-international/
 
 ## Sammlungen
 
-Die Universitätsbibliothek hat ihren Ursprung in den Institutsbibliotheken und der Zentralbibliothek der 1907 gegründeten Städtischen Handelshochschule. 1932 wurden diese Bibliotheken organisatorisch mit der Städtischen Schloßbücherei vereint, die später als Wissenschaftliche Stadtbibliothek Mannheim ausgegliedert wurde. Nach der Auflösung der Handelshochschule 1933 wurden deren Bestände der Universität Heidelberg übergeben. Die 1946 gegründete Staatliche Wirtschaftshochschule Mannheim erhielt den Großteil dieser Bücher zurück. Mit dem Ausbau zur Universität 1967 wuchs der Bestand durch Neuzugänge und Übernahmen aus der aufgelösten Wissenschaftlichen Stadtbibliothek Mannheim weiter an. In den letzten 30 Jahren hat sich der Umfang der Buch- und Medienbestände verdoppelt. Seit rund 10 Jahren verschiebt sich der Schwerpunkt bei wissenschaftlichen Zeitschriften und E-Books zunehmend zu lizenzpflichtigen Online-Angeboten.
+Die Universitätsbibliothek hat ihren Ursprung in den Institutsbibliotheken und der Zentralbibliothek der 1907 gegründeten Städtischen Handelshochschule. 1932 wurden diese Bibliotheken organisatorisch mit der Städtischen Schloßbücherei vereint. Die Schloßbücherei wurde später wieder ausgegliedert als Wissenschaftliche Stadtbibliothek Mannheim.
+
+Nach der Auflösung der Handelshochschule 1933 wurden deren Bibliotheksbestände der Universität Heidelberg übergeben. Die 1946 gegründete Staatliche Wirtschaftshochschule Mannheim erhielt den größten Teil dieser Bücher aus Heidelberg zurück.
+
+Mit dem Ausbau der Wirtschaftshochschule zur Universität 1967 wuchs der Bestand der Bibliothek durch Neuzugänge in allen Fächern und durch ältere Bestände aus der 1970 aufgelösten Wissenschaftlichen Stadtbibliothek Mannheim.
+
+In den letzten 30 Jahren hat sich der Umfang der Buch- und Medienbestände in der Universitätsbibliothek Mannheim verdoppelt. Seit rund 10 Jahren verschiebt sich der Schwerpunkt bei wissenschaftlichen Zeitschriften zunehmend zu lizenzpflichtigen Online-Angeboten. Ebenso verzeichnet die Bibliothek einen vermehrten Zugang an lizenzpflichtigen E-Books.
 
 Weitere Informationen: [Sammlungen](https://www.bib.uni-mannheim.de/medien/sammlungen/)
 
 ## Öffentlichkeitsarbeit
 
-Die [Ansprechpersonen für Öffentlichkeitsarbeit](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren über Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), oft in Kooperation mit externen Einrichtungen. Weitere Einblicke gibt es auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).
+Die [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren über die Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), oft in Kooperation mit externen Einrichtungen.
+
+Folgen Sie der Universitätsbibliothek auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).
