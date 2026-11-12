@@ -1,15 +1,15 @@
 ---
-title: Fachrecherche Pädagogik und Wirtschaftspädagogik – Literatur, Datenbanken, Services und Kontakt an der UB Mannheim
+title: Fachinformation Pädagogik und Wirtschaftspädagogik – Literatur, Recherche, Beratung und Services der UB Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/paedagogik-und-wirtschaftspaedagogik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/education-and-economic-and-business-education/
 category: Medien
-tags: ['Pädagogik', 'Wirtschaftspädagogik', 'Fachrecherche', 'Datenbanken', 'E-Books', 'Forschungsdaten', 'Kurse', 'Kontakt']
+tags: ['Pädagogik', 'Wirtschaftspädagogik', 'Literaturrecherche', 'Datenbanken', 'E-Books', 'Forschungsdaten', 'Schulungen', 'Fachberatung']
 language: de
 ---
 
 # Pädagogik und Wirtschaftspädagogik an der UB Mannheim
 
-Für das Fach Pädagogik/Wirtschaftspädagogik bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Rechercheeinstiege. Sie können an Kursen teilnehmen oder individuelle Beratung erhalten.
+Für das Fach Pädagogik/Wirtschaftspädagogik bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Rechercheeinstiege. Es stehen individuelle Beratung und regelmäßige Kurse zur Verfügung.
 
 ## Recherchieren
 
@@ -17,25 +17,25 @@ Für das Fach Pädagogik/Wirtschaftspädagogik bietet die Universitätsbibliothe
 
 Datenbanken unterstützen bei der Recherche wissenschaftlicher Literatur, Pressetexte und vielfältiger faktischer Informationen.
 
-- Weitere [Datenbanken zur Pädagogik](https://dbis.ur.de/UBMAN/browse/subjects/30/?availability-filter-free=on&availability-filter-local=on&sort_by=2&ps=25) und zu anderen Fachgebieten finden Sie im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/).
-- Ein Teil der Datenbanken ist nur im Netz der Universität Mannheim oder über [VPN](https://www.bib.uni-mannheim.de/services/internetzugang/) zugänglich.
+- Weitere [Datenbanken zur Pädagogik](https://dbis.ur.de/UBMAN/browse/subjects/30/?availability-filter-free=on&availability-filter-local=on&sort_by=2&ps=25) und zu anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/).
+- Ein Teil der Datenbanken ist nur im Netz der Universität Mannheim zugänglich oder von außerhalb über [VPN](https://www.bib.uni-mannheim.de/services/internetzugang/).
 - Publikationen zu aktuellen PISA-Resultaten finden Sie in der [OECD iLibrary](http://www.oecd-ilibrary.org/education;jsessionid=bxpvrsum59w2.x-oecd-live-02).
 
 ### E-Journals
 
-E-Journals für Pädagogik/Wirtschaftspädagogik finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=D) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+- E-Journals für Pädagogik/Wirtschaftspädagogik finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=D) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### E-Books
 
-Alle an der UB Mannheim verfügbaren E-Books sind über den [Katalog Primo](https://www.bib.uni-mannheim.de/primo/) auffindbar. Besonders umfangreich ist das Angebot des Springer-Verlags im Bereich Pädagogik.
+- Alle an der UB Mannheim verfügbaren E-Books sind über den [Katalog Primo](https://www.bib.uni-mannheim.de/primo/) auffindbar.
+- Besonders umfangreich ist das Angebot des Springer-Verlags im Bereich Pädagogik.
 
 ### Forschungsdaten
 
-Die Veröffentlichung von Forschungsdaten wird zunehmend von Universitäten, Verlagen und Forschungsförderern erwartet.
-
-- Einführung: [forschungsdaten.info](https://www.forschungsdaten.info/) und [Auffinden – Zitieren – Dokumentieren](http://auffinden-zitieren-dokumentieren.de/)
+- Die Veröffentlichung von Forschungsdaten dient der Transparenz und Nachvollziehbarkeit von Forschung und wird zunehmend erwartet.
+- Einführung: [forschungsdaten.info](https://www.forschungsdaten.info/) und die Publikation [„Auffinden – Zitieren – Dokumentieren“](http://auffinden-zitieren-dokumentieren.de/)
 - Repositorien-Suche: [re3data](http://service.re3data.org/search)
-- Internationale Datensatzsuche: [DataCite](http://search.datacite.org/)
+- Internationale Datensatzrecherche: [DataCite](http://search.datacite.org/)
 - An der Universität Mannheim: [MADATA](https://madata.bib.uni-mannheim.de/)
 - Für Pädagogik: [forschungsdaten bildung](http://www.forschungsdaten-bildung.de/) (DIPF)
 
@@ -52,14 +52,14 @@ Relevante Internetquellen im Bereich Pädagogik:
 
 ### Literaturstandorte
 
-- Im Bibliotheksbereich [A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Pädagogik, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal möglich.
+- Im Bibliotheksbereich [A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Pädagogik, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
 - Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Pädagogik, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- In der Lehrbuchsammlung im Ausleihzentrum stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Verfügung.
+- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe für Studierende der Universität Mannheim und kooperierender Einrichtungen bereit.
 - Die gesamte Literatur ist im [Katalog Primo](https://www.bib.uni-mannheim.de/primo/) recherchierbar.
 
 ### Forschungseinrichtungen vor Ort
 
-Forschungseinrichtungen und Lehrstühle im Bereich Pädagogik und Wirtschaftspädagogik an der Universität Mannheim:
+Fach Pädagogik in Mannheim:
 
 - [Zentrum für Lehrerbildung](https://www.uni-mannheim.de/lehrerbildung/zlbi/)
 - [Lehramt Gymnasium – Infoseite](https://www.phil.uni-mannheim.de/studium/lehramtsstudiengaenge/)
@@ -75,7 +75,7 @@ Forschungseinrichtungen und Lehrstühle im Bereich Pädagogik und Wirtschaftspä
 
 ### Journal Ranking
 
-Aktuelle Angaben zu den „Impact Factors“ internationaler Fachzeitschriften finden Sie in den [Journal Citation Reports](https://www.bib.uni-mannheim.de/datenbanken/details/?libconnect%5Btitleid%5D=359) im „Web of Science“ (Kategorie „Education“).
+- Angaben zu „Impact Factors“ internationaler Fachzeitschriften finden Sie in den [Journal Citation Reports](https://www.bib.uni-mannheim.de/datenbanken/details/?libconnect%5Btitleid%5D=359) (im „Web of Science“, Kategorie „Education“ auswählen).
 
 ## Kurse und Tutorials
 
@@ -86,11 +86,12 @@ Die UB bietet regelmäßig Schulungen zur Recherche im Fach Pädagogik/Wirtschaf
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
 **Kurse für Pädagogik und Wirtschaftspädagogik:**
-[Pädagogische Literatur finden: Recherche in Datenbanken](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yu:mw:9h&cmdClass=ilCourseRegistrationGUI&ref_id=1409928) – Ilias-Kurs mit Lernvideos und Materialien zum Selbststudium zur Einführung in die Literaturrecherche in Datenbanken für (Wirtschafts-)Pädagogik.
+
+- [Pädagogische Literatur finden: Recherche in Datenbanken](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yu:mw:9h&cmdClass=ilCourseRegistrationGUI&ref_id=1409928) – Ilias-Kurs mit Lernvideos und Materialien zum Selbststudium zur Einführung in die Literaturrecherche in Datenbanken für (Wirtschafts-)Pädagogik.
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z.B.:
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B.:
 
 - [„Die Technik wissenschaftlichen Arbeitens: eine praktische Anleitung“ von Norbert Franck](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21121999630002561)
 - [„Wissenschaftliches Arbeiten“ von Bänsch/Alewell](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21121983690002561)
@@ -98,7 +99,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 - [„Wissenschaftliches Denken und Arbeiten: eine Einführung und Anleitung für pädagogische Studiengänge“ von Fromm/Paschelke](https://primo.bib.uni-mannheim.de/permalink/f/17313ps/MAN_ALMA21203010630002561)
 - [„Empirisches wissenschaftliches Arbeiten: ein Studienbuch für die Bildungswissenschaft“ von Aeppli et al.](https://primo.bib.uni-mannheim.de/primo-explore/fulldisplay?vid=MAN_UB&docid=MAN_ALMA21180940960002561&context=L&search_scope=MAN_ALMA)
 
-Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
+Die UB unterstützt mit Schulungs- und Beratungsangeboten:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/zitationsverwaltungsprogramme/)
@@ -109,8 +110,19 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 
 Stellvertretende Leiterin der Abteilung Verwaltung, Haushalt, Technik
 Fachreferentin für Pädagogik und Wirtschaftspädagogik
+
+**Aufgaben:**
+
+- Literaturauswahl und -erschließung für die Fächer Pädagogik und Wirtschaftspädagogik
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+
+**Adresse:**
 Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
-Telefon: +49 621 181-3929
-E-Mail: [lorena.abou.warda@uni-mannheim.de](mailto:lorena.abou.warda@uni-mannheim.de)
-Vertretung: [Xiuwen Ye](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/xiuwen-ye/)
+Schloss Schneckenhof West – Raum SN 272
+68161 Mannheim
+
+**Telefon:** +49 621 181-3929
+**E-Mail:** [lorena.abou.warda@uni-mannheim.de](mailto:lorena.abou.warda@uni-mannheim.de)
+
+**Vertretung:** [Xiuwen Ye](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/xiuwen-ye/)

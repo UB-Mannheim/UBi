@@ -73,3 +73,5 @@ Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim bietet Service un
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
 - Telefon: +49 621 181-3055
 - E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
+
+Weitere Informationen zum Bibliotheksbereich A3 finden Sie auf der [Website der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/).
