@@ -139,7 +139,7 @@ Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten
 - [„Wissenschaftliches Arbeiten für Wirtschaftswissenschaftler“ von Daniela Weber](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21100619050002561)
 - [„Wissenschaftliches Arbeiten im Wirtschaftsstudium“ von Gleitsmann/Suthaus](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21135912480002561)
 
-Mehr Anleitungen zur Literatursuche und zum wissenschaftlichen Arbeiten in Ihrem Fachgebiet Betriebswirtschaftslehre finden Sie beim [ZBW](http://www.zbw.eu/recherchieren/recherchetipps/).
+Mehr Anleitungen zur Literatursuche und zum wissenschaftlichen Arbeiten in Ihrem Fachgebiet Betriebswirtschaftslehre finden Sie beim [ZBW](https://www.zbw.eu/de/recherchieren/recherchetipps/).
 Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)

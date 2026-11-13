@@ -89,11 +89,11 @@ Aufgaben:
 
 ### Christos Sidiropoulos, M.Ed.
 
-Referent für Forschungsdatenmanagement (Data Literacy)
+Full-Stack-Web-Entwickler für digitale Kulturerbe-Plattformen (Kitodo und Omeka)
 
 Aufgaben:
 
-- Mitarbeit im Data-Literacy-ProjektMaDaLi²
+- Mitarbeiter im Projekt „Entwicklung von Werkzeugen zur rechtssicheren Präsentation multimedialer Objekte mit Kitodo.Presentation“
 - Technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen
 - Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim

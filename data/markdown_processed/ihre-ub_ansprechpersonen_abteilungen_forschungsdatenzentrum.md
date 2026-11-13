@@ -1,23 +1,24 @@
 ---
-title: Forschungsdatenzentrum der Universitätsbibliothek Mannheim – Team und Kontaktinformationen
+title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Drittmittelprojekte', 'Data Science', 'Open Science', 'Rechtsberatung', 'Data Steward', 'Wissenstransfer']
+tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Drittmittelprojekte', 'Open Science', 'Datenschutz', 'KI', 'Data Science', 'Projektkoordination']
 language: de
 ---
 
 # Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und rechtliche Unterstützung im Bereich Forschungsdatenmanagement sowie die Koordination und Durchführung von Drittmittelprojekten und technischen Entwicklungen.
+Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim Sie gerne.
 
-## Team und Kontakt
+## Ansprechpartner und Aufgabenbereiche
 
 ### Dr. Irene Schumm
 
 **Leiterin der Abteilung Forschungsdatenzentrum**
 
-- Aufgaben: Konzeption, Beantragung, Support und Steuerung von Drittmittelprojekten; Beratung und Schulungen im Bereich Forschungsdatenmanagement
+- Konzeption, Beantragung, Support und Steuerung von Drittmittelprojekten
+- Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
 - Telefon: +49 621 181-2955
 - E-Mail: [irene.schumm@uni-mannheim.de](mailto:irene.schumm@uni-mannheim.de)
@@ -53,7 +54,10 @@ Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei
 
 **Legal Counsel für BERD@NFDI und FDZ**
 
-- Aufgaben: Unterstützung von Forschenden; rechtliche Fragestellungen im FDM-Bereich; Themengebiete Datenschutz, Urheberrecht und Lizenzrecht; BERD Datenschutzkonzept und Plattform Richtlinien
+- Unterstützung von Forschenden
+- Rechtliche Fragestellungen im FDM Bereich
+- Themengebiete: Datenschutz, Urheberrecht und Lizenzrecht
+- BERD Datenschutzkonzept und Plattform Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
@@ -72,7 +76,10 @@ Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei
 
 **Lead Data Scientist | Projektleiter**
 
-- Aufgaben: Strategische Weiterentwicklung des technischen Forschungsdatenmanagements; Beratung von Wissenschaftler\*innen zu Forschungsdatenmanagement, Data Science und KI-Tools; Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI; Vertretung der UB in Gremien
+- Strategische Weiterentwicklung des technischen Forschungsdatenmanagements
+- Beratung von Wissenschaftler\*innen zu Forschungsdatenmanagement, Data Science und KI-Tools
+- Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI
+- Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
 - E-Mail: [renat.kaufmann@uni-mannheim.de](mailto:renat.kaufmann@uni-mannheim.de)
@@ -80,9 +87,11 @@ Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei
 
 ### Christos Sidiropoulos, M.Ed.
 
-**Referent für Forschungsdatenmanagement (Data Literacy)**
+**Full-Stack-Web-Entwickler für digitale Kulturerbe-Plattformen (Kitodo und Omeka)**
 
-- Aufgaben: Mitarbeit im Data-Literacy-Projekt MaDaLi²; technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen; Beratung und Schulungen im Bereich Forschungsdatenmanagement
+- Mitarbeit im Projekt „Entwicklung von Werkzeugen zur rechtssicheren Präsentation multimedialer Objekte mit Kitodo.Presentation“
+- Technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen
+- Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
 - Telefon: +49 621 181-2962
 - E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)
