@@ -48,6 +48,9 @@ Weitere [Datenbanken zur Psychologie](https://dbis.ur.de/UBMAN/browse/subjects/3
 ### E-Journals
 
 Die E-Journals für das Fach Psychologie finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](https://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=CL-CZ) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+**Zugriff auf APA-Journals**
+Zugriff auf die Journals, die von der American Psychological Association (APA) herausgegeben werden, erhalten Sie über die Datenbank [PsycArticles](https://dbis.ur.de/UBMAN/resources/303).
+Alternativ können Sie in unserem [Online-Katalog Primo](https://primo.bib.uni-mannheim.de/) nach dem Namen der Zeitschrift suchen und anschließend dem dort bereitgestellten Link folgen, um einen Überblick über die in der Zeitschrift veröffentlichten Artikel zu erhalten.
 
 
 ### E-Books
@@ -176,6 +179,7 @@ Aufgaben:
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
+- Beratung und Unterstützung bei Systematic Reviews
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
 - Telefon: +49 621 181-3388
 - E-Mail: hendrik.platte@uni-mannheim.de

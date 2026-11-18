@@ -20,14 +20,14 @@ Eine Übersicht an verfügbaren Datenbanken (Aufsatz-, Fakten-, Referenz- und Vo
 Wesentliche [Literatur-Datenbanken](https://dbis.ur.de/UBMAN/browse/subjects/33/) für das Fach Politikwissenschaft sind:
 
 - [Web of Science/Social Sciences Citation Index](https://dbis.uni-regensburg.de/UBMAN/resources/360)Diese Datenbank beinhaltet u. a. Informationen zu den Zitationszahlen eines Artikels und zum Journal Impact Factor einer Zeitschrift.
-- [POLLUX – Informationsdienst Politikwissenschaft](https://dbis.uni-regensburg.de/UBMAN/resources/102480)Registrierte Politikwissenschaftler*innen können über POLLUX u. a. auf den Politikmonitoring- und Analysedienst Polit-X zugreifen.
+- [POLLUX – Informationsdienst Politikwissenschaft](https://dbis.uni-regensburg.de/UBMAN/resources/102480)Mit POLLUX können Sie in über 15 Mio. Veröffentlichungen nach politikwissenschaftlicher Fachliteratur suchen. Registrierte Politikwissenschaftler*innen können über POLLUX u. a. auf den Politikmonitoring- und Analysedienst Polit-X zugreifen.
 - [WISO](https://dbis.uni-regensburg.de/UBMAN/resources/1232)Neben Fachzeitschriften und E-Books aus den Sozial- und Wirtschaftswissenschaften können über die Datenbank auch Zeitungsartikel u. a. aus dem Handelsblatt, der WirtschaftsWoche, DIE ZEIT und Der Spiegel abgerufen werden.
 
 
 - Diese Datenbank beinhaltet u. a. Informationen zu den Zitationszahlen eines Artikels und zum Journal Impact Factor einer Zeitschrift.
 
 
-- Registrierte Politikwissenschaftler*innen können über POLLUX u. a. auf den Politikmonitoring- und Analysedienst Polit-X zugreifen.
+- Mit POLLUX können Sie in über 15 Mio. Veröffentlichungen nach politikwissenschaftlicher Fachliteratur suchen. Registrierte Politikwissenschaftler*innen können über POLLUX u. a. auf den Politikmonitoring- und Analysedienst Polit-X zugreifen.
 
 
 - Neben Fachzeitschriften und E-Books aus den Sozial- und Wirtschaftswissenschaften können über die Datenbank auch Zeitungsartikel u. a. aus dem Handelsblatt, der WirtschaftsWoche, DIE ZEIT und Der Spiegel abgerufen werden.
@@ -62,6 +62,8 @@ Für die Politikwissenschaft relevante Statistikdatenbanken sind z. B.
 - [PolData](https://github.com/erikgahner/PolData): Eine Sammlung von Datensätzen für die Politikwissenschaft
 - [ICPSR](https://dbis.ur.de/ALL/resources/3668): Inter-University Consortium for Political and Social Research
 - [C](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=100343&cHash=63b1e58ebd8eac5307491b14b8f8e96b)[NTS Data Archive](https://dbis.ur.de/UBMAN/resources/100343): Daten auf Länderebene
+- [Polit-X](https://pollux-fid.de/politx): Analyse politischer Debatten und Akteure mit tagesaktuellen politischen Dokumenten (Zugang nur als registrierte:r Politikwissenschaftler:in über POLLUX)
+- [PoliCorp](https://policorp.pollux-fid.de/): [PoliCorp](https://policorp.pollux-fid.de/) (Pollux Political Corpora) ist eine offene Forschungsdatenbank zur Suche und Analyse von Plenardebatten des Deutschen Bundestags ab 1949 und Reden aus allen 16 deutschen Landtagen von 2000 bis 2023.
 - [Statista](https://dbis.ur.de/UBMAN/resources/9808): Statistiken aus den Bereichen Politik und Wirtschaft
 - [GENESIS-Online](https://dbis.ur.de/ALL/resources/922): Das statistische Informationssystem des Statistischen Bundesamts
 - [GESIS Datensuche](https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D): Forschungsdatensammlung des Leibniz Instituts für Sozialwissenschaften
@@ -153,6 +155,7 @@ Aufgaben:
 - Mitarbeit im Open Science Office
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
+- Beratung und Unterstützung bei Systematic Reviews
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
 - Telefon: +49 621 181-3388
 - E-Mail: hendrik.platte@uni-mannheim.de

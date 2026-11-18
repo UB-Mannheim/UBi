@@ -415,6 +415,12 @@ Aufgaben:
 ### Xiuwen Ye, M.Sc.
 
 Fachreferentin für Wirtschaftswissenschaften
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die FächerBetriebswirtschaftslehreundVolkswirtschaftslehre
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 - Telefon: +49 621 181-3753
 - E-Mail: xiuwen.ye@uni-mannheim.de
