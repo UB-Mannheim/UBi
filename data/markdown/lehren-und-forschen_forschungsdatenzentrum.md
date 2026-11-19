@@ -67,11 +67,6 @@ Jeden vierten Donnerstag im Monat von 14:00 bis 15:00 Uhr findet eine offene FDZ
 ### Dr. Irene Schumm
 
 Leiterin der Abteilung Forschungsdatenzentrum
-
-Aufgaben:
-
-- Konzeption, Beantragung, Support und Steuerung von Drittmittelprojekten
-- Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
 - Telefon: +49 621 181-2955
 - E-Mail: irene.schumm@uni-mannheim.de
@@ -107,13 +102,6 @@ Open Science Officer | Referent für Forschungsdatenmanagement (Sozialwissenscha
 ### Vasilka Paunova, LL.M.
 
 Legal Counsel für BERD@NFDI und FDZ
-
-Aufgaben:
-
-- Unterstützung von Forschenden
-- Rechtliche Fragestellungen im FDM Bereich
-- Themengebiete Datenschutz, Urheberrecht und Lizenzrecht
-- BERD Datenschutzkonzept und Plattform Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: vasilka.paunova@uni-mannheim.de
@@ -132,13 +120,6 @@ Data Steward und Data Scientist für BERD@NFDI | Projektkoordination AiDaLi
 ### Dr. Renat Kaufmann
 
 Lead Data Scientist | Projektleiter
-
-Aufgaben:
-
-- Strategische Weiterentwicklung des technischen Forschungsdatenmanagements
-- Beratung von Wissenschaftler*innen zu Forschungsdatenmanagement, Data Science und KI-Tools
-- Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI
-- Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
 - E-Mail: renat.kaufmann@uni-mannheim.de
@@ -148,12 +129,6 @@ Aufgaben:
 ### Christos Sidiropoulos, M.Ed.
 
 Full-Stack-Web-Entwickler für digitale Kulturerbe-Plattformen (Kitodo und Omeka)
-
-Aufgaben:
-
-- Mitarbeiter im Projekt „Entwicklung von Werkzeugen zur rechtssicheren Präsentation multimedialer Objekte mit Kitodo.Presentation“
-- Technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen
-- Beratung und Schulungen im Bereich Forschungsdatenmanagement
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
 - Telefon: +49 621 181-2962
 - E-Mail: christos.sidiropoulos@uni-mannheim.de
