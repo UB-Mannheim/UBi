@@ -1,9 +1,9 @@
 ---
-title: Fachreferentinnen und Fachreferenten der Universitätsbibliothek Mannheim – Zuständigkeiten und Kontakte für fachliche Recherche
+title: Fachreferentinnen und Fachreferenten der Universitätsbibliothek Mannheim – Fachliche Recherche und Kontaktinformationen
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/
 category: Kontakt
-tags: ['Fachreferate', 'Rechercheberatung', 'Kontakt', 'Fachgebiete', 'Universitätsbibliothek', 'Schulungen', 'Literaturauswahl', 'Datenbanken']
+tags: ['Fachreferenten', 'Fachberatung', 'Fachliche Recherche', 'Kontakt', 'Universitätsbibliothek', 'Fachgebiete', 'Literaturrecherche', 'Datenbanken']
 language: de
 ---
 
@@ -15,8 +15,9 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 
 ### Dr. Annette Klein
 
-Stellvertretende Direktorin der Universitätsbibliothek | Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Allgemeines
-
+- Stellvertretende Direktorin der Universitätsbibliothek
+- Leiterin der Abteilung Medienbearbeitung
+- Fachreferentin für Allgemeines
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 279, 68161 Mannheim
 - Telefon: +49 621 181-2975
 - E-Mail: [annette.klein@uni-mannheim.de](mailto:annette.klein@uni-mannheim.de)
@@ -24,90 +25,65 @@ Stellvertretende Direktorin der Universitätsbibliothek | Leiterin der Abteilung
 
 ### Xiuwen Ye, M.Sc.
 
-Fachreferentin für Wirtschaftswissenschaften (Betriebswirtschaftslehre und Volkswirtschaftslehre)
-
-**Aufgaben:**
-
-- Literaturauswahl und -erschließung für Betriebswirtschaftslehre und Volkswirtschaftslehre
-
-- Fachliche Beratung bei Recherchefragen
-
-- Durchführung von Schulungen im Fachbereich
-
+- Fachreferentin für Wirtschaftswissenschaften:
+  - Betriebswirtschaftslehre
+  - Volkswirtschaftslehre
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
-
 - Telefon: +49 621 181-3753
-
 - E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
-
-**Zuständig für:**
-
-- [Betriebswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/)
-- [Volkswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/volkswirtschaftslehre/)
 
 ### Dr. Philipp Zumstein
 
-Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für Mathematik und (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
-
-**Aufgaben:**
-
-- Literaturauswahl und -erschließung für Mathematik und Informatik
-
-- Fachliche Beratung bei Recherchefragen
-
-- Beratung zu Publizieren, Open Access und Forschungsunterstützung
-
-- Durchführung von Schulungen im Fachbereich
-
+- Leiter der Abteilung Publikationsservices und Forschungsunterstützung
+- Fachreferent für Mathematik und (Wirtschafts-)Informatik
+- Open-Access-Beauftragter der Universität Mannheim
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
-
 - Telefon: +49 621 181-3006
-
 - E-Mail: [philipp.zumstein@uni-mannheim.de](mailto:philipp.zumstein@uni-mannheim.de)
-
 - ORCID: [0000-0002-6485-9434](https://orcid.org/0000-0002-6485-9434)
-
-**Zuständig für:**
-
-- [Mathematik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/mathematik-und-informatik/)
-- [Informatik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/mathematik-und-informatik/)
 
 ### Lorena Abou-Warda, M.Sc.
 
-Stellvertretende Leiterin der Abteilung Verwaltung, Haushalt, Technik | Fachreferentin für Pädagogik und Wirtschaftspädagogik
-
+- Stellvertretende Leiterin der Abteilung Verwaltung, Haushalt, Technik
+- Fachreferentin für Pädagogik und Wirtschaftspädagogik
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 - Telefon: +49 621 181-3929
 - E-Mail: [lorena.abou.warda@uni-mannheim.de](mailto:lorena.abou.warda@uni-mannheim.de)
 
-**Zuständig für:**
-
-- [Pädagogik und Wirtschaftspädagogik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/paedagogik-und-wirtschaftspaedagogik/)
-
 ### Dr. Marion von Francken-Welz
 
-Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Rechtswissenschaft
-
-**Aufgaben:**
-
-- Literaturauswahl und -erschließung für Rechtswissenschaft
-
-- Fachliche Beratung bei Recherchefragen
-
-- Durchführung von Schulungen im Fachbereich
-
-- Unterstützung bei urheberrechtlichen Fragen
-
+- Stellvertretende Leiterin der Abteilung Medienbearbeitung
+- Fachreferentin für Rechtswissenschaft
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
-
 - Telefon: +49 621 181-3024
-
 - E-Mail: [marion.francken-welz@uni-mannheim.de](mailto:marion.francken-welz@uni-mannheim.de)
 
-**Zuständig für:**
+## Fachgebiete und zugehörige Fachreferentinnen und Fachreferenten
 
-- [Rechtswissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/rechtswissenschaft/)
+| Fachgebiet | Fachreferentin/Fachreferent | Weitere Informationen |
+|-----------------------------------------------|-------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Allgemeines | Dr. Annette Klein | [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) |
+| Anglistik/Amerikanistik | Dr. Rudolf Nink, M.A. | [Anglistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/) |
+| Allgemeine Sprach- und Literaturwissenschaft | Dr. Rudolf Nink, M.A. | [Allgemeine Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/) |
+| Germanistik | Dr. Rudolf Nink, M.A. | [Germanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/germanistik/) |
+| Philosophie | Dr. Rudolf Nink, M.A. | [Philosophie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/philosophie/) |
+| Betriebswirtschaftslehre | Xiuwen Ye, M.Sc. | [Betriebswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/) |
+| Volkswirtschaftslehre | Xiuwen Ye, M.Sc. | [Volkswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/volkswirtschaftslehre/) |
+| Geschichte | Viktor Boecking, M.A. | [Geschichte](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/geschichte/) |
+| Mathematik | Dr. Philipp Zumstein | [Mathematik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/mathematik-und-informatik/) |
+| (Wirtschafts-)Informatik | Dr. Philipp Zumstein | [Informatik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/mathematik-und-informatik/) |
+| Medien- und Kommunikationswissenschaft | Ellis Kolb | [Medien- und Kommunikationswissenschaften](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/medien-und-kommunikationswissenschaft/) |
+| Pädagogik und Wirtschaftspädagogik | Lorena Abou-Warda, M.Sc. | [Pädagogik und Wirtschaftspädagogik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/paedagogik-und-wirtschaftspaedagogik/) |
+| Politikwissenschaft | Dr. Hendrik Platte | [Politikwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/politikwissenschaft/) |
+| Soziologie | Dr. Hendrik Platte | [Soziologie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/soziologie/) |
+| Psychologie | Dr. Hendrik Platte | [Psychologie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/psychologie/) |
+| Rechtswissenschaft | Dr. Marion von Francken-Welz | [Rechtswissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/rechtswissenschaft/) |
+| Romanistik | Dr. Jordi Murcia Serra | [Romanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/) |
+| Sprachpraxis | Dr. Jordi Murcia Serra | |
+
+______________________________________________________________________
 
 ## Hinweise
 
-Für alle Fächer werden Literatur, Datenbanken, weitere Sucheinstiege sowie fachspezifische Recherchekurse angeboten. Die Fachreferentinnen und Fachreferenten beraten individuell und führen Schulungen durch. Bitte wenden Sie sich bei Fragen direkt an die zuständige Kontaktperson für Ihr Fachgebiet.
+- Für individuelle Auskünfte oder Beratungen zu den jeweiligen Fachgebieten wenden Sie sich bitte direkt an die zuständigen Fachreferentinnen und Fachreferenten.
+- Weitere Informationen und Rechercheeinstiege finden Sie auf den jeweiligen Fachseiten der Universitätsbibliothek Mannheim.
