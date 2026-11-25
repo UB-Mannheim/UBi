@@ -4802,8 +4802,6 @@ Shibboleth ermöglicht den Zugang zu lizenzierten E-Books, E-Journals und Datenb
 
 Weitere Informationen und eine aktuelle Übersicht finden Sie auf der [Website der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/).
 
-## Shibboleth-Zugang zu digitalen Medien
-
 ## Shibboleth-Zugang zu lizenzierten E-Medien
 
 Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren **Shibboleth** nutzen, um von außerhalb des Campus komfortabel auf digitale Medien zuzugreifen – ohne VPN.
@@ -4875,3 +4873,75 @@ Als Angehörige der Universität Mannheim wählen Sie auf der jeweiligen Anbiete
 - World Scientific Publishing
 
 Weitere Informationen finden Sie auf der [Shibboleth-Seite der Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/).
+
+## Shibboleth-Zugang zu digitalen Medien
+
+## Shibboleth-Zugang zu lizenzierten E-Medien
+
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren **Shibboleth** nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ganz ohne VPN.
+
+Shibboleth ermöglicht den Zugang zu lizenzierten elektronischen Angeboten auf Plattformen von Verlagen oder anderen Anbietern. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet. Wählen Sie dort die Universität Mannheim aus einer Liste aus und melden Sie sich anschließend mit Ihrer Uni-ID über die Anmeldemaske der Universität an.
+
+**Hinweis:** Nicht alle Anbieter unterstützen Shibboleth. Der Zugang ist aktuell über die Universitätsbibliothek Mannheim auf den unten aufgeführten Plattformen möglich.
+
+### Anbieter mit Shibboleth-Zugang
+
+- American Institute of Physics
+- Annual Reviews
+- Brepols
+- Brill
+- Bristol University Press
+- Brockhaus
+- CAIRN
+- Cambridge University Press
+- Content-Select
+- Ebsco
+- Edward Elgar Publishing
+- Elsevier
+- Emerald
+- Erich Schmidt Verlag (ESV)
+- F.A.Z.-Bibliotheksportal
+- Franz Steiner Verlag
+- Hanser eLibrary
+- HeinOnline
+- Highwire Press
+- Hogrefe E-Books und Zeitschriften
+- IEEE
+- Informs
+- Ingentaconnect
+- Inlibra
+- Institute of Physics
+- John Benjamins
+- JSTOR
+- Karger
+- Mark Allen Group
+- Mary Ann Liebert
+- Meiner
+- MIT Press
+- Mohr Siebeck
+- Munzinger
+- Narr
+- Nature
+- OECD
+- Oxford University Press Journals
+- Pearson
+- ProQuest Ebook Central
+- ReDI
+- RSC
+- Sage Publications
+- Science
+- SIAM
+- Springer
+- Statista
+- Taylor & Francis Ebooks
+- Taylor & Francis Journals
+- Tectum eLibrary
+- University of Toronto Press
+- UTB
+- Vandenhoeck & Ruprecht
+- Walter de Gruyter
+- Web of Science
+- Wiley
+- World Scientific Publishing
+
+**Beispiel:** Bei Cambridge University Press wählen Sie im Login-Bereich „Institutionelles Login“ und anschließend „Universität Mannheim“ aus, um sich mit Ihrer Uni-ID anzumelden.
