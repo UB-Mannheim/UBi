@@ -45,7 +45,7 @@ E-Mail: [ausleihe.ub@uni-mannheim.de](mailto:ausleihe.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-#### Teamleitung
+#### Teamleitung Ausleihe und Fernleihe
 
 ##### Michael Wagner
 
@@ -63,6 +63,4 @@ E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
 
 #### Kontakt für Ausleihe und Fernleihe
 
-Für alle Fragen rund um die Ausleihe und Fernleihe wenden Sie sich bitte an das Team Ausleihe und Fernleihe der Universitätsbibliothek Mannheim.
-E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
-Telefon: +49 621 181-3166 (Teamleitung), +49 621 181-2720 (stellvertretende Teamleitung)
+Für alle Fragen rund um die Ausleihe und Fernleihe wenden Sie sich bitte an das Team Ausleihe und Fernleihe der Universitätsbibliothek Mannheim. Die Teamleitung und die stellvertretende Teamleitung stehen Ihnen als Ansprechpartner zur Verfügung.
