@@ -1,15 +1,15 @@
 ---
-title: Ansprechpartner und Team für BERD@NFDI an der Universitätsbibliothek Mannheim
+title: BERD@NFDI – Team und Kontaktinformationen der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/berdnfdi/
 category: Kontakt
-tags: ['BERD@NFDI', 'Forschungsdaten', 'Projektteam', 'Datenmanagement', 'Data Science', 'Rechtsberatung', 'Informationskompetenz', 'Universitätsbibliothek']
+tags: ['BERD@NFDI', 'Forschungsdatenmanagement', 'Data Science', 'Projektmanagement', 'Rechtsberatung', 'Informationskompetenz', 'Publikationsdienste', 'Universitätsbibliothek']
 language: de
 ---
 
-# Ansprechpartner und Team für BERD@NFDI
+# BERD@NFDI – Team und Kontakt
 
-Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende im Bereich Business, Economic and Related Data (BERD) im Rahmen der Nationalen Forschungsdateninfrastruktur (NFDI). Die folgenden Ansprechpersonen stehen für verschiedene Aufgabenbereiche zur Verfügung:
+Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Forschende in den Bereichen Forschungsdatenmanagement, Data Science, KI, Recht, Informationskompetenz und Publikationsdienste. Nachfolgend finden Sie die zentralen Ansprechpartner\*innen und deren Aufgabenbereiche.
 
 ## Teammitglieder und Aufgabenbereiche
 
@@ -35,6 +35,10 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 
 **Lead Data Scientist | Projektleiter**
 
+- Strategische Weiterentwicklung des technischen Forschungsdatenmanagements
+- Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools
+- Konzeption, Beantragung, Durchführung und Koordination von Projekten im Bereich Data Science und KI
+- Vertretung der UB in Gremien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
 - E-Mail: [renat.kaufmann@uni-mannheim.de](mailto:renat.kaufmann@uni-mannheim.de)
@@ -44,6 +48,10 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 
 **Legal Counsel für BERD@NFDI und FDZ**
 
+- Unterstützung von Forschenden
+- Rechtliche Fragestellungen im FDM-Bereich
+- Themengebiete: Datenschutz, Urheberrecht, Lizenzrecht
+- BERD Datenschutzkonzept und Plattform-Richtlinien
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
@@ -53,6 +61,13 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 
 **Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI | Projektmitarbeiter AiDaLi**
 
+- Literaturauswahl und -erschließung für das Fach Romanistik
+- Auswahl und Erschließung von Sprachlernmaterialien
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Betreuung des Bereichs Informationskompetenz und E-Learning
+- Education & Training im Projekt BERD@NFDI
+- Mitarbeit im Projekt AiDaLi
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
 - E-Mail: [jordi.murcia.serra@uni-mannheim.de](mailto:jordi.murcia.serra@uni-mannheim.de)
@@ -69,6 +84,11 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 
 **Fachreferat Medien- und Kommunikationswissenschaft | Education & Training für BERD@NFDI | Publikationsdienste und Forschungsunterstützung**
 
+- Literaturauswahl und -erschließung für das Fach Medien- und Kommunikationswissenschaft
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Education & Training im Projekt BERD@NFDI
+- Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-3958
 - E-Mail: [ellis.kolb@uni-mannheim.de](mailto:ellis.kolb@uni-mannheim.de)
@@ -81,7 +101,3 @@ Das Team von BERD@NFDI an der Universitätsbibliothek Mannheim unterstützt Fors
 - Telefon: +49 621 181-2954
 - E-Mail: [thomas.schmidt@uni-mannheim.de](mailto:thomas.schmidt@uni-mannheim.de)
 - ORCID: [0000-0003-3620-3355](https://orcid.org/0000-0003-3620-3355)
-
-## Weitere Informationen
-
-Weitere Details zum Projekt BERD@NFDI finden Sie auf der offiziellen Webseite: [www.berd-nfdi.de](http://www.berd-nfdi.de)

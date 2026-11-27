@@ -67,13 +67,6 @@ Bei Fragen unterstützen wir Sie gerne: publikationsdienste@uni-mannheim.de.
 ### Dr. Philipp Zumstein
 
 Open-Access-Beauftragter der Universität Mannheim
-
-Aufgaben:
-
-- Literaturauswahl und -erschließung für die Fächer Mathematik und Informatik
-- Fachliche Beratung bei Recherchefragen
-- Beratung bei Fragen zu Publizieren, Open Access und Forschungsunterstützung
-- Durchführung von Schulungen im Fachbereich
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
 - E-Mail: philipp.zumstein@uni-mannheim.de

@@ -69,7 +69,7 @@ Der Publish and Read Vertrag mit dem Verlag De Gruyter bringt neben dem Zugriff 
 
 - Sie sind zum Zeitpunkt der Annahme mit der Universität Mannheim affiliiert.
 - Sie sind für den Artikel als „corresponding author“ zuständig.
-- Der Artikel wird zwischen dem 1. Januar 2022 und dem 31. Dezember 2026 zur Publikation angenommen.
+- Der Artikel wird zwischen dem 1. Januar 2022 und dem 31. Dezember 2027 zur Publikation angenommen.
 
 **Hybrides Open Access**
 Als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim können Sie in den [Geistes- und Sozialwissenschaftlichen (Humanities and Social Sciences) (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/DGB_25/Documents/OA-Journals/DE_HSS_journals_list_2025.docx.pdf)[ Zeitschriften (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/DE_HSS_journalslist2025.pdf) und dem Großteil (Publish & Read) der[ Wirtschaftswissenschaftlichen Zeitschriften  (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/DGB_25/Documents/OA-Journals/DE_Economics_journals_list_2026.docx.pdf)unter den oben genannten Voraussetzungen ohne weitere Kosten im Open Access veröffentlichen.
@@ -96,7 +96,7 @@ Für Publikationen in reinen Open-Access-Zeitschriften können Sie zusätzlich e
 
 ### Emerald
 
-Im Rahmen des Publish and Read Vertrags mit dem Verlag Emerald können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim ohne weitere Kosten im Open Access sowohl in hybriden als auch in reinen (Gold) Open Access Zeitschriften des Verlags sowie auf der Emerald Open Research Plattform publizieren. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. Januar 2023 und dem 31. Dezember 2026 zur Publikation angenommen wurde.
+Im Rahmen des Publish and Read Vertrags mit dem Verlag Emerald können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim ohne weitere Kosten im Open Access sowohl in hybriden als auch in reinen (Gold) Open Access Zeitschriften des Verlags sowie auf der Emerald Open Research Plattform publizieren. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. Januar 2023 und dem 31. Dezember 2027 zur Publikation angenommen wurde.
 Verwenden Sie beim Einreichungsprozess die E-Mail-Adresse der Universität. Damit werden Sie als berechtigt identifiziert und erhalten einen Voucher für die OA Publikation.
 **Weitere Informationen**
 [Emerald Publishing open access publishing agreements](https://www.emeraldgrouppublishing.com/publish-with-us/publish-open-access/open-access-publishing-agreements)
@@ -104,7 +104,7 @@ Verwenden Sie beim Einreichungsprozess die E-Mail-Adresse der Universität. Dami
 
 ### Frontiers
 
-Im Rahmen des Konsortialvertrags mit dem Verlag Frontiers können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim in allen Zeitschriften des Verlages publizieren, ohne dass Ihnen dabei Publikationsgebühren anfallen. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. April 2024 und dem 31. Dezember 2026 zur Publikation angenommen wurde.
+Im Rahmen des Konsortialvertrags mit dem Verlag Frontiers können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim in allen Zeitschriften des Verlages publizieren, ohne dass Ihnen dabei Publikationsgebühren anfallen. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. April 2024 und dem 31. Dezember 2027 zur Publikation angenommen wurde.
 Wählen Sie dafür beim Einreichungsprozess die Universität Mannheim als Einrichtung aus.
 Ein Antrag auf die Übernahme aus dem Open-Access-Publikationsfonds ist für den Zeitraum des Konsortialvertrags nicht nötig.
 [Zeitschriftenliste Frontiers](https://www.frontiersin.org/about/journals-a-z)
@@ -112,7 +112,7 @@ Ein Antrag auf die Übernahme aus dem Open-Access-Publikationsfonds ist für den
 
 ### Hogrefe (PsyJOURNALS)
 
-Im Rahmen der Hogrefe Publish and Read Vereinbarung können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim in laufenden und online verfügbaren psychologischen Fachzeitschriften (PsyJOURNALS) des Verlags direkt im Open Access publizieren, ohne dass Ihnen dabei Kosten entstehen. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. Januar 2021 und dem 31. Dezember 2026 veröffentlicht wird.
+Im Rahmen der Hogrefe Publish and Read Vereinbarung können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim in laufenden und online verfügbaren psychologischen Fachzeitschriften (PsyJOURNALS) des Verlags direkt im Open Access publizieren, ohne dass Ihnen dabei Kosten entstehen. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. Januar 2021 und dem 31. Dezember 2029 veröffentlicht wird.
 Um diese Publikationsmöglichkeit zu nutzen, füllen Sie das Open Access Freigabe-Formular aus und wählen Sie die entsprechende Lizenz. Das Formular wird Ihnen bei Akzeptanz des Artikels vom Hogrefe Verlag zugeschickt. Als Lizenz empfehlen wir die Creative Commons Attribution License (CC-BY) ohne weitere Einschränkungen, da sie mit den Anforderungen vieler Forschungsförderer konform ist.
 [Liste der unter die Vereinbarung fallenden Titel sowie die wichtigsten Punkte zur Einreichung](https://www.hogrefe.com/de/service/fuer-autoren/zeitschriftenautoren/openmind/transformation-faq-fuer-autorinnen)
 Darüber hinaus erhalten Sie im Rahmen der Hogrefe Publish and Read Vereinbarung einen direkten Lesezugriff auf alle laufenden sowie im Archiv verfügbaren psychologischen Fachzeitschriften des Verlags (PsyJOURNALS).
